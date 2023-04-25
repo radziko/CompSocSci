@@ -1,0 +1,3269 @@
+{
+ "alternate_names": [
+  "SMALL DARK ONE",
+  "DARKIE"
+ ],
+ "api_path": "/artists/1614464",
+ "description": {
+  "plain": "Joshua Jagan Hamilton (b. October 6, 1998), better known by his stage name Lil Darkie, is a rapper, producer, artist, and animator. He was the leader of the now disbanded Spider Gang collective.\n\nLil Darkie started making music approximately around 2016, under the alias Brahman, a reference to the Brahma, the Indian god of creation.\n\nJoshua is known for the loud, experimental music he makes. He is mostly unknown in the mainstream, but he recently gained a lot more attention and fame off of TikTok when his songs, \u201cGENOCIDE\u201d and \u201cHAHA\u201d went viral on the video-sharing platform,"
+ },
+ "facebook_name": null,
+ "followers_count": 888,
+ "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+ "id": 1614464,
+ "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+ "instagram_name": "lildvrkie",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Lil Darkie",
+ "translation_artist": false,
+ "twitter_name": "lildvrkie",
+ "url": "https://genius.com/artists/Lil-darkie",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 5893,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2231788,
+  "annotator_login": "SomeRandomDuder",
+  "api_path": "/referents/15638135",
+  "classification": "accepted",
+  "fragment": "Lil Darkie",
+  "id": 15638135,
+  "is_description": true,
+  "path": "/15638135/Lil-darkie/Lil-darkie",
+  "range": {
+   "content": "Lil Darkie"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15638135/Lil-darkie/Lil-darkie",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1614464",
+   "context": null,
+   "id": 1614464,
+   "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+   "link_title": "Lil Darkie",
+   "title": "Lil Darkie",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lil-darkie"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15638135",
+    "body": {
+     "plain": "Joshua Jagan Hamilton (b. October 6, 1998), better known by his stage name Lil Darkie, is a rapper, producer, artist, and animator. He was the leader of the now disbanded Spider Gang collective.\n\nLil Darkie started making music approximately around 2016, under the alias Brahman, a reference to the Brahma, the Indian god of creation.\n\nJoshua is known for the loud, experimental music he makes. He is mostly unknown in the mainstream, but he recently gained a lot more attention and fame off of TikTok when his songs, \u201cGENOCIDE\u201d and \u201cHAHA\u201d went viral on the video-sharing platform,"
+    },
+    "comment_count": 9,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 15638135,
+    "pinned": false,
+    "share_url": "https://genius.com/15638135",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/15638135/Lil-darkie/Lil-darkie",
+    "verified": false,
+    "votes_total": 215,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.2577319587628866,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4907068",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bf4011ebc72944f57d2bb618d032dc08",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bf4011ebc72944f57d2bb618d032dc08",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bf4011ebc72944f57d2bb618d032dc08",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bf4011ebc72944f57d2bb618d032dc08",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/bf4011ebc72944f57d2bb618d032dc08",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4907068,
+       "iq": 321,
+       "login": "prodacm",
+       "name": "prodacm",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/prodacm",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1443298969072165,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6839766",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a1a2c2a4bebcb27ee35b9862164719ca",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a1a2c2a4bebcb27ee35b9862164719ca",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a1a2c2a4bebcb27ee35b9862164719ca",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a1a2c2a4bebcb27ee35b9862164719ca",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/91e9c10f3769be77844941bd007452a4.500x500x1.png",
+       "human_readable_role_for_display": "Editor",
+       "id": 6839766,
+       "iq": 88382,
+       "login": "Xtal",
+       "name": "Leliel",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Xtal",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10309278350515465,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3331529",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/cbcc980182d229c22ca3bc6ec01a12fb",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/cbcc980182d229c22ca3bc6ec01a12fb",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/cbcc980182d229c22ca3bc6ec01a12fb",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/cbcc980182d229c22ca3bc6ec01a12fb",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wzpq4vl0qr",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3331529,
+       "iq": 40883,
+       "login": "GradeABass",
+       "name": "GradeABass",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/GradeABass",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10309278350515465,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4469304",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a2de78d05fd8fa811212cc63f9344b5a.700x652x1.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4469304,
+       "iq": 744081,
+       "login": "blustery",
+       "name": "blustery",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/blustery",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0824742268041237,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2231788",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/00eb5f5d267641084475482b50788814",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/00eb5f5d267641084475482b50788814",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/00eb5f5d267641084475482b50788814",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/00eb5f5d267641084475482b50788814",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/00eb5f5d267641084475482b50788814",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2231788,
+       "iq": 14332,
+       "login": "SomeRandomDuder",
+       "name": "SomeRandomDuder",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SomeRandomDuder",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.061855670103092786,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6655389",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/317c06976a7db5088b42ae3da446c4db",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/317c06976a7db5088b42ae3da446c4db",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/317c06976a7db5088b42ae3da446c4db",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/317c06976a7db5088b42ae3da446c4db",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/doki090o9oa",
+       "human_readable_role_for_display": "Editor",
+       "id": 6655389,
+       "iq": 10580,
+       "login": "doobiexyz",
+       "name": "doobiexyz",
+       "role_for_display": "editor",
+       "url": "https://genius.com/doobiexyz",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.061855670103092786,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14766379",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/77a85d030094b5eb8904d1231a69436d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/77a85d030094b5eb8904d1231a69436d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/77a85d030094b5eb8904d1231a69436d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/77a85d030094b5eb8904d1231a69436d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fuyed68a46m",
+       "human_readable_role_for_display": "Contributor",
+       "id": 14766379,
+       "iq": 1287,
+       "login": "xangorf",
+       "name": "xangorf",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/xangorf",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.051546391752577324,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7018009",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/69415a1155619d7dc736e951051eff81",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/69415a1155619d7dc736e951051eff81",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/69415a1155619d7dc736e951051eff81",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/69415a1155619d7dc736e951051eff81",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f7079cdebd55550b0c37eaaf51a05525.127x80x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 7018009,
+       "iq": 200945,
+       "login": "mat",
+       "name": "\u200bmat",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/mat",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.051546391752577324,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8123065",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/creby9hw4n7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/creby9hw4n7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/creby9hw4n7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/creby9hw4n7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7nodpq9q2d3",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8123065,
+       "iq": 52825,
+       "login": "AkogesBiggestFan",
+       "name": "AkogesBiggestFan",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/AkogesBiggestFan",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04123711340206185,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/15673539",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a81598cac3d0c3679199d6089ea083e6",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a81598cac3d0c3679199d6089ea083e6",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a81598cac3d0c3679199d6089ea083e6",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a81598cac3d0c3679199d6089ea083e6",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a81598cac3d0c3679199d6089ea083e6",
+       "human_readable_role_for_display": "Contributor",
+       "id": 15673539,
+       "iq": 1035,
+       "login": "ARIELALICEA",
+       "name": "ARIELALICEA",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ARIELALICEA",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.020618556701030924,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5598907",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/05d67bab058073e53d408ed7deba682e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/05d67bab058073e53d408ed7deba682e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/05d67bab058073e53d408ed7deba682e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/05d67bab058073e53d408ed7deba682e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a381c10e7733d8dcc91fca3ba00acd15.1000x563x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 5598907,
+       "iq": 58410,
+       "login": "Broinator",
+       "name": "Broinator",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Broinator",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.020618556701030924,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4493006",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c29e109ebe1ae9eb26d31de597ccc5c1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c29e109ebe1ae9eb26d31de597ccc5c1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c29e109ebe1ae9eb26d31de597ccc5c1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c29e109ebe1ae9eb26d31de597ccc5c1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/deg1dwtoihk",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4493006,
+       "iq": 23560,
+       "login": "krazyken",
+       "name": "krazyken",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/krazyken",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/8547924",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/0cd6fa38257b45c13503efa47572f66f",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/0cd6fa38257b45c13503efa47572f66f",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/0cd6fa38257b45c13503efa47572f66f",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/0cd6fa38257b45c13503efa47572f66f",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 8547924,
+  "iq": 5893,
+  "login": "lildarkie",
+  "name": "Lil Darkie",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/lildarkie",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 41,
+   "api_path": "/songs/4569874",
+   "artist_names": "Lil Darkie",
+   "full_title": "GENOCIDE by\u00a0Lil\u00a0Darkie",
+   "header_image_thumbnail_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.300x300x1.png",
+   "header_image_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.1000x1000x1.png",
+   "id": 4569874,
+   "language": "en",
+   "lyrics_owner_id": 7018009,
+   "lyrics_state": "complete",
+   "path": "/Lil-darkie-genocide-lyrics",
+   "pyongs_count": 59,
+   "relationships_index_url": "https://genius.com/Lil-darkie-genocide-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 20
+   },
+   "release_date_for_display": "May 20, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 20, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 10,
+    "contributors": 135,
+    "iq_earners": 135,
+    "transcribers": 3,
+    "unreviewed_annotations": 30,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 533220
+   },
+   "title": "GENOCIDE",
+   "title_with_featured": "GENOCIDE",
+   "url": "https://genius.com/Lil-darkie-genocide-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1614464",
+    "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+    "id": 1614464,
+    "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lil Darkie",
+    "url": "https://genius.com/artists/Lil-darkie",
+    "iq": 5893
+   },
+   "apple_music_id": "1493473046",
+   "apple_music_player_url": "https://genius.com/songs/4569874/apple_music_player",
+   "description": {
+    "plain": "On \u201cGENOCIDE,\u201d Darkie deals with the animosity he  has received recently, mainly based around his track \u201cHOLOCAUST,\u201d alongside his recent ban from Instagram, it\u2019s likely the ban was received because of \u201cHOLOCAUST\u201d\u2013in the SoundCloud description of the track, Darkie said:\n\nIMMA SAY THIS CUZ IG KEEP FLAGGING ME\nNO I NOT A NAZI. I\u2019M A LOVE NAZI.\nAS IN I FORCEFULLY SPREAD MY REGIME OF LOVE\n\nThis song contains five separate beats. The first one is produced by Lil Cubensis, second one by Solsa, and beats 3-5 produced by Wendigo, with the fourth part getting its own music video."
+   },
+   "embed_content": "<div id='rg_embed_link_4569874' class='rg_embed_link' data-song-id='4569874'>Read <a href='https://genius.com/Lil-darkie-genocide-lyrics'>\u201cGENOCIDE\u201d by Lil\u00a0Darkie</a> on Genius</div> <script crossorigin src='//genius.com/songs/4569874/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-05-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1863702",
+       "header_image_url": "https://images.genius.com/d10aaa1309bd9a59f239532f70e28c35.1000x210x1.jpg",
+       "id": 1863702,
+       "image_url": "https://images.genius.com/a734f00b005b122dda83731122b6edae.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spider Gang",
+       "url": "https://genius.com/artists/Spider-gang"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1048002",
+       "header_image_url": "https://images.genius.com/79941bbaca2b3ffff165b2b745038c9c.1000x625x1.png",
+       "id": 1048002,
+       "image_url": "https://images.genius.com/b3051745a4b8c44141f2fb5398b809c3.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Repost Network",
+       "url": "https://genius.com/artists/Repost-network"
+      }
+     ]
+    },
+    {
+     "label": "Cover Art Design",
+     "artists": [
+      {
+       "api_path": "/artists/1614464",
+       "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+       "id": 1614464,
+       "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Lil Darkie",
+       "url": "https://genius.com/artists/Lil-darkie",
+       "iq": 5893
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3331529,
+    "annotator_login": "GradeABass",
+    "api_path": "/referents/17217627",
+    "classification": "accepted",
+    "fragment": "GENOCIDE",
+    "id": 17217627,
+    "is_description": true,
+    "path": "/17217627/Lil-darkie-genocide/Genocide",
+    "range": {
+     "content": "GENOCIDE"
+    },
+    "song_id": 4569874,
+    "url": "https://genius.com/17217627/Lil-darkie-genocide/Genocide",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4569874",
+     "client_timestamps": {
+      "updated_by_human_at": 1680042758,
+      "lyrics_updated_at": 1680042758
+     },
+     "context": "Lil Darkie",
+     "id": 4569874,
+     "image_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.1000x1000x1.png",
+     "link_title": "GENOCIDE by\u00a0Lil\u00a0Darkie",
+     "title": "GENOCIDE",
+     "type": "Song",
+     "url": "https://genius.com/Lil-darkie-genocide-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17217627",
+      "body": {
+       "plain": "On \u201cGENOCIDE,\u201d Darkie deals with the animosity he  has received recently, mainly based around his track \u201cHOLOCAUST,\u201d alongside his recent ban from Instagram, it\u2019s likely the ban was received because of \u201cHOLOCAUST\u201d\u2013in the SoundCloud description of the track, Darkie said:\n\nIMMA SAY THIS CUZ IG KEEP FLAGGING ME\nNO I NOT A NAZI. I\u2019M A LOVE NAZI.\nAS IN I FORCEFULLY SPREAD MY REGIME OF LOVE\n\nThis song contains five separate beats. The first one is produced by Lil Cubensis, second one by Solsa, and beats 3-5 produced by Wendigo, with the fourth part getting its own music video."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17217627,
+      "pinned": false,
+      "share_url": "https://genius.com/17217627",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/17217627/Lil-darkie-genocide/Genocide",
+      "verified": false,
+      "votes_total": 142,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.42,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7018009",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/69415a1155619d7dc736e951051eff81",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/69415a1155619d7dc736e951051eff81",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/69415a1155619d7dc736e951051eff81",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/69415a1155619d7dc736e951051eff81",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f7079cdebd55550b0c37eaaf51a05525.127x80x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 7018009,
+         "iq": 200945,
+         "login": "mat",
+         "name": "\u200bmat",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/mat",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.41,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3331529",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/cbcc980182d229c22ca3bc6ec01a12fb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/cbcc980182d229c22ca3bc6ec01a12fb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/cbcc980182d229c22ca3bc6ec01a12fb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/cbcc980182d229c22ca3bc6ec01a12fb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wzpq4vl0qr",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3331529,
+         "iq": 40883,
+         "login": "GradeABass",
+         "name": "GradeABass",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/GradeABass",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9777922",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h1nnipwx6is",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h1nnipwx6is",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h1nnipwx6is",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h1nnipwx6is",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h1nnipwx6is",
+         "human_readable_role_for_display": null,
+         "id": 9777922,
+         "iq": 139,
+         "login": "wendigowendigo",
+         "name": "wendigowendigo",
+         "role_for_display": null,
+         "url": "https://genius.com/wendigowendigo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6688786",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1dbd3e9d933fe1b0deb57ba77641f665",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1dbd3e9d933fe1b0deb57ba77641f665",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1dbd3e9d933fe1b0deb57ba77641f665",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1dbd3e9d933fe1b0deb57ba77641f665",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/afcc61b45be5e7375d69b532e9711a93.1000x562x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6688786,
+         "iq": 9772,
+         "login": "stepladder-gang",
+         "name": "\u200cstepladder-gang",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/stepladder-gang",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "lildvrkie",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lildvrkie/genocide"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=d697eVYYOlc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1000508",
+     "header_image_url": "https://images.genius.com/e1571f0190a8d99f6c7df6e503aa172a.640x640x1.jpg",
+     "id": 1000508,
+     "image_url": "https://images.genius.com/e1571f0190a8d99f6c7df6e503aa172a.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SOLSA",
+     "url": "https://genius.com/artists/Solsa"
+    },
+    {
+     "api_path": "/artists/1679498",
+     "header_image_url": "https://images.genius.com/45f3e2d8b5a2697102cb67accda71b56.1000x209x1.jpg",
+     "id": 1679498,
+     "image_url": "https://images.genius.com/e0adbdb2e3cc15aeba81f7898f2dc46e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CUBENSiS",
+     "url": "https://genius.com/artists/Cubensis"
+    },
+    {
+     "api_path": "/artists/1291281",
+     "header_image_url": "https://images.genius.com/87b6e35842c20ffd09e5309ee3440df0.1000x1000x1.jpg",
+     "id": 1291281,
+     "image_url": "https://images.genius.com/ad3edab57b96f60b6f0a51fd95bc0c46.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wendigo",
+     "url": "https://genius.com/artists/Wendigo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Dj-khaled-im-the-one-sample/samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/4624060",
+       "artist_names": "Burznip",
+       "full_title": "Who is Lil Darkie? by\u00a0Burznip",
+       "header_image_thumbnail_url": "https://images.genius.com/58358f0ef44bb02f65846db5f742acc7.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/58358f0ef44bb02f65846db5f742acc7.1000x563x1.jpg",
+       "id": 4624060,
+       "language": "en",
+       "lyrics_owner_id": 3331529,
+       "lyrics_state": "complete",
+       "path": "/Burznip-who-is-lil-darkie-annotated",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Burznip-who-is-lil-darkie-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 4
+       },
+       "release_date_for_display": "June 4, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 4, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/58358f0ef44bb02f65846db5f742acc7.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/58358f0ef44bb02f65846db5f742acc7.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 47409
+       },
+       "title": "Who is Lil Darkie?",
+       "title_with_featured": "Who is Lil Darkie?",
+       "url": "https://genius.com/Burznip-who-is-lil-darkie-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1852986",
+        "header_image_url": "https://images.genius.com/1e67c341dc54a40e97d3c9c3981a3afc.288x288x1.jpg",
+        "id": 1852986,
+        "image_url": "https://images.genius.com/1e67c341dc54a40e97d3c9c3981a3afc.288x288x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Burznip",
+        "url": "https://genius.com/artists/Burznip"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": "https://genius.com/Lil-darkie-genocide-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 16,
+       "api_path": "/songs/4345097",
+       "artist_names": "Lil Darkie",
+       "full_title": "HOLOCAUST by\u00a0Lil\u00a0Darkie",
+       "header_image_thumbnail_url": "https://images.genius.com/05d11e2b0fcedf6ba7774f58d584b537.300x300x1.png",
+       "header_image_url": "https://images.genius.com/05d11e2b0fcedf6ba7774f58d584b537.1000x1000x1.png",
+       "id": 4345097,
+       "language": "en",
+       "lyrics_owner_id": 3331529,
+       "lyrics_state": "complete",
+       "path": "/Lil-darkie-holocaust-lyrics",
+       "pyongs_count": 36,
+       "relationships_index_url": "https://genius.com/Lil-darkie-holocaust-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 25
+       },
+       "release_date_for_display": "February 25, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 25, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/29666bca3af423c59f9f976cb49534f8.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/29666bca3af423c59f9f976cb49534f8.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false,
+        "pageviews": 238288
+       },
+       "title": "HOLOCAUST",
+       "title_with_featured": "HOLOCAUST",
+       "url": "https://genius.com/Lil-darkie-holocaust-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1614464",
+        "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+        "id": 1614464,
+        "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Darkie",
+        "url": "https://genius.com/artists/Lil-darkie",
+        "iq": 5893
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Lil-darkie-genocide-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/7662155",
+       "artist_names": "Selfmxdebless",
+       "full_title": "AMAZING by\u00a0Selfmxdebless",
+       "header_image_thumbnail_url": "https://images.genius.com/d43d6e64f08edbcd6a93fccb6277d29a.300x300x1.png",
+       "header_image_url": "https://images.genius.com/d43d6e64f08edbcd6a93fccb6277d29a.494x494x1.png",
+       "id": 7662155,
+       "language": "en",
+       "lyrics_owner_id": 8052635,
+       "lyrics_state": "complete",
+       "path": "/Selfmxdebless-amazing-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Selfmxdebless-amazing-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d43d6e64f08edbcd6a93fccb6277d29a.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d43d6e64f08edbcd6a93fccb6277d29a.494x494x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "AMAZING",
+       "title_with_featured": "AMAZING",
+       "url": "https://genius.com/Selfmxdebless-amazing-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2495031",
+        "header_image_url": "https://images.genius.com/30a3e93322f3667145e1ab9fd07e4205.1000x1000x1.jpg",
+        "id": 2495031,
+        "image_url": "https://images.genius.com/48961a081f95361059fdc601e2d86674.131x131x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Selfmxdebless",
+        "url": "https://genius.com/artists/Selfmxdebless"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7167766",
+       "artist_names": "T6 Rock$tar (Ft. KidStella)",
+       "full_title": "THRONE by\u00a0T6\u00a0Rock$tar (Ft.\u00a0KidStella)",
+       "header_image_thumbnail_url": "https://images.genius.com/b18ef1ce3fd8cb6c67e5a4fdd945d44e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b18ef1ce3fd8cb6c67e5a4fdd945d44e.300x300x1.jpg",
+       "id": 7167766,
+       "language": "en",
+       "lyrics_owner_id": 12735613,
+       "lyrics_state": "complete",
+       "path": "/T6-rock-tar-throne-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/T6-rock-tar-throne-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b18ef1ce3fd8cb6c67e5a4fdd945d44e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b18ef1ce3fd8cb6c67e5a4fdd945d44e.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "THRONE",
+       "title_with_featured": "THRONE (Ft.\u00a0KidStella)",
+       "url": "https://genius.com/T6-rock-tar-throne-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2711110",
+         "header_image_url": "https://images.genius.com/e5b1f92569db0e38bb546c8b135a9613.500x500x1.png",
+         "id": 2711110,
+         "image_url": "https://images.genius.com/8bdfb7157e578d6074ff7d34bada89d5.421x421x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "KidStella",
+         "url": "https://genius.com/artists/Kidstella"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2563334",
+        "header_image_url": "https://images.genius.com/7b6013b90b4f5f52e2a78e452b3465d5.1000x210x1.png",
+        "id": 2563334,
+        "image_url": "https://images.genius.com/9cb4d22f0328590ae84a620ae3256d5d.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "T6 Rock$tar",
+        "url": "https://genius.com/artists/T6-rock-tar",
+        "iq": 3666
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5780261",
+       "artist_names": "OCTOBERSFULLMOON",
+       "full_title": "Rikki-Tikki-Tavi by\u00a0OCTOBERSFULLMOON",
+       "header_image_thumbnail_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.480x480x1.jpg",
+       "id": 5780261,
+       "language": "en",
+       "lyrics_owner_id": 10333658,
+       "lyrics_state": "complete",
+       "path": "/Octobersfullmoon-rikki-tikki-tavi-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Octobersfullmoon-rikki-tikki-tavi-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.480x480x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Rikki-Tikki-Tavi",
+       "title_with_featured": "Rikki-Tikki-Tavi",
+       "url": "https://genius.com/Octobersfullmoon-rikki-tikki-tavi-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2122803",
+        "header_image_url": "https://images.genius.com/50a4e01318b08c8102fa7da0b217a2f6.960x638x1.jpg",
+        "id": 2122803,
+        "image_url": "https://images.genius.com/8af2b07a4b040fbc1ddf4da82a615b26.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "OCTOBERSFULLMOON",
+        "url": "https://genius.com/artists/Octobersfullmoon"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Dj-khaled-im-the-one-sample/covers",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6277980",
+       "artist_names": "DOWN6",
+       "full_title": "GENOCIDE PT.4 REMIX by\u00a0DOWN6",
+       "header_image_thumbnail_url": "https://images.genius.com/0c610d6f60ce84dc0062ce8f61af7866.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0c610d6f60ce84dc0062ce8f61af7866.657x657x1.jpg",
+       "id": 6277980,
+       "language": "en",
+       "lyrics_owner_id": 7299895,
+       "lyrics_state": "complete",
+       "path": "/Down6-genocide-pt4-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Down6-genocide-pt4-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 12,
+        "day": 1
+       },
+       "release_date_for_display": "December 1, 2020",
+       "release_date_with_abbreviated_month_for_display": "Dec. 1, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0c610d6f60ce84dc0062ce8f61af7866.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0c610d6f60ce84dc0062ce8f61af7866.657x657x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GENOCIDE PT.4 REMIX",
+       "title_with_featured": "GENOCIDE PT.4 REMIX",
+       "url": "https://genius.com/Down6-genocide-pt4-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1499460",
+        "header_image_url": "https://images.genius.com/07dd2cb4b74ba13f491df0e050c6daf6.750x750x1.jpg",
+        "id": 1499460,
+        "image_url": "https://images.genius.com/0c610d6f60ce84dc0062ce8f61af7866.657x657x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DOWN6",
+        "url": "https://genius.com/artists/Down6"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5780261",
+       "artist_names": "OCTOBERSFULLMOON",
+       "full_title": "Rikki-Tikki-Tavi by\u00a0OCTOBERSFULLMOON",
+       "header_image_thumbnail_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.480x480x1.jpg",
+       "id": 5780261,
+       "language": "en",
+       "lyrics_owner_id": 10333658,
+       "lyrics_state": "complete",
+       "path": "/Octobersfullmoon-rikki-tikki-tavi-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Octobersfullmoon-rikki-tikki-tavi-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/243b787da85b85cb62e6fb8b2d8b9759.480x480x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Rikki-Tikki-Tavi",
+       "title_with_featured": "Rikki-Tikki-Tavi",
+       "url": "https://genius.com/Octobersfullmoon-rikki-tikki-tavi-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2122803",
+        "header_image_url": "https://images.genius.com/50a4e01318b08c8102fa7da0b217a2f6.960x638x1.jpg",
+        "id": 2122803,
+        "image_url": "https://images.genius.com/8af2b07a4b040fbc1ddf4da82a615b26.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "OCTOBERSFULLMOON",
+        "url": "https://genius.com/artists/Octobersfullmoon"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5556988",
+       "artist_names": "LEECHY!",
+       "full_title": "GENOCIDE_REMIX by\u00a0LEECHY!",
+       "header_image_thumbnail_url": "https://images.genius.com/1f686b583d080a35b75d0ce226301434.300x300x1.png",
+       "header_image_url": "https://images.genius.com/1f686b583d080a35b75d0ce226301434.867x868x1.png",
+       "id": 5556988,
+       "language": "en",
+       "lyrics_owner_id": 4592112,
+       "lyrics_state": "complete",
+       "path": "/Leechy-genocide-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Leechy-genocide-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 3,
+        "day": 24
+       },
+       "release_date_for_display": "March 24, 2020",
+       "release_date_with_abbreviated_month_for_display": "Mar. 24, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1f686b583d080a35b75d0ce226301434.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/1f686b583d080a35b75d0ce226301434.867x868x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GENOCIDE_REMIX",
+       "title_with_featured": "GENOCIDE_REMIX",
+       "url": "https://genius.com/Leechy-genocide-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1338558",
+        "header_image_url": "https://images.genius.com/44a4c26e926458638e14f20dc4900b7c.1000x333x1.jpg",
+        "id": 1338558,
+        "image_url": "https://images.genius.com/a24361b57c4faeb1aa73be8399ebf63e.789x789x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "LEECHY!",
+        "url": "https://genius.com/artists/Leechy"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1614464",
+     "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+     "id": 1614464,
+     "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Darkie",
+     "url": "https://genius.com/artists/Lil-darkie",
+     "iq": 5893
+    }
+   ],
+   "artist": "Lil Darkie",
+   "lyrics": "135 ContributorsGENOCIDE Lyrics[Part I]\n[Intro]\nBitch, I'm smokin' gas in my chambers like it's the *********\nWe're sorry, your lyric could not be completed because\u2014\nAyy, you Lil Darkie, nigga?\nAnd we want to suppress your opinion fascistically\nTake away the first amendment\nAll hail censorship, all hail our feelings\n\n[Verse 1]\nMy god is realer than yours, he says what I do is right\nThat I should fight if Heaven pours\nI am very, very, sorry, my apologies, for comin' off so harshly\nImpart me, second chance, so I can dance the way you want me\nYou Nazi, got me, take a lot more than that to top me\nSoft ain't what I'm made of, you're the one actin' like Adolf\nCocky, way that you goose-steppin', way that you loose-lippin'\nTalkin' 'bout who trippin', talkin' 'bout who to shove under the bus\nAnd who all of us trust that we shouldn't\nThis just in, Lil Darkie is racist, spreadin' the message of Satan with faces\nBlacker than any of us prolly are, but I'm still offended 'cause I'm a retard\nHe tryna be hard, we tryna be safe by makin' it hard for you to create\nNiggas that heard of me fight and debate\nI don't deserve not one word of the hate\nMind control, all my thoughts are mine to hold\nAll down in my spinal cord, bitch, this ain't my final form\nI got no time for you puppets, take yo' opinion and shove it\nI keep my spirit above it, I'm takin' criticism if it isn't ignorant\nI'm not concerned with fittin' in, I hit it different\nI'm a cartoon but niggas doin' more pretendin' than me\nBitches act offended, get banned on IG\nYou don't gotta be a hater, you don't like me\nWhy I keep a grin on my face, on my teeth\nAll these niggas mad they ain't eatin' like concentration camps\nCut yourself escapin' from leavin' over the nation fence\nMost these niggas fakin', not workin', I'm puttin' them aside\nSmoke until there's nothin' remainin', I call it genocide\nPhoney ass niggas plottin', woah (I call it genocide)\nFruity niggas actin' rotten, so (Bitch, I call it genocide)\nOn yo' shit nigga, you not been, ho (I call it genocide)\nI ain't even think of stoppin', though (I call it genocide)\n[Part II]\n\n[Segue 1]\nOh?\nWhat's this? (Yuh-uh)\nHahahaha\nBitch, bitch, bitch, bitch, bitch\n\n[Chorus]\nI'ma fuck around and Timmy Turner to the tippy top (Tippy top)\nI wonder if these niggas really grip these Glocks\nTrippin' acid, lippin' flaccid dickin' 'til she give me top, (Uh-huh, uh-huh)\n\n[Verse 2]\nSkippin' to the store, I got a red hood on\nSalvia, we rippin' out a ten-foot bong\nThere's a bitch inside my house, she keep on sayin' she's in pain\nYeah, she's sittin' on my couch with burnin' needles in her brain\nDivinorum in her veins, guess she was on Lexapro?\nThe combo made her go insane\nShe feel calmer on cocaine (True story)\nDon't rap for fame (Too whorey), bitch what you sayin'?\nI'm Super Saiyan, you super plain (Root for me)\nI take my pain, make the music, plant a bomb, can't defuse it\nI am calm, I am lucid, they bettin' on that he lose it\nNever had it to start with, break you like usin' guitar pick\nConstipated, always makin' that hard shit\nContemplated takin' niggas real far, shit\nThings happen, niggas switch, you evolve with\nTime movin', rhyme smoothin'\nStay focused you will shine through sin\nStreet tacos get some dimes, who's in?\nKnow a nigga threw the lime juice in\nI know how to live (I know how to live), I know how to die too\nYou could jump off a buildin', eat mushroom for healin'\nPut acid in your eyes too, yuh\nYou might also like[Chorus]\nI'ma fuck around and Timmy Turner to the tippy top (Tippy top)\nI wonder if these niggas really grip these Glocks\nTrippin' acid, lippin' flaccid dickin' 'til she give me top, (Uh-huh, uh-huh)\nWhippin' up my visions, humans listen to the shit I drop (Shit I drop)\n\n[Segue 2]\nYeah, yeah\nYeah, huh, yeah, huh\nYeah\nYeah, huh, yeah, huh\n\n[Part III]\n\n[Chorus]\nWhat goes around, comes around\nGoes around, goes around, goes around, goes around, E\nWhat goes around, goes around, goes around, goes around, uh\nSpider gang shit (Uh, Spider gang shit)\nGoes around uh, what do you want? (Goes around, goes around, goes around)\n(Yeah, Karma)\n\n[Bridge]\nDon't be afraid, step right up, step right up\nTake your turn at the legendary wheel of karma\nBut remember that what goes around\nComes back around, goes back around to you (Yuh)\n[Verse 3]\nWhat goes around, comes around\nGoes around, comes around, goes around, come back to you, uh\nMy momma told me that was true, people remember like elephants do\nPeople forget all the elements too\nLivin' and breathin', succeedin' at music\nAt leadin' the crew with a passion these niggas ain't move\n'Cause they crashin' and talent they rationin'\nI'll get a bat, I might bash him in\nGrippin' a blade and I'm slashin' him, happen to you\nI pull up on 'em, no maskin', I'm smokin' that dope up in Lassen\nWith DRAIN THE SWAMP blastin', I'm cool\nI'm on the beach up in Tahoe, packin' that THC inside a raw cone\nI'll be happy when it\u2019s all gone, Mary Jane answer whenever she called on\nI had to fall down, I'm smokin' too much\nFold up a post-it, I'm chiefin' a blue crutch\nI do not do Dutch, I don't do backwoods\nGrab a leaf, only tobacco that smack good\nI fucked that, I fucked that bitch in the Safeway\n7am and I'm havin' a great day, uh\nI'm puttin' on weight like I'm Tay-K\nAnime rapper, you sound like a Beyblade\nAnime rapper, you hard or you not though?\nSip on yo' Wok and the bars that you pop\nOh, you need a Glock on yo' lap and it cocked\nOr you grip yo' cock and you fap while you stalk hoes?\nNiggas walk around in dark clothes\nBitch, I'm smokin' at the park, O's\nAskin' questions like a narc, no, why you sittin' at the start? Go\n\n[Part IV]\n\n[Segue 3]\nGo, go, go, go, go\nYeah, yeah, yeah\nGet it, get it, get it, get it, get it\nOh my, oh my (Yeah, yeah, yeah, yeah)\n\n[Verse 4]\nP-P-Pussy boy g-get out my way, uh\nI'll run up that check before I run any fades, uh\nKillin' shit for fun but I ain't catchin' no case, uh\nChillin' in the sun, a villain catchin' some rays, uh\nLe-Le-Legalize the fungi, nigga, I eat it anyway\nIt could start with one guy, nigga, the world got plenty fakes\nIt don't need another fire with my brothers in the street\nThey don't show no love, I sight the others, they look industry\nLet 'em sleep, goodness me, tell me, what should this be?\nWhy you in my live talkin' shit? I ain't sayin' shit to you\nKeep my pride on my hip, that's a weapon I can't lose\nPeep my vibe or keep, zip your lips\nWhy won't you choose to-to love everybody\nBitch, how many times are you gonna ignore the signs in people's rhymes?\nYou niggas are retarded, he slid and left his 9\nYo' momma must have dropped yo' ass upon yo' spine\n\n[Chorus]\nI feel like Rikki-Tikki-Tavi\nWe mobbin' through the lobby, that faggot tried to rob me\nNo ho, like D'Lo, bitch\nI feel like Rikki-Tikki-Tavi\nI think the copper saw me, but I ain't chain-link-hoppin'\n'Cause I ain't see no shit\n\n[Verse 5]\nNiggas will believe whatever you tell 'em, if you tell 'em enough\nHelpful when you sellin' some stuff, or startin' a war\nThey rotten at the heart, at the core\nI'm plottin' to pour LSD in the reservoir\nAll over the floor, I'm bringin' psilocybin on tour\nI'm hidin' the cure, for fixin' niggas, I'm very sure\nStop bein' depressed, step outside and puff out your chest\nHe made you the best that's ever gonna jump out the nest\nI'm a crushin' a pest, you rushin' to get up like you next\nYou failin' the test, impale yourself through one of your breasts\nSomewhere on your chest\nYour heart departs and leaves you with less\nNow, look at this mess, bitch, pull yourself together, no rest\n\n[Chorus]\nI feel like Rikki-Tikki-Tavi\nI know that copper saw me\nBut I ain't chain-link-hoppin' 'cause I'm up in his whip\n\n[Interlude]\nStop (I know you, motherfucker)\nStop resisting (Fuckin' bitch), stop resisting (Let me go, you fuckin' motherfucker)\nStop resisting (Agh)\n\n[Part V]\n\n[Segue 4]\nSometimes all you need to do is hop on the subway and go\nGo\n\n[Chorus]\nLet your brain leak out of your ears, uh\nGo insane, nigga, punch all your peers, ayy\nPick the kid up, nigga, wipe off your tears\nWe war-ready, I see you very clear\n\n[Verse 6]\nFor the tribe, do it for the tribe, nigga, or 'cause you alive\nFree what is inside, nigga, I know why you cry\nThere is somethin' vile, takin' people, ain't no lie\nI know, we should smile bigger, because we will die\nMomma, why we die? Tell me, momma, why we die?\nI know why they hate me, because I will not be shy\nI just wanna fly, Daedalus, I have to try\nNo, don't be a fool, Icarus, you flew too high\nSon, move, get out of my way\nHe was just a boy, wanna play with the day\nSee him where he lay, now, see him where he lay\nDon't succumb to ignorance or you will have to pay with your life\nPlay with a knife, you could filet what you write with\nStay outta fights, tryna spit or you tryna gang-bang\nPick a type, I don't wanna see no talented rappers dyin' to pipes\nI won't front, nigga what you want?\nI just wanna see you stunt on these hatin' ass sucker nigga cunts\nKick it punt, I don't fuck with runts, one-one-seven killin' grunts\nThey in Heaven when I hunt them I hit him then he...\n\n[Chorus]\nLet his brain leak out of his ears, uh\nGo insane, bitch, I'll punch all your peers, ayy\nPick the kid up, nigga, wipe off your tears\nWe war-ready, I see you very clear\nLet your brain leak out of your ears, uh\nGo insane, nigga, punch all your peers, ayy\nPick the kid up, nigga, wipe off your tears\nWe war-ready, if you not, why you here?\n\n[Bridge]\nGo, go, go, go\nOne, two\u2014, one, two, three, nigga\n\n[Verse 7]\nBitch, I'm killin' everyone, bitch, I'm causin' a genocide\nFuck these rappin' niggas, they cappin', tap in, pretend to slide\nBitch, I'm in the field like a soldier, I'm makin' fuckin' moves\nMade of paper, nigga, I'll fold ya, roll ya and tuck it smooth\nNiggas wanna talk, I don't have the time\nI be on the block, meditatin', makin' rhymes\nUh, you be hella hatin', got no cock, got no spine\nThere ain't no debatin', do not talk, make a line\nBi-Bi-Bitch, I keep it on me, like commie or an American\nI ain't smokin' with you, but money could make me share it then\nSweeter than some honey and funny 'cause I ain't very tan\nStill the darkest rapper, you slappin', I'm killin' every man\n\n[Bridge]\nHuh, yeah\nYeah, yeah, yeah, yeah, yeah, yeah, yeah\nBih-bih-bih, bih, yeah, yeah\nBih-bih-bih, bih, yeah, yeah\n\n[Outro]\nAre you still offended? (Are you?)\nLet me know (Please do not be)\nI care so much about how you feel59Embed"
+  },
+  {
+   "annotation_count": 27,
+   "api_path": "/songs/4655097",
+   "artist_names": "Lil Darkie (Ft. Afourteen, BLCKK, BRUHMANEGOD, CUBENSiS, ERIC NORTH, JOHNNASCUS, Royalty the Kidd, \u200bstone deluxe & Wendigo)",
+   "full_title": "METHHEAD FREESTYLE by\u00a0Lil\u00a0Darkie (Ft.\u00a0Afourteen, BLCKK, BRUHMANEGOD, CUBENSiS, ERIC\u00a0NORTH, JOHNNASCUS, Royalty\u00a0the Kidd, \u200bstone\u00a0deluxe & Wendigo)",
+   "header_image_thumbnail_url": "https://images.genius.com/a63614ccf5a6e8a3b701120622873e5f.300x300x1.png",
+   "header_image_url": "https://images.genius.com/a63614ccf5a6e8a3b701120622873e5f.1000x1000x1.png",
+   "id": 4655097,
+   "language": "en",
+   "lyrics_owner_id": 8547924,
+   "lyrics_state": "complete",
+   "path": "/Lil-darkie-methhead-freestyle-lyrics",
+   "pyongs_count": 20,
+   "relationships_index_url": "https://genius.com/Lil-darkie-methhead-freestyle-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 6,
+    "day": 24
+   },
+   "release_date_for_display": "June 24, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jun. 24, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a63614ccf5a6e8a3b701120622873e5f.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/a63614ccf5a6e8a3b701120622873e5f.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 70,
+    "iq_earners": 70,
+    "transcribers": 3,
+    "unreviewed_annotations": 23,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 259837
+   },
+   "title": "METHHEAD FREESTYLE",
+   "title_with_featured": "METHHEAD FREESTYLE (Ft.\u00a0Afourteen, BLCKK, BRUHMANEGOD, CUBENSiS, ERIC\u00a0NORTH, JOHNNASCUS, Royalty\u00a0the Kidd, \u200bstone\u00a0deluxe & Wendigo)",
+   "url": "https://genius.com/Lil-darkie-methhead-freestyle-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1291281",
+     "header_image_url": "https://images.genius.com/87b6e35842c20ffd09e5309ee3440df0.1000x1000x1.jpg",
+     "id": 1291281,
+     "image_url": "https://images.genius.com/ad3edab57b96f60b6f0a51fd95bc0c46.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wendigo",
+     "url": "https://genius.com/artists/Wendigo"
+    },
+    {
+     "api_path": "/artists/1105526",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 1105526,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Royalty the Kidd",
+     "url": "https://genius.com/artists/Royalty-the-kidd"
+    },
+    {
+     "api_path": "/artists/1679498",
+     "header_image_url": "https://images.genius.com/45f3e2d8b5a2697102cb67accda71b56.1000x209x1.jpg",
+     "id": 1679498,
+     "image_url": "https://images.genius.com/e0adbdb2e3cc15aeba81f7898f2dc46e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CUBENSiS",
+     "url": "https://genius.com/artists/Cubensis"
+    },
+    {
+     "api_path": "/artists/1142285",
+     "header_image_url": "https://images.genius.com/477163c6f9cf691ad221827ac3671808.1000x210x1.png",
+     "id": 1142285,
+     "image_url": "https://images.genius.com/799977ba9ebdd8b247e332e6506caf11.529x529x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BRUHMANEGOD",
+     "url": "https://genius.com/artists/Bruhmanegod",
+     "iq": 353
+    },
+    {
+     "api_path": "/artists/1097869",
+     "header_image_url": "https://images.genius.com/c03d0e7a15efec623b5654724f3c0e5a.1000x1000x1.jpg",
+     "id": 1097869,
+     "image_url": "https://images.genius.com/4ec85321016e9c6fb9eee273158d67e5.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BLCKK",
+     "url": "https://genius.com/artists/Blckk"
+    },
+    {
+     "api_path": "/artists/1113140",
+     "header_image_url": "https://images.genius.com/9755a892cee9e8f5b7cd3784293e9aba.1000x333x1.jpg",
+     "id": 1113140,
+     "image_url": "https://images.genius.com/e1c9dba983633eb3be1aa6835ca5e627.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "\u200bstone deluxe",
+     "url": "https://genius.com/artists/Stone-deluxe",
+     "iq": 4889
+    },
+    {
+     "api_path": "/artists/1490529",
+     "header_image_url": "https://images.genius.com/8e6a8518b454c18cc5b937b54cdd44c6.749x938x1.jpg",
+     "id": 1490529,
+     "image_url": "https://images.genius.com/a928c9695e4fea16c140c630a12df09e.924x924x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JOHNNASCUS",
+     "url": "https://genius.com/artists/Johnnascus"
+    },
+    {
+     "api_path": "/artists/572103",
+     "header_image_url": "https://images.genius.com/c1b63e992f90e45b88064e53f8b47d08.1000x611x1.jpg",
+     "id": 572103,
+     "image_url": "https://images.genius.com/f464e8af0d22c0998a41b41dd535d513.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "ERIC NORTH",
+     "url": "https://genius.com/artists/Eric-north",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1704370",
+     "header_image_url": "https://images.genius.com/ecee5796d1df63e3603d5a37d64fce71.1000x1000x1.jpg",
+     "id": 1704370,
+     "image_url": "https://images.genius.com/883e6207c97da89ea88e14dacc5fe4d3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afourteen",
+     "url": "https://genius.com/artists/Afourteen"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1614464",
+    "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+    "id": 1614464,
+    "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lil Darkie",
+    "url": "https://genius.com/artists/Lil-darkie",
+    "iq": 5893
+   },
+   "apple_music_id": "1470015951",
+   "apple_music_player_url": "https://genius.com/songs/4655097/apple_music_player",
+   "description": {
+    "plain": "METHHEAD FREESTYLE is a song by Lil Darkie. A total of 10 people have worked on this song and it was produced by Wendigo. Majority of the people who are featured in this song are members of the experimental rap collective Spider Gang.  This would be the final song played throughout all of the 2021 Spider Gang East & West Coast tours respectively, despite some vocalists being absent."
+   },
+   "embed_content": "<div id='rg_embed_link_4655097' class='rg_embed_link' data-song-id='4655097'>Read <a href='https://genius.com/Lil-darkie-methhead-freestyle-lyrics'>\u201cMETHHEAD FREESTYLE\u201d by Lil\u00a0Darkie</a> on Genius</div> <script crossorigin src='//genius.com/songs/4655097/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "THE PARK BATHROOM",
+   "release_date": "2019-06-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1863702",
+       "header_image_url": "https://images.genius.com/d10aaa1309bd9a59f239532f70e28c35.1000x210x1.jpg",
+       "id": 1863702,
+       "image_url": "https://images.genius.com/a734f00b005b122dda83731122b6edae.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spider Gang",
+       "url": "https://genius.com/artists/Spider-gang"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1048002",
+       "header_image_url": "https://images.genius.com/79941bbaca2b3ffff165b2b745038c9c.1000x625x1.png",
+       "id": 1048002,
+       "image_url": "https://images.genius.com/b3051745a4b8c44141f2fb5398b809c3.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Repost Network",
+       "url": "https://genius.com/artists/Repost-network"
+      }
+     ]
+    },
+    {
+     "label": "Collective",
+     "artists": [
+      {
+       "api_path": "/artists/1815855",
+       "header_image_url": "https://images.genius.com/0ee9a404ebc10eb1aac05af8ffd63397.1000x210x1.jpg",
+       "id": 1815855,
+       "image_url": "https://images.genius.com/1e78537d5a200c005421c44b9d057d01.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DIVERSA_UNIT",
+       "url": "https://genius.com/artists/Diversa-unit"
+      },
+      {
+       "api_path": "/artists/1863702",
+       "header_image_url": "https://images.genius.com/d10aaa1309bd9a59f239532f70e28c35.1000x210x1.jpg",
+       "id": 1863702,
+       "image_url": "https://images.genius.com/a734f00b005b122dda83731122b6edae.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spider Gang",
+       "url": "https://genius.com/artists/Spider-gang"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15052378,
+    "annotator_login": "whoaskedlol",
+    "api_path": "/referents/23090985",
+    "classification": "unreviewed",
+    "fragment": "METHHEAD FREESTYLE",
+    "id": 23090985,
+    "is_description": true,
+    "path": "/23090985/Lil-darkie-methhead-freestyle/Methhead-freestyle",
+    "range": {
+     "content": "METHHEAD FREESTYLE"
+    },
+    "song_id": 4655097,
+    "url": "https://genius.com/23090985/Lil-darkie-methhead-freestyle/Methhead-freestyle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4655097",
+     "client_timestamps": {
+      "updated_by_human_at": 1674318274,
+      "lyrics_updated_at": 1671707090
+     },
+     "context": "Lil Darkie",
+     "id": 4655097,
+     "image_url": "https://images.genius.com/a63614ccf5a6e8a3b701120622873e5f.1000x1000x1.png",
+     "link_title": "METHHEAD FREESTYLE by\u00a0Lil\u00a0Darkie (Ft.\u00a0Afourteen, BLCKK, BRUHMANEGOD, CUBENSiS, ERIC\u00a0NORTH, JOHNNASCUS, Royalty\u00a0the Kidd, \u200bstone\u00a0deluxe & Wendigo)",
+     "title": "METHHEAD FREESTYLE",
+     "type": "Song",
+     "url": "https://genius.com/Lil-darkie-methhead-freestyle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23090985",
+      "body": {
+       "plain": "METHHEAD FREESTYLE is a song by Lil Darkie. A total of 10 people have worked on this song and it was produced by Wendigo. Majority of the people who are featured in this song are members of the experimental rap collective Spider Gang.  This would be the final song played throughout all of the 2021 Spider Gang East & West Coast tours respectively, despite some vocalists being absent."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 23090985,
+      "pinned": false,
+      "share_url": "https://genius.com/23090985",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/23090985/Lil-darkie-methhead-freestyle/Methhead-freestyle",
+      "verified": false,
+      "votes_total": 22,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8805970149253731,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13566498",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ed0c1aa93b3c0fc642c9aae4f2ca9d00",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ed0c1aa93b3c0fc642c9aae4f2ca9d00",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ed0c1aa93b3c0fc642c9aae4f2ca9d00",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ed0c1aa93b3c0fc642c9aae4f2ca9d00",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ed0c1aa93b3c0fc642c9aae4f2ca9d00",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13566498,
+         "iq": 586,
+         "login": "PKNyan",
+         "name": "PKNyan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/PKNyan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.11940298507462688,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15052378",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4nzw9unxqog",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4nzw9unxqog",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4nzw9unxqog",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4nzw9unxqog",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i9qpito7p5n",
+         "human_readable_role_for_display": "Contributor",
+         "id": 15052378,
+         "iq": 1261,
+         "login": "whoaskedlol",
+         "name": "whoaskedlol",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/whoaskedlol",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/4921876",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+    "human_readable_role_for_display": "Moderator",
+    "id": 4921876,
+    "iq": 665333,
+    "login": "lonland",
+    "name": "\u200blonland",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/lonland",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "lildvrkie",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lildvrkie/methhead-freestyle"
+    },
+    {
+     "provider": "youtube",
+     "start": 5,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=165Jdjqamo0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1291281",
+     "header_image_url": "https://images.genius.com/87b6e35842c20ffd09e5309ee3440df0.1000x1000x1.jpg",
+     "id": 1291281,
+     "image_url": "https://images.genius.com/ad3edab57b96f60b6f0a51fd95bc0c46.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wendigo",
+     "url": "https://genius.com/artists/Wendigo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1614464",
+     "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+     "id": 1614464,
+     "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Darkie",
+     "url": "https://genius.com/artists/Lil-darkie",
+     "iq": 5893
+    },
+    {
+     "api_path": "/artists/1105526",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 1105526,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Royalty the Kidd",
+     "url": "https://genius.com/artists/Royalty-the-kidd"
+    },
+    {
+     "api_path": "/artists/1679498",
+     "header_image_url": "https://images.genius.com/45f3e2d8b5a2697102cb67accda71b56.1000x209x1.jpg",
+     "id": 1679498,
+     "image_url": "https://images.genius.com/e0adbdb2e3cc15aeba81f7898f2dc46e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CUBENSiS",
+     "url": "https://genius.com/artists/Cubensis"
+    },
+    {
+     "api_path": "/artists/1142285",
+     "header_image_url": "https://images.genius.com/477163c6f9cf691ad221827ac3671808.1000x210x1.png",
+     "id": 1142285,
+     "image_url": "https://images.genius.com/799977ba9ebdd8b247e332e6506caf11.529x529x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "BRUHMANEGOD",
+     "url": "https://genius.com/artists/Bruhmanegod",
+     "iq": 353
+    },
+    {
+     "api_path": "/artists/1097869",
+     "header_image_url": "https://images.genius.com/c03d0e7a15efec623b5654724f3c0e5a.1000x1000x1.jpg",
+     "id": 1097869,
+     "image_url": "https://images.genius.com/4ec85321016e9c6fb9eee273158d67e5.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "BLCKK",
+     "url": "https://genius.com/artists/Blckk"
+    },
+    {
+     "api_path": "/artists/1113140",
+     "header_image_url": "https://images.genius.com/9755a892cee9e8f5b7cd3784293e9aba.1000x333x1.jpg",
+     "id": 1113140,
+     "image_url": "https://images.genius.com/e1c9dba983633eb3be1aa6835ca5e627.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "\u200bstone deluxe",
+     "url": "https://genius.com/artists/Stone-deluxe",
+     "iq": 4889
+    },
+    {
+     "api_path": "/artists/1490529",
+     "header_image_url": "https://images.genius.com/8e6a8518b454c18cc5b937b54cdd44c6.749x938x1.jpg",
+     "id": 1490529,
+     "image_url": "https://images.genius.com/a928c9695e4fea16c140c630a12df09e.924x924x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JOHNNASCUS",
+     "url": "https://genius.com/artists/Johnnascus"
+    },
+    {
+     "api_path": "/artists/572103",
+     "header_image_url": "https://images.genius.com/c1b63e992f90e45b88064e53f8b47d08.1000x611x1.jpg",
+     "id": 572103,
+     "image_url": "https://images.genius.com/f464e8af0d22c0998a41b41dd535d513.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "ERIC NORTH",
+     "url": "https://genius.com/artists/Eric-north",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1704370",
+     "header_image_url": "https://images.genius.com/ecee5796d1df63e3603d5a37d64fce71.1000x1000x1.jpg",
+     "id": 1704370,
+     "image_url": "https://images.genius.com/883e6207c97da89ea88e14dacc5fe4d3.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Afourteen",
+     "url": "https://genius.com/artists/Afourteen"
+    }
+   ],
+   "artist": "Lil Darkie",
+   "lyrics": "70 ContributorsMETHHEAD FREESTYLE Lyrics[Intro: Afourteen, BRUHMANEGOD & Eric North]\nHello, my name is Afourteen\nAnd I was not here for the first half of the recording of this song\nBut, I'm just here to say that meth is bad kids\nAnd you should not be doing that 'cause it will hurt you very bad\nOh, brother, this guy stinks\nAyy, yuh (Yuh)\nAyy, ayy\n\n[Verse 1: Eric North]\nBitch, do not talk 'til you suck on my dick\nAnd my pet got a dick so you sucking his dick\nI pull my dick to the back of my hips\nAnd I talk to yo' bitch about horoscope shit\nBitch, fuck a jet, fuck Lears\nAll of these pipes full of meth\nLooking like a big bundle of chandeliers, ayy\nDragging my dick on the floor\nAnd it pushes my dick through the carpet and tickled me more\nPocket full of cum and I might throw it on a heater\nCum burns in my lungs, lil' baby, take a breather, ayy\nMy pipe broke because last night, I lit it too hot\nNow my body super\u2014 (Fuck me)\n[Bridge 1: JOHNNASCUS]\nYuh-yuh, yuh-yuh\nYuh-yuh, yuh-yuh\nYuh-yuh, yuh-yuh\nYuh-yuh\n\n[Verse 2: JOHNNASCUS]\nStop, stop when I stop (Stop)\nDrop when it drop (Drop)\nFlock when they flock (Flock)\nDreams run amok\nCount sheep, run on me (Run on me)\nCounting, they trample me (C'mon)\nTrample me, trample me, trample me\nTrample me, trample me, tra\u2014\nBlack goat walk to me in humanoid form\nStabs me through the neck with its black horn\nThen I levitate, levitate, levitate, levitate with my own head\nLook into the eyes and they are dead\nTaste the juicy pupils, I'm my own pupil\nPlaster it on a wall\nNothing matters, my new name is Paul (Ow)\nDemon of sex, rip my penis from the chest\nGive birth through the belly button\nMy newborn will bring universal destruction\nThe laws of time will cease to function\nYou might also like[Verse 3: STONEMAN & Wendigo]\nI'm in madhouse, ten-down, take the trash out\nStand down, you ain't got eyes, pull the strands out\nWalkin' whack, in the alley smokin' smack, still in shacks, shit\nBack to back to back to back, I dragged it\nHeavy breathin' down ya' neck, it's Mr. Reaper (Mr. Reaper)\nWalk up super sneaky, spin 'em like a CD\nDrivin' in a car that I be leavin' (I be\u2014, I be\u2014)\nMan, I'm tweakin' (Yeah-yeah)\nI'm drowsy, fuck, I'm tryin' super hard to focus\nIn the walls, rats, rats and fuckin' locusts, ha\n\n[Bridge 2: BLCKK]\nAyy, ayy, ayy, ayy\nSuck my fuckin' dick\n\n[Verse 4: BLCKK]\nI'ma fuck up yo' whole face, put you in a rat race\nShove you in a bathtub and kick a fucking toaster in it\nI'on like you or your friends, little bitch\nI can smell that shit from miles, you a snitch\nI'ma make ya fucking body start twitching\nI'm tryna cut you open, motherfucka, stop flinchin'\nAnd if I had to choose between fuckin' with you and dyin'\nI'm tyin' up a knot around my neck and straight divin'\nFuck my life, I'ma hang my wife\nI'ma tell the fucking cops the stupid bitch was suicidal\nKill yourself, you a goddamn clown\nI'ma force feed ya cyanide and put you on a unicycle\n[Verse 5: BRUHMANEGOD & Royalty the Kidd]\nMeatman, I'm the muthafuckin' meatman (Okay, okay)\nCareful where you creep, man (Okay)\nI will fuckin' eat, man (Okay)\nI will brew a soup (Yeah)\nI am from Peru (Yeah)\nStart a war between the continents\nRocket full of pocket lint\nLackin' human common sense (Ayy, ayy)\nI don't tote poles, I just toke bowls (Ayy, ayy, ayy)\nSmoking with some moles you know\nI'd never rhyme that shit with chokehold\nI feel like a crackhead every day\nBam, Spider Gang, and we want a plot of land (Yes)\nYou no spider, you's a fly so you get banned (Banned)\nWalk around with my hand in my pants (In my pants)\nUnderstand you are not from the strand (Fuck, shit)\nSo you fucked up, hug the spider truck (Yeah, yeah, yeah)\nWanna ride when we drive by 'cause we tight as fuck\nIn the trunk and we finna hit numerous speed bumps\nRunner-ups get run over, but only the knees crush\n\n[Verse 6: Lil Darkie]\nYuh, yuh, I have an erection, I have no direction\nSlipping on a liquid, non-addictive, like its borin'\nBut it's not, it got me soarin', I'm trippin' into my core\nAnd I'm waitin' patiently, fade into sofa gracefully\nMaple leaf, thinkin' 'bout when the paper leave\nHow am I gonna pay for weed? (Ugh, fuck)\nKick it like it's Liu Kang or Ip Man\nI just wanna stick the tip in\nIt do hang like a Nike from a shoestring\nI'm creepin', doin' acid is my new thing\nIt seep into my brain and it do sting\nLike electricity, he pissin' me off\nHe going missin' like decision to be soft like a kitten\nI'm spittin' niggas into submission\nAnd written 'em out of existence\nLike Light Yagami, dark sodomy\nShe like a meatman, bitch, I'm a butcher I cut off yo' leg\nTurn you into a seat, man, I'll make a feet fan\nDecrease your prices, I'll increase my vices\nMixed herbs and spices inside of my eyelids\n\n[Chorus: BRUHMANEGOD, BLCKK, STONEMAN, JOHNNASCUS, Eric North & Lil Darkie]\nYou smoke crack, you is basically Christian\nMeth in my pipe, man, that shit hit different\nYou smoke crack, you is basically Christian\nMeth in my pipe, man, that shit hit different\nYou smoke crack, you is basically Christian\nMeth in my pipe, man, that shit hit different\nYou smoke crack, you is basically Christian\nMeth in my pipe, man, that shit hit different\n\n[Outro: BRUHMANEGOD, BLCKK, STONEMAN, JOHNNASCUS, Eric North & Lil Darkie]\nYah, hahahahaha\nYou better be smoking meth, bitch\nWhere's my mom? (Where's my fuckin' father?) Spider, Spider Gang, Spider Gang, Spider Gang?\nExcuse me, is that Spider Gang? Hello? Is that Spider Gang? Hello?\nSome spiders, Spider Gang\nS-S-S-Spider? S-S-Spider?\nSpider Gang, Spider Gang, Spider Gang\nHey listen, hey listen, hey, hey, hey, it's Spider Gang\nSpider Gang20Embed"
+  },
+  {
+   "annotation_count": 16,
+   "api_path": "/songs/4345097",
+   "artist_names": "Lil Darkie",
+   "full_title": "HOLOCAUST by\u00a0Lil\u00a0Darkie",
+   "header_image_thumbnail_url": "https://images.genius.com/05d11e2b0fcedf6ba7774f58d584b537.300x300x1.png",
+   "header_image_url": "https://images.genius.com/05d11e2b0fcedf6ba7774f58d584b537.1000x1000x1.png",
+   "id": 4345097,
+   "language": "en",
+   "lyrics_owner_id": 3331529,
+   "lyrics_state": "complete",
+   "path": "/Lil-darkie-holocaust-lyrics",
+   "pyongs_count": 36,
+   "relationships_index_url": "https://genius.com/Lil-darkie-holocaust-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 2,
+    "day": 25
+   },
+   "release_date_for_display": "February 25, 2019",
+   "release_date_with_abbreviated_month_for_display": "Feb. 25, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/29666bca3af423c59f9f976cb49534f8.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/29666bca3af423c59f9f976cb49534f8.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 5,
+    "contributors": 83,
+    "iq_earners": 83,
+    "transcribers": 5,
+    "unreviewed_annotations": 8,
+    "verified_annotations": 2,
+    "hot": false,
+    "pageviews": 238288
+   },
+   "title": "HOLOCAUST",
+   "title_with_featured": "HOLOCAUST",
+   "url": "https://genius.com/Lil-darkie-holocaust-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1614464",
+    "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+    "id": 1614464,
+    "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lil Darkie",
+    "url": "https://genius.com/artists/Lil-darkie",
+    "iq": 5893
+   },
+   "apple_music_id": "1458388169",
+   "apple_music_player_url": "https://genius.com/songs/4345097/apple_music_player",
+   "description": {
+    "plain": "This song is cold as fuck, but it\u2019s also on fire. It is a long list of gold bars straight from the demon that tapped into Darkie\u2019s soul when he entered the studio. It is also one of Darkie\u2019s most popular songs, which is semi-unfortunate, because it neglects to exemplify some of the best qualities that can be found in the rest of his discography. Nevertheless, this song is insane. There is no melody at all throughout the entire beat, leaving only Darkie\u2019s raw thoughts to be consumed alongside the disgusting bass hits. Darkie is leaving no one out of this roast session, he\u2019s killing everything.\n\nThis song was at one point temporarily removed from Spotify, due to the controversial album artwork. It was later restored, but with the artwork omitted. This instance of censorship also coincidentally relates to the intro of Darkie\u2019s other song, \u201cGENOCIDE\u201d:\n\nBitch, I\u2019m smokin' gas in my chambers like it\u2019s the *********\nWe\u2019re sorry, your lyric could not be completed because\u2014\nAyy, you Lil Darkie, nigga?\nAnd we want to suppress your opinion fascistically\n\nThis case of censorship was not, however, the reason that \u201cGENOCIDE\u201d was written, as \u201cHOLOCAUST\u201d was removed from Spotify in early 2020, while \u201cGENOCIDE\u201d was released in May, 2019.\n\nThis same sort of censorship occurred again when Darkie released the single \u201cIMPERFECT\u201d, which was taken down because it originally featured his face with a Swastika\u2013a script Hindus treat as a symbol of good fortune and prosperity\u2013in the background. But this time, Darkie decided to resubmit the artwork using the \u201cOm\u201d symbol instead, and the message \u201cCENSORED FOR SPEAKING OF LOVE.\u201d covering his mouth in the picture:"
+   },
+   "embed_content": "<div id='rg_embed_link_4345097' class='rg_embed_link' data-song-id='4345097'>Read <a href='https://genius.com/Lil-darkie-holocaust-lyrics'>\u201cHOLOCAUST\u201d by Lil\u00a0Darkie</a> on Genius</div> <script crossorigin src='//genius.com/songs/4345097/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-02-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1048002",
+       "header_image_url": "https://images.genius.com/79941bbaca2b3ffff165b2b745038c9c.1000x625x1.png",
+       "id": 1048002,
+       "image_url": "https://images.genius.com/b3051745a4b8c44141f2fb5398b809c3.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Repost Network",
+       "url": "https://genius.com/artists/Repost-network"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5629244,
+    "annotator_login": "newblaze",
+    "api_path": "/referents/18337864",
+    "classification": "accepted",
+    "fragment": "HOLOCAUST",
+    "id": 18337864,
+    "is_description": true,
+    "path": "/18337864/Lil-darkie-holocaust/Holocaust",
+    "range": {
+     "content": "HOLOCAUST"
+    },
+    "song_id": 4345097,
+    "url": "https://genius.com/18337864/Lil-darkie-holocaust/Holocaust",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4345097",
+     "client_timestamps": {
+      "updated_by_human_at": 1682198636,
+      "lyrics_updated_at": 1682198636
+     },
+     "context": "Lil Darkie",
+     "id": 4345097,
+     "image_url": "https://images.genius.com/29666bca3af423c59f9f976cb49534f8.1000x1000x1.png",
+     "link_title": "HOLOCAUST by\u00a0Lil\u00a0Darkie",
+     "title": "HOLOCAUST",
+     "type": "Song",
+     "url": "https://genius.com/Lil-darkie-holocaust-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18337864",
+      "body": {
+       "plain": "This song is cold as fuck, but it\u2019s also on fire. It is a long list of gold bars straight from the demon that tapped into Darkie\u2019s soul when he entered the studio. It is also one of Darkie\u2019s most popular songs, which is semi-unfortunate, because it neglects to exemplify some of the best qualities that can be found in the rest of his discography. Nevertheless, this song is insane. There is no melody at all throughout the entire beat, leaving only Darkie\u2019s raw thoughts to be consumed alongside the disgusting bass hits. Darkie is leaving no one out of this roast session, he\u2019s killing everything.\n\nThis song was at one point temporarily removed from Spotify, due to the controversial album artwork. It was later restored, but with the artwork omitted. This instance of censorship also coincidentally relates to the intro of Darkie\u2019s other song, \u201cGENOCIDE\u201d:\n\nBitch, I\u2019m smokin' gas in my chambers like it\u2019s the *********\nWe\u2019re sorry, your lyric could not be completed because\u2014\nAyy, you Lil Darkie, nigga?\nAnd we want to suppress your opinion fascistically\n\nThis case of censorship was not, however, the reason that \u201cGENOCIDE\u201d was written, as \u201cHOLOCAUST\u201d was removed from Spotify in early 2020, while \u201cGENOCIDE\u201d was released in May, 2019.\n\nThis same sort of censorship occurred again when Darkie released the single \u201cIMPERFECT\u201d, which was taken down because it originally featured his face with a Swastika\u2013a script Hindus treat as a symbol of good fortune and prosperity\u2013in the background. But this time, Darkie decided to resubmit the artwork using the \u201cOm\u201d symbol instead, and the message \u201cCENSORED FOR SPEAKING OF LOVE.\u201d covering his mouth in the picture:"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 18337864,
+      "pinned": false,
+      "share_url": "https://genius.com/18337864",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/18337864/Lil-darkie-holocaust/Holocaust",
+      "verified": false,
+      "votes_total": 89,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5629244",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yyb6dzz5bv",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yyb6dzz5bv",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yyb6dzz5bv",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yyb6dzz5bv",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/57wrbep6epb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5629244,
+         "iq": 2598,
+         "login": "newblaze",
+         "name": "newblaze",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/newblaze",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "lildvrkie",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lildvrkie/holocaust"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rzJ-w3AVHjE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1679498",
+     "header_image_url": "https://images.genius.com/45f3e2d8b5a2697102cb67accda71b56.1000x209x1.jpg",
+     "id": 1679498,
+     "image_url": "https://images.genius.com/e0adbdb2e3cc15aeba81f7898f2dc46e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CUBENSiS",
+     "url": "https://genius.com/artists/Cubensis"
+    },
+    {
+     "api_path": "/artists/1291281",
+     "header_image_url": "https://images.genius.com/87b6e35842c20ffd09e5309ee3440df0.1000x1000x1.jpg",
+     "id": 1291281,
+     "image_url": "https://images.genius.com/ad3edab57b96f60b6f0a51fd95bc0c46.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wendigo",
+     "url": "https://genius.com/artists/Wendigo"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Dj-khaled-im-the-one-sample/samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5462485",
+       "artist_names": "COCKAHOLICS (Ft. Lil Kolya)",
+       "full_title": "IMA FART by\u00a0COCKAHOLICS (Ft.\u00a0Lil\u00a0Kolya)",
+       "header_image_thumbnail_url": "https://images.genius.com/bb31e185d652180904c6f9f6004a6811.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bb31e185d652180904c6f9f6004a6811.600x600x1.jpg",
+       "id": 5462485,
+       "language": "en",
+       "lyrics_owner_id": 10606515,
+       "lyrics_state": "complete",
+       "path": "/Cockaholics-ima-fart-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cockaholics-ima-fart-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 4,
+        "day": 3
+       },
+       "release_date_for_display": "April 3, 2021",
+       "release_date_with_abbreviated_month_for_display": "Apr. 3, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bb31e185d652180904c6f9f6004a6811.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bb31e185d652180904c6f9f6004a6811.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "IMA FART",
+       "title_with_featured": "IMA FART (Ft.\u00a0Lil\u00a0Kolya)",
+       "url": "https://genius.com/Cockaholics-ima-fart-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1747073",
+         "header_image_url": "https://images.genius.com/422131a4dc91b1331f748e52f51f3df6.500x500x1.jpg",
+         "id": 1747073,
+         "image_url": "https://images.genius.com/422131a4dc91b1331f748e52f51f3df6.500x500x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Lil Kolya",
+         "url": "https://genius.com/artists/Lil-kolya"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2184016",
+        "header_image_url": "https://images.genius.com/10d7f4ae9909b54ab814e88e8efc0267.1000x429x1.jpg",
+        "id": 2184016,
+        "image_url": "https://images.genius.com/70ca280b52ba0c3d2a58d8327ebc1bfc.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "COCKAHOLICS",
+        "url": "https://genius.com/artists/Cockaholics"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/6700875",
+       "artist_names": "Lil Kolya",
+       "full_title": "IMA FART by\u00a0Lil\u00a0Kolya",
+       "header_image_thumbnail_url": "https://images.genius.com/fe617678d22e76a4e67fa64415dfa5c6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fe617678d22e76a4e67fa64415dfa5c6.600x600x1.jpg",
+       "id": 6700875,
+       "language": "en",
+       "lyrics_owner_id": 10606515,
+       "lyrics_state": "complete",
+       "path": "/Lil-kolya-ima-fart-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lil-kolya-ima-fart-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 8,
+        "day": 6
+       },
+       "release_date_for_display": "August 6, 2020",
+       "release_date_with_abbreviated_month_for_display": "Aug. 6, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fe617678d22e76a4e67fa64415dfa5c6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fe617678d22e76a4e67fa64415dfa5c6.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "IMA FART",
+       "title_with_featured": "IMA FART",
+       "url": "https://genius.com/Lil-kolya-ima-fart-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1747073",
+        "header_image_url": "https://images.genius.com/422131a4dc91b1331f748e52f51f3df6.500x500x1.jpg",
+        "id": 1747073,
+        "image_url": "https://images.genius.com/422131a4dc91b1331f748e52f51f3df6.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Kolya",
+        "url": "https://genius.com/artists/Lil-kolya"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/2431237",
+       "artist_names": "XXXTENTACION",
+       "full_title": "#ImSippinTeaInYoHood by\u00a0XXXTENTACION",
+       "header_image_thumbnail_url": "https://images.genius.com/d6e668fd146ca90ede0e293c6f6306d6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d6e668fd146ca90ede0e293c6f6306d6.1000x1000x1.jpg",
+       "id": 2431237,
+       "language": "en",
+       "lyrics_owner_id": 214709,
+       "lyrics_state": "complete",
+       "path": "/Xxxtentacion-imsippinteainyohood-lyrics",
+       "pyongs_count": 121,
+       "relationships_index_url": "https://genius.com/Xxxtentacion-imsippinteainyohood-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 2,
+        "day": 26
+       },
+       "release_date_for_display": "February 26, 2016",
+       "release_date_with_abbreviated_month_for_display": "Feb. 26, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cff10bd44aca82315827f0923d0202f1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cff10bd44aca82315827f0923d0202f1.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 880726
+       },
+       "title": "#ImSippinTeaInYoHood",
+       "title_with_featured": "#ImSippinTeaInYoHood",
+       "url": "https://genius.com/Xxxtentacion-imsippinteainyohood-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/396565",
+        "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg",
+        "id": 396565,
+        "image_url": "https://images.genius.com/7337afb84752ce941b08f860be07a13d.548x548x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "XXXTENTACION",
+        "url": "https://genius.com/artists/Xxxtentacion",
+        "iq": 364
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 41,
+       "api_path": "/songs/4569874",
+       "artist_names": "Lil Darkie",
+       "full_title": "GENOCIDE by\u00a0Lil\u00a0Darkie",
+       "header_image_thumbnail_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.300x300x1.png",
+       "header_image_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.1000x1000x1.png",
+       "id": 4569874,
+       "language": "en",
+       "lyrics_owner_id": 7018009,
+       "lyrics_state": "complete",
+       "path": "/Lil-darkie-genocide-lyrics",
+       "pyongs_count": 59,
+       "relationships_index_url": "https://genius.com/Lil-darkie-genocide-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 5,
+        "day": 20
+       },
+       "release_date_for_display": "May 20, 2019",
+       "release_date_with_abbreviated_month_for_display": "May. 20, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/aed44451c76657715d7b4628638b59a1.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 30,
+        "hot": false,
+        "pageviews": 533220
+       },
+       "title": "GENOCIDE",
+       "title_with_featured": "GENOCIDE",
+       "url": "https://genius.com/Lil-darkie-genocide-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1614464",
+        "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+        "id": 1614464,
+        "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Darkie",
+        "url": "https://genius.com/artists/Lil-darkie",
+        "iq": 5893
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Dj-khaled-im-the-one-sample/covers",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7845761",
+       "artist_names": "Jay2$unny",
+       "full_title": "Shoutout my Instagram! by\u00a0Jay2$unny",
+       "header_image_thumbnail_url": "https://images.genius.com/8819a7521359f592acd48bfecd35452b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8819a7521359f592acd48bfecd35452b.1000x1000x1.jpg",
+       "id": 7845761,
+       "language": null,
+       "lyrics_owner_id": 14780286,
+       "lyrics_state": "unreleased",
+       "path": "/Jay2-unny-shoutout-my-instagram-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jay2-unny-shoutout-my-instagram-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8819a7521359f592acd48bfecd35452b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8819a7521359f592acd48bfecd35452b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shoutout my Instagram!",
+       "title_with_featured": "Shoutout my Instagram!",
+       "url": "https://genius.com/Jay2-unny-shoutout-my-instagram-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3056884",
+        "header_image_url": "https://images.genius.com/6572cb5fb0faa05dd5c802ed4e542ef3.720x720x1.jpg",
+        "id": 3056884,
+        "image_url": "https://images.genius.com/6572cb5fb0faa05dd5c802ed4e542ef3.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jay2$unny",
+        "url": "https://genius.com/artists/Jay2-unny"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/8547924",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/0cd6fa38257b45c13503efa47572f66f",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/0cd6fa38257b45c13503efa47572f66f",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/0cd6fa38257b45c13503efa47572f66f",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/0cd6fa38257b45c13503efa47572f66f",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 8547924,
+     "iq": 5893,
+     "login": "lildarkie",
+     "name": "Lil Darkie",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/lildarkie",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1614464",
+      "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+      "id": 1614464,
+      "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Lil Darkie",
+      "url": "https://genius.com/artists/Lil-darkie",
+      "iq": 5893
+     },
+     "user": {
+      "api_path": "/users/8547924",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/0cd6fa38257b45c13503efa47572f66f",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/0cd6fa38257b45c13503efa47572f66f",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/0cd6fa38257b45c13503efa47572f66f",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/0cd6fa38257b45c13503efa47572f66f",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 8547924,
+      "iq": 5893,
+      "login": "lildarkie",
+      "name": "Lil Darkie",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/lildarkie",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1614464",
+     "header_image_url": "https://images.genius.com/2badd0c3faa55f8adb4c52f7e162f942.1000x333x1.jpg",
+     "id": 1614464,
+     "image_url": "https://images.genius.com/a68f039d1c84059947865706ca72c864.828x828x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Darkie",
+     "url": "https://genius.com/artists/Lil-darkie",
+     "iq": 5893
+    }
+   ],
+   "artist": "Lil Darkie",
+   "lyrics": "83 ContributorsHOLOCAUST Lyrics[Intro]\nHa, hey guys, let's do one of those no melody songs, that\u2019ll be so creative\nYeah, yeah, yuh (Uh)\nAyy, Wendigo, you sound like Kenny Beats right now, hahaha (Yeah, yeah, yeah, yeah)\nChase the money, chase money, hahaha (Yeah, yeah, huh)\nYeah, oh my god, bitch, yes, yeah, Wendi!\n\n[Chorus]\nB-b-bitch, I'm smokin' gas in my chambers like it\u2019s the Holocaust\nPull up with a K on my rifle, that's what the holo cost\nTeacher said: \"You won't be successful makin' those animations\"\nShut yo' apple-eatin' ass up and do some laminations\n[Verse 1]\nI'd tear a page out the bible if I be out of papers\nIdle niggas worshipin' idols, put acid in yo\u2019 wafers\nPastor said: \"You won\u2019t be successful gettin' that boomin\u2019\"\nDid I ask ya' pussy nigga? You a human\nAnd I'ma be a star soon, wavy like Ahab, hit that nigga with the harpoon\nSave me, I may have pulled the trigger, ate some hard 'shrooms\nMaybe I\u2019m faded, but I wiggle like a cartoon\nYeah, I feel like a cartoon\nI'm in yo' devices, perpetuate your vices in crisis, but I'm the nicest\nAlways eat your food with spices\nPay attention to the prices, don't be made into a sucka'\nYou won't have enough for supper, keep ya' numbers on the upper\nTupperware eatin', my seatin' steady on the carpet\nI park it and then I spark it, no marketin' hittin' targets\nHit like a guitar pick, that's strummin' or like a drum that be gunnin'\nYou down for fun, I chuckle, and then I run\n\n[Verse 2]\nRun up, I dump it out, he wanna thump it out\nCoke in a mountain, my bitch gotta lump it out\nDon't do no arguments, pull up, no parkin' it\nYou hear the sound when my niggas is sparkin' it\nI got two hands on that bitch, I won't double back\nI got that cookie it double wrap, I got Gelato in Cuban tobacco\nI popped a new bottle and blew out her back, ho\nI act like a wacko ass\nI spit like I'm chewin' on you and don't know what to do with the goo\nYou a slimy ass nigga, you drip like a garbage bag\nTry me, I'll always pull up with a larger mag\nBuilt like an armory, niggas got no chance of harmin' me\nSmoke up a garden G, I think it harden me\nI am not hurtin', my pain is too far to see\nBitch, if we kick it, no way you say \"nah\" to weed\nOr to poppin' a bottle, we pop him, he waddle\nI ain't never dawdle, I'm kickin' the throttle while fuckin' a model\nI stay as a drawin', yo' life is a novel and most of it awful (Ass)\nNobody read no more, I stay on the screen, you whore\nYou pay to get seen, you poor\nDon't play for no team, I'm bored, huh?\nTalkin' that shit, yo' lip look like an asshole\nWalk in that bitch, shoot the bricks out yo' castle\nYou one them niggas, not purse, it's a satchel\nThat shit a purse, but it's less of a hassle\nWhy it got tassels? (Huh?) Why it got tassels on it?\nI won't pass the chronic to ya', supersonic-hoover-vacuum, bitch\nI pack her smackin' lips, my dick attack her\nSlip inside her back-end quick, stackin' chips\nLike it's a Pringles can, let's get it crackin' bitch, nigga\nBring it then, bring it then\nYou might also like[Bridge]\nBitch, I'm\u2014, bitch, I'm\u2014\nBitch, I'm smoking, bitch, I'm smoking gas in my chambers like it's the holocaust\nCubie!\n\n[Interlude]\nBitch, bring the hate, bring the smoke (Yuh, yuh)\nBitch, bring the hate, bring the smoke\nBitch, I'm feelin' great\nYeah, bitch, bitch, bitch, bitch, bitch (Bitch, bitch, bitch, bitch, bitch, bitch, bitch, huh, yuh)\n\n[Verse 3]\nBitch, bring the hate, bring the smoke, bitch, I'm feelin' great\nChopstick get ate, fuck yo' fate, change your fuckin' state\nUnder sewer grates, put the stock up to my waist\nI make you flip like a cake, fuck yo' zip, yo' cookie fake\nI tend to drip when I bake, put tobacco in my face\nBitch, off the rip, I be laced, go outside and catch a case\nThe pussy wet from the mace, riot dyin' in the street\nKeep up the pace, fuck you slowin' for?\nWe racin' on our feet, we move with haste\nI'm amazed, all these niggas fallin' off\nFree 14, all these other rappers soft\nSpider Gang, choppa cough\nBitch, on paper I look greater than presidents\nSet preposterous precedents, got a roster of resonance copper?\nBother the residents proper, stockin' your evidence locker\nMedicine set, it'll stomp your head in a dropper\nI keep the lead in a yappa, I get to poppin' ya' top\nOr ya' legs and sever spit red, and I drop ya' dead and in heaven with papa\nB-b-bitch, I'm smokin' heat like an oven, Hansel and Gretel\nSippin' tea inside your neighborhood, cannot handle the kettle\nPullin' up, double glovin', I'm buzzin' grippin' the metals\nSpend a dozen and dip before he can settle (Yuh)\nHe want beef, but he a chicken, I smoke a nigga, rotisserie\nYou history, I use my machine to make you a mystery like Scooby-Doo\nI roll up my doobie, full of the beautiful\nHer booty pull me in 'cause she's suitable, irrefutable\nRun upon you, make you a victim, I'm the fuckin' shooter\nI don't pay for features, I leak 'em, watch your damn computer\nBack in high school, they took my scooter, they made me a looter (They did it)\nI feel smart, I ain't need no tutor, born a true intruder\n[Chorus]\nBitch, I'm smokin' gas in my chambers like it's the holocaust\nP-p-pull up with a K on my rifle, that's what the holo cost\nT-t-teacher said: \"You won't be successful makin' those animations\"\nT-t-teacher ain't a doctor, got no patience (Nah)\n\n[Outro]\nI feel like a cartoon (Yeah, yeah)\nBitch, bitch, I feel like a cartoon (Yeah, yeah, huh?)\n(Ha, now we're so original guys, let's add that to the new genre)\n(Oh my god, so lyrical, I only deserve when there's so much clou\u2014)36Embed"
+  }
+ ]
+}

@@ -1,0 +1,1439 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2221460",
+ "description": {
+  "plain": "Al Kapone Bandamont.\nGR, Mi #RipHavic\nhttps://www.youtube.com/watch?v=Psqc6X34-tY&ab_channel=AKBandamont"
+ },
+ "facebook_name": null,
+ "followers_count": 9,
+ "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+ "id": 2221460,
+ "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+ "instagram_name": "_akbandamont",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "AK Bandamont",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ak-bandamont",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 20249428,
+  "annotator_login": "AliAlsaedy",
+  "api_path": "/referents/27909115",
+  "classification": "unreviewed",
+  "fragment": "AK Bandamont",
+  "id": 27909115,
+  "is_description": true,
+  "path": "/27909115/Ak-bandamont/Ak-bandamont",
+  "range": {
+   "content": "AK Bandamont"
+  },
+  "song_id": null,
+  "url": "https://genius.com/27909115/Ak-bandamont/Ak-bandamont",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2221460",
+   "context": null,
+   "id": 2221460,
+   "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+   "link_title": "AK Bandamont",
+   "title": "AK Bandamont",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ak-bandamont"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/27909115",
+    "body": {
+     "plain": "Al Kapone Bandamont.\nGR, Mi #RipHavic\nhttps://www.youtube.com/watch?v=Psqc6X34-tY&ab_channel=AKBandamont"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 27909115,
+    "pinned": false,
+    "share_url": "https://genius.com/27909115",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/27909115/Ak-bandamont/Ak-bandamont",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/20249428",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/fe1a18e212659f4ed424f04a17b7da38",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/fe1a18e212659f4ed424f04a17b7da38",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/fe1a18e212659f4ed424f04a17b7da38",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/fe1a18e212659f4ed424f04a17b7da38",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/fe1a18e212659f4ed424f04a17b7da38",
+       "human_readable_role_for_display": null,
+       "id": 20249428,
+       "iq": 146,
+       "login": "AliAlsaedy",
+       "name": "AliAlsaedy",
+       "role_for_display": null,
+       "url": "https://genius.com/AliAlsaedy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5936065",
+   "artist_names": "AK Bandamont (Ft. Kasher Quon & Teejayx6)",
+   "full_title": "Dynamic Trio by\u00a0AK\u00a0Bandamont (Ft.\u00a0Kasher\u00a0Quon & Teejayx6)",
+   "header_image_thumbnail_url": "https://images.genius.com/ce556d4abf088d9b81b7bc5bf09e9821.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ce556d4abf088d9b81b7bc5bf09e9821.640x640x1.jpg",
+   "id": 5936065,
+   "language": "en",
+   "lyrics_owner_id": 11331066,
+   "lyrics_state": "complete",
+   "path": "/Ak-bandamont-dynamic-trio-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ak-bandamont-dynamic-trio-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 9,
+    "day": 5
+   },
+   "release_date_for_display": "September 5, 2020",
+   "release_date_with_abbreviated_month_for_display": "Sep. 5, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/53c54cf4669fabb33f76f04bc48e3d90.225x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/53c54cf4669fabb33f76f04bc48e3d90.225x225x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dynamic Trio",
+   "title_with_featured": "Dynamic Trio (Ft.\u00a0Kasher\u00a0Quon & Teejayx6)",
+   "url": "https://genius.com/Ak-bandamont-dynamic-trio-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1876620",
+     "header_image_url": "https://images.genius.com/6f4a641d9089bf8991a98174de075121.1000x1000x1.jpg",
+     "id": 1876620,
+     "image_url": "https://images.genius.com/6f4a641d9089bf8991a98174de075121.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Teejayx6",
+     "url": "https://genius.com/artists/Teejayx6",
+     "iq": 601
+    },
+    {
+     "api_path": "/artists/1617695",
+     "header_image_url": "https://images.genius.com/5acb650649f62216685ea2f6e103b8e6.657x657x1.jpg",
+     "id": 1617695,
+     "image_url": "https://images.genius.com/1769cac7c6c01c1e973ee7e2a1e90a46.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kasher Quon",
+     "url": "https://genius.com/artists/Kasher-quon"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2221460",
+    "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+    "id": 2221460,
+    "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "AK Bandamont",
+    "url": "https://genius.com/artists/Ak-bandamont"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5936065/apple_music_player",
+   "description": {
+    "plain": "Since AK Bandamont is also a scam rapper. Teejayx6 & Kasher Quon have made 2 songs called \u201cDynamic Duo\u201d & \u201cDynamic Duo 2\u201d. They linked up with AK to make \u201cDynamic Trio\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_5936065' class='rg_embed_link' data-song-id='5936065'>Read <a href='https://genius.com/Ak-bandamont-dynamic-trio-lyrics'>\u201cDynamic Trio\u201d by AK\u00a0Bandamont</a> on Genius</div> <script crossorigin src='//genius.com/songs/5936065/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-09-05",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 16356549,
+    "annotator_login": "johnnyboi803",
+    "api_path": "/referents/20752995",
+    "classification": "unreviewed",
+    "fragment": "Dynamic Trio",
+    "id": 20752995,
+    "is_description": true,
+    "path": "/20752995/Ak-bandamont-dynamic-trio/Dynamic-trio",
+    "range": {
+     "content": "Dynamic Trio"
+    },
+    "song_id": 5936065,
+    "url": "https://genius.com/20752995/Ak-bandamont-dynamic-trio/Dynamic-trio",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5936065",
+     "client_timestamps": {
+      "updated_by_human_at": 1677535394,
+      "lyrics_updated_at": 1677535384
+     },
+     "context": "AK Bandamont",
+     "id": 5936065,
+     "image_url": "https://images.genius.com/53c54cf4669fabb33f76f04bc48e3d90.225x225x1.jpg",
+     "link_title": "Dynamic Trio by\u00a0AK\u00a0Bandamont (Ft.\u00a0Kasher\u00a0Quon & Teejayx6)",
+     "title": "Dynamic Trio",
+     "type": "Song",
+     "url": "https://genius.com/Ak-bandamont-dynamic-trio-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20752995",
+      "body": {
+       "plain": "Since AK Bandamont is also a scam rapper. Teejayx6 & Kasher Quon have made 2 songs called \u201cDynamic Duo\u201d & \u201cDynamic Duo 2\u201d. They linked up with AK to make \u201cDynamic Trio\u201d."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20752995,
+      "pinned": false,
+      "share_url": "https://genius.com/20752995",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/20752995/Ak-bandamont-dynamic-trio/Dynamic-trio",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/16356549",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dd74730dc54f51fa62737dc89b5dad31",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dd74730dc54f51fa62737dc89b5dad31",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dd74730dc54f51fa62737dc89b5dad31",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dd74730dc54f51fa62737dc89b5dad31",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/dd74730dc54f51fa62737dc89b5dad31",
+         "human_readable_role_for_display": null,
+         "id": 16356549,
+         "iq": 159,
+         "login": "johnnyboi803",
+         "name": "johnnyboi803",
+         "role_for_display": null,
+         "url": "https://genius.com/johnnyboi803",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/54639",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "human_readable_role_for_display": "Staff",
+    "id": 54639,
+    "iq": 2708581,
+    "login": "WriteNProppa",
+    "name": "WriteNProppa",
+    "role_for_display": "staff",
+    "url": "https://genius.com/WriteNProppa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oVDfQfm_pOk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2217372",
+     "header_image_url": "https://images.genius.com/6634f813803126196f02718a946c5578.900x900x1.jpg",
+     "id": 2217372,
+     "image_url": "https://images.genius.com/6634f813803126196f02718a946c5578.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Baby On The Track",
+     "url": "https://genius.com/artists/Baby-on-the-track"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1876620",
+     "header_image_url": "https://images.genius.com/6f4a641d9089bf8991a98174de075121.1000x1000x1.jpg",
+     "id": 1876620,
+     "image_url": "https://images.genius.com/6f4a641d9089bf8991a98174de075121.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Teejayx6",
+     "url": "https://genius.com/artists/Teejayx6",
+     "iq": 601
+    },
+    {
+     "api_path": "/artists/2221460",
+     "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+     "id": 2221460,
+     "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AK Bandamont",
+     "url": "https://genius.com/artists/Ak-bandamont"
+    },
+    {
+     "api_path": "/artists/1617695",
+     "header_image_url": "https://images.genius.com/5acb650649f62216685ea2f6e103b8e6.657x657x1.jpg",
+     "id": 1617695,
+     "image_url": "https://images.genius.com/1769cac7c6c01c1e973ee7e2a1e90a46.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kasher Quon",
+     "url": "https://genius.com/artists/Kasher-quon"
+    }
+   ],
+   "artist": "AK Bandamont",
+   "lyrics": "8 ContributorsDynamic Trio Lyrics[Intro]\n(Yeah, Baby, you did this one)\n(Yeah, Baby, you did this one)\n\n[Verse 1: Teejayx6]\nRobbed a nigga and took all his jewelry, he told the police\nBitch, that's just an Instagram page, you don't really know me\nI just scammed twenty PS4s from Sony\nNiggas fucked up in the crib eatin' Coney\n\n[Verse 2: AK Bandamont]\nI just knocked my granny out, she had to call brodie\nJust robbed a nigga eight times for twenty-four, I'm finna call Kobe\nMy Arab sellin' cards, he made a hundred, but they was all stolies\nMy dog will take your card and punch a site to load up our trophies\n[Verse 3: Kasher Quon]\nI just bought a new presi', that's a gold trophy\nStop tellin' hoes that you know me, you is not my homie\nThis bitch just said come over 'cause she lonely\nMy dog'll come kill you for a meal 'cause he hungry\n\n[Verse 4: Teejayx6]\nTold that bitch, \"I don't wanna fuck 'cause you ugly\"\nSlapped a white nigga 'cause he called me a monkey\nMe and Bandamont sellin' Bibles to the junkies\nI can't go a day without gettin' high, I'm a junkie\n\n[Verse 5: AK Bandamont]\nI dropped out of school in fifth grade, I was a big flunky\nBitch pulled up on me, she gave me forty, I told the bitch suck me\nHaha, I guess it went backwards\nI made a cool thirty off sellin' the Bible, I'm in a big chapter\n\n[Verse 6: Kasher Quon]\nBoth of them hoes' lips crusty, I don't know who's chapper\nEverybody be lyin' nowadays, I don't know who a capper\nYeah, we both poured up Wock', but my cup is blacker\nYeah, your bitch got a fat ass, but my bitch is fatter\n\n[Verse 7: Teejayx6]\nI got a Perc-10 in my system, I'm so high\nIf a lil' nigga run up on me, he gon' die\nHow much money have I made off scams? It been a lot\nShoot a nigga with an AK like I'm Bandamont\nYou might also like[Verse 8: AK Bandamont]\nMa dukes asked why I keep a MacBook, 'cause I scam a lot\nYeah, you say you got a Glock 30, but it jam a lot\nI just popped a Perc-30, now I itch a lot\nI shoot that bitch precisely like Steph Curry, this a different shot\n\n[Verse 9: Teejayx6]\nHe tried to hit my bitch DM, but he missed his shot\nI just caught an opp out in public, but I missed my shot\nI just wasted a four of Hi-Tech 'cause I missed the pop\n'Cause I'm tryna pour up again and I'm already high\n\n[Verse 10: Kasher Quon]\nI don't know if I should smoke the Runtz or the Turtle Pie\nThat nigga be cappin', all he do is tell fairytales\nThat ain't real Larry 'cause I know how real Larry smell\nI heard you got locked for five hundred and couldn't pay the bail\n\n[Verse 11: AK Bandamont]\nMy granny asked how I'm livin', I said very well\nMy dog pulled up with six pints, I checked every seal\nYou can't tax a hundred for that eighth, I bet Larry will\nMy doggy dropped the 'Cat and did the race and broke every wheel\nBack in '015, I ran up twenty sellin' certain pills\nSellin' certain pills, do fraud, 'cause that's a certain stealEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7315147",
+   "artist_names": "AK Bandamont",
+   "full_title": "Withdrawls by\u00a0AK\u00a0Bandamont",
+   "header_image_thumbnail_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.640x640x1.jpg",
+   "id": 7315147,
+   "language": "en",
+   "lyrics_owner_id": 4843495,
+   "lyrics_state": "complete",
+   "path": "/Ak-bandamont-withdrawls-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ak-bandamont-withdrawls-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 4,
+    "day": 13
+   },
+   "release_date_for_display": "April 13, 2021",
+   "release_date_with_abbreviated_month_for_display": "Apr. 13, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Withdrawls",
+   "title_with_featured": "Withdrawls",
+   "url": "https://genius.com/Ak-bandamont-withdrawls-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2221460",
+    "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+    "id": 2221460,
+    "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "AK Bandamont",
+    "url": "https://genius.com/artists/Ak-bandamont"
+   },
+   "apple_music_id": "1563515736",
+   "apple_music_player_url": "https://genius.com/songs/7315147/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7315147' class='rg_embed_link' data-song-id='7315147'>Read <a href='https://genius.com/Ak-bandamont-withdrawls-lyrics'>\u201cWithdrawls\u201d by AK\u00a0Bandamont</a> on Genius</div> <script crossorigin src='//genius.com/songs/7315147/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-04-13",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/880635",
+    "cover_art_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.640x640x1.jpg",
+    "full_title": "BANDIT MIX by AK Bandamont",
+    "id": 880635,
+    "name": "BANDIT MIX",
+    "release_date_for_display": "April 16, 2021",
+    "url": "https://genius.com/albums/Ak-bandamont/Bandit-mix",
+    "artist": {
+     "api_path": "/artists/2221460",
+     "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+     "id": 2221460,
+     "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AK Bandamont",
+     "url": "https://genius.com/artists/Ak-bandamont"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4843495,
+    "annotator_login": "richkidom",
+    "api_path": "/referents/24230486",
+    "classification": "needs_exegesis",
+    "fragment": "Withdrawls",
+    "id": 24230486,
+    "is_description": true,
+    "path": "/24230486/Ak-bandamont-withdrawls/Withdrawls",
+    "range": {
+     "content": "Withdrawls"
+    },
+    "song_id": 7315147,
+    "url": "https://genius.com/24230486/Ak-bandamont-withdrawls/Withdrawls",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7315147",
+     "client_timestamps": {
+      "updated_by_human_at": 1658431925,
+      "lyrics_updated_at": 1635656974
+     },
+     "context": "AK Bandamont",
+     "id": 7315147,
+     "image_url": "https://images.genius.com/ef74a2599689ea18746eae0b864becd2.640x640x1.jpg",
+     "link_title": "Withdrawls by\u00a0AK\u00a0Bandamont",
+     "title": "Withdrawls",
+     "type": "Song",
+     "url": "https://genius.com/Ak-bandamont-withdrawls-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24230486",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 24230486,
+      "pinned": false,
+      "share_url": "https://genius.com/24230486",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/24230486/Ak-bandamont-withdrawls/Withdrawls",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4843495",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b9b40d9b8a48363cc53ba6cff12843dc",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b9b40d9b8a48363cc53ba6cff12843dc",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b9b40d9b8a48363cc53ba6cff12843dc",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b9b40d9b8a48363cc53ba6cff12843dc",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/b9b40d9b8a48363cc53ba6cff12843dc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4843495,
+         "iq": 772,
+         "login": "richkidom",
+         "name": "richkidom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/richkidom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1_WHQ3NBn2M"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2221460",
+     "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+     "id": 2221460,
+     "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AK Bandamont",
+     "url": "https://genius.com/artists/Ak-bandamont"
+    }
+   ],
+   "artist": "AK Bandamont",
+   "lyrics": "3 ContributorsWithdrawls Lyrics[Intro]\nYeah, AK Bandamont nigga, Uh\n\n[Verse 1]\nSoon as I make the dope lock, turn the heat on\nGrandma died at a young age, she grew up watching buddy breathe coke\nAssault rifles and automatic glizzys\u205fwith\u205fthe\u205fbleekholes\nI had them\u205fjackboys jack you\u205fout yo shit you better think close\nThe day I jumped into this shit I couldn't think, no\nI'm at the traphouse now with bitches on me but they ain't hoes\nI got a roll of dogshit on me and it can't fold, we almost took lil doggie out the game but we came close\nAnd if you on the shit I'm on, we in the same boat\nI was on that 95, dodgin the jakes on the state road\nI just shot a nigga up close, I gotta change clothes\nI'm goin through withdrawls like where the pills and where the drank go\nI already ran through 20 chops, I need a draco\nI'm finna color wrap the Glock and paint it maple\nI can spend 20 a week for 90 days, bitch I'm stable\nWe took the cord off doggie life, and pulled the cable\nI'm finna put her on the road, cuz she a angel\nI done shot a nigga from 20 blocks away, that's a crazy angle\nI'll pull the nina out thats a baby banger, why the fuck these niggas writing statements on the affidavit\nI can have this bitch do a hex on you, but she is not a Haitan\nI'll prolly get paid for steppin on white, but I am not a racist\nI'm on my way, out to the hills, so it's prolly gated\nI'm finna buy 2 Hellcats, we'll prolly race em'\nHe can't go nowhere but his hood, so we caught him dangling\nI can't be with girly poppin that hoe, she'll prolly mace him\nIf I get a clean pure batch, Ill prolly taste it\nAnd hit it with some shit I had put up, now the pound ancient\nYou ain't got no hustle in you, that's embarrassing\nBitch I got cold blood runnin in my veins, this shit inherited\nI think I got a route, lets hit Connecticut, cause I'm the type to see some shit from far than get ahead of it\nFinna buy a pint of purp and I ain't sellin it\nThat bitch lying to you like she ain't fucked, but she ain't celibate\nI'm finna learn about this bank, then I'm scammin it\nThen take a nigga bitch to the traphouse, then i'm rammin it\nBut I'm still clutchin the pole, while I'm crammin it\nI'm sick they sent doggie that way, and he tellin it\nI was gon' give girly the dick, but I'm smellin it\nShe put a pricetag on the cat, why you sellin it\nI can't even hit the party, I think 12 in it\nI was gon bring that package in, and sell in it\nThey was tryna keep me out the streets, but I fell in em\nThey cooked big bro back in the day, it was a failed mission\nI made a killin sellin dog, hittin pale bitches\nThen I made wet shit on the floor, I couldn't stop hittin it\nI just fucked this bitch for 12 hours straight, I couldn't stop hittin it\nHold on I'm finna turn my phone off, I think the cops listeningYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6654608",
+   "artist_names": "AK Bandamont",
+   "full_title": "Building Fell 2 by\u00a0AK\u00a0Bandamont",
+   "header_image_thumbnail_url": "https://images.genius.com/06b4730601d00dfab8d6d0509f73f384.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/06b4730601d00dfab8d6d0509f73f384.500x500x1.jpg",
+   "id": 6654608,
+   "language": "en",
+   "lyrics_owner_id": 4438121,
+   "lyrics_state": "complete",
+   "path": "/Ak-bandamont-building-fell-2-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ak-bandamont-building-fell-2-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 2,
+    "day": 4
+   },
+   "release_date_for_display": "February 4, 2021",
+   "release_date_with_abbreviated_month_for_display": "Feb. 4, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/06b4730601d00dfab8d6d0509f73f384.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06b4730601d00dfab8d6d0509f73f384.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Building Fell 2",
+   "title_with_featured": "Building Fell 2",
+   "url": "https://genius.com/Ak-bandamont-building-fell-2-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2221460",
+    "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+    "id": 2221460,
+    "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "AK Bandamont",
+    "url": "https://genius.com/artists/Ak-bandamont"
+   },
+   "apple_music_id": "1551395341",
+   "apple_music_player_url": "https://genius.com/songs/6654608/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6654608' class='rg_embed_link' data-song-id='6654608'>Read <a href='https://genius.com/Ak-bandamont-building-fell-2-lyrics'>\u201cBuilding Fell 2\u201d by AK\u00a0Bandamont</a> on Genius</div> <script crossorigin src='//genius.com/songs/6654608/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-02-04",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/754430",
+    "cover_art_url": "https://images.genius.com/3fadc9a3a223011f4dd1eab0452bb5c1.1000x1000x1.png",
+    "full_title": "Mr.Firebomb by AK Bandamont",
+    "id": 754430,
+    "name": "Mr.Firebomb",
+    "release_date_for_display": "February 4, 2021",
+    "url": "https://genius.com/albums/Ak-bandamont/Mr-firebomb",
+    "artist": {
+     "api_path": "/artists/2221460",
+     "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+     "id": 2221460,
+     "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AK Bandamont",
+     "url": "https://genius.com/artists/Ak-bandamont"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Additional Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/27758",
+       "header_image_url": "https://images.genius.com/c01abebcb25ce8f981df4f166c888bfe.1000x429x1.jpg",
+       "id": 27758,
+       "image_url": "https://images.genius.com/d24f3b2eb7f09f8cbd12fb293d17af1d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Idris Elba",
+       "url": "https://genius.com/artists/Idris-elba"
+      },
+      {
+       "api_path": "/artists/208690",
+       "header_image_url": "https://images.genius.com/a5da2036a47cb2eea60d326290cad5c2.1000x1000x1.jpg",
+       "id": 208690,
+       "image_url": "https://images.genius.com/a5da2036a47cb2eea60d326290cad5c2.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Denzel Washington",
+       "url": "https://genius.com/artists/Denzel-washington"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4438121,
+    "annotator_login": "1MiniMike",
+    "api_path": "/referents/22606969",
+    "classification": "needs_exegesis",
+    "fragment": "Building Fell 2",
+    "id": 22606969,
+    "is_description": true,
+    "path": "/22606969/Ak-bandamont-building-fell-2/Building-fell-2",
+    "range": {
+     "content": "Building Fell 2"
+    },
+    "song_id": 6654608,
+    "url": "https://genius.com/22606969/Ak-bandamont-building-fell-2/Building-fell-2",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6654608",
+     "client_timestamps": {
+      "updated_by_human_at": 1665033580,
+      "lyrics_updated_at": 1665033580
+     },
+     "context": "AK Bandamont",
+     "id": 6654608,
+     "image_url": "https://images.genius.com/06b4730601d00dfab8d6d0509f73f384.500x500x1.jpg",
+     "link_title": "Building Fell 2 by\u00a0AK\u00a0Bandamont",
+     "title": "Building Fell 2",
+     "type": "Song",
+     "url": "https://genius.com/Ak-bandamont-building-fell-2-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22606969",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22606969,
+      "pinned": false,
+      "share_url": "https://genius.com/22606969",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22606969/Ak-bandamont-building-fell-2/Building-fell-2",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4438121",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/66b5fd5ce9be7f18015a1ec2adefdd74",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/66b5fd5ce9be7f18015a1ec2adefdd74",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/66b5fd5ce9be7f18015a1ec2adefdd74",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/66b5fd5ce9be7f18015a1ec2adefdd74",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/66b5fd5ce9be7f18015a1ec2adefdd74",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4438121,
+         "iq": 3422,
+         "login": "1MiniMike",
+         "name": "1MiniMike",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/1MiniMike",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "realslaps",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/realslaps/ak-bandamont-building-fell-2"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ETCAJ3JDQaQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2001027",
+     "header_image_url": "https://images.genius.com/113b1e1e9f85b8c7d2e4440c520b63db.288x288x1.jpg",
+     "id": 2001027,
+     "image_url": "https://images.genius.com/746d8e628ccd3ec50fc21f6574ee0923.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Enrgy Beats",
+     "url": "https://genius.com/artists/Enrgy-beats"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2221460",
+     "header_image_url": "https://images.genius.com/2f43ef16871b0fe7a70d0ece5a7d8cae.620x640x1.jpg",
+     "id": 2221460,
+     "image_url": "https://images.genius.com/a6a020b1f45635bc256a785d133ddbed.620x620x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "AK Bandamont",
+     "url": "https://genius.com/artists/Ak-bandamont"
+    }
+   ],
+   "artist": "AK Bandamont",
+   "lyrics": "5 ContributorsBuilding Fell 2 Lyrics[Intro: AK Bandamont & Denzel Washington]\n(Enrgy made this one)\nAK Bandamont nigga\nI get bands a lot nigga\nSee, you are what you are in this world (You know that, yeah)\nThat's either one of two things\nEither you're somebody, or you're nobody. Be right back\n\n[Verse: AK Bandamont]\nWhen I hit the road, got white stuff in the seat, that's on the bible\nIf I make it snow, them hoes will be going crazy for a while\nIf that bitch say she don't feel safe, hittin' the road, then I should drive you\nThat lil' bitch said she ain't ever have the stuffs, said \"You should try too.\"\nShoutout my pops, got fifty, ninety racks, so that's my idol\nI've just seen the trap bust down a whole pound, with my eyes open\nI just hit your hood and killed like ten opps, fuck a rival\nYou think your nigga crazy until he meet AK, he's suicidal\nI've been selling dope legit for a few years, I used a flyer\nAnd why she acting like my name Nick Cannon, and she Mariah?\nYou can't cut up my work, unless you do it precise, is you entitled?\nI was in the church, not feeling the shit they say, fuck the Messiah\nI've been cutting work nonstop, I'm off to eat, I can't retire\nShe keep actin' stupid, so I made her strip, she wear a wire\nYou gotta know that if you, ever try to jank me you a die-er\nOr like a bitch she sniff through a blue bean to get higher\nYeah, she tryna to stay higher\nI can make these plays and make six bands, I got great buyers\nMy dog was cooking up dope in the woods, he started eight fires\nI was fucking while I was drivin', the wheels fell off, I had to change tires\nI got my name higher\nMade thirty seven this week, made 60 before I got a 'caine-pire\nHit this while I grab something to whip up lean, bro I ain't lying\nIt's funny when I make songs, I talk cash shit, but I ain't trying\nJust broke the chopper down, now it's a drake, its a K child\nUp the Glock and make you give up everything, and make you lay down\nJust ran through a half pound a couple times, now I need eight pounds\nDropped, took a duece two times and poured a four, boy that's an eight-ounce\nShit back when it was petty, and made a fifty off a fake ounce\nUp the Glock and shoot lil' dog two times, and made his face bounce\nYou ever woke up broke and need some cheese? So take a day out\nHad to make a band before I head home, what's your day count?\nYeah, I'm with the mob nigga\nDon't talk about some shit that you don't know, you might get lost in it\nIf you ever see him around them, just know that's my nigga\nI got this fiend who sniff and work construction, look like Bob Builder\nDon't ask to front, you niggas broke as shit, you know your spot nigga\nI see you out, I'ma shoot at you off rip as soon as I spot niggas\nYour bitch gave me neck, you wanna kill me, I'ma pop niggas\nI pull it out, and put it in her jaw, like a popsicle\nShit, we all step on work, just tell me who did it\nThis bitch don't fucking care, she tryna to die, she love to shoot crystals\nWith my fiend [?], with the bald head look like Bruce willis\nI was tryna stack my bread up to the roof, but I need two ceilings\n[Outro: AK Bandamont, Idris Elba & Denzel Washington]\nI need these fresh. 'Cause if I have to come back here and get you, you know what it is (We don't play that shit)\nTango. Where's my money?  (You better have all that shit) Redtop gave you the package. You're supposed to be handing me my money. Here's a jar right here. Twenty percent\nOh you got the jar?\nThat's right\nGet the fuck out of here-oh, what you gonna do? What the fuck you gonna do, Frank? Huh? What you doing? You gonna shoot me, in front of everybody? Huh? Come onYou might also likeEmbed"
+  }
+ ]
+}

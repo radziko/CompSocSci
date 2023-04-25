@@ -1,0 +1,1234 @@
+{
+ "alternate_names": [
+  "D72 (DE)",
+  "Dirk Wershofen",
+  "D. Wershofen"
+ ],
+ "api_path": "/artists/3127691",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "d72official",
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+ "id": 3127691,
+ "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+ "instagram_name": "d72official",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "D72",
+ "translation_artist": false,
+ "twitter_name": "d72official",
+ "url": "https://genius.com/artists/D72",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7651968,
+  "annotator_login": "Lukas59",
+  "api_path": "/referents/25570297",
+  "classification": "needs_exegesis",
+  "fragment": "D72",
+  "id": 25570297,
+  "is_description": true,
+  "path": "/25570297/D72/D72",
+  "range": {
+   "content": "D72"
+  },
+  "song_id": null,
+  "url": "https://genius.com/25570297/D72/D72",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/3127691",
+   "context": null,
+   "id": 3127691,
+   "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+   "link_title": "D72",
+   "title": "D72",
+   "type": "Artist",
+   "url": "https://genius.com/artists/D72"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/25570297",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 25570297,
+    "pinned": false,
+    "share_url": "https://genius.com/25570297",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/25570297/D72/D72",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7651968",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0o6qoeai33bb",
+       "human_readable_role_for_display": "Editor",
+       "id": 7651968,
+       "iq": 392194,
+       "login": "Lukas59",
+       "name": "Lukas59",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Lukas59",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7895367",
+   "artist_names": "D72",
+   "full_title": "Switch Play by\u00a0D72",
+   "header_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+   "header_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+   "id": 7895367,
+   "language": "en",
+   "lyrics_owner_id": 7651968,
+   "lyrics_state": "complete",
+   "path": "/D72-switch-play-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/D72-switch-play-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 2,
+    "day": 18
+   },
+   "release_date_for_display": "February 18, 2022",
+   "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Switch Play",
+   "title_with_featured": "Switch Play",
+   "url": "https://genius.com/D72-switch-play-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/3127691",
+    "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+    "id": 3127691,
+    "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "D72",
+    "url": "https://genius.com/artists/D72"
+   },
+   "apple_music_id": "1612959119",
+   "apple_music_player_url": "https://genius.com/songs/7895367/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7895367' class='rg_embed_link' data-song-id='7895367'>Read <a href='https://genius.com/D72-switch-play-lyrics'>\u201cSwitch Play\u201d by D72</a> on Genius</div> <script crossorigin src='//genius.com/songs/7895367/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-02-18",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/894023",
+    "cover_art_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+    "full_title": "Switch Play (Single) by D72",
+    "id": 894023,
+    "name": "Switch Play (Single)",
+    "release_date_for_display": "February 18, 2022",
+    "url": "https://genius.com/albums/D72/Switch-play-single",
+    "artist": {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7651968,
+    "annotator_login": "Lukas59",
+    "api_path": "/referents/25570295",
+    "classification": "needs_exegesis",
+    "fragment": "Switch Play",
+    "id": 25570295,
+    "is_description": true,
+    "path": "/25570295/D72-switch-play/Switch-play",
+    "range": {
+     "content": "Switch Play"
+    },
+    "song_id": 7895367,
+    "url": "https://genius.com/25570295/D72-switch-play/Switch-play",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7895367",
+     "client_timestamps": {
+      "updated_by_human_at": 1649874584,
+      "lyrics_updated_at": 1649874584
+     },
+     "context": "D72",
+     "id": 7895367,
+     "image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+     "link_title": "Switch Play by\u00a0D72",
+     "title": "Switch Play",
+     "type": "Song",
+     "url": "https://genius.com/D72-switch-play-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25570295",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25570295,
+      "pinned": false,
+      "share_url": "https://genius.com/25570295",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25570295/D72-switch-play/Switch-play",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7651968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0o6qoeai33bb",
+         "human_readable_role_for_display": "Editor",
+         "id": 7651968,
+         "iq": 392194,
+         "login": "Lukas59",
+         "name": "Lukas59",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Lukas59",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/7651968",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0o6qoeai33bb",
+    "human_readable_role_for_display": "Editor",
+    "id": 7651968,
+    "iq": 392194,
+    "login": "Lukas59",
+    "name": "Lukas59",
+    "role_for_display": "editor",
+    "url": "https://genius.com/Lukas59",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-pBeeCyXtgM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7895371",
+       "artist_names": "D72",
+       "full_title": "Switch Play (Extended Mix) by\u00a0D72",
+       "header_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+       "header_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+       "id": 7895371,
+       "language": "en",
+       "lyrics_owner_id": 7651968,
+       "lyrics_state": "complete",
+       "path": "/D72-switch-play-extended-mix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/D72-switch-play-extended-mix-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 18
+       },
+       "release_date_for_display": "February 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Switch Play (Extended Mix)",
+       "title_with_featured": "Switch Play (Extended Mix)",
+       "url": "https://genius.com/D72-switch-play-extended-mix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3127691",
+        "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+        "id": 3127691,
+        "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "D72",
+        "url": "https://genius.com/artists/D72"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   ],
+   "artist": "D72",
+   "lyrics": "1 ContributorSwitch Play Lyrics[Intro]\nAcid rain\n\n[Drop]\nSwitch play\n\n[Drop]\nSwitch play\n\n[Instrumental]You might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7895371",
+   "artist_names": "D72",
+   "full_title": "Switch Play (Extended Mix) by\u00a0D72",
+   "header_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+   "header_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+   "id": 7895371,
+   "language": "en",
+   "lyrics_owner_id": 7651968,
+   "lyrics_state": "complete",
+   "path": "/D72-switch-play-extended-mix-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/D72-switch-play-extended-mix-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 2,
+    "day": 18
+   },
+   "release_date_for_display": "February 18, 2022",
+   "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Switch Play (Extended Mix)",
+   "title_with_featured": "Switch Play (Extended Mix)",
+   "url": "https://genius.com/D72-switch-play-extended-mix-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/3127691",
+    "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+    "id": 3127691,
+    "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "D72",
+    "url": "https://genius.com/artists/D72"
+   },
+   "apple_music_id": "1612959121",
+   "apple_music_player_url": "https://genius.com/songs/7895371/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7895371' class='rg_embed_link' data-song-id='7895371'>Read <a href='https://genius.com/D72-switch-play-extended-mix-lyrics'>\u201cSwitch Play (Extended Mix)\u201d by D72</a> on Genius</div> <script crossorigin src='//genius.com/songs/7895371/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-02-18",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/894023",
+    "cover_art_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+    "full_title": "Switch Play (Single) by D72",
+    "id": 894023,
+    "name": "Switch Play (Single)",
+    "release_date_for_display": "February 18, 2022",
+    "url": "https://genius.com/albums/D72/Switch-play-single",
+    "artist": {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/3127692",
+       "header_image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "id": 3127692,
+       "image_url": "https://images.genius.com/417cdd58a06548cfa42d909f30bc5b32.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armind Recordings",
+       "url": "https://genius.com/artists/Armind-recordings"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7651968,
+    "annotator_login": "Lukas59",
+    "api_path": "/referents/25570310",
+    "classification": "needs_exegesis",
+    "fragment": "Switch Play (Extended Mix)",
+    "id": 25570310,
+    "is_description": true,
+    "path": "/25570310/D72-switch-play-extended-mix/Switch-play-extended-mix",
+    "range": {
+     "content": "Switch Play (Extended Mix)"
+    },
+    "song_id": 7895371,
+    "url": "https://genius.com/25570310/D72-switch-play-extended-mix/Switch-play-extended-mix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7895371",
+     "client_timestamps": {
+      "updated_by_human_at": 1649874589,
+      "lyrics_updated_at": 1649874589
+     },
+     "context": "D72",
+     "id": 7895371,
+     "image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+     "link_title": "Switch Play (Extended Mix) by\u00a0D72",
+     "title": "Switch Play (Extended Mix)",
+     "type": "Song",
+     "url": "https://genius.com/D72-switch-play-extended-mix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25570310",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25570310,
+      "pinned": false,
+      "share_url": "https://genius.com/25570310",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25570310/D72-switch-play-extended-mix/Switch-play-extended-mix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7651968",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0o6qoeai33bb",
+         "human_readable_role_for_display": "Editor",
+         "id": 7651968,
+         "iq": 392194,
+         "login": "Lukas59",
+         "name": "Lukas59",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Lukas59",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/7651968",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/6f132ce20f669af371dd2c4b9ddc6fd6.1000x1000x1.jpg",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0o6qoeai33bb",
+    "human_readable_role_for_display": "Editor",
+    "id": 7651968,
+    "iq": 392194,
+    "login": "Lukas59",
+    "name": "Lukas59",
+    "role_for_display": "editor",
+    "url": "https://genius.com/Lukas59",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=AdtFDGQqDmc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7895367",
+       "artist_names": "D72",
+       "full_title": "Switch Play by\u00a0D72",
+       "header_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+       "header_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+       "id": 7895367,
+       "language": "en",
+       "lyrics_owner_id": 7651968,
+       "lyrics_state": "complete",
+       "path": "/D72-switch-play-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/D72-switch-play-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 18
+       },
+       "release_date_for_display": "February 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/137f854fd004236797cb035621e35c31.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Switch Play",
+       "title_with_featured": "Switch Play",
+       "url": "https://genius.com/D72-switch-play-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3127691",
+        "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+        "id": 3127691,
+        "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "D72",
+        "url": "https://genius.com/artists/D72"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3127691",
+     "header_image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "id": 3127691,
+     "image_url": "https://images.genius.com/04d790d3bd3ddde4c4dc6ec10d956e08.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "D72",
+     "url": "https://genius.com/artists/D72"
+    }
+   ],
+   "artist": "D72",
+   "lyrics": "1 ContributorSwitch Play (Extended Mix) Lyrics[Intro]\nAcid rain\n\n[Drop]\nSwitch play\n\n[Drop]\nSwitch play\n\n[Instrumental]You might also likeEmbed"
+  }
+ ]
+}

@@ -1,0 +1,961 @@
+{
+ "alternate_names": [
+  "Alex Ryberg",
+  "Alexander Ryberg"
+ ],
+ "api_path": "/artists/630988",
+ "description": {
+  "plain": "Alexander Ryberg, also known by his stage name Alex Aris, is a Swedish singer and songwriter based in Sweden. He is famously known for being the lead vocalist of dance pop and house duo Max Elto, alongside songwriter and record producer Tom Taped. Together, they appeared in David Guetta\u2019s single \u201cJust One Last Time\u201d, credited under the alias Taped Rai.\n\nAlex Aris has been going solo from the project for the past few years and has been out of the limelight for quite sometime since. However, he made a quick comeback with his debut solo single \u201cWrong Love\u201d, which was released in 2018."
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/6fd9cecfd42e4faec722b30cbbcb57aa.1000x311x1.png",
+ "id": 630988,
+ "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Alex Aris",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Alex-aris",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3279839,
+  "annotator_login": "Whippy7",
+  "api_path": "/referents/8528057",
+  "classification": "accepted",
+  "fragment": "Alex Aris",
+  "id": 8528057,
+  "is_description": true,
+  "path": "/8528057/Alex-aris/Alex-aris",
+  "range": {
+   "content": "Alex Aris"
+  },
+  "song_id": null,
+  "url": "https://genius.com/8528057/Alex-aris/Alex-aris",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/630988",
+   "context": null,
+   "id": 630988,
+   "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+   "link_title": "Alex Aris",
+   "title": "Alex Aris",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Alex-aris"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/8528057",
+    "body": {
+     "plain": "Alexander Ryberg, also known by his stage name Alex Aris, is a Swedish singer and songwriter based in Sweden. He is famously known for being the lead vocalist of dance pop and house duo Max Elto, alongside songwriter and record producer Tom Taped. Together, they appeared in David Guetta\u2019s single \u201cJust One Last Time\u201d, credited under the alias Taped Rai.\n\nAlex Aris has been going solo from the project for the past few years and has been out of the limelight for quite sometime since. However, he made a quick comeback with his debut solo single \u201cWrong Love\u201d, which was released in 2018."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 8528057,
+    "pinned": false,
+    "share_url": "https://genius.com/8528057",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/8528057/Alex-aris/Alex-aris",
+    "verified": false,
+    "votes_total": 3,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3279839",
+       "avatar": {
+        "tiny": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i75s230xnbnv",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3279839,
+       "iq": 200204,
+       "login": "Whippy7",
+       "name": "Whippy7",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Whippy7",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3523512",
+   "artist_names": "Alex Aris",
+   "full_title": "Wrong Love by\u00a0Alex\u00a0Aris",
+   "header_image_thumbnail_url": "https://images.genius.com/f68be198f878b914b1547cf0eeb78ade.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/f68be198f878b914b1547cf0eeb78ade.1000x563x1.jpg",
+   "id": 3523512,
+   "language": "en",
+   "lyrics_owner_id": 2754583,
+   "lyrics_state": "complete",
+   "path": "/Alex-aris-wrong-love-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Alex-aris-wrong-love-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 2,
+    "day": 9
+   },
+   "release_date_for_display": "February 9, 2018",
+   "release_date_with_abbreviated_month_for_display": "Feb. 9, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0a50ae67716a02e838965d5c5b46e483.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0a50ae67716a02e838965d5c5b46e483.350x350x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Wrong Love",
+   "title_with_featured": "Wrong Love",
+   "url": "https://genius.com/Alex-aris-wrong-love-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/630988",
+    "header_image_url": "https://images.genius.com/6fd9cecfd42e4faec722b30cbbcb57aa.1000x311x1.png",
+    "id": 630988,
+    "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alex Aris",
+    "url": "https://genius.com/artists/Alex-aris"
+   },
+   "apple_music_id": "1346941848",
+   "apple_music_player_url": "https://genius.com/songs/3523512/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3523512' class='rg_embed_link' data-song-id='3523512'>Read <a href='https://genius.com/Alex-aris-wrong-love-lyrics'>\u201cWrong Love\u201d by Alex\u00a0Aris</a> on Genius</div> <script crossorigin src='//genius.com/songs/3523512/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-02-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2754583,
+    "annotator_login": "everything_beta",
+    "api_path": "/referents/13856931",
+    "classification": "needs_exegesis",
+    "fragment": "Wrong Love",
+    "id": 13856931,
+    "is_description": true,
+    "path": "/13856931/Alex-aris-wrong-love/Wrong-love",
+    "range": {
+     "content": "Wrong Love"
+    },
+    "song_id": 3523512,
+    "url": "https://genius.com/13856931/Alex-aris-wrong-love/Wrong-love",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3523512",
+     "client_timestamps": {
+      "updated_by_human_at": 1676824656,
+      "lyrics_updated_at": 1525792973
+     },
+     "context": "Alex Aris",
+     "id": 3523512,
+     "image_url": "https://images.genius.com/0a50ae67716a02e838965d5c5b46e483.350x350x1.jpg",
+     "link_title": "Wrong Love by\u00a0Alex\u00a0Aris",
+     "title": "Wrong Love",
+     "type": "Song",
+     "url": "https://genius.com/Alex-aris-wrong-love-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13856931",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13856931,
+      "pinned": false,
+      "share_url": "https://genius.com/13856931",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13856931/Alex-aris-wrong-love/Wrong-love",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2754583",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/78dfb294cb33a97e854d17117c511051",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/78dfb294cb33a97e854d17117c511051",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/78dfb294cb33a97e854d17117c511051",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/78dfb294cb33a97e854d17117c511051",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/78dfb294cb33a97e854d17117c511051",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2754583,
+         "iq": 5851,
+         "login": "everything_beta",
+         "name": "everything_beta",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/everything_beta",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NlISDtHp4B4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/500732",
+     "header_image_url": "https://images.genius.com/ae079d77ce441cc22a36a02af2df820c.400x400x1.jpg",
+     "id": 500732,
+     "image_url": "https://images.genius.com/ae079d77ce441cc22a36a02af2df820c.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carl Wikstr\u00f6m Ask",
+     "url": "https://genius.com/artists/Carl-wikstrom-ask"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/630988",
+     "header_image_url": "https://images.genius.com/6fd9cecfd42e4faec722b30cbbcb57aa.1000x311x1.png",
+     "id": 630988,
+     "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Aris",
+     "url": "https://genius.com/artists/Alex-aris"
+    },
+    {
+     "api_path": "/artists/500732",
+     "header_image_url": "https://images.genius.com/ae079d77ce441cc22a36a02af2df820c.400x400x1.jpg",
+     "id": 500732,
+     "image_url": "https://images.genius.com/ae079d77ce441cc22a36a02af2df820c.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carl Wikstr\u00f6m Ask",
+     "url": "https://genius.com/artists/Carl-wikstrom-ask"
+    }
+   ],
+   "artist": "Alex Aris",
+   "lyrics": "4 ContributorsWrong Love Lyrics[Verse 1]\nIf you're leaving me baby tonight\nYou could beat the secret if you like\nYou look so good but you ain't even trying\nGot me hooked, I lost my damn mind\n\n[Pre-Chorus]\nOh, I should've noticed something was wrong\nI should've notived something's going on\nI'm stuck out in these trenches\nGoing through these stages on my own\nOh, my love\n[Chorus]\nGot my body all night upside down\nFeel I wake up on the wrong side of your love\nWake up on the wrong side now oh love\nWake up on the wrong side now\nGot me up on cloud nine years go by\nStill I fall down on the wrong side of your love\nWake up on the wrong side now, oh love\nWake up on the wrong side now\n\n[Post-Chorus]\nBaby I'm falling don't leave me hanging now\nMake me your fool (Still missin' from the high)\nBaby I'm falling don't leave me hanging now\nMake me your fool\n\n[Verse 2]\nLet me swim now in your waterfalls\nAll way up for me, I want it all\nYou got your way and you probably always will\nNo one's gonna love you like me still\n\n[Pre-Chorus]\nOh, I should've noticed something was wrong\nI should've noticed something's going on\nI'm stuck out in these trenches\nGoing through these stages on my own\nOh, my love\nYou might also like[Chorus]\nGot my body all night, upside down\nStill, I wake up on the wrong side of your love\nWake up on the wrong side now, oh love\nWake up on the wrong side now\nGot me up on cloud nine, years go by\nStill, I fall down on the wrong side of your love\nWake up on the wrong side now, oh love\nWake up on the wrong side now\n\n[Post-Chorus]\nBaby I'm falling, don't leave me hanging now\nMake me your fool (Still missin' from the high)\nBaby I'm falling don't leave me hanging now\nMake me your fool\n\n[Pre-Chorus]\nOh, I should've noticed something was wrong\nI should've notived something's going on\nI'm stuck out in these trenches\nGoing through these stages on my own\nOh, my love\n\n[Chorus]\nGot my body all night, upside down\nStill, I wake up on the wrong side of your love\nWake up on the wrong side now, oh love\nWake up on the wrong side now\nGot me up on cloud nine, years go by\nStill, I fall down on the wrong side of your love\nWake up on the wrong side now, oh love\nWake up on the wrong side now\n[Post-Chorus]\nBaby I'm falling\nMake me your fool\nBaby I'm falling\nMake me your fool1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4437372",
+   "artist_names": "Alex Aris",
+   "full_title": "Can You Feel It by\u00a0Alex\u00a0Aris",
+   "header_image_thumbnail_url": "https://images.genius.com/7fafa076d903662741187730774d529e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7fafa076d903662741187730774d529e.600x600x1.jpg",
+   "id": 4437372,
+   "language": "en",
+   "lyrics_owner_id": 6538844,
+   "lyrics_state": "complete",
+   "path": "/Alex-aris-can-you-feel-it-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Alex-aris-can-you-feel-it-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 5,
+    "day": 17
+   },
+   "release_date_for_display": "May 17, 2018",
+   "release_date_with_abbreviated_month_for_display": "May. 17, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7fafa076d903662741187730774d529e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7fafa076d903662741187730774d529e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Can You Feel It",
+   "title_with_featured": "Can You Feel It",
+   "url": "https://genius.com/Alex-aris-can-you-feel-it-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/630988",
+    "header_image_url": "https://images.genius.com/6fd9cecfd42e4faec722b30cbbcb57aa.1000x311x1.png",
+    "id": 630988,
+    "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Alex Aris",
+    "url": "https://genius.com/artists/Alex-aris"
+   },
+   "apple_music_id": "1371802727",
+   "apple_music_player_url": "https://genius.com/songs/4437372/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4437372' class='rg_embed_link' data-song-id='4437372'>Read <a href='https://genius.com/Alex-aris-can-you-feel-it-lyrics'>\u201cCan You Feel It\u201d by Alex\u00a0Aris</a> on Genius</div> <script crossorigin src='//genius.com/songs/4437372/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-05-17",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3279839,
+    "annotator_login": "Whippy7",
+    "api_path": "/referents/16841451",
+    "classification": "needs_exegesis",
+    "fragment": "Can You Feel It",
+    "id": 16841451,
+    "is_description": true,
+    "path": "/16841451/Alex-aris-can-you-feel-it/Can-you-feel-it",
+    "range": {
+     "content": "Can You Feel It"
+    },
+    "song_id": 4437372,
+    "url": "https://genius.com/16841451/Alex-aris-can-you-feel-it/Can-you-feel-it",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4437372",
+     "client_timestamps": {
+      "updated_by_human_at": 1676824659,
+      "lyrics_updated_at": 1587076935
+     },
+     "context": "Alex Aris",
+     "id": 4437372,
+     "image_url": "https://images.genius.com/7fafa076d903662741187730774d529e.600x600x1.jpg",
+     "link_title": "Can You Feel It by\u00a0Alex\u00a0Aris",
+     "title": "Can You Feel It",
+     "type": "Song",
+     "url": "https://genius.com/Alex-aris-can-you-feel-it-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16841451",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16841451,
+      "pinned": false,
+      "share_url": "https://genius.com/16841451",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16841451/Alex-aris-can-you-feel-it/Can-you-feel-it",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3279839",
+         "avatar": {
+          "tiny": {
+           "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i75s230xnbnv",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3279839,
+         "iq": 200204,
+         "login": "Whippy7",
+         "name": "Whippy7",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Whippy7",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LqZwHG-GzsE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1338645",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 1338645,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gustaf Holter",
+     "url": "https://genius.com/artists/Gustaf-holter"
+    },
+    {
+     "api_path": "/artists/1338646",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 1338646,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Christian Persson",
+     "url": "https://genius.com/artists/Christian-persson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/44457",
+     "header_image_url": "https://images.genius.com/d02f7a8f697fa55f728e0de2b1ef3c71.1000x298x1.png",
+     "id": 44457,
+     "image_url": "https://images.genius.com/0ba8fd286c68d54d9b53fcc33914595b.957x957x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lune (SWE)",
+     "url": "https://genius.com/artists/Lune-swe"
+    },
+    {
+     "api_path": "/artists/630988",
+     "header_image_url": "https://images.genius.com/6fd9cecfd42e4faec722b30cbbcb57aa.1000x311x1.png",
+     "id": 630988,
+     "image_url": "https://images.genius.com/f8656f3f293a0c3fbf006bc56ab65e57.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Aris",
+     "url": "https://genius.com/artists/Alex-aris"
+    },
+    {
+     "api_path": "/artists/1338645",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 1338645,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gustaf Holter",
+     "url": "https://genius.com/artists/Gustaf-holter"
+    }
+   ],
+   "artist": "Alex Aris",
+   "lyrics": "4 ContributorsCan You Feel It Lyrics[Verse 1]\nGunning, fighting, for the night\nTake me for a ride\nFeed me with your light\nRunning by the clowns\nThese fools they multiply\nBut I'm done with all these liars\n\n[Pre-Chorus]\nAin't nobody's gonna tell us how\nNobody's ever gonna stop us\nNah nah nah\nAin't nobody got nothing on you\n[Chorus]\nCan you feel it?\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over\nJust a little longer\nCan you feel it?\nI don't know, when it will end\nBut we go my lover\nAgain and again\nAnd it's almost over\nJust a little longer\nCan you feel it?\n\n[Verse 2]\nTime won't wait for anyone\nBut I'm pleading for a break\nCan I keep us in this place?\nSpeeding down the lines\nIt chips away, but I\u2019m feeling fine\nAnd I know we'll be alright\n\n[Pre-Chorus]\nAin't nobody's gonna tell us how\nNobody's ever gonna stop us\nNah nah nah\nAin't nobody got nothing on you\nYou might also like[Chorus]\nCan you feel it?\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over\nJust a little longer\nCan you feel it?\nI don't know, when it will end\nBut we go my lover\nAgain and again\nAnd it's almost over\nJust a little longer\nCan you feel it?\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over (almost over)\nJust a little longer (just a little longer)\nCan you feel it?\n\n[Bridge]\nAin't nobody's gonna tell us how\nNobody's ever gonna stop us, nah\nAin't nobody got nothing on you\nAin't nobody's gonna tell us how\nNobody's ever gonna stop us\nNah nah nah\nAin't nobody got nothing on you\n[Chorus]\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over\nJust a little longer\nCan you feel it?\nI don't know, when it will end\nBut we go my lover\nAgain and again\nAnd it's almost over\nJust a little longer\nCan you feel it?\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over (almost over)\nJust a little longer (just a little longer)\nCan you feel it?\n\n[Outro]\nI don't know where to begin\nBut hold on my lover\nYou gotta believe\nThat it's almost over (almost over)\nJust a little longer (just a little longer)\nCan you feel it?Embed"
+  }
+ ]
+}

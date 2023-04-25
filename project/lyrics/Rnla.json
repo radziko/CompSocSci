@@ -1,0 +1,1321 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2150153",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 4,
+ "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+ "id": 2150153,
+ "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+ "instagram_name": "rnlaofficial",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Rnla",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Rnla",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1837201,
+  "annotator_login": "Qatarsi",
+  "api_path": "/referents/25722617",
+  "classification": "needs_exegesis",
+  "fragment": "Rnla",
+  "id": 25722617,
+  "is_description": true,
+  "path": "/25722617/Rnla/Rnla",
+  "range": {
+   "content": "Rnla"
+  },
+  "song_id": null,
+  "url": "https://genius.com/25722617/Rnla/Rnla",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2150153",
+   "context": null,
+   "id": 2150153,
+   "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+   "link_title": "Rnla",
+   "title": "Rnla",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Rnla"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/25722617",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 25722617,
+    "pinned": false,
+    "share_url": "https://genius.com/25722617",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/25722617/Rnla/Rnla",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1837201",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1837201,
+       "iq": 1760442,
+       "login": "Qatarsi",
+       "name": "Qatarsi",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Qatarsi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5638060",
+   "artist_names": "Rnla (Ft. Carl Storm)",
+   "full_title": "Hold each other by\u00a0Rnla (Ft.\u00a0Carl\u00a0Storm)",
+   "header_image_thumbnail_url": "https://images.genius.com/fe78b96272ebd563841e423869ec7fc8.300x299x1.png",
+   "header_image_url": "https://images.genius.com/fe78b96272ebd563841e423869ec7fc8.498x497x1.png",
+   "id": 5638060,
+   "language": "en",
+   "lyrics_owner_id": 5161237,
+   "lyrics_state": "complete",
+   "path": "/Rnla-hold-each-other-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Rnla-hold-each-other-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 6,
+    "day": 3
+   },
+   "release_date_for_display": "June 3, 2020",
+   "release_date_with_abbreviated_month_for_display": "Jun. 3, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/fe78b96272ebd563841e423869ec7fc8.300x299x1.png",
+   "song_art_image_url": "https://images.genius.com/fe78b96272ebd563841e423869ec7fc8.498x497x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hold each other",
+   "title_with_featured": "Hold each other (Ft.\u00a0Carl\u00a0Storm)",
+   "url": "https://genius.com/Rnla-hold-each-other-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1793713",
+     "header_image_url": "https://images.genius.com/fe5087818730bd0f8de228653897dde1.1000x563x1.png",
+     "id": 1793713,
+     "image_url": "https://images.genius.com/e64997ea3a27c622d35079c9b53f4701.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Carl Storm",
+     "url": "https://genius.com/artists/Carl-storm",
+     "iq": 1960
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2150153",
+    "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+    "id": 2150153,
+    "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rnla",
+    "url": "https://genius.com/artists/Rnla"
+   },
+   "apple_music_id": "1515405222",
+   "apple_music_player_url": "https://genius.com/songs/5638060/apple_music_player",
+   "description": {
+    "plain": "Hold each other"
+   },
+   "embed_content": "<div id='rg_embed_link_5638060' class='rg_embed_link' data-song-id='5638060'>Read <a href='https://genius.com/Rnla-hold-each-other-lyrics'>\u201cHold each other\u201d by Rnla</a> on Genius</div> <script crossorigin src='//genius.com/songs/5638060/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-06-03",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11993531,
+    "annotator_login": "CTIMusic",
+    "api_path": "/referents/20020494",
+    "classification": "unreviewed",
+    "fragment": "Hold each other",
+    "id": 20020494,
+    "is_description": true,
+    "path": "/20020494/Rnla-hold-each-other/Hold-each-other",
+    "range": {
+     "content": "Hold each other"
+    },
+    "song_id": 5638060,
+    "url": "https://genius.com/20020494/Rnla-hold-each-other/Hold-each-other",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5638060",
+     "client_timestamps": {
+      "updated_by_human_at": 1612699818,
+      "lyrics_updated_at": 1612699785
+     },
+     "context": "Rnla",
+     "id": 5638060,
+     "image_url": "https://images.genius.com/fe78b96272ebd563841e423869ec7fc8.498x497x1.png",
+     "link_title": "Hold each other by\u00a0Rnla (Ft.\u00a0Carl\u00a0Storm)",
+     "title": "Hold each other",
+     "type": "Song",
+     "url": "https://genius.com/Rnla-hold-each-other-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20020494",
+      "body": {
+       "plain": "Hold each other"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20020494,
+      "pinned": false,
+      "share_url": "https://genius.com/20020494",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/20020494/Rnla-hold-each-other/Hold-each-other",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11993531",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3311bddfc0c4f2dea53edd8598e394e9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3311bddfc0c4f2dea53edd8598e394e9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3311bddfc0c4f2dea53edd8598e394e9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3311bddfc0c4f2dea53edd8598e394e9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2b5d70ym46p",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11993531,
+         "iq": 861,
+         "login": "CTIMusic",
+         "name": "CTIMusic",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CTIMusic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bFbnw6edWws"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2150153",
+     "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+     "id": 2150153,
+     "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rnla",
+     "url": "https://genius.com/artists/Rnla"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1793713",
+     "header_image_url": "https://images.genius.com/fe5087818730bd0f8de228653897dde1.1000x563x1.png",
+     "id": 1793713,
+     "image_url": "https://images.genius.com/e64997ea3a27c622d35079c9b53f4701.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Carl Storm",
+     "url": "https://genius.com/artists/Carl-storm",
+     "iq": 1960
+    }
+   ],
+   "artist": "Rnla",
+   "lyrics": "3 ContributorsHold each other LyricsI don\u2019t wanna be alone\nYou\u2019re the reason I will fight\nI just want to let you\u2005know\nI\u2005would never make\u2005you cry\n\nLet\u2019s hold each other\nDon\u2019t be\u2005afraid in the cold night\nLet\u2019s hold each other\nEverything will be\u205falright\n\nI\u205fdon\u2019t\u205fwanna be alone\u205f(Yeah)\nYou\u2019re the reason\u205fI will fight (Fight)\nI just want to let you know\nI would never make you cry\nLet\u2019s hold each other\nDon\u2019t be afraid in the cold night\nLet\u2019s hold each other\nEverything will be alright\n\nSo many top ones\nYou\u2019d be my lifeline\nI owe everything to you\nSo many top ones\n\nYou had my back right?\nI owe everything to you\nSaid you\u2019re all, Said you\u2019re all\nI owe everything to you\nSaid you\u2019re all, Said you\u2019re all\nI owe everything to you\n\nI don\u2019t wanna be alone (Yeah)\nYou\u2019re the reason I will fight (Fight)\nI just want to let you know\nI would never make you cry\n\nLet\u2019s hold each other\nDon\u2019t be afraid in the cold night\nLet\u2019s hold each other\nEverything will be alright\nYou might also likeMainly it was you, stupid as it seems\nThere\u2019s no place I rather be\nPhases to the roof, thinking what to do\nThere\u2019s no place I rather be\n\nNot a word, you stood\nFillin\u2019 these empty rooms\nNot a word, you start\nFillin\u2019 these empty rooms, yeahEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/6510230",
+   "artist_names": "Rnla (Ft. Julia Alexa)",
+   "full_title": "Upside Down by\u00a0Rnla (Ft.\u00a0Julia\u00a0Alexa)",
+   "header_image_thumbnail_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+   "id": 6510230,
+   "language": "en",
+   "lyrics_owner_id": 10564695,
+   "lyrics_state": "complete",
+   "path": "/Rnla-upside-down-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Rnla-upside-down-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Upside Down",
+   "title_with_featured": "Upside Down (Ft.\u00a0Julia\u00a0Alexa)",
+   "url": "https://genius.com/Rnla-upside-down-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/2029675",
+     "header_image_url": "https://images.genius.com/1609a4a273a61c2d120143dc9780eecf.736x736x1.jpg",
+     "id": 2029675,
+     "image_url": "https://images.genius.com/e434c88821a1b053a2bff9045bfa2529.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Julia Alexa",
+     "url": "https://genius.com/artists/Julia-alexa",
+     "iq": 786
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2150153",
+    "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+    "id": 2150153,
+    "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rnla",
+    "url": "https://genius.com/artists/Rnla"
+   },
+   "apple_music_id": "1534685125",
+   "apple_music_player_url": "https://genius.com/songs/6510230/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_6510230' class='rg_embed_link' data-song-id='6510230'>Read <a href='https://genius.com/Rnla-upside-down-lyrics'>\u201cUpside Down\u201d by Rnla</a> on Genius</div> <script crossorigin src='//genius.com/songs/6510230/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10564695,
+    "annotator_login": "I-Bought-WinRAR",
+    "api_path": "/referents/22240185",
+    "classification": "needs_exegesis",
+    "fragment": "Upside Down",
+    "id": 22240185,
+    "is_description": true,
+    "path": "/22240185/Rnla-upside-down/Upside-down",
+    "range": {
+     "content": "Upside Down"
+    },
+    "song_id": 6510230,
+    "url": "https://genius.com/22240185/Rnla-upside-down/Upside-down",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6510230",
+     "client_timestamps": {
+      "updated_by_human_at": 1613807827,
+      "lyrics_updated_at": 1613807795
+     },
+     "context": "Rnla",
+     "id": 6510230,
+     "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+     "link_title": "Upside Down by\u00a0Rnla (Ft.\u00a0Julia\u00a0Alexa)",
+     "title": "Upside Down",
+     "type": "Song",
+     "url": "https://genius.com/Rnla-upside-down-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22240185",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22240185,
+      "pinned": false,
+      "share_url": "https://genius.com/22240185",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22240185/Rnla-upside-down/Upside-down",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10564695",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5fd799e6b473a85094b3648cd0bdcaf0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5fd799e6b473a85094b3648cd0bdcaf0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5fd799e6b473a85094b3648cd0bdcaf0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5fd799e6b473a85094b3648cd0bdcaf0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/5fd799e6b473a85094b3648cd0bdcaf0",
+         "human_readable_role_for_display": null,
+         "id": 10564695,
+         "iq": 277,
+         "login": "I-Bought-WinRAR",
+         "name": "I-Bought-WinRAR",
+         "role_for_display": null,
+         "url": "https://genius.com/I-Bought-WinRAR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Y4v89E91zQ8"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2029676",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 2029676,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Julia Alexandra Mueller",
+     "url": "https://genius.com/artists/Julia-alexandra-mueller"
+    },
+    {
+     "api_path": "/artists/2614155",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "id": 2614155,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682436462",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Giuseppe Renella",
+     "url": "https://genius.com/artists/Giuseppe-renella"
+    }
+   ],
+   "artist": "Rnla",
+   "lyrics": "1 ContributorUpside Down Lyrics[Verse]\n\nAll I do is make things worse\nKeep going even when it hurts\nDon't wanna put it into words\nBut life feels like a curse\n\nWish I could help you see\nThat nothing's like it seems\nOnce I fall asleep\nI'm not gonna leave my dreams\n[Chorus]\n\nNothing ever works out\nIt feels like life is twisted\nTurning things around\nFeeling upside down\nWhat were we fighting 'bout\nMy mind is getting twisted\nTurning things around\nFeeling upside down\n\nEverything I do feels wrong\nCan't focus for that long\nTired of staying strong\nAnd always playing along\n\n[Chorus]\n\nNothing ever works out\nIt feels like life is twisted\nTurning things around\nFeeling upside down\nWhat were we fighting 'bout\nMy mind is getting twisted\nTurning things around\nFeeling upside down\nYou might also likeEverything I do feels wrong\nCan't focus for that long\nTired of staying strong\nAnd always playing alongEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5724142",
+   "artist_names": "Rnla (Ft. \u200byaeow)",
+   "full_title": "Feels Like The World Is Ending by\u00a0Rnla (Ft.\u00a0\u200byaeow)",
+   "header_image_thumbnail_url": "https://images.genius.com/8200cd2960deb7443b2fde62f8aa7ace.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/8200cd2960deb7443b2fde62f8aa7ace.500x499x1.jpg",
+   "id": 5724142,
+   "language": "en",
+   "lyrics_owner_id": 5161237,
+   "lyrics_state": "complete",
+   "path": "/Rnla-feels-like-the-world-is-ending-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Rnla-feels-like-the-world-is-ending-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 6,
+    "day": 30
+   },
+   "release_date_for_display": "June 30, 2020",
+   "release_date_with_abbreviated_month_for_display": "Jun. 30, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8200cd2960deb7443b2fde62f8aa7ace.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8200cd2960deb7443b2fde62f8aa7ace.500x499x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Feels Like The World Is Ending",
+   "title_with_featured": "Feels Like The World Is Ending (Ft.\u00a0\u200byaeow)",
+   "url": "https://genius.com/Rnla-feels-like-the-world-is-ending-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/2069383",
+     "header_image_url": "https://images.genius.com/9336cd2e49519c43b9984a2199ba4607.1000x333x1.jpg",
+     "id": 2069383,
+     "image_url": "https://images.genius.com/d837737d08de9fb0af147475925a5185.555x555x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200byaeow",
+     "url": "https://genius.com/artists/Yaeow"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2150153",
+    "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+    "id": 2150153,
+    "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rnla",
+    "url": "https://genius.com/artists/Rnla"
+   },
+   "apple_music_id": "1519638703",
+   "apple_music_player_url": "https://genius.com/songs/5724142/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5724142' class='rg_embed_link' data-song-id='5724142'>Read <a href='https://genius.com/Rnla-feels-like-the-world-is-ending-lyrics'>\u201cFeels Like The World Is Ending\u201d by Rnla</a> on Genius</div> <script crossorigin src='//genius.com/songs/5724142/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-06-30",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5161237,
+    "annotator_login": "Oromium",
+    "api_path": "/referents/20234793",
+    "classification": "needs_exegesis",
+    "fragment": "Feels Like The World Is Ending",
+    "id": 20234793,
+    "is_description": true,
+    "path": "/20234793/Rnla-feels-like-the-world-is-ending/Feels-like-the-world-is-ending",
+    "range": {
+     "content": "Feels Like The World Is Ending"
+    },
+    "song_id": 5724142,
+    "url": "https://genius.com/20234793/Rnla-feels-like-the-world-is-ending/Feels-like-the-world-is-ending",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5724142",
+     "client_timestamps": {
+      "updated_by_human_at": 1594915070,
+      "lyrics_updated_at": 1594915070
+     },
+     "context": "Rnla",
+     "id": 5724142,
+     "image_url": "https://images.genius.com/8200cd2960deb7443b2fde62f8aa7ace.500x499x1.jpg",
+     "link_title": "Feels Like The World Is Ending by\u00a0Rnla (Ft.\u00a0\u200byaeow)",
+     "title": "Feels Like The World Is Ending",
+     "type": "Song",
+     "url": "https://genius.com/Rnla-feels-like-the-world-is-ending-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20234793",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20234793,
+      "pinned": false,
+      "share_url": "https://genius.com/20234793",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20234793/Rnla-feels-like-the-world-is-ending/Feels-like-the-world-is-ending",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5161237",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b65c880c91e33949d3f30dd92063810b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b65c880c91e33949d3f30dd92063810b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b65c880c91e33949d3f30dd92063810b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b65c880c91e33949d3f30dd92063810b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3dwaxhbzdxn",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5161237,
+         "iq": 27468,
+         "login": "Oromium",
+         "name": "Oromium",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Oromium",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sxtIGWs0p7Q"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2150153",
+     "header_image_url": "https://images.genius.com/f588801137d76493533dce16c19fb6cc.554x640x1.jpg",
+     "id": 2150153,
+     "image_url": "https://images.genius.com/79dd666c970b665fdf0439c461c5b209.554x554x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rnla",
+     "url": "https://genius.com/artists/Rnla"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2069383",
+     "header_image_url": "https://images.genius.com/9336cd2e49519c43b9984a2199ba4607.1000x333x1.jpg",
+     "id": 2069383,
+     "image_url": "https://images.genius.com/d837737d08de9fb0af147475925a5185.555x555x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200byaeow",
+     "url": "https://genius.com/artists/Yaeow"
+    }
+   ],
+   "artist": "Rnla",
+   "lyrics": "2 ContributorsFeels Like The World Is Ending Lyrics[Intro]\nYou said you wanted to talk about it\nYou said you needed some space\nFeels like the\u2005world\u2005is ending\nI know\u2005I haven't been the best that\u2005I can\nBut it was hard, the way we ended things\n\n[Pre-Chorus]\nFeels\u205flike\u205fthe\u205fworld is ending\nAnd\u205fI don't know\u205fjust where to go\nMy heads in the clouds again\nAnd I think I'm losing my best friend\n[Chorus]\nFeels like the world is ending\nAnd I don't know just where to go\nMy heads in the clouds again\nAnd I think I'm losing my best friend\nThe someone I used to be\nThe someone who loved you endlessly\nBut now that you're gone again\nI think that I lost a piece of me\n\n[Verse 2]\nMaybe in another universe\nIt could be you and I\nYou'd be forever mine, yeah\nMaybe in another universe\nAnd I will lose you to someone else\n\n[Chorus]\nFeels like the world is ending\nAnd I don't know just where to go\nMy heads in the clouds again\nAnd I think I'm losing my best friend\nThe someone I used to be\nThe someone who loved you endlessly\nBut now that you're gone again\nI think that I lost a piece of me\nYou might also like[Outro]\nIt feels like the world is ending\nIt feels like the world is ending\nIt feels like the world is ending\nAnd I don't know what to do\nTo do without you\nTo do without you\nTo do without you\nTo do without you\nTo do without you1Embed"
+  }
+ ]
+}
