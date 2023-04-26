@@ -1,0 +1,2455 @@
+{
+ "alternate_names": [
+  "Jayvon Lanell May"
+ ],
+ "api_path": "/artists/1745090",
+ "description": {
+  "plain": "Jayvon Lanell May (b. August 2, 1999), better known by his stage name Ambjaay, is a rapper hailing from Los Angeles. He is known for his breakout single \u201cUno,\u201d which would be remixed by Lil Pump and Tyga and lead him to a record deal with Columbia Records.\n\nOn February 14, 2019, Jaay would release his debut EP, It Cost to Live Like This."
+ },
+ "facebook_name": null,
+ "followers_count": 26,
+ "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+ "id": 1745090,
+ "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+ "instagram_name": "ambjaay",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Ambjaay",
+ "translation_artist": false,
+ "twitter_name": "ambjaay",
+ "url": "https://genius.com/artists/Ambjaay",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1028,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4449300,
+  "annotator_login": "DeezNutz999",
+  "api_path": "/referents/16610948",
+  "classification": "accepted",
+  "fragment": "Ambjaay",
+  "id": 16610948,
+  "is_description": true,
+  "path": "/16610948/Ambjaay/Ambjaay",
+  "range": {
+   "content": "Ambjaay"
+  },
+  "song_id": null,
+  "url": "https://genius.com/16610948/Ambjaay/Ambjaay",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1745090",
+   "context": null,
+   "id": 1745090,
+   "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+   "link_title": "Ambjaay",
+   "title": "Ambjaay",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ambjaay"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/16610948",
+    "body": {
+     "plain": "Jayvon Lanell May (b. August 2, 1999), better known by his stage name Ambjaay, is a rapper hailing from Los Angeles. He is known for his breakout single \u201cUno,\u201d which would be remixed by Lil Pump and Tyga and lead him to a record deal with Columbia Records.\n\nOn February 14, 2019, Jaay would release his debut EP, It Cost to Live Like This."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 16610948,
+    "pinned": false,
+    "share_url": "https://genius.com/16610948",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/16610948/Ambjaay/Ambjaay",
+    "verified": false,
+    "votes_total": 9,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.78125,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4469304",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a2de78d05fd8fa811212cc63f9344b5a.700x652x1.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4469304,
+       "iq": 744087,
+       "login": "blustery",
+       "name": "blustery",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/blustery",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.21875,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4449300",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b58bd8e6dd3748ba653a51084d52153b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b58bd8e6dd3748ba653a51084d52153b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b58bd8e6dd3748ba653a51084d52153b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b58bd8e6dd3748ba653a51084d52153b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/b58bd8e6dd3748ba653a51084d52153b",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4449300,
+       "iq": 1410,
+       "login": "DeezNutz999",
+       "name": "DeezNutz999",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/DeezNutz999",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/8715440",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/efd2087d3ff77b4e2592c0239c961e98",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/efd2087d3ff77b4e2592c0239c961e98",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/efd2087d3ff77b4e2592c0239c961e98",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 8715440,
+  "iq": 1028,
+  "login": "ambjaay",
+  "name": "Ambjaay",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/ambjaay",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 21,
+   "api_path": "/songs/4353169",
+   "artist_names": "Ambjaay",
+   "full_title": "Uno by\u00a0Ambjaay",
+   "header_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+   "id": 4353169,
+   "language": "en",
+   "lyrics_owner_id": 770138,
+   "lyrics_state": "complete",
+   "path": "/Ambjaay-uno-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Ambjaay-uno-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 62,
+    "iq_earners": 62,
+    "transcribers": 3,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 16,
+    "hot": false,
+    "pageviews": 614994
+   },
+   "title": "Uno",
+   "title_with_featured": "Uno",
+   "url": "https://genius.com/Ambjaay-uno-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1745090",
+    "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "id": 1745090,
+    "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ambjaay",
+    "url": "https://genius.com/artists/Ambjaay",
+    "iq": 1028
+   },
+   "apple_music_id": "1504553328",
+   "apple_music_player_url": "https://genius.com/songs/4353169/apple_music_player",
+   "description": {
+    "plain": "Released on May 10, 2019, this song is by Los Angeles native rapper Ambjaay. It peaked at #82 on the charts in the United States. The song and Ambjaay also gained the attention of big names, with Wiz Khalifa, Kaloney, and Chris Brown all showing interest on social media. Wiz Khalifa even replying to him on Twitter, Ambjaay says."
+   },
+   "embed_content": "<div id='rg_embed_link_4353169' class='rg_embed_link' data-song-id='4353169'>Read <a href='https://genius.com/Ambjaay-uno-lyrics'>\u201cUno\u201d by Ambjaay</a> on Genius</div> <script crossorigin src='//genius.com/songs/4353169/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/617474",
+    "cover_art_url": "https://images.genius.com/8b47cffd5b352925f2f37b9a31ecbd38.1000x1000x1.png",
+    "full_title": "It Cost to Live Like This, Pt. 2 by Ambjaay",
+    "id": 617474,
+    "name": "It Cost to Live Like This, Pt. 2",
+    "release_date_for_display": "April 3, 2020",
+    "url": "https://genius.com/albums/Ambjaay/It-cost-to-live-like-this-pt-2",
+    "artist": {
+     "api_path": "/artists/1745090",
+     "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "id": 1745090,
+     "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ambjaay",
+     "url": "https://genius.com/artists/Ambjaay",
+     "iq": 1028
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1593786",
+       "header_image_url": "https://images.genius.com/e8afc837113a46f8e02174d53c5c6abc.344x344x1.jpg",
+       "id": 1593786,
+       "image_url": "https://images.genius.com/e8afc837113a46f8e02174d53c5c6abc.344x344x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eric Lagg",
+       "url": "https://genius.com/artists/Eric-lagg"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1033483",
+       "header_image_url": "https://images.genius.com/4e92da92100d3ae3c23afd5e11e736df.1000x1000x1.jpg",
+       "id": 1033483,
+       "image_url": "https://images.genius.com/4e92da92100d3ae3c23afd5e11e736df.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Grasso",
+       "url": "https://genius.com/artists/Joe-grasso"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9623536,
+    "annotator_login": "BansBG4L",
+    "api_path": "/referents/17465857",
+    "classification": "cosigned",
+    "fragment": "Uno",
+    "id": 17465857,
+    "is_description": true,
+    "path": "/17465857/Ambjaay-uno/Uno",
+    "range": {
+     "content": "Uno"
+    },
+    "song_id": 4353169,
+    "url": "https://genius.com/17465857/Ambjaay-uno/Uno",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4353169",
+     "client_timestamps": {
+      "updated_by_human_at": 1628527729,
+      "lyrics_updated_at": 1582778662
+     },
+     "context": "Ambjaay",
+     "id": 4353169,
+     "image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+     "link_title": "Uno by\u00a0Ambjaay",
+     "title": "Uno",
+     "type": "Song",
+     "url": "https://genius.com/Ambjaay-uno-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17465857",
+      "body": {
+       "plain": "Released on May 10, 2019, this song is by Los Angeles native rapper Ambjaay. It peaked at #82 on the charts in the United States. The song and Ambjaay also gained the attention of big names, with Wiz Khalifa, Kaloney, and Chris Brown all showing interest on social media. Wiz Khalifa even replying to him on Twitter, Ambjaay says."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17465857,
+      "pinned": false,
+      "share_url": "https://genius.com/17465857",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/17465857/Ambjaay-uno/Uno",
+      "verified": false,
+      "votes_total": 10,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9661016949152542,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9623536",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dc3acb634ac388e825e1eb212f81c9e8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dc3acb634ac388e825e1eb212f81c9e8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dc3acb634ac388e825e1eb212f81c9e8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dc3acb634ac388e825e1eb212f81c9e8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hx52nhkj2si",
+         "human_readable_role_for_display": null,
+         "id": 9623536,
+         "iq": 221,
+         "login": "BansBG4L",
+         "name": "BansBG4L",
+         "role_for_display": null,
+         "url": "https://genius.com/BansBG4L",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03389830508474576,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8891664",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0c4e5ff08ca5b42e3ec73c69f87e7e7d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0c4e5ff08ca5b42e3ec73c69f87e7e7d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0c4e5ff08ca5b42e3ec73c69f87e7e7d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0c4e5ff08ca5b42e3ec73c69f87e7e7d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/0c4e5ff08ca5b42e3ec73c69f87e7e7d",
+         "human_readable_role_for_display": null,
+         "id": 8891664,
+         "iq": 125,
+         "login": "LilNoe11",
+         "name": "LilNoe11",
+         "role_for_display": null,
+         "url": "https://genius.com/LilNoe11",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [
+       {
+        "api_path": "/users/8061910",
+        "avatar": {
+         "tiny": {
+          "url": "https://images.genius.com/avatars/tiny/44abdd6984f10f368a4209ebb977e4eb",
+          "bounding_box": {
+           "width": 16,
+           "height": 16
+          }
+         },
+         "thumb": {
+          "url": "https://images.genius.com/avatars/thumb/44abdd6984f10f368a4209ebb977e4eb",
+          "bounding_box": {
+           "width": 32,
+           "height": 32
+          }
+         },
+         "small": {
+          "url": "https://images.genius.com/avatars/small/44abdd6984f10f368a4209ebb977e4eb",
+          "bounding_box": {
+           "width": 100,
+           "height": 100
+          }
+         },
+         "medium": {
+          "url": "https://images.genius.com/avatars/medium/44abdd6984f10f368a4209ebb977e4eb",
+          "bounding_box": {
+           "width": 300,
+           "height": 400
+          }
+         }
+        },
+        "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+        "human_readable_role_for_display": "Verified Artist",
+        "id": 8061910,
+        "iq": 150,
+        "login": "AlmightyQuise",
+        "name": "Almighty Quise",
+        "role_for_display": "verified_artist",
+        "url": "https://genius.com/AlmightyQuise",
+        "current_user_metadata": {
+         "permissions": [],
+         "excluded_permissions": [
+          "follow"
+         ],
+         "interactions": {
+          "following": false
+         }
+        }
+       }
+      ],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/54639",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "human_readable_role_for_display": "Staff",
+    "id": 54639,
+    "iq": 2709645,
+    "login": "WriteNProppa",
+    "name": "WriteNProppa",
+    "role_for_display": "staff",
+    "url": "https://genius.com/WriteNProppa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=p_M1UoraeFw"
+    },
+    {
+     "native_uri": "spotify:track:3AEgic4yp82NxMWUjHtxnO",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3AEgic4yp82NxMWUjHtxnO"
+    },
+    {
+     "attribution": "ambjaay",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ambjaay/uno"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1847654",
+     "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+     "id": 1847654,
+     "image_url": "https://images.genius.com/774366c7f8628a2dd7552d45fa3c624c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Almighty Quise",
+     "url": "https://genius.com/artists/Almighty-quise",
+     "iq": 150
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/5243006",
+       "artist_names": "Larray",
+       "full_title": "Latina by\u00a0Larray",
+       "header_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "id": 5243006,
+       "language": "en",
+       "lyrics_owner_id": 10012393,
+       "lyrics_state": "complete",
+       "path": "/Larray-latina-lyrics",
+       "pyongs_count": 10,
+       "relationships_index_url": "https://genius.com/Larray-latina-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 8
+       },
+       "release_date_for_display": "February 8, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 8, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 97868
+       },
+       "title": "Latina",
+       "title_with_featured": "Latina",
+       "url": "https://genius.com/Larray-latina-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1394385",
+        "header_image_url": "https://images.genius.com/926791d0ece8d48d92f01027d0cc3b5c.800x1000x1.jpg",
+        "id": 1394385,
+        "image_url": "https://images.genius.com/1a198eb5b646a4697f19c083977a1ee7.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Larray",
+        "url": "https://genius.com/artists/Larray"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/5243006",
+       "artist_names": "Larray",
+       "full_title": "Latina by\u00a0Larray",
+       "header_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "id": 5243006,
+       "language": "en",
+       "lyrics_owner_id": 10012393,
+       "lyrics_state": "complete",
+       "path": "/Larray-latina-lyrics",
+       "pyongs_count": 10,
+       "relationships_index_url": "https://genius.com/Larray-latina-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 8
+       },
+       "release_date_for_display": "February 8, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 8, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 97868
+       },
+       "title": "Latina",
+       "title_with_featured": "Latina",
+       "url": "https://genius.com/Larray-latina-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1394385",
+        "header_image_url": "https://images.genius.com/926791d0ece8d48d92f01027d0cc3b5c.800x1000x1.jpg",
+        "id": 1394385,
+        "image_url": "https://images.genius.com/1a198eb5b646a4697f19c083977a1ee7.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Larray",
+        "url": "https://genius.com/artists/Larray"
+       }
+      },
+      {
+       "annotation_count": 18,
+       "api_path": "/songs/4993410",
+       "artist_names": "Lil Drey",
+       "full_title": "Splash by\u00a0Lil\u00a0Drey",
+       "header_image_thumbnail_url": "https://images.genius.com/015e21a85567e7afba85852b4df01119.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/015e21a85567e7afba85852b4df01119.500x500x1.jpg",
+       "id": 4993410,
+       "language": "ru",
+       "lyrics_owner_id": 6445283,
+       "lyrics_state": "complete",
+       "path": "/Lil-drey-splash-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Lil-drey-splash-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 11,
+        "day": 22
+       },
+       "release_date_for_display": "November 22, 2019",
+       "release_date_with_abbreviated_month_for_display": "Nov. 22, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/015e21a85567e7afba85852b4df01119.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/015e21a85567e7afba85852b4df01119.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Splash",
+       "title_with_featured": "Splash",
+       "url": "https://genius.com/Lil-drey-splash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1482552",
+        "header_image_url": "https://images.genius.com/025e273f9ebcfef11ae4cd0d8631f451.1000x667x1.jpg",
+        "id": 1482552,
+        "image_url": "https://images.genius.com/21917fa53c66cdf28437b8ccc86390f1.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Drey",
+        "url": "https://genius.com/artists/Lil-drey",
+        "iq": 5241
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/4508804",
+       "artist_names": "Blueface (Ft. Rich The Kid)",
+       "full_title": "Daddy by\u00a0Blueface (Ft.\u00a0Rich\u00a0The Kid)",
+       "header_image_thumbnail_url": "https://images.genius.com/5a6834203e8cb6c09b10ced80292c917.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5a6834203e8cb6c09b10ced80292c917.1000x1000x1.jpg",
+       "id": 4508804,
+       "language": "en",
+       "lyrics_owner_id": 5748418,
+       "lyrics_state": "complete",
+       "path": "/Blueface-daddy-lyrics",
+       "pyongs_count": 20,
+       "relationships_index_url": "https://genius.com/Blueface-daddy-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 14
+       },
+       "release_date_for_display": "June 14, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 14, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5a6834203e8cb6c09b10ced80292c917.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5a6834203e8cb6c09b10ced80292c917.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 233917
+       },
+       "title": "Daddy",
+       "title_with_featured": "Daddy (Ft.\u00a0Rich\u00a0The Kid)",
+       "url": "https://genius.com/Blueface-daddy-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/65109",
+         "header_image_url": "https://images.genius.com/642a55353714961bf8f627143cd71885.1000x228x1.jpg",
+         "id": 65109,
+         "image_url": "https://images.genius.com/b099438886615c65f1e098584f6da5f4.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Rich The Kid",
+         "url": "https://genius.com/artists/Rich-the-kid",
+         "iq": 2731
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1195330",
+        "header_image_url": "https://images.genius.com/079cac5f37a18a24a2a34d1707b0edd8.801x1000x1.jpg",
+        "id": 1195330,
+        "image_url": "https://images.genius.com/265da60a7224ca77b070634b6ed14306.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Blueface",
+        "url": "https://genius.com/artists/Blueface",
+        "iq": 3902
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Ambjaay-uno-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4582780",
+       "artist_names": "Ambjaay",
+       "full_title": "Uno (Original Version) by\u00a0Ambjaay",
+       "header_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+       "id": 4582780,
+       "language": "en",
+       "lyrics_owner_id": 54639,
+       "lyrics_state": "complete",
+       "path": "/Ambjaay-uno-original-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ambjaay-uno-original-version-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 14
+       },
+       "release_date_for_display": "February 14, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 14, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 51889
+       },
+       "title": "Uno (Original Version)",
+       "title_with_featured": "Uno (Original Version)",
+       "url": "https://genius.com/Ambjaay-uno-original-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1745090",
+        "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+        "id": 1745090,
+        "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ambjaay",
+        "url": "https://genius.com/artists/Ambjaay",
+        "iq": 1028
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Ambjaay-uno-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/5243006",
+       "artist_names": "Larray",
+       "full_title": "Latina by\u00a0Larray",
+       "header_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "id": 5243006,
+       "language": "en",
+       "lyrics_owner_id": 10012393,
+       "lyrics_state": "complete",
+       "path": "/Larray-latina-lyrics",
+       "pyongs_count": 10,
+       "relationships_index_url": "https://genius.com/Larray-latina-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 8
+       },
+       "release_date_for_display": "February 8, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 8, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/09bf8d13be54f057c882268661b07f98.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 97868
+       },
+       "title": "Latina",
+       "title_with_featured": "Latina",
+       "url": "https://genius.com/Larray-latina-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1394385",
+        "header_image_url": "https://images.genius.com/926791d0ece8d48d92f01027d0cc3b5c.800x1000x1.jpg",
+        "id": 1394385,
+        "image_url": "https://images.genius.com/1a198eb5b646a4697f19c083977a1ee7.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Larray",
+        "url": "https://genius.com/artists/Larray"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/4866749",
+       "artist_names": "Ambjaay, Tyga & Lil Pump",
+       "full_title": "Uno (Remix) by\u00a0Ambjaay,\u00a0Tyga & Lil Pump",
+       "header_image_thumbnail_url": "https://images.genius.com/7e045ad366196d5fb22908257dcf5189.300x300x1.png",
+       "header_image_url": "https://images.genius.com/7e045ad366196d5fb22908257dcf5189.300x300x1.png",
+       "id": 4866749,
+       "language": "en",
+       "lyrics_owner_id": 3204418,
+       "lyrics_state": "complete",
+       "path": "/Ambjaay-tyga-and-lil-pump-uno-remix-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Ambjaay-tyga-and-lil-pump-uno-remix-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 4
+       },
+       "release_date_for_display": "October 4, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 4, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7e045ad366196d5fb22908257dcf5189.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/7e045ad366196d5fb22908257dcf5189.300x300x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 71829
+       },
+       "title": "Uno (Remix)",
+       "title_with_featured": "Uno (Remix)",
+       "url": "https://genius.com/Ambjaay-tyga-and-lil-pump-uno-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1968749",
+        "header_image_url": "https://images.genius.com/29b87d27a639bd862ba800cbb5243ddf.360x360x1.jpg",
+        "id": 1968749,
+        "image_url": "https://images.genius.com/29b87d27a639bd862ba800cbb5243ddf.360x360x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ambjaay, Tyga & Lil Pump",
+        "url": "https://genius.com/artists/Ambjaay-tyga-and-lil-pump"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/8715440",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 8715440,
+     "iq": 1028,
+     "login": "ambjaay",
+     "name": "Ambjaay",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ambjaay",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    {
+     "api_path": "/users/8061910",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/44abdd6984f10f368a4209ebb977e4eb",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/44abdd6984f10f368a4209ebb977e4eb",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/44abdd6984f10f368a4209ebb977e4eb",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/44abdd6984f10f368a4209ebb977e4eb",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 8061910,
+     "iq": 150,
+     "login": "AlmightyQuise",
+     "name": "Almighty Quise",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/AlmightyQuise",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "lyrics",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1745090",
+      "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+      "id": 1745090,
+      "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ambjaay",
+      "url": "https://genius.com/artists/Ambjaay",
+      "iq": 1028
+     },
+     "user": {
+      "api_path": "/users/8715440",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/efd2087d3ff77b4e2592c0239c961e98",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/efd2087d3ff77b4e2592c0239c961e98",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/efd2087d3ff77b4e2592c0239c961e98",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 8715440,
+      "iq": 1028,
+      "login": "ambjaay",
+      "name": "Ambjaay",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ambjaay",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    },
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1847654",
+      "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+      "id": 1847654,
+      "image_url": "https://images.genius.com/774366c7f8628a2dd7552d45fa3c624c.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Almighty Quise",
+      "url": "https://genius.com/artists/Almighty-quise",
+      "iq": 150
+     },
+     "user": {
+      "api_path": "/users/8061910",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/44abdd6984f10f368a4209ebb977e4eb",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/44abdd6984f10f368a4209ebb977e4eb",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/44abdd6984f10f368a4209ebb977e4eb",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/44abdd6984f10f368a4209ebb977e4eb",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 8061910,
+      "iq": 150,
+      "login": "AlmightyQuise",
+      "name": "Almighty Quise",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/AlmightyQuise",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [
+    {
+     "api_path": "/users/8715440",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/efd2087d3ff77b4e2592c0239c961e98",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 8715440,
+     "iq": 1028,
+     "login": "ambjaay",
+     "name": "Ambjaay",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ambjaay",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1745090",
+     "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "id": 1745090,
+     "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ambjaay",
+     "url": "https://genius.com/artists/Ambjaay",
+     "iq": 1028
+    }
+   ],
+   "artist": "Ambjaay",
+   "lyrics": "62 ContributorsUno Lyrics[Intro]\nAyy, let's party, holmes\nInvite all the bitches\nHundreds and fifties, big ol' bitties, ayy?\nUno, dos, no tres, you heard me?\nAyy (Almighty)\nAyy, it cost to live like this, you heard me?\n\n[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n[Verse 1]\nHit it from the back, then I tell her, \"No m\u00e1s\"\nShe a freak, had to tell a bitch, \"Hola\"\nBend it over, I want your panocha\nShe call me papi, I hit it with no socks\nShe like, \"Jay, can I get some dick, por favor?\"\nI'm like \"Yeah, take it out, close the door\"\nChopper go blocka, yeah, we fin' to up the score\nElla peel a nigga back like a fuckin' orange\n\n[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n\n[Verse 2]\nI told her pull up on the kid ma\u00f1ana\nI beat the pussy up like a pi\u00f1ata\nI tell her work that thing like Rihanna\nHit her from the back, she gon' call me papa\nBend it over, yeah, make it clap quick\nDunk in her pussy, yeah, I'm on that Shaq shit\nSo fly, post a pic with no caption\nMy Mexican bitch got an English accent\nYou might also like[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n\n[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n\n[Outro]\nAyy, it cost to live like this, you heard me?12Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4582780",
+   "artist_names": "Ambjaay",
+   "full_title": "Uno (Original Version) by\u00a0Ambjaay",
+   "header_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+   "id": 4582780,
+   "language": "en",
+   "lyrics_owner_id": 54639,
+   "lyrics_state": "complete",
+   "path": "/Ambjaay-uno-original-version-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ambjaay-uno-original-version-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 2,
+    "day": 14
+   },
+   "release_date_for_display": "February 14, 2019",
+   "release_date_with_abbreviated_month_for_display": "Feb. 14, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 51889
+   },
+   "title": "Uno (Original Version)",
+   "title_with_featured": "Uno (Original Version)",
+   "url": "https://genius.com/Ambjaay-uno-original-version-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1745090",
+    "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "id": 1745090,
+    "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ambjaay",
+    "url": "https://genius.com/artists/Ambjaay",
+    "iq": 1028
+   },
+   "apple_music_id": "1463224693",
+   "apple_music_player_url": "https://genius.com/songs/4582780/apple_music_player",
+   "description": {
+    "plain": "Released Feb. 14, 2019\nBy Ambjaay\nThere is a shorter version found on YouTube and Spotify. The Original Version can be found on Souncloud"
+   },
+   "embed_content": "<div id='rg_embed_link_4582780' class='rg_embed_link' data-song-id='4582780'>Read <a href='https://genius.com/Ambjaay-uno-original-version-lyrics'>\u201cUno (Original Version)\u201d by Ambjaay</a> on Genius</div> <script crossorigin src='//genius.com/songs/4582780/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2019-02-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8597016,
+    "annotator_login": "NFGTW1NKS",
+    "api_path": "/referents/17383203",
+    "classification": "unreviewed",
+    "fragment": "Uno (Original Version)",
+    "id": 17383203,
+    "is_description": true,
+    "path": "/17383203/Ambjaay-uno-original-version/Uno-original-version",
+    "range": {
+     "content": "Uno (Original Version)"
+    },
+    "song_id": 4582780,
+    "url": "https://genius.com/17383203/Ambjaay-uno-original-version/Uno-original-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4582780",
+     "client_timestamps": {
+      "updated_by_human_at": 1659670938,
+      "lyrics_updated_at": 1659670938
+     },
+     "context": "Ambjaay",
+     "id": 4582780,
+     "image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+     "link_title": "Uno (Original Version) by\u00a0Ambjaay",
+     "title": "Uno (Original Version)",
+     "type": "Song",
+     "url": "https://genius.com/Ambjaay-uno-original-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17383203",
+      "body": {
+       "plain": "Released Feb. 14, 2019\nBy Ambjaay\nThere is a shorter version found on YouTube and Spotify. The Original Version can be found on Souncloud"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17383203,
+      "pinned": false,
+      "share_url": "https://genius.com/17383203",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17383203/Ambjaay-uno-original-version/Uno-original-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8597016",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0f6cd7713710489584589e5ca439f346",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0f6cd7713710489584589e5ca439f346",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0f6cd7713710489584589e5ca439f346",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0f6cd7713710489584589e5ca439f346",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/0f6cd7713710489584589e5ca439f346",
+         "human_readable_role_for_display": null,
+         "id": 8597016,
+         "iq": 111,
+         "login": "NFGTW1NKS",
+         "name": "NFGTW1NKS",
+         "role_for_display": null,
+         "url": "https://genius.com/NFGTW1NKS",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/54639",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "human_readable_role_for_display": "Staff",
+    "id": 54639,
+    "iq": 2709645,
+    "login": "WriteNProppa",
+    "name": "WriteNProppa",
+    "role_for_display": "staff",
+    "url": "https://genius.com/WriteNProppa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "ambjaay",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ambjaay/uno"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=p_M1UoraeFw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1847654",
+     "header_image_url": "https://images.genius.com/3049a310776959619d2be7e8e44d5f42.1000x1000x1.jpg",
+     "id": 1847654,
+     "image_url": "https://images.genius.com/774366c7f8628a2dd7552d45fa3c624c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Almighty Quise",
+     "url": "https://genius.com/artists/Almighty-quise",
+     "iq": 150
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6293026",
+       "artist_names": "Baauer",
+       "full_title": "Nut Milk Bag Bop by\u00a0Baauer",
+       "header_image_thumbnail_url": "https://images.genius.com/bca9d9fd827e9e7ca94935b94c854946.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bca9d9fd827e9e7ca94935b94c854946.700x700x1.jpg",
+       "id": 6293026,
+       "language": "en",
+       "lyrics_owner_id": 2102982,
+       "lyrics_state": "complete",
+       "path": "/Baauer-nut-milk-bag-bop-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Baauer-nut-milk-bag-bop-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 12,
+        "day": 2
+       },
+       "release_date_for_display": "December 2, 2020",
+       "release_date_with_abbreviated_month_for_display": "Dec. 2, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bca9d9fd827e9e7ca94935b94c854946.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bca9d9fd827e9e7ca94935b94c854946.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Nut Milk Bag Bop",
+       "title_with_featured": "Nut Milk Bag Bop",
+       "url": "https://genius.com/Baauer-nut-milk-bag-bop-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32785",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/baauer-slip-380.jpg",
+        "id": 32785,
+        "image_url": "https://s3.amazonaws.com/rapgenius/baauer-slip-380.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Baauer",
+        "url": "https://genius.com/artists/Baauer",
+        "iq": 115
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 21,
+       "api_path": "/songs/4353169",
+       "artist_names": "Ambjaay",
+       "full_title": "Uno by\u00a0Ambjaay",
+       "header_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+       "id": 4353169,
+       "language": "en",
+       "lyrics_owner_id": 770138,
+       "lyrics_state": "complete",
+       "path": "/Ambjaay-uno-lyrics",
+       "pyongs_count": 12,
+       "relationships_index_url": "https://genius.com/Ambjaay-uno-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 5,
+        "day": 10
+       },
+       "release_date_for_display": "May 10, 2019",
+       "release_date_with_abbreviated_month_for_display": "May. 10, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ebeafbeed893be367363059bcab49cab.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 614994
+       },
+       "title": "Uno",
+       "title_with_featured": "Uno",
+       "url": "https://genius.com/Ambjaay-uno-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1745090",
+        "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+        "id": 1745090,
+        "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ambjaay",
+        "url": "https://genius.com/artists/Ambjaay",
+        "iq": 1028
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1745090",
+     "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "id": 1745090,
+     "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ambjaay",
+     "url": "https://genius.com/artists/Ambjaay",
+     "iq": 1028
+    }
+   ],
+   "artist": "Ambjaay",
+   "lyrics": "6 ContributorsUno (Original Version) Lyrics[Intro]\nAyy, let's party, holmes\nHundreds and fifties, big ol' bitties, ayy?\nUno, dos, no tres, you heard me?\nAyy (Almighty)\nAyy, it cost to live like this, you heard me?\n\n[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n[Verse 1]\nHit it from the back, then I tell her, \"No m\u00e1s\"\nShe a freak, had to tell a bitch, \"Hola\"\nBend it over, I want your panocha\nShe call me papi, I hit it with no socks\nShe like, \"Jay, can I get some dick, por favor?\"\nI'm like \"Yeah, take it out, close the door\"\nChopper go blocka, yeah, we fin' to up the score\nElla peel a nigga back like a fuckin' orange\nShe brung dinero, I told her gracias\nShe gon' suck the fuckin' dick like a lollipop\nChop make 'em Milly Rock, dick make her body drop\nPussy wet like a mop, she call the policia\nHop in the fuckin' coupe like adi\u00f3s\nI don't want her no more, tell her v\u00e1monos\nYeah, I gotta go, you all cap like ponchos\nChop sit a nigga down since he macho\nI told her pull up on the kid ma\u00f1ana\nI beat the pussy up like a pi\u00f1ata\nI tell her work that thing like Rihanna\nHit her from the back, she gon' call me papa\nBend it over, yeah, make it clap quick\nDunk in her pussy, yeah, I'm on that Shaq shit\nSo fly, post a pic with no caption\nMy Mexican bitch got an English accent\nShe wanna fuck, I told her, \"S\u00ed, tap in\"\nShe gon' blow my pito with no hands\nHop in the fuckin cupta, blow bands\nLookin' like a fuckin' bag when I roll in\nGlock with a beam, make a nigga cha-cha\nBust on her face, she look like horchata\nYeah, say hello to my chopper\nI've been the shit since I came out my mama\nYou might also like[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\n\n[Verse 2]\nAyy, bitch, I need my pesos\nPut a hole in his ass like a bagel\nNiggas putos, chopped, leave your case closed\nBust down, I got Cubans and Franco\nShout out Ralo, that's my 'migo\nPockets on Big Show, she got a deep throat\nBitch I'm the plug, El Chapo\nI put meat in her shell like a taco\nBitch, I'm gasolina\nYardy goin' off like arriba\nBig chop, knock him out his Reeboks\nYou didn't see me, feel like John Cena\nRidin' with mops like we cleaned up\nBitch, I beat the scene, should've seen us\nI get cheese, quesadilla\nYou niggas bitch-made like Madea\nWe up, y'all can't keep up\nShe like, \"Jay, you on that mean stuff\"\nShe a bad mamacita\nBust down, she gon' hold the nina\nShake that ass like a Caesar\nI don't want that bitch, I'ma bleed her\nTo be honest, you can keep her\nMy Mexican bitch drive a Beamer\n[Chorus]\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachos\nUno, dos, no tres, she a thot, though\nWe got bitches shaking ass in the lot, though\nBig chop knock a nigga out zapatos\nStill getting queso like nachosEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4912715",
+   "artist_names": "Ambjaay",
+   "full_title": "Choppa Go Blocka Blocka by\u00a0Ambjaay",
+   "header_image_thumbnail_url": "https://images.genius.com/5eea470d07d10c64599009c412d79bf1.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/5eea470d07d10c64599009c412d79bf1.1000x563x1.jpg",
+   "id": 4912715,
+   "language": "en",
+   "lyrics_owner_id": 5317859,
+   "lyrics_state": "complete",
+   "path": "/Ambjaay-choppa-go-blocka-blocka-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Ambjaay-choppa-go-blocka-blocka-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 2,
+    "day": 19
+   },
+   "release_date_for_display": "February 19, 2019",
+   "release_date_with_abbreviated_month_for_display": "Feb. 19, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3e7724782f75ba0fb5a105ca37041269.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3e7724782f75ba0fb5a105ca37041269.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 5,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Choppa Go Blocka Blocka",
+   "title_with_featured": "Choppa Go Blocka Blocka",
+   "url": "https://genius.com/Ambjaay-choppa-go-blocka-blocka-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1745090",
+    "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "id": 1745090,
+    "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ambjaay",
+    "url": "https://genius.com/artists/Ambjaay",
+    "iq": 1028
+   },
+   "apple_music_id": "1468372789",
+   "apple_music_player_url": "https://genius.com/songs/4912715/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4912715' class='rg_embed_link' data-song-id='4912715'>Read <a href='https://genius.com/Ambjaay-choppa-go-blocka-blocka-lyrics'>\u201cChoppa Go Blocka Blocka\u201d by Ambjaay</a> on Genius</div> <script crossorigin src='//genius.com/songs/4912715/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-02-19",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4469304,
+    "annotator_login": "blustery",
+    "api_path": "/referents/19364920",
+    "classification": "needs_exegesis",
+    "fragment": "Choppa Go Blocka Blocka",
+    "id": 19364920,
+    "is_description": true,
+    "path": "/19364920/Ambjaay-choppa-go-blocka-blocka/Choppa-go-blocka-blocka",
+    "range": {
+     "content": "Choppa Go Blocka Blocka"
+    },
+    "song_id": 4912715,
+    "url": "https://genius.com/19364920/Ambjaay-choppa-go-blocka-blocka/Choppa-go-blocka-blocka",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4912715",
+     "client_timestamps": {
+      "updated_by_human_at": 1667025572,
+      "lyrics_updated_at": 1618588064
+     },
+     "context": "Ambjaay",
+     "id": 4912715,
+     "image_url": "https://images.genius.com/3e7724782f75ba0fb5a105ca37041269.500x500x1.jpg",
+     "link_title": "Choppa Go Blocka Blocka by\u00a0Ambjaay",
+     "title": "Choppa Go Blocka Blocka",
+     "type": "Song",
+     "url": "https://genius.com/Ambjaay-choppa-go-blocka-blocka-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19364920",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19364920,
+      "pinned": false,
+      "share_url": "https://genius.com/19364920",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19364920/Ambjaay-choppa-go-blocka-blocka/Choppa-go-blocka-blocka",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4469304",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c28d76729c8a71adce7ed358e76e1165",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c28d76729c8a71adce7ed358e76e1165",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c28d76729c8a71adce7ed358e76e1165",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c28d76729c8a71adce7ed358e76e1165",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/a2de78d05fd8fa811212cc63f9344b5a.700x652x1.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4469304,
+         "iq": 744087,
+         "login": "blustery",
+         "name": "blustery",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/blustery",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "ambjaay",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ambjaay/choppa-go-blocka-blocka"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1Vm-YwlUzbA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1045903",
+     "header_image_url": "https://images.genius.com/4cfea7783f1d75b990d1f2812fe979a3.900x900x1.jpg",
+     "id": 1045903,
+     "image_url": "https://images.genius.com/4cfea7783f1d75b990d1f2812fe979a3.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Tray",
+     "url": "https://genius.com/artists/Dj-tray"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1745090",
+     "header_image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "id": 1745090,
+     "image_url": "https://images.genius.com/03be57e2a62a9eb3fec9882fcbca87c7.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ambjaay",
+     "url": "https://genius.com/artists/Ambjaay",
+     "iq": 1028
+    }
+   ],
+   "artist": "Ambjaay",
+   "lyrics": "6 ContributorsChoppa Go Blocka Blocka Lyrics[Intro]\nGang gang yeah yeah\nOh I drop it to the gang [?]\nChoppa go blocka blocka\nChoppa go\u2005blocka\u2005blocka\nChoppa go blocka\u2005blocka\nChoppa go blocka blocka\nChoppa go blocka\u2005blocka\nChoppa go blocka blocka\n\n[Chorus]\nBleed the scene in balenciaga\nShe wanna fuck with the team cuz we really poppin\u2019\nKeep a chopstick in my hand like it\u2019s benihanas\nMan, these niggas bitch made, they don\u2019t want no problems\nYeah, choppa go blocka blocka\nChoppa go blocka blocka\nChoppa go blocka blocka\nMan these niggas they don\u2019t want no problems\nChoppa go blocka blocka\nThey don\u2019t want no problem, yeah\n[Verse 1]\nKnock the beans out his Chimichanga\nShe want money she ain\u2019t get nuh but Hard Johnson rocking like Dwayne Johnson\nHave a bitch we tote thangs\nYea it\u2019s a cold game\nBands on me yea i\u2019m finna make it rain\nBitch take a drip slayer I really bleed things\nWrist take a drip flavor\nChoppa go bang bang\nIt came with a beam watch out for gang, gang\n\n[Chorus]\nChoppa go blocka blocka\nChoppa go blocka blocka (Yeah)\nBleed the scene in balenciaga\nShe wanna fuck with the team cuz we really poppin\u2019\nKeep a chopstick in my hand like it\u2019s benihanas\nMan, these niggas bitch made, they don\u2019t want no problems\nYeah, choppa go blocka blocka\nChoppa go blocka blocka\nChoppa go blocka blocka\nMan these niggas they don\u2019t want no problems\n\n[Verse 2]\nIn the trenches it get hectic better keep a weapon\nGlizzy with tittes I\u2019m aiming at water melons\nYou know I drip a 100 drum leave a nigga delly\nWell, wrap a nigga up like a christmas present\nTwo sticks in my hand feel like hit man\nRalo got a stick he doing the chop dance\nSticked up like a nigga be the mop man\nBussdown watch a nigga fucking cop bands\nSticked up, sticked up\nChoppa hit a nigga quick he can get up\nYou might also like[Chorus]\nChoppa go blocka blocka\nChoppa go blocka blocka (Yeah)\nBleed the scene in balenciaga\nShe wanna fuck with the team cuz we really poppin\u2019\nKeep a chopstick in my hand like it\u2019s benihanas\nMan, these niggas bitch made, they don\u2019t want no problems\nYeah, choppa go blocka blocka\nChoppa go blocka blocka\nChoppa go blocka blocka\nMan these niggas they don\u2019t want no problems\n\n[Verse 3]\nMan down, man down, man down, yeah okay\nNigga keep talking this choppa finna hit his face\nHun loving Amb bitch I\u2019m from the ace, self made\nI don\u2019t fuck with these lames\nOh my goodness I\u2019m toting no Shanaenaes\nStay dangerous I never told my rollie stay safe\nDiamonds facing on my wrist\nHitting the nae nae nae\nHit a bitch on friday like I\u2019m dae dae\nChop blast\nHe run fast\nHe got hit with his fucking dumb ass\n[Chorus]\nChoppa go blocka blocka\nChoppa go blocka blocka (Yeah)\nBleed the scene in balenciaga\nShe wanna fuck with the team cuz we really poppin\u2019\nKeep a chopstick in my hand like it\u2019s benihanas\nMan, these niggas bitch made, they don\u2019t want no problems\nYeah, choppa go blocka blocka\nChoppa go blocka blocka\nChoppa go blocka blocka\nMan these niggas they don\u2019t want no problems12Embed"
+  }
+ ]
+}

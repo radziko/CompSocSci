@@ -1,0 +1,1934 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/199409",
+ "description": {
+  "plain": "Sheppard is an Australian indie pop band from Brisbane, formed in 2009. The band consists of 6 members with a former member to the side that was with the group from 2012 to 2013. Their debut studio album, Bombs Away, was released on 11 July 2014, and peaked at No. 2 on the ARIA Albums Chart and was certified gold by the Australian Recording Industry Association, while their second single, \u201cGeronimo\u201d, spent three weeks at No. 1 on the ARIA Singles Chart and was certified 5\u00d7 platinum."
+ },
+ "facebook_name": "wearesheppard",
+ "followers_count": 11,
+ "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+ "id": 199409,
+ "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+ "instagram_name": "wearesheppard",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Sheppard",
+ "translation_artist": false,
+ "twitter_name": "wearesheppard",
+ "url": "https://genius.com/artists/Sheppard",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3897749,
+  "annotator_login": "TaylerBurke",
+  "api_path": "/referents/7027320",
+  "classification": "unreviewed",
+  "fragment": "Sheppard",
+  "id": 7027320,
+  "is_description": true,
+  "path": "/7027320/Sheppard/Sheppard",
+  "range": {
+   "content": "Sheppard"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7027320/Sheppard/Sheppard",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/199409",
+   "context": null,
+   "id": 199409,
+   "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+   "link_title": "Sheppard",
+   "title": "Sheppard",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Sheppard"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7027320",
+    "body": {
+     "plain": "Sheppard is an Australian indie pop band from Brisbane, formed in 2009. The band consists of 6 members with a former member to the side that was with the group from 2012 to 2013. Their debut studio album, Bombs Away, was released on 11 July 2014, and peaked at No. 2 on the ARIA Albums Chart and was certified gold by the Australian Recording Industry Association, while their second single, \u201cGeronimo\u201d, spent three weeks at No. 1 on the ARIA Singles Chart and was certified 5\u00d7 platinum."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7027320,
+    "pinned": false,
+    "share_url": "https://genius.com/7027320",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7027320/Sheppard/Sheppard",
+    "verified": false,
+    "votes_total": 5,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9914529914529915,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3897749",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6ba69eb38e21fa5def556eb60c709b63",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6ba69eb38e21fa5def556eb60c709b63",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6ba69eb38e21fa5def556eb60c709b63",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6ba69eb38e21fa5def556eb60c709b63",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/6ba69eb38e21fa5def556eb60c709b63",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3897749,
+       "iq": 651,
+       "login": "TaylerBurke",
+       "name": "TaylerBurke",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/TaylerBurke",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.008547008547008546,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6054046",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/fd7ce3eb40cb227ff43a747413acad85",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/fd7ce3eb40cb227ff43a747413acad85",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/fd7ce3eb40cb227ff43a747413acad85",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/fd7ce3eb40cb227ff43a747413acad85",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/fd7ce3eb40cb227ff43a747413acad85",
+       "human_readable_role_for_display": null,
+       "id": 6054046,
+       "iq": 105,
+       "login": "Bengi05",
+       "name": "Bengi05",
+       "role_for_display": null,
+       "url": "https://genius.com/Bengi05",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/468605",
+   "artist_names": "Sheppard",
+   "full_title": "Geronimo by\u00a0Sheppard",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/59406d45007af36fcf5420aefeea1c35.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/59406d45007af36fcf5420aefeea1c35.1000x1000x1.jpg",
+   "id": 468605,
+   "language": "en",
+   "lyrics_owner_id": 336378,
+   "lyrics_state": "complete",
+   "path": "/Sheppard-geronimo-lyrics",
+   "pyongs_count": 39,
+   "relationships_index_url": "https://genius.com/Sheppard-geronimo-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 2,
+    "day": 28
+   },
+   "release_date_for_display": "February 28, 2014",
+   "release_date_with_abbreviated_month_for_display": "Feb. 28, 2014",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/59406d45007af36fcf5420aefeea1c35.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/59406d45007af36fcf5420aefeea1c35.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 43,
+    "iq_earners": 42,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 100347
+   },
+   "title": "Geronimo",
+   "title_with_featured": "Geronimo",
+   "url": "https://genius.com/Sheppard-geronimo-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/199409",
+    "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+    "id": 199409,
+    "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sheppard",
+    "url": "https://genius.com/artists/Sheppard"
+   },
+   "apple_music_id": "963223159",
+   "apple_music_player_url": "https://genius.com/songs/468605/apple_music_player",
+   "description": {
+    "plain": "Geronimo (2014) is a song by Sheppard. Is was written by Jay Bovino,Amy Sheppard and George Sheppard. The track was produced by Stuart Stuart. The song was a big hit in Australia peaking at number 1. It also charted on the Billboard hot 100 at 53.\n\nThe title of the song is a reference to the famous Apache military leader Geronimo, and the custom of yelling his name before doing a courageous act. Geronimo is pictured below (far right)."
+   },
+   "embed_content": "<div id='rg_embed_link_468605' class='rg_embed_link' data-song-id='468605'>Read <a href='https://genius.com/Sheppard-geronimo-lyrics'>\u201cGeronimo\u201d by Sheppard</a> on Genius</div> <script crossorigin src='//genius.com/songs/468605/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2014-02-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/120031",
+    "cover_art_url": "https://images.genius.com/879a8648d78a241b6f35e90be9895107.640x640x1.jpg",
+    "full_title": "Bombs Away by Sheppard",
+    "id": 120031,
+    "name": "Bombs Away",
+    "release_date_for_display": "July 11, 2014",
+    "url": "https://genius.com/albums/Sheppard/Bombs-away",
+    "artist": {
+     "api_path": "/artists/199409",
+     "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+     "id": 199409,
+     "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sheppard",
+     "url": "https://genius.com/artists/Sheppard"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Recording Engineers",
+     "artists": [
+      {
+       "api_path": "/artists/199410",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 199410,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stuart Stuart",
+       "url": "https://genius.com/artists/Stuart-stuart"
+      },
+      {
+       "api_path": "/artists/1476438",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1476438,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Marly L\u00fcske",
+       "url": "https://genius.com/artists/Marly-luske"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1707283",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1707283,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dean Gordon",
+       "url": "https://genius.com/artists/Dean-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1007059",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1007059,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Bovino",
+       "url": "https://genius.com/artists/Jay-bovino"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocalists",
+     "artists": [
+      {
+       "api_path": "/artists/2128820",
+       "header_image_url": "https://images.genius.com/8427496f2b566c7b4bcb6e4cdba5a9ad.1000x1000x1.jpg",
+       "id": 2128820,
+       "image_url": "https://images.genius.com/8427496f2b566c7b4bcb6e4cdba5a9ad.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emma Sheppard",
+       "url": "https://genius.com/artists/Emma-sheppard"
+      },
+      {
+       "api_path": "/artists/1007059",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1007059,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Bovino",
+       "url": "https://genius.com/artists/Jay-bovino"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      },
+      {
+       "api_path": "/artists/1007059",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1007059,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Bovino",
+       "url": "https://genius.com/artists/Jay-bovino"
+      }
+     ]
+    },
+    {
+     "label": "Drum Programming",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      },
+      {
+       "api_path": "/artists/1007059",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1007059,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Bovino",
+       "url": "https://genius.com/artists/Jay-bovino"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      },
+      {
+       "api_path": "/artists/1415992",
+       "header_image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+       "id": 1415992,
+       "image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Amy Sheppard",
+       "url": "https://genius.com/artists/Amy-sheppard"
+      }
+     ]
+    },
+    {
+     "label": "Associated Performers",
+     "artists": [
+      {
+       "api_path": "/artists/1415993",
+       "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "id": 1415993,
+       "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "George Sheppard",
+       "url": "https://genius.com/artists/George-sheppard"
+      },
+      {
+       "api_path": "/artists/1415992",
+       "header_image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+       "id": 1415992,
+       "image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Amy Sheppard",
+       "url": "https://genius.com/artists/Amy-sheppard"
+      },
+      {
+       "api_path": "/artists/2128820",
+       "header_image_url": "https://images.genius.com/8427496f2b566c7b4bcb6e4cdba5a9ad.1000x1000x1.jpg",
+       "id": 2128820,
+       "image_url": "https://images.genius.com/8427496f2b566c7b4bcb6e4cdba5a9ad.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emma Sheppard",
+       "url": "https://genius.com/artists/Emma-sheppard"
+      },
+      {
+       "api_path": "/artists/1007059",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1007059,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Bovino",
+       "url": "https://genius.com/artists/Jay-bovino"
+      },
+      {
+       "api_path": "/artists/1707283",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1707283,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dean Gordon",
+       "url": "https://genius.com/artists/Dean-gordon"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/199410",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 199410,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stuart Stuart",
+       "url": "https://genius.com/artists/Stuart-stuart"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/199410",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 199410,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stuart Stuart",
+       "url": "https://genius.com/artists/Stuart-stuart"
+      }
+     ]
+    },
+    {
+     "label": "Licensed to",
+     "artists": [
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/400a971fbe8786b2e5d5031a34a59d6a.1000x313x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/2128127",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2128127,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Empire of Song (Australia) Pty Limited",
+       "url": "https://genius.com/artists/Empire-of-song-australia-pty-limited"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 336378,
+    "annotator_login": "MichaelChantiri",
+    "api_path": "/referents/3639941",
+    "classification": "accepted",
+    "fragment": "Geronimo",
+    "id": 3639941,
+    "is_description": true,
+    "path": "/3639941/Sheppard-geronimo/Geronimo",
+    "range": {
+     "content": "Geronimo"
+    },
+    "song_id": 468605,
+    "url": "https://genius.com/3639941/Sheppard-geronimo/Geronimo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/468605",
+     "client_timestamps": {
+      "updated_by_human_at": 1662981310,
+      "lyrics_updated_at": 1628901258
+     },
+     "context": "Sheppard",
+     "id": 468605,
+     "image_url": "https://images.rapgenius.com/59406d45007af36fcf5420aefeea1c35.1000x1000x1.jpg",
+     "link_title": "Geronimo by\u00a0Sheppard",
+     "title": "Geronimo",
+     "type": "Song",
+     "url": "https://genius.com/Sheppard-geronimo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3639941",
+      "body": {
+       "plain": "Geronimo (2014) is a song by Sheppard. Is was written by Jay Bovino,Amy Sheppard and George Sheppard. The track was produced by Stuart Stuart. The song was a big hit in Australia peaking at number 1. It also charted on the Billboard hot 100 at 53.\n\nThe title of the song is a reference to the famous Apache military leader Geronimo, and the custom of yelling his name before doing a courageous act. Geronimo is pictured below (far right)."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3639941,
+      "pinned": false,
+      "share_url": "https://genius.com/3639941",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3639941/Sheppard-geronimo/Geronimo",
+      "verified": false,
+      "votes_total": 27,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9545454545454546,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/336378",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/77e630ebfca83cd7156f310e211d963d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/77e630ebfca83cd7156f310e211d963d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/77e630ebfca83cd7156f310e211d963d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/77e630ebfca83cd7156f310e211d963d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8cxzkccxhit",
+         "human_readable_role_for_display": "Contributor",
+         "id": 336378,
+         "iq": 1539,
+         "login": "MichaelChantiri",
+         "name": "MichaelChantiri",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MichaelChantiri",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.045454545454545456,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1884245",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/a50b2b29a755904448140c3e47aa0c04.1000x554x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1884245,
+         "iq": 171393,
+         "login": "sadchild",
+         "name": "Sadchild",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sadchild",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UL_EXAyGCkw"
+    },
+    {
+     "native_uri": "spotify:track:21Go4aMyLGP40ANI3TU0Fn",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/21Go4aMyLGP40ANI3TU0Fn"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/199410",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 199410,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stuart Stuart",
+     "url": "https://genius.com/artists/Stuart-stuart"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2239599",
+       "artist_names": "Twenty One Two",
+       "full_title": "Geronimo by\u00a0Twenty\u00a0One Two",
+       "header_image_thumbnail_url": "https://images.genius.com/47a1bcb9dc27713d2946c6618ab78bc9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/47a1bcb9dc27713d2946c6618ab78bc9.640x640x1.jpg",
+       "id": 2239599,
+       "language": "en",
+       "lyrics_owner_id": 7658168,
+       "lyrics_state": "complete",
+       "path": "/Twenty-one-two-geronimo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Twenty-one-two-geronimo-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 8
+       },
+       "release_date_for_display": "December 8, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 8, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/47a1bcb9dc27713d2946c6618ab78bc9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/47a1bcb9dc27713d2946c6618ab78bc9.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Geronimo",
+       "title_with_featured": "Geronimo",
+       "url": "https://genius.com/Twenty-one-two-geronimo-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/532094",
+        "header_image_url": "https://images.genius.com/52d3fcbb666b9ca6a4b1624fe1c72306.828x314x1.jpg",
+        "id": 532094,
+        "image_url": "https://images.genius.com/fc6caf0a9ee31e85bd04d3d52400fb18.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Twenty One Two",
+        "url": "https://genius.com/artists/Twenty-one-two"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6113767",
+       "artist_names": "Geraldine Mill\u00e1n",
+       "full_title": "Geronimo by\u00a0Geraldine\u00a0Mill\u00e1n",
+       "header_image_thumbnail_url": "https://images.genius.com/14b5d23824e3981603c0d105df4fcf2c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/14b5d23824e3981603c0d105df4fcf2c.499x499x1.jpg",
+       "id": 6113767,
+       "language": "en",
+       "lyrics_owner_id": 10199136,
+       "lyrics_state": "complete",
+       "path": "/Geraldine-millan-geronimo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Geraldine-millan-geronimo-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/14b5d23824e3981603c0d105df4fcf2c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/14b5d23824e3981603c0d105df4fcf2c.499x499x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Geronimo",
+       "title_with_featured": "Geronimo",
+       "url": "https://genius.com/Geraldine-millan-geronimo-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2455176",
+        "header_image_url": "https://images.genius.com/f8390251232e07c99afcfe45225a550c.499x499x1.jpg",
+        "id": 2455176,
+        "image_url": "https://images.genius.com/f8390251232e07c99afcfe45225a550c.499x499x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Geraldine Mill\u00e1n",
+        "url": "https://genius.com/artists/Geraldine-millan"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2082454",
+       "artist_names": "Evol Walks",
+       "full_title": "Geronimo by\u00a0Evol\u00a0Walks",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "id": 2082454,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Evol-walks-geronimo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Evol-walks-geronimo-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Geronimo",
+       "title_with_featured": "Geronimo",
+       "url": "https://genius.com/Evol-walks-geronimo-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/23191",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 23191,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Evol Walks",
+        "url": "https://genius.com/artists/Evol-walks"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1415994",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1415994,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Bovino",
+     "url": "https://genius.com/artists/Jason-bovino"
+    },
+    {
+     "api_path": "/artists/1415992",
+     "header_image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+     "id": 1415992,
+     "image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amy Sheppard",
+     "url": "https://genius.com/artists/Amy-sheppard"
+    },
+    {
+     "api_path": "/artists/1415993",
+     "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+     "id": 1415993,
+     "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Sheppard",
+     "url": "https://genius.com/artists/George-sheppard"
+    }
+   ],
+   "artist": "Sheppard",
+   "lyrics": "43 ContributorsGeronimo Lyrics[Verse 1]\nCan you feel it? Now it's coming back\nWe can steal it if we bridge this gap\nI can see you through the curtains of the waterfall\nWhen I lost it, yeah, you held my hand\nBut I tossed it, didn't understand\nYou were waiting as I dove into the waterfall\n\n[Chorus]\nSo say Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo\n[Post-Chorus]\nCan you feel my love?\nBombs away, bombs away\nBombs away\nCan you feel my love?\nBombs away, bombs away\nBombs away\nSay Geronimo\n\n[Verse 2]\nWell, we rushed it, moving way too fast\nThat we crushed it, but it's in the past\nWe can make this leap through the curtains of the waterfall\n\n[Chorus]\nSo say Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo\n\n[Post-Chorus]\nCan you feel my love?\nBombs away, bombs away\nBombs away\nCan you feel my love?\nBombs away, bombs away\nBombs away\nYou might also like[Bridge]\nWell, I'm just a boy with a broken toy\nAll lost and coy at the curtains of the waterfall\nSo it's here I stand as a broken man\nBut I've found my friend at the curtains of the waterfall\nNow I'm falling down through the crashing sound\nAnd you've come around at the curtains of the waterfall\nAnd you rushed to me and it sets us free\nSo I fall to my knees at the curtains of the waterfall\n\n[Chorus]\nSo say Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo, say Geronimo\nSay Geronimo, say Geronimo\n\n[Post-Chorus]\nCan you feel my love?\n(Say Geronimo, say Geronimo)\n(Say Geronimo, say Geronimo)\nBombs away, bombs away\n(Say Geronimo, say Geronimo)\nBombs away\n(Say Geronimo, say Geronimo)\n\n[Outro]\nCan you feel my love?\n(Make this leap)\n(Make this leap)\n(Make this leap)\n(Make this leap)\nCan you feel my love?39Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/3311569",
+   "artist_names": "Sheppard",
+   "full_title": "Coming Home by\u00a0Sheppard",
+   "header_image_thumbnail_url": "https://images.genius.com/17d2db62cd9d282a7a9531edceb12d1b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/17d2db62cd9d282a7a9531edceb12d1b.600x600x1.jpg",
+   "id": 3311569,
+   "language": "en",
+   "lyrics_owner_id": 3499648,
+   "lyrics_state": "complete",
+   "path": "/Sheppard-coming-home-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Sheppard-coming-home-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 11,
+    "day": 10
+   },
+   "release_date_for_display": "November 10, 2017",
+   "release_date_with_abbreviated_month_for_display": "Nov. 10, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/17d2db62cd9d282a7a9531edceb12d1b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/17d2db62cd9d282a7a9531edceb12d1b.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 12,
+    "iq_earners": 11,
+    "transcribers": 2,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 71874
+   },
+   "title": "Coming Home",
+   "title_with_featured": "Coming Home",
+   "url": "https://genius.com/Sheppard-coming-home-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/199409",
+    "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+    "id": 199409,
+    "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sheppard",
+    "url": "https://genius.com/artists/Sheppard"
+   },
+   "apple_music_id": "1368414809",
+   "apple_music_player_url": "https://genius.com/songs/3311569/apple_music_player",
+   "description": {
+    "plain": "\u201cComing Home\u201d is a song by Australian indie pop band, Sheppard. The song was released on 10 November 2017.\n\nThe song is about the feeling of returning home, whether that be after a vacation, or just for a visit."
+   },
+   "embed_content": "<div id='rg_embed_link_3311569' class='rg_embed_link' data-song-id='3311569'>Read <a href='https://genius.com/Sheppard-coming-home-lyrics'>\u201cComing Home\u201d by Sheppard</a> on Genius</div> <script crossorigin src='//genius.com/songs/3311569/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-11-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380041",
+    "cover_art_url": "https://images.genius.com/d949d6bf75810d4ed9c3fdae48e33e92.1000x1000x1.jpg",
+    "full_title": "Watching the Sky by Sheppard",
+    "id": 380041,
+    "name": "Watching the Sky",
+    "release_date_for_display": "June 8, 2018",
+    "url": "https://genius.com/albums/Sheppard/Watching-the-sky",
+    "artist": {
+     "api_path": "/artists/199409",
+     "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+     "id": 199409,
+     "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sheppard",
+     "url": "https://genius.com/artists/Sheppard"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5010988,
+    "annotator_login": "lalalalalalallalaalalalalalalalalalalalal",
+    "api_path": "/referents/13025124",
+    "classification": "accepted",
+    "fragment": "Coming Home",
+    "id": 13025124,
+    "is_description": true,
+    "path": "/13025124/Sheppard-coming-home/Coming-home",
+    "range": {
+     "content": "Coming Home"
+    },
+    "song_id": 3311569,
+    "url": "https://genius.com/13025124/Sheppard-coming-home/Coming-home",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3311569",
+     "client_timestamps": {
+      "updated_by_human_at": 1648893906,
+      "lyrics_updated_at": 1648893906
+     },
+     "context": "Sheppard",
+     "id": 3311569,
+     "image_url": "https://images.genius.com/17d2db62cd9d282a7a9531edceb12d1b.600x600x1.jpg",
+     "link_title": "Coming Home by\u00a0Sheppard",
+     "title": "Coming Home",
+     "type": "Song",
+     "url": "https://genius.com/Sheppard-coming-home-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13025124",
+      "body": {
+       "plain": "\u201cComing Home\u201d is a song by Australian indie pop band, Sheppard. The song was released on 10 November 2017.\n\nThe song is about the feeling of returning home, whether that be after a vacation, or just for a visit."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13025124,
+      "pinned": false,
+      "share_url": "https://genius.com/13025124",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13025124/Sheppard-coming-home/Coming-home",
+      "verified": false,
+      "votes_total": 6,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5010988",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/73286b8e9676bb81e343fd80d1fa3038",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/73286b8e9676bb81e343fd80d1fa3038",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/73286b8e9676bb81e343fd80d1fa3038",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/73286b8e9676bb81e343fd80d1fa3038",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/x5xdwnndoz",
+         "human_readable_role_for_display": null,
+         "id": 5010988,
+         "iq": 158,
+         "login": "lalalalalalallalaalalalalalalalalalalalal",
+         "name": "lalalalalalallalaalalalalalalalalalalalal",
+         "role_for_display": null,
+         "url": "https://genius.com/lalalalalalallalaalalalalalalalalalalalal",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=LyxFt9ecT28"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/199409",
+     "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+     "id": 199409,
+     "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sheppard",
+     "url": "https://genius.com/artists/Sheppard"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/309511",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 309511,
+     "image_url": "https://images.genius.com/4079e482fdc825c4fb0acbb4f41cf209.409x409x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Rad",
+     "url": "https://genius.com/artists/Matt-rad"
+    },
+    {
+     "api_path": "/artists/2314",
+     "header_image_url": "https://images.genius.com/75805932468fe8f5bcdff404a89e948d.1000x1000x1.jpg",
+     "id": 2314,
+     "image_url": "https://images.genius.com/75805932468fe8f5bcdff404a89e948d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Skeptics",
+     "url": "https://genius.com/artists/Young-skeptics"
+    },
+    {
+     "api_path": "/artists/1415994",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1415994,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Bovino",
+     "url": "https://genius.com/artists/Jason-bovino"
+    },
+    {
+     "api_path": "/artists/1415993",
+     "header_image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+     "id": 1415993,
+     "image_url": "https://images.genius.com/3c7cc0eb9c6158dab93a5b661927dfb4.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Sheppard",
+     "url": "https://genius.com/artists/George-sheppard"
+    },
+    {
+     "api_path": "/artists/1415992",
+     "header_image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+     "id": 1415992,
+     "image_url": "https://images.genius.com/d80f5c1723c99c7323f1eb3bf13b56b0.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amy Sheppard",
+     "url": "https://genius.com/artists/Amy-sheppard"
+    }
+   ],
+   "artist": "Sheppard",
+   "lyrics": "12 ContributorsComing Home Lyrics[Verse 1]\nI've been stuck in motion\nMoving too fast\nTryna catch a moment but it slips through my hands\nAll I see are long days and dark nights\nI'm lost without you, but I'm on my way, so hold tight\n\n[Chorus]\nI'm coming home tonight\nMeet me in the valley where the kids collide into the morning\nOh my god, my town is coming alive (coming alive)\nI'm coming home tonight, I know you're ready for the sparks to fly\nInto the morning\nOh my god, my town is coming alive\n'Cause I'm coming home tonight\n'Cause I'm coming home tonight\n[Verse 2]\nDon't wanna spend my whole life catching my breath\n'Cause I've been running 'round and 'round and 'round\nAnd I've got nothing left\nThere's nothing like a sunset skyline\nTo let you know you're almost home\nSo breathe in, and hold tight\n\n[Chorus]\nI'm coming home tonight\nMeet me in the valley where the kids collide into the morning\nOh my god, my town is coming alive (coming alive)\nI'm coming home tonight, I know you're ready for the sparks to fly\nInto the morning\nOh my god, my town is coming alive\n'Cause I'm coming home tonight\nYes, I'm coming home tonight\n\n[Bridge]\nTime has a way of diluting emotions\nBut I won't let distance get in between us, no\n\n[Chorus]\nOh, I'm coming home tonight\nMeet me in the valley where the kids collide into the morning\nOh my god, my town is coming alive (coming alive)\nI'm coming home tonight, I know you're ready for the sparks to fly\nInto the morning\nOh my god, my town is coming alive\nTonight\n'Cause I'm coming home tonight\nYou might also like[Outro]\nOh, woah (oh, woah)\nOh, woah (oh, woah)\nOh, woah (oh, woah)\nOh, woah, oh5Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3130695",
+   "artist_names": "Sheppard",
+   "full_title": "Edge of the Night by\u00a0Sheppard",
+   "header_image_thumbnail_url": "https://images.genius.com/a3facc09e28dabfa4ef8c5542767cb2b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a3facc09e28dabfa4ef8c5542767cb2b.1000x1000x1.jpg",
+   "id": 3130695,
+   "language": "en",
+   "lyrics_owner_id": 2034060,
+   "lyrics_state": "complete",
+   "path": "/Sheppard-edge-of-the-night-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Sheppard-edge-of-the-night-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 23
+   },
+   "release_date_for_display": "June 23, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a3facc09e28dabfa4ef8c5542767cb2b.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a3facc09e28dabfa4ef8c5542767cb2b.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10016
+   },
+   "title": "Edge of the Night",
+   "title_with_featured": "Edge of the Night",
+   "url": "https://genius.com/Sheppard-edge-of-the-night-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/199409",
+    "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+    "id": 199409,
+    "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Sheppard",
+    "url": "https://genius.com/artists/Sheppard"
+   },
+   "apple_music_id": "1368415283",
+   "apple_music_player_url": "https://genius.com/songs/3130695/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3130695' class='rg_embed_link' data-song-id='3130695'>Read <a href='https://genius.com/Sheppard-edge-of-the-night-lyrics'>\u201cEdge of the Night\u201d by Sheppard</a> on Genius</div> <script crossorigin src='//genius.com/songs/3130695/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380041",
+    "cover_art_url": "https://images.genius.com/d949d6bf75810d4ed9c3fdae48e33e92.1000x1000x1.jpg",
+    "full_title": "Watching the Sky by Sheppard",
+    "id": 380041,
+    "name": "Watching the Sky",
+    "release_date_for_display": "June 8, 2018",
+    "url": "https://genius.com/albums/Sheppard/Watching-the-sky",
+    "artist": {
+     "api_path": "/artists/199409",
+     "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+     "id": 199409,
+     "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sheppard",
+     "url": "https://genius.com/artists/Sheppard"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2034060,
+    "annotator_login": "nzboss99",
+    "api_path": "/referents/12207286",
+    "classification": "needs_exegesis",
+    "fragment": "Edge of the Night",
+    "id": 12207286,
+    "is_description": true,
+    "path": "/12207286/Sheppard-edge-of-the-night/Edge-of-the-night",
+    "range": {
+     "content": "Edge of the Night"
+    },
+    "song_id": 3130695,
+    "url": "https://genius.com/12207286/Sheppard-edge-of-the-night/Edge-of-the-night",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3130695",
+     "client_timestamps": {
+      "updated_by_human_at": 1500163935,
+      "lyrics_updated_at": 1500163886
+     },
+     "context": "Sheppard",
+     "id": 3130695,
+     "image_url": "https://images.genius.com/a3facc09e28dabfa4ef8c5542767cb2b.1000x1000x1.jpg",
+     "link_title": "Edge of the Night by\u00a0Sheppard",
+     "title": "Edge of the Night",
+     "type": "Song",
+     "url": "https://genius.com/Sheppard-edge-of-the-night-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12207286",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12207286,
+      "pinned": false,
+      "share_url": "https://genius.com/12207286",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12207286/Sheppard-edge-of-the-night/Edge-of-the-night",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2034060",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ouwLD8I2RAiEfkKCkH70_IMG_0001.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 2034060,
+         "iq": 351863,
+         "login": "nzboss99",
+         "name": "\u200bnzboss99",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/nzboss99",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ds4uZfvicfc"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Sheppard",
+   "lyrics": "3 ContributorsEdge of the Night Lyrics[Verse 1]\nFifteen to five, another Friday afternoon\nWatching the weekend creeping closer into view\nEye of the Tiger on the highway home to you\nHome to you, home to you, home to you\n\n[Pre-Chorus]\nDon't tell me you can't find time to party\nI don't wanna hear that damn excuse\nBaby if we can't go find a party\nGuess we'll have to make one here for two\n[Chorus]\nMilk and Honey, sunny delight\nI wanna take you on a\u2013\nStreet safari party alright\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright\n\nSupernova galaxy kiss\nI wanna take you on a\u2013\nStreet safari party like this\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright\n\n[Verse 2]\nFifteen to five, another sunrise next to you\nI spent my pay check now there's nothing left to lose\nWatching the ocean from a blanket on the roof\nOn the roof, on the roof, on the roof\n\n[Pre-Chorus]\nDon't tell me you can't find time to party\nI don't wanna hear that damn excuse\nBaby if we can't go find a party\nGuess we'll have to make one here for two\nYou might also like[Chorus]\nMilk and Honey, sunny delight\nI wanna take you on a\u2013\nStreet safari party alright\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright\n\nSupernova galaxy kiss\nI wanna take you on a\u2013\nStreet safari party like this\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright\n\n[Bridge]\nSo wake up the neighbors\nSleep is overrated\nJump on it and shake it\nBaby you're my favorite\nGo wake up on the neighbors\nSleep is overrated\nJump on it and shake it\nBaby you're my favorite\n\n[Chorus]\nMilk and Honey, sunny delight\nI wanna take you on a\u2013\nStreet safari party alright\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright\nSupernova galaxy kiss\nI wanna take you on a\u2013\nStreet safari party like this\nInto the wild jungle\nOoh-ooh if you ain't scared of the fall\nWe'll be hanging off the edge of the night, alright1Embed"
+  }
+ ]
+}

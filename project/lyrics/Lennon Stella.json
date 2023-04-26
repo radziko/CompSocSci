@@ -1,0 +1,2195 @@
+{
+ "alternate_names": [
+  "Lennon Ray Louise Stella"
+ ],
+ "api_path": "/artists/376704",
+ "description": {
+  "plain": "Lennon Stella (born August 13, 1999) is a singer-songwriter from from Oshawa, Ontario, who shot to internet fame at an early age with her viral video with sister Maisy Stella. The two sisters also starred in the popular country music-themed TV series Nashville.\n\nIn November 2018, Lennon launched her solo career with her debut EP Love, me. She has gone on to release several successful singles, including \u201cPolaroid,\u201d a high-profile collab with Jonas Blue and Liam Payne."
+ },
+ "facebook_name": "lennonstellaofficial",
+ "followers_count": 84,
+ "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+ "id": 376704,
+ "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+ "instagram_name": "lennonstella",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Lennon Stella",
+ "translation_artist": false,
+ "twitter_name": "lennonstella",
+ "url": "https://genius.com/artists/Lennon-stella",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 357,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1593362,
+  "annotator_login": "goodkidkevcity",
+  "api_path": "/referents/7094187",
+  "classification": "accepted",
+  "fragment": "Lennon Stella",
+  "id": 7094187,
+  "is_description": true,
+  "path": "/7094187/Lennon-stella/Lennon-stella",
+  "range": {
+   "content": "Lennon Stella"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7094187/Lennon-stella/Lennon-stella",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/376704",
+   "context": null,
+   "id": 376704,
+   "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+   "link_title": "Lennon Stella",
+   "title": "Lennon Stella",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lennon-stella"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7094187",
+    "body": {
+     "plain": "Lennon Stella (born August 13, 1999) is a singer-songwriter from from Oshawa, Ontario, who shot to internet fame at an early age with her viral video with sister Maisy Stella. The two sisters also starred in the popular country music-themed TV series Nashville.\n\nIn November 2018, Lennon launched her solo career with her debut EP Love, me. She has gone on to release several successful singles, including \u201cPolaroid,\u201d a high-profile collab with Jonas Blue and Liam Payne."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7094187,
+    "pinned": false,
+    "share_url": "https://genius.com/7094187",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7094187/Lennon-stella/Lennon-stella",
+    "verified": false,
+    "votes_total": 11,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8961038961038961,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1593362",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9fa14c93aa7b2706cf2eeafc61ade1d2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9fa14c93aa7b2706cf2eeafc61ade1d2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9fa14c93aa7b2706cf2eeafc61ade1d2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9fa14c93aa7b2706cf2eeafc61ade1d2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e5ac21d9b64a52ab3fca123543b3eeb8.500x376x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1593362,
+       "iq": 187764,
+       "login": "goodkidkevcity",
+       "name": "Kevin Loo",
+       "role_for_display": "editor",
+       "url": "https://genius.com/goodkidkevcity",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10389610389610389,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11341951",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/67161dc0fcc9518e251e35eea80bf744",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/67161dc0fcc9518e251e35eea80bf744",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/67161dc0fcc9518e251e35eea80bf744",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/67161dc0fcc9518e251e35eea80bf744",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3dc347f8a13276f95fbe2783ef18e34a.549x309x20.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 11341951,
+       "iq": 76478,
+       "login": "zealotofstockholm",
+       "name": "Zealot of Stockholm",
+       "role_for_display": "editor",
+       "url": "https://genius.com/zealotofstockholm",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/8121072",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/7747433f19459a3aca2ee1b1e320507f",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/7747433f19459a3aca2ee1b1e320507f",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/7747433f19459a3aca2ee1b1e320507f",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/7747433f19459a3aca2ee1b1e320507f",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 8121072,
+  "iq": 357,
+  "login": "LennonStella",
+  "name": "Lennon Stella",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/LennonStella",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/3885392",
+   "artist_names": "Lennon Stella",
+   "full_title": "Like Everybody Else by\u00a0Lennon\u00a0Stella",
+   "header_image_thumbnail_url": "https://images.genius.com/ecb67391cfdb5f2337b0b9401b17741a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ecb67391cfdb5f2337b0b9401b17741a.300x300x1.jpg",
+   "id": 3885392,
+   "language": "en",
+   "lyrics_owner_id": 2416089,
+   "lyrics_state": "complete",
+   "path": "/Lennon-stella-like-everybody-else-lyrics",
+   "pyongs_count": 8,
+   "relationships_index_url": "https://genius.com/Lennon-stella-like-everybody-else-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 8,
+    "day": 7
+   },
+   "release_date_for_display": "August 7, 2018",
+   "release_date_with_abbreviated_month_for_display": "Aug. 7, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ecb67391cfdb5f2337b0b9401b17741a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ecb67391cfdb5f2337b0b9401b17741a.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 19,
+    "iq_earners": 18,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 179449
+   },
+   "title": "Like Everybody Else",
+   "title_with_featured": "Like Everybody Else",
+   "url": "https://genius.com/Lennon-stella-like-everybody-else-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376704",
+    "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+    "id": 376704,
+    "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lennon Stella",
+    "url": "https://genius.com/artists/Lennon-stella",
+    "iq": 357
+   },
+   "apple_music_id": "1420140659",
+   "apple_music_player_url": "https://genius.com/songs/3885392/apple_music_player",
+   "description": {
+    "plain": "\u201cLike Everybody Else\u201d is a song by Canadian singer-songwriter Lennon Stella, released as the first non-album single in 2018. For any young teenage girl, it just gets so hard to feel unique. There are so many options in front of your face all the time. Being young and trying to find your way and having a world full of people doing exactly what you want to do\u2026 there\u2019s so much in your face all the time."
+   },
+   "embed_content": "<div id='rg_embed_link_3885392' class='rg_embed_link' data-song-id='3885392'>Read <a href='https://genius.com/Lennon-stella-like-everybody-else-lyrics'>\u201cLike Everybody Else\u201d by Lennon\u00a0Stella</a> on Genius</div> <script crossorigin src='//genius.com/songs/3885392/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-08-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/570802",
+    "cover_art_url": "https://images.genius.com/f5c7097651df40cc93e7ca33943d9d36.400x400x1.jpg",
+    "full_title": "NOW That\u2019s What I Call Music! 68 [US] by NOW That's What I Call Music!",
+    "id": 570802,
+    "name": "NOW That\u2019s What I Call Music! 68 [US]",
+    "release_date_for_display": "October 26, 2018",
+    "url": "https://genius.com/albums/Now-thats-what-i-call-music/Now-thats-what-i-call-music-68-us",
+    "artist": {
+     "api_path": "/artists/578675",
+     "header_image_url": "https://images.genius.com/75dc2b1f96ca4962c7622043335e1b99.960x960x1.jpg",
+     "id": 578675,
+     "image_url": "https://images.genius.com/2ad71039250d907203f1e0c96d3996e6.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NOW That\u2019s What I Call Music!",
+     "url": "https://genius.com/artists/Now-thats-what-i-call-music"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/452675",
+       "header_image_url": "https://images.genius.com/6fe620f35cbd4229bac25030f05c4a29.1000x462x1.jpg",
+       "id": 452675,
+       "image_url": "https://images.genius.com/414f534ab3b74428ea08aa87ff05bbd3.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "K.S. Rhoads",
+       "url": "https://genius.com/artists/Ks-rhoads"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/452675",
+       "header_image_url": "https://images.genius.com/6fe620f35cbd4229bac25030f05c4a29.1000x462x1.jpg",
+       "id": 452675,
+       "image_url": "https://images.genius.com/414f534ab3b74428ea08aa87ff05bbd3.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "K.S. Rhoads",
+       "url": "https://genius.com/artists/Ks-rhoads"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8273289,
+    "annotator_login": "TheoFeliciano",
+    "api_path": "/referents/23290613",
+    "classification": "unreviewed",
+    "fragment": "Like Everybody Else",
+    "id": 23290613,
+    "is_description": true,
+    "path": "/23290613/Lennon-stella-like-everybody-else/Like-everybody-else",
+    "range": {
+     "content": "Like Everybody Else"
+    },
+    "song_id": 3885392,
+    "url": "https://genius.com/23290613/Lennon-stella-like-everybody-else/Like-everybody-else",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3885392",
+     "client_timestamps": {
+      "updated_by_human_at": 1679570388,
+      "lyrics_updated_at": 1679570388
+     },
+     "context": "Lennon Stella",
+     "id": 3885392,
+     "image_url": "https://images.genius.com/ecb67391cfdb5f2337b0b9401b17741a.300x300x1.jpg",
+     "link_title": "Like Everybody Else by\u00a0Lennon\u00a0Stella",
+     "title": "Like Everybody Else",
+     "type": "Song",
+     "url": "https://genius.com/Lennon-stella-like-everybody-else-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23290613",
+      "body": {
+       "plain": "\u201cLike Everybody Else\u201d is a song by Canadian singer-songwriter Lennon Stella, released as the first non-album single in 2018. For any young teenage girl, it just gets so hard to feel unique. There are so many options in front of your face all the time. Being young and trying to find your way and having a world full of people doing exactly what you want to do\u2026 there\u2019s so much in your face all the time."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 23290613,
+      "pinned": false,
+      "share_url": "https://genius.com/23290613",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/23290613/Lennon-stella-like-everybody-else/Like-everybody-else",
+      "verified": false,
+      "votes_total": -1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8273289",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8273289,
+         "iq": 3926,
+         "login": "TheoFeliciano",
+         "name": "TheoFeliciano",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TheoFeliciano",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aBwYUwuYRxE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/452675",
+     "header_image_url": "https://images.genius.com/6fe620f35cbd4229bac25030f05c4a29.1000x462x1.jpg",
+     "id": 452675,
+     "image_url": "https://images.genius.com/414f534ab3b74428ea08aa87ff05bbd3.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "K.S. Rhoads",
+     "url": "https://genius.com/artists/Ks-rhoads"
+    },
+    {
+     "api_path": "/artists/64625",
+     "header_image_url": "https://images.genius.com/fe31ba6bb0cbc07cee80d4e29c2cecf6.1000x563x1.jpg",
+     "id": 64625,
+     "image_url": "https://images.genius.com/a75c14cc9ede7e7f013aaa6d978e1559.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erin McCarley",
+     "url": "https://genius.com/artists/Erin-mccarley"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/122790",
+     "header_image_url": "https://images.genius.com/0715cf9f604ce9f0eaf91015f2ee25fd.300x199x1.jpg",
+     "id": 122790,
+     "image_url": "https://images.genius.com/9a61b61677aa09128e7a8d8b310023f4.214x214x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eg White",
+     "url": "https://genius.com/artists/Eg-white"
+    },
+    {
+     "api_path": "/artists/64625",
+     "header_image_url": "https://images.genius.com/fe31ba6bb0cbc07cee80d4e29c2cecf6.1000x563x1.jpg",
+     "id": 64625,
+     "image_url": "https://images.genius.com/a75c14cc9ede7e7f013aaa6d978e1559.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erin McCarley",
+     "url": "https://genius.com/artists/Erin-mccarley"
+    },
+    {
+     "api_path": "/artists/376704",
+     "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+     "id": 376704,
+     "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lennon Stella",
+     "url": "https://genius.com/artists/Lennon-stella",
+     "iq": 357
+    }
+   ],
+   "artist": "Lennon Stella",
+   "lyrics": "19 ContributorsLike Everybody Else Lyrics[Verse 1]\nRun fast, run away, run straight into the loneliness\nIt isn\u2019t only home I miss\nLike the night all my friends got together, heard about it afterward\nDidn\u2019t think was gonna hurt so much\n\n[Pre-Chorus]\nWhy if I am doing so well\nDid I build a wall between me and the world?\n\n[Chorus]\nBeen drilled in my head forever, be better\nTurns out I\u2019m just like everybody else\nDon\u2019t even go near a mirror, it\u2019ll kill ya\nTrust me, you don\u2019t wanna see yourself\nFuck the noise, it\u2019s too late, it\u2019s the choices\nNow I don\u2019t even wanna be someone\nWhat made me think I was special? I\u2019m not special\nTurns out I\u2019m like everybody else\n[Verse 2]\nThat's nice champagne, what a shame, it doesn't work on me\nSo don't go wastin' your money\nEverybody in this room is too hard, too pretty, I'm tired\nI just wanna be nobody\n\n[Chorus]\nBeen drilled in my head forever, be better\nTurns out I'm just like everybody else\nDon't even go near a mirror, it'll kill ya\nTrust me, you don't wanna see yourself\nFuck the noise, it's too late, it's the choices, oh\nNow I don't even wanna be someone\nWhat made me think I was special? I'm not special\nTurns out I'm like everybody else\n\n[Outro]\nOh, what made me think I was special? I\u2019m not special\nTurns out I\u2019m like everybody elseYou might also like8Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4089447",
+   "artist_names": "Lennon Stella",
+   "full_title": "La Di Da by\u00a0Lennon\u00a0Stella",
+   "header_image_thumbnail_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.300x300x1.png",
+   "header_image_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.750x750x1.png",
+   "id": 4089447,
+   "language": "en",
+   "lyrics_owner_id": 665366,
+   "lyrics_state": "complete",
+   "path": "/Lennon-stella-la-di-da-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Lennon-stella-la-di-da-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 11,
+    "day": 16
+   },
+   "release_date_for_display": "November 16, 2018",
+   "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.750x750x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 19,
+    "iq_earners": 19,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 87176
+   },
+   "title": "La Di Da",
+   "title_with_featured": "La Di Da",
+   "url": "https://genius.com/Lennon-stella-la-di-da-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376704",
+    "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+    "id": 376704,
+    "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lennon Stella",
+    "url": "https://genius.com/artists/Lennon-stella",
+    "iq": 357
+   },
+   "apple_music_id": "1441469197",
+   "apple_music_player_url": "https://genius.com/songs/4089447/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4089447' class='rg_embed_link' data-song-id='4089447'>Read <a href='https://genius.com/Lennon-stella-la-di-da-lyrics'>\u201cLa Di Da\u201d by Lennon\u00a0Stella</a> on Genius</div> <script crossorigin src='//genius.com/songs/4089447/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-11-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/479091",
+    "cover_art_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.750x750x1.png",
+    "full_title": "Love, me by Lennon Stella",
+    "id": 479091,
+    "name": "Love, me",
+    "release_date_for_display": "November 16, 2018",
+    "url": "https://genius.com/albums/Lennon-stella/Love-me",
+    "artist": {
+     "api_path": "/artists/376704",
+     "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+     "id": 376704,
+     "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lennon Stella",
+     "url": "https://genius.com/artists/Lennon-stella",
+     "iq": 357
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Vocal Producer",
+     "artists": [
+      {
+       "api_path": "/artists/64625",
+       "header_image_url": "https://images.genius.com/fe31ba6bb0cbc07cee80d4e29c2cecf6.1000x563x1.jpg",
+       "id": 64625,
+       "image_url": "https://images.genius.com/a75c14cc9ede7e7f013aaa6d978e1559.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Erin McCarley",
+       "url": "https://genius.com/artists/Erin-mccarley"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/63216",
+       "header_image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "id": 63216,
+       "image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Little",
+       "url": "https://genius.com/artists/Joel-little"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/63216",
+       "header_image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "id": 63216,
+       "image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Little",
+       "url": "https://genius.com/artists/Joel-little"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/589828",
+       "header_image_url": "https://images.genius.com/8010c397402a269e4c0c3def2edc7267.1000x667x1.png",
+       "id": 589828,
+       "image_url": "https://images.genius.com/46c5f3a739690651ba01154cc0b9e590.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaycen Joshua",
+       "url": "https://genius.com/artists/Jaycen-joshua"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/63216",
+       "header_image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "id": 63216,
+       "image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Little",
+       "url": "https://genius.com/artists/Joel-little"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1498283",
+       "header_image_url": "https://images.genius.com/8e7feebcc7b5daed99c9cdb8909368a8.594x594x1.png",
+       "id": 1498283,
+       "image_url": "https://images.genius.com/8e7feebcc7b5daed99c9cdb8909368a8.594x594x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mike Seaberg",
+       "url": "https://genius.com/artists/Mike-seaberg"
+      },
+      {
+       "api_path": "/artists/1143086",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1143086,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rashawn McLean",
+       "url": "https://genius.com/artists/Rashawn-mclean"
+      },
+      {
+       "api_path": "/artists/1464579",
+       "header_image_url": "https://images.genius.com/6fa3cf0ac1bc66f73ec1c6cba929422d.600x600x1.jpg",
+       "id": 1464579,
+       "image_url": "https://images.genius.com/6fa3cf0ac1bc66f73ec1c6cba929422d.600x600x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacob Richards",
+       "url": "https://genius.com/artists/Jacob-richards"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11341951,
+    "annotator_login": "zealotofstockholm",
+    "api_path": "/referents/23290565",
+    "classification": "needs_exegesis",
+    "fragment": "La Di Da",
+    "id": 23290565,
+    "is_description": true,
+    "path": "/23290565/Lennon-stella-la-di-da/La-di-da",
+    "range": {
+     "content": "La Di Da"
+    },
+    "song_id": 4089447,
+    "url": "https://genius.com/23290565/Lennon-stella-la-di-da/La-di-da",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4089447",
+     "client_timestamps": {
+      "updated_by_human_at": 1638923194,
+      "lyrics_updated_at": 1623873976
+     },
+     "context": "Lennon Stella",
+     "id": 4089447,
+     "image_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.750x750x1.png",
+     "link_title": "La Di Da by\u00a0Lennon\u00a0Stella",
+     "title": "La Di Da",
+     "type": "Song",
+     "url": "https://genius.com/Lennon-stella-la-di-da-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23290565",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 23290565,
+      "pinned": false,
+      "share_url": "https://genius.com/23290565",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/23290565/Lennon-stella-la-di-da/La-di-da",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11341951",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/3dc347f8a13276f95fbe2783ef18e34a.549x309x20.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 11341951,
+         "iq": 76478,
+         "login": "zealotofstockholm",
+         "name": "Zealot of Stockholm",
+         "role_for_display": "editor",
+         "url": "https://genius.com/zealotofstockholm",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/271096",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/7fb2bf040b5378478cc5ff81f762ba3e.1000x613x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 271096,
+    "iq": 480442,
+    "login": "Empath",
+    "name": "Colby Handy",
+    "role_for_display": "staff",
+    "url": "https://genius.com/Empath",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:2YyvWje3cEYyqgYhNUIaBJ",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2YyvWje3cEYyqgYhNUIaBJ"
+    },
+    {
+     "attribution": "lennonstella",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lennonstella/la-di-da"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aMWwojvC-tk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/63216",
+     "header_image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+     "id": 63216,
+     "image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joel Little",
+     "url": "https://genius.com/artists/Joel-little"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4300594",
+       "artist_names": "Lennon Stella",
+       "full_title": "La Di Da (Hibell Remix) by\u00a0Lennon\u00a0Stella",
+       "header_image_thumbnail_url": "https://images.genius.com/da45a76e6a5a7a72a0da1fb846afd58f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/da45a76e6a5a7a72a0da1fb846afd58f.640x640x1.jpg",
+       "id": 4300594,
+       "language": "en",
+       "lyrics_owner_id": 5637607,
+       "lyrics_state": "complete",
+       "path": "/Lennon-stella-la-di-da-hibell-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Lennon-stella-la-di-da-hibell-remix-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 8
+       },
+       "release_date_for_display": "February 8, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 8, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/da45a76e6a5a7a72a0da1fb846afd58f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/da45a76e6a5a7a72a0da1fb846afd58f.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "La Di Da (Hibell Remix)",
+       "title_with_featured": "La Di Da (Hibell Remix)",
+       "url": "https://genius.com/Lennon-stella-la-di-da-hibell-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/376704",
+        "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+        "id": 376704,
+        "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lennon Stella",
+        "url": "https://genius.com/artists/Lennon-stella",
+        "iq": 357
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4582802",
+       "artist_names": "Genius Nederlandse Vertalingen",
+       "full_title": "Lennon Stella - La Di Da (Nederlandse Vertaling) by\u00a0Genius\u00a0Nederlandse Vertalingen",
+       "header_image_thumbnail_url": "https://images.genius.com/3ab98ac13d84e054ae2285aebf488c04.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3ab98ac13d84e054ae2285aebf488c04.1000x1000x1.jpg",
+       "id": 4582802,
+       "language": "nl",
+       "lyrics_owner_id": 8581596,
+       "lyrics_state": "complete",
+       "path": "/Genius-nederlandse-vertalingen-lennon-stella-la-di-da-nederlandse-vertaling-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-nederlandse-vertalingen-lennon-stella-la-di-da-nederlandse-vertaling-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9421268bf953f0a6144fa1c977fad2d4.220x220x1.png",
+       "song_art_image_url": "https://images.genius.com/9421268bf953f0a6144fa1c977fad2d4.220x220x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Lennon Stella - La Di Da (Nederlandse Vertaling)",
+       "title_with_featured": "Lennon Stella - La Di Da (Nederlandse Vertaling)",
+       "url": "https://genius.com/Genius-nederlandse-vertalingen-lennon-stella-la-di-da-nederlandse-vertaling-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1805866",
+        "header_image_url": "https://images.genius.com/b3e663a0731eb347a6908a8c2b2a2178.824x196x1.png",
+        "id": 1805866,
+        "image_url": "https://images.genius.com/c496df58e946e7e740c72d9f6c602732.512x512x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Nederlandse Vertalingen",
+        "url": "https://genius.com/artists/Genius-nederlandse-vertalingen"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/4582802",
+     "id": 4582802,
+     "language": "nl",
+     "lyrics_state": "complete",
+     "path": "/Genius-nederlandse-vertalingen-lennon-stella-la-di-da-nederlandse-vertaling-lyrics",
+     "title": "Lennon Stella - La Di Da (Nederlandse Vertaling)",
+     "url": "https://genius.com/Genius-nederlandse-vertalingen-lennon-stella-la-di-da-nederlandse-vertaling-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/376704",
+     "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+     "id": 376704,
+     "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lennon Stella",
+     "url": "https://genius.com/artists/Lennon-stella",
+     "iq": 357
+    },
+    {
+     "api_path": "/artists/63216",
+     "header_image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+     "id": 63216,
+     "image_url": "https://images.genius.com/b317bb3f103f510fae8afee2215225fc.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joel Little",
+     "url": "https://genius.com/artists/Joel-little"
+    },
+    {
+     "api_path": "/artists/551992",
+     "header_image_url": "https://images.genius.com/cdb6b5590ce76d93918e666e0acf722a.615x420x1.jpg",
+     "id": 551992,
+     "image_url": "https://images.genius.com/dee60c7cd10972d77896ce60fc308523.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Emily Warren",
+     "url": "https://genius.com/artists/Emily-warren",
+     "iq": 3548
+    }
+   ],
+   "artist": "Lennon Stella",
+   "lyrics": "19 ContributorsTranslationsNederlandsLa Di Da Lyrics[Verse 1]\nSome things don't sit right\nThis close to midnight\nYou're someone else in this light  (Oh, oh oh)\nStand in the kitchen\nAttempting to fix this\nSo I try to listen to you, you, you\nBut\n\n[Chorus]\nYou're gonna say something you don't mean\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nYour empty words made for hurting me\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nLa da da di da, la da da di da, la da da di da, la da da di da\nLa da da di da, la da da di da\nHold my ears say \"la da da di\"\n[Verse 2]\nIt's just like you\nTo take me down with you\nFeed off each other's issues (Oh, oh, oh)\nWe both know there's no use\nTalkin' 'bout what I owe you\nI want back the old you\nYou, you, you\nBut\n\n[Chorus]\nYou're gonna say something you don't mean\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nYour empty words made for hurting me\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nLa da da di da, la da da di da, la da da di da, la da da di da\nLa da da di da, la da da di da\nHold my ears say \"la da da di\"\n\n[Bridge]\nBusy doing damage\nInstead of repairing you and I\nThen you go and take advantage of me and I can't stand it\nEvery time\n\n[Chorus]\nYou're gonna say something you don't mean\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nYour empty words made for hurting me\nSo just before you take it too far, I'll hold my ears say \"la da da di da\"\nLa da da di da, la da da di da, la da da di da, la da da di da\nLa da da di da, la da da di da\nHold my ears say \"la da da di\"\nLa da da di da, la da da di da, la da da di da, la da da di da\nLa da da di da, la da da di da\nHold my ears say \"la da da di da\"You might also like6Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3952743",
+   "artist_names": "Lennon Stella",
+   "full_title": "Bad by\u00a0Lennon\u00a0Stella",
+   "header_image_thumbnail_url": "https://images.genius.com/e3f7a05506bfc279c4ad04fa9bf1922b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e3f7a05506bfc279c4ad04fa9bf1922b.1000x1000x1.jpg",
+   "id": 3952743,
+   "language": "en",
+   "lyrics_owner_id": 665366,
+   "lyrics_state": "complete",
+   "path": "/Lennon-stella-bad-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Lennon-stella-bad-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 9,
+    "day": 14
+   },
+   "release_date_for_display": "September 14, 2018",
+   "release_date_with_abbreviated_month_for_display": "Sep. 14, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/144ee66ff814fe945063c15ed0cfab26.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/144ee66ff814fe945063c15ed0cfab26.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 19,
+    "iq_earners": 18,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 53371
+   },
+   "title": "Bad",
+   "title_with_featured": "Bad",
+   "url": "https://genius.com/Lennon-stella-bad-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376704",
+    "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+    "id": 376704,
+    "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Lennon Stella",
+    "url": "https://genius.com/artists/Lennon-stella",
+    "iq": 357
+   },
+   "apple_music_id": "1441469194",
+   "apple_music_player_url": "https://genius.com/songs/3952743/apple_music_player",
+   "description": {
+    "plain": "In this song, Lennon talks about how getting over her break up with someone that cheated on her would have been easier if she had \u201cbad signs\u201d in her relationship. When you break up with a person there are usually signs before the relationship ends that it wasn\u2019t working out, especially having had the other person cheating on Stella, but that wasn\u2019t the experience. Lennon recounts that, in reality, she was being treated the way she would want to be treated in a relationship and she didn\u2019t notice anything was wrong until she found out the other person was cheating on her."
+   },
+   "embed_content": "<div id='rg_embed_link_3952743' class='rg_embed_link' data-song-id='3952743'>Read <a href='https://genius.com/Lennon-stella-bad-lyrics'>\u201cBad\u201d by Lennon\u00a0Stella</a> on Genius</div> <script crossorigin src='//genius.com/songs/3952743/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-09-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/479091",
+    "cover_art_url": "https://images.genius.com/0211872d5350a01504818eab410d9af9.750x750x1.png",
+    "full_title": "Love, me by Lennon Stella",
+    "id": 479091,
+    "name": "Love, me",
+    "release_date_for_display": "November 16, 2018",
+    "url": "https://genius.com/albums/Lennon-stella/Love-me",
+    "artist": {
+     "api_path": "/artists/376704",
+     "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+     "id": 376704,
+     "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lennon Stella",
+     "url": "https://genius.com/artists/Lennon-stella",
+     "iq": 357
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      },
+      {
+       "api_path": "/artists/362218",
+       "header_image_url": "https://images.genius.com/a3b62a50ce1e7487090018c93158fbb9.959x959x1.png",
+       "id": 362218,
+       "image_url": "https://images.genius.com/4e0b0c96be2b0356733c692e37a99ee5.959x959x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "RECORDS, LLC",
+       "url": "https://genius.com/artists/Records-llc",
+       "iq": 119
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1035436",
+       "header_image_url": "https://images.genius.com/f353c371eda1787f845f027b20f2017b.956x956x1.jpg",
+       "id": 1035436,
+       "image_url": "https://images.genius.com/f353c371eda1787f845f027b20f2017b.956x956x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Michelle Mancini",
+       "url": "https://genius.com/artists/Michelle-mancini"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1144268",
+       "header_image_url": "https://images.genius.com/9206f87c6cef52f71ac6dfb1c42beddd.533x533x1.jpg",
+       "id": 1144268,
+       "image_url": "https://images.genius.com/e839b3996091fe37e269dad88f0120be.416x416x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Scott Desmarais",
+       "url": "https://genius.com/artists/Scott-desmarais"
+      },
+      {
+       "api_path": "/artists/992202",
+       "header_image_url": "https://images.genius.com/a53320a99f04c7532ed6369c10bd707f.200x200x1.jpg",
+       "id": 992202,
+       "image_url": "https://images.genius.com/a53320a99f04c7532ed6369c10bd707f.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Robin Florent",
+       "url": "https://genius.com/artists/Robin-florent"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641199",
+       "header_image_url": "https://images.genius.com/b90192f078eae01074af47cda1f1f9f9.216x216x1.jpg",
+       "id": 641199,
+       "image_url": "https://images.genius.com/b90192f078eae01074af47cda1f1f9f9.216x216x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Galland",
+       "url": "https://genius.com/artists/Chris-galland"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/635518",
+       "header_image_url": "https://images.genius.com/331332599b3e8995525805a51419bd9a.900x600x1.jpg",
+       "id": 635518,
+       "image_url": "https://images.genius.com/312dc5aab4cf9f3040fc0e2fd05a9034.661x539x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Manny Marroquin",
+       "url": "https://genius.com/artists/Manny-marroquin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8971572,
+    "annotator_login": "aimeecondon",
+    "api_path": "/referents/16784541",
+    "classification": "unreviewed",
+    "fragment": "Bad",
+    "id": 16784541,
+    "is_description": true,
+    "path": "/16784541/Lennon-stella-bad/Bad",
+    "range": {
+     "content": "Bad"
+    },
+    "song_id": 3952743,
+    "url": "https://genius.com/16784541/Lennon-stella-bad/Bad",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3952743",
+     "client_timestamps": {
+      "updated_by_human_at": 1649781477,
+      "lyrics_updated_at": 1649781477
+     },
+     "context": "Lennon Stella",
+     "id": 3952743,
+     "image_url": "https://images.genius.com/144ee66ff814fe945063c15ed0cfab26.1000x1000x1.jpg",
+     "link_title": "Bad by\u00a0Lennon\u00a0Stella",
+     "title": "Bad",
+     "type": "Song",
+     "url": "https://genius.com/Lennon-stella-bad-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16784541",
+      "body": {
+       "plain": "In this song, Lennon talks about how getting over her break up with someone that cheated on her would have been easier if she had \u201cbad signs\u201d in her relationship. When you break up with a person there are usually signs before the relationship ends that it wasn\u2019t working out, especially having had the other person cheating on Stella, but that wasn\u2019t the experience. Lennon recounts that, in reality, she was being treated the way she would want to be treated in a relationship and she didn\u2019t notice anything was wrong until she found out the other person was cheating on her."
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 16784541,
+      "pinned": false,
+      "share_url": "https://genius.com/16784541",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/16784541/Lennon-stella-bad/Bad",
+      "verified": false,
+      "votes_total": 8,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8971572",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/55c05967a531c4434bc001be3c83038d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/55c05967a531c4434bc001be3c83038d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/55c05967a531c4434bc001be3c83038d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/55c05967a531c4434bc001be3c83038d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/55c05967a531c4434bc001be3c83038d",
+         "human_readable_role_for_display": null,
+         "id": 8971572,
+         "iq": 207,
+         "login": "aimeecondon",
+         "name": "aimeecondon",
+         "role_for_display": null,
+         "url": "https://genius.com/aimeecondon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/271096",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/87b485555d6ecb9d5a6c2af59ac97dde.560x603x28.gif",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/7fb2bf040b5378478cc5ff81f762ba3e.1000x613x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 271096,
+    "iq": 480442,
+    "login": "Empath",
+    "name": "Colby Handy",
+    "role_for_display": "staff",
+    "url": "https://genius.com/Empath",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "lennonstella",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lennonstella/bad"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NIlEqI6lH7w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/184255",
+     "header_image_url": "https://images.genius.com/88be02b86392126a7a0a2da99b7b3d39.1000x525x1.jpg",
+     "id": 184255,
+     "image_url": "https://images.genius.com/adf5c4621c04ed71f117bd0715252c97.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bbusbee",
+     "url": "https://genius.com/artists/Busbee"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6139327",
+       "artist_names": "Lennon Stella",
+       "full_title": "Bad (Acoustic) by\u00a0Lennon\u00a0Stella",
+       "header_image_thumbnail_url": "https://images.genius.com/c2c1512b0a1d41817033fdbe9aaf1be2.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/c2c1512b0a1d41817033fdbe9aaf1be2.200x200x1.jpg",
+       "id": 6139327,
+       "language": "en",
+       "lyrics_owner_id": 11341951,
+       "lyrics_state": "complete",
+       "path": "/Lennon-stella-bad-acoustic-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Lennon-stella-bad-acoustic-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 11,
+        "day": 6
+       },
+       "release_date_for_display": "November 6, 2020",
+       "release_date_with_abbreviated_month_for_display": "Nov. 6, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c2c1512b0a1d41817033fdbe9aaf1be2.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c2c1512b0a1d41817033fdbe9aaf1be2.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bad (Acoustic)",
+       "title_with_featured": "Bad (Acoustic)",
+       "url": "https://genius.com/Lennon-stella-bad-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/376704",
+        "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+        "id": 376704,
+        "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lennon Stella",
+        "url": "https://genius.com/artists/Lennon-stella",
+        "iq": 357
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1067209",
+     "header_image_url": "https://images.genius.com/83d61ef4c6db90752170fcae4b15792f.1000x563x1.jpg",
+     "id": 1067209,
+     "image_url": "https://images.genius.com/bd9711e2bcad59bff7ed12703b54942e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kennedi",
+     "url": "https://genius.com/artists/Kennedi",
+     "iq": 114
+    },
+    {
+     "api_path": "/artists/184255",
+     "header_image_url": "https://images.genius.com/88be02b86392126a7a0a2da99b7b3d39.1000x525x1.jpg",
+     "id": 184255,
+     "image_url": "https://images.genius.com/adf5c4621c04ed71f117bd0715252c97.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bbusbee",
+     "url": "https://genius.com/artists/Busbee"
+    },
+    {
+     "api_path": "/artists/376704",
+     "header_image_url": "https://images.genius.com/fd1193d2a7b33f4e0190c3b12009a78c.1000x333x1.jpg",
+     "id": 376704,
+     "image_url": "https://images.genius.com/502ecc2e6ccccd77a1396a6c45781f35.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lennon Stella",
+     "url": "https://genius.com/artists/Lennon-stella",
+     "iq": 357
+    }
+   ],
+   "artist": "Lennon Stella",
+   "lyrics": "19 ContributorsBad Lyrics[Verse 1]\nAll the little gifts you gave\nI call it overcompensating\nFeeling just like a princess\nEvery answer was always yes\nYou had me living in a dream\nWas forever long to you? (To you)\nDid you say that to her too?\nMaking sure that I\u2019d never know\nCallin' her while the shower goes\nThen crawl back in bed, it's a shame\n[Pre-Chorus]\nI probably should\u2019ve known better\nI probably should\u2019ve known better\nEvery word you said\nYeah, you was sweet, but you was lying\nEverything you covered up\nMaking up, just to keep me from crying, oh\n\n[Chorus]\nI wish that you woulda treated me bad\nThe truth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad\nI wish that you woulda treated me bad\nTruth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad\n\n[Verse 2]\nI wasn\u2019t catching on to you (To you)\nBlinded by your lips, so smooth (So smooth)\nExcusing all of your 'gotta go's'\nLeaving me to be all alone\nThen you took my heart just the same\n\n[Pre-Chorus]\nI probably should\u2019ve known better\nI probably should\u2019ve known better\nEvery word you said, yeah, you was sweet, but you was lying\nEverything you covered up, making up, just to keep me from crying, oh\nYou might also like[Chorus]\nI wish that you woulda treated me bad\nThe truth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad\nI wish that you woulda treated me bad\nTruth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad\n\n[Bridge]\nTell me the truth\nWas it worth it? Was I worth it for you?\n'Cause we were perfect, we working 'til you\nForgot to tell me you been seeing someone else for six years, oh\n\n[Chorus]\nI wish that you woulda treated me bad\nThe truth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad\nI wish that you woulda treated me bad\nTruth is, you couldn\u2019t have loved me better\nNow I\u2019m left feeling twice as sad\nI wish you woulda treated me bad, bad, bad5Embed"
+  }
+ ]
+}

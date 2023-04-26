@@ -1,0 +1,3409 @@
+{
+ "alternate_names": [
+  "Mike Will",
+  "Michael L. Williams II",
+  "Michael Len Williams II",
+  "Michael Len Williams",
+  "Michael Williams II",
+  "Michael Williams"
+ ],
+ "api_path": "/artists/29978",
+ "description": {
+  "plain": "Michael Len Williams II (b. March 23, 1989), better known by his stage name Mike WiLL Made-It, was born and raised in Marietta, Georgia. He first got into music hanging around his Uncle Al, a musician himself, who not only fostered Mike\u2019s love for production, but also a sense of pride in accomplishment that comes from perseverance, individuality, and developing one\u2019s own identity."
+ },
+ "facebook_name": "MIKEWILLMADEIT",
+ "followers_count": 1141,
+ "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+ "id": 29978,
+ "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+ "instagram_name": "MikeWiLLMadeIt",
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "Mike WiLL Made-It",
+ "translation_artist": false,
+ "twitter_name": "MikeWiLLMadeIt",
+ "url": "https://genius.com/artists/Mike-will-made-it",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 522,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 14660,
+  "annotator_login": "Magnitude901",
+  "api_path": "/referents/6951407",
+  "classification": "accepted",
+  "fragment": "Mike WiLL Made-It",
+  "id": 6951407,
+  "is_description": true,
+  "path": "/6951407/Mike-will-made-it/Mike-will-made-it",
+  "range": {
+   "content": "Mike WiLL Made-It"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6951407/Mike-will-made-it/Mike-will-made-it",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/29978",
+   "context": null,
+   "id": 29978,
+   "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+   "link_title": "Mike WiLL Made-It",
+   "title": "Mike WiLL Made-It",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mike-will-made-it"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6951407",
+    "body": {
+     "plain": "Michael Len Williams II (b. March 23, 1989), better known by his stage name Mike WiLL Made-It, was born and raised in Marietta, Georgia. He first got into music hanging around his Uncle Al, a musician himself, who not only fostered Mike\u2019s love for production, but also a sense of pride in accomplishment that comes from perseverance, individuality, and developing one\u2019s own identity."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6951407,
+    "pinned": false,
+    "share_url": "https://genius.com/6951407",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6951407/Mike-will-made-it/Mike-will-made-it",
+    "verified": false,
+    "votes_total": 95,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6984126984126984,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/14660",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/81d2c7151070d649b610c8f68c8becac",
+       "human_readable_role_for_display": "Editor",
+       "id": 14660,
+       "iq": 247407,
+       "login": "Magnitude901",
+       "name": "Magnitude901",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Magnitude901",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15873015873015872,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4469304",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c28d76729c8a71adce7ed358e76e1165",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a2de78d05fd8fa811212cc63f9344b5a.700x652x1.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4469304,
+       "iq": 744087,
+       "login": "blustery",
+       "name": "blustery",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/blustery",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.12698412698412698,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/421209",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8e48f1aca9fdb9abbb00dbc30c66259a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8e48f1aca9fdb9abbb00dbc30c66259a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8e48f1aca9fdb9abbb00dbc30c66259a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8e48f1aca9fdb9abbb00dbc30c66259a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3w5yhMIZT1SbNhVRge2n_55904_1_miscellaneous_digital_art_vaporwave.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 421209,
+       "iq": 6703,
+       "login": "heywassupbih",
+       "name": "heywassupbih",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/heywassupbih",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.015873015873015872,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1931244",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/3655b7947c455ad9378be8cd9dc63f62",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/f45814fd26ee32464af77c72e7e0e3d0.1000x750x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1931244,
+       "iq": 337717,
+       "login": "eatthemooncake",
+       "name": "\u200beatthemooncake",
+       "role_for_display": "editor",
+       "url": "https://genius.com/eatthemooncake",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/2947042",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/c66ff21bf864706d2cba8128edb76b8c",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/c66ff21bf864706d2cba8128edb76b8c",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/c66ff21bf864706d2cba8128edb76b8c",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/c66ff21bf864706d2cba8128edb76b8c",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 2947042,
+  "iq": 522,
+  "login": "mikewillmadeit",
+  "name": "Mike WiLL Made-It",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/mikewillmadeit",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 28,
+   "api_path": "/songs/209461",
+   "artist_names": "Mike WiLL Made-It (Ft. Juicy J, Miley Cyrus & Wiz Khalifa)",
+   "full_title": "23 by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Juicy\u00a0J, Miley\u00a0Cyrus & Wiz\u00a0Khalifa)",
+   "header_image_thumbnail_url": "https://images.genius.com/90d5cd43aace403b53091cdd113918f6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/90d5cd43aace403b53091cdd113918f6.1000x1000x1.jpg",
+   "id": 209461,
+   "language": "en",
+   "lyrics_owner_id": 918020,
+   "lyrics_state": "complete",
+   "path": "/Mike-will-made-it-23-lyrics",
+   "pyongs_count": 247,
+   "relationships_index_url": "https://genius.com/Mike-will-made-it-23-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 9,
+    "day": 10
+   },
+   "release_date_for_display": "September 10, 2013",
+   "release_date_with_abbreviated_month_for_display": "Sep. 10, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/18bca8330fdaaf3ab606daabb250d167.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/18bca8330fdaaf3ab606daabb250d167.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 24,
+    "contributors": 183,
+    "iq_earners": 183,
+    "transcribers": 8,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 3,
+    "hot": false,
+    "pageviews": 2236891
+   },
+   "title": "23",
+   "title_with_featured": "23 (Ft.\u00a0Juicy\u00a0J, Miley\u00a0Cyrus & Wiz\u00a0Khalifa)",
+   "url": "https://genius.com/Mike-will-made-it-23-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1073",
+     "header_image_url": "https://images.genius.com/adfbc864a2841c44a156c187af7f10a8.1000x661x1.jpg",
+     "id": 1073,
+     "image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Juicy J",
+     "url": "https://genius.com/artists/Juicy-j",
+     "iq": 527
+    },
+    {
+     "api_path": "/artists/805",
+     "header_image_url": "https://images.genius.com/1b9de94f7698325bf5cb615446d2c60b.1000x500x1.jpg",
+     "id": 805,
+     "image_url": "https://images.genius.com/9082e527369435d9a9f4b8f18092c795.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Miley Cyrus",
+     "url": "https://genius.com/artists/Miley-cyrus"
+    },
+    {
+     "api_path": "/artists/310",
+     "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+     "id": 310,
+     "image_url": "https://images.genius.com/2ba15f623d81eda09cdc07f50dde02ad.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Wiz Khalifa",
+     "url": "https://genius.com/artists/Wiz-khalifa",
+     "iq": 10280
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/29978",
+    "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+    "id": 29978,
+    "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mike WiLL Made-It",
+    "url": "https://genius.com/artists/Mike-will-made-it",
+    "iq": 522
+   },
+   "apple_music_id": "701153049",
+   "apple_music_player_url": "https://genius.com/songs/209461/apple_music_player",
+   "description": {
+    "plain": "23 of course refers to Michael Jordan\u2019s  jersey number \u2013 and this song is all about his signature shoe brand, Jordans\u2026\n\n\n\nhttps://twitter.com/MikeWiLLMadeIt/statuses/377229967861772288\n\n\n\n\n\n\n\nMike WiLL finally dropped off his highly anticipated lead single from his Interscope debut."
+   },
+   "embed_content": "<div id='rg_embed_link_209461' class='rg_embed_link' data-song-id='209461'>Read <a href='https://genius.com/Mike-will-made-it-23-lyrics'>\u201c23\u201d by Mike\u00a0WiLL Made-It</a> on Genius</div> <script crossorigin src='//genius.com/songs/209461/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-09-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/29978",
+       "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+       "id": 29978,
+       "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Mike WiLL Made-It",
+       "url": "https://genius.com/artists/Mike-will-made-it",
+       "iq": 522
+      },
+      {
+       "api_path": "/artists/1073",
+       "header_image_url": "https://images.genius.com/adfbc864a2841c44a156c187af7f10a8.1000x661x1.jpg",
+       "id": 1073,
+       "image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Juicy J",
+       "url": "https://genius.com/artists/Juicy-j",
+       "iq": 527
+      },
+      {
+       "api_path": "/artists/805",
+       "header_image_url": "https://images.genius.com/1b9de94f7698325bf5cb615446d2c60b.1000x500x1.jpg",
+       "id": 805,
+       "image_url": "https://images.genius.com/9082e527369435d9a9f4b8f18092c795.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Miley Cyrus",
+       "url": "https://genius.com/artists/Miley-cyrus"
+      },
+      {
+       "api_path": "/artists/310",
+       "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+       "id": 310,
+       "image_url": "https://images.genius.com/2ba15f623d81eda09cdc07f50dde02ad.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Wiz Khalifa",
+       "url": "https://genius.com/artists/Wiz-khalifa",
+       "iq": 10280
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2235632",
+       "header_image_url": "https://images.genius.com/bd213f39b73712fd23047585df39d4ae.279x180x1.png",
+       "id": 2235632,
+       "image_url": "https://images.genius.com/11dde5835edc7920bc5fc9554302bf06.225x225x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Canadiana Music",
+       "url": "https://genius.com/artists/Canadiana-music"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+       "id": 1100826,
+       "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/2234155",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234155,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TNT Explosive",
+       "url": "https://genius.com/artists/Tnt-explosive"
+      },
+      {
+       "api_path": "/artists/986730",
+       "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+       "id": 986730,
+       "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ear Drummers",
+       "url": "https://genius.com/artists/Ear-drummers"
+      },
+      {
+       "api_path": "/artists/1011919",
+       "header_image_url": "https://images.genius.com/054a299c5a9e0961dfa43145a8665744.1000x465x1.png",
+       "id": 1011919,
+       "image_url": "https://images.genius.com/d7674e632d4ffeb66c78b9a2ec56f32e.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG",
+       "url": "https://genius.com/artists/Bmg"
+      },
+      {
+       "api_path": "/artists/2234141",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234141,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Wiz Khalifa Publishing",
+       "url": "https://genius.com/artists/Wiz-khalifa-publishing"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/2271588",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2271588,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Suga Bear Recordz",
+       "url": "https://genius.com/artists/Suga-bear-recordz"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1476015",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1476015,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DeeEtta Music",
+       "url": "https://genius.com/artists/Deeetta-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 149650,
+    "annotator_login": "boolin",
+    "api_path": "/referents/3851508",
+    "classification": "accepted",
+    "fragment": "23",
+    "id": 3851508,
+    "is_description": true,
+    "path": "/3851508/Mike-will-made-it-23/23",
+    "range": {
+     "content": "23"
+    },
+    "song_id": 209461,
+    "url": "https://genius.com/3851508/Mike-will-made-it-23/23",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/209461",
+     "client_timestamps": {
+      "updated_by_human_at": 1675671516,
+      "lyrics_updated_at": 1673942772
+     },
+     "context": "Mike WiLL Made-It",
+     "id": 209461,
+     "image_url": "https://images.genius.com/18bca8330fdaaf3ab606daabb250d167.1000x1000x1.png",
+     "link_title": "23 by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Juicy\u00a0J, Miley\u00a0Cyrus & Wiz\u00a0Khalifa)",
+     "title": "23",
+     "type": "Song",
+     "url": "https://genius.com/Mike-will-made-it-23-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3851508",
+      "body": {
+       "plain": "23 of course refers to Michael Jordan\u2019s  jersey number \u2013 and this song is all about his signature shoe brand, Jordans\u2026\n\n\n\nhttps://twitter.com/MikeWiLLMadeIt/statuses/377229967861772288\n\n\n\n\n\n\n\nMike WiLL finally dropped off his highly anticipated lead single from his Interscope debut."
+      },
+      "comment_count": 4,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3851508,
+      "pinned": false,
+      "share_url": "https://genius.com/3851508",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3851508/Mike-will-made-it-23/23",
+      "verified": false,
+      "votes_total": 64,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.33088235294117646,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/213541",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/86906749f06700b1111216449ceafc73",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/86906749f06700b1111216449ceafc73",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/86906749f06700b1111216449ceafc73",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/86906749f06700b1111216449ceafc73",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/86906749f06700b1111216449ceafc73",
+         "human_readable_role_for_display": "Contributor",
+         "id": 213541,
+         "iq": 39954,
+         "login": "Mikey2Time",
+         "name": "Mikey2Time",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Mikey2Time",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.30147058823529416,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/149650",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/ad190fca65cca7eed60e581a81706753",
+         "human_readable_role_for_display": "Contributor",
+         "id": 149650,
+         "iq": 125545,
+         "login": "boolin",
+         "name": "\u00adboolin",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/boolin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.22058823529411764,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3956132",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3956132,
+         "iq": 39251,
+         "login": "aroze",
+         "name": "aroze",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/aroze",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.10294117647058824,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/156425",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/579e9786b7064ced5b269a815d7145f0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/579e9786b7064ced5b269a815d7145f0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/579e9786b7064ced5b269a815d7145f0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/579e9786b7064ced5b269a815d7145f0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/579e9786b7064ced5b269a815d7145f0",
+         "human_readable_role_for_display": "Contributor",
+         "id": 156425,
+         "iq": 37930,
+         "login": "Hartvig",
+         "name": "Hartvig",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Hartvig",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.029411764705882356,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/160064",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/Z4AfC5bLS1KWPYYnmrZu.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/Z4AfC5bLS1KWPYYnmrZu.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/Z4AfC5bLS1KWPYYnmrZu.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Z4AfC5bLS1KWPYYnmrZu.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Z4AfC5bLS1KWPYYnmrZu.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 160064,
+         "iq": 1553,
+         "login": "SwagChamps",
+         "name": "SwagChamps",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SwagChamps",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.014705882352941178,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/134293",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/so9i1ltPSFer1n2HlWAw.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/so9i1ltPSFer1n2HlWAw.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/so9i1ltPSFer1n2HlWAw.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/so9i1ltPSFer1n2HlWAw.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/so9i1ltPSFer1n2HlWAw.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 134293,
+         "iq": 3588,
+         "login": "CaliforniaBoy",
+         "name": "CaliforniaBoy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/CaliforniaBoy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 51,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bbEoRnaOIbs"
+    },
+    {
+     "native_uri": "spotify:track:1XHjU0TGIgl5lMFKAF25Y3",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1XHjU0TGIgl5lMFKAF25Y3"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/43733",
+     "header_image_url": "https://images.genius.com/2d36dd42cb4872649f750fd2403db38c.537x537x1.jpg",
+     "id": 43733,
+     "image_url": "https://images.genius.com/2d36dd42cb4872649f750fd2403db38c.537x537x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "P-Nasty",
+     "url": "https://genius.com/artists/P-nasty"
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7405634",
+       "artist_names": "Nikito Labrae",
+       "full_title": "Suicide Club by\u00a0Nikito\u00a0Labrae",
+       "header_image_thumbnail_url": "https://images.genius.com/ce61f20d08669e58218d0ccaeedc27f0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ce61f20d08669e58218d0ccaeedc27f0.1000x1000x1.jpg",
+       "id": 7405634,
+       "language": "pt",
+       "lyrics_owner_id": 6434174,
+       "lyrics_state": "complete",
+       "path": "/Nikito-labrae-suicide-club-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Nikito-labrae-suicide-club-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 8
+       },
+       "release_date_for_display": "October 8, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 8, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ce61f20d08669e58218d0ccaeedc27f0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ce61f20d08669e58218d0ccaeedc27f0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Suicide Club",
+       "title_with_featured": "Suicide Club",
+       "url": "https://genius.com/Nikito-labrae-suicide-club-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1483683",
+        "header_image_url": "https://images.genius.com/fee4056b4163fec879b5310ff6f3ae81.1000x165x1.png",
+        "id": 1483683,
+        "image_url": "https://images.genius.com/d8005828157182c44b43f71d4d93da7c.345x345x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Nikito Labrae",
+        "url": "https://genius.com/artists/Nikito-labrae",
+        "iq": 1700
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/3958323",
+       "artist_names": "Bhad Bhabie (Ft. YG)",
+       "full_title": "Juice by\u00a0Bhad\u00a0Bhabie (Ft.\u00a0YG)",
+       "header_image_thumbnail_url": "https://images.genius.com/d54e38bac61d731e434093b5e425b663.300x300x1.png",
+       "header_image_url": "https://images.genius.com/d54e38bac61d731e434093b5e425b663.1000x1000x1.png",
+       "id": 3958323,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Bhad-bhabie-juice-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Bhad-bhabie-juice-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 18
+       },
+       "release_date_for_display": "September 18, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 18, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d54e38bac61d731e434093b5e425b663.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d54e38bac61d731e434093b5e425b663.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 29537
+       },
+       "title": "Juice",
+       "title_with_featured": "Juice (Ft.\u00a0YG)",
+       "url": "https://genius.com/Bhad-bhabie-juice-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1450",
+         "header_image_url": "https://images.genius.com/9a88f3e337dd4995d8fa964256505b46.1000x1000x1.jpg",
+         "id": 1450,
+         "image_url": "https://images.genius.com/3d62966592db27f223d4e6050790656d.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "YG",
+         "url": "https://genius.com/artists/Yg",
+         "iq": 12892
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1069179",
+        "header_image_url": "https://images.genius.com/0e2cd50faaa34c5c4161521240055e1a.300x200x1.png",
+        "id": 1069179,
+        "image_url": "https://images.genius.com/e42bf5fc83164eb92a5112db3fa6408a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Bhad Bhabie",
+        "url": "https://genius.com/artists/Bhad-bhabie",
+        "iq": 2651
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/3009777",
+       "artist_names": "Versus Battle (Ft. FEDUK & YUNG TRAPPA)",
+       "full_title": "28/09/14: Yung Trappa vs. Feduk by\u00a0Versus\u00a0Battle (Ft.\u00a0FEDUK & YUNG\u00a0TRAPPA)",
+       "header_image_thumbnail_url": "https://images.genius.com/e7448a253901f221569d633217d75f7c.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/e7448a253901f221569d633217d75f7c.480x360x1.jpg",
+       "id": 3009777,
+       "language": "ru",
+       "lyrics_owner_id": 4323028,
+       "lyrics_state": "complete",
+       "path": "/Versus-battle-28-09-14-yung-trappa-vs-feduk-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Versus-battle-28-09-14-yung-trappa-vs-feduk-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2014",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e7448a253901f221569d633217d75f7c.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e7448a253901f221569d633217d75f7c.480x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 58229
+       },
+       "title": "28/09/14: Yung Trappa vs. Feduk",
+       "title_with_featured": "28/09/14: Yung Trappa vs. Feduk (Ft.\u00a0FEDUK & YUNG\u00a0TRAPPA)",
+       "url": "https://genius.com/Versus-battle-28-09-14-yung-trappa-vs-feduk-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/663175",
+         "header_image_url": "https://images.genius.com/1ab170801faf4eca75ed4fcab6c4be1b.900x601x1.jpg",
+         "id": 663175,
+         "image_url": "https://images.genius.com/1f4d99068ee3cc152993dc2e6a4cb5f4.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "YUNG TRAPPA",
+         "url": "https://genius.com/artists/Yung-trappa",
+         "iq": 100
+        },
+        {
+         "api_path": "/artists/1091788",
+         "header_image_url": "https://images.genius.com/abbd0452da455ab8ebae122575c7fff4.1000x567x1.jpg",
+         "id": 1091788,
+         "image_url": "https://images.genius.com/0284d5a7b34fcb5189e5016e056244de.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "FEDUK",
+         "url": "https://genius.com/artists/Feduk",
+         "iq": 100
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/349224",
+        "header_image_url": "https://images.genius.com/97857e2fa114240ad2b2c09e203faf89.731x184x1.png",
+        "id": 349224,
+        "image_url": "https://images.genius.com/2d59de2c460a91e06868552831f000fd.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Versus Battle",
+        "url": "https://genius.com/artists/Versus-battle"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 17,
+       "api_path": "/songs/3386853",
+       "artist_names": "HUNCHO JACK",
+       "full_title": "Where U From by\u00a0HUNCHO\u00a0JACK",
+       "header_image_thumbnail_url": "https://images.genius.com/a395474211778742e0d50895637e0fdc.300x300x1.png",
+       "header_image_url": "https://images.genius.com/a395474211778742e0d50895637e0fdc.1000x1000x1.png",
+       "id": 3386853,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Huncho-jack-where-u-from-lyrics",
+       "pyongs_count": 15,
+       "relationships_index_url": "https://genius.com/Huncho-jack-where-u-from-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 12,
+        "day": 22
+       },
+       "release_date_for_display": "December 22, 2017",
+       "release_date_with_abbreviated_month_for_display": "Dec. 22, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a395474211778742e0d50895637e0fdc.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/a395474211778742e0d50895637e0fdc.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 220658
+       },
+       "title": "Where U From",
+       "title_with_featured": "Where U From",
+       "url": "https://genius.com/Huncho-jack-where-u-from-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1043518",
+        "header_image_url": "https://images.genius.com/84c64cae0bec427e4e53e0b9e4945f09.650x300x1.jpg",
+        "id": 1043518,
+        "image_url": "https://images.genius.com/7d8a5e0bf353d9ea951abbd74fb47ecd.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "HUNCHO JACK",
+        "url": "https://genius.com/artists/Huncho-jack"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/607964",
+       "artist_names": "King Codi",
+       "full_title": "I Shoulda Killed It by\u00a0King\u00a0Codi",
+       "header_image_thumbnail_url": "https://images.genius.com/81862c1bb68f80db8e55b7a06e4f6c2b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/81862c1bb68f80db8e55b7a06e4f6c2b.500x500x1.jpg",
+       "id": 607964,
+       "language": "en",
+       "lyrics_owner_id": 168469,
+       "lyrics_state": "complete",
+       "path": "/King-codi-i-shoulda-killed-it-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/King-codi-i-shoulda-killed-it-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 6
+       },
+       "release_date_for_display": "December 6, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 6, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/81862c1bb68f80db8e55b7a06e4f6c2b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/81862c1bb68f80db8e55b7a06e4f6c2b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I Shoulda Killed It",
+       "title_with_featured": "I Shoulda Killed It",
+       "url": "https://genius.com/King-codi-i-shoulda-killed-it-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32195",
+        "header_image_url": "https://images.rapgenius.com/avatars/medium/ab42f99079e5f8d35b5b833dc46ce072",
+        "id": 32195,
+        "image_url": "https://images.rapgenius.com/avatars/medium/ab42f99079e5f8d35b5b833dc46ce072",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "King Codi",
+        "url": "https://genius.com/artists/King-codi",
+        "iq": 3357
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/7839724",
+       "artist_names": "Miley Cyrus",
+       "full_title": "23 (Live) by\u00a0Miley\u00a0Cyrus",
+       "header_image_thumbnail_url": "https://images.genius.com/17597d6d4029f2a036a4e1139cc7ccd3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/17597d6d4029f2a036a4e1139cc7ccd3.1000x1000x1.png",
+       "id": 7839724,
+       "language": "en",
+       "lyrics_owner_id": 3524332,
+       "lyrics_state": "complete",
+       "path": "/Miley-cyrus-23-live-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Miley-cyrus-23-live-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/17597d6d4029f2a036a4e1139cc7ccd3.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/17597d6d4029f2a036a4e1139cc7ccd3.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "23 (Live)",
+       "title_with_featured": "23 (Live)",
+       "url": "https://genius.com/Miley-cyrus-23-live-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/805",
+        "header_image_url": "https://images.genius.com/1b9de94f7698325bf5cb615446d2c60b.1000x500x1.jpg",
+        "id": 805,
+        "image_url": "https://images.genius.com/9082e527369435d9a9f4b8f18092c795.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Miley Cyrus",
+        "url": "https://genius.com/artists/Miley-cyrus"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/2467816",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.rapgenius.com/avatars/tiny/b82275e2086d448e38d7ce8c31933750",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.rapgenius.com/avatars/thumb/b82275e2086d448e38d7ce8c31933750",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.rapgenius.com/avatars/small/b82275e2086d448e38d7ce8c31933750",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 2467816,
+     "iq": 4840,
+     "login": "TheronThomas",
+     "name": "Theron Thomas",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TheronThomas",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    {
+     "api_path": "/users/2467821",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.rapgenius.com/avatars/tiny/69cbf388c45f270dd59e3000485b83e3",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.rapgenius.com/avatars/thumb/69cbf388c45f270dd59e3000485b83e3",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.rapgenius.com/avatars/small/69cbf388c45f270dd59e3000485b83e3",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 2467821,
+     "iq": 1430,
+     "login": "TimothyThomas",
+     "name": "Timothy Thomas",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TimothyThomas",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/500824",
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+      "id": 500824,
+      "image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Theron Thomas",
+      "url": "https://genius.com/artists/Theron-thomas",
+      "iq": 4840
+     },
+     "user": {
+      "api_path": "/users/2467816",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.rapgenius.com/avatars/tiny/b82275e2086d448e38d7ce8c31933750",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.rapgenius.com/avatars/thumb/b82275e2086d448e38d7ce8c31933750",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.rapgenius.com/avatars/small/b82275e2086d448e38d7ce8c31933750",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 2467816,
+      "iq": 4840,
+      "login": "TheronThomas",
+      "name": "Theron Thomas",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TheronThomas",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    },
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/500825",
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+      "id": 500825,
+      "image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Timothy Thomas",
+      "url": "https://genius.com/artists/Timothy-thomas",
+      "iq": 1430
+     },
+     "user": {
+      "api_path": "/users/2467821",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.rapgenius.com/avatars/tiny/69cbf388c45f270dd59e3000485b83e3",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.rapgenius.com/avatars/thumb/69cbf388c45f270dd59e3000485b83e3",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.rapgenius.com/avatars/small/69cbf388c45f270dd59e3000485b83e3",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 2467821,
+      "iq": 1430,
+      "login": "TimothyThomas",
+      "name": "Timothy Thomas",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TimothyThomas",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/500825",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+     "id": 500825,
+     "image_url": "https://images.rapgenius.com/avatars/medium/69cbf388c45f270dd59e3000485b83e3",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Timothy Thomas",
+     "url": "https://genius.com/artists/Timothy-thomas",
+     "iq": 1430
+    },
+    {
+     "api_path": "/artists/500824",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+     "id": 500824,
+     "image_url": "https://images.rapgenius.com/avatars/medium/b82275e2086d448e38d7ce8c31933750",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Theron Thomas",
+     "url": "https://genius.com/artists/Theron-thomas",
+     "iq": 4840
+    },
+    {
+     "api_path": "/artists/805",
+     "header_image_url": "https://images.genius.com/1b9de94f7698325bf5cb615446d2c60b.1000x500x1.jpg",
+     "id": 805,
+     "image_url": "https://images.genius.com/9082e527369435d9a9f4b8f18092c795.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Miley Cyrus",
+     "url": "https://genius.com/artists/Miley-cyrus"
+    },
+    {
+     "api_path": "/artists/43733",
+     "header_image_url": "https://images.genius.com/2d36dd42cb4872649f750fd2403db38c.537x537x1.jpg",
+     "id": 43733,
+     "image_url": "https://images.genius.com/2d36dd42cb4872649f750fd2403db38c.537x537x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "P-Nasty",
+     "url": "https://genius.com/artists/P-nasty"
+    },
+    {
+     "api_path": "/artists/310",
+     "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+     "id": 310,
+     "image_url": "https://images.genius.com/2ba15f623d81eda09cdc07f50dde02ad.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Wiz Khalifa",
+     "url": "https://genius.com/artists/Wiz-khalifa",
+     "iq": 10280
+    },
+    {
+     "api_path": "/artists/1073",
+     "header_image_url": "https://images.genius.com/adfbc864a2841c44a156c187af7f10a8.1000x661x1.jpg",
+     "id": 1073,
+     "image_url": "https://images.genius.com/d42f50ada8df12cb647ff9de20e2a2ea.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Juicy J",
+     "url": "https://genius.com/artists/Juicy-j",
+     "iq": 527
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    },
+    {
+     "api_path": "/artists/544871",
+     "header_image_url": "https://images.genius.com/a6bc1e88ba427f0a2bcdaeba2f5d7edf.926x926x1.jpg",
+     "id": 544871,
+     "image_url": "https://images.genius.com/a6bc1e88ba427f0a2bcdaeba2f5d7edf.926x926x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "R. City",
+     "url": "https://genius.com/artists/R-city"
+    }
+   ],
+   "artist": "Mike WiLL Made-It",
+   "lyrics": "183 Contributors23 Lyrics[Intro: Mike Will, Wiz Khalifa]\nHeh, I'm so fresh man (Eardrummers)\nMan, y'all scared to do it how I do it (Hahahahahaha)\n\n[Chorus: Miley Cyrus and Juicy J]\nI'm in the club high on purp with some shades on\nTatted up, mini skirt with my J's on\nIn the club high on purp with some shades on\nTatted up, mini skirt with my J's on\n\n[Post-Chorus: Juicy J]\nJ's on my feet (We trippin'!)\nJ's on my feet\nJ's on my feet\nSo get like me\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\n[Verse 1: Miley Cyrus]\nI be in the club (The club) standing on the couch (The couch)\nIn them Wolf Grey's (What?) like it's my house (I'm home!)\nDrinking out the bottle, I got no respect (Ayy!)\nLooking like a model, who just got a check (Cha-ching!)\nI back it up, cause I don't give a fuck (I don't)\nIf you're a lame, that's a shame you can't hang with us (Uh-uh)\nI'm MC Hammer fly (Fresh!), you can't touch (Nope!)\nJ's so fly I should work at Flight Club\n\n[Pre-Chorus: Miley Cyrus]\nPut on my J's and dance the whole night away\nI'm naughty by nature like I'm Hip-Hop Hooray\nWith my hands in the sky, I wave \u2018em from side to side\nMy feet on the floor, I'm 'bout to turn up now\n\n[Chorus: Miley Cyrus]\nI'm in the club high on purp with some shades on\nTatted up, mini skirt with my J's on\nIn the club high on purp with some shades on\nTatted up, mini skirt with my J's on\n\n[Post-Chorus: Juicy J]\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\nYou might also like[Verse 2: Wiz Khalifa]\nI be rockin' J's or\nI be rockin' Taylors\nI got lots of flavors, my kick game is major\nMore kicks than the players, call me up I'm scorin'\nHit it like a free throw, tongue out like I'm Jordan\nSmiley, Miley, come swing the thing right by me\nGot a joint if you wanna get stoned, got choppers if they wanna try me\nPro athlete I'm not no wannabe\nWaitress asked how many bottles? I said 23\n\n[Pre-Chorus: Miley Cyrus]\nPut on my J's and dance the whole night away\nI'm naughty by nature like I'm Hip-Hop Hooray\nWith my hands in the sky, I wave \u2018em from side to side\nMy feet on the floor, I'm 'bout to turn up now\n\n[Chorus: Miley Cyrus]\nI'm in the club high on purp with some shades on\nTatted up, mini skirt with my J's on\n\n[Post-Chorus: Juicy J]\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\n[Verse 3: Juicy J]\nI stay showin' out, my kick game is a beast\nI got thirty pairs of J's that ain't never been released\nFlu game 12's, Space Jam 11's\nOn the hype beast sick, they gon' need a paramedic\nTurn up, turn up, turn up, I get trippy, I stay live\nAll this purple in my cup, match them grape 5's\nI'm so high, I got three bitches that go bi\nI'm so fly, I'm gettin' head like a blow dryer\n\n[Pre-Chorus: Miley Cyrus]\nPut on my J's and dance the whole night away\nI'm naughty by nature like I'm Hip-Hop Hooray\nWith my hands in the sky, I wave \u2018em from side to side\nMy feet on the floor, I'm 'bout to turn up now\n\n[Chorus: Miley Cyrus]\nI'm in the club high on purp with some shades on\nTatted up, mini skirt with my J's on\n\n[Post-Chorus: Juicy J]\nJ's on my feet\nJ's on my feet\nJ's on my feet\nSo get like me\nJ's on my feet\nJ's on my feet (We trippin'!)\nJ's on my feet (We trippin'!)\nSo get like me (Mhm)247Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/695342",
+   "artist_names": "Mike WiLL Made-It (Ft. Future, Swae Lee & The Weeknd)",
+   "full_title": "Drinks On Us (Remix) by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Future, Swae\u00a0Lee & The\u00a0Weeknd)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/c85d6463218267761678ed3df392bbad.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/c85d6463218267761678ed3df392bbad.1000x1000x1.jpg",
+   "id": 695342,
+   "language": "en",
+   "lyrics_owner_id": 164938,
+   "lyrics_state": "complete",
+   "path": "/Mike-will-made-it-drinks-on-us-remix-lyrics",
+   "pyongs_count": 203,
+   "relationships_index_url": "https://genius.com/Mike-will-made-it-drinks-on-us-remix-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 1,
+    "day": 31
+   },
+   "release_date_for_display": "January 31, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jan. 31, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/c85d6463218267761678ed3df392bbad.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/c85d6463218267761678ed3df392bbad.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 8,
+    "contributors": 65,
+    "iq_earners": 63,
+    "transcribers": 9,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 373877
+   },
+   "title": "Drinks On Us (Remix)",
+   "title_with_featured": "Drinks On Us (Remix) (Ft.\u00a0Future, Swae\u00a0Lee & The\u00a0Weeknd)",
+   "url": "https://genius.com/Mike-will-made-it-drinks-on-us-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/2197",
+     "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+     "id": 2197,
+     "image_url": "https://images.genius.com/a3496b5fc4c6f7796e08548ab28aef18.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Future",
+     "url": "https://genius.com/artists/Future",
+     "iq": 4648
+    },
+    {
+     "api_path": "/artists/209139",
+     "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+     "id": 209139,
+     "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Swae Lee",
+     "url": "https://genius.com/artists/Swae-lee",
+     "iq": 958
+    },
+    {
+     "api_path": "/artists/2358",
+     "header_image_url": "https://images.genius.com/25e5b8d1c8beb0a3cd62e550e14f83ca.1000x166x1.jpg",
+     "id": 2358,
+     "image_url": "https://images.genius.com/1bab7f9dbd1216febc16d73ae4da9bd0.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Weeknd",
+     "url": "https://genius.com/artists/The-weeknd",
+     "iq": 15429
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/29978",
+    "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+    "id": 29978,
+    "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mike WiLL Made-It",
+    "url": "https://genius.com/artists/Mike-will-made-it",
+    "iq": 522
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/695342/apple_music_player",
+   "description": {
+    "plain": "The Weeknd joins Swae Lee and Future on the remix to Mike WiLL Made-It\u2019s December 2014 club anthem \u201cDrinks On Us,\u201d an ode to alcohol and their pursuit of women. The Weeknd\u2019s featured verse describes his rockstar lifestyle: full of sexual intercourse, money, and illicit substances."
+   },
+   "embed_content": "<div id='rg_embed_link_695342' class='rg_embed_link' data-song-id='695342'>Read <a href='https://genius.com/Mike-will-made-it-drinks-on-us-remix-lyrics'>\u201cDrinks On Us (Remix)\u201d by Mike\u00a0WiLL Made-It</a> on Genius</div> <script crossorigin src='//genius.com/songs/695342/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-01-31",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8117646,
+    "annotator_login": "TrappaChiNo",
+    "api_path": "/referents/4819804",
+    "classification": "accepted",
+    "fragment": "Drinks On Us (Remix)",
+    "id": 4819804,
+    "is_description": true,
+    "path": "/4819804/Mike-will-made-it-drinks-on-us-remix/Drinks-on-us-remix",
+    "range": {
+     "content": "Drinks On Us (Remix)"
+    },
+    "song_id": 695342,
+    "url": "https://genius.com/4819804/Mike-will-made-it-drinks-on-us-remix/Drinks-on-us-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/695342",
+     "client_timestamps": {
+      "updated_by_human_at": 1672353798,
+      "lyrics_updated_at": 1667960177
+     },
+     "context": "Mike WiLL Made-It",
+     "id": 695342,
+     "image_url": "https://images.rapgenius.com/c85d6463218267761678ed3df392bbad.1000x1000x1.jpg",
+     "link_title": "Drinks On Us (Remix) by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Future, Swae\u00a0Lee & The\u00a0Weeknd)",
+     "title": "Drinks On Us (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Mike-will-made-it-drinks-on-us-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4819804",
+      "body": {
+       "plain": "The Weeknd joins Swae Lee and Future on the remix to Mike WiLL Made-It\u2019s December 2014 club anthem \u201cDrinks On Us,\u201d an ode to alcohol and their pursuit of women. The Weeknd\u2019s featured verse describes his rockstar lifestyle: full of sexual intercourse, money, and illicit substances."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4819804,
+      "pinned": false,
+      "share_url": "https://genius.com/4819804",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4819804/Mike-will-made-it-drinks-on-us-remix/Drinks-on-us-remix",
+      "verified": false,
+      "votes_total": 15,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8117646",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8117646,
+         "iq": 485253,
+         "login": "TrappaChiNo",
+         "name": "TrappaChiNo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TrappaChiNo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Rq-UM5vL6tg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/253684",
+     "header_image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "id": 253684,
+     "image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Fu",
+     "url": "https://genius.com/artists/Dj-fu"
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7911879",
+       "artist_names": "Mike WiLL Made-It (Ft. Future, Swae Lee & The Weeknd)",
+       "full_title": "Drinks On Us (Remix) (Demo) by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Future, Swae\u00a0Lee & The\u00a0Weeknd)",
+       "header_image_thumbnail_url": "https://images.genius.com/03bb50723a933a0eef7f2321141b4ea4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/03bb50723a933a0eef7f2321141b4ea4.1000x1000x1.jpg",
+       "id": 7911879,
+       "language": "en",
+       "lyrics_owner_id": 10877916,
+       "lyrics_state": "complete",
+       "path": "/Mike-will-made-it-drinks-on-us-remix-demo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mike-will-made-it-drinks-on-us-remix-demo-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 1,
+        "day": 31
+       },
+       "release_date_for_display": "January 31, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jan. 31, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/03bb50723a933a0eef7f2321141b4ea4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/03bb50723a933a0eef7f2321141b4ea4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Drinks On Us (Remix) (Demo)",
+       "title_with_featured": "Drinks On Us (Remix) (Demo) (Ft.\u00a0Future, Swae\u00a0Lee & The\u00a0Weeknd)",
+       "url": "https://genius.com/Mike-will-made-it-drinks-on-us-remix-demo-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2358",
+         "header_image_url": "https://images.genius.com/25e5b8d1c8beb0a3cd62e550e14f83ca.1000x166x1.jpg",
+         "id": 2358,
+         "image_url": "https://images.genius.com/1bab7f9dbd1216febc16d73ae4da9bd0.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "The Weeknd",
+         "url": "https://genius.com/artists/The-weeknd",
+         "iq": 15429
+        },
+        {
+         "api_path": "/artists/209139",
+         "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+         "id": 209139,
+         "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Swae Lee",
+         "url": "https://genius.com/artists/Swae-lee",
+         "iq": 958
+        },
+        {
+         "api_path": "/artists/2197",
+         "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+         "id": 2197,
+         "image_url": "https://images.genius.com/a3496b5fc4c6f7796e08548ab28aef18.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Future",
+         "url": "https://genius.com/artists/Future",
+         "iq": 4648
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/29978",
+        "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+        "id": 29978,
+        "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Mike WiLL Made-It",
+        "url": "https://genius.com/artists/Mike-will-made-it",
+        "iq": 522
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/636663",
+       "artist_names": "Mike WiLL Made-It (Ft. Future & Swae Lee)",
+       "full_title": "Drinks On Us by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Future & Swae\u00a0Lee)",
+       "header_image_thumbnail_url": "https://images.genius.com/08f1eace3d43cfac8d6f219fc79a70a5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/08f1eace3d43cfac8d6f219fc79a70a5.500x500x1.jpg",
+       "id": 636663,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Mike-will-made-it-drinks-on-us-lyrics",
+       "pyongs_count": 43,
+       "relationships_index_url": "https://genius.com/Mike-will-made-it-drinks-on-us-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 15
+       },
+       "release_date_for_display": "December 15, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 15, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/08f1eace3d43cfac8d6f219fc79a70a5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/08f1eace3d43cfac8d6f219fc79a70a5.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 210665
+       },
+       "title": "Drinks On Us",
+       "title_with_featured": "Drinks On Us (Ft.\u00a0Future & Swae\u00a0Lee)",
+       "url": "https://genius.com/Mike-will-made-it-drinks-on-us-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/209139",
+         "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+         "id": 209139,
+         "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Swae Lee",
+         "url": "https://genius.com/artists/Swae-lee",
+         "iq": 958
+        },
+        {
+         "api_path": "/artists/2197",
+         "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+         "id": 2197,
+         "image_url": "https://images.genius.com/a3496b5fc4c6f7796e08548ab28aef18.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Future",
+         "url": "https://genius.com/artists/Future",
+         "iq": 4648
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/29978",
+        "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+        "id": 29978,
+        "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Mike WiLL Made-It",
+        "url": "https://genius.com/artists/Mike-will-made-it",
+        "iq": 522
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2358",
+     "header_image_url": "https://images.genius.com/25e5b8d1c8beb0a3cd62e550e14f83ca.1000x166x1.jpg",
+     "id": 2358,
+     "image_url": "https://images.genius.com/1bab7f9dbd1216febc16d73ae4da9bd0.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "The Weeknd",
+     "url": "https://genius.com/artists/The-weeknd",
+     "iq": 15429
+    },
+    {
+     "api_path": "/artists/209139",
+     "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+     "id": 209139,
+     "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Swae Lee",
+     "url": "https://genius.com/artists/Swae-lee",
+     "iq": 958
+    },
+    {
+     "api_path": "/artists/2197",
+     "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+     "id": 2197,
+     "image_url": "https://images.genius.com/a3496b5fc4c6f7796e08548ab28aef18.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Future",
+     "url": "https://genius.com/artists/Future",
+     "iq": 4648
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    }
+   ],
+   "artist": "Mike WiLL Made-It",
+   "lyrics": "65 ContributorsDrinks On Us (Remix) Lyrics[Intro: Swae Lee]\nEverybody wanna know where you got your stuff\nAnd you say \"Oh man, I got the muthafuckin' plug\"\nEverybody sayin', \"Ayy, where you get that from?\"\nAnd you feel so coolin' every time you in the club\n\n[Chorus: Swae Lee]\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\n[Verse 1: Swae Lee]\nIf y'all wanna hang out with the gangstas, y'all go 'head\nI'm just gonna count a little motherfuckin' bread\nIf y'all wanna slither with the snakes, then y'all go 'head\nI keep a pedicured lawn so them snakes, they will be dead\nTears of joy run down my cheek onto the soil\nI would trick off on your bitch, but she ain't loyal (She disloyal)\nNothing but love for you niggas riding with no tint\nGrand total, five digits, make these hoes repent\nPopped a couple pills, I feel like Johnny Mad Dog (Geek, geek)\nI lost a couple friends, I'm tryna get these bands dog (Geek, geek)\nYou know we in this bitch, we throwin' up them grands, y'all\nAnd once we get that club, we 'bout that fun, go H.A.M y'all\nMy comrades want them mills, my comrades want them millions\nMy comrades want them bills, my comrades want them billions\nMy comrades want that tri, my comrades want them trillions\nYeah, we need more than racks, my comrades want them 'illions\n\n[Pre-Chorus: Swae Lee]\nBeen provin', you ain't ever goin' up\nEvery time you hit the club, you always fuck it up\n\n[Chorus: Swae Lee]\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nYou might also like[Verse 2: The Weeknd]\nBet you never see my niggas pull up to the spot\nI just signed so many checks my wrist about to pop\nIf you ever talk about me when I'm not around\nYour girl'll probably tell me when I put it in her mouth\n(When I put it in her mouth)\nPut your wallet in your pocket, bitch, you playing\n(Bitch, you playing)\nEven when I wasn't on, I'm always paying\n(You know who's paying)\nWent from hipsters, now it's models and these singers (On the low)\nAnd my hair be growing like a fuckin' Saiyan (Ooh)\nI popped a couple pills, I think that I'm Devante\nI fuck a bitch from Lost and Found like every Monday (Oh yeah, oh yeah)\nMy jawline so defined, I'm wildin' like I'm Gunplay (Oh yeah, oh yeah)\nYou see no white inside my eyes and it's a fun day\nBut when I'm workin', girl, I'm workin' for the millions (Workin' for the millions)\nGirl, when I'm workin', I be workin' for them billions (Ooh yeah)\nWhy your hand out, I ain't trickin', find another sucka'\nThese bitches tryna make a livin', but\n\n[Pre-Chorus: The Weeknd]\nYou know I been on now, then, and I'm next\nEvery year my year, you know I always wanna flex\n\n[Chorus: The Weeknd]\n(XO)\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\n[Verse 3: Future]\nSay my, say my, say my name\nSwitchin' bitches and I'm switchin' lanes\nWhen they call last shot for alcohol\nI just wanna take my last drink\nI just wanna sip some clean purple\nHit the car lot and just made a purchase\nI just realized that I am a star\nCruisin' my coupe up the boulevard\nNone of my pictures are watermarked\nGot more water than the waterboy\nAvianne draped me up, nigga\nYellow bones suck my nuts, nigga\nShe think it's chocolate, but she call me Papi\nPapi Chulo, I'ma get it poppin'\nGot some red bottoms on a hottie thotty\nPut them heels to her nipples in new Cavalli\nI just came in like a kamikaze\nI just walk 'round like a zombie, daddy\nI don't like bein' in paddy wagons\nSo no remorse, I'm about the fetti\nHad a few horses come by the telly\nEating each other, they get some credit\nGot commas on commas, I'm really ready\nI'm really 'bout to pour up on a jet\nI would never mention niggas names\nTell a nigga, a nigga never did exist\nYou niggas never never been a threat\nThese niggas never get enough attention\nI just put the bitch on punishment\nI've been hangin' where the money been\nI don't know what type of love is this\nCan you tell me where my dogs at?\nPut a hollow in your ball cap\nWhat type of nigga you call that?\nWhen I hang up on you, never call back\nI'm a money counter, count my own money\n\n[Pre-Chorus: Swae Lee]\nBeen provin', you ain't ever goin' up\nEvery time you hit the club, you always fuck it up\n\n[Chorus: Swae Lee]\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\nIf you wanna go to the bar, drinks on us\n\n[Outro: Swae Lee]\nIf y'all wanna hang out with the gangstas, y'all go 'head\nI'm just gonna count a little motherfuckin' bread\nIf y'all wanna slither with the snakes, then y'all go 'head\nI keep a pedicured lawn so them snakes, they will be dead203Embed"
+  },
+  {
+   "annotation_count": 29,
+   "api_path": "/songs/2971876",
+   "artist_names": "Mike WiLL Made-It (Ft. Gucci Mane, Kendrick Lamar & Rae Sremmurd)",
+   "full_title": "Perfect Pint by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Gucci\u00a0Mane, Kendrick\u00a0Lamar & Rae\u00a0Sremmurd)",
+   "header_image_thumbnail_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.1000x1000x1.jpg",
+   "id": 2971876,
+   "language": "en",
+   "lyrics_owner_id": 1091826,
+   "lyrics_state": "complete",
+   "path": "/Mike-will-made-it-perfect-pint-lyrics",
+   "pyongs_count": 48,
+   "relationships_index_url": "https://genius.com/Mike-will-made-it-perfect-pint-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 3,
+    "day": 23
+   },
+   "release_date_for_display": "March 23, 2017",
+   "release_date_with_abbreviated_month_for_display": "Mar. 23, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 27,
+    "contributors": 144,
+    "iq_earners": 142,
+    "transcribers": 9,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 1,
+    "hot": false,
+    "pageviews": 326281
+   },
+   "title": "Perfect Pint",
+   "title_with_featured": "Perfect Pint (Ft.\u00a0Gucci\u00a0Mane, Kendrick\u00a0Lamar & Rae\u00a0Sremmurd)",
+   "url": "https://genius.com/Mike-will-made-it-perfect-pint-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/177756",
+     "header_image_url": "https://images.genius.com/e9752cae0af6412b8d26ebad0162eafb.1000x165x1.png",
+     "id": 177756,
+     "image_url": "https://images.genius.com/3d3a14e4cea1da7ed25b3e9b974dcfd2.634x634x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rae Sremmurd",
+     "url": "https://genius.com/artists/Rae-sremmurd"
+    },
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 54509
+    },
+    {
+     "api_path": "/artists/13",
+     "header_image_url": "https://images.genius.com/de090514e8c38dadeac4a335a55f1989.800x1000x1.jpg",
+     "id": 13,
+     "image_url": "https://images.genius.com/82117b940dc8deada6f07c7590ca3b5f.978x978x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Gucci Mane",
+     "url": "https://genius.com/artists/Gucci-mane",
+     "iq": 716
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/29978",
+    "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+    "id": 29978,
+    "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mike WiLL Made-It",
+    "url": "https://genius.com/artists/Mike-will-made-it",
+    "iq": 522
+   },
+   "apple_music_id": "1216836554",
+   "apple_music_player_url": "https://genius.com/songs/2971876/apple_music_player",
+   "description": {
+    "plain": "\u201cPerfect Pint\u201d is the star-studded sixth track on producer Mike WiLL Made-It\u2019s debut studio album Ransom 2.\n\nHe gifted fans the highly-awaited collaboration on March 23, 2017\u2014his 28th birthday\u2014releasing it on Zane Lowe\u2019s Beats 1 radio show.\n\nAfter several re-tweeting teases from Mike WiLL Made-It\u2019s twitter, the music video was released.\n\nhttps://www.youtube.com/watch?v=vJgwn7b5Iug"
+   },
+   "embed_content": "<div id='rg_embed_link_2971876' class='rg_embed_link' data-song-id='2971876'>Read <a href='https://genius.com/Mike-will-made-it-perfect-pint-lyrics'>\u201cPerfect Pint\u201d by Mike\u00a0WiLL Made-It</a> on Genius</div> <script crossorigin src='//genius.com/songs/2971876/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Eardrumma Studios, Atlanta, GA;Sauce Studios, Atlanta, GA;No Excuses Studios, Santa Monica, CA",
+   "release_date": "2017-03-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/143665",
+    "cover_art_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.1000x1000x1.jpg",
+    "full_title": "Ransom 2 by Mike WiLL Made-It",
+    "id": 143665,
+    "name": "Ransom 2",
+    "release_date_for_display": "March 24, 2017",
+    "url": "https://genius.com/albums/Mike-will-made-it/Ransom-2",
+    "artist": {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixed At",
+     "artists": [
+      {
+       "api_path": "/artists/794223",
+       "header_image_url": "https://images.genius.com/51116c9f1d2831aff29729368d9a52da.800x576x1.jpg",
+       "id": 794223,
+       "image_url": "https://images.genius.com/db5742d430abda50db8253c0660e4220.518x518x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Larrabee Sound Studios",
+       "url": "https://genius.com/artists/Larrabee-sound-studios"
+      }
+     ]
+    },
+    {
+     "label": "Mastered at",
+     "artists": [
+      {
+       "api_path": "/artists/1010613",
+       "header_image_url": "https://images.genius.com/f817e5cffaec276e0d6c1352250fa8ad.512x512x1.jpg",
+       "id": 1010613,
+       "image_url": "https://images.genius.com/417675918fe67fce41e721da7aaafe13.512x512x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Mastering Palace, NYC",
+       "url": "https://genius.com/artists/The-mastering-palace-nyc"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641341",
+       "header_image_url": "https://images.genius.com/f883736541eabbfb08e6d079a720db9f.1000x535x1.jpg",
+       "id": 641341,
+       "image_url": "https://images.genius.com/d448111887d2b34267df1ca916335210.299x255x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Kutch",
+       "url": "https://genius.com/artists/Dave-kutch"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/589828",
+       "header_image_url": "https://images.genius.com/8010c397402a269e4c0c3def2edc7267.1000x667x1.png",
+       "id": 589828,
+       "image_url": "https://images.genius.com/46c5f3a739690651ba01154cc0b9e590.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaycen Joshua",
+       "url": "https://genius.com/artists/Jaycen-joshua"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/643428",
+       "header_image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+       "id": 643428,
+       "image_url": "https://images.genius.com/8201b903494e294107426090a1f176d5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Schaeffer",
+       "url": "https://genius.com/artists/Matt-schaeffer"
+      },
+      {
+       "api_path": "/artists/989514",
+       "header_image_url": "https://images.genius.com/2dc1f2bba8cb5f70147edeb91ea6ee04.231x231x1.jpg",
+       "id": 989514,
+       "image_url": "https://images.genius.com/2dc1f2bba8cb5f70147edeb91ea6ee04.231x231x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sean Payne",
+       "url": "https://genius.com/artists/Sean-payne"
+      },
+      {
+       "api_path": "/artists/647630",
+       "header_image_url": "https://images.genius.com/27d6e239161ed50d4dba5460c5c378c1.500x500x1.jpg",
+       "id": 647630,
+       "image_url": "https://images.genius.com/fc86ee57a11453f1402c18cdea30650f.364x364x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "D-Jay Sremm",
+       "url": "https://genius.com/artists/D-jay-sremm"
+      },
+      {
+       "api_path": "/artists/989507",
+       "header_image_url": "https://images.genius.com/3b505d4595c299f777c86e577e2e4e69.750x750x1.jpg",
+       "id": 989507,
+       "image_url": "https://images.genius.com/3b505d4595c299f777c86e577e2e4e69.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Randy Lanphear",
+       "url": "https://genius.com/artists/Randy-lanphear"
+      },
+      {
+       "api_path": "/artists/209139",
+       "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+       "id": 209139,
+       "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Swae Lee",
+       "url": "https://genius.com/artists/Swae-lee",
+       "iq": 958
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1106894",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1106894,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Radric Davis Publishing",
+       "url": "https://genius.com/artists/Radric-davis-publishing"
+      },
+      {
+       "api_path": "/artists/648506",
+       "header_image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+       "id": 648506,
+       "image_url": "https://images.genius.com/74426baa896c80996f8292296535de9a.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hard Working Black Folks Publishing",
+       "url": "https://genius.com/artists/Hard-working-black-folks-publishing"
+      },
+      {
+       "api_path": "/artists/1108010",
+       "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+       "id": 1108010,
+       "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Top Dawg Entertainment",
+       "url": "https://genius.com/artists/Top-dawg-entertainment"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/986730",
+       "header_image_url": "https://images.genius.com/bb24fed497d4a94866afffe8c5a3f6b8.900x900x1.jpg",
+       "id": 986730,
+       "image_url": "https://images.genius.com/9432c373e43c8b8c0d7297b1b4a9f8b5.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ear Drummers",
+       "url": "https://genius.com/artists/Ear-drummers"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1507505,
+    "annotator_login": "Drew_Harvie",
+    "api_path": "/referents/11266049",
+    "classification": "accepted",
+    "fragment": "Perfect Pint",
+    "id": 11266049,
+    "is_description": true,
+    "path": "/11266049/Mike-will-made-it-perfect-pint/Perfect-pint",
+    "range": {
+     "content": "Perfect Pint"
+    },
+    "song_id": 2971876,
+    "url": "https://genius.com/11266049/Mike-will-made-it-perfect-pint/Perfect-pint",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2971876",
+     "client_timestamps": {
+      "updated_by_human_at": 1632110407,
+      "lyrics_updated_at": 1607787403
+     },
+     "context": "Mike WiLL Made-It",
+     "id": 2971876,
+     "image_url": "https://images.genius.com/b1e7ece21fcb1625c90c43b8e88d47a2.1000x1000x1.jpg",
+     "link_title": "Perfect Pint by\u00a0Mike\u00a0WiLL Made-It (Ft.\u00a0Gucci\u00a0Mane, Kendrick\u00a0Lamar & Rae\u00a0Sremmurd)",
+     "title": "Perfect Pint",
+     "type": "Song",
+     "url": "https://genius.com/Mike-will-made-it-perfect-pint-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11266049",
+      "body": {
+       "plain": "\u201cPerfect Pint\u201d is the star-studded sixth track on producer Mike WiLL Made-It\u2019s debut studio album Ransom 2.\n\nHe gifted fans the highly-awaited collaboration on March 23, 2017\u2014his 28th birthday\u2014releasing it on Zane Lowe\u2019s Beats 1 radio show.\n\nAfter several re-tweeting teases from Mike WiLL Made-It\u2019s twitter, the music video was released.\n\nhttps://www.youtube.com/watch?v=vJgwn7b5Iug"
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11266049,
+      "pinned": false,
+      "share_url": "https://genius.com/11266049",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11266049/Mike-will-made-it-perfect-pint/Perfect-pint",
+      "verified": false,
+      "votes_total": 43,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5180722891566265,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2868315",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fdd68c088402fb08f3cb16ac9cdbfd6f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fdd68c088402fb08f3cb16ac9cdbfd6f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fdd68c088402fb08f3cb16ac9cdbfd6f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fdd68c088402fb08f3cb16ac9cdbfd6f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/948f44d5c5b841be6b4a0e8f01ebfc50.1000x563x1.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2868315,
+         "iq": 12624,
+         "login": "venusianfrommars",
+         "name": "Venusianfrommars",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/venusianfrommars",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3373493975903614,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1729630",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0b9a5c7c722b6f72948e1e9bfdeca176",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0b9a5c7c722b6f72948e1e9bfdeca176",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0b9a5c7c722b6f72948e1e9bfdeca176",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0b9a5c7c722b6f72948e1e9bfdeca176",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8SBFDWfDTJK1lIGf0FvO_tumblr_static_1s4t7dvd8r8k4ocsskw4ks4kk.png",
+         "human_readable_role_for_display": "Editor",
+         "id": 1729630,
+         "iq": 101663,
+         "login": "AintNoJigga",
+         "name": "AintNoJigga",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AintNoJigga",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12048192771084337,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1849231",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b60d1993b2d408092e783896eaa8acae",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b60d1993b2d408092e783896eaa8acae",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b60d1993b2d408092e783896eaa8acae",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b60d1993b2d408092e783896eaa8acae",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/26f7ea407353ce2ff2c4fba06a2a5a7f.300x300x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1849231,
+         "iq": 206961,
+         "login": "prodbymalc",
+         "name": "Malcolm Trapp",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/prodbymalc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.024096385542168676,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1507505",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e3bddc3505223bb33a4278b4861e2c24",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e3bddc3505223bb33a4278b4861e2c24",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e3bddc3505223bb33a4278b4861e2c24",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e3bddc3505223bb33a4278b4861e2c24",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/8cd8d8167b313bc8df5851744f7f7094.1000x667x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1507505,
+         "iq": 341304,
+         "login": "Drew_Harvie",
+         "name": "Andrew Harvie",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Drew_Harvie",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3A2OHirUAlQp2x73BJlEDA",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3A2OHirUAlQp2x73BJlEDA"
+    },
+    {
+     "attribution": "mikewillmadeit",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/mikewillmadeit/mike-will-made-it-perfect-pint"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vJgwn7b5Iug"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/253684",
+     "header_image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "id": 253684,
+     "image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Fu",
+     "url": "https://genius.com/artists/Dj-fu"
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 33,
+       "api_path": "/songs/7345565",
+       "artist_names": "Oxxxymiron",
+       "full_title": "\u041a\u0422\u041e \u0423\u0411\u0418\u041b \u041c\u0410\u0420\u041a\u0410? (WHO KILLED MARK?) by\u00a0Oxxxymiron",
+       "header_image_thumbnail_url": "https://images.genius.com/e6abf2e5b92c4700fd03eea26e4807f6.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/e6abf2e5b92c4700fd03eea26e4807f6.1000x563x1.jpg",
+       "id": 7345565,
+       "language": "ru",
+       "lyrics_owner_id": 5469055,
+       "lyrics_state": "complete",
+       "path": "/Oxxxymiron-who-killed-mark-lyrics",
+       "pyongs_count": 171,
+       "relationships_index_url": "https://genius.com/Oxxxymiron-who-killed-mark-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 1
+       },
+       "release_date_for_display": "November 1, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 1, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cd7046ba80c9347ed35648c5f4e26862.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cd7046ba80c9347ed35648c5f4e26862.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 831708
+       },
+       "title": "\u041a\u0422\u041e \u0423\u0411\u0418\u041b \u041c\u0410\u0420\u041a\u0410? (WHO KILLED MARK?)",
+       "title_with_featured": "\u041a\u0422\u041e \u0423\u0411\u0418\u041b \u041c\u0410\u0420\u041a\u0410? (WHO KILLED MARK?)",
+       "url": "https://genius.com/Oxxxymiron-who-killed-mark-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/24422",
+        "header_image_url": "https://images.genius.com/b360933d6cf2e2de5ebc0af39d54ad47.1000x1000x1.jpg",
+        "id": 24422,
+        "image_url": "https://images.genius.com/0f299a2ca2bef916127fa00ed11c54cf.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Oxxxymiron",
+        "url": "https://genius.com/artists/Oxxxymiron",
+        "iq": 6283
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/253684",
+     "header_image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "id": 253684,
+     "image_url": "https://images.genius.com/80c2913ced691004cb1aeaa5e5038248.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DJ Fu",
+     "url": "https://genius.com/artists/Dj-fu"
+    },
+    {
+     "api_path": "/artists/335759",
+     "header_image_url": "https://images.genius.com/0611b61677b3163a555e15a1ee50fe0a.976x976x1.jpg",
+     "id": 335759,
+     "image_url": "https://images.genius.com/0611b61677b3163a555e15a1ee50fe0a.976x976x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Slim Jxmmi",
+     "url": "https://genius.com/artists/Slim-jxmmi",
+     "iq": 2556
+    },
+    {
+     "api_path": "/artists/209139",
+     "header_image_url": "https://images.genius.com/f6138895af1f31df362a0a8c3624b5c8.640x800x1.jpg",
+     "id": 209139,
+     "image_url": "https://images.genius.com/5bddd32843bf47b333ed90b12d602928.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Swae Lee",
+     "url": "https://genius.com/artists/Swae-lee",
+     "iq": 958
+    },
+    {
+     "api_path": "/artists/29978",
+     "header_image_url": "https://images.genius.com/1722dc172cf7b50eeb7e433113e9a6e8.1000x504x1.png",
+     "id": 29978,
+     "image_url": "https://images.genius.com/1d29ef19a466f4bf49282b4d020cb593.895x895x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mike WiLL Made-It",
+     "url": "https://genius.com/artists/Mike-will-made-it",
+     "iq": 522
+    },
+    {
+     "api_path": "/artists/13",
+     "header_image_url": "https://images.genius.com/de090514e8c38dadeac4a335a55f1989.800x1000x1.jpg",
+     "id": 13,
+     "image_url": "https://images.genius.com/82117b940dc8deada6f07c7590ca3b5f.978x978x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Gucci Mane",
+     "url": "https://genius.com/artists/Gucci-mane",
+     "iq": 716
+    },
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 54509
+    }
+   ],
+   "artist": "Mike WiLL Made-It",
+   "lyrics": "144 ContributorsPerfect Pint Lyrics[Intro: Gucci Mane]\nWop\nEar Drummers\nMike WiLL Made-It\n\n[Verse 1: Slim Jxmmi]\nGi-gimme some space\nTwo styrofoam cups, a pint of some drank\nI'm the type of nigga that you meet at the bank (rich nigga)\nGrade A bitches treatin' me like a saint\nThis money doin' somethin' to my brain (my brain)\nThis money doin' somethin' to my ego (my ego)\nThis drank got me talkin' like Z-Ro\nThese pills got me feelin' like Neo (wavy)\nAnd this freak in my ear tryna go (skrrt)\nI-I'll turn your crib to a hoe house (huh)\nI'm a rockstar, drank 'til I pass out (leggo)\nDrank 'til I motherfuckin' pass out (drank)\nDrank, drank 'til I motherfuckin'\n[Chorus: Swae Lee]\nHolding onto na-na-nah\nHoping they come to life\n'Cause underneath the stairs is where we\nPoured our first perfect pints\nReally wanna know\nHoping they come to life\n'Cause right there on the stairs is where\nWe poured our first perfect pints\n\n[Verse 2: Gucci Mane]\n(It's Gucci!)\nI'm in the trap saran wrappin' with the Vaseline\nYou know the clean lean jump like trampoline\nAlways vert with the skrrt, rims tangerine\nI fell asleep and had a dream ridin' on M.L. King\nTwo pinky rings, two pints of lean\nTwo cups, too turnt, two hoes, one me\nThey were screamin', \"Free Gucci\", but now that Guwop's free\nBlue cheese, no ranch, hunduns on me\nThirty cars deep, it's like a circus with me\nRae Sremmurd, Gucci Mane, it sounds perfect to me\nNow I'm back on top like I'm 'posed to be\nBut I done poured so many pints that shit got old to me (Wop)\n\n[Chorus: Swae Lee]\nHolding onto na-na-nah\nHoping they come to life\n'Cause underneath the stairs is where we\nPoured our first perfect pints\nYou might also like[Verse 3: Kendrick Lamar]\nKung Fu Kenny, look look\nWho the fuck you talkin' to? You mainey (you mainey)\nSalute me when I'm walkin' through, you ain't me (you ain't me)\nEverything I do is with the extras (extras)\nFlip me couple million for investments\nAnd my hood love me unconditional\nYour hood love you 'cause you on the instrumental though\nThis rap shit crazy, need the woosah\nThey screamin' Compton, must be two sides\nR.I.P. to Shawty Lo, yeah B. Dot know I'm flexin'\nVIP my barrio, 200 on the guest list\nI don't like to sugarcoat or politic with yes men\nI like me a boujee hoe from Normandie and Western\n2017 onto bigger things (bigger things)\nI got a smaller team, got a bigger ring (bigger ring)\nEverybody a Crip 'til they black and blue\nEverybody a Blood 'til they hemorrhaging\nAh man, Mike WiLL Made-It\nTwo back to back Spurs, me and Mike WiLL made it\nDouble park on the curb, I can drive but I'm lazy\nHalf a pint, whole pint, gassed up, crazy, ayy\n\n[Outro: Swae Lee]\nHolding onto memories\nTossing turning all night (yeah, yeah)\nLeaving would be wise, but you know where my heart lies\nI be rollin' every time that I arrive48Embed"
+  }
+ ]
+}

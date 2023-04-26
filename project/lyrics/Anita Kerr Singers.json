@@ -1,0 +1,531 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/365651",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+ "id": 365651,
+ "image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "The Anita Kerr Singers",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/The-anita-kerr-singers",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7080982",
+  "classification": "needs_exegesis",
+  "fragment": "The Anita Kerr Singers",
+  "id": 7080982,
+  "is_description": true,
+  "path": "/7080982/The-anita-kerr-singers/The-anita-kerr-singers",
+  "range": {
+   "content": "The Anita Kerr Singers"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7080982/The-anita-kerr-singers/The-anita-kerr-singers",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/365651",
+   "context": null,
+   "id": 365651,
+   "image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+   "link_title": "The Anita Kerr Singers",
+   "title": "The Anita Kerr Singers",
+   "type": "Artist",
+   "url": "https://genius.com/artists/The-anita-kerr-singers"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7080982",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7080982,
+    "pinned": false,
+    "share_url": "https://genius.com/7080982",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7080982/The-anita-kerr-singers/The-anita-kerr-singers",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/908518",
+   "artist_names": "The Anita Kerr Singers",
+   "full_title": "The Bell That Couldn't Jingle by\u00a0The\u00a0Anita Kerr Singers",
+   "header_image_thumbnail_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.600x600x1.png",
+   "id": 908518,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-anita-kerr-singers-the-bell-that-couldnt-jingle-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-anita-kerr-singers-the-bell-that-couldnt-jingle-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.600x600x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Bell That Couldn\u2019t Jingle",
+   "title_with_featured": "The Bell That Couldn't Jingle",
+   "url": "https://genius.com/The-anita-kerr-singers-the-bell-that-couldnt-jingle-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/365651",
+    "header_image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+    "id": 365651,
+    "image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Anita Kerr Singers",
+    "url": "https://genius.com/artists/The-anita-kerr-singers"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/908518/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_908518' class='rg_embed_link' data-song-id='908518'>Read <a href='https://genius.com/The-anita-kerr-singers-the-bell-that-couldnt-jingle-lyrics'>\u201cThe Bell That Couldn't Jingle\u201d by The\u00a0Anita Kerr Singers</a> on Genius</div> <script crossorigin src='//genius.com/songs/908518/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/312118",
+    "cover_art_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.600x600x1.png",
+    "full_title": "Spend This Holiday With Me by The Anita Kerr Singers",
+    "id": 312118,
+    "name": "Spend This Holiday With Me",
+    "release_date_for_display": "1969",
+    "url": "https://genius.com/albums/The-anita-kerr-singers/Spend-this-holiday-with-me",
+    "artist": {
+     "api_path": "/artists/365651",
+     "header_image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+     "id": 365651,
+     "image_url": "https://images.genius.com/81a893656b0b620b3715cacf348d4b0d.184x184x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Anita Kerr Singers",
+     "url": "https://genius.com/artists/The-anita-kerr-singers"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5391469",
+    "classification": "needs_exegesis",
+    "fragment": "The Bell That Couldn\u2019t Jingle",
+    "id": 5391469,
+    "is_description": true,
+    "path": "/5391469/The-anita-kerr-singers-the-bell-that-couldnt-jingle/The-bell-that-couldnt-jingle",
+    "range": {
+     "content": "The Bell That Couldn't Jingle"
+    },
+    "song_id": 908518,
+    "url": "https://genius.com/5391469/The-anita-kerr-singers-the-bell-that-couldnt-jingle/The-bell-that-couldnt-jingle",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/908518",
+     "client_timestamps": {
+      "updated_by_human_at": 1566603582,
+      "lyrics_updated_at": 1429311170
+     },
+     "context": "The Anita Kerr Singers",
+     "id": 908518,
+     "image_url": "https://images.genius.com/675be2275b06994f6af76c0324701e1c.600x600x1.png",
+     "link_title": "The Bell That Couldn\u2019t Jingle by\u00a0The\u00a0Anita Kerr Singers",
+     "title": "The Bell That Couldn't Jingle",
+     "type": "Song",
+     "url": "https://genius.com/The-anita-kerr-singers-the-bell-that-couldnt-jingle-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5391469",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5391469,
+      "pinned": false,
+      "share_url": "https://genius.com/5391469",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5391469/The-anita-kerr-singers-the-bell-that-couldnt-jingle/The-bell-that-couldnt-jingle",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Anita Kerr Singers",
+   "lyrics": "2 ContributorsThe Bell That Couldn\u2019t Jingle LyricsOoh-ooh-ooh-ooh!\nA Christmas bell was crying, then Santa heard it say:\n\"I just can't seem to jingle and I can't go on the sleigh!\"\n\"I just can't jingle!\"\nThen Santa soon discovered the reason that it cried \u2013\nThe bell that couldn't jingle, it had nothing there inside!\n\nThen Santa said: \"Jack Frost will bring my Christmas gift to you\nAnd on Christmas Eve you'll jingle, just like you were brand new!\"\nThen Jack Frost froze a teardrop, so each time that it swayed\nThe bell that couldn't jingle, it went jingling all the way!\nListen!\n\nOoh-ooh-ooh-ooh, jingle bell, jingle bell, jingle all the way!\nThe bell that couldn't jingle, it went jingling all the way!\n\nJingelingeling!\n\nJingle, jingle, jingle, jingle, jingle, jing!\n\nJingle, jing-jingle, jing!\n\nJ-j-j-j-j-j\nJ-j-j-j-j-j\nJingle-jingle, jingle-jingle, jingle-jingle\nJingle-jingle, jingle-jingle, jingle-jingle\nJingle-jingle, jingle-jingle, jingle-jingle\nJingle-jingle, jingle-jingle, jingle-jingle\nJingle-jingle, jingle-jingle, jingle-jingle . . You might also likeEmbed"
+  }
+ ]
+}

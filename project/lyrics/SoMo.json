@@ -1,0 +1,1633 @@
+{
+ "alternate_names": [
+  "Joseph Somers-Morales",
+  "Joseph Anthony Somers-Morales"
+ ],
+ "api_path": "/artists/50384",
+ "description": {
+  "plain": "Joseph Anthony Somers-Morales, known by his stage name SoMo, is an American R&B singer and songwriter from Denison, Texas. He is most famous for his single called Ride."
+ },
+ "facebook_name": "OfficialSoMo",
+ "followers_count": 97,
+ "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+ "id": 50384,
+ "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+ "instagram_name": "officialsomo",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "SoMo",
+ "translation_artist": false,
+ "twitter_name": "OfficialSoMo",
+ "url": "https://genius.com/artists/Somo",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 120,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 615589,
+  "annotator_login": "zaddifromatl",
+  "api_path": "/referents/6969394",
+  "classification": "accepted",
+  "fragment": "SoMo",
+  "id": 6969394,
+  "is_description": true,
+  "path": "/6969394/Somo/Somo",
+  "range": {
+   "content": "SoMo"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6969394/Somo/Somo",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/50384",
+   "context": null,
+   "id": 50384,
+   "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+   "link_title": "SoMo",
+   "title": "SoMo",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Somo"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6969394",
+    "body": {
+     "plain": "Joseph Anthony Somers-Morales, known by his stage name SoMo, is an American R&B singer and songwriter from Denison, Texas. He is most famous for his single called Ride."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6969394,
+    "pinned": false,
+    "share_url": "https://genius.com/6969394",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6969394/Somo/Somo",
+    "verified": false,
+    "votes_total": 22,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/615589",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/cac2630c55fe27ea65d2de7da506e562",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/cac2630c55fe27ea65d2de7da506e562",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/cac2630c55fe27ea65d2de7da506e562",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/cac2630c55fe27ea65d2de7da506e562",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/Z3v7ailETPGz0v2Im7tv_YATLANTA-2.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 615589,
+       "iq": 4494,
+       "login": "zaddifromatl",
+       "name": "zaddifromatl",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/zaddifromatl",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/4408673",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/5d048ccd7b529229e9adfa89d7a2d425",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/5d048ccd7b529229e9adfa89d7a2d425",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/5d048ccd7b529229e9adfa89d7a2d425",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/5d048ccd7b529229e9adfa89d7a2d425",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 4408673,
+  "iq": 120,
+  "login": "SoMo",
+  "name": "SoMo",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/SoMo",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/200499",
+   "artist_names": "SoMo",
+   "full_title": "Ride by\u00a0SoMo",
+   "header_image_thumbnail_url": "https://images.genius.com/16615feca2e9a2667904726359f14401.300x300x1.webp",
+   "header_image_url": "https://images.genius.com/16615feca2e9a2667904726359f14401.770x770x1.webp",
+   "id": 200499,
+   "language": "en",
+   "lyrics_owner_id": 263356,
+   "lyrics_state": "complete",
+   "path": "/Somo-ride-lyrics",
+   "pyongs_count": 214,
+   "relationships_index_url": "https://genius.com/Somo-ride-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 12,
+    "day": 7
+   },
+   "release_date_for_display": "December 7, 2013",
+   "release_date_with_abbreviated_month_for_display": "Dec. 7, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/16615feca2e9a2667904726359f14401.300x300x1.webp",
+   "song_art_image_url": "https://images.genius.com/16615feca2e9a2667904726359f14401.770x770x1.webp",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 45,
+    "iq_earners": 45,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 387524
+   },
+   "title": "Ride",
+   "title_with_featured": "Ride",
+   "url": "https://genius.com/Somo-ride-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/50384",
+    "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+    "id": 50384,
+    "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "SoMo",
+    "url": "https://genius.com/artists/Somo",
+    "iq": 120
+   },
+   "apple_music_id": "822278909",
+   "apple_music_player_url": "https://genius.com/songs/200499/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_200499' class='rg_embed_link' data-song-id='200499'>Read <a href='https://genius.com/Somo-ride-lyrics'>\u201cRide\u201d by SoMo</a> on Genius</div> <script crossorigin src='//genius.com/songs/200499/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-12-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/92639",
+    "cover_art_url": "https://images.genius.com/d84f9262517fe1e1d0e01dcb4a875fcf.640x640x1.jpg",
+    "full_title": "SoMo by SoMo",
+    "id": 92639,
+    "name": "SoMo",
+    "release_date_for_display": "April 8, 2014",
+    "url": "https://genius.com/albums/Somo/Somo",
+    "artist": {
+     "api_path": "/artists/50384",
+     "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+     "id": 50384,
+     "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "SoMo",
+     "url": "https://genius.com/artists/Somo",
+     "iq": 120
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/400a971fbe8786b2e5d5031a34a59d6a.1000x313x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/646825",
+       "header_image_url": "https://images.genius.com/4b95c27789726eaf2e35faaa6af67c3c.1000x1000x1.jpg",
+       "id": 646825,
+       "image_url": "https://images.genius.com/4b95c27789726eaf2e35faaa6af67c3c.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eric Peterson",
+       "url": "https://genius.com/artists/Eric-peterson"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/636358",
+       "header_image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "id": 636358,
+       "image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cody Tarpley",
+       "url": "https://genius.com/artists/Cody-tarpley"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards [Additional]",
+     "artists": [
+      {
+       "api_path": "/artists/636358",
+       "header_image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "id": 636358,
+       "image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cody Tarpley",
+       "url": "https://genius.com/artists/Cody-tarpley"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/636358",
+       "header_image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "id": 636358,
+       "image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cody Tarpley",
+       "url": "https://genius.com/artists/Cody-tarpley"
+      },
+      {
+       "api_path": "/artists/50384",
+       "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+       "id": 50384,
+       "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "SoMo",
+       "url": "https://genius.com/artists/Somo",
+       "iq": 120
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/38438",
+       "header_image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+       "id": 38438,
+       "image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mick Schultz",
+       "url": "https://genius.com/artists/Mick-schultz",
+       "iq": 178
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1194220,
+    "annotator_login": "layababiee",
+    "api_path": "/referents/3583516",
+    "classification": "needs_exegesis",
+    "fragment": "Ride",
+    "id": 3583516,
+    "is_description": true,
+    "path": "/3583516/Somo-ride/Ride",
+    "range": {
+     "content": "Ride"
+    },
+    "song_id": 200499,
+    "url": "https://genius.com/3583516/Somo-ride/Ride",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/200499",
+     "client_timestamps": {
+      "updated_by_human_at": 1660538952,
+      "lyrics_updated_at": 1660538952
+     },
+     "context": "SoMo",
+     "id": 200499,
+     "image_url": "https://images.genius.com/16615feca2e9a2667904726359f14401.770x770x1.webp",
+     "link_title": "Ride by\u00a0SoMo",
+     "title": "Ride",
+     "type": "Song",
+     "url": "https://genius.com/Somo-ride-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3583516",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3583516,
+      "pinned": false,
+      "share_url": "https://genius.com/3583516",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3583516/Somo-ride/Ride",
+      "verified": false,
+      "votes_total": 18,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1194220",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/99139aecac787d5abd770a4729a8e3c5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/99139aecac787d5abd770a4729a8e3c5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/99139aecac787d5abd770a4729a8e3c5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/99139aecac787d5abd770a4729a8e3c5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/99139aecac787d5abd770a4729a8e3c5",
+         "human_readable_role_for_display": null,
+         "id": 1194220,
+         "iq": 150,
+         "login": "layababiee",
+         "name": "layababiee",
+         "role_for_display": null,
+         "url": "https://genius.com/layababiee",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=5082NM1H-io"
+    },
+    {
+     "native_uri": "spotify:track:1CI6YgwwNq3VfhgxPuEpE6",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1CI6YgwwNq3VfhgxPuEpE6"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/636358",
+     "header_image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+     "id": 636358,
+     "image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cody Tarpley",
+     "url": "https://genius.com/artists/Cody-tarpley"
+    },
+    {
+     "api_path": "/artists/38438",
+     "header_image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "id": 38438,
+     "image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mick Schultz",
+     "url": "https://genius.com/artists/Mick-schultz",
+     "iq": 178
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4069816",
+       "artist_names": "William Singe",
+       "full_title": "Ride by\u00a0William\u00a0Singe",
+       "header_image_thumbnail_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+       "id": 4069816,
+       "language": "en",
+       "lyrics_owner_id": 7314334,
+       "lyrics_state": "complete",
+       "path": "/William-singe-ride-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/William-singe-ride-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2014",
+       "release_date_with_abbreviated_month_for_display": "2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ride",
+       "title_with_featured": "Ride",
+       "url": "https://genius.com/William-singe-ride-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/658615",
+        "header_image_url": "https://images.genius.com/93efba0ff82a9c9d65b280a35111e09b.480x270x1.jpg",
+        "id": 658615,
+        "image_url": "https://images.genius.com/2c13fd4fc17191c07b40f9bc0801e899.907x907x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "William Singe",
+        "url": "https://genius.com/artists/William-singe"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/696495",
+       "artist_names": "Chase Rice (Ft. Macy Maloy)",
+       "full_title": "Ride by\u00a0Chase\u00a0Rice (Ft.\u00a0Macy\u00a0Maloy)",
+       "header_image_thumbnail_url": "https://images.genius.com/199f3a3e3af4b26b5fede60ba16f8c63.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/199f3a3e3af4b26b5fede60ba16f8c63.1000x1000x1.jpg",
+       "id": 696495,
+       "language": "en",
+       "lyrics_owner_id": 341761,
+       "lyrics_state": "complete",
+       "path": "/Chase-rice-ride-lyrics",
+       "pyongs_count": 12,
+       "relationships_index_url": "https://genius.com/Chase-rice-ride-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2016",
+       "release_date_with_abbreviated_month_for_display": "2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/199f3a3e3af4b26b5fede60ba16f8c63.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/199f3a3e3af4b26b5fede60ba16f8c63.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 64602
+       },
+       "title": "Ride",
+       "title_with_featured": "Ride (Ft.\u00a0Macy\u00a0Maloy)",
+       "url": "https://genius.com/Chase-rice-ride-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1503856",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 1503856,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Macy Maloy",
+         "url": "https://genius.com/artists/Macy-maloy"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/227641",
+        "header_image_url": "https://images.genius.com/bc294094fdc7419202038466c7433aa8.1000x563x1.jpg",
+        "id": 227641,
+        "image_url": "https://images.genius.com/c8ba63fb206523dc22c41d51946fc748.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Chase Rice",
+        "url": "https://genius.com/artists/Chase-rice",
+        "iq": 201
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/493015",
+       "artist_names": "SoMo (Ft. K CAMP & Ty Dolla $ign)",
+       "full_title": "Ride (Remix) by\u00a0SoMo (Ft.\u00a0K\u00a0CAMP & Ty\u00a0Dolla $ign)",
+       "header_image_thumbnail_url": "https://images.genius.com/499988383abff3ba0a594c38d4ca04fc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/499988383abff3ba0a594c38d4ca04fc.640x640x1.jpg",
+       "id": 493015,
+       "language": "en",
+       "lyrics_owner_id": 283771,
+       "lyrics_state": "complete",
+       "path": "/Somo-ride-remix-lyrics",
+       "pyongs_count": 11,
+       "relationships_index_url": "https://genius.com/Somo-ride-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 7,
+        "day": 4
+       },
+       "release_date_for_display": "July 4, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jul. 4, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/499988383abff3ba0a594c38d4ca04fc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/499988383abff3ba0a594c38d4ca04fc.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 76527
+       },
+       "title": "Ride (Remix)",
+       "title_with_featured": "Ride (Remix) (Ft.\u00a0K\u00a0CAMP & Ty\u00a0Dolla $ign)",
+       "url": "https://genius.com/Somo-ride-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/25005",
+         "header_image_url": "https://images.genius.com/db1ca72e0ec8456a55e0e30e238733ae.1000x733x1.jpg",
+         "id": 25005,
+         "image_url": "https://images.genius.com/9aed3a065cd3c47086392e48a72ecd73.800x800x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Ty Dolla $ign",
+         "url": "https://genius.com/artists/Ty-dolla-sign",
+         "iq": 2153
+        },
+        {
+         "api_path": "/artists/20742",
+         "header_image_url": "https://images.genius.com/343b6179eea7958fc1bcb5a43f86a741.1000x1000x1.jpg",
+         "id": 20742,
+         "image_url": "https://images.genius.com/937899817bbca48d3fbf47a8d864ae81.807x807x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "K CAMP",
+         "url": "https://genius.com/artists/K-camp",
+         "iq": 1602
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/50384",
+        "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+        "id": 50384,
+        "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "SoMo",
+        "url": "https://genius.com/artists/Somo",
+        "iq": 120
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/636358",
+     "header_image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+     "id": 636358,
+     "image_url": "https://images.genius.com/d5d619459d7b9472df1a0be6ade1dce9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cody Tarpley",
+     "url": "https://genius.com/artists/Cody-tarpley"
+    },
+    {
+     "api_path": "/artists/50384",
+     "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+     "id": 50384,
+     "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "SoMo",
+     "url": "https://genius.com/artists/Somo",
+     "iq": 120
+    }
+   ],
+   "artist": "SoMo",
+   "lyrics": "45 ContributorsRide Lyrics[Intro]\nWoah, woah, woah, yeah\nWoah, woah, woah, yeah, oh\nWoah-oh, yeah, yeah\n\n[Verse 1]\nTake off those heels, lay on my bed\nWhisper dirty secrets while I'm pulling on your hair\nPoison in our veins but we don't even care\nCandles drippin' on your body, baby, this ain't truth or dare\nEverybody wonders where we've run off to\nMy body on your body, baby, stickin' like some glue\nNaughty, let's get naughty, girl, it's only one or two\nThe fever's fuckin' runnin', feel the heat between us too\n\n[Chorus]\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm, I'm gon' ride\nOn you baby, on you lady all night, all night\nI'm gon' take care of your body\nI'll be gentle don't you scream\nIt's getting hotter, make it softer\nFeel your chest on top of me\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm I'm gon' ride\nOn you baby, on you lady, all night, all night\nI'm gon' make you feel that loving\nAnd gettin' weak all in your knees\nKiss your body from the tip-top\nAll the way down to your feet\nYou might also like[Post-Chorus]\nWoah, and we can go slow\nYeah, we can go slow, oh, woah\n\n[Verse 2]\nLay on your back, like you right there\nDon't have to say it twice, love, there's nothing here to fear\nTakin' it back, back to where it's clear\nRollin' on and on sounds of love are in the air\n\n[Chorus]\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm, I'm gon' ride\nOn you baby, on you lady all night, all night\nI'm gon' take care of your body\nI'll be gentle don't you scream\nIt's getting hotter, make it softer\nFeel your chest on top of me\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm, I'm gon' ride\nOn you baby, on you lady all night, all night\nI'm gon' make you feel that loving\nAnd gettin' weak all in your knees\nKiss your body from the tip-top\nAll the way down to your feet\n[Bridge]\nLove, love\nWoah, oh-oh-oh-oh, yeah\nSun's coming up (Oh), you're on my side (Oh)\nI rub your thigh (Oh), you look in my eyes (Ah)\nAnd I just see the sky (See the sky)\nI'm so high (I'm so high) but I ain't smoked yet (Oh, oh, oh)\nI'm just comin' down from this\n\n[Chorus]\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm, I'm gon' ride (Ride)\nOn you baby, on you lady all night, all night\nI'm gon' take care of your body (Your body)\nI'll be gentle don't you scream (Don't you scream)\nIt's getting hotter, make it softer (Make it hotter, make it hotter)\nFeel your chest on top of me\nI'm gon' ride, I'm gon' ride\nI'm gon ride, I'm, I'm gon' ride (I'm gon' ride)\nOn you baby, on you lady all night, all night (I'm gon' ride)\nI'm gon' make you feel that loving\nAnd gettin' weak all in your knees\nKiss your body from the tip-top (Kiss your body, oh)\nAll the way down to your feet\n\n[Instrumental Outro]214Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/561190",
+   "artist_names": "SoMo",
+   "full_title": "Or Nah (Rendition) by\u00a0SoMo",
+   "header_image_thumbnail_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+   "id": 561190,
+   "language": "en",
+   "lyrics_owner_id": 1260149,
+   "lyrics_state": "complete",
+   "path": "/Somo-or-nah-rendition-lyrics",
+   "pyongs_count": 13,
+   "relationships_index_url": "https://genius.com/Somo-or-nah-rendition-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 92738
+   },
+   "title": "Or Nah (Rendition)",
+   "title_with_featured": "Or Nah (Rendition)",
+   "url": "https://genius.com/Somo-or-nah-rendition-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/50384",
+    "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+    "id": 50384,
+    "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "SoMo",
+    "url": "https://genius.com/artists/Somo",
+    "iq": 120
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/561190/apple_music_player",
+   "description": {
+    "plain": "It\u2019s just basically his version of the original remix."
+   },
+   "embed_content": "<div id='rg_embed_link_561190' class='rg_embed_link' data-song-id='561190'>Read <a href='https://genius.com/Somo-or-nah-rendition-lyrics'>\u201cOr Nah (Rendition)\u201d by SoMo</a> on Genius</div> <script crossorigin src='//genius.com/songs/561190/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2704245,
+    "annotator_login": "Sanchez_Mareli",
+    "api_path": "/referents/4273629",
+    "classification": "unreviewed",
+    "fragment": "Or Nah (Rendition)",
+    "id": 4273629,
+    "is_description": true,
+    "path": "/4273629/Somo-or-nah-rendition/Or-nah-rendition",
+    "range": {
+     "content": "Or Nah (Rendition)"
+    },
+    "song_id": 561190,
+    "url": "https://genius.com/4273629/Somo-or-nah-rendition/Or-nah-rendition",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/561190",
+     "client_timestamps": {
+      "updated_by_human_at": 1615229343,
+      "lyrics_updated_at": 1615229342
+     },
+     "context": "SoMo",
+     "id": 561190,
+     "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+     "link_title": "Or Nah (Rendition) by\u00a0SoMo",
+     "title": "Or Nah (Rendition)",
+     "type": "Song",
+     "url": "https://genius.com/Somo-or-nah-rendition-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4273629",
+      "body": {
+       "plain": "It\u2019s just basically his version of the original remix."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4273629,
+      "pinned": false,
+      "share_url": "https://genius.com/4273629",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/4273629/Somo-or-nah-rendition/Or-nah-rendition",
+      "verified": false,
+      "votes_total": 8,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2704245",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/bf8ea2f9fa0ebcf523caa7b871304c6a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/bf8ea2f9fa0ebcf523caa7b871304c6a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/bf8ea2f9fa0ebcf523caa7b871304c6a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/bf8ea2f9fa0ebcf523caa7b871304c6a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/bf8ea2f9fa0ebcf523caa7b871304c6a",
+         "human_readable_role_for_display": null,
+         "id": 2704245,
+         "iq": 196,
+         "login": "Sanchez_Mareli",
+         "name": "Sanchez_Mareli",
+         "role_for_display": null,
+         "url": "https://genius.com/Sanchez_Mareli",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tu2vllSh528"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "SoMo",
+   "lyrics": "14 ContributorsOr Nah (Rendition) Lyrics[SoMo]\nDo you like the way I flick my tongue, or nah?\nYou can ride my face until you drippin' cum\nCan you lick the tip then throat the dick, or nah?\nCan you let me stretch that pussy out, or nah?\n\nI'm not the type to call you back tomorrow\nBut the way you wrap around me is a problem\nAin't nobody tryna save you, Baby get that paper\nProbably got a lotta other bitches owe you favors\nPussy so good had to save that shit for later\nTook her to the kitchen, Fucked her right there on the table\nShe reppin' SoMo to the death\nI'm tryna make these bitches sweat\nI'm tryna keep that pussy wet\nI'm tryna fuck her and her friends (Fuck her and her friends)\nFuck her and her friends\n\nYou gonn' run it for these hundreds, girl or nah?\nShow me is you really 'bout your money, girl or nah\nDon't play with a boss, girl take it off\nTake it for a real one, You get it all\nIs you really about your money or nah?\nCan you really take dick or nah?\nCan i bring another bitch or nah?\nIs you with the shits or nah, or nah?\nOr nah, or nah?\nWould you ride for a singer or nah?\nWould you die for a singer or nah?\nWould you lie to a singer or nah, or nah?\nOr nah\nI'm a freaky-deeky lover wanna hit you from the back and other ways\nThat you have never experimented under the covers\nRoll around the bed with me is something you don't just discover\nIf you wanna get with me you gotta keep it on one hundred\nI'mma make you scream my name\nI'mma make you glad you came\nOh, oooh\nI'mma make you scream my name\nI'mma make you glad you came\n\nYou gonn' run it for these hundreds girl or nah?\nShow me is you really about your money, girl or nah\nDon't play with a boss, girl take it off\nTake it for a real one, you gonn' get it all\nIs you really 'bout your money or nah\nCan you really take dick or nah?\nCan I bring another bitch or nah?\nIs you with the shits or nah?\nOr nah, or nah\nWould you ride for a singer or nah?\nWould you die for a singer or nah?\nWould you lie to a singer or nah?\nOr nah?\nOr nah?You might also like13Embed"
+  },
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/78497",
+   "artist_names": "SoMo",
+   "full_title": "Take Care (Medley) by\u00a0SoMo",
+   "header_image_thumbnail_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+   "id": 78497,
+   "language": "en",
+   "lyrics_owner_id": 113695,
+   "lyrics_state": "complete",
+   "path": "/Somo-take-care-medley-lyrics",
+   "pyongs_count": 23,
+   "relationships_index_url": "https://genius.com/Somo-take-care-medley-sample",
+   "release_date_components": {
+    "year": 2011,
+    "month": 11,
+    "day": 11
+   },
+   "release_date_for_display": "November 11, 2011",
+   "release_date_with_abbreviated_month_for_display": "Nov. 11, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 12,
+    "iq_earners": 11,
+    "transcribers": 2,
+    "unreviewed_annotations": 12,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 85696
+   },
+   "title": "Take Care (Medley)",
+   "title_with_featured": "Take Care (Medley)",
+   "url": "https://genius.com/Somo-take-care-medley-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/50384",
+    "header_image_url": "https://images.genius.com/b8414fd6cf0573f8d86c3d8dc7183e04.1000x625x1.jpg",
+    "id": 50384,
+    "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "SoMo",
+    "url": "https://genius.com/artists/Somo",
+    "iq": 120
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/78497/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_78497' class='rg_embed_link' data-song-id='78497'>Read <a href='https://genius.com/Somo-take-care-medley-lyrics'>\u201cTake Care (Medley)\u201d by SoMo</a> on Genius</div> <script crossorigin src='//genius.com/songs/78497/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-11-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 113695,
+    "annotator_login": "LexiShowEm",
+    "api_path": "/referents/3775302",
+    "classification": "needs_exegesis",
+    "fragment": "Take Care (Medley)",
+    "id": 3775302,
+    "is_description": true,
+    "path": "/3775302/Somo-take-care-medley/Take-care-medley",
+    "range": {
+     "content": "Take Care (Medley)"
+    },
+    "song_id": 78497,
+    "url": "https://genius.com/3775302/Somo-take-care-medley/Take-care-medley",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/78497",
+     "client_timestamps": {
+      "updated_by_human_at": 1682298093,
+      "lyrics_updated_at": 1531841668
+     },
+     "context": "SoMo",
+     "id": 78497,
+     "image_url": "https://images.genius.com/f8eba8172b26d90367e83d900292438d.400x400x1.jpg",
+     "link_title": "Take Care (Medley) by\u00a0SoMo",
+     "title": "Take Care (Medley)",
+     "type": "Song",
+     "url": "https://genius.com/Somo-take-care-medley-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3775302",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3775302,
+      "pinned": false,
+      "share_url": "https://genius.com/3775302",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3775302/Somo-take-care-medley/Take-care-medley",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/113695",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 113695,
+         "iq": 670,
+         "login": "LexiShowEm",
+         "name": "LexiShowEm",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LexiShowEm",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "officialsomo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/officialsomo/take-care-drake-medley"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Bq6uRfREW5k"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "SoMo",
+   "lyrics": "12 ContributorsTake Care (Medley) LyricsI might be too strung out on compliments..\nOverdosed on confidence..\nStarted not to give a fuck and stopped fearing the consequence\nDrinking every night because we drink to my accomplishments..\nFaded way too long, I'm floating in and out of consciousness\nAnd they sayin' I'm back, I'd agree with that\nI just take my time with all this shit, I still believe in that\nI had someone tell me I fell off, ooh I needed that\nAnd they want to see me pick back up, well where'd I leave it at?\n\nI said I'm on one..\nSoMo is on one..\nYeah, I said I'm on one..\nSoMo is on one..\nSo, take a shot for me..\nWoah, woah, woah\nWoah, woah, woah\nTake a shot for me..\nWoah, woah\nTake a shot for me..\nWoah, woah\nTake a shot for me..\n\nOkay, look, I'm honest..\nGirl I can't lie, I miss you\nYou and the music were the only things that I commit to\nI never cheated for the record, back when I was with you..\nNo. No..\nYou might also likeCause you shut it down, down, down..\nYeah, you shut it down, down..\nYou were the baddest girl around, round, round..\nAnd they notice, and I know this\nThat when a good thing goes bad, it's not the end of the world..\nIt's just the end of a world, that you had with one girl..\nAnd she's the reason it happened, but she's overreacting..\nAnd it's all because she don't want things to change\n\nI know things get hard..\nBut girl you got it, girl you got it there you go\nCan't you tell by how they looking at you everywhere you go..\nWondering what's on your mind, it must be hard to be that fine\nWhen all these motherfucka's want to waste your time\nIt's just amazing girl, and all I can say is..\n\nI'm so, I'm so, I'm so proud of you\nI'm so, I'm so, I'm so proud of you\nI'm so, I'm so, I'm so proud of you\nEverything's adding up, you've been through hell and back\nThat's why you're bad as fuck..\nYou know you are..\nOoh, you know you are ooh..\n\nGirl, you look good, won't you back that ass up..\nYou a fine motherfucka, won't you back that ass up..\nCall me Big daddy, won't you back that ass up..\nGirl who is you playing with, back that ass up\nYou working with some ass yeah, you bad yeah, oh, oh, oh..\nSaid you working with some ass yeah, you bad yeah..\nI know he messed up..\nBut a let a real singa make it right..\nLet a real singa make it right, you deserve that much..\nLet me put something in your life\nLet me put something in your life, put something in your life\nYou telling me it's only been a couple other people that you've been with\nI'ma trust you I'ma give you the benefit of the doubt, And I'ma love you\nYou can even call me daddy, give you someone to look up to.. Woahhh\n\nThey know, they know, they know..\nThey know, they know, they know..\nThey know, they know, they know..\nThey know..\n\nThat I'm on one..\nSoMo is on one..\nOn one..\nSaid I'm on one..\nSoMo is on one..\nSo, take a shot for me..\nWoah, woah, woah\nWoah, woah, woah\nTake a shot for me..\nWoah, woah\nTake a shot for me..\nWoah, and stop asking me\nDo you love this shit?\nAre you high right now?\nDo you ever get nervous?\nAre you single?\nI heard you loved, your girl, is it true?\nYou getting money?\nYou think them boys you with is with you?\nAnd I say..\n\nHell yeah..\nHell yeah, hell yeah..\nFuckin' right\nFuckin' right, all right\n(And we say) Hell yeah..\nHell yeah, hell yeah..\nFuckin' right\nFuckin' right, all right\nWoah, all night, oh\n\nSometimes I need that romance, sometimes I need that pole dance\nSometimes I need that stripper that's gon' tell me that she don't dance..\nTell me lies, make it sound good, make it sound good\nDo me like the women from my town would\nDo it for my city, cause you know the city love a singa..\nDo it for that city, cause you know the city love a singa..\nDo it for a city, cause you know the city love a singa..\nDo it for the city, (UGK fuck these other singa's)\nI said I'm on one..\nSoMo is on one\nI said I'm on one..\nSoMo is on one\n\nSo, take a shot for me..\nI'm trying to let go of the past\nShould we make this one a double?\nYou ain't even gotta ask, Ahh..\nCause it's hard to say no, say no..\nYeah, it's hard to say no\nAre you down, are you down? Yeah, you all the way down, every time..\nAm I down, am I down? Yeah, I'm all the way down, We'll be fine..\nAre you down, are you down? Yeah, you all the way down, every time..\nAm I down, am I down? Yeah, I'm all the way down, We'll be fine..\n\nSo, take a shot for me..\n\nTAKE CARE23Embed"
+  }
+ ]
+}

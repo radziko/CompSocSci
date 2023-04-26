@@ -1,0 +1,2071 @@
+{
+ "alternate_names": [
+  "Markeyvius LaShun Cathey",
+  "Glizock",
+  "Markeyvius Cathey"
+ ],
+ "api_path": "/artists/1158427",
+ "description": {
+  "plain": "Key Glock (b. August 3rd, 1997) is a rap artist from Memphis. He is the prot\u00e9g\u00e9 of Young Dolph and is signed to Paper Route Empire. In 2017 he released his debut mixtape Glock Season."
+ },
+ "facebook_name": null,
+ "followers_count": 114,
+ "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+ "id": 1158427,
+ "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+ "instagram_name": "keyglock",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Key Glock",
+ "translation_artist": false,
+ "twitter_name": "KeyGLOCK",
+ "url": "https://genius.com/artists/Key-glock",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 348,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1632082,
+  "annotator_login": "PayolaClot",
+  "api_path": "/referents/12179025",
+  "classification": "accepted",
+  "fragment": "Key Glock",
+  "id": 12179025,
+  "is_description": true,
+  "path": "/12179025/Key-glock/Key-glock",
+  "range": {
+   "content": "Key Glock"
+  },
+  "song_id": null,
+  "url": "https://genius.com/12179025/Key-glock/Key-glock",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1158427",
+   "context": null,
+   "id": 1158427,
+   "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+   "link_title": "Key Glock",
+   "title": "Key Glock",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Key-glock"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/12179025",
+    "body": {
+     "plain": "Key Glock (b. August 3rd, 1997) is a rap artist from Memphis. He is the prot\u00e9g\u00e9 of Young Dolph and is signed to Paper Route Empire. In 2017 he released his debut mixtape Glock Season."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 12179025,
+    "pinned": false,
+    "share_url": "https://genius.com/12179025",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/12179025/Key-glock/Key-glock",
+    "verified": false,
+    "votes_total": 31,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5714285714285715,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1632082",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/efcc410605b42bda7272f1156a171ef9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/efcc410605b42bda7272f1156a171ef9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/efcc410605b42bda7272f1156a171ef9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/efcc410605b42bda7272f1156a171ef9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/efcc410605b42bda7272f1156a171ef9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1632082,
+       "iq": 5639,
+       "login": "PayolaClot",
+       "name": "PayolaClot",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/PayolaClot",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3142857142857143,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 2709645,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.11428571428571428,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3082806",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/01b5f544fdf3360a54e7705b282587c9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/01b5f544fdf3360a54e7705b282587c9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/01b5f544fdf3360a54e7705b282587c9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/01b5f544fdf3360a54e7705b282587c9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/cysa5nnlq3d",
+       "human_readable_role_for_display": "Transcriber",
+       "id": 3082806,
+       "iq": 279361,
+       "login": "DivingBoard",
+       "name": "DivingBoard",
+       "role_for_display": "transcriber",
+       "url": "https://genius.com/DivingBoard",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/7213511",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/172b7ee0fc2cefe71eaf145eb6597ee8",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/172b7ee0fc2cefe71eaf145eb6597ee8",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/172b7ee0fc2cefe71eaf145eb6597ee8",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/172b7ee0fc2cefe71eaf145eb6597ee8",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 7213511,
+  "iq": 348,
+  "login": "keyglockofficial",
+  "name": "Key Glock",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/keyglockofficial",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/3465481",
+   "artist_names": "Key Glock",
+   "full_title": "Russian Cream by\u00a0Key\u00a0Glock",
+   "header_image_thumbnail_url": "https://images.genius.com/416548fc1a1583b13003bf70c488ff8a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/416548fc1a1583b13003bf70c488ff8a.500x500x1.jpg",
+   "id": 3465481,
+   "language": "en",
+   "lyrics_owner_id": 2411116,
+   "lyrics_state": "complete",
+   "path": "/Key-glock-russian-cream-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Key-glock-russian-cream-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 1,
+    "day": 24
+   },
+   "release_date_for_display": "January 24, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jan. 24, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/416548fc1a1583b13003bf70c488ff8a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/416548fc1a1583b13003bf70c488ff8a.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 5,
+    "contributors": 31,
+    "iq_earners": 31,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 6,
+    "hot": false,
+    "pageviews": 257183
+   },
+   "title": "Russian Cream",
+   "title_with_featured": "Russian Cream",
+   "url": "https://genius.com/Key-glock-russian-cream-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1158427",
+    "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+    "id": 1158427,
+    "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Key Glock",
+    "url": "https://genius.com/artists/Key-glock",
+    "iq": 348
+   },
+   "apple_music_id": "1339444901",
+   "apple_music_player_url": "https://genius.com/songs/3465481/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3465481' class='rg_embed_link' data-song-id='3465481'>Read <a href='https://genius.com/Key-glock-russian-cream-lyrics'>\u201cRussian Cream\u201d by Key\u00a0Glock</a> on Genius</div> <script crossorigin src='//genius.com/songs/3465481/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-01-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/396830",
+    "cover_art_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.1000x1000x1.jpg",
+    "full_title": "Glock Bond by Key Glock",
+    "id": 396830,
+    "name": "Glock Bond",
+    "release_date_for_display": "February 2, 2018",
+    "url": "https://genius.com/albums/Key-glock/Glock-bond",
+    "artist": {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/997702",
+       "header_image_url": "https://images.genius.com/19891361aafef665d48803a1a38dab24.1000x1000x1.jpg",
+       "id": 997702,
+       "image_url": "https://images.genius.com/19891361aafef665d48803a1a38dab24.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KD Designz",
+       "url": "https://genius.com/artists/Kd-designz"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1587794",
+       "header_image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "id": 1587794,
+       "image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ari Morris",
+       "url": "https://genius.com/artists/Ari-morris"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/1587794",
+       "header_image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "id": 1587794,
+       "image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ari Morris",
+       "url": "https://genius.com/artists/Ari-morris"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1903287",
+       "header_image_url": "https://images.genius.com/5a3700e0e92f2f3efcd243fbc7690f5f.638x212x1.png",
+       "id": 1903287,
+       "image_url": "https://images.genius.com/4c86e1308ab724033a42aa9fcc3b86e8.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paper Route Empire",
+       "url": "https://genius.com/artists/Paper-route-empire"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 54639,
+    "annotator_login": "WriteNProppa",
+    "api_path": "/referents/25085509",
+    "classification": "needs_exegesis",
+    "fragment": "Russian Cream",
+    "id": 25085509,
+    "is_description": true,
+    "path": "/25085509/Key-glock-russian-cream/Russian-cream",
+    "range": {
+     "content": "Russian Cream"
+    },
+    "song_id": 3465481,
+    "url": "https://genius.com/25085509/Key-glock-russian-cream/Russian-cream",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3465481",
+     "client_timestamps": {
+      "updated_by_human_at": 1667015900,
+      "lyrics_updated_at": 1648421963
+     },
+     "context": "Key Glock",
+     "id": 3465481,
+     "image_url": "https://images.genius.com/416548fc1a1583b13003bf70c488ff8a.500x500x1.jpg",
+     "link_title": "Russian Cream by\u00a0Key\u00a0Glock",
+     "title": "Russian Cream",
+     "type": "Song",
+     "url": "https://genius.com/Key-glock-russian-cream-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25085509",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25085509,
+      "pinned": false,
+      "share_url": "https://genius.com/25085509",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25085509/Key-glock-russian-cream/Russian-cream",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/54639",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "human_readable_role_for_display": "Staff",
+         "id": 54639,
+         "iq": 2709645,
+         "login": "WriteNProppa",
+         "name": "WriteNProppa",
+         "role_for_display": "staff",
+         "url": "https://genius.com/WriteNProppa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=qd-fzwFpXY0"
+    },
+    {
+     "native_uri": "spotify:track:03ThZweiBWFP8tOGsk6QMO",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/03ThZweiBWFP8tOGsk6QMO"
+    },
+    {
+     "attribution": "key glock1",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/key-glock1/russian-creme?in=key-glock1/sets/glock-bond-1"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/270426",
+     "header_image_url": "https://images.genius.com/8166447e365fbe744e7d310c2732cc01.1000x750x1.jpg",
+     "id": 270426,
+     "image_url": "https://images.genius.com/7382c9cfcbb4baf5fe66984901e4336d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tay Keith",
+     "url": "https://genius.com/artists/Tay-keith",
+     "iq": 112
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/4920568",
+       "artist_names": "SlyKooper",
+       "full_title": "Russian Kreme by\u00a0SlyKooper",
+       "header_image_thumbnail_url": "https://images.genius.com/54ab9dd65d964677be2a0f8fcd7f3903.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/54ab9dd65d964677be2a0f8fcd7f3903.800x800x1.jpg",
+       "id": 4920568,
+       "language": "en",
+       "lyrics_owner_id": 6659591,
+       "lyrics_state": "complete",
+       "path": "/Slykooper-russian-kreme-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Slykooper-russian-kreme-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 8,
+        "day": 18
+       },
+       "release_date_for_display": "August 18, 2018",
+       "release_date_with_abbreviated_month_for_display": "Aug. 18, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/54ab9dd65d964677be2a0f8fcd7f3903.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/54ab9dd65d964677be2a0f8fcd7f3903.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Russian Kreme",
+       "title_with_featured": "Russian Kreme",
+       "url": "https://genius.com/Slykooper-russian-kreme-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1969513",
+        "header_image_url": "https://images.genius.com/adb6e3f65044bf15a5cc1336b3365cdd.1000x566x60.gif",
+        "id": 1969513,
+        "image_url": "https://images.genius.com/f7845ed824e20a0c54ce3e9ae1a4dbb1.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "SlyKooper",
+        "url": "https://genius.com/artists/Slykooper",
+        "iq": 2532
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/7213511",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/172b7ee0fc2cefe71eaf145eb6597ee8",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/172b7ee0fc2cefe71eaf145eb6597ee8",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/172b7ee0fc2cefe71eaf145eb6597ee8",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/172b7ee0fc2cefe71eaf145eb6597ee8",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7213511,
+     "iq": 348,
+     "login": "keyglockofficial",
+     "name": "Key Glock",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/keyglockofficial",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1158427",
+      "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+      "id": 1158427,
+      "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Key Glock",
+      "url": "https://genius.com/artists/Key-glock",
+      "iq": 348
+     },
+     "user": {
+      "api_path": "/users/7213511",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/172b7ee0fc2cefe71eaf145eb6597ee8",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/172b7ee0fc2cefe71eaf145eb6597ee8",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/172b7ee0fc2cefe71eaf145eb6597ee8",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/172b7ee0fc2cefe71eaf145eb6597ee8",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 7213511,
+      "iq": 348,
+      "login": "keyglockofficial",
+      "name": "Key Glock",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/keyglockofficial",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/270426",
+     "header_image_url": "https://images.genius.com/8166447e365fbe744e7d310c2732cc01.1000x750x1.jpg",
+     "id": 270426,
+     "image_url": "https://images.genius.com/7382c9cfcbb4baf5fe66984901e4336d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tay Keith",
+     "url": "https://genius.com/artists/Tay-keith",
+     "iq": 112
+    },
+    {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   ],
+   "artist": "Key Glock",
+   "lyrics": "31 ContributorsRussian Cream Lyrics[Verse 1: Key Glock & Lil Juice]\nI got big rocks jumpin' out my brand new Patek watch\nIce ice baby, uh-huh, I got a whole lot\nNigga, you's a nobody, you ain't got no bodies\nThese niggas they know 'bout it, these niggas know 'bout me (Tay Keith, fuck these niggas up)\n\n[Chorus]\nStep up on the scene\nDiamonds bling, these hoes scream\nCheckerboard Louie V\nI'm so fresh and so clean clean\nStuff them bands in my jeans\nSlap them thirties in them things\nPull the trigger, let it sing\nThen go smoke a Russian cream\n\n[Verse 2]\nI got money blue and green\nDrop them racks on double G's\nYeah, I'm a Gucci fiend\nFeel like Tarzan, all these trees\nI get so high I can't breathe\nLike LeBron, bitch, I'm a king\nBut I never leave my heat\nYeah, what the fuck you mean?\nHop in and hear the exhaust\nHit the gas, watch me get lost\nTell that bitch keep on her drawers, yeah\nYeah, 'cause you know I want them jaws, yeah\nNo, you can't text or can't call, no\nI got a bitch at the house, yeah\nGive that ho straight to my dawg, yeah\nDunk that ho like basketball, uh\nYou know I'm all 'bout my figures\nYoung nigga gettin' them digits\nYoung niggas goin' gorilla\nI heard you be talkin' that pillow\nBoy you know you not no killer\nMy chopper eat niggas for dinner\nMy diamonds is ill, make you shiver\nThis codeine is eatin' my liver\nUh, duh, I drink mud, yuh, pourin' just because\nOn my rose I spent a dub, yuh, shinin' like a bug\nBuy that shit, don't give a fuck\nYeah, this hustlin' in my blood\nMy heart cold, can't show no love\nYeah, my grandma raised a thug\nYeah, I bought them racks out\nEverything I cashed out\nLeft the lot, I smashed out\nCome get your boss and cash out\nGet high 'til I pass out\nFrom the back, she pass out\nPull her tracks, she tap out\nBig Glock make her spazz out\nYou might also like[Chorus]\nStep up on the scene\nDiamonds bling, these hoes scream\nCheckerboard Louie V\nI'm so fresh and so clean clean\nStuff them bands in my jeans\nSlap them thirties in them things\nPull the trigger, let it sing\nThen go smoke a Russian cream7Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/4108855",
+   "artist_names": "Key Glock",
+   "full_title": "Since 6ix by\u00a0Key\u00a0Glock",
+   "header_image_thumbnail_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.1000x1000x1.jpg",
+   "id": 4108855,
+   "language": "en",
+   "lyrics_owner_id": 54639,
+   "lyrics_state": "complete",
+   "path": "/Key-glock-since-6ix-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Key-glock-since-6ix-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 11,
+    "day": 23
+   },
+   "release_date_for_display": "November 23, 2018",
+   "release_date_with_abbreviated_month_for_display": "Nov. 23, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 23,
+    "iq_earners": 23,
+    "transcribers": 1,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 69355
+   },
+   "title": "Since 6ix",
+   "title_with_featured": "Since 6ix",
+   "url": "https://genius.com/Key-glock-since-6ix-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1158427",
+    "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+    "id": 1158427,
+    "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Key Glock",
+    "url": "https://genius.com/artists/Key-glock",
+    "iq": 348
+   },
+   "apple_music_id": "1442149117",
+   "apple_music_player_url": "https://genius.com/songs/4108855/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4108855' class='rg_embed_link' data-song-id='4108855'>Read <a href='https://genius.com/Key-glock-since-6ix-lyrics'>\u201cSince 6ix\u201d by Key\u00a0Glock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4108855/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-11-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/481964",
+    "cover_art_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.1000x1000x1.jpg",
+    "full_title": "Glockoma by Key Glock",
+    "id": 481964,
+    "name": "Glockoma",
+    "release_date_for_display": "November 23, 2018",
+    "url": "https://genius.com/albums/Key-glock/Glockoma",
+    "artist": {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/1587794",
+       "header_image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "id": 1587794,
+       "image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ari Morris",
+       "url": "https://genius.com/artists/Ari-morris"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1903287",
+       "header_image_url": "https://images.genius.com/5a3700e0e92f2f3efcd243fbc7690f5f.638x212x1.png",
+       "id": 1903287,
+       "image_url": "https://images.genius.com/4c86e1308ab724033a42aa9fcc3b86e8.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paper Route Empire",
+       "url": "https://genius.com/artists/Paper-route-empire"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6154742,
+    "annotator_login": "adlib_genius",
+    "api_path": "/referents/15849801",
+    "classification": "needs_exegesis",
+    "fragment": "Since 6ix",
+    "id": 15849801,
+    "is_description": true,
+    "path": "/15849801/Key-glock-since-6ix/Since-6ix",
+    "range": {
+     "content": "Since 6ix"
+    },
+    "song_id": 4108855,
+    "url": "https://genius.com/15849801/Key-glock-since-6ix/Since-6ix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4108855",
+     "client_timestamps": {
+      "updated_by_human_at": 1678684165,
+      "lyrics_updated_at": 1649497987
+     },
+     "context": "Key Glock",
+     "id": 4108855,
+     "image_url": "https://images.genius.com/bb6fa260a065e7fee8273470006f711d.1000x1000x1.jpg",
+     "link_title": "Since 6ix by\u00a0Key\u00a0Glock",
+     "title": "Since 6ix",
+     "type": "Song",
+     "url": "https://genius.com/Key-glock-since-6ix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15849801",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15849801,
+      "pinned": false,
+      "share_url": "https://genius.com/15849801",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15849801/Key-glock-since-6ix/Since-6ix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6154742",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f7bf3d6023cb820120408bd6de6238b3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f7bf3d6023cb820120408bd6de6238b3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f7bf3d6023cb820120408bd6de6238b3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f7bf3d6023cb820120408bd6de6238b3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f7bf3d6023cb820120408bd6de6238b3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6154742,
+         "iq": 5313,
+         "login": "adlib_genius",
+         "name": "adlib_genius",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/adlib_genius",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/54639",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "human_readable_role_for_display": "Staff",
+    "id": 54639,
+    "iq": 2709645,
+    "login": "WriteNProppa",
+    "name": "WriteNProppa",
+    "role_for_display": "staff",
+    "url": "https://genius.com/WriteNProppa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "key glock1",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/key-glock1/since-6ix?in=key-glock1/sets/glockoma"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bt465MBYW3Q"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1647172",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1647172,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "2LeftHands",
+     "url": "https://genius.com/artists/2lefthands"
+    },
+    {
+     "api_path": "/artists/270426",
+     "header_image_url": "https://images.genius.com/8166447e365fbe744e7d310c2732cc01.1000x750x1.jpg",
+     "id": 270426,
+     "image_url": "https://images.genius.com/7382c9cfcbb4baf5fe66984901e4336d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tay Keith",
+     "url": "https://genius.com/artists/Tay-keith",
+     "iq": 112
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/8393646",
+       "artist_names": "CANOA (Ft. Psilokyd)",
+       "full_title": "Rookies by\u00a0CANOA (Ft.\u00a0Psilokyd)",
+       "header_image_thumbnail_url": "https://images.genius.com/24e7cfb95332e3c45986544459baec9b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/24e7cfb95332e3c45986544459baec9b.500x500x1.jpg",
+       "id": 8393646,
+       "language": "en",
+       "lyrics_owner_id": 13439128,
+       "lyrics_state": "complete",
+       "path": "/Canoa-rookies-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Canoa-rookies-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 25
+       },
+       "release_date_for_display": "March 25, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 25, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/24e7cfb95332e3c45986544459baec9b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/24e7cfb95332e3c45986544459baec9b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Rookies",
+       "title_with_featured": "Rookies (Ft.\u00a0Psilokyd)",
+       "url": "https://genius.com/Canoa-rookies-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3296864",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 3296864,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Psilokyd",
+         "url": "https://genius.com/artists/Psilokyd"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3296865",
+        "header_image_url": "https://images.genius.com/ff00fd9c8797704efbfdf21b612543b9.596x172x1.jpg",
+        "id": 3296865,
+        "image_url": "https://images.genius.com/b63ed6ef476f15702f04b4ab34951826.558x558x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "CANOA",
+        "url": "https://genius.com/artists/Canoa"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/6631045",
+       "artist_names": "Young Dolph & Key Glock",
+       "full_title": "What u see is what u get by\u00a0Young\u00a0Dolph & Key Glock",
+       "header_image_thumbnail_url": "https://images.genius.com/b638ee1862301b1a2d3999bfd5e22392.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b638ee1862301b1a2d3999bfd5e22392.1000x1000x1.png",
+       "id": 6631045,
+       "language": "en",
+       "lyrics_owner_id": 8299558,
+       "lyrics_state": "complete",
+       "path": "/Young-dolph-and-key-glock-what-u-see-is-what-u-get-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Young-dolph-and-key-glock-what-u-see-is-what-u-get-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 3,
+        "day": 26
+       },
+       "release_date_for_display": "March 26, 2021",
+       "release_date_with_abbreviated_month_for_display": "Mar. 26, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b638ee1862301b1a2d3999bfd5e22392.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b638ee1862301b1a2d3999bfd5e22392.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 23019
+       },
+       "title": "What u see is what u get",
+       "title_with_featured": "What u see is what u get",
+       "url": "https://genius.com/Young-dolph-and-key-glock-what-u-see-is-what-u-get-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1889472",
+        "header_image_url": "https://images.genius.com/db2b167f4d3683ae127a8e843720c474.949x949x1.jpg",
+        "id": 1889472,
+        "image_url": "https://images.genius.com/db2b167f4d3683ae127a8e843720c474.949x949x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Young Dolph & Key Glock",
+        "url": "https://genius.com/artists/Young-dolph-and-key-glock"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/270426",
+     "header_image_url": "https://images.genius.com/8166447e365fbe744e7d310c2732cc01.1000x750x1.jpg",
+     "id": 270426,
+     "image_url": "https://images.genius.com/7382c9cfcbb4baf5fe66984901e4336d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tay Keith",
+     "url": "https://genius.com/artists/Tay-keith",
+     "iq": 112
+    },
+    {
+     "api_path": "/artists/1647172",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1647172,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "2LeftHands",
+     "url": "https://genius.com/artists/2lefthands"
+    },
+    {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   ],
+   "artist": "Key Glock",
+   "lyrics": "23 ContributorsSince 6ix Lyrics[Chorus]\nI was just 6, playin' with sticks, yeah\nI ran it up, now I'm lit, yeah\nNow this young nigga gettin' rich, yeah\nI used to take shit like the Grinch, yeah (Take somethin')\nShit don't make no sense, uh (No)\nBoy your pockets full of lint, and (Broke)\nNigga ain't talkin' 'bout shit (No)\nThem lil' ass diamonds, yeah I had to squint, yeah\n(Tay Keith, fuck these niggas up)\nI hit your bitch, leave a dent, ooh\nDrivin' the Bent' like it's rented, ooh (Skrrt)\nKillin' shit, give me a sentence, ooh (Killin' shit)\nBad as fuck, Dennis the Menace, ooh (Glock)\nI bought my chopper some titties, ooh\nI got no top and no feelings, ooh (Skrrt)\nYoung nigga give you the business, uh (Yeah)\nSince I was 6, I been with it (Yeah)\n\n[Verse]\nBitch I been gettin' it (Yeah)\nYoung nigga and I got plenty (Yeah)\nHundreds and fifties and twenties (Yeah)\nStackin' my digits (Yeah)\nHot like a motherfuckin' skillet (Yeah)\nDon't put your hands on me, Willy (Hah)\nSwaggin' and spillin' (Sauce)\nDrippin' in Gucci, Givenchy (Drip)\nLouis Vuitton decisions\nCartier lenses, I paid a rack for my vision (Yeah, yeah, yeah)\nI see you niggas bullshittin', my diamonds hittin'\nBitches fallin' out like Wendy, ooh, Wendy Williams\nLord forgive me but I'm oh so serious, ooh\nI be walkin', same time swimmin', my neck wet just like a pool\nSpent a whole hundred rack on tenni's, not talkin' 'bout shoes\nBut I did spend a twenty with my crew and made the news (No cap)\nThen I got this shit right back after I bust a couple moves (No cap)\nThen I bought a couple jewels, they like, \"Glock, you a fool\" (Yeah)\nBitch ain't nothin' new but these motherfuckin' blues (Bitch)\nYou might also like[Chorus]\nI was just 6, playin' with sticks, yeah (Glizzock)\nI ran it up, now I'm lit, yeah\nNow this young nigga gettin' rich, yeah\nI used to take shit like the Grinch, yeah (Take somethin')\nShit don't make no sense, uh (No)\nBoy your pockets full of lint, and (Broke)\nNigga ain't talkin' 'bout shit (No)\nThem lil' ass diamonds, yeah I had to squint, yeah\nI hit your bitch, leave a dent, ooh\nDrivin' the Bent' like it's rented, ooh (Skrrt)\nKillin' shit, give me a sentence, ooh (Killin' shit)\nBad as fuck, Dennis the Menace, ooh (Glock)\nI bought my chopper some titties, ooh\nI got no top and no feelings, ooh (Skrrt)\nYoung nigga give you the business, uh (Yeah)\nSince I was 6, I been with it (Ever since I was 6)\n\n[Bridge]\nNo I never ever trust a bitch, nah (No)\nThe last time I did, I was 6, yeah (6)\nI hit a ho and get away quick, uh (Gone)\nYoung nigga smooth like silk, yeah\nIce so cold, need a coat, yeah (Ice so cold)\nI'm so high, no pimp (High)\nI walk like a pimp, yeah (I walk like a, drip)\nBankroll make me limp, yeah\n[Chorus]\nI was just 6, playin' with sticks, yeah\nI ran it up, now I'm lit, yeah\nNow this young nigga gettin' rich, yeah\nI used to take shit like the Grinch, yeah (Take somethin')\nShit don't make no sense, uh (No)\nBoy your pockets full of lint, and (Broke)\nNigga ain't talkin' 'bout shit (No)\nThem lil' ass diamonds, yeah I had to squint, yeah\nI hit your bitch, leave a dent, ooh\nDrivin' the Bent' like it's rented, ooh (Skrrt)\nKillin' shit, give me a sentence, ooh (Killin' shit)\nBad as fuck, Dennis the Menace, ooh (Glock)\nI bought my chopper some titties, ooh\nI got no top and no feelings, ooh (Skrrt)\nYoung nigga give you the business, uh (Yeah)\nSince I was 6, I been with it (Glock)3Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/3481198",
+   "artist_names": "Key Glock",
+   "full_title": "Hot by\u00a0Key\u00a0Glock",
+   "header_image_thumbnail_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.1000x1000x1.jpg",
+   "id": 3481198,
+   "language": "en",
+   "lyrics_owner_id": 54639,
+   "lyrics_state": "complete",
+   "path": "/Key-glock-hot-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Key-glock-hot-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 2,
+    "day": 2
+   },
+   "release_date_for_display": "February 2, 2018",
+   "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 69308
+   },
+   "title": "Hot",
+   "title_with_featured": "Hot",
+   "url": "https://genius.com/Key-glock-hot-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1158427",
+    "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+    "id": 1158427,
+    "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Key Glock",
+    "url": "https://genius.com/artists/Key-glock",
+    "iq": 348
+   },
+   "apple_music_id": "1339444803",
+   "apple_music_player_url": "https://genius.com/songs/3481198/apple_music_player",
+   "description": {
+    "plain": "Memphis rapper Key Glock has come out with his second mixtape after being put on the scene by his cousin Young Dolph. Hot is the opening track on the mixtape and deals with Glock\u2019s daily affairs from bagging money, catching bodies, jeweling up and getting head. Hot is a great 1st track for a mixtape as it is stylish, exhibits Glock\u2019s unique voice and doesn\u2019t fail to sway the listener."
+   },
+   "embed_content": "<div id='rg_embed_link_3481198' class='rg_embed_link' data-song-id='3481198'>Read <a href='https://genius.com/Key-glock-hot-lyrics'>\u201cHot\u201d by Key\u00a0Glock</a> on Genius</div> <script crossorigin src='//genius.com/songs/3481198/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-02-02",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/396830",
+    "cover_art_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.1000x1000x1.jpg",
+    "full_title": "Glock Bond by Key Glock",
+    "id": 396830,
+    "name": "Glock Bond",
+    "release_date_for_display": "February 2, 2018",
+    "url": "https://genius.com/albums/Key-glock/Glock-bond",
+    "artist": {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/997702",
+       "header_image_url": "https://images.genius.com/19891361aafef665d48803a1a38dab24.1000x1000x1.jpg",
+       "id": 997702,
+       "image_url": "https://images.genius.com/19891361aafef665d48803a1a38dab24.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KD Designz",
+       "url": "https://genius.com/artists/Kd-designz"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1587794",
+       "header_image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "id": 1587794,
+       "image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ari Morris",
+       "url": "https://genius.com/artists/Ari-morris"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/1587794",
+       "header_image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "id": 1587794,
+       "image_url": "https://images.genius.com/a79a33cbbaebfebd40af353c843202ef.371x371x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ari Morris",
+       "url": "https://genius.com/artists/Ari-morris"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1903287",
+       "header_image_url": "https://images.genius.com/5a3700e0e92f2f3efcd243fbc7690f5f.638x212x1.png",
+       "id": 1903287,
+       "image_url": "https://images.genius.com/4c86e1308ab724033a42aa9fcc3b86e8.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paper Route Empire",
+       "url": "https://genius.com/artists/Paper-route-empire"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5400594,
+    "annotator_login": "OFFICIALSAINtMARC",
+    "api_path": "/referents/13726088",
+    "classification": "accepted",
+    "fragment": "Hot",
+    "id": 13726088,
+    "is_description": true,
+    "path": "/13726088/Key-glock-hot/Hot",
+    "range": {
+     "content": "Hot"
+    },
+    "song_id": 3481198,
+    "url": "https://genius.com/13726088/Key-glock-hot/Hot",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3481198",
+     "client_timestamps": {
+      "updated_by_human_at": 1581297619,
+      "lyrics_updated_at": 1537465393
+     },
+     "context": "Key Glock",
+     "id": 3481198,
+     "image_url": "https://images.genius.com/ef0ffb61e05a49e8bd66f3e682f4c184.1000x1000x1.jpg",
+     "link_title": "Hot by\u00a0Key\u00a0Glock",
+     "title": "Hot",
+     "type": "Song",
+     "url": "https://genius.com/Key-glock-hot-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13726088",
+      "body": {
+       "plain": "Memphis rapper Key Glock has come out with his second mixtape after being put on the scene by his cousin Young Dolph. Hot is the opening track on the mixtape and deals with Glock\u2019s daily affairs from bagging money, catching bodies, jeweling up and getting head. Hot is a great 1st track for a mixtape as it is stylish, exhibits Glock\u2019s unique voice and doesn\u2019t fail to sway the listener."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13726088,
+      "pinned": false,
+      "share_url": "https://genius.com/13726088",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13726088/Key-glock-hot/Hot",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5400594",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9736825b125ec3568dc04c6ab194da07",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9736825b125ec3568dc04c6ab194da07",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9736825b125ec3568dc04c6ab194da07",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9736825b125ec3568dc04c6ab194da07",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/u3g7ht9el3q",
+         "human_readable_role_for_display": "Editor",
+         "id": 5400594,
+         "iq": 8411,
+         "login": "OFFICIALSAINtMARC",
+         "name": "OFFICIALSAINtMARC",
+         "role_for_display": "editor",
+         "url": "https://genius.com/OFFICIALSAINtMARC",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZJmJHhZxoK0"
+    },
+    {
+     "attribution": "key glock1",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/key-glock1/hot-1?in=key-glock1/sets/glock-bond-1"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1364922",
+     "header_image_url": "https://images.genius.com/d23efb670e6997dbed545f53b6511b12.1000x1000x1.png",
+     "id": 1364922,
+     "image_url": "https://images.genius.com/d23efb670e6997dbed545f53b6511b12.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jabz (Producer)",
+     "url": "https://genius.com/artists/Jabz-producer"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1364922",
+     "header_image_url": "https://images.genius.com/d23efb670e6997dbed545f53b6511b12.1000x1000x1.png",
+     "id": 1364922,
+     "image_url": "https://images.genius.com/d23efb670e6997dbed545f53b6511b12.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jabz (Producer)",
+     "url": "https://genius.com/artists/Jabz-producer"
+    },
+    {
+     "api_path": "/artists/1158427",
+     "header_image_url": "https://images.genius.com/c86b53e6900dde99e77375469ba08b3f.803x1000x1.jpg",
+     "id": 1158427,
+     "image_url": "https://images.genius.com/a70d0e21e3e2fa2cc65f75c01c04cb85.875x875x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Key Glock",
+     "url": "https://genius.com/artists/Key-glock",
+     "iq": 348
+    }
+   ],
+   "artist": "Key Glock",
+   "lyrics": "9 ContributorsHot Lyrics[Intro]\nHey\nHey I know I'm hot\nAnd you not, hah\n\n[Chorus]\nAll these niggas say they hot, shit you must not heard of Glock\nMister pull up let it pop, mister don't play 'bout his guap\nAnd ever since a tot I been playin' 'round with them blocks\nClose your legs, ho give me top, and my coupe cruise like a yacht\nPipe down lil nigga, you ain't hot\nI just left the lot, yeah you know I gets a lot\nVery large amounts, yeah you know what I'm about\nNo we don't play around, get 'em in and get 'em out\n\n[Verse 1]\nGoddamn all this water got me drowning\nVVS's, forty thousand my medallion\nI been fly bitch, I don't need no pilot\nEvery time I'm Gucci'd down, I be styling\nRacks for my shirt, belt, and shoes, I'm fresher than you\nJust pulled up in the coupe, had the kids like ooh\nNo I don't wear no Trues, but my pockets on Buddha\nMy chopper got a cooler, pull up, we bust your medula\nGoddamn Lil Glock, you too hot\nHow you wreck your Benz and get another drop?\nHow you put all of them diamonds in your watch?\nWhy the fuck you go and get another charm?\nYou might also like[Chorus]\nAll these niggas say they hot, shit you must not heard of Glock\nMister pull up let it pop, mister don't play 'bout his guap\nAnd ever since a tot I been playin' 'round with them blocks\nClose your legs, ho give me top, and my coupe cruise like a yacht\nPipe down lil nigga, you ain't hot\nI just left the lot, yeah you know I gets a lot\nVery large amounts, yeah you know what I'm about\nNo we don't play around, get 'em in and get 'em out\n\n[Verse 2]\nSame young nigga riding 'round with them rounds\nYou just the same nigga riding 'round talking down\nNaw we don't play around, turn your smile into a frown\nMake my niggas clear the crowd\nRun in when them guns sound (gang shit)\nAh shit, breaking news, he got hit with the tool\nThey came up on the block and then they popped him and got loose\nThey came up on the block and then they sweeped it like a broom\nI came up off the block then turned all my rocks into jewels, bitch\n\n[Chorus]\nAll these niggas say they hot, shit you must not heard of Glock\nMister pull up let it pop, mister don't play 'bout his guap\nAnd ever since a tot I been playin' 'round with them blocks\nClose your legs, ho give me top, and my coupe cruise like a yacht\nPipe down lil nigga, you ain't hot\nI just left the lot, yeah you know I gets a lot\nVery large amounts, yeah you know what I'm about\nNo we don't play around, get 'em in and get 'em out4Embed"
+  }
+ ]
+}

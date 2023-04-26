@@ -1,0 +1,3370 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2452115",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 3,
+ "header_image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+ "id": 2452115,
+ "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bad Bunny & Jhay Cortez",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5529082,
+  "annotator_login": "polka",
+  "api_path": "/referents/21178676",
+  "classification": "needs_exegesis",
+  "fragment": "Bad Bunny & Jhay Cortez",
+  "id": 21178676,
+  "is_description": true,
+  "path": "/21178676/Bad-bunny-and-jhay-cortez/Bad-bunny-and-jhay-cortez",
+  "range": {
+   "content": "Bad Bunny & Jhay Cortez"
+  },
+  "song_id": null,
+  "url": "https://genius.com/21178676/Bad-bunny-and-jhay-cortez/Bad-bunny-and-jhay-cortez",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2452115",
+   "context": null,
+   "id": 2452115,
+   "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+   "link_title": "Bad Bunny & Jhay Cortez",
+   "title": "Bad Bunny & Jhay Cortez",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/21178676",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 21178676,
+    "pinned": false,
+    "share_url": "https://genius.com/21178676",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/21178676/Bad-bunny-and-jhay-cortez/Bad-bunny-and-jhay-cortez",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5529082",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bdd79742ba3069cdd6578141bd7d5664",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bdd79742ba3069cdd6578141bd7d5664",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bdd79742ba3069cdd6578141bd7d5664",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bdd79742ba3069cdd6578141bd7d5664",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/50d8aa24c9443397fc99bee0ec7b9440.970x722x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 5529082,
+       "iq": 1587457,
+       "login": "polka",
+       "name": "\u200bpolka",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/polka",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/6100181",
+   "artist_names": "Bad Bunny & Jhay Cortez",
+   "full_title": "D\u00c1KITI by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+   "header_image_thumbnail_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg",
+   "id": 6100181,
+   "language": "es",
+   "lyrics_owner_id": 5529082,
+   "lyrics_state": "complete",
+   "path": "/Bad-bunny-and-jhay-cortez-dakiti-lyrics",
+   "pyongs_count": 74,
+   "relationships_index_url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 10,
+    "day": 30
+   },
+   "release_date_for_display": "October 30, 2020",
+   "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 42,
+    "iq_earners": 42,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 893678
+   },
+   "title": "D\u00c1KITI",
+   "title_with_featured": "D\u00c1KITI",
+   "url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2452115",
+    "header_image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "id": 2452115,
+    "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bad Bunny & Jhay Cortez",
+    "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez"
+   },
+   "apple_music_id": "1542103620",
+   "apple_music_player_url": "https://genius.com/songs/6100181/apple_music_player",
+   "description": {
+    "plain": "\u201cD\u00c1KITI\u201d fue anunciada oficialmente el 26 de octubre de 2020 por Bad Bunny, quien public\u00f3 un adelanto de la pista en su cuenta de Instagram. Los rumores de una nueva colaboraci\u00f3n entre ambos surgieron a principios del mes de octubre, en que se public\u00f3 un video de ambos artistas grabando un video musical.\n\nEn la publicaci\u00f3n de Instagram, el puertorrique\u00f1o aparece en un nuevo Chiron Sport 110 ANS Bugatti, un carro valorado en m\u00e1s de $3.260.000 (USD).\n\nEl tema es el tercera colaboraci\u00f3n que junta a ambos artistas, sin embargo es la primera que no es un remix, ya que antes hab\u00edan coincidido en \u201cNo Me Conoce (Remix)\u201d y \u201cC\u00d3MO SE SIENTE (REMIX)\u201d.\n\nEl nombre \u201cDakiti\u201d surge de un pub con el mismo nombre ubicado en San Juan, Puerto Rico."
+   },
+   "embed_content": "<div id='rg_embed_link_6100181' class='rg_embed_link' data-song-id='6100181'>Read <a href='https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-lyrics'>\u201cD\u00c1KITI\u201d by Bad\u00a0Bunny & Jhay Cortez</a> on Genius</div> <script crossorigin src='//genius.com/songs/6100181/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-10-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/631451",
+    "cover_art_url": "https://images.genius.com/567b764e878fe32329c4a820687dba9b.1000x1000x1.png",
+    "full_title": "EL \u00daLTIMO TOUR DEL MUNDO by Bad Bunny",
+    "id": 631451,
+    "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+    "release_date_for_display": "November 27, 2020",
+    "url": "https://genius.com/albums/Bad-bunny/El-ultimo-tour-del-mundo",
+    "artist": {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Beatmaker",
+     "artists": [
+      {
+       "api_path": "/artists/72334",
+       "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+       "id": 72334,
+       "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Tainy",
+       "url": "https://genius.com/artists/Tainy",
+       "iq": 387
+      },
+      {
+       "api_path": "/artists/690350",
+       "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+       "id": 690350,
+       "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bad Bunny",
+       "url": "https://genius.com/artists/Bad-bunny"
+      },
+      {
+       "api_path": "/artists/1015573",
+       "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+       "id": 1015573,
+       "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Jhayco",
+       "url": "https://genius.com/artists/Jhayco",
+       "iq": 538
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1115399",
+       "header_image_url": "https://images.genius.com/50967c59bfb782beddb95c04f7e37373.512x512x1.jpg",
+       "id": 1115399,
+       "image_url": "https://images.genius.com/50967c59bfb782beddb95c04f7e37373.512x512x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Latin",
+       "url": "https://genius.com/artists/Sony-music-latin"
+      },
+      {
+       "api_path": "/artists/1932250",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1932250,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Songs of Juju",
+       "url": "https://genius.com/artists/Songs-of-juju"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      },
+      {
+       "api_path": "/artists/1042737",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1042737,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "A Million Dollar Dream (Publishing)",
+       "url": "https://genius.com/artists/A-million-dollar-dream-publishing"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/1400437",
+       "header_image_url": "https://images.genius.com/3b809f23df952510f8e0a0b9f36820c3.1000x1000x1.png",
+       "id": 1400437,
+       "image_url": "https://images.genius.com/3b809f23df952510f8e0a0b9f36820c3.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "STILLZ",
+       "url": "https://genius.com/artists/Stillz"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/587689",
+       "header_image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+       "id": 587689,
+       "image_url": "https://images.genius.com/f726c51caac58bfc0d6ffba924431cd8.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Colin Leonard",
+       "url": "https://genius.com/artists/Colin-leonard"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/606741",
+       "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+       "id": 606741,
+       "image_url": "https://images.genius.com/414ab429ee8ea4c63bdf965e889c5499.331x331x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Gudwin",
+       "url": "https://genius.com/artists/Josh-gudwin"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Primary Artists",
+     "artists": [
+      {
+       "api_path": "/artists/690350",
+       "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+       "id": 690350,
+       "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bad Bunny",
+       "url": "https://genius.com/artists/Bad-bunny"
+      },
+      {
+       "api_path": "/artists/1015573",
+       "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+       "id": 1015573,
+       "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Jhayco",
+       "url": "https://genius.com/artists/Jhayco",
+       "iq": 538
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/984728",
+       "header_image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+       "id": 984728,
+       "image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "La Paciencia",
+       "url": "https://genius.com/artists/La-paciencia"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8674307,
+    "annotator_login": "sdfor123",
+    "api_path": "/referents/21163544",
+    "classification": "accepted",
+    "fragment": "D\u00c1KITI",
+    "id": 21163544,
+    "is_description": true,
+    "path": "/21163544/Bad-bunny-and-jhay-cortez-dakiti/Dakiti",
+    "range": {
+     "content": "D\u00c1KITI"
+    },
+    "song_id": 6100181,
+    "url": "https://genius.com/21163544/Bad-bunny-and-jhay-cortez-dakiti/Dakiti",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6100181",
+     "client_timestamps": {
+      "updated_by_human_at": 1669740645,
+      "lyrics_updated_at": 1669740645
+     },
+     "context": "Bad Bunny & Jhay Cortez",
+     "id": 6100181,
+     "image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+     "link_title": "D\u00c1KITI by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+     "title": "D\u00c1KITI",
+     "type": "Song",
+     "url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21163544",
+      "body": {
+       "plain": "\u201cD\u00c1KITI\u201d fue anunciada oficialmente el 26 de octubre de 2020 por Bad Bunny, quien public\u00f3 un adelanto de la pista en su cuenta de Instagram. Los rumores de una nueva colaboraci\u00f3n entre ambos surgieron a principios del mes de octubre, en que se public\u00f3 un video de ambos artistas grabando un video musical.\n\nEn la publicaci\u00f3n de Instagram, el puertorrique\u00f1o aparece en un nuevo Chiron Sport 110 ANS Bugatti, un carro valorado en m\u00e1s de $3.260.000 (USD).\n\nEl tema es el tercera colaboraci\u00f3n que junta a ambos artistas, sin embargo es la primera que no es un remix, ya que antes hab\u00edan coincidido en \u201cNo Me Conoce (Remix)\u201d y \u201cC\u00d3MO SE SIENTE (REMIX)\u201d.\n\nEl nombre \u201cDakiti\u201d surge de un pub con el mismo nombre ubicado en San Juan, Puerto Rico."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 21163544,
+      "pinned": false,
+      "share_url": "https://genius.com/21163544",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/21163544/Bad-bunny-and-jhay-cortez-dakiti/Dakiti",
+      "verified": false,
+      "votes_total": 100,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5075757575757576,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5529082",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/bdd79742ba3069cdd6578141bd7d5664",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/bdd79742ba3069cdd6578141bd7d5664",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/bdd79742ba3069cdd6578141bd7d5664",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/bdd79742ba3069cdd6578141bd7d5664",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/50d8aa24c9443397fc99bee0ec7b9440.970x722x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 5529082,
+         "iq": 1587457,
+         "login": "polka",
+         "name": "\u200bpolka",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/polka",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.49242424242424243,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8674307",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a986b98230bad0799dadf9e405ecbe62",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a986b98230bad0799dadf9e405ecbe62",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a986b98230bad0799dadf9e405ecbe62",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a986b98230bad0799dadf9e405ecbe62",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a986b98230bad0799dadf9e405ecbe62",
+         "human_readable_role_for_display": "Editor",
+         "id": 8674307,
+         "iq": 210272,
+         "login": "sdfor123",
+         "name": "\u200bsdfor123",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sdfor123",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/5529082",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/50d8aa24c9443397fc99bee0ec7b9440.970x722x1.jpg",
+    "human_readable_role_for_display": "Moderator",
+    "id": 5529082,
+    "iq": 1587457,
+    "login": "polka",
+    "name": "\u200bpolka",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/polka",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TmKh7lAwnBI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/984728",
+     "header_image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+     "id": 984728,
+     "image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "La Paciencia",
+     "url": "https://genius.com/artists/La-paciencia"
+    },
+    {
+     "api_path": "/artists/72334",
+     "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+     "id": 72334,
+     "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tainy",
+     "url": "https://genius.com/artists/Tainy",
+     "iq": 387
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7619194",
+       "artist_names": "Tom MacDonald & Adam Calhoun",
+       "full_title": "Bad Guy by\u00a0Tom\u00a0MacDonald & Adam Calhoun",
+       "header_image_thumbnail_url": "https://images.genius.com/942cfc8282cd5ac83ef315aa7a03ce65.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/942cfc8282cd5ac83ef315aa7a03ce65.1000x1000x1.jpg",
+       "id": 7619194,
+       "language": "en",
+       "lyrics_owner_id": 12822942,
+       "lyrics_state": "complete",
+       "path": "/Tom-macdonald-and-adam-calhoun-bad-guy-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Tom-macdonald-and-adam-calhoun-bad-guy-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 18
+       },
+       "release_date_for_display": "February 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/942cfc8282cd5ac83ef315aa7a03ce65.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/942cfc8282cd5ac83ef315aa7a03ce65.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Bad Guy",
+       "title_with_featured": "Bad Guy",
+       "url": "https://genius.com/Tom-macdonald-and-adam-calhoun-bad-guy-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3029098",
+        "header_image_url": "https://images.genius.com/f6736f11a4defc18ca597caed38192ce.719x719x1.jpg",
+        "id": 3029098,
+        "image_url": "https://images.genius.com/f6736f11a4defc18ca597caed38192ce.719x719x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tom MacDonald & Adam Calhoun",
+        "url": "https://genius.com/artists/Tom-macdonald-and-adam-calhoun"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6425227",
+       "artist_names": "A2H",
+       "full_title": "Freestyle (\"Dakiti\" de Bad Bunny) by\u00a0A2H",
+       "header_image_thumbnail_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.300x300x1.png",
+       "header_image_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.531x531x1.png",
+       "id": 6425227,
+       "language": "en",
+       "lyrics_owner_id": 117517,
+       "lyrics_state": "complete",
+       "path": "/A2h-freestyle-dakiti-de-bad-bunny-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/A2h-freestyle-dakiti-de-bad-bunny-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 24
+       },
+       "release_date_for_display": "January 24, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 24, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.531x531x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Freestyle (\u201dDakiti\u201d de Bad Bunny)",
+       "title_with_featured": "Freestyle (\"Dakiti\" de Bad Bunny)",
+       "url": "https://genius.com/A2h-freestyle-dakiti-de-bad-bunny-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/14415",
+        "header_image_url": "https://images.genius.com/f8a7138566a0d77550beb4310c26f87c.594x366x1.png",
+        "id": 14415,
+        "image_url": "https://images.genius.com/af80bc3992fcf83a6dfb532877d4f24d.531x531x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "A2H",
+        "url": "https://genius.com/artists/A2h",
+        "iq": 1166
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7089597",
+       "artist_names": "L.E.J",
+       "full_title": "SUMMER 2021 by\u00a0L.E.J",
+       "header_image_thumbnail_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+       "id": 7089597,
+       "language": "en",
+       "lyrics_owner_id": 5428057,
+       "lyrics_state": "complete",
+       "path": "/Lej-summer-2021-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lej-summer-2021-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 8,
+        "day": 6
+       },
+       "release_date_for_display": "August 6, 2021",
+       "release_date_with_abbreviated_month_for_display": "Aug. 6, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "SUMMER 2021",
+       "title_with_featured": "SUMMER 2021",
+       "url": "https://genius.com/Lej-summer-2021-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/555771",
+        "header_image_url": "https://images.genius.com/e3a0ae249d5bc4ae0ef7f4ff118e746b.1000x749x1.jpg",
+        "id": 555771,
+        "image_url": "https://images.genius.com/7421cc0ac5db1a0b07b66ed1ebc183de.334x334x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "L.E.J",
+        "url": "https://genius.com/artists/Lej",
+        "iq": 377
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8870645",
+       "artist_names": "Eme Sarav & Vanna Rainelle",
+       "full_title": "Dakiti Ii by\u00a0Eme\u00a0Sarav & Vanna Rainelle",
+       "header_image_thumbnail_url": "https://images.genius.com/4e64c7ba47b55614661deeaec3c7a1e3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4e64c7ba47b55614661deeaec3c7a1e3.354x354x1.jpg",
+       "id": 8870645,
+       "language": "es",
+       "lyrics_owner_id": 17968375,
+       "lyrics_state": "complete",
+       "path": "/Eme-sarav-and-vanna-rainelle-dakiti-ii-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Eme-sarav-and-vanna-rainelle-dakiti-ii-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 1,
+        "day": 18
+       },
+       "release_date_for_display": "January 18, 2023",
+       "release_date_with_abbreviated_month_for_display": "Jan. 18, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4e64c7ba47b55614661deeaec3c7a1e3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4e64c7ba47b55614661deeaec3c7a1e3.354x354x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dakiti Ii",
+       "title_with_featured": "Dakiti Ii",
+       "url": "https://genius.com/Eme-sarav-and-vanna-rainelle-dakiti-ii-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3455192",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3455192,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Eme Sarav & Vanna Rainelle",
+        "url": "https://genius.com/artists/Eme-sarav-and-vanna-rainelle"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7330484",
+       "artist_names": "The Mar\u00edas",
+       "full_title": "D\u00c1KITI - Spotify Singles by\u00a0The\u00a0Mar\u00edas",
+       "header_image_thumbnail_url": "https://images.genius.com/bbec0c217e22f7904043d583e81f83ac.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bbec0c217e22f7904043d583e81f83ac.640x640x1.jpg",
+       "id": 7330484,
+       "language": "es",
+       "lyrics_owner_id": 5859682,
+       "lyrics_state": "complete",
+       "path": "/The-marias-dakiti-spotify-singles-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/The-marias-dakiti-spotify-singles-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 27
+       },
+       "release_date_for_display": "October 27, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 27, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bbec0c217e22f7904043d583e81f83ac.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bbec0c217e22f7904043d583e81f83ac.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "D\u00c1KITI - Spotify Singles",
+       "title_with_featured": "D\u00c1KITI - Spotify Singles",
+       "url": "https://genius.com/The-marias-dakiti-spotify-singles-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1127174",
+        "header_image_url": "https://images.genius.com/eda5fdcff83472b26f16541fba6234f6.851x476x1.png",
+        "id": 1127174,
+        "image_url": "https://images.genius.com/5762af3864e81985e4c8a461f4a22260.714x714x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "The Mar\u00edas",
+        "url": "https://genius.com/artists/The-marias",
+        "iq": 1496
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6507096",
+       "artist_names": "Giangis Khan",
+       "full_title": "Dakiti (Giangis Khan Illegal Remix) by\u00a0Giangis\u00a0Khan",
+       "header_image_thumbnail_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.720x720x1.jpg",
+       "id": 6507096,
+       "language": "es",
+       "lyrics_owner_id": 6320629,
+       "lyrics_state": "complete",
+       "path": "/Giangis-khan-dakiti-giangis-khan-illegal-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Giangis-khan-dakiti-giangis-khan-illegal-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 31
+       },
+       "release_date_for_display": "January 31, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 31, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.720x720x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dakiti (Giangis Khan Illegal Remix)",
+       "title_with_featured": "Dakiti (Giangis Khan Illegal Remix)",
+       "url": "https://genius.com/Giangis-khan-dakiti-giangis-khan-illegal-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1460652",
+        "header_image_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.720x720x1.jpg",
+        "id": 1460652,
+        "image_url": "https://images.genius.com/ebea08b4a1f80f9483669303a3da5d6e.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Giangis Khan",
+        "url": "https://genius.com/artists/Giangis-khan",
+        "iq": 498
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6315367",
+       "artist_names": "JUSTIN CREDIBLE (Ft. Snow Tha Product)",
+       "full_title": "D\u00c1KITI (Justin Credible L.A. Leakers Remix) by\u00a0JUSTIN\u00a0CREDIBLE (Ft.\u00a0Snow\u00a0Tha Product)",
+       "header_image_thumbnail_url": "https://images.genius.com/004ce9daaa09f9974b92479972b7a917.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/004ce9daaa09f9974b92479972b7a917.1000x1000x1.jpg",
+       "id": 6315367,
+       "language": "en",
+       "lyrics_owner_id": 7022457,
+       "lyrics_state": "complete",
+       "path": "/Justin-credible-dakiti-justin-credible-la-leakers-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Justin-credible-dakiti-justin-credible-la-leakers-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 12,
+        "day": 15
+       },
+       "release_date_for_display": "December 15, 2020",
+       "release_date_with_abbreviated_month_for_display": "Dec. 15, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/004ce9daaa09f9974b92479972b7a917.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/004ce9daaa09f9974b92479972b7a917.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "D\u00c1KITI (Justin Credible L.A. Leakers Remix)",
+       "title_with_featured": "D\u00c1KITI (Justin Credible L.A. Leakers Remix) (Ft.\u00a0Snow\u00a0Tha Product)",
+       "url": "https://genius.com/Justin-credible-dakiti-justin-credible-la-leakers-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/14955",
+         "header_image_url": "https://images.genius.com/98fb101b5aef2c043183288bafc9b0e5.820x312x1.jpg",
+         "id": 14955,
+         "image_url": "https://images.genius.com/0f47f93f6ac5a568b5e131e17fecb299.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Snow Tha Product",
+         "url": "https://genius.com/artists/Snow-tha-product",
+         "iq": 1365
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1751910",
+        "header_image_url": "https://images.genius.com/cec0c3ab3884f18c4e831008ccbe6f9d.989x989x1.jpg",
+        "id": 1751910,
+        "image_url": "https://images.genius.com/cec0c3ab3884f18c4e831008ccbe6f9d.989x989x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "JUSTIN CREDIBLE",
+        "url": "https://genius.com/artists/Justin-credible"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6255583",
+       "artist_names": "Bad Bunny & Jhay Cortez (Ft. J.I the Prince of N.Y)",
+       "full_title": "D\u00c1KITI (Remix) by\u00a0Bad\u00a0Bunny & Jhay Cortez (Ft.\u00a0J.I\u00a0the Prince of N.Y)",
+       "header_image_thumbnail_url": "https://images.genius.com/89c08838b27227677766a0a39531c64b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/89c08838b27227677766a0a39531c64b.750x750x1.jpg",
+       "id": 6255583,
+       "language": "en",
+       "lyrics_owner_id": 8674307,
+       "lyrics_state": "complete",
+       "path": "/Bad-bunny-and-jhay-cortez-dakiti-remix-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 12,
+        "day": 10
+       },
+       "release_date_for_display": "December 10, 2020",
+       "release_date_with_abbreviated_month_for_display": "Dec. 10, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/89c08838b27227677766a0a39531c64b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/89c08838b27227677766a0a39531c64b.750x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 17960
+       },
+       "title": "D\u00c1KITI (Remix)",
+       "title_with_featured": "D\u00c1KITI (Remix) (Ft.\u00a0J.I\u00a0the Prince of N.Y)",
+       "url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/42502",
+         "header_image_url": "https://images.genius.com/6794faaf765e1b835635d95eb426b0d5.1000x1000x1.jpg",
+         "id": 42502,
+         "image_url": "https://images.genius.com/6794faaf765e1b835635d95eb426b0d5.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "J.I the Prince of N.Y",
+         "url": "https://genius.com/artists/Ji-the-prince-of-ny",
+         "iq": 1391
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2452115",
+        "header_image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+        "id": 2452115,
+        "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bad Bunny & Jhay Cortez",
+        "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": "https://genius.com/Bad-bunny-and-jhay-cortez-dakiti-sample/translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6659844",
+       "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+       "full_title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviri",
+       "header_image_thumbnail_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg",
+       "id": 6659844,
+       "language": "tr",
+       "lyrics_owner_id": 9480058,
+       "lyrics_state": "complete",
+       "path": "/Genius-turkce-ceviri-bad-bunny-and-jhay-cortez-dakiti-turkce-ceviri-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-bad-bunny-and-jhay-cortez-dakiti-turkce-ceviri-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 30
+       },
+       "release_date_for_display": "October 30, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (T\u00fcrk\u00e7e \u00c7eviri)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - D\u00c1KITI (T\u00fcrk\u00e7e \u00c7eviri)",
+       "url": "https://genius.com/Genius-turkce-ceviri-bad-bunny-and-jhay-cortez-dakiti-turkce-ceviri-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/569121",
+        "header_image_url": "https://images.genius.com/8de14cbfa60a48d10ac52487723f658f.1000x300x1.png",
+        "id": 569121,
+        "image_url": "https://images.genius.com/49f4bc4332283d01689f8fb883ec88e9.302x302x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+        "url": "https://genius.com/artists/Genius-turkce-ceviri"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8297217",
+       "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+       "full_title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+       "header_image_thumbnail_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg",
+       "id": 8297217,
+       "language": "pt",
+       "lyrics_owner_id": 4212581,
+       "lyrics_state": "complete",
+       "path": "/Genius-brasil-traducoes-bad-bunny-and-jhay-cortez-dakiti-traducao-em-portugues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-bad-bunny-and-jhay-cortez-dakiti-traducao-em-portugues-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 30
+       },
+       "release_date_for_display": "October 30, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "url": "https://genius.com/Genius-brasil-traducoes-bad-bunny-and-jhay-cortez-dakiti-traducao-em-portugues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/210448",
+        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+        "id": 210448,
+        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6405701",
+       "artist_names": "Genius Deutsche \u00dcbersetzungen",
+       "full_title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+       "header_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+       "header_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+       "id": 6405701,
+       "language": "de",
+       "lyrics_owner_id": 2171344,
+       "lyrics_state": "complete",
+       "path": "/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-dakiti-deutsche-ubersetzung-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-dakiti-deutsche-ubersetzung-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 30
+       },
+       "release_date_for_display": "October 30, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Deutsche \u00dcbersetzung)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Deutsche \u00dcbersetzung)",
+       "url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-dakiti-deutsche-ubersetzung-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1799569",
+        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+        "id": 1799569,
+        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Deutsche \u00dcbersetzungen",
+        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6109253",
+       "artist_names": "Genius English Translations",
+       "full_title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (English Translation) by\u00a0Genius\u00a0English Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/05cbeb3b5492dd0684c043359f82136a.1000x563x1.jpg",
+       "id": 6109253,
+       "language": "en",
+       "lyrics_owner_id": 8674307,
+       "lyrics_state": "complete",
+       "path": "/Genius-english-translations-bad-bunny-and-jhay-cortez-dakiti-english-translation-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-dakiti-english-translation-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 30
+       },
+       "release_date_for_display": "October 30, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 30, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/cb4b23cf4d28e5f9c020dda3dff8d6b2.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 808350
+       },
+       "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (English Translation)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - D\u00c1KITI (English Translation)",
+       "url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-dakiti-english-translation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/196943",
+        "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+        "id": 196943,
+        "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius English Translations",
+        "url": "https://genius.com/artists/Genius-english-translations"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/6659844",
+     "id": 6659844,
+     "language": "tr",
+     "lyrics_state": "complete",
+     "path": "/Genius-turkce-ceviri-bad-bunny-and-jhay-cortez-dakiti-turkce-ceviri-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (T\u00fcrk\u00e7e \u00c7eviri)",
+     "url": "https://genius.com/Genius-turkce-ceviri-bad-bunny-and-jhay-cortez-dakiti-turkce-ceviri-lyrics"
+    },
+    {
+     "api_path": "/songs/8297217",
+     "id": 8297217,
+     "language": "pt",
+     "lyrics_state": "complete",
+     "path": "/Genius-brasil-traducoes-bad-bunny-and-jhay-cortez-dakiti-traducao-em-portugues-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+     "url": "https://genius.com/Genius-brasil-traducoes-bad-bunny-and-jhay-cortez-dakiti-traducao-em-portugues-lyrics"
+    },
+    {
+     "api_path": "/songs/6405701",
+     "id": 6405701,
+     "language": "de",
+     "lyrics_state": "complete",
+     "path": "/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-dakiti-deutsche-ubersetzung-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (Deutsche \u00dcbersetzung)",
+     "url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-dakiti-deutsche-ubersetzung-lyrics"
+    },
+    {
+     "api_path": "/songs/6109253",
+     "id": 6109253,
+     "language": "en",
+     "lyrics_state": "complete",
+     "path": "/Genius-english-translations-bad-bunny-and-jhay-cortez-dakiti-english-translation-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - D\u00c1KITI (English Translation)",
+     "url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-dakiti-english-translation-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1015573",
+      "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+      "id": 1015573,
+      "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jhayco",
+      "url": "https://genius.com/artists/Jhayco",
+      "iq": 538
+     },
+     "user": {
+      "api_path": "/users/8895956",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/f2c23af853103b9eeca67c78ce00fbb8",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/f2c23af853103b9eeca67c78ce00fbb8",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/f2c23af853103b9eeca67c78ce00fbb8",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/f2c23af853103b9eeca67c78ce00fbb8",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 8895956,
+      "iq": 538,
+      "login": "jhaycortez",
+      "name": "Jhayco",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/jhaycortez",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1320339",
+     "header_image_url": "https://images.genius.com/5b9bca19661215dc2252eb3c24576db7.400x400x1.jpg",
+     "id": 1320339,
+     "image_url": "https://images.genius.com/5b9bca19661215dc2252eb3c24576db7.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nydia Laner",
+     "url": "https://genius.com/artists/Nydia-laner"
+    },
+    {
+     "api_path": "/artists/1254985",
+     "header_image_url": "https://images.genius.com/918fd1f8bd541339b7cbd40a9e314880.1000x562x1.jpg",
+     "id": 1254985,
+     "image_url": "https://images.genius.com/62bccf15b64374cbdfe1985edc7163f2.899x899x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mora",
+     "url": "https://genius.com/artists/Mora"
+    },
+    {
+     "api_path": "/artists/72334",
+     "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+     "id": 72334,
+     "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tainy",
+     "url": "https://genius.com/artists/Tainy",
+     "iq": 387
+    },
+    {
+     "api_path": "/artists/1018408",
+     "header_image_url": "https://images.genius.com/1d283bd1514887bce74a03c8153d3204.350x333x1.jpg",
+     "id": 1018408,
+     "image_url": "https://images.genius.com/edddf69b572d153deae47fd429bebc28.332x332x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Fino Como El Haze",
+     "url": "https://genius.com/artists/Fino-como-el-haze"
+    },
+    {
+     "api_path": "/artists/1015573",
+     "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+     "id": 1015573,
+     "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jhayco",
+     "url": "https://genius.com/artists/Jhayco",
+     "iq": 538
+    },
+    {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    }
+   ],
+   "artist": "Bad Bunny & Jhay Cortez",
+   "lyrics": "42 ContributorsTranslationsT\u00fcrk\u00e7ePortugu\u00easDeutschEnglishD\u00c1KITI Lyrics[Letra de \"D\u00c1KITI\"]\n\n[Coro: Jhay Cortez]\nBaby, ya yo me enter\u00e9, se nota cuando me ve'\nAh\u00ed donde no has llega'o sabe' que yo te llevar\u00e9\nY dime qu\u00e9 quiere' beber, es que t\u00fa ere' mi beb\u00e9\n\u00bfY de nosotro' qui\u00e9n va a hablar? Si no nos dejamo' ver\n\n[Verso 1: Bad Bunny]\nY a vece' e' Dolce, a vece' Bulgari\nCuando te lo quito despu\u00e9' de lo' partie'\nLas copa' de vino, las libra' de mari\nT\u00fa est\u00e1s bien suelta, yo de safari\nT\u00fa muev\u0435' el culo fenomenal\nPa' yo d\u0435vorarte como animal\nSi no te ha' ven\u00edo', yo te vo'a esperar\nEn mi cama y lo vo'a celebrar\n[Pre-Coro: Jhay Cortez & Bad Bunny]\nBaby, a ti no me opongo\nY siempre te lo pongo\nY si t\u00fa me tira', vamo' a nadar en lo hondo\nSi e' por m\u00ed te lo pongo\nDe septiembre hasta agosto\nA m\u00ed sin cojone' lo que digan tu' amiga'\n\n[Coro: Bad Bunny & Jhay Cortez]\nYa yo me enter\u00e9, se nota cuando me ve'\nAh\u00ed donde no ha' llega'o sabe' que yo te llevar\u00e9\nY dime qu\u00e9 quiere' beber, e' que t\u00fa ere' mi beb\u00e9\n\u00bfY de nosotro' qui\u00e9n va a hablar? Si no nos dejamo' ver (\u00bfMe sigue'?)\n\n[Verso 2: Jhay Cortez & Bad Bunny]\nMami, me tiene' juquea'o, s\u00ed\nSi fuera' la Uru', me tuviese' parquea'o\nDando vuelta' por Condado, contigo siempre arrebata'o\nT\u00fa no ere' mi se\u00f1ora, pero\nToma cinco mil, g\u00e1stalo en Sephora\nLouis Vuitton, ya no compra en Pandora\nComo piercing, a los hombre' perfora, eh-eh-eh\n\n[Puente: Bad Bunny & Jhay Cortez]\nHace tiempo le rompieron el cora (El cora)\nEstudiosa, puesta pa' ser doctora (Doctora)\nPero (Pero), le gustan los t\u00edtere' wheeleando motora (Motora)\nYo estoy pa' ti las veinticuatro hora'\nYou might also like[Pre-Coro: Jhay Cortez & Bad Bunny, Ambos]\nBaby, a ti no me opongo\nY siempre te lo pongo (-pre te lo pongo)\nY si t\u00fa me tira', vamo' a nadar en lo hondo (Nadar en lo hondo)\nSi es por m\u00ed te lo pongo\nDe septiembre hasta agosto\nY a m\u00ed sin cojone' lo que digan tu' amiga'\n\n[Coro: Bad Bunny & Jhay Cortez]\nYa yo me enter\u00e9, se nota cuando me ve'\nAh\u00ed donde no ha' llega'o sabe' que yo te llevar\u00e9\nY dime qu\u00e9 quiere' beber, e' que t\u00fa ere' mi beb\u00e9\n\u00bfY de nosotro' qui\u00e9n va a hablar? Si no nos dejamo' ver\n\n[Outro: Bad Bunny]\nY a vece' e' Dolce, a vece' Bulgari\nCuando te lo quito despu\u00e9' de lo' partie'\nLa' copa' de vino, las libra' de mari\nT\u00fa est\u00e1s bien suelta, yo de safari\nT\u00fa mueve' el culo fenomenal\nPa' yo devorarte como animal\nSi no te ha' ven\u00edo', yo te vo'a esperar\nEn mi cama y lo vo'a celebrar74Embed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/5553950",
+   "artist_names": "Bad Bunny & Jhay Cortez",
+   "full_title": "C\u00d3MO SE SIENTE (Remix) by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+   "header_image_thumbnail_url": "https://images.genius.com/86dc2b3c5de08257399976d0d6b4104b.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/86dc2b3c5de08257399976d0d6b4104b.1000x563x1.jpg",
+   "id": 5553950,
+   "language": "en",
+   "lyrics_owner_id": 2975461,
+   "lyrics_state": "complete",
+   "path": "/Bad-bunny-and-jhay-cortez-como-se-siente-remix-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Bad-bunny-and-jhay-cortez-como-se-siente-remix-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 5,
+    "day": 10
+   },
+   "release_date_for_display": "May 10, 2020",
+   "release_date_with_abbreviated_month_for_display": "May. 10, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b7733531c539554f496db9409b986255.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b7733531c539554f496db9409b986255.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 38,
+    "iq_earners": 38,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 393500
+   },
+   "title": "C\u00d3MO SE SIENTE (Remix)",
+   "title_with_featured": "C\u00d3MO SE SIENTE (Remix)",
+   "url": "https://genius.com/Bad-bunny-and-jhay-cortez-como-se-siente-remix-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2452115",
+    "header_image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "id": 2452115,
+    "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bad Bunny & Jhay Cortez",
+    "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez"
+   },
+   "apple_music_id": "1512629482",
+   "apple_music_player_url": "https://genius.com/songs/5553950/apple_music_player",
+   "description": {
+    "plain": "\u201cComo se siente remix\u201d es la primera colaboraci\u00f3n directa entre estos artistas, ya que recientemente han colaborado en el \u00e9xito \u201cDakiti\u201d y anteriormente se les vio en el remix de \u201cNo me conoce\u201d. Un dato curioso es que este remix era propiedad de Jhay Cortez el cual lo venia trabajando desde hace un tiempo antes de que saliera, aunque Bad Bunny se adue\u00f1o del tema y termino sac\u00e1ndolo en su canal e incluy\u00e9ndolo en este proyecto.\nAmbos artistas han comentado tener una qu\u00edmica incre\u00edble a la hora de componer y producir temas en conjunto, cosa que los ha llevado a tener \u00e9xito en cada canci\u00f3n que lanzan."
+   },
+   "embed_content": "<div id='rg_embed_link_5553950' class='rg_embed_link' data-song-id='5553950'>Read <a href='https://genius.com/Bad-bunny-and-jhay-cortez-como-se-siente-remix-lyrics'>\u201cC\u00d3MO SE SIENTE (Remix)\u201d by Bad\u00a0Bunny & Jhay Cortez</a> on Genius</div> <script crossorigin src='//genius.com/songs/5553950/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-05-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/634055",
+    "cover_art_url": "https://images.genius.com/3c866861404e616f94cefee1fbad47c1.1000x1000x1.png",
+    "full_title": "LAS QUE NO IBAN A SALIR by Bad Bunny",
+    "id": 634055,
+    "name": "LAS QUE NO IBAN A SALIR",
+    "release_date_for_display": "May 10, 2020",
+    "url": "https://genius.com/albums/Bad-bunny/Las-que-no-iban-a-salir",
+    "artist": {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1604950",
+       "header_image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+       "id": 1604950,
+       "image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ammu-Nation",
+       "url": "https://genius.com/artists/Ammu-nation"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2280597",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2280597,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "PECF",
+       "url": "https://genius.com/artists/Pecf"
+      },
+      {
+       "api_path": "/artists/1209162",
+       "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+       "id": 1209162,
+       "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Music Publishing Group",
+       "url": "https://genius.com/artists/Emi-music-publishing-group"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+       "id": 1100826,
+       "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/1042737",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1042737,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "A Million Dollar Dream (Publishing)",
+       "url": "https://genius.com/artists/A-million-dollar-dream-publishing"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1223151",
+       "header_image_url": "https://images.genius.com/497891d5a36eb256cd211d4fc9e24b3d.240x240x1.jpg",
+       "id": 1223151,
+       "image_url": "https://images.genius.com/7aa8e77904cfa343c441e53d8bae0e7d.240x240x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Latino",
+       "url": "https://genius.com/artists/Universal-music-latino"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1223151",
+       "header_image_url": "https://images.genius.com/497891d5a36eb256cd211d4fc9e24b3d.240x240x1.jpg",
+       "id": 1223151,
+       "image_url": "https://images.genius.com/7aa8e77904cfa343c441e53d8bae0e7d.240x240x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Latino",
+       "url": "https://genius.com/artists/Universal-music-latino"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1223151",
+       "header_image_url": "https://images.genius.com/497891d5a36eb256cd211d4fc9e24b3d.240x240x1.jpg",
+       "id": 1223151,
+       "image_url": "https://images.genius.com/7aa8e77904cfa343c441e53d8bae0e7d.240x240x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Latino",
+       "url": "https://genius.com/artists/Universal-music-latino"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Primary Artists",
+     "artists": [
+      {
+       "api_path": "/artists/690350",
+       "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+       "id": 690350,
+       "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bad Bunny",
+       "url": "https://genius.com/artists/Bad-bunny"
+      },
+      {
+       "api_path": "/artists/1015573",
+       "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+       "id": 1015573,
+       "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Jhayco",
+       "url": "https://genius.com/artists/Jhayco",
+       "iq": 538
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11128516,
+    "annotator_login": "B4STIRR15",
+    "api_path": "/referents/19810591",
+    "classification": "unreviewed",
+    "fragment": "C\u00d3MO SE SIENTE (Remix)",
+    "id": 19810591,
+    "is_description": true,
+    "path": "/19810591/Bad-bunny-and-jhay-cortez-como-se-siente-remix/Como-se-siente-remix",
+    "range": {
+     "content": "C\u00d3MO SE SIENTE (Remix)"
+    },
+    "song_id": 5553950,
+    "url": "https://genius.com/19810591/Bad-bunny-and-jhay-cortez-como-se-siente-remix/Como-se-siente-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5553950",
+     "client_timestamps": {
+      "updated_by_human_at": 1669621141,
+      "lyrics_updated_at": 1631133879
+     },
+     "context": "Bad Bunny & Jhay Cortez",
+     "id": 5553950,
+     "image_url": "https://images.genius.com/b7733531c539554f496db9409b986255.1000x1000x1.jpg",
+     "link_title": "C\u00d3MO SE SIENTE (Remix) by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+     "title": "C\u00d3MO SE SIENTE (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Bad-bunny-and-jhay-cortez-como-se-siente-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19810591",
+      "body": {
+       "plain": "\u201cComo se siente remix\u201d es la primera colaboraci\u00f3n directa entre estos artistas, ya que recientemente han colaborado en el \u00e9xito \u201cDakiti\u201d y anteriormente se les vio en el remix de \u201cNo me conoce\u201d. Un dato curioso es que este remix era propiedad de Jhay Cortez el cual lo venia trabajando desde hace un tiempo antes de que saliera, aunque Bad Bunny se adue\u00f1o del tema y termino sac\u00e1ndolo en su canal e incluy\u00e9ndolo en este proyecto.\nAmbos artistas han comentado tener una qu\u00edmica incre\u00edble a la hora de componer y producir temas en conjunto, cosa que los ha llevado a tener \u00e9xito en cada canci\u00f3n que lanzan."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 19810591,
+      "pinned": false,
+      "share_url": "https://genius.com/19810591",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/19810591/Bad-bunny-and-jhay-cortez-como-se-siente-remix/Como-se-siente-remix",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9285714285714286,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11128516",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0cc730fcdac6076072ec97e0c2beb560",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0cc730fcdac6076072ec97e0c2beb560",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0cc730fcdac6076072ec97e0c2beb560",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0cc730fcdac6076072ec97e0c2beb560",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fvypxpnweor",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11128516,
+         "iq": 555,
+         "login": "B4STIRR15",
+         "name": "B4STIRR15",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/B4STIRR15",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07142857142857144,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13726455",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rh0r1r6n8s",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rh0r1r6n8s",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rh0r1r6n8s",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rh0r1r6n8s",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n4rtxvca1g",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13726455,
+         "iq": 817,
+         "login": "despeguela_arw72",
+         "name": "despeguela_arw72",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/despeguela_arw72",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/8388577",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ip3akdtz9q",
+    "human_readable_role_for_display": "Staff",
+    "id": 8388577,
+    "iq": 83120,
+    "login": "BaoTumbao",
+    "name": "BaoTumbao",
+    "role_for_display": "staff",
+    "url": "https://genius.com/BaoTumbao",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "badbunny15",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/badbunny15/bad-bunny-jhay-cortez-como-se"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZAW9358S9rY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1587085",
+     "header_image_url": "https://images.genius.com/c36a691d73bea8cd4aaa787971ff2994.887x887x1.jpg",
+     "id": 1587085,
+     "image_url": "https://images.genius.com/c36a691d73bea8cd4aaa787971ff2994.887x887x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Botlok",
+     "url": "https://genius.com/artists/Botlok",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1604950",
+     "header_image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+     "id": 1604950,
+     "image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ammu-Nation",
+     "url": "https://genius.com/artists/Ammu-nation"
+    },
+    {
+     "api_path": "/artists/72334",
+     "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+     "id": 72334,
+     "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tainy",
+     "url": "https://genius.com/artists/Tainy",
+     "iq": 387
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/5199386",
+       "artist_names": "Jhayco",
+       "full_title": "Como Se Siente by\u00a0Jhayco",
+       "header_image_thumbnail_url": "https://images.genius.com/82f16dea6645986f304afb7c460ddc24.300x300x1.png",
+       "header_image_url": "https://images.genius.com/82f16dea6645986f304afb7c460ddc24.1000x1000x1.png",
+       "id": 5199386,
+       "language": "es",
+       "lyrics_owner_id": 5529082,
+       "lyrics_state": "complete",
+       "path": "/Jhayco-como-se-siente-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Jhayco-como-se-siente-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 1,
+        "day": 24
+       },
+       "release_date_for_display": "January 24, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jan. 24, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/82f16dea6645986f304afb7c460ddc24.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/82f16dea6645986f304afb7c460ddc24.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 49433
+       },
+       "title": "Como Se Siente",
+       "title_with_featured": "Como Se Siente",
+       "url": "https://genius.com/Jhayco-como-se-siente-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1015573",
+        "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+        "id": 1015573,
+        "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jhayco",
+        "url": "https://genius.com/artists/Jhayco",
+        "iq": 538
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5554280",
+       "artist_names": "Genius English Translations",
+       "full_title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (English Translation) by\u00a0Genius\u00a0English Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/86dc2b3c5de08257399976d0d6b4104b.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/86dc2b3c5de08257399976d0d6b4104b.1000x563x1.jpg",
+       "id": 5554280,
+       "language": "en",
+       "lyrics_owner_id": 8674307,
+       "lyrics_state": "complete",
+       "path": "/Genius-english-translations-jhay-cortez-and-bad-bunny-como-se-siente-remix-english-translation-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-english-translations-jhay-cortez-and-bad-bunny-como-se-siente-remix-english-translation-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 5,
+        "day": 10
+       },
+       "release_date_for_display": "May 10, 2020",
+       "release_date_with_abbreviated_month_for_display": "May. 10, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b7733531c539554f496db9409b986255.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b7733531c539554f496db9409b986255.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 128600
+       },
+       "title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (English Translation)",
+       "title_with_featured": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (English Translation)",
+       "url": "https://genius.com/Genius-english-translations-jhay-cortez-and-bad-bunny-como-se-siente-remix-english-translation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/196943",
+        "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+        "id": 196943,
+        "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius English Translations",
+        "url": "https://genius.com/artists/Genius-english-translations"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8594962",
+       "artist_names": "Genius Deutsche \u00dcbersetzungen",
+       "full_title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+       "header_image_thumbnail_url": "https://images.genius.com/3014a2253ba4e836f3859942eb50fb73.300x300x1.png",
+       "header_image_url": "https://images.genius.com/3014a2253ba4e836f3859942eb50fb73.300x300x1.png",
+       "id": 8594962,
+       "language": "de",
+       "lyrics_owner_id": 14660310,
+       "lyrics_state": "complete",
+       "path": "/Genius-deutsche-ubersetzungen-jhay-cortez-and-bad-bunny-como-se-siente-remix-deutsche-ubersetzung-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-jhay-cortez-and-bad-bunny-como-se-siente-remix-deutsche-ubersetzung-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 5,
+        "day": 10
+       },
+       "release_date_for_display": "May 10, 2020",
+       "release_date_with_abbreviated_month_for_display": "May. 10, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3014a2253ba4e836f3859942eb50fb73.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/3014a2253ba4e836f3859942eb50fb73.300x300x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (Deutsche \u00dcbersetzung)",
+       "title_with_featured": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (Deutsche \u00dcbersetzung)",
+       "url": "https://genius.com/Genius-deutsche-ubersetzungen-jhay-cortez-and-bad-bunny-como-se-siente-remix-deutsche-ubersetzung-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1799569",
+        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+        "id": 1799569,
+        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Deutsche \u00dcbersetzungen",
+        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/5554280",
+     "id": 5554280,
+     "language": "en",
+     "lyrics_state": "complete",
+     "path": "/Genius-english-translations-jhay-cortez-and-bad-bunny-como-se-siente-remix-english-translation-lyrics",
+     "title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (English Translation)",
+     "url": "https://genius.com/Genius-english-translations-jhay-cortez-and-bad-bunny-como-se-siente-remix-english-translation-lyrics"
+    },
+    {
+     "api_path": "/songs/8594962",
+     "id": 8594962,
+     "language": "de",
+     "lyrics_state": "complete",
+     "path": "/Genius-deutsche-ubersetzungen-jhay-cortez-and-bad-bunny-como-se-siente-remix-deutsche-ubersetzung-lyrics",
+     "title": "Jhay Cortez & Bad Bunny - COMO SE SIENTE (REMIX) (Deutsche \u00dcbersetzung)",
+     "url": "https://genius.com/Genius-deutsche-ubersetzungen-jhay-cortez-and-bad-bunny-como-se-siente-remix-deutsche-ubersetzung-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/72334",
+     "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+     "id": 72334,
+     "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tainy",
+     "url": "https://genius.com/artists/Tainy",
+     "iq": 387
+    },
+    {
+     "api_path": "/artists/1320339",
+     "header_image_url": "https://images.genius.com/5b9bca19661215dc2252eb3c24576db7.400x400x1.jpg",
+     "id": 1320339,
+     "image_url": "https://images.genius.com/5b9bca19661215dc2252eb3c24576db7.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nydia Laner",
+     "url": "https://genius.com/artists/Nydia-laner"
+    },
+    {
+     "api_path": "/artists/1587085",
+     "header_image_url": "https://images.genius.com/c36a691d73bea8cd4aaa787971ff2994.887x887x1.jpg",
+     "id": 1587085,
+     "image_url": "https://images.genius.com/c36a691d73bea8cd4aaa787971ff2994.887x887x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Botlok",
+     "url": "https://genius.com/artists/Botlok",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1604950",
+     "header_image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+     "id": 1604950,
+     "image_url": "https://images.genius.com/c751ef65291a0451317a2503f20d3ae9.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ammu-Nation",
+     "url": "https://genius.com/artists/Ammu-nation"
+    },
+    {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    },
+    {
+     "api_path": "/artists/1015573",
+     "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+     "id": 1015573,
+     "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jhayco",
+     "url": "https://genius.com/artists/Jhayco",
+     "iq": 538
+    }
+   ],
+   "artist": "Bad Bunny & Jhay Cortez",
+   "lyrics": "38 ContributorsTranslationsEnglishDeutschC\u00d3MO SE SIENTE (Remix) Lyrics[Letra de \"C\u00d3MO SE SIENTE (Remix)\"]\n\n[Intro: Bad Bunny]\nYeh-yeh-yeh-yeh, ey\n\n[Pre-Coro: Bad Bunny & Jhay Cortez]\nNos matamo' (Nos matamo')\nDime t\u00fa d\u00f3nde nos vemo' (D\u00f3nde nos vemo')\nQue el tiempo est\u00e1\u2005pasando\nY\u2005t\u00fa est\u00e1s perdi\u00e9ndote\n[Coro: Jhay Cortez & Bad Bunny]\n\u00bfC\u00f3mo\u2005se siente, c\u00f3mo se siente?\nCuando yo\u2005estoy adentro y t\u00fa est\u00e1' al frente\nO si no encima 'e m\u00ed\nC\u00f3mo terminamo' as\u00ed, as\u00ed, as\u00ed\n\u00bfC\u00f3mo se siente, c\u00f3mo se siente?\nCuando yo estoy adentro y t\u00fa est\u00e1' al frente\nHacemo' posicione' diferente' (Diferente)\nBaby, t\u00fa no sale' de mi mente\n\n[Verso 1: Bad Bunny]\n\u00bfQue si quiero comerte? Obvio\nVa' a ver la' estrella' sin telescopio\nLlevas tiempo encerr\u00e1' y cachonda como Tokio\nYo que t\u00fa cambio de novio\nY a ti que te sobran la' opcione'\nY a m\u00ed que me sobran lo' condone'\nDo' bellaco' amante 'e la' misiones\nSi ese totito es krippy, yo quiero que sea mi conne\nBaja pa' casa y te cocino, dale, una y una botella de vino\nGata salvaje, yo soy tu bambino\nLe gustan lo' magnate', pa' que le compren Valentino\nUh, y conmigo se le dio\nLa vi en cuatro y le di gracia' a Dio'\nLa mai' e' una santa, no s\u00e9 a qui\u00e9n sali\u00f3\nTu movie no le impresiona porque ya la vio, ey\nY sabe que es feka, conmigo no hace fila pa' la discoteca\nCon la amiga se confiesa, conmigo e' que peca\nEh, eh, pero no le cuente' (-te', -te')\nYou might also like[Coro: Bad Bunny & Jhay Cortez]\n\u00bfC\u00f3mo se siente, c\u00f3mo se siente?\nCuando yo estoy adentro y t\u00fa est\u00e1' al frente\nO si no encima de m\u00ed\nCuando te hago venir, venir, venir\n\u00bfC\u00f3mo se siente, c\u00f3mo se siente?\nCuando yo estoy adentro y t\u00fa est\u00e1' al frente\nHacemo' posicione' diferente'\nBaby, t\u00fa no sale' de mi mente (\u00bfMe sigue'?)\n\n[Verso 2: Jhay Cortez & Bad Bunny]\nNo, nunca\nBaby, perdona la pregunta\nSi tu cuerpo fuera la calle\nSabe' que yo tengo la ruta\nY parcerita como Karol G\nPero le gustan maliante' a lo Real G\nSe lo mete y le da play como un DVD\nDe su casa no sale, como \"El Diario\" de Eddie Dee\nHace calor, pero yo soy un fresco (Fresco, oh)\nYo te quiero abrir como un texto, oh-oh\nCompr\u00e9 lo' condone' en el puerto\nSe moja y me mont\u00f3 como un jetco, oh\nCabrone', denle su espacio\nS\u00e9 lo rica que se ve en ropa de gimnasio\nA m\u00ed me encantan lo' tatuaje' en tus brazo'\nBaja pa' casa, que yo te lleno el tanque de gaso\n[Puente: Jhay Cortez & Bad Bunny]\nEntra y sale, to' los male'\nH\u00e9ctor pa'l tiempo 'e Los Anormale'\nDon cuando dec\u00eda \"Dale\"\nEn el carro se empa\u00f1an to' los cristale'\nEntra y sale, to' los male'\nH\u00e9ctor pa'l tiempo 'e Los Anormale'\nBaby, hasta Don me dec\u00eda: \"Dale m\u00e1' duro que Tito Puente a los timbale\"\nY si no quiere' amor, te doy sexo, eh\nTe lleno la espalda de beso', s\u00ed\nUn poquito de aderezo si quiere bajar el queso\n\n[Pre-Coro: Jhay Cortez]\nDime y nos matamo'\nDime t\u00fa d\u00f3nde nos vemo'\nQue el tiempo est\u00e1 pasando\nY t\u00fa est\u00e1s perdi\u00e9ndote\n\n[Coro: Jhay Cortez]\n\u00bfC\u00f3mo se siente, c\u00f3mo se siente?\nCuando yo estoy adentro y t\u00fa est\u00e1' al frente\nO si no encima 'e m\u00ed\nC\u00f3mo terminamo' as\u00ed, as\u00ed, as\u00ed\n\u00bfC\u00f3mo se siente, c\u00f3mo se siente?\nCuando yo estoy adentro y t\u00fa est\u00e1' al frente\nHacemo' posicione' diferente'\nBaby, t\u00fa no sale' de mi mente6Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/7967954",
+   "artist_names": "Bad Bunny & Jhay Cortez",
+   "full_title": "Tarot by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+   "header_image_thumbnail_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.1000x1000x1.jpg",
+   "id": 7967954,
+   "language": "es",
+   "lyrics_owner_id": 7461491,
+   "lyrics_state": "complete",
+   "path": "/Bad-bunny-and-jhay-cortez-tarot-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Bad-bunny-and-jhay-cortez-tarot-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 5,
+    "day": 6
+   },
+   "release_date_for_display": "May 6, 2022",
+   "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 27,
+    "iq_earners": 27,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 174918
+   },
+   "title": "Tarot",
+   "title_with_featured": "Tarot",
+   "url": "https://genius.com/Bad-bunny-and-jhay-cortez-tarot-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2452115",
+    "header_image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "id": 2452115,
+    "image_url": "https://images.genius.com/5c5e2d2f4cabbe5e4cf8b8f399aeeb9f.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bad Bunny & Jhay Cortez",
+    "url": "https://genius.com/artists/Bad-bunny-and-jhay-cortez"
+   },
+   "apple_music_id": "1622045643",
+   "apple_music_player_url": "https://genius.com/songs/7967954/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7967954' class='rg_embed_link' data-song-id='7967954'>Read <a href='https://genius.com/Bad-bunny-and-jhay-cortez-tarot-lyrics'>\u201cTarot\u201d by Bad\u00a0Bunny & Jhay Cortez</a> on Genius</div> <script crossorigin src='//genius.com/songs/7967954/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-05-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/827418",
+    "cover_art_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.1000x1000x1.jpg",
+    "full_title": "Un Verano Sin Ti by Bad Bunny",
+    "id": 827418,
+    "name": "Un Verano Sin Ti",
+    "release_date_for_display": "May 6, 2022",
+    "url": "https://genius.com/albums/Bad-bunny/Un-verano-sin-ti",
+    "artist": {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/613023",
+       "header_image_url": "https://images.genius.com/169533ef2ea92a01fec7bbbc8277ca36.600x600x1.png",
+       "id": 613023,
+       "image_url": "https://images.genius.com/ecc6feb6595353a46f34819117269b67.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "The Orchard",
+       "url": "https://genius.com/artists/The-orchard"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/606741",
+       "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+       "id": 606741,
+       "image_url": "https://images.genius.com/414ab429ee8ea4c63bdf965e889c5499.331x331x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Gudwin",
+       "url": "https://genius.com/artists/Josh-gudwin"
+      }
+     ]
+    },
+    {
+     "label": "Primary Artists",
+     "artists": [
+      {
+       "api_path": "/artists/690350",
+       "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+       "id": 690350,
+       "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bad Bunny",
+       "url": "https://genius.com/artists/Bad-bunny"
+      },
+      {
+       "api_path": "/artists/1015573",
+       "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+       "id": 1015573,
+       "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Jhayco",
+       "url": "https://genius.com/artists/Jhayco",
+       "iq": 538
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1293816",
+       "header_image_url": "https://images.genius.com/447863523cd3a30766725824a2f8ac23.1000x210x1.png",
+       "id": 1293816,
+       "image_url": "https://images.genius.com/be64dc66d3cdf527cf9bfbdfaeb0e696.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rimas Music",
+       "url": "https://genius.com/artists/Rimas-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8326769,
+    "annotator_login": "loveholic",
+    "api_path": "/referents/25745876",
+    "classification": "needs_exegesis",
+    "fragment": "Tarot",
+    "id": 25745876,
+    "is_description": true,
+    "path": "/25745876/Bad-bunny-and-jhay-cortez-tarot/Tarot",
+    "range": {
+     "content": "Tarot"
+    },
+    "song_id": 7967954,
+    "url": "https://genius.com/25745876/Bad-bunny-and-jhay-cortez-tarot/Tarot",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7967954",
+     "client_timestamps": {
+      "updated_by_human_at": 1680495120,
+      "lyrics_updated_at": 1680495120
+     },
+     "context": "Bad Bunny & Jhay Cortez",
+     "id": 7967954,
+     "image_url": "https://images.genius.com/0c93db95b0db6cc1a030501845da4291.1000x1000x1.jpg",
+     "link_title": "Tarot by\u00a0Bad\u00a0Bunny & Jhay Cortez",
+     "title": "Tarot",
+     "type": "Song",
+     "url": "https://genius.com/Bad-bunny-and-jhay-cortez-tarot-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25745876",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25745876,
+      "pinned": false,
+      "share_url": "https://genius.com/25745876",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25745876/Bad-bunny-and-jhay-cortez-tarot/Tarot",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8326769",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/33cf2cced6f9914adfd9b9670b0eca68",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/33cf2cced6f9914adfd9b9670b0eca68",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/33cf2cced6f9914adfd9b9670b0eca68",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/33cf2cced6f9914adfd9b9670b0eca68",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/bf9dd721d57eddac3b50ec375fd6c3fc.1000x1000x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 8326769,
+         "iq": 376770,
+         "login": "loveholic",
+         "name": "\u200bloveholic",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/loveholic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/5529082",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/bdd79742ba3069cdd6578141bd7d5664",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/50d8aa24c9443397fc99bee0ec7b9440.970x722x1.jpg",
+    "human_readable_role_for_display": "Moderator",
+    "id": 5529082,
+    "iq": 1587457,
+    "login": "polka",
+    "name": "\u200bpolka",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/polka",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/8388577",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f9eba4b9db3384e2959b08abf4f2e8d9",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ip3akdtz9q",
+    "human_readable_role_for_display": "Staff",
+    "id": 8388577,
+    "iq": 83120,
+    "login": "BaoTumbao",
+    "name": "BaoTumbao",
+    "role_for_display": "staff",
+    "url": "https://genius.com/BaoTumbao",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gwJ7YKhmWKg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/984728",
+     "header_image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+     "id": 984728,
+     "image_url": "https://images.genius.com/9781c281380300b331a4c747ce6522eb.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "La Paciencia",
+     "url": "https://genius.com/artists/La-paciencia"
+    },
+    {
+     "api_path": "/artists/1855159",
+     "header_image_url": "https://images.genius.com/1e2491c3c0fb1e501a192710d074d7f7.1000x1000x1.jpg",
+     "id": 1855159,
+     "image_url": "https://images.genius.com/f7b48af79bcbcc026ef2cf9bbd6a030e.630x630x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Albert Hype",
+     "url": "https://genius.com/artists/Albert-hype"
+    },
+    {
+     "api_path": "/artists/218765",
+     "header_image_url": "https://images.genius.com/526c4117bc8e411233fdd7541ec023a7.372x372x1.png",
+     "id": 218765,
+     "image_url": "https://images.genius.com/526c4117bc8e411233fdd7541ec023a7.372x372x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jota Rosa",
+     "url": "https://genius.com/artists/Jota-rosa"
+    },
+    {
+     "api_path": "/artists/72334",
+     "header_image_url": "https://images.genius.com/cff947fbc7e038ec59d046e7334188c6.426x594x1.jpg",
+     "id": 72334,
+     "image_url": "https://images.genius.com/3a4e90f27e09edbd132d5cfb1a570776.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tainy",
+     "url": "https://genius.com/artists/Tainy",
+     "iq": 387
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7968027",
+       "artist_names": "Genius English Translations",
+       "full_title": "Bad Bunny & Jhay Cortez - Tarot (English Translation) by\u00a0Genius\u00a0English Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/8e4fa2ecabe8d6b9791c4fc0cf0d5245.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8e4fa2ecabe8d6b9791c4fc0cf0d5245.1000x1000x1.jpg",
+       "id": 7968027,
+       "language": "en",
+       "lyrics_owner_id": 8326769,
+       "lyrics_state": "complete",
+       "path": "/Genius-english-translations-bad-bunny-and-jhay-cortez-tarot-english-translation-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-tarot-english-translation-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 5,
+        "day": 6
+       },
+       "release_date_for_display": "May 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8e4fa2ecabe8d6b9791c4fc0cf0d5245.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8e4fa2ecabe8d6b9791c4fc0cf0d5245.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 128530
+       },
+       "title": "Bad Bunny & Jhay Cortez - Tarot (English Translation)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - Tarot (English Translation)",
+       "url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-tarot-english-translation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/196943",
+        "header_image_url": "https://images.genius.com/38f8fc30844014c124b4e4a28a39ec40.39x35x1.png",
+        "id": 196943,
+        "image_url": "https://images.genius.com/03131b2068adac6028ecefed2c657d97.222x222x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius English Translations",
+        "url": "https://genius.com/artists/Genius-english-translations"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8539418",
+       "artist_names": "Genius Deutsche \u00dcbersetzungen",
+       "full_title": "Bad Bunny & Jhay Cortez - Tarot (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+       "header_image_thumbnail_url": "https://images.genius.com/b8acf7cafcf1b312a68eef2754b7416e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b8acf7cafcf1b312a68eef2754b7416e.600x600x1.jpg",
+       "id": 8539418,
+       "language": "de",
+       "lyrics_owner_id": 14660310,
+       "lyrics_state": "complete",
+       "path": "/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-tarot-deutsche-ubersetzung-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-tarot-deutsche-ubersetzung-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 5,
+        "day": 6
+       },
+       "release_date_for_display": "May 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b8acf7cafcf1b312a68eef2754b7416e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b8acf7cafcf1b312a68eef2754b7416e.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Bad Bunny & Jhay Cortez - Tarot (Deutsche \u00dcbersetzung)",
+       "title_with_featured": "Bad Bunny & Jhay Cortez - Tarot (Deutsche \u00dcbersetzung)",
+       "url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-tarot-deutsche-ubersetzung-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1799569",
+        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+        "id": 1799569,
+        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Deutsche \u00dcbersetzungen",
+        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7968027",
+     "id": 7968027,
+     "language": "en",
+     "lyrics_state": "complete",
+     "path": "/Genius-english-translations-bad-bunny-and-jhay-cortez-tarot-english-translation-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - Tarot (English Translation)",
+     "url": "https://genius.com/Genius-english-translations-bad-bunny-and-jhay-cortez-tarot-english-translation-lyrics"
+    },
+    {
+     "api_path": "/songs/8539418",
+     "id": 8539418,
+     "language": "de",
+     "lyrics_state": "complete",
+     "path": "/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-tarot-deutsche-ubersetzung-lyrics",
+     "title": "Bad Bunny & Jhay Cortez - Tarot (Deutsche \u00dcbersetzung)",
+     "url": "https://genius.com/Genius-deutsche-ubersetzungen-bad-bunny-and-jhay-cortez-tarot-deutsche-ubersetzung-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/690350",
+     "header_image_url": "https://images.genius.com/3f26c4ceeed73948eff37118e65d9c15.1000x403x1.jpg",
+     "id": 690350,
+     "image_url": "https://images.genius.com/81343b78c366be4b49bc043449f5aef1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bad Bunny",
+     "url": "https://genius.com/artists/Bad-bunny"
+    },
+    {
+     "api_path": "/artists/1015573",
+     "header_image_url": "https://images.genius.com/f5bf821589e452cf207e521cf25cc097.650x311x1.jpg",
+     "id": 1015573,
+     "image_url": "https://images.genius.com/68044889397170da2b22a73b1f316ab5.869x869x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jhayco",
+     "url": "https://genius.com/artists/Jhayco",
+     "iq": 538
+    }
+   ],
+   "artist": "Bad Bunny & Jhay Cortez",
+   "lyrics": "27 ContributorsTranslationsEnglishDeutschTarot Lyrics[Letra de \"Tarot\"]\n\n[Intro: Jhay Cortez]\nVerte en el VIP de lejito' e' un privilegio (-legio)\nBaby, t\u00fa ere' un mito, ese culito e' un misterio (-terio)\nT\u00fa loquita porque te cojan y yo que me coja en serio\nY a Dios le vo'a pedir que te lo explique (-plique)\nQue t\u00fa est\u00e1s muy dura, t\u00fa tiene' el pique (Pique)\nNo te sorprenden to' estos bobo' con ticket (Ticket)\nT\u00fa lo qu\u0435 quiere' es qu\u0435 te chi\u2014\n[Coro: Jhay Cortez]\nOjal\u00e1 y tenga suerte\nPorque no cualquiera puede llegarte\nPero yo voy a m\u00ed pa' que hoy t\u00fa me la suelte'\nTienes la disco de museo, ma', t\u00fa ere' arte\nY yo pagu\u00e9 pa' verte\nY va a gustarte\nTo' lo que quiero hacerte, eh\nHoy tengo que hablarte\nTienes la disco de museo, ma', t\u00fa ere' arte\nOjal\u00e1 y tenga suerte\n\n[Verso 1: Bad Bunny]\nEh-eh, ey\nSi subiste una story es pa' que te lo comenten (-menten)\nSi te mand\u00e9 un fueguito es que me tiene' caliente (Caliente)\nT\u00fa est\u00e1s dura de espalda y m\u00e1s rica de frente (Frente), eh-eh\nMami, yo le llego al oeste, je\nSi es pa' darte este, ey\nBaby, yo quiero darte las buena' noche' pa' que te acueste'\nY si se da al fin, nos vamo' de aqu\u00ed\nOjal\u00e1 diga' que s\u00ed, vamo' a darle\nQue anda' bonita y suelta, bonita y suelta\nSe dej\u00f3 del gato y tiene cinco de repuesta\nYo quiero saber con qu\u00e9 pantycito te acuesta'\nBaby, dime si t\u00fa 't\u00e1s puesta\nYou might also like[Coro: Bad Bunny]\nOjal\u00e1 y tenga suerte\nPorque no cualquiera puede llegarte\nPero yo voy a m\u00ed pa' que hoy t\u00fa me la suelte'\nTienes la disco de museo, ma', t\u00fa ere' arte\nYo pagu\u00e9 pa' verte\nY va a gustarte\nTo' lo que quiero hacerte, eh\nHoy tengo que hablarte\nTienes la disco de museo, ma', t\u00fa ere' arte\nOjal\u00e1 y tenga suerte\n\n[Verso 2: Jhay Cortez]\nPa' ganarte\nY por m\u00e1s que me ignora', est\u00e1 imposible ignorarte\nEl sol al la'o tuyo no es tan brillante\nYo soy Da Vinci y t\u00fa mi obra de arte\nT\u00fa ere' arte\nPorque tu flow Dios lo bendiga\nLlega y toa' las babie' te ligan\nAbdominale' y sin hacerte la barriga\nTu ex todav\u00eda te hostiga\nPorque t\u00fa 't\u00e1 cotiz\u00e1'\nTo'a las marca' actualiz\u00e1'\nBaby, si fuera cristiano hoy te fueras bautiz\u00e1'\nQu\u00edtate to', que ya te la quiero ver\nQue t\u00fa 't\u00e1s trending sin tenerte que joder\nVente conmigo, nos podemo' beber\nA ti te va a correr\n[Coro: Jhay Cortez & Bad Bunny]\nOjal\u00e1 y tenga suerte\nPorque no cualquiera puede llegarte\nPero yo voy a m\u00ed pa' que hoy t\u00fa me la suelte'\nTienes la disco de museo, ma', t\u00fa ere' arte\nY yo pagu\u00e9 pa' verte\nY va a gustarte\nTo' lo que quiero hacerte, eh6Embed"
+  }
+ ]
+}

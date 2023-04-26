@@ -1,0 +1,173 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/566556",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+ "id": 566556,
+ "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Pedro Caparros L\u00f3pez",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Pedro-caparros-lopez",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 347214,
+  "annotator_login": "CFS83",
+  "api_path": "/referents/7812609",
+  "classification": "needs_exegesis",
+  "fragment": "Pedro Caparros L\u00f3pez",
+  "id": 7812609,
+  "is_description": true,
+  "path": "/7812609/Pedro-caparros-lopez/Pedro-caparros-lopez",
+  "range": {
+   "content": "Pedro Caparros L\u00f3pez"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7812609/Pedro-caparros-lopez/Pedro-caparros-lopez",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/566556",
+   "context": null,
+   "id": 566556,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+   "link_title": "Pedro Caparros L\u00f3pez",
+   "title": "Pedro Caparros L\u00f3pez",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Pedro-caparros-lopez"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7812609",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7812609,
+    "pinned": false,
+    "share_url": "https://genius.com/7812609",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7812609/Pedro-caparros-lopez/Pedro-caparros-lopez",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/347214",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/b2a9a65bd8c757d010e25bb3fa2d5bc2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/b2a9a65bd8c757d010e25bb3fa2d5bc2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/b2a9a65bd8c757d010e25bb3fa2d5bc2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/b2a9a65bd8c757d010e25bb3fa2d5bc2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6Xmp2jsTrmtY3RySW1Ow_10153859119777202.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 347214,
+       "iq": 62413,
+       "login": "CFS83",
+       "name": "CFS83",
+       "role_for_display": "editor",
+       "url": "https://genius.com/CFS83",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

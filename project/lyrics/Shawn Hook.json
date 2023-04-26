@@ -1,0 +1,1984 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/453499",
+ "description": {
+  "plain": "Hook is a Canadian singer, songwriter and producer from Nelson, British Columbia. He is signed to Kreative Soul Entertainment, Inc., under exclusive license to EMI Music Canada. He was born in 1984."
+ },
+ "facebook_name": null,
+ "followers_count": 4,
+ "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+ "id": 453499,
+ "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Shawn Hook",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Shawn-hook",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3700958,
+  "annotator_login": "Mirajane_Strauss",
+  "api_path": "/referents/7117797",
+  "classification": "accepted",
+  "fragment": "Shawn Hook",
+  "id": 7117797,
+  "is_description": true,
+  "path": "/7117797/Shawn-hook/Shawn-hook",
+  "range": {
+   "content": "Shawn Hook"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7117797/Shawn-hook/Shawn-hook",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/453499",
+   "context": null,
+   "id": 453499,
+   "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+   "link_title": "Shawn Hook",
+   "title": "Shawn Hook",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Shawn-hook"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7117797",
+    "body": {
+     "plain": "Hook is a Canadian singer, songwriter and producer from Nelson, British Columbia. He is signed to Kreative Soul Entertainment, Inc., under exclusive license to EMI Music Canada. He was born in 1984."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7117797,
+    "pinned": false,
+    "share_url": "https://genius.com/7117797",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7117797/Shawn-hook/Shawn-hook",
+    "verified": false,
+    "votes_total": 3,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.78125,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3700958",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/343e9783cbbf3cf6beeb4e445ffa6972",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/343e9783cbbf3cf6beeb4e445ffa6972",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/343e9783cbbf3cf6beeb4e445ffa6972",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/343e9783cbbf3cf6beeb4e445ffa6972",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mlqcDNuVS0CFJj19v5eE_anime%20sword.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3700958,
+       "iq": 686,
+       "login": "Mirajane_Strauss",
+       "name": "Mirajane_Strauss",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Mirajane_Strauss",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.21875,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3650910",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e622e28b3bdc980d7e69f301169282bd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e622e28b3bdc980d7e69f301169282bd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e622e28b3bdc980d7e69f301169282bd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e622e28b3bdc980d7e69f301169282bd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JNhj0aB9SZyfYra4EVeW_shelves.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 3650910,
+       "iq": 62384,
+       "login": "scopeyclaire",
+       "name": "Seaeffess",
+       "role_for_display": "editor",
+       "url": "https://genius.com/scopeyclaire",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/4694497",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/147a56bf72344e1b0d78e6e5df3494e2",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/147a56bf72344e1b0d78e6e5df3494e2",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/147a56bf72344e1b0d78e6e5df3494e2",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/147a56bf72344e1b0d78e6e5df3494e2",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/147a56bf72344e1b0d78e6e5df3494e2",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 4694497,
+  "iq": 100,
+  "login": "shawn_hook",
+  "name": "Shawn Hook",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/shawn_hook",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2989707",
+   "artist_names": "Shawn Hook (Ft. Vanessa Hudgens)",
+   "full_title": "Reminding Me by\u00a0Shawn\u00a0Hook (Ft.\u00a0Vanessa\u00a0Hudgens)",
+   "header_image_thumbnail_url": "https://images.genius.com/ea4d7dc6b328c1923a9387afad4eef4e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ea4d7dc6b328c1923a9387afad4eef4e.1000x1000x1.jpg",
+   "id": 2989707,
+   "language": "en",
+   "lyrics_owner_id": 3439747,
+   "lyrics_state": "complete",
+   "path": "/Shawn-hook-reminding-me-lyrics",
+   "pyongs_count": 10,
+   "relationships_index_url": "https://genius.com/Shawn-hook-reminding-me-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 4,
+    "day": 21
+   },
+   "release_date_for_display": "April 21, 2017",
+   "release_date_with_abbreviated_month_for_display": "Apr. 21, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ea4d7dc6b328c1923a9387afad4eef4e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ea4d7dc6b328c1923a9387afad4eef4e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 22,
+    "iq_earners": 19,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 133473
+   },
+   "title": "Reminding Me",
+   "title_with_featured": "Reminding Me (Ft.\u00a0Vanessa\u00a0Hudgens)",
+   "url": "https://genius.com/Shawn-hook-reminding-me-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/184931",
+     "header_image_url": "https://images.genius.com/d04949c5a413d25eb962526ee09b7743.1000x666x1.jpg",
+     "id": 184931,
+     "image_url": "https://images.genius.com/e61ff5a86719aebf7d44be64a7ab5781.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Vanessa Hudgens",
+     "url": "https://genius.com/artists/Vanessa-hudgens"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/453499",
+    "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "id": 453499,
+    "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Shawn Hook",
+    "url": "https://genius.com/artists/Shawn-hook",
+    "iq": 100
+   },
+   "apple_music_id": "1246372275",
+   "apple_music_player_url": "https://genius.com/songs/2989707/apple_music_player",
+   "description": {
+    "plain": "\u201cReminding Me\u201d is the long-awaited single from the canadian artist Shawn Hook featuring Vanessa Hudgens.\n\nIn the song, we see a couple who\u2019ve been torn apart by circumstances, but keep on thinking about each other as they try to move on with their new lovers. Both Hook and Hudgens seem visibly unable to forget each other.\n\nThe single was announced on April 19th 2017 by both Hook and Hudgens on their Instagram accounts. It was released on April 21st on Youtube, Spotify, iTunes, Apple Music and Tidal. A week after its premiere, the music video had already been watched 1,2 million times on Youtube.\n\nHudgens' fans were specially excited for the song, for the singer hadn\u2019t released anything since the unpopular $$$ex, in 2013, an experimental song in collaboration with YLAmusic."
+   },
+   "embed_content": "<div id='rg_embed_link_2989707' class='rg_embed_link' data-song-id='2989707'>Read <a href='https://genius.com/Shawn-hook-reminding-me-lyrics'>\u201cReminding Me\u201d by Shawn\u00a0Hook</a> on Genius</div> <script crossorigin src='//genius.com/songs/2989707/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-04-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/350071",
+    "cover_art_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.1000x1000x1.jpg",
+    "full_title": "My Side Of Your Story EP by Shawn Hook",
+    "id": 350071,
+    "name": "My Side Of Your Story EP",
+    "release_date_for_display": "June 16, 2017",
+    "url": "https://genius.com/albums/Shawn-hook/My-side-of-your-story-ep",
+    "artist": {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/358432",
+       "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+       "id": 358432,
+       "image_url": "https://images.genius.com/b0c7ef708bb2db7290ad5005dd73acb2.810x810x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Haywood",
+       "url": "https://genius.com/artists/Haywood"
+      },
+      {
+       "api_path": "/artists/378099",
+       "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+       "id": 378099,
+       "image_url": "https://images.genius.com/7ae48c4aa75e0a3114f468fc6b20abc2.480x480x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Steph Jones",
+       "url": "https://genius.com/artists/Steph-jones"
+      },
+      {
+       "api_path": "/artists/266902",
+       "header_image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+       "id": 266902,
+       "image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Todd Clark",
+       "url": "https://genius.com/artists/Todd-clark"
+      }
+     ]
+    },
+    {
+     "label": "Additional Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/358432",
+       "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+       "id": 358432,
+       "image_url": "https://images.genius.com/b0c7ef708bb2db7290ad5005dd73acb2.810x810x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Haywood",
+       "url": "https://genius.com/artists/Haywood"
+      },
+      {
+       "api_path": "/artists/56982",
+       "header_image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+       "id": 56982,
+       "image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jonas Jeberg",
+       "url": "https://genius.com/artists/Jonas-jeberg"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer Programming",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      }
+     ]
+    },
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/198492",
+       "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+       "id": 198492,
+       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Gehringer",
+       "url": "https://genius.com/artists/Chris-gehringer"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/642021",
+       "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+       "id": 642021,
+       "image_url": "https://images.genius.com/b1b58de91238b86132e8d43fe86e6c58.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Erik Madrid",
+       "url": "https://genius.com/artists/Erik-madrid"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/29138",
+       "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "id": 29138,
+       "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KOZ",
+       "url": "https://genius.com/artists/Koz"
+      },
+      {
+       "api_path": "/artists/682375",
+       "header_image_url": "https://images.genius.com/7aea8f3cd0f1eb5d62766cbcd1656b95.1000x1000x1.jpg",
+       "id": 682375,
+       "image_url": "https://images.genius.com/7aea8f3cd0f1eb5d62766cbcd1656b95.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ruffian",
+       "url": "https://genius.com/artists/Ruffian"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1084523",
+       "header_image_url": "https://images.genius.com/24d24f8ce757b04ac63cc1a8ff99f764.366x366x1.png",
+       "id": 1084523,
+       "image_url": "https://images.genius.com/24d24f8ce757b04ac63cc1a8ff99f764.366x366x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Snell",
+       "url": "https://genius.com/artists/Matt-snell"
+      },
+      {
+       "api_path": "/artists/1029445",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1029445,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jorge Gutierrez",
+       "url": "https://genius.com/artists/Jorge-gutierrez"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4521732,
+    "annotator_login": "BeatrizValente",
+    "api_path": "/referents/11351835",
+    "classification": "accepted",
+    "fragment": "Reminding Me",
+    "id": 11351835,
+    "is_description": true,
+    "path": "/11351835/Shawn-hook-reminding-me/Reminding-me",
+    "range": {
+     "content": "Reminding Me"
+    },
+    "song_id": 2989707,
+    "url": "https://genius.com/11351835/Shawn-hook-reminding-me/Reminding-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2989707",
+     "client_timestamps": {
+      "updated_by_human_at": 1658905355,
+      "lyrics_updated_at": 1561886461
+     },
+     "context": "Shawn Hook",
+     "id": 2989707,
+     "image_url": "https://images.genius.com/ea4d7dc6b328c1923a9387afad4eef4e.1000x1000x1.jpg",
+     "link_title": "Reminding Me by\u00a0Shawn\u00a0Hook (Ft.\u00a0Vanessa\u00a0Hudgens)",
+     "title": "Reminding Me",
+     "type": "Song",
+     "url": "https://genius.com/Shawn-hook-reminding-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11351835",
+      "body": {
+       "plain": "\u201cReminding Me\u201d is the long-awaited single from the canadian artist Shawn Hook featuring Vanessa Hudgens.\n\nIn the song, we see a couple who\u2019ve been torn apart by circumstances, but keep on thinking about each other as they try to move on with their new lovers. Both Hook and Hudgens seem visibly unable to forget each other.\n\nThe single was announced on April 19th 2017 by both Hook and Hudgens on their Instagram accounts. It was released on April 21st on Youtube, Spotify, iTunes, Apple Music and Tidal. A week after its premiere, the music video had already been watched 1,2 million times on Youtube.\n\nHudgens' fans were specially excited for the song, for the singer hadn\u2019t released anything since the unpopular $$$ex, in 2013, an experimental song in collaboration with YLAmusic."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11351835,
+      "pinned": false,
+      "share_url": "https://genius.com/11351835",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11351835/Shawn-hook-reminding-me/Reminding-me",
+      "verified": false,
+      "votes_total": 9,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9621212121212122,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4521732",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9167210a69ba1f53801fa71b4429dcd6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9167210a69ba1f53801fa71b4429dcd6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9167210a69ba1f53801fa71b4429dcd6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9167210a69ba1f53801fa71b4429dcd6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9167210a69ba1f53801fa71b4429dcd6",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4521732,
+         "iq": 2813,
+         "login": "BeatrizValente",
+         "name": "BeatrizValente",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BeatrizValente",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.030303030303030304,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/288506",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/210295e026f6916d64f252e058979759",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/210295e026f6916d64f252e058979759",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/210295e026f6916d64f252e058979759",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/210295e026f6916d64f252e058979759",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/210295e026f6916d64f252e058979759",
+         "human_readable_role_for_display": "Editor",
+         "id": 288506,
+         "iq": 72801,
+         "login": "nicole13",
+         "name": "nicole13",
+         "role_for_display": "editor",
+         "url": "https://genius.com/nicole13",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.007575757575757576,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5288251",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 5288251,
+         "iq": 62,
+         "login": "JesseRuderman",
+         "name": "JesseRuderman",
+         "role_for_display": null,
+         "url": "https://genius.com/JesseRuderman",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3Mjer7nERC4u3tkkSopwLp",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3Mjer7nERC4u3tkkSopwLp"
+    },
+    {
+     "attribution": "shawnhook",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/shawnhook/reminding-me"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=W5j3bSprL1k"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/29138",
+     "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "id": 29138,
+     "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KOZ",
+     "url": "https://genius.com/artists/Koz"
+    },
+    {
+     "api_path": "/artists/56982",
+     "header_image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+     "id": 56982,
+     "image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonas Jeberg",
+     "url": "https://genius.com/artists/Jonas-jeberg"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/960465",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 960465,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ethan Thompson",
+     "url": "https://genius.com/artists/Ethan-thompson"
+    },
+    {
+     "api_path": "/artists/56982",
+     "header_image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+     "id": 56982,
+     "image_url": "https://images.genius.com/749507f81eab4e04d58768e9af11cea9.800x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonas Jeberg",
+     "url": "https://genius.com/artists/Jonas-jeberg"
+    },
+    {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    }
+   ],
+   "artist": "Shawn Hook",
+   "lyrics": "22 ContributorsReminding Me Lyrics[Chorus: Shawn Hook, Vanessa Hudgens & Both]\nShe keeps reminding me\nThat you\u2019re still gone\nAnd I\u2019m still lonely\nHe keeps reminding me\nHow good it was\nWhen we were crazy\n\n[Verse 1: Shawn Hook]\nWine, she\u2019s spitting out the wine\nI forgot you left behind\nOur favorite cherry red\nOh, love, I know this isn\u2019t love\n'Cause I\u2019m still thinking of you\nWhile she\u2019s getting undressed\nI never should have left\n\n[Chorus: Shawn Hook]\nShe keeps reminding me\nThat you\u2019re still gone\nAnd I\u2019m still lonely\nShe keeps reminding me\nHow good it was\nWhen we were crazy\n\n[Post-Chorus: Shawn Hook]\nIn love, love\nShe keeps reminding me\nHow good it was, was\nShe keeps reminding me\nYou might also like[Verse 2: Vanessa Hudgens]\nNights, I miss the faded nights\nStaying out 'til morning light\nHaving breakfast in bed\nNow he, he's laying in the sheets\nThe ones you bought for me\nAll tangled in a mess\nIt should be you instead\n\n[Chorus: Shawn Hook & Vanessa Hudgens]\nHe keeps reminding me\nThat you\u2019re still gone\nAnd I\u2019m still lonely\nHe keeps reminding me how good it was\nWhen we were crazy\n\n[Post-Chorus]\nIn love, love\nHe keeps reminding me\nHow good it was, was\nHe keeps reminding me\n\n[Bridge: Shawn Hook & Vanessa Hudgens]\nWell, I\u2019m tryna forget you with no regrets\nBut I\u2019m still hanging onto the memories that you left\nI deleted your number with every text\nI\u2019m still tryna forget you, forget you\n[Chorus: Shawn Hook, Vanessa Hudgens & Both]\nShe keeps reminding me\nThat you\u2019re still gone\nAnd I\u2019m still lonely\nHe keeps reminding me\nHow good it was\nWhen we were crazy\nShe keeps reminding me\nThat you\u2019re still gone\nAnd I\u2019m still lonely\nHe keeps reminding me\nHow good it was\nWhen we were crazy\n\n[Post-Chorus: Shawn Hook & Vanessa Hudgens]\nIn love, love\nShe keeps reminding me\nHow good it was, was\nShe keeps reminding me\n\n[Outro: Shawn Hook]\nWine, she\u2019s spitting out the wine\nI forgot you left behind10Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2283003",
+   "artist_names": "Shawn Hook",
+   "full_title": "Sound of Your Heart by\u00a0Shawn\u00a0Hook",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/88dcc17ee7663be0c722dfaa3377a1af.300x177x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/88dcc17ee7663be0c722dfaa3377a1af.580x342x1.jpg",
+   "id": 2283003,
+   "language": "en",
+   "lyrics_owner_id": 2059331,
+   "lyrics_state": "complete",
+   "path": "/Shawn-hook-sound-of-your-heart-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Shawn-hook-sound-of-your-heart-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 3,
+    "day": 27
+   },
+   "release_date_for_display": "March 27, 2015",
+   "release_date_with_abbreviated_month_for_display": "Mar. 27, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/831d5773dadd99bf7d8afa8329805761.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/831d5773dadd99bf7d8afa8329805761.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 17,
+    "iq_earners": 17,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 15595
+   },
+   "title": "Sound of Your Heart",
+   "title_with_featured": "Sound of Your Heart",
+   "url": "https://genius.com/Shawn-hook-sound-of-your-heart-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/453499",
+    "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "id": 453499,
+    "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Shawn Hook",
+    "url": "https://genius.com/artists/Shawn-hook",
+    "iq": 100
+   },
+   "apple_music_id": "1072514966",
+   "apple_music_player_url": "https://genius.com/songs/2283003/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2283003' class='rg_embed_link' data-song-id='2283003'>Read <a href='https://genius.com/Shawn-hook-sound-of-your-heart-lyrics'>\u201cSound of Your Heart\u201d by Shawn\u00a0Hook</a> on Genius</div> <script crossorigin src='//genius.com/songs/2283003/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-03-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/147334",
+    "cover_art_url": "https://images.genius.com/04dba4b6a36e1f1a641d71147f519b93.640x640x1.jpg",
+    "full_title": "Analog Love by Shawn Hook",
+    "id": 147334,
+    "name": "Analog Love",
+    "release_date_for_display": "December 10, 2015",
+    "url": "https://genius.com/albums/Shawn-hook/Analog-love",
+    "artist": {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3344664,
+    "annotator_login": "KennyTogs",
+    "api_path": "/referents/17183748",
+    "classification": "needs_exegesis",
+    "fragment": "Sound of Your Heart",
+    "id": 17183748,
+    "is_description": true,
+    "path": "/17183748/Shawn-hook-sound-of-your-heart/Sound-of-your-heart",
+    "range": {
+     "content": "Sound of Your Heart"
+    },
+    "song_id": 2283003,
+    "url": "https://genius.com/17183748/Shawn-hook-sound-of-your-heart/Sound-of-your-heart",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2283003",
+     "client_timestamps": {
+      "updated_by_human_at": 1613218257,
+      "lyrics_updated_at": 1548352608
+     },
+     "context": "Shawn Hook",
+     "id": 2283003,
+     "image_url": "https://images.genius.com/831d5773dadd99bf7d8afa8329805761.1000x1000x1.jpg",
+     "link_title": "Sound of Your Heart by\u00a0Shawn\u00a0Hook",
+     "title": "Sound of Your Heart",
+     "type": "Song",
+     "url": "https://genius.com/Shawn-hook-sound-of-your-heart-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17183748",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17183748,
+      "pinned": false,
+      "share_url": "https://genius.com/17183748",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17183748/Shawn-hook-sound-of-your-heart/Sound-of-your-heart",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3344664",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/678b4a7ae7eca093fa7b004f27b2a5e6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/678b4a7ae7eca093fa7b004f27b2a5e6",
+         "human_readable_role_for_display": "Editor",
+         "id": 3344664,
+         "iq": 19350,
+         "login": "KennyTogs",
+         "name": "KennyTogs",
+         "role_for_display": "editor",
+         "url": "https://genius.com/KennyTogs",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3y1ghrdtGHGOfQHsh9vfNc",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3y1ghrdtGHGOfQHsh9vfNc"
+    },
+    {
+     "attribution": "shawnhook",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/shawnhook/shawn-hook-sound-of-your-heart"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=B_YOWzkJDfY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/29138",
+     "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "id": 29138,
+     "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KOZ",
+     "url": "https://genius.com/artists/Koz"
+    },
+    {
+     "api_path": "/artists/266902",
+     "header_image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+     "id": 266902,
+     "image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Todd Clark",
+     "url": "https://genius.com/artists/Todd-clark"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/29138",
+     "header_image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "id": 29138,
+     "image_url": "https://images.genius.com/7e09ac78dbc05a687d1e48a442abf723.500x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KOZ",
+     "url": "https://genius.com/artists/Koz"
+    },
+    {
+     "api_path": "/artists/266902",
+     "header_image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+     "id": 266902,
+     "image_url": "https://images.genius.com/2b15c2d71f6763f0e925a192428c6a85.413x413x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Todd Clark",
+     "url": "https://genius.com/artists/Todd-clark"
+    }
+   ],
+   "artist": "Shawn Hook",
+   "lyrics": "17 ContributorsSound of Your Heart Lyrics[Verse 1]\nYou were my courage\nMy sword and shield\nGrace under pressure\nMy wall of steel\nI was a stone\nWeighing us down\nYou were the angel I chained to the ground\nI miss the way you undress\nI miss your head on my chest\n\n[Pre-Chorus]\nCan't stop this bleeding\nCan't stop you leaving\nI'm missing the sound of your heart beating\n\n[Chorus]\nBaby I'm in love with you\nOh, and I'm missing the sound of your heart beating\nBaby you were mine to lose\nOh, and I'm missing the sound of your heart beating\n\n[Verse 2]\nYou showed me heaven\nYou rang a bell\nI played with matches\nIt hurt like hell\nAsleep, awake\nYou're all I see\nI can't escape you, can't set you free\nI miss your full moon rising\nCatching a breath in silence\nYou might also like[Pre-Chorus]\nCan't stop this bleeding\nCan't stop you leaving\nI'm missing the sound of your heart beating\n\n[Chorus]\nBaby I'm in love with you\nOh, and I'm missing the sound of your heart beating\nBaby you were mine to lose\nOh, and I'm missing the sound of your heart beating\n\n[Hook]\n(Missing you, missing you)\nI'm missing the sound of your heart beating\n(Missing you, missing you)\nI'm missing the sound of your heart beating\nBaby I'm comin, baby I'm comin\nTell me now baby I'll come running\nBaby I'm comin, baby I'm comin\nSay the word baby I'll come running\n\n[Chorus]\nBaby I'm in love with you\nOh, and I'm missing the sound of your heart beating\nBaby you were mine to lose\nOh, and I'm missing the sound of your heart beating\n[Outro]\nOh, I'm missing the sound, I'm missing the sound of your beating, beating\nI'm missing the sound of your heart beating\nMissing you, missing you\nOh and I'm missing the sound of your heart beating\nMissing you, missing you\nOh, and I'm missing the sound of your heart beating\nBeating, beating\nOh, I'm missing the sound of your heart beatingEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3121630",
+   "artist_names": "Shawn Hook",
+   "full_title": "Never Let Me Let You Go by\u00a0Shawn\u00a0Hook",
+   "header_image_thumbnail_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.1000x1000x1.jpg",
+   "id": 3121630,
+   "language": "en",
+   "lyrics_owner_id": 73946,
+   "lyrics_state": "complete",
+   "path": "/Shawn-hook-never-let-me-let-you-go-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Shawn-hook-never-let-me-let-you-go-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 16
+   },
+   "release_date_for_display": "June 16, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9096
+   },
+   "title": "Never Let Me Let You Go",
+   "title_with_featured": "Never Let Me Let You Go",
+   "url": "https://genius.com/Shawn-hook-never-let-me-let-you-go-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/453499",
+    "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "id": 453499,
+    "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Shawn Hook",
+    "url": "https://genius.com/artists/Shawn-hook",
+    "iq": 100
+   },
+   "apple_music_id": "1246372276",
+   "apple_music_player_url": "https://genius.com/songs/3121630/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3121630' class='rg_embed_link' data-song-id='3121630'>Read <a href='https://genius.com/Shawn-hook-never-let-me-let-you-go-lyrics'>\u201cNever Let Me Let You Go\u201d by Shawn\u00a0Hook</a> on Genius</div> <script crossorigin src='//genius.com/songs/3121630/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/350071",
+    "cover_art_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.1000x1000x1.jpg",
+    "full_title": "My Side Of Your Story EP by Shawn Hook",
+    "id": 350071,
+    "name": "My Side Of Your Story EP",
+    "release_date_for_display": "June 16, 2017",
+    "url": "https://genius.com/albums/Shawn-hook/My-side-of-your-story-ep",
+    "artist": {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3439747,
+    "annotator_login": "KeeganAJGirard",
+    "api_path": "/referents/12156498",
+    "classification": "needs_exegesis",
+    "fragment": "Never Let Me Let You Go",
+    "id": 12156498,
+    "is_description": true,
+    "path": "/12156498/Shawn-hook-never-let-me-let-you-go/Never-let-me-let-you-go",
+    "range": {
+     "content": "Never Let Me Let You Go"
+    },
+    "song_id": 3121630,
+    "url": "https://genius.com/12156498/Shawn-hook-never-let-me-let-you-go/Never-let-me-let-you-go",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3121630",
+     "client_timestamps": {
+      "updated_by_human_at": 1589388161,
+      "lyrics_updated_at": 1497723070
+     },
+     "context": "Shawn Hook",
+     "id": 3121630,
+     "image_url": "https://images.genius.com/7d9223459cd91974a7da11014065fd4f.1000x1000x1.jpg",
+     "link_title": "Never Let Me Let You Go by\u00a0Shawn\u00a0Hook",
+     "title": "Never Let Me Let You Go",
+     "type": "Song",
+     "url": "https://genius.com/Shawn-hook-never-let-me-let-you-go-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12156498",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12156498,
+      "pinned": false,
+      "share_url": "https://genius.com/12156498",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12156498/Shawn-hook-never-let-me-let-you-go/Never-let-me-let-you-go",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3439747",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/cc348a971884217d369808d13464f069",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/cc348a971884217d369808d13464f069",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/cc348a971884217d369808d13464f069",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/cc348a971884217d369808d13464f069",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/cc348a971884217d369808d13464f069",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3439747,
+         "iq": 46355,
+         "login": "KeeganAJGirard",
+         "name": "KeeganAJGirard",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/KeeganAJGirard",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7V47kW6ePms"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/62510",
+     "header_image_url": "https://images.genius.com/08e8edb1dda5bfe743514e85308a7c60.691x691x1.jpg",
+     "id": 62510,
+     "image_url": "https://images.genius.com/08e8edb1dda5bfe743514e85308a7c60.691x691x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Monsters & Strangerz",
+     "url": "https://genius.com/artists/The-monsters-and-strangerz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7072777",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Never Let Me Let You Go by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/cba9302f92fbfb5e185ee49a1d4a4988.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cba9302f92fbfb5e185ee49a1d4a4988.640x640x1.jpg",
+       "id": 7072777,
+       "language": "en",
+       "lyrics_owner_id": 9921177,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-never-let-me-let-you-go-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-never-let-me-let-you-go-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cba9302f92fbfb5e185ee49a1d4a4988.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cba9302f92fbfb5e185ee49a1d4a4988.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Never Let Me Let You Go",
+       "title_with_featured": "Never Let Me Let You Go",
+       "url": "https://genius.com/Kidz-bop-kids-never-let-me-let-you-go-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/453499",
+     "header_image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "id": 453499,
+     "image_url": "https://images.genius.com/bfc76095db216dc9d344292cc9d76e37.491x491x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Shawn Hook",
+     "url": "https://genius.com/artists/Shawn-hook",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/285817",
+     "header_image_url": "https://images.genius.com/c3dc9da9fafb5fd980d85ead05751b9a.200x200x1.jpg",
+     "id": 285817,
+     "image_url": "https://images.genius.com/c3dc9da9fafb5fd980d85ead05751b9a.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacob Kasher",
+     "url": "https://genius.com/artists/Jacob-kasher"
+    },
+    {
+     "api_path": "/artists/155257",
+     "header_image_url": "https://images.genius.com/4791a8a57f145327262c6f8a4bfc72d1.500x333x1.jpg",
+     "id": 155257,
+     "image_url": "https://images.genius.com/4791a8a57f145327262c6f8a4bfc72d1.500x333x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ammar Malik",
+     "url": "https://genius.com/artists/Ammar-malik"
+    },
+    {
+     "api_path": "/artists/304350",
+     "header_image_url": "https://images.genius.com/cc8ffffdfab75e3cb60c3e0c62a9b6a3.237x237x1.png",
+     "id": 304350,
+     "image_url": "https://images.genius.com/cc8ffffdfab75e3cb60c3e0c62a9b6a3.237x237x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stefan Johnson",
+     "url": "https://genius.com/artists/Stefan-johnson"
+    },
+    {
+     "api_path": "/artists/669225",
+     "header_image_url": "https://images.genius.com/27a4c4e75bf6cffbbad6c4a0613a332b.224x224x1.png",
+     "id": 669225,
+     "image_url": "https://images.genius.com/27a4c4e75bf6cffbbad6c4a0613a332b.224x224x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jordan K. Johnson",
+     "url": "https://genius.com/artists/Jordan-k-johnson"
+    },
+    {
+     "api_path": "/artists/1061476",
+     "header_image_url": "https://images.genius.com/b275de8b0a891b939e3942fbe0aea4b9.1000x667x1.jpg",
+     "id": 1061476,
+     "image_url": "https://images.genius.com/c988fdead575c3e31305425650582b6e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "MarcLo",
+     "url": "https://genius.com/artists/Marclo",
+     "iq": 936
+    }
+   ],
+   "artist": "Shawn Hook",
+   "lyrics": "3 ContributorsNever Let Me Let You Go Lyrics[Verse 1]\nWhy can't you just let this heartbreak kick in?\nRule number one: We can't still be friends\nNo late night phone calls\nNo 'How have you been''s\nI've seen that movie, I know how it ends\n\n[Pre-Chorus 1]\nYou start up the fight\nExcuses to see me tonight\nYou say, \"I'm moving on\"\nThen why you back here in my arms?\n\n[Chorus]\nYou never let me let you go\nYou never let me let you go\nEvery time I try telling you goodbye\nYou show up at my home\nYou never let me let you go\nYou never let me let you go\nEvery time I try telling you goodbye\nYou show up at my home\n\n[Verse 2]\nMorning I wake up with you in my bed\nThis instant coffee tastes just like regret\nCounting the days 'til I start to forget\nAs soon as your scratches clear up off my neck\nYou might also like[Pre-Chorus 2]\nYou apologize for doing this time after time\nYou say, \"I'm moving on\"\nThen why can't you ever stay gone?\n\n[Chorus]\nYou never let me let you go\nYou never let me let you go\nEvery time I try telling you goodbye\nYou show up at my home\nYou never let me let you go\nYou never let me let you go\nEvery time I try telling you goodbye\nYou show up at my home\n\n[Refrain]\nWhy do ex lovers make the best lovers?\nAnd always get the best of us?\nMessing up my head and my covers, ohh, ohh, oh\nWhy do ex lovers make the best lovers?\nAnd always get the best of us?\nMessing up my head and my covers, yeah, yeah\n\n[Bridge]\nYou never let me let you go\nYou never let me let you go\n'Cause every time I try telling you goodbye\nYou show up at my home, home, home, yeah\n[Chorus/Outro]\nYou never let me let you go\nYou never let me let you go\nEvery time I try telling you goodbye\nYou show up at my home (you show up at my home)\nYou never let me let you go\n(You never let me let you go)\nYou never let me let you go\n(You never let me let you go)\n(You never let me let you go)\nEvery time I try telling you goodbye\nYou show up at my home (my home)\nYou never let me\nYou never let me let you goEmbed"
+  }
+ ]
+}

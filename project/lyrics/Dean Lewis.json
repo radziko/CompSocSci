@@ -1,0 +1,3514 @@
+{
+ "alternate_names": [
+  "Dean Loaney",
+  "Dean L. G. Loaney",
+  "Dean Lewis Grant Loaney"
+ ],
+ "api_path": "/artists/1026378",
+ "description": {
+  "plain": "Dean Lewis is an Australian singer-songwriter from Sydney. He wrote over 80 original songs before eventually releasing his first proper single, \u201cWaves\u201d, in 2016.\nIn 2017, his debut single was certified 3x platinum in Australia following the release of an EP, Same Kind of Different.\nA second single called \u201cNeed You Now\u201d was released in early 2017, and a third single from the album, \u201cChemicals\u201d, appeared in 2018."
+ },
+ "facebook_name": "deanlewis",
+ "followers_count": 168,
+ "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+ "id": 1026378,
+ "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+ "instagram_name": "deanlewis",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Dean Lewis",
+ "translation_artist": false,
+ "twitter_name": "deanlewismusic",
+ "url": "https://genius.com/artists/Dean-lewis",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 2267,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6531102,
+  "annotator_login": "DelusionalBS_",
+  "api_path": "/referents/10778400",
+  "classification": "accepted",
+  "fragment": "Dean Lewis",
+  "id": 10778400,
+  "is_description": true,
+  "path": "/10778400/Dean-lewis/Dean-lewis",
+  "range": {
+   "content": "Dean Lewis"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10778400/Dean-lewis/Dean-lewis",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1026378",
+   "context": null,
+   "id": 1026378,
+   "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+   "link_title": "Dean Lewis",
+   "title": "Dean Lewis",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Dean-lewis"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10778400",
+    "body": {
+     "plain": "Dean Lewis is an Australian singer-songwriter from Sydney. He wrote over 80 original songs before eventually releasing his first proper single, \u201cWaves\u201d, in 2016.\nIn 2017, his debut single was certified 3x platinum in Australia following the release of an EP, Same Kind of Different.\nA second single called \u201cNeed You Now\u201d was released in early 2017, and a third single from the album, \u201cChemicals\u201d, appeared in 2018."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 10778400,
+    "pinned": false,
+    "share_url": "https://genius.com/10778400",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/10778400/Dean-lewis/Dean-lewis",
+    "verified": false,
+    "votes_total": 29,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6531102",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f2c780df51043272e207c6892577bbe7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f2c780df51043272e207c6892577bbe7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f2c780df51043272e207c6892577bbe7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f2c780df51043272e207c6892577bbe7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/05acnmihu1vr",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6531102,
+       "iq": 11559,
+       "login": "DelusionalBS_",
+       "name": "DelusionalBS_",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/DelusionalBS_",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/7104144",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 7104144,
+  "iq": 2267,
+  "login": "deanlewis",
+  "name": "Dean Lewis",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/deanlewis",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/3806525",
+   "artist_names": "Dean Lewis",
+   "full_title": "Be Alright by\u00a0Dean\u00a0Lewis",
+   "header_image_thumbnail_url": "https://images.genius.com/cc513e0103927d579cbab17595ff46bd.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cc513e0103927d579cbab17595ff46bd.1000x1000x1.jpg",
+   "id": 3806525,
+   "language": "en",
+   "lyrics_owner_id": 2034060,
+   "lyrics_state": "complete",
+   "path": "/Dean-lewis-be-alright-lyrics",
+   "pyongs_count": 108,
+   "relationships_index_url": "https://genius.com/Dean-lewis-be-alright-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 28
+   },
+   "release_date_for_display": "June 28, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 28, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6c17ff0e22271bd5b6ebcd357e2b08ac.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6c17ff0e22271bd5b6ebcd357e2b08ac.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 147,
+    "iq_earners": 147,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 6,
+    "hot": false,
+    "pageviews": 1121532
+   },
+   "title": "Be Alright",
+   "title_with_featured": "Be Alright",
+   "url": "https://genius.com/Dean-lewis-be-alright-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1026378",
+    "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+    "id": 1026378,
+    "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Dean Lewis",
+    "url": "https://genius.com/artists/Dean-lewis",
+    "iq": 2267
+   },
+   "apple_music_id": "1453140007",
+   "apple_music_player_url": "https://genius.com/songs/3806525/apple_music_player",
+   "description": {
+    "plain": "\u201cBe Alright\u201d is a deep and meaningful song about the hardships of a break-up. Completely destroyed, Dean goes to a friend for help who offers the very painful, but necessary advice to move on.\n\nIn an interview with The Music Dean explained the song was not literally about him:\n\nFor people worried about me because the song is so sad \u2013 trust me I\u2019m OK. The song is actually about hope and knowing that in the end things will work out, surrounding yourself with good people\n\nThe track was released in June 2018 as the lead single from his forthcoming debut studio album, after the release of his debut EP Same Kind Of Different in 2017. A month later the music video surfaced. \u201cBe Alright\u201d reached number one and was certified double platinum in Australia, the home country of the singer.\n\nOn 7 September 2018 an acoustic version of the song was released."
+   },
+   "embed_content": "<div id='rg_embed_link_3806525' class='rg_embed_link' data-song-id='3806525'>Read <a href='https://genius.com/Dean-lewis-be-alright-lyrics'>\u201cBe Alright\u201d by Dean\u00a0Lewis</a> on Genius</div> <script crossorigin src='//genius.com/songs/3806525/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/506018",
+    "cover_art_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+    "full_title": "A Place We Knew by Dean Lewis",
+    "id": 506018,
+    "name": "A Place We Knew",
+    "release_date_for_display": "March 22, 2019",
+    "url": "https://genius.com/albums/Dean-lewis/A-place-we-knew",
+    "artist": {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Studio Personnel",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/124862",
+       "header_image_url": "https://images.genius.com/389a14bd130300a67c6b406d372c585a.373x500x1.jpg",
+       "id": 124862,
+       "image_url": "https://images.genius.com/389a14bd130300a67c6b406d372c585a.373x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mark \u201cSpike\u201d Stent",
+       "url": "https://genius.com/artists/Mark-spike-stent"
+      },
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/124862",
+       "header_image_url": "https://images.genius.com/389a14bd130300a67c6b406d372c585a.373x500x1.jpg",
+       "id": 124862,
+       "image_url": "https://images.genius.com/389a14bd130300a67c6b406d372c585a.373x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mark \u201cSpike\u201d Stent",
+       "url": "https://genius.com/artists/Mark-spike-stent"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Drum Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4215583,
+    "annotator_login": "jaylenmiller24",
+    "api_path": "/referents/15093082",
+    "classification": "accepted",
+    "fragment": "Be Alright",
+    "id": 15093082,
+    "is_description": true,
+    "path": "/15093082/Dean-lewis-be-alright/Be-alright",
+    "range": {
+     "content": "Be Alright"
+    },
+    "song_id": 3806525,
+    "url": "https://genius.com/15093082/Dean-lewis-be-alright/Be-alright",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3806525",
+     "client_timestamps": {
+      "updated_by_human_at": 1677904949,
+      "lyrics_updated_at": 1677904949
+     },
+     "context": "Dean Lewis",
+     "id": 3806525,
+     "image_url": "https://images.genius.com/6c17ff0e22271bd5b6ebcd357e2b08ac.640x640x1.jpg",
+     "link_title": "Be Alright by\u00a0Dean\u00a0Lewis",
+     "title": "Be Alright",
+     "type": "Song",
+     "url": "https://genius.com/Dean-lewis-be-alright-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15093082",
+      "body": {
+       "plain": "\u201cBe Alright\u201d is a deep and meaningful song about the hardships of a break-up. Completely destroyed, Dean goes to a friend for help who offers the very painful, but necessary advice to move on.\n\nIn an interview with The Music Dean explained the song was not literally about him:\n\nFor people worried about me because the song is so sad \u2013 trust me I\u2019m OK. The song is actually about hope and knowing that in the end things will work out, surrounding yourself with good people\n\nThe track was released in June 2018 as the lead single from his forthcoming debut studio album, after the release of his debut EP Same Kind Of Different in 2017. A month later the music video surfaced. \u201cBe Alright\u201d reached number one and was certified double platinum in Australia, the home country of the singer.\n\nOn 7 September 2018 an acoustic version of the song was released."
+      },
+      "comment_count": 3,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 15093082,
+      "pinned": false,
+      "share_url": "https://genius.com/15093082",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/15093082/Dean-lewis-be-alright/Be-alright",
+      "verified": false,
+      "votes_total": 163,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8684210526315789,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1686632",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e93399f90d7b6749c3c9be2ce144981f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e93399f90d7b6749c3c9be2ce144981f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e93399f90d7b6749c3c9be2ce144981f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e93399f90d7b6749c3c9be2ce144981f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/56db404980fd3ed6592eba4314569c81.500x248x22.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 1686632,
+         "iq": 143651,
+         "login": "Lyric-dope",
+         "name": "Lyric-dope",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Lyric-dope",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.13157894736842105,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4215583",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4a0844db38c76f0ad91cb50bc052d21c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4a0844db38c76f0ad91cb50bc052d21c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4a0844db38c76f0ad91cb50bc052d21c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4a0844db38c76f0ad91cb50bc052d21c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4a0844db38c76f0ad91cb50bc052d21c",
+         "human_readable_role_for_display": null,
+         "id": 4215583,
+         "iq": 271,
+         "login": "jaylenmiller24",
+         "name": "jaylenmiller24",
+         "role_for_display": null,
+         "url": "https://genius.com/jaylenmiller24",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065824,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:3EPXxR3ImUwfayaurPi3cm",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=I0czvJ_jikg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1005360",
+     "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "id": 1005360,
+     "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Atkinson",
+     "url": "https://genius.com/artists/Nick-atkinson"
+    },
+    {
+     "api_path": "/artists/1076790",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1076790,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edd Holloway",
+     "url": "https://genius.com/artists/Edd-holloway"
+    },
+    {
+     "api_path": "/artists/1228760",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1228760,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dylan Nash",
+     "url": "https://genius.com/artists/Dylan-nash"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6933846",
+       "artist_names": "Dansyafi",
+       "full_title": "It'll Be Alright by\u00a0Dansyafi",
+       "header_image_thumbnail_url": "https://images.genius.com/0046020615169a884cefc3ea7f2ceb5a.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/0046020615169a884cefc3ea7f2ceb5a.1000x563x1.jpg",
+       "id": 6933846,
+       "language": "en",
+       "lyrics_owner_id": 13963030,
+       "lyrics_state": "complete",
+       "path": "/Dansyafi-itll-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dansyafi-itll-be-alright-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 28
+       },
+       "release_date_for_display": "February 28, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 28, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3ac47548425e323a0f12cb29c6e76153.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3ac47548425e323a0f12cb29c6e76153.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "It\u2019ll Be Alright",
+       "title_with_featured": "It'll Be Alright",
+       "url": "https://genius.com/Dansyafi-itll-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2559973",
+        "header_image_url": "https://images.genius.com/17fcbb469b4d58a011379abecc5ad67f.1000x668x1.jpg",
+        "id": 2559973,
+        "image_url": "https://images.genius.com/39f6df9a7dfcf7589ce778ea5cf22ef8.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dansyafi",
+        "url": "https://genius.com/artists/Dansyafi"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4918185",
+       "artist_names": "Viva La Dirt League",
+       "full_title": "Loot Lust by\u00a0Viva\u00a0La Dirt League",
+       "header_image_thumbnail_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.399x399x1.jpg",
+       "id": 4918185,
+       "language": "en",
+       "lyrics_owner_id": 1326332,
+       "lyrics_state": "complete",
+       "path": "/Viva-la-dirt-league-loot-lust-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Viva-la-dirt-league-loot-lust-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.399x399x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loot Lust",
+       "title_with_featured": "Loot Lust",
+       "url": "https://genius.com/Viva-la-dirt-league-loot-lust-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1968557",
+        "header_image_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.399x399x1.jpg",
+        "id": 1968557,
+        "image_url": "https://images.genius.com/59e0e2c99a03aae895e1a6c707e40645.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Viva La Dirt League",
+        "url": "https://genius.com/artists/Viva-la-dirt-league"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Dean-lewis-be-alright-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8534872",
+       "artist_names": "Tonbandger\u00e4t",
+       "full_title": "Be Alright by\u00a0Tonbandger\u00e4t",
+       "header_image_thumbnail_url": "https://images.genius.com/d7d7dfe3b3599e4739fa40205f7c26c9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d7d7dfe3b3599e4739fa40205f7c26c9.1000x1000x1.jpg",
+       "id": 8534872,
+       "language": "en",
+       "lyrics_owner_id": 10610840,
+       "lyrics_state": "complete",
+       "path": "/Tonbandgerat-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Tonbandgerat-be-alright-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 26
+       },
+       "release_date_for_display": "November 26, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 26, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d7d7dfe3b3599e4739fa40205f7c26c9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d7d7dfe3b3599e4739fa40205f7c26c9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Tonbandgerat-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/86910",
+        "header_image_url": "https://images.genius.com/0cdc4e66937257dc4873f395d34111f5.1000x528x1.jpg",
+        "id": 86910,
+        "image_url": "https://images.genius.com/d7d7dfe3b3599e4739fa40205f7c26c9.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Tonbandger\u00e4t",
+        "url": "https://genius.com/artists/Tonbandgerat",
+        "iq": 531
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5013887",
+       "artist_names": "Jada Facer",
+       "full_title": "Be Alright by\u00a0Jada\u00a0Facer",
+       "header_image_thumbnail_url": "https://images.genius.com/3b03a34684e5fe7c29d215de59e97335.300x300x1.png",
+       "header_image_url": "https://images.genius.com/3b03a34684e5fe7c29d215de59e97335.1000x1000x1.png",
+       "id": 5013887,
+       "language": "en",
+       "lyrics_owner_id": 9706334,
+       "lyrics_state": "complete",
+       "path": "/Jada-facer-be-alright-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Jada-facer-be-alright-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 1
+       },
+       "release_date_for_display": "October 1, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 1, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3b03a34684e5fe7c29d215de59e97335.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/3b03a34684e5fe7c29d215de59e97335.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Jada-facer-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/658264",
+        "header_image_url": "https://images.genius.com/6287b030b90107e4ec7fd38d12aa33e3.986x193x1.png",
+        "id": 658264,
+        "image_url": "https://images.genius.com/ccc7616c9a9f5b37f541bfe837d0ed72.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jada Facer",
+        "url": "https://genius.com/artists/Jada-facer"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5136593",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Be Alright by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.1000x1000x1.jpg",
+       "id": 5136593,
+       "language": "en",
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-be-alright-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 5,
+        "day": 17
+       },
+       "release_date_for_display": "May 17, 2019",
+       "release_date_with_abbreviated_month_for_display": "May. 17, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/333d8d0f8ecc7dd3cd0daf3c1cf45451.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/333d8d0f8ecc7dd3cd0daf3c1cf45451.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Kidz-bop-kids-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4334370",
+       "artist_names": "Madilyn",
+       "full_title": "Be Alright by\u00a0Madilyn",
+       "header_image_thumbnail_url": "https://images.genius.com/bc869a07ac2266157b658bf0936daf91.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bc869a07ac2266157b658bf0936daf91.500x500x1.jpg",
+       "id": 4334370,
+       "language": "en",
+       "lyrics_owner_id": 7955996,
+       "lyrics_state": "complete",
+       "path": "/Madilyn-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Madilyn-be-alright-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 20
+       },
+       "release_date_for_display": "February 20, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 20, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bc869a07ac2266157b658bf0936daf91.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bc869a07ac2266157b658bf0936daf91.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Madilyn-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/140496",
+        "header_image_url": "https://images.genius.com/0ba379e3cb982a0cc4daeeda432f2f6f.1000x563x1.jpg",
+        "id": 140496,
+        "image_url": "https://images.genius.com/f824422c5ec6abc175bc2f5613a6278b.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Madilyn",
+        "url": "https://genius.com/artists/Madilyn"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4394933",
+       "artist_names": "Parmalee",
+       "full_title": "Be Alright by\u00a0Parmalee",
+       "header_image_thumbnail_url": "https://images.genius.com/6aeec72f32249bf2425142c98634869a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6aeec72f32249bf2425142c98634869a.640x640x1.jpg",
+       "id": 4394933,
+       "language": "en",
+       "lyrics_owner_id": 6568838,
+       "lyrics_state": "complete",
+       "path": "/Parmalee-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Parmalee-be-alright-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 3,
+        "day": 14
+       },
+       "release_date_for_display": "March 14, 2019",
+       "release_date_with_abbreviated_month_for_display": "Mar. 14, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6aeec72f32249bf2425142c98634869a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6aeec72f32249bf2425142c98634869a.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 14472
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Parmalee-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/124055",
+        "header_image_url": "https://images.genius.com/88b69dd0fcd2e03c7824dacd9e54f569.1000x667x1.jpg",
+        "id": 124055,
+        "image_url": "https://images.genius.com/0b7a41ead5c8dfd73a9501711963dfa5.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Parmalee",
+        "url": "https://genius.com/artists/Parmalee"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4266465",
+       "artist_names": "SAARLOOS",
+       "full_title": "Be Alright by\u00a0SAARLOOS",
+       "header_image_thumbnail_url": "https://images.genius.com/4542ef52c9b86a6a346b64ac4b70e209.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4542ef52c9b86a6a346b64ac4b70e209.1000x1000x1.jpg",
+       "id": 4266465,
+       "language": "en",
+       "lyrics_owner_id": 3920262,
+       "lyrics_state": "complete",
+       "path": "/Saarloos-be-alright-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Saarloos-be-alright-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 20
+       },
+       "release_date_for_display": "September 20, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 20, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4542ef52c9b86a6a346b64ac4b70e209.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4542ef52c9b86a6a346b64ac4b70e209.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Be Alright",
+       "title_with_featured": "Be Alright",
+       "url": "https://genius.com/Saarloos-be-alright-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1709859",
+        "header_image_url": "https://images.genius.com/ba4856ad6cab6220e8a3fd2dac37c4e3.400x400x1.jpg",
+        "id": 1709859,
+        "image_url": "https://images.genius.com/ba4856ad6cab6220e8a3fd2dac37c4e3.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "SAARLOOS",
+        "url": "https://genius.com/artists/Saarloos"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/7104144",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7104144,
+     "iq": 2267,
+     "login": "deanlewis",
+     "name": "Dean Lewis",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/deanlewis",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1026378",
+      "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+      "id": 1026378,
+      "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Dean Lewis",
+      "url": "https://genius.com/artists/Dean-lewis",
+      "iq": 2267
+     },
+     "user": {
+      "api_path": "/users/7104144",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 7104144,
+      "iq": 2267,
+      "login": "deanlewis",
+      "name": "Dean Lewis",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/deanlewis",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/568068",
+     "header_image_url": "https://images.genius.com/8c12508fcf96a34926afdf91595973aa.532x532x1.png",
+     "id": 568068,
+     "image_url": "https://images.genius.com/8c12508fcf96a34926afdf91595973aa.532x532x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Hume",
+     "url": "https://genius.com/artists/Jon-hume"
+    },
+    {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   ],
+   "artist": "Dean Lewis",
+   "lyrics": "147 ContributorsBe Alright Lyrics[Verse 1]\nI look up from the ground\nTo see your sad and teary eyes\nYou look away from me\nAnd I see there's something you're trying to hide\nAnd I reach for your hand but it's cold\nYou pull away again\nAnd I wonder what's on your mind\nAnd then you say to me you made a dumb mistake\nYou start to tremble and your voice begins to break\nYou say the cigarettes on the counter weren't your friend's\nThey were my mate's\nAnd I feel the colour draining from my face\n\n[Chorus]\nAnd my friend said\n\"I know you love her, but it's over, mate\nIt doesn't matter, put the phone away\nIt's never easy to walk away, let her go\nIt'll be alright\"\n\n[Verse 2]\nSo I still look back at all the messages you'd sent\nAnd I know it wasn't right, but it was fucking with my head\nAnd everything deleted like the past, yeah, it was gone\nAnd when I touched your face, I could tell you're moving on\nBut it's not the fact that you kissed him yesterday\nIt's the feeling of betrayal, that I just can't seem to shake\nAnd everything I know tells me that I should walk away\nBut I just wanna stay\nYou might also like[Chorus]\nAnd my friend said\n\"I know you love her, but it's over, mate\nIt doesn't matter, put the phone away\nIt's never easy to walk away, let her go\nIt'll be okay\nIt's gonna hurt for a bit of time\nSo bottoms up, let's forget tonight\nYou'll find another and you'll be just fine\nLet her go\"\n\n[Bridge]\nBut nothing heals the past like time\nAnd they can't steal\nThe love you're born to find\nBut nothing heals the past like time\nAnd they can't steal\nThe love you're born to find\n\n[Chorus]\n\"I know you love her, but it's over, mate\nIt doesn't matter, put the phone away\nIt's never easy to walk away, let her go\nIt'll be okay\nIt's gonna hurt for a bit of time\nSo bottoms up, let's forget tonight\nYou'll find another and you'll be just fine\nLet her go\"\n[Outro]\nIt'll be alright\nIt'll be alright\nIt'll be alright\nIt'll be alright\nIt'll be alright108Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/2900018",
+   "artist_names": "Dean Lewis",
+   "full_title": "Waves by\u00a0Dean\u00a0Lewis",
+   "header_image_thumbnail_url": "https://images.genius.com/e5a32d672bb94d96bf3b90fdea263f97.300x157x1.jpg",
+   "header_image_url": "https://images.genius.com/e5a32d672bb94d96bf3b90fdea263f97.1000x523x1.jpg",
+   "id": 2900018,
+   "language": "en",
+   "lyrics_owner_id": 3501067,
+   "lyrics_state": "complete",
+   "path": "/Dean-lewis-waves-lyrics",
+   "pyongs_count": 42,
+   "relationships_index_url": "https://genius.com/Dean-lewis-waves-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 30
+   },
+   "release_date_for_display": "September 30, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 30, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9f9a0dc817d76ec2216d9da6ec6ff858.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9f9a0dc817d76ec2216d9da6ec6ff858.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 47,
+    "iq_earners": 47,
+    "transcribers": 2,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 516059
+   },
+   "title": "Waves",
+   "title_with_featured": "Waves",
+   "url": "https://genius.com/Dean-lewis-waves-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1026378",
+    "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+    "id": 1026378,
+    "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Dean Lewis",
+    "url": "https://genius.com/artists/Dean-lewis",
+    "iq": 2267
+   },
+   "apple_music_id": "1453140006",
+   "apple_music_player_url": "https://genius.com/songs/2900018/apple_music_player",
+   "description": {
+    "plain": "\u201cWaves\u201d is an alternative, guitar-driven song about the unpredictability of life, and how it is always changing in front of our eyes.\n\n\u201cWaves\u201d is perhaps best known for having been featured in The CW drama, Riverdale. It also appeared in other television shows such as Shadowhunters, Grey\u2019s Anatomy, Suits, and Valor."
+   },
+   "embed_content": "<div id='rg_embed_link_2900018' class='rg_embed_link' data-song-id='2900018'>Read <a href='https://genius.com/Dean-lewis-waves-lyrics'>\u201cWaves\u201d by Dean\u00a0Lewis</a> on Genius</div> <script crossorigin src='//genius.com/songs/2900018/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/506018",
+    "cover_art_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+    "full_title": "A Place We Knew by Dean Lewis",
+    "id": 506018,
+    "name": "A Place We Knew",
+    "release_date_for_display": "March 22, 2019",
+    "url": "https://genius.com/albums/Dean-lewis/A-place-we-knew",
+    "artist": {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/70243",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 70243,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Davis",
+       "url": "https://genius.com/artists/Joel-davis"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      }
+     ]
+    },
+    {
+     "label": "Studio Personnel",
+     "artists": [
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      },
+      {
+       "api_path": "/artists/59634",
+       "header_image_url": "https://images.genius.com/cd447300aedfd239e402271175407857.700x466x1.jpg",
+       "id": 59634,
+       "image_url": "https://images.genius.com/ecc250ea803de1650dd872cc283edc9a.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Grech-Marguerat",
+       "url": "https://genius.com/artists/Dan-grech-marguerat"
+      },
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/70243",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 70243,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel Davis",
+       "url": "https://genius.com/artists/Joel-davis"
+      }
+     ]
+    },
+    {
+     "label": "Lyricist",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      },
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      },
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Composer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      },
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4681338,
+    "annotator_login": "Rosewain",
+    "api_path": "/referents/14355459",
+    "classification": "accepted",
+    "fragment": "Waves",
+    "id": 14355459,
+    "is_description": true,
+    "path": "/14355459/Dean-lewis-waves/Waves",
+    "range": {
+     "content": "Waves"
+    },
+    "song_id": 2900018,
+    "url": "https://genius.com/14355459/Dean-lewis-waves/Waves",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2900018",
+     "client_timestamps": {
+      "updated_by_human_at": 1678650404,
+      "lyrics_updated_at": 1678650404
+     },
+     "context": "Dean Lewis",
+     "id": 2900018,
+     "image_url": "https://images.genius.com/9f9a0dc817d76ec2216d9da6ec6ff858.640x640x1.jpg",
+     "link_title": "Waves by\u00a0Dean\u00a0Lewis",
+     "title": "Waves",
+     "type": "Song",
+     "url": "https://genius.com/Dean-lewis-waves-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14355459",
+      "body": {
+       "plain": "\u201cWaves\u201d is an alternative, guitar-driven song about the unpredictability of life, and how it is always changing in front of our eyes.\n\n\u201cWaves\u201d is perhaps best known for having been featured in The CW drama, Riverdale. It also appeared in other television shows such as Shadowhunters, Grey\u2019s Anatomy, Suits, and Valor."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14355459,
+      "pinned": false,
+      "share_url": "https://genius.com/14355459",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14355459/Dean-lewis-waves/Waves",
+      "verified": false,
+      "votes_total": 63,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4681338",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c728a4983c7178a4f8efb92dfb757132",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c728a4983c7178a4f8efb92dfb757132",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c728a4983c7178a4f8efb92dfb757132",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c728a4983c7178a4f8efb92dfb757132",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c728a4983c7178a4f8efb92dfb757132",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4681338,
+         "iq": 80004,
+         "login": "Rosewain",
+         "name": "Rosewain",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Rosewain",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065824,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "deanlewisofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/deanlewisofficial/waves"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dKlgCk3IGBg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1076790",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1076790,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edd Holloway",
+     "url": "https://genius.com/artists/Edd-holloway"
+    },
+    {
+     "api_path": "/artists/1005360",
+     "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "id": 1005360,
+     "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Atkinson",
+     "url": "https://genius.com/artists/Nick-atkinson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7332380",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Waves (2016) by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/cd33e4ed94c8793c67ccf38b325dc7a0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cd33e4ed94c8793c67ccf38b325dc7a0.640x640x1.jpg",
+       "id": 7332380,
+       "language": "en",
+       "lyrics_owner_id": 8348099,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-waves-2016-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-waves-2016-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 3,
+        "day": 23
+       },
+       "release_date_for_display": "March 23, 2018",
+       "release_date_with_abbreviated_month_for_display": "Mar. 23, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cd33e4ed94c8793c67ccf38b325dc7a0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cd33e4ed94c8793c67ccf38b325dc7a0.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves (2016)",
+       "title_with_featured": "Waves (2016)",
+       "url": "https://genius.com/Kidz-bop-kids-waves-2016-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3343077",
+       "artist_names": "Sheppard",
+       "full_title": "Waves by\u00a0Sheppard",
+       "header_image_thumbnail_url": "https://images.genius.com/5ac2b300cc823ff51f317b49902f6f25.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5ac2b300cc823ff51f317b49902f6f25.1000x1000x1.jpg",
+       "id": 3343077,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Sheppard-waves-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sheppard-waves-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 12,
+        "day": 1
+       },
+       "release_date_for_display": "December 1, 2017",
+       "release_date_with_abbreviated_month_for_display": "Dec. 1, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5ac2b300cc823ff51f317b49902f6f25.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5ac2b300cc823ff51f317b49902f6f25.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves",
+       "title_with_featured": "Waves",
+       "url": "https://genius.com/Sheppard-waves-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/199409",
+        "header_image_url": "https://images.genius.com/893e427fddd70d78264b543a1d80bf5c.1000x1000x1.jpg",
+        "id": 199409,
+        "image_url": "https://images.genius.com/af680b3e30c2c65a1b0cf7837d3a4ea7.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sheppard",
+        "url": "https://genius.com/artists/Sheppard"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4721932",
+       "artist_names": "Dean Lewis",
+       "full_title": "Waves (Timbaland Remix) by\u00a0Dean\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/77db84009f37c5b4178aab283ebc5307.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/77db84009f37c5b4178aab283ebc5307.1000x1000x1.jpg",
+       "id": 4721932,
+       "language": "en",
+       "lyrics_owner_id": 6974707,
+       "lyrics_state": "complete",
+       "path": "/Dean-lewis-waves-timbaland-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dean-lewis-waves-timbaland-remix-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 7,
+        "day": 26
+       },
+       "release_date_for_display": "July 26, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jul. 26, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/77db84009f37c5b4178aab283ebc5307.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/77db84009f37c5b4178aab283ebc5307.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves (Timbaland Remix)",
+       "title_with_featured": "Waves (Timbaland Remix)",
+       "url": "https://genius.com/Dean-lewis-waves-timbaland-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1026378",
+        "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+        "id": 1026378,
+        "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dean Lewis",
+        "url": "https://genius.com/artists/Dean-lewis",
+        "iq": 2267
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4084284",
+       "artist_names": "Dean Lewis",
+       "full_title": "Waves (JordanXL Remix) by\u00a0Dean\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/08f62cac099b072d14a68144063e510e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/08f62cac099b072d14a68144063e510e.1000x1000x1.jpg",
+       "id": 4084284,
+       "language": "en",
+       "lyrics_owner_id": 1931244,
+       "lyrics_state": "complete",
+       "path": "/Dean-lewis-waves-jordanxl-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dean-lewis-waves-jordanxl-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 4,
+        "day": 13
+       },
+       "release_date_for_display": "April 13, 2018",
+       "release_date_with_abbreviated_month_for_display": "Apr. 13, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/08f62cac099b072d14a68144063e510e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/08f62cac099b072d14a68144063e510e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves (JordanXL Remix)",
+       "title_with_featured": "Waves (JordanXL Remix)",
+       "url": "https://genius.com/Dean-lewis-waves-jordanxl-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1026378",
+        "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+        "id": 1026378,
+        "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dean Lewis",
+        "url": "https://genius.com/artists/Dean-lewis",
+        "iq": 2267
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4730680",
+       "artist_names": "Dean Lewis",
+       "full_title": "Waves (Live at the Forum) by\u00a0Dean\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/a6b73fe64a5f8c80cc07992948e9232d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a6b73fe64a5f8c80cc07992948e9232d.1000x1000x1.jpg",
+       "id": 4730680,
+       "language": "en",
+       "lyrics_owner_id": 7109848,
+       "lyrics_state": "complete",
+       "path": "/Dean-lewis-waves-live-at-the-forum-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dean-lewis-waves-live-at-the-forum-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 7,
+        "day": 26
+       },
+       "release_date_for_display": "July 26, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jul. 26, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a6b73fe64a5f8c80cc07992948e9232d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a6b73fe64a5f8c80cc07992948e9232d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves (Live at the Forum)",
+       "title_with_featured": "Waves (Live at the Forum)",
+       "url": "https://genius.com/Dean-lewis-waves-live-at-the-forum-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1026378",
+        "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+        "id": 1026378,
+        "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dean Lewis",
+        "url": "https://genius.com/artists/Dean-lewis",
+        "iq": 2267
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3131074",
+       "artist_names": "Dean Lewis",
+       "full_title": "Waves (Acoustic) by\u00a0Dean\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/3b148ceb6dca8fa5aa66cfad382d4605.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3b148ceb6dca8fa5aa66cfad382d4605.1000x1000x1.jpg",
+       "id": 3131074,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Dean-lewis-waves-acoustic-lyrics",
+       "pyongs_count": 6,
+       "relationships_index_url": "https://genius.com/Dean-lewis-waves-acoustic-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 2,
+        "day": 3
+       },
+       "release_date_for_display": "February 3, 2017",
+       "release_date_with_abbreviated_month_for_display": "Feb. 3, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3b148ceb6dca8fa5aa66cfad382d4605.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3b148ceb6dca8fa5aa66cfad382d4605.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 11152
+       },
+       "title": "Waves (Acoustic)",
+       "title_with_featured": "Waves (Acoustic)",
+       "url": "https://genius.com/Dean-lewis-waves-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1026378",
+        "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+        "id": 1026378,
+        "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dean Lewis",
+        "url": "https://genius.com/artists/Dean-lewis",
+        "iq": 2267
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3130016",
+       "artist_names": "Dean Lewis",
+       "full_title": "Waves (Guitar Acoustic) by\u00a0Dean\u00a0Lewis",
+       "header_image_thumbnail_url": "https://images.genius.com/a6ae05007ede5dc6e7e8b75f2a3a6174.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a6ae05007ede5dc6e7e8b75f2a3a6174.500x500x1.jpg",
+       "id": 3130016,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Dean-lewis-waves-guitar-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dean-lewis-waves-guitar-acoustic-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 6,
+        "day": 23
+       },
+       "release_date_for_display": "June 23, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a6ae05007ede5dc6e7e8b75f2a3a6174.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a6ae05007ede5dc6e7e8b75f2a3a6174.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Waves (Guitar Acoustic)",
+       "title_with_featured": "Waves (Guitar Acoustic)",
+       "url": "https://genius.com/Dean-lewis-waves-guitar-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1026378",
+        "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+        "id": 1026378,
+        "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dean Lewis",
+        "url": "https://genius.com/artists/Dean-lewis",
+        "iq": 2267
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1076790",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1076790,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edd Holloway",
+     "url": "https://genius.com/artists/Edd-holloway"
+    },
+    {
+     "api_path": "/artists/1005360",
+     "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "id": 1005360,
+     "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Atkinson",
+     "url": "https://genius.com/artists/Nick-atkinson"
+    },
+    {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   ],
+   "artist": "Dean Lewis",
+   "lyrics": "47 ContributorsWaves Lyrics[Verse 1]\nThere is a swelling storm\nAnd I'm caught up in the middle of it all\nAnd it takes control of the person that I thought I was\nThe boy I used to know\nBut there is a light in the dark\nAnd I feel its warmth\nIn my hands, in my heart\nBut why can't I hold on?\n\n[Pre-Chorus]\nIt comes and goes in waves\nIt always does, always does\nWe watch as our young hearts fade\nInto the flood, into the flood\n\n[Chorus]\nAnd the freedom of falling\nThe feeling I thought was set in stone\nIt slips through my fingers\nI'm trying hard to let go\nIt comes and goes in waves\nIt comes and goes in waves\nAnd carries us away\n\n[Verse 2]\nThrough the wind\nDown to the place we used to lay when we were kids\nMemories of a stolen place\nCaught in the silence, an echo lost in space\nYou might also like[Pre-Chorus]\nIt comes and goes in waves\nIt always does, it always does\nWe watch as our young hearts fade\nInto the flood, into the flood\n\n[Chorus]\nAnd the freedom of falling\nThe feeling I thought was set in stone\nIt slips through my fingers\nI'm trying hard to let go\nIt comes and goes in waves\nIt comes and goes in waves\nAnd carries us away\n\n[Bridge]\nI've watched my wild youth\nDisappear in front of my eyes\nMoments of magic and wonder\nIt seems so hard to find\nIs it ever coming back again?\nIs it ever coming back again?\nTake me back to the feeling when\nEverything was left to find\n\n[Pre-Chorus]\nIt comes and goes in waves\nIt always does, it always does\n[Chorus]\nAnd the freedom of falling\nThe feeling I thought was set in stone\nIt slips through my fingers\nI'm trying hard to let go\nIt comes and goes in waves\nIt comes and goes in waves\nAnd carries us away42Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/3038023",
+   "artist_names": "Dean Lewis",
+   "full_title": "Half A Man by\u00a0Dean\u00a0Lewis",
+   "header_image_thumbnail_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+   "id": 3038023,
+   "language": "en",
+   "lyrics_owner_id": 2585296,
+   "lyrics_state": "complete",
+   "path": "/Dean-lewis-half-a-man-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Dean-lewis-half-a-man-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 3,
+    "day": 22
+   },
+   "release_date_for_display": "March 22, 2019",
+   "release_date_with_abbreviated_month_for_display": "Mar. 22, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 19,
+    "iq_earners": 19,
+    "transcribers": 2,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 144410
+   },
+   "title": "Half A Man",
+   "title_with_featured": "Half A Man",
+   "url": "https://genius.com/Dean-lewis-half-a-man-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1026378",
+    "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+    "id": 1026378,
+    "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Dean Lewis",
+    "url": "https://genius.com/artists/Dean-lewis",
+    "iq": 2267
+   },
+   "apple_music_id": "1453140020",
+   "apple_music_player_url": "https://genius.com/songs/3038023/apple_music_player",
+   "description": {
+    "plain": "In \u201cHalf A Man\u201d, Dean Lewis pleads with his lover to not love him anymore.\n\nHe feels like a lost cause and doesn\u2019t want her to get hurt as he slips further and further down into the pit he has found himself in.\n\nHe uses the metaphor of being a \u201csinking ship that\u2019s burning,\u201d to describe the desperate and disastrous situation that he has found himself in.\n\nWith deep pain and regret, Dean begs a question that he may have disregarded when getting into the relationship in the first place. He asks himself how he could ever love someone else when he doesn\u2019t even love himself. More importantly, how could he ever commit fully to somebody when he feels like he\u2019s missing so much of himself."
+   },
+   "embed_content": "<div id='rg_embed_link_3038023' class='rg_embed_link' data-song-id='3038023'>Read <a href='https://genius.com/Dean-lewis-half-a-man-lyrics'>\u201cHalf A Man\u201d by Dean\u00a0Lewis</a> on Genius</div> <script crossorigin src='//genius.com/songs/3038023/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2019-03-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/506018",
+    "cover_art_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+    "full_title": "A Place We Knew by Dean Lewis",
+    "id": 506018,
+    "name": "A Place We Knew",
+    "release_date_for_display": "March 22, 2019",
+    "url": "https://genius.com/albums/Dean-lewis/A-place-we-knew",
+    "artist": {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Studio Personnel",
+     "artists": [
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      },
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/1228760",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1228760,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dylan Nash",
+       "url": "https://genius.com/artists/Dylan-nash"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      },
+      {
+       "api_path": "/artists/1228760",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1228760,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dylan Nash",
+       "url": "https://genius.com/artists/Dylan-nash"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1005360",
+       "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "id": 1005360,
+       "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Atkinson",
+       "url": "https://genius.com/artists/Nick-atkinson"
+      },
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1076790",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1076790,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Edd Holloway",
+       "url": "https://genius.com/artists/Edd-holloway"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1026378",
+       "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+       "id": 1026378,
+       "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dean Lewis",
+       "url": "https://genius.com/artists/Dean-lewis",
+       "iq": 2267
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3169926,
+    "annotator_login": "NickDoyle",
+    "api_path": "/referents/11580790",
+    "classification": "accepted",
+    "fragment": "Half A Man",
+    "id": 11580790,
+    "is_description": true,
+    "path": "/11580790/Dean-lewis-half-a-man/Half-a-man",
+    "range": {
+     "content": "Half A Man"
+    },
+    "song_id": 3038023,
+    "url": "https://genius.com/11580790/Dean-lewis-half-a-man/Half-a-man",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3038023",
+     "client_timestamps": {
+      "updated_by_human_at": 1681901024,
+      "lyrics_updated_at": 1681910120
+     },
+     "context": "Dean Lewis",
+     "id": 3038023,
+     "image_url": "https://images.genius.com/1a354b04b254e7379832bec7edfacb8a.960x960x1.jpg",
+     "link_title": "Half A Man by\u00a0Dean\u00a0Lewis",
+     "title": "Half A Man",
+     "type": "Song",
+     "url": "https://genius.com/Dean-lewis-half-a-man-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11580790",
+      "body": {
+       "plain": "In \u201cHalf A Man\u201d, Dean Lewis pleads with his lover to not love him anymore.\n\nHe feels like a lost cause and doesn\u2019t want her to get hurt as he slips further and further down into the pit he has found himself in.\n\nHe uses the metaphor of being a \u201csinking ship that\u2019s burning,\u201d to describe the desperate and disastrous situation that he has found himself in.\n\nWith deep pain and regret, Dean begs a question that he may have disregarded when getting into the relationship in the first place. He asks himself how he could ever love someone else when he doesn\u2019t even love himself. More importantly, how could he ever commit fully to somebody when he feels like he\u2019s missing so much of himself."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11580790,
+      "pinned": false,
+      "share_url": "https://genius.com/11580790",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11580790/Dean-lewis-half-a-man/Half-a-man",
+      "verified": false,
+      "votes_total": 30,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9603174603174603,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3169926",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/687f097cb20b1312ab670de2de8adc8e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/687f097cb20b1312ab670de2de8adc8e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/687f097cb20b1312ab670de2de8adc8e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/687f097cb20b1312ab670de2de8adc8e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8wexl9zq2q3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3169926,
+         "iq": 2274,
+         "login": "NickDoyle",
+         "name": "NickDoyle",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/NickDoyle",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03968253968253968,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2761464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/369a17d794bf171d2124f5c446c6bc39",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/369a17d794bf171d2124f5c446c6bc39",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/369a17d794bf171d2124f5c446c6bc39",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/369a17d794bf171d2124f5c446c6bc39",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c26c08e3773c83d643bf3f4e9468d059.390x390x49.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 2761464,
+         "iq": 58111,
+         "login": "Reacien",
+         "name": "Reacien",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Reacien",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065824,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "deanlewisofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/deanlewisofficial/half-a-man"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Kua2dDhqzZw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1005360",
+     "header_image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "id": 1005360,
+     "image_url": "https://images.genius.com/c39d8481b07e66334c081635eddaf715.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Atkinson",
+     "url": "https://genius.com/artists/Nick-atkinson"
+    },
+    {
+     "api_path": "/artists/1076790",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1076790,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edd Holloway",
+     "url": "https://genius.com/artists/Edd-holloway"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8888632",
+       "artist_names": "Parker Jack & Chyde",
+       "full_title": "WHO I AM by\u00a0Parker\u00a0Jack & Chyde",
+       "header_image_thumbnail_url": "https://images.genius.com/4241f382cb460817a93ccb290d780187.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4241f382cb460817a93ccb290d780187.500x500x1.jpg",
+       "id": 8888632,
+       "language": "en",
+       "lyrics_owner_id": 16814932,
+       "lyrics_state": "complete",
+       "path": "/Parker-jack-and-chyde-who-i-am-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Parker-jack-and-chyde-who-i-am-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 10,
+        "day": 23
+       },
+       "release_date_for_display": "October 23, 2022",
+       "release_date_with_abbreviated_month_for_display": "Oct. 23, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4241f382cb460817a93ccb290d780187.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4241f382cb460817a93ccb290d780187.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "WHO I AM",
+       "title_with_featured": "WHO I AM",
+       "url": "https://genius.com/Parker-jack-and-chyde-who-i-am-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3461024",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3461024,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Parker Jack & Chyde",
+        "url": "https://genius.com/artists/Parker-jack-and-chyde"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7904523",
+       "artist_names": "Genius Translations",
+       "full_title": "Dean Lewis - Half A Man (Dansk Overs\u00e6ttelse) by\u00a0Genius\u00a0Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/d35a7b9e2738ffe760a5313006541a28.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d35a7b9e2738ffe760a5313006541a28.327x327x1.jpg",
+       "id": 7904523,
+       "language": "da",
+       "lyrics_owner_id": 8403962,
+       "lyrics_state": "complete",
+       "path": "/Genius-translations-dean-lewis-half-a-man-dansk-oversttelse-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-translations-dean-lewis-half-a-man-dansk-oversttelse-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 3,
+        "day": 22
+       },
+       "release_date_for_display": "March 22, 2019",
+       "release_date_with_abbreviated_month_for_display": "Mar. 22, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d35a7b9e2738ffe760a5313006541a28.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d35a7b9e2738ffe760a5313006541a28.327x327x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dean Lewis - Half A Man (Dansk Overs\u00e6ttelse)",
+       "title_with_featured": "Dean Lewis - Half A Man (Dansk Overs\u00e6ttelse)",
+       "url": "https://genius.com/Genius-translations-dean-lewis-half-a-man-dansk-oversttelse-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1240266",
+        "header_image_url": "https://images.genius.com/7eeefc1f26d079efea65e0fe31971b2f.900x176x1.jpg",
+        "id": 1240266,
+        "image_url": "https://images.genius.com/d621467e52ec2b6fe5cb6d0a41846e69.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Translations",
+        "url": "https://genius.com/artists/Genius-translations"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7904523",
+     "id": 7904523,
+     "language": "da",
+     "lyrics_state": "complete",
+     "path": "/Genius-translations-dean-lewis-half-a-man-dansk-oversttelse-lyrics",
+     "title": "Dean Lewis - Half A Man (Dansk Overs\u00e6ttelse)",
+     "url": "https://genius.com/Genius-translations-dean-lewis-half-a-man-dansk-oversttelse-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/568068",
+     "header_image_url": "https://images.genius.com/8c12508fcf96a34926afdf91595973aa.532x532x1.png",
+     "id": 568068,
+     "image_url": "https://images.genius.com/8c12508fcf96a34926afdf91595973aa.532x532x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Hume",
+     "url": "https://genius.com/artists/Jon-hume"
+    },
+    {
+     "api_path": "/artists/387168",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 387168,
+     "image_url": "https://images.genius.com/553f7393ba2a36b62797f8674de9632e.288x288x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hayley Warner",
+     "url": "https://genius.com/artists/Hayley-warner"
+    },
+    {
+     "api_path": "/artists/1026378",
+     "header_image_url": "https://images.genius.com/30919a750554f92d35bd6374d0cbfde4.1000x563x1.jpg",
+     "id": 1026378,
+     "image_url": "https://images.genius.com/9a3ee0bb042a3dec81d338fe73876d19.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dean Lewis",
+     "url": "https://genius.com/artists/Dean-lewis",
+     "iq": 2267
+    }
+   ],
+   "artist": "Dean Lewis",
+   "lyrics": "19 ContributorsTranslationsDanskHalf A Man Lyrics[Verse 1]\nI was wrong to say I loved her, I was wrong to think I'm right\nWhen I told her it was over, well my darling, I had lied\nI've been running from my demons, afraid to look behind\nI've been running from myself, afraid of what I'd find\n\n[Chorus]\nBut how am I supposed to love you when I don't love who I am?\nAnd how can I give you all of me when I'm only half a man?\n'Cause I'm a sinking ship that's burning, so let go of my hand\nOh, how can I give you all of me when I'm only half a man?\n\n[Verse 2]\nAnd now I'm stuck in this hotel room by a cold neon light\nAnd I've been waiting for an answer, but it won't come tonight\nAnd every bottle I had stolen lay shattered on the floor\nWhat's broken can't be whole anymore\n\n[Chorus]\nBut how am I supposed to love you when I don't love who I am?\nAnd how can I give you all of me when I'm only half a man?\n'Cause I'm a sinking ship that's burning, so let go of my hand\nOh, how can I give you all of me when I'm only half a man?\n\n[Bridge]\nAnd no one can ever hurt me like I've hurt myself\n'Cause I'm made out of stone and I'm beyond help\nDon't give your heart to me\nYou might also like[Chorus]\nBut how am I supposed to love you when I don't love who I am?\nAnd how can I give you all of me when I'm only half a man?\n'Cause I'm a sinking ship that's burning, so let go of my hand\nOh, how can I give you all of me when I'm only half a man?\n\n[Outro]\nHmm-mmm-hmm-hmm\nHmm-mmm-hmm-hmm\nHmm-mmm-hmm-hmm\nHmm-mmm12Embed"
+  }
+ ]
+}

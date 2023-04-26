@@ -1,0 +1,2039 @@
+{
+ "alternate_names": [
+  "SEGA / Cash Cash"
+ ],
+ "api_path": "/artists/104043",
+ "description": {
+  "plain": "Cash Cash is an American electronic dance music group from Roseland, New Jersey. The group consists of the brothers Jean Paul Makhlouf and Alex Makhlouf, along with Samuel Frisch. They are currently signed to Big Beat/Atlantic Records and their highest charting song to date is \u201cTake Me Home\u201d, which features vocals by American singer-songwriter Bebe Rexha. As of 2017, the group has released four full-length albums, an array of EPs, singles, and provided official remixes for acts such as Krewella, Capital Cities, Kelly Clarkson, Katy Perry, Bruno Mars, and Icona Pop, along with producing and co-writing Krewella\u2019s single \u201cLive for the Night\u201d."
+ },
+ "facebook_name": null,
+ "followers_count": 34,
+ "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+ "id": 104043,
+ "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Cash Cash",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Cash-cash",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 462,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3079464,
+  "annotator_login": "DylJackson",
+  "api_path": "/referents/6997524",
+  "classification": "accepted",
+  "fragment": "Cash Cash",
+  "id": 6997524,
+  "is_description": true,
+  "path": "/6997524/Cash-cash/Cash-cash",
+  "range": {
+   "content": "Cash Cash"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6997524/Cash-cash/Cash-cash",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/104043",
+   "context": null,
+   "id": 104043,
+   "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+   "link_title": "Cash Cash",
+   "title": "Cash Cash",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Cash-cash"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6997524",
+    "body": {
+     "plain": "Cash Cash is an American electronic dance music group from Roseland, New Jersey. The group consists of the brothers Jean Paul Makhlouf and Alex Makhlouf, along with Samuel Frisch. They are currently signed to Big Beat/Atlantic Records and their highest charting song to date is \u201cTake Me Home\u201d, which features vocals by American singer-songwriter Bebe Rexha. As of 2017, the group has released four full-length albums, an array of EPs, singles, and provided official remixes for acts such as Krewella, Capital Cities, Kelly Clarkson, Katy Perry, Bruno Mars, and Icona Pop, along with producing and co-writing Krewella\u2019s single \u201cLive for the Night\u201d."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6997524,
+    "pinned": false,
+    "share_url": "https://genius.com/6997524",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6997524/Cash-cash/Cash-cash",
+    "verified": false,
+    "votes_total": 3,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9611650485436892,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3079464",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/02294f4e7024fbdbbcc6f91cd11deb71",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/02294f4e7024fbdbbcc6f91cd11deb71",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/02294f4e7024fbdbbcc6f91cd11deb71",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/02294f4e7024fbdbbcc6f91cd11deb71",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5jDPgYB0R7UIb4Gvn1Pc_download.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3079464,
+       "iq": 1985,
+       "login": "DylJackson",
+       "name": "DylJackson",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/DylJackson",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.03883495145631068,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2034060",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ouwLD8I2RAiEfkKCkH70_IMG_0001.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 2034060,
+       "iq": 351863,
+       "login": "nzboss99",
+       "name": "\u200bnzboss99",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/nzboss99",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3442868",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/f98207b5653ba3e7526a06d2039485c9",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/f98207b5653ba3e7526a06d2039485c9",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/f98207b5653ba3e7526a06d2039485c9",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3442868,
+  "iq": 462,
+  "login": "TheCashCash",
+  "name": "Cash Cash",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/TheCashCash",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/2463196",
+   "artist_names": "Cash Cash (Ft. Sof\u00eda Reyes)",
+   "full_title": "How to Love by\u00a0Cash\u00a0Cash (Ft.\u00a0Sof\u00eda\u00a0Reyes)",
+   "header_image_thumbnail_url": "https://images.genius.com/052bff4e3043795d1fb31d597622076f.300x222x1.jpg",
+   "header_image_url": "https://images.genius.com/052bff4e3043795d1fb31d597622076f.1000x741x1.jpg",
+   "id": 2463196,
+   "language": "en",
+   "lyrics_owner_id": 672397,
+   "lyrics_state": "complete",
+   "path": "/Cash-cash-how-to-love-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Cash-cash-how-to-love-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 4,
+    "day": 29
+   },
+   "release_date_for_display": "April 29, 2016",
+   "release_date_with_abbreviated_month_for_display": "Apr. 29, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/eb3e2fbfe96ae452e51696d9f7d33b88.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/eb3e2fbfe96ae452e51696d9f7d33b88.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 23,
+    "iq_earners": 22,
+    "transcribers": 2,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 1,
+    "hot": false,
+    "pageviews": 81330
+   },
+   "title": "How to Love",
+   "title_with_featured": "How to Love (Ft.\u00a0Sof\u00eda\u00a0Reyes)",
+   "url": "https://genius.com/Cash-cash-how-to-love-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/406125",
+     "header_image_url": "https://images.genius.com/40ddd9898e9ac10633c5cc55fc699b61.1000x563x1.jpg",
+     "id": 406125,
+     "image_url": "https://images.genius.com/7d7b5dbd278678a709ee80165f3d07ec.384x384x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sof\u00eda Reyes",
+     "url": "https://genius.com/artists/Sofia-reyes",
+     "iq": 386
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/104043",
+    "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "id": 104043,
+    "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cash Cash",
+    "url": "https://genius.com/artists/Cash-cash",
+    "iq": 462
+   },
+   "apple_music_id": "1107251713",
+   "apple_music_player_url": "https://genius.com/songs/2463196/apple_music_player",
+   "description": {
+    "plain": "\u201cHow to Love\u201d is a song by  American electronic dance music group Cash Cash featuring Mexican pop singer Sofia Reyes.\n\n\u201cThis one was a cool one because we all felt a connection to the lyrics,\u201d Cash Cash group member Jean Paul Makhlouf told Genius on June 27, 2016. \u201cBeing on tour all the time sometimes it\u2019s tough to maintain normal relationships, even just like friendships, not even on a romantic level. The song is more on the love level. It\u2019s cool because the song stirs up a different emotion in anybody. For me, it\u2019s when you\u2019re on the road and barely have five minutes to talk to someone or when you\u2019re in different timezones it gets so frustrating. We\u2019re still learning how to grow as people and learning how to love in a way that is feasible for two people being in a situation that touring musicians are in.\u201d\n\n\u201cRomantically, we all have been in and out of relationships in the whole process. You learn a little bit from each one on what you did wrong and how you can improve the relationship being on tour. It\u2019s one of those things constantly evolving,\u201d Makhlouf added.\n\nCash Cash wrote the song before adding Reyes on vocals. \u201cWhen she heard the song she was very much into the vibe and found it relatable. You can feel that in her vocal performance. She was very connected to the lyrics,\u201d Makhlouf said.\n\nThe video for \u201cHow to Love\u201d was shot in L.A. in a location similar to a green house and it helped achieve the exact look that the group wanted.\n\nhttps://www.youtube.com/watch?v=peByeoQhjMM\n\nThe actual creation of the track was effortless and done in one day.\n\n\u201cI flew to record the song and it was done in hours,\u201d said Reyes. \u201cI got to know them and they\u2019re so great.\u201d\n\nBoth the group and Reyes felt that this collaboration was seamless and will most likely not be the last of its kind.\n\n\u201cIt would be great to have them on my album and work together again,\u201d said the Latina singer. \u201cThat would be amazing.\u201d\n\nThe group, which consist of brothers Jean Paul Makhlouf and Alex Makhlouf along with friend Frisch, definitely knew how to pin-point talent like Sofia.\n\nThe 20-year-old singer just became the first solo lead female act to hit No. 1 on the Latin Pop Songs chart in five years, with her latest single \u201cSolo Yo\u201d and its english version \u201cNobody But Me\u201d featuring Prince Royce."
+   },
+   "embed_content": "<div id='rg_embed_link_2463196' class='rg_embed_link' data-song-id='2463196'>Read <a href='https://genius.com/Cash-cash-how-to-love-lyrics'>\u201cHow to Love\u201d by Cash\u00a0Cash</a> on Genius</div> <script crossorigin src='//genius.com/songs/2463196/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-04-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/150654",
+    "cover_art_url": "https://images.genius.com/ff352c6ff8597ae42a26c3d8629dad6b.1000x1000x1.jpg",
+    "full_title": "Blood, Sweat & 3 Years by Cash Cash",
+    "id": 150654,
+    "name": "Blood, Sweat & 3 Years",
+    "release_date_for_display": "June 24, 2016",
+    "url": "https://genius.com/albums/Cash-cash/Blood-sweat-3-years",
+    "artist": {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 277194,
+    "annotator_login": "AlanGuerrero",
+    "api_path": "/referents/9060887",
+    "classification": "cosigned",
+    "fragment": "How to Love",
+    "id": 9060887,
+    "is_description": true,
+    "path": "/9060887/Cash-cash-how-to-love/How-to-love",
+    "range": {
+     "content": "How to Love"
+    },
+    "song_id": 2463196,
+    "url": "https://genius.com/9060887/Cash-cash-how-to-love/How-to-love",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2463196",
+     "client_timestamps": {
+      "updated_by_human_at": 1643070098,
+      "lyrics_updated_at": 1643070098
+     },
+     "context": "Cash Cash",
+     "id": 2463196,
+     "image_url": "https://images.genius.com/eb3e2fbfe96ae452e51696d9f7d33b88.1000x1000x1.jpg",
+     "link_title": "How to Love by\u00a0Cash\u00a0Cash (Ft.\u00a0Sof\u00eda\u00a0Reyes)",
+     "title": "How to Love",
+     "type": "Song",
+     "url": "https://genius.com/Cash-cash-how-to-love-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9060887",
+      "body": {
+       "plain": "\u201cHow to Love\u201d is a song by  American electronic dance music group Cash Cash featuring Mexican pop singer Sofia Reyes.\n\n\u201cThis one was a cool one because we all felt a connection to the lyrics,\u201d Cash Cash group member Jean Paul Makhlouf told Genius on June 27, 2016. \u201cBeing on tour all the time sometimes it\u2019s tough to maintain normal relationships, even just like friendships, not even on a romantic level. The song is more on the love level. It\u2019s cool because the song stirs up a different emotion in anybody. For me, it\u2019s when you\u2019re on the road and barely have five minutes to talk to someone or when you\u2019re in different timezones it gets so frustrating. We\u2019re still learning how to grow as people and learning how to love in a way that is feasible for two people being in a situation that touring musicians are in.\u201d\n\n\u201cRomantically, we all have been in and out of relationships in the whole process. You learn a little bit from each one on what you did wrong and how you can improve the relationship being on tour. It\u2019s one of those things constantly evolving,\u201d Makhlouf added.\n\nCash Cash wrote the song before adding Reyes on vocals. \u201cWhen she heard the song she was very much into the vibe and found it relatable. You can feel that in her vocal performance. She was very connected to the lyrics,\u201d Makhlouf said.\n\nThe video for \u201cHow to Love\u201d was shot in L.A. in a location similar to a green house and it helped achieve the exact look that the group wanted.\n\nhttps://www.youtube.com/watch?v=peByeoQhjMM\n\nThe actual creation of the track was effortless and done in one day.\n\n\u201cI flew to record the song and it was done in hours,\u201d said Reyes. \u201cI got to know them and they\u2019re so great.\u201d\n\nBoth the group and Reyes felt that this collaboration was seamless and will most likely not be the last of its kind.\n\n\u201cIt would be great to have them on my album and work together again,\u201d said the Latina singer. \u201cThat would be amazing.\u201d\n\nThe group, which consist of brothers Jean Paul Makhlouf and Alex Makhlouf along with friend Frisch, definitely knew how to pin-point talent like Sofia.\n\nThe 20-year-old singer just became the first solo lead female act to hit No. 1 on the Latin Pop Songs chart in five years, with her latest single \u201cSolo Yo\u201d and its english version \u201cNobody But Me\u201d featuring Prince Royce."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9060887,
+      "pinned": false,
+      "share_url": "https://genius.com/9060887",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9060887/Cash-cash-how-to-love/How-to-love",
+      "verified": false,
+      "votes_total": 17,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5452488687782805,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3194963",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4e5e944cabaaff171d712218f801567e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4e5e944cabaaff171d712218f801567e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4e5e944cabaaff171d712218f801567e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4e5e944cabaaff171d712218f801567e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/m9dSHxxRwWDnqbwKocSQ_13781790_10102537497247143_6964521862334777880_n.jpg",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 3194963,
+         "iq": 13146,
+         "login": "BrianAnthonyHernandez",
+         "name": "Brian Anthony Hernandez",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/BrianAnthonyHernandez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.45475113122171945,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/277194",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9beb8837ce8d829dbf9ddbae4bb16e50",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9beb8837ce8d829dbf9ddbae4bb16e50",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9beb8837ce8d829dbf9ddbae4bb16e50",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9beb8837ce8d829dbf9ddbae4bb16e50",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/xmwen4dy9u",
+         "human_readable_role_for_display": "Contributor",
+         "id": 277194,
+         "iq": 43719,
+         "login": "AlanGuerrero",
+         "name": "AlanGuerrero",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AlanGuerrero",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [
+       {
+        "api_path": "/users/3442868",
+        "avatar": {
+         "tiny": {
+          "url": "https://images.genius.com/avatars/tiny/f98207b5653ba3e7526a06d2039485c9",
+          "bounding_box": {
+           "width": 16,
+           "height": 16
+          }
+         },
+         "thumb": {
+          "url": "https://images.genius.com/avatars/thumb/f98207b5653ba3e7526a06d2039485c9",
+          "bounding_box": {
+           "width": 32,
+           "height": 32
+          }
+         },
+         "small": {
+          "url": "https://images.genius.com/avatars/small/f98207b5653ba3e7526a06d2039485c9",
+          "bounding_box": {
+           "width": 100,
+           "height": 100
+          }
+         },
+         "medium": {
+          "url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+          "bounding_box": {
+           "width": 300,
+           "height": 400
+          }
+         }
+        },
+        "header_image_url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+        "human_readable_role_for_display": "Verified Artist",
+        "id": 3442868,
+        "iq": 462,
+        "login": "TheCashCash",
+        "name": "Cash Cash",
+        "role_for_display": "verified_artist",
+        "url": "https://genius.com/TheCashCash",
+        "current_user_metadata": {
+         "permissions": [],
+         "excluded_permissions": [
+          "follow"
+         ],
+         "interactions": {
+          "following": false
+         }
+        }
+       }
+      ],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=peByeoQhjMM"
+    },
+    {
+     "native_uri": "spotify:track:2VYiQ9ijG3NER2aevaxzDi",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2VYiQ9ijG3NER2aevaxzDi"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2771020",
+       "artist_names": "Cash Cash (Ft. Sof\u00eda Reyes)",
+       "full_title": "How To Love (Acoustic Version) by\u00a0Cash\u00a0Cash (Ft.\u00a0Sof\u00eda\u00a0Reyes)",
+       "header_image_thumbnail_url": "https://images.genius.com/a2647c17c7f888e653158b1fa008d831.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a2647c17c7f888e653158b1fa008d831.500x500x1.jpg",
+       "id": 2771020,
+       "language": "en",
+       "lyrics_owner_id": 2045455,
+       "lyrics_state": "complete",
+       "path": "/Cash-cash-how-to-love-acoustic-version-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Cash-cash-how-to-love-acoustic-version-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 6,
+        "day": 10
+       },
+       "release_date_for_display": "June 10, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jun. 10, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a2647c17c7f888e653158b1fa008d831.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a2647c17c7f888e653158b1fa008d831.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "How To Love (Acoustic Version)",
+       "title_with_featured": "How To Love (Acoustic Version) (Ft.\u00a0Sof\u00eda\u00a0Reyes)",
+       "url": "https://genius.com/Cash-cash-how-to-love-acoustic-version-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/406125",
+         "header_image_url": "https://images.genius.com/40ddd9898e9ac10633c5cc55fc699b61.1000x563x1.jpg",
+         "id": 406125,
+         "image_url": "https://images.genius.com/7d7b5dbd278678a709ee80165f3d07ec.384x384x1.png",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Sof\u00eda Reyes",
+         "url": "https://genius.com/artists/Sofia-reyes",
+         "iq": 386
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/104043",
+        "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+        "id": 104043,
+        "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Cash Cash",
+        "url": "https://genius.com/artists/Cash-cash",
+        "iq": 462
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/3442868",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/f98207b5653ba3e7526a06d2039485c9",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/f98207b5653ba3e7526a06d2039485c9",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/f98207b5653ba3e7526a06d2039485c9",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 3442868,
+     "iq": 462,
+     "login": "TheCashCash",
+     "name": "Cash Cash",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TheCashCash",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/104043",
+      "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+      "id": 104043,
+      "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Cash Cash",
+      "url": "https://genius.com/artists/Cash-cash",
+      "iq": 462
+     },
+     "user": {
+      "api_path": "/users/3442868",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/f98207b5653ba3e7526a06d2039485c9",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/f98207b5653ba3e7526a06d2039485c9",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/f98207b5653ba3e7526a06d2039485c9",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/f98207b5653ba3e7526a06d2039485c9",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 3442868,
+      "iq": 462,
+      "login": "TheCashCash",
+      "name": "Cash Cash",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TheCashCash",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/632021",
+     "header_image_url": "https://images.genius.com/e6954405cbbc341b758246c77c2a37c2.400x400x1.jpg",
+     "id": 632021,
+     "image_url": "https://images.genius.com/e6954405cbbc341b758246c77c2a37c2.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ilsey",
+     "url": "https://genius.com/artists/Ilsey"
+    },
+    {
+     "api_path": "/artists/499632",
+     "header_image_url": "https://images.genius.com/8862bb763dc217958ffdab0861e7f4b6.1000x1000x1.png",
+     "id": 499632,
+     "image_url": "https://images.genius.com/8862bb763dc217958ffdab0861e7f4b6.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jennifer Decilveo",
+     "url": "https://genius.com/artists/Jennifer-decilveo"
+    },
+    {
+     "api_path": "/artists/778311",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 778311,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Paul Makhlouf",
+     "url": "https://genius.com/artists/Jean-paul-makhlouf"
+    },
+    {
+     "api_path": "/artists/778310",
+     "header_image_url": "https://images.genius.com/99dca32c8f7800cee3d02a6db28fc09c.400x400x1.jpg",
+     "id": 778310,
+     "image_url": "https://images.genius.com/99dca32c8f7800cee3d02a6db28fc09c.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Makhlouf",
+     "url": "https://genius.com/artists/Alexander-makhlouf"
+    },
+    {
+     "api_path": "/artists/778309",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 778309,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Samuel Frisch",
+     "url": "https://genius.com/artists/Samuel-frisch"
+    }
+   ],
+   "artist": "Cash Cash",
+   "lyrics": "23 ContributorsHow to Love Lyrics[Intro]\nOne two three\n\n[Verse 1]\nI've been running from the pain\nTrying not to feel the same\nBut it's a shame that we're sinking\nSee, my confidence is shaking\nAnd my heart is feeling vacant\nSo you try to fill it in\n\n[Pre-Chorus]\nYou say \"I could fix the broken in your heart\nYou're worth saving, darling\"\nBut I don't know why you're shooting in the dark\nI got faith in nothing\n\n[Chorus]\nBut love, pray for me\nI never had somebody\nSo I don't know how to love\nPray for me\nI know I need somebody\nSo I can learn how to love\n\n[Verse 2]\nI know it's been a while\nCause my memory's on trial\nFor the way I used to be\nMy head is running miles\nRound in circles and I try\nTo find the little light in me\nYou might also like[Pre-Chorus]\nYou say \"I could fix the broken in your heart\nYou're worth saving, darling\"\nBut I don't know why you're shooting in the dark\nI got faith in nothing\n\n[Chorus]\nBut love, pray for me\nI never had somebody\nSo I don't know how to love\nPray for me\nI know I need somebody\nSo I can learn how to love\n\n[Outro]\nI know I need somebody\nI know I need somebody\nI know I need somebody\nSo I can learn how to love\nHow to love\nHow to love\nSo I can learn how to love\nHow to love\nHow to love\nHow to love\nLove, love, love, love, love, love, oh\nI know I need somebody\nI know I need somebody\nI know I need somebody\nSo I can learn how to love\n(Need somebody now\nHow to love, love\nHow to love, love)12Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/286961",
+   "artist_names": "Cash Cash (Ft. Bebe Rexha)",
+   "full_title": "Take Me Home by\u00a0Cash\u00a0Cash (Ft.\u00a0Bebe\u00a0Rexha)",
+   "header_image_thumbnail_url": "https://images.genius.com/d9b80f85f1d311a3baf300274ee2406d.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d9b80f85f1d311a3baf300274ee2406d.1000x1000x1.png",
+   "id": 286961,
+   "language": "en",
+   "lyrics_owner_id": 300052,
+   "lyrics_state": "complete",
+   "path": "/Cash-cash-take-me-home-lyrics",
+   "pyongs_count": 22,
+   "relationships_index_url": "https://genius.com/Cash-cash-take-me-home-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 15
+   },
+   "release_date_for_display": "July 15, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 15, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b930bd450c121abd0d4a0a073f5d1586.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/b930bd450c121abd0d4a0a073f5d1586.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 21,
+    "iq_earners": 21,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 67921
+   },
+   "title": "Take Me Home",
+   "title_with_featured": "Take Me Home (Ft.\u00a0Bebe\u00a0Rexha)",
+   "url": "https://genius.com/Cash-cash-take-me-home-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/104044",
+     "header_image_url": "https://images.genius.com/e81ac8c8e62605ae1f147660db7d9381.1000x333x1.jpg",
+     "id": 104044,
+     "image_url": "https://images.genius.com/6181b0b4abaca141d349590513265803.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Bebe Rexha",
+     "url": "https://genius.com/artists/Bebe-rexha",
+     "iq": 6947
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/104043",
+    "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "id": 104043,
+    "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cash Cash",
+    "url": "https://genius.com/artists/Cash-cash",
+    "iq": 462
+   },
+   "apple_music_id": "1107251727",
+   "apple_music_player_url": "https://genius.com/songs/286961/apple_music_player",
+   "description": {
+    "plain": "\u201cTake Me Home\u201d is a song by American DJ trio Cash Cash and American singer Bebe Rexha, from the former\u2019s third EP, Blood, Sweat & 3 Years.\n\nThe song propelled Bebe Rexha to newfound international fame. \u201cTake Me Home\u201d remains one of Cash Cash\u2019s most famous songs.\n\n\u201cTake Me Home\u201d is about the longing for a feeling of comfort in a relationship.  The singer describes her dysfunctional relationship and how she wants to take it to the next level by having her significant other \u201ctake [her] home\u201d.  The meaning behind the \u201ctake me home\u201d line is two-fold; the singer both literally wants her partner to take her home and introduce her to her partner\u2019s parents to move their relationship forward and metaphorical in the sense that she wants their relationship to be less chaotic."
+   },
+   "embed_content": "<div id='rg_embed_link_286961' class='rg_embed_link' data-song-id='286961'>Read <a href='https://genius.com/Cash-cash-take-me-home-lyrics'>\u201cTake Me Home\u201d by Cash\u00a0Cash</a> on Genius</div> <script crossorigin src='//genius.com/songs/286961/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-07-15",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/150654",
+    "cover_art_url": "https://images.genius.com/ff352c6ff8597ae42a26c3d8629dad6b.1000x1000x1.jpg",
+    "full_title": "Blood, Sweat & 3 Years by Cash Cash",
+    "id": 150654,
+    "name": "Blood, Sweat & 3 Years",
+    "release_date_for_display": "June 24, 2016",
+    "url": "https://genius.com/albums/Cash-cash/Blood-sweat-3-years",
+    "artist": {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5379387,
+    "annotator_login": "WayTooMuchEmotion",
+    "api_path": "/referents/3662892",
+    "classification": "accepted",
+    "fragment": "Take Me Home",
+    "id": 3662892,
+    "is_description": true,
+    "path": "/3662892/Cash-cash-take-me-home/Take-me-home",
+    "range": {
+     "content": "Take Me Home"
+    },
+    "song_id": 286961,
+    "url": "https://genius.com/3662892/Cash-cash-take-me-home/Take-me-home",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/286961",
+     "client_timestamps": {
+      "updated_by_human_at": 1671848381,
+      "lyrics_updated_at": 1671848381
+     },
+     "context": "Cash Cash",
+     "id": 286961,
+     "image_url": "https://images.genius.com/b930bd450c121abd0d4a0a073f5d1586.1000x1000x1.png",
+     "link_title": "Take Me Home by\u00a0Cash\u00a0Cash (Ft.\u00a0Bebe\u00a0Rexha)",
+     "title": "Take Me Home",
+     "type": "Song",
+     "url": "https://genius.com/Cash-cash-take-me-home-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3662892",
+      "body": {
+       "plain": "\u201cTake Me Home\u201d is a song by American DJ trio Cash Cash and American singer Bebe Rexha, from the former\u2019s third EP, Blood, Sweat & 3 Years.\n\nThe song propelled Bebe Rexha to newfound international fame. \u201cTake Me Home\u201d remains one of Cash Cash\u2019s most famous songs.\n\n\u201cTake Me Home\u201d is about the longing for a feeling of comfort in a relationship.  The singer describes her dysfunctional relationship and how she wants to take it to the next level by having her significant other \u201ctake [her] home\u201d.  The meaning behind the \u201ctake me home\u201d line is two-fold; the singer both literally wants her partner to take her home and introduce her to her partner\u2019s parents to move their relationship forward and metaphorical in the sense that she wants their relationship to be less chaotic."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3662892,
+      "pinned": false,
+      "share_url": "https://genius.com/3662892",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3662892/Cash-cash-take-me-home/Take-me-home",
+      "verified": false,
+      "votes_total": 10,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5379387",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9d9e3d74c63537b18015c06d4d3a74af",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9d9e3d74c63537b18015c06d4d3a74af",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9d9e3d74c63537b18015c06d4d3a74af",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9d9e3d74c63537b18015c06d4d3a74af",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9d9e3d74c63537b18015c06d4d3a74af",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5379387,
+         "iq": 16478,
+         "login": "WayTooMuchEmotion",
+         "name": "WayTooMuchEmotion",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/WayTooMuchEmotion",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7iT98FhZ7BAE8xdCxBlw55",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7iT98FhZ7BAE8xdCxBlw55"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kDo2SiW3JHU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4957624",
+       "artist_names": "DaymanOurSavior",
+       "full_title": "JUST MEGAMASHUP by\u00a0DaymanOurSavior",
+       "header_image_thumbnail_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "id": 4957624,
+       "language": "en",
+       "lyrics_owner_id": 8942631,
+       "lyrics_state": "complete",
+       "path": "/Daymanoursavior-just-megamashup-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Daymanoursavior-just-megamashup-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 15
+       },
+       "release_date_for_display": "September 15, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 15, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "JUST MEGAMASHUP",
+       "title_with_featured": "JUST MEGAMASHUP",
+       "url": "https://genius.com/Daymanoursavior-just-megamashup-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1409018",
+        "header_image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+        "id": 1409018,
+        "image_url": "https://images.genius.com/fcf684aa4aff28f816cd334216be8377.200x200x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DaymanOurSavior",
+        "url": "https://genius.com/artists/Daymanoursavior"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5284905",
+       "artist_names": "The Score",
+       "full_title": "Take Me Home by\u00a0The\u00a0Score",
+       "header_image_thumbnail_url": "https://images.genius.com/8e75a443ba3da8a52ba43fb7e11400bb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8e75a443ba3da8a52ba43fb7e11400bb.720x720x1.jpg",
+       "id": 5284905,
+       "language": "en",
+       "lyrics_owner_id": 7804547,
+       "lyrics_state": "complete",
+       "path": "/The-score-take-me-home-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-score-take-me-home-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8e75a443ba3da8a52ba43fb7e11400bb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8e75a443ba3da8a52ba43fb7e11400bb.720x720x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Take Me Home",
+       "title_with_featured": "Take Me Home",
+       "url": "https://genius.com/The-score-take-me-home-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/548770",
+        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+        "id": 548770,
+        "image_url": "https://images.genius.com/3af7aabfddb4616852a4ea683d730050.1000x735x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "The Score",
+        "url": "https://genius.com/artists/The-score",
+        "iq": 985
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4347344",
+       "artist_names": "Derivakat & HiMyNameIsAJ",
+       "full_title": "Take Me Home - Pop Punk Cover by\u00a0Derivakat\u00a0& HiMyNameIsAJ",
+       "header_image_thumbnail_url": "https://images.genius.com/e9ed6ea6979880e29a5ff7cb1196cfa7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e9ed6ea6979880e29a5ff7cb1196cfa7.500x500x1.jpg",
+       "id": 4347344,
+       "language": "en",
+       "lyrics_owner_id": 7842449,
+       "lyrics_state": "complete",
+       "path": "/Derivakat-and-himynameisaj-take-me-home-pop-punk-cover-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Derivakat-and-himynameisaj-take-me-home-pop-punk-cover-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 5,
+        "day": 14
+       },
+       "release_date_for_display": "May 14, 2015",
+       "release_date_with_abbreviated_month_for_display": "May. 14, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e9ed6ea6979880e29a5ff7cb1196cfa7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e9ed6ea6979880e29a5ff7cb1196cfa7.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Take Me Home - Pop Punk Cover",
+       "title_with_featured": "Take Me Home - Pop Punk Cover",
+       "url": "https://genius.com/Derivakat-and-himynameisaj-take-me-home-pop-punk-cover-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3186705",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3186705,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Derivakat & HiMyNameIsAJ",
+        "url": "https://genius.com/artists/Derivakat-and-himynameisaj"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1831140",
+       "artist_names": "Cash Cash",
+       "full_title": "Take Me Home (The Chainsmokers Remix) by\u00a0Cash\u00a0Cash",
+       "header_image_thumbnail_url": "https://images.genius.com/2c3e497bc4ad37fcee6553df0e4c49e7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2c3e497bc4ad37fcee6553df0e4c49e7.500x500x1.jpg",
+       "id": 1831140,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Cash-cash-take-me-home-the-chainsmokers-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cash-cash-take-me-home-the-chainsmokers-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 24
+       },
+       "release_date_for_display": "July 24, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 24, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2c3e497bc4ad37fcee6553df0e4c49e7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2c3e497bc4ad37fcee6553df0e4c49e7.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Take Me Home (The Chainsmokers Remix)",
+       "title_with_featured": "Take Me Home (The Chainsmokers Remix)",
+       "url": "https://genius.com/Cash-cash-take-me-home-the-chainsmokers-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/104043",
+        "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+        "id": 104043,
+        "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Cash Cash",
+        "url": "https://genius.com/artists/Cash-cash",
+        "iq": 462
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/104044",
+     "header_image_url": "https://images.genius.com/e81ac8c8e62605ae1f147660db7d9381.1000x333x1.jpg",
+     "id": 104044,
+     "image_url": "https://images.genius.com/6181b0b4abaca141d349590513265803.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Bebe Rexha",
+     "url": "https://genius.com/artists/Bebe-rexha",
+     "iq": 6947
+    },
+    {
+     "api_path": "/artists/43719",
+     "header_image_url": "https://images.genius.com/e307da651e2cefbaf37416dcd642a72e.957x328x1.png",
+     "id": 43719,
+     "image_url": "https://images.genius.com/ed565a0dcd81215a75606ed5f9d12f33.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sterling Fox",
+     "url": "https://genius.com/artists/Sterling-fox"
+    },
+    {
+     "api_path": "/artists/778311",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 778311,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jean Paul Makhlouf",
+     "url": "https://genius.com/artists/Jean-paul-makhlouf"
+    },
+    {
+     "api_path": "/artists/778310",
+     "header_image_url": "https://images.genius.com/99dca32c8f7800cee3d02a6db28fc09c.400x400x1.jpg",
+     "id": 778310,
+     "image_url": "https://images.genius.com/99dca32c8f7800cee3d02a6db28fc09c.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alexander Makhlouf",
+     "url": "https://genius.com/artists/Alexander-makhlouf"
+    },
+    {
+     "api_path": "/artists/778309",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 778309,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Samuel Frisch",
+     "url": "https://genius.com/artists/Samuel-frisch"
+    }
+   ],
+   "artist": "Cash Cash",
+   "lyrics": "21 ContributorsTake Me Home Lyrics[Verse 1: Bebe Rexha]\nI'm falling to pieces\nBut I need this, yeah, I need this\nYou're my fault, my weakness\nWhen did you turn so cold?\nYou cut me down to the bone\nNow you're dancing all over my soul\nI'm falling to pieces\nTo pieces, to pieces\n\n[Pre-Drop: Bebe Rexha]\nBut I still stay\n'Cause you're the only thing I know\nSo won't you take, oh\nWon't you take me home?\nTake me home, home, home\nTake me home, home, home\nTake me\n\n[Drop: Bebe Rexha]\nTake me, take me, take me\nTake me home\n\n[Verse 2: Bebe Rexha]\nRound in circles, here we go\nWith the highest highs and the lowest lows\nBut no one shakes me like you do\nMy best mistake was you\nAnd you're my sweet affliction\n'Cause you hurt me right, but you do it nice\nRound in circles, here we go\nYeah\nYou might also like[Pre-Drop: Bebe Rexha]\nBut I still stay\n'Cause you're the only thing I know\nSo won't you take, oh\nWon't you take me home?\nTake me home, home, home\nTake me home, home, home\nTake me\n\n[Drop: Bebe Rexha]\nTake me, take me, take me\nTake me home, home, home\nTake me home, home, home\nTake me home\nTake me\n\n[Outro: Bebe Rexha]\nI still stay, oh\nWon't you take me home?\nTake me home22Embed"
+  },
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/2856088",
+   "artist_names": "Cash Cash (Ft. Bim (UK))",
+   "full_title": "Tongue Twister by\u00a0Cash\u00a0Cash (Ft.\u00a0Bim\u00a0(UK))",
+   "header_image_thumbnail_url": "https://images.genius.com/d18422b102216dca2ac9786664cd8e3d.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d18422b102216dca2ac9786664cd8e3d.1000x1000x1.png",
+   "id": 2856088,
+   "language": "en",
+   "lyrics_owner_id": 3707549,
+   "lyrics_state": "complete",
+   "path": "/Cash-cash-tongue-twister-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Cash-cash-tongue-twister-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 9,
+    "day": 7
+   },
+   "release_date_for_display": "September 7, 2012",
+   "release_date_with_abbreviated_month_for_display": "Sep. 7, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d18422b102216dca2ac9786664cd8e3d.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/d18422b102216dca2ac9786664cd8e3d.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 23,
+    "iq_earners": 22,
+    "transcribers": 2,
+    "unreviewed_annotations": 12,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 53853
+   },
+   "title": "Tongue Twister",
+   "title_with_featured": "Tongue Twister (Ft.\u00a0Bim\u00a0(UK))",
+   "url": "https://genius.com/Cash-cash-tongue-twister-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/2111421",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2111421,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bim (UK)",
+     "url": "https://genius.com/artists/Bim-uk"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/104043",
+    "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "id": 104043,
+    "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Cash Cash",
+    "url": "https://genius.com/artists/Cash-cash",
+    "iq": 462
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2856088/apple_music_player",
+   "description": {
+    "plain": "I like when it starts with tongue twister"
+   },
+   "embed_content": "<div id='rg_embed_link_2856088' class='rg_embed_link' data-song-id='2856088'>Read <a href='https://genius.com/Cash-cash-tongue-twister-lyrics'>\u201cTongue Twister\u201d by Cash\u00a0Cash</a> on Genius</div> <script crossorigin src='//genius.com/songs/2856088/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-09-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/340076",
+    "cover_art_url": "https://images.genius.com/953706604ed802f0b4cc7bc6828b1f5c.1000x1000x1.png",
+    "full_title": "The Beat Goes On - EP by Cash Cash",
+    "id": 340076,
+    "name": "The Beat Goes On - EP",
+    "release_date_for_display": "September 7, 2012",
+    "url": "https://genius.com/albums/Cash-cash/The-beat-goes-on-ep",
+    "artist": {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10418252,
+    "annotator_login": "IsaBella-BakuShima",
+    "api_path": "/referents/11264452",
+    "classification": "unreviewed",
+    "fragment": "Tongue Twister",
+    "id": 11264452,
+    "is_description": true,
+    "path": "/11264452/Cash-cash-tongue-twister/Tongue-twister",
+    "range": {
+     "content": "Tongue Twister"
+    },
+    "song_id": 2856088,
+    "url": "https://genius.com/11264452/Cash-cash-tongue-twister/Tongue-twister",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2856088",
+     "client_timestamps": {
+      "updated_by_human_at": 1675878113,
+      "lyrics_updated_at": 1675878113
+     },
+     "context": "Cash Cash",
+     "id": 2856088,
+     "image_url": "https://images.genius.com/d18422b102216dca2ac9786664cd8e3d.1000x1000x1.png",
+     "link_title": "Tongue Twister by\u00a0Cash\u00a0Cash (Ft.\u00a0Bim\u00a0(UK))",
+     "title": "Tongue Twister",
+     "type": "Song",
+     "url": "https://genius.com/Cash-cash-tongue-twister-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11264452",
+      "body": {
+       "plain": "I like when it starts with tongue twister"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11264452,
+      "pinned": false,
+      "share_url": "https://genius.com/11264452",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/11264452/Cash-cash-tongue-twister/Tongue-twister",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10418252",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b0e4aa80b3611a0db04c82f92776364a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b0e4aa80b3611a0db04c82f92776364a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b0e4aa80b3611a0db04c82f92776364a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b0e4aa80b3611a0db04c82f92776364a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/94893ahwud6",
+         "human_readable_role_for_display": null,
+         "id": 10418252,
+         "iq": 149,
+         "login": "IsaBella-BakuShima",
+         "name": "IsaBella-BakuShima",
+         "role_for_display": null,
+         "url": "https://genius.com/IsaBella-BakuShima",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vbqB6iWRIc8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/104043",
+     "header_image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "id": 104043,
+     "image_url": "https://images.genius.com/3f29310121020175149b802bba414aaa.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Cash Cash",
+     "url": "https://genius.com/artists/Cash-cash",
+     "iq": 462
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Cash Cash",
+   "lyrics": "23 ContributorsTongue Twister Lyrics[Intro]\nI want your tongue twister\nYou got me beggin' for your head spinner\nI want it, I want it, lets get loud\nCause I can't fight the feeling of your tongue twister\nI want it, I want it\nI want it, I want it (get greasy)\n\nI wanna get you in a tongue twister, tied up in a tongue twister\nWanna get you in a tongue twister, tied up in a tongue twister\nI wanna get you in a tongue twister, tied up in a tongue twister\nWanna get you in a tongue twister, tied up in a tongue twister\n\n[Verse]\nYeah I'm on a acen's diet (Yup)\nI need me or start a riot (Uh-huh)\nTwilight, wanna sink my teeth in (Mmmm)\nSo fine girl I must be dreamin' (Yeah Girl)\nGrade A, your a dime with a a**\nShakin' it right, make me forget my pass\nNow move aside, cause I got that cash\nRich guys first, nice guys last\n\nImma comin' in and you got me talkin'\nIt's about time, let my lips start walkin'\nI wanna getcha in a tongue twister\nTie you up so I can be your mister\nI'm seeing double like sister, sister\nBaby get real close cause I wanna kiss ya\nNow you wanna make my head drop, getcha in ya sweet spot\nGonna make you body go crazy\nYou might also like[Chorus]\nI want your tongue twister\nYou got me beggin' for your head spinner\nI want it, I want it, lets get loud\nCause I can't fight the feeling of your tongue twister\nI want it, I want your tongue twister\nYou got my body shakin' head spinner\nI want it, I want it, one more time\nI can't find the words to sing it\nTongue twister, I want it, I want it\n\nI wanna get you in a tongue twister, tied up in a tongue twister\nWanna get you in a tongue twister, tied up in a tongue twister\nI wanna get you in a tongue twister, tied up in a tongue twister\nWanna get you in a tongue twister, tied up in a tongue twister\n\n[Bridge]\nBaby girl, lets hit the road\nSo I can put the cream on your arlamo\nAll night till ya break a sweat\nNow go and get your coat and a cigarette, yeah\n\nOhhh, ohhh, I'll take you home\nOhhh, ohhh, I'll make you moan\nOhhh, ohhh, I'll take you home\nOhhh, ohhh, I'll make you moan\nMoan, moan\nWanna get you in a tongue twister, tied up in a tongue twister\nCome on, boy\n\n[Chorus]\nI want your tongue twister (Ooohhhhhh yeah)\nYou got me beggin' for your head spinner (Ooohhhhhh)\nI want it, I want it, lets get loud\nCause I can't fight the feeling of your tongue twister\nI want it, I want your tongue twister (Ooohhhhooooohh)\nYou got my body shakin' head spinner\nI want it, I want it, one more time\nI can't find the words to sing it\nTongue twister (Ohh)\nI want it, I want it\n\n[Outro]\nI wanna get you in a tongue twister, tied up in a tongue twister\nWanna get you in a tongue twister, tied up in a tongue twisterEmbed"
+  }
+ ]
+}

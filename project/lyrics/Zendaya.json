@@ -1,0 +1,3739 @@
+{
+ "alternate_names": [
+  "Zendaya Maree Stoermer Coleman",
+  "Zendaya Coleman"
+ ],
+ "api_path": "/artists/43902",
+ "description": {
+  "plain": "Zendaya Coleman (born September 1, 1996) came to fame as one of the leads of Disney Channel show, Shake It Up. She quickly capitalized on the new found relevance by releasing largely successful music and going on Dancing With The Stars. She then went on both starring in and producing the hit Disney show K.C Undercover.\n\nAs an actress, Coleman has played played Michelle (MJ) in the Spider-Man franchise, Anne Wheeler in The Greatest Showman, and Rue in Euphoria, among other roles."
+ },
+ "facebook_name": "Zendaya",
+ "followers_count": 354,
+ "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+ "id": 43902,
+ "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+ "instagram_name": "zendaya",
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "Zendaya",
+ "translation_artist": false,
+ "twitter_name": "Zendaya",
+ "url": "https://genius.com/artists/Zendaya",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1087,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 204360,
+  "annotator_login": "Zendaya19",
+  "api_path": "/referents/6961732",
+  "classification": "accepted",
+  "fragment": "Zendaya",
+  "id": 6961732,
+  "is_description": true,
+  "path": "/6961732/Zendaya/Zendaya",
+  "range": {
+   "content": "Zendaya"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6961732/Zendaya/Zendaya",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/43902",
+   "context": null,
+   "id": 43902,
+   "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+   "link_title": "Zendaya",
+   "title": "Zendaya",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Zendaya"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6961732",
+    "body": {
+     "plain": "Zendaya Coleman (born September 1, 1996) came to fame as one of the leads of Disney Channel show, Shake It Up. She quickly capitalized on the new found relevance by releasing largely successful music and going on Dancing With The Stars. She then went on both starring in and producing the hit Disney show K.C Undercover.\n\nAs an actress, Coleman has played played Michelle (MJ) in the Spider-Man franchise, Anne Wheeler in The Greatest Showman, and Rue in Euphoria, among other roles."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6961732,
+    "pinned": false,
+    "share_url": "https://genius.com/6961732",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6961732/Zendaya/Zendaya",
+    "verified": false,
+    "votes_total": 40,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.40963855421686746,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/282633",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d55a0ebc5f88caec5a3b30bec656e139",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d55a0ebc5f88caec5a3b30bec656e139",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d55a0ebc5f88caec5a3b30bec656e139",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d55a0ebc5f88caec5a3b30bec656e139",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/70ea12972573684930a5d7448ab63cbe.300x300x100.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 282633,
+       "iq": 491099,
+       "login": "QueenOfCoplaints",
+       "name": "QueenOfCoplaints",
+       "role_for_display": "editor",
+       "url": "https://genius.com/QueenOfCoplaints",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3132530120481928,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5027026",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8187a7ae19e9bae21951b159150c933f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8187a7ae19e9bae21951b159150c933f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8187a7ae19e9bae21951b159150c933f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8187a7ae19e9bae21951b159150c933f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8187a7ae19e9bae21951b159150c933f",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5027026,
+       "iq": 201528,
+       "login": "WaterGod",
+       "name": "Amaury",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/WaterGod",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1566265060240964,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/292814",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6822d1e27c7d4bc597b663aced3651e7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6822d1e27c7d4bc597b663aced3651e7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6822d1e27c7d4bc597b663aced3651e7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6822d1e27c7d4bc597b663aced3651e7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0352208bbc4b681aa53b2c529a1df47e.1000x386x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 292814,
+       "iq": 93999,
+       "login": "OpenMikeAguila",
+       "name": "Open Mike Aguila",
+       "role_for_display": "editor",
+       "url": "https://genius.com/OpenMikeAguila",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.10843373493975904,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10168783",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/44cf73761a4b084194dd96b0469ef130",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/44cf73761a4b084194dd96b0469ef130",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/44cf73761a4b084194dd96b0469ef130",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/44cf73761a4b084194dd96b0469ef130",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uynf3hthvo",
+       "human_readable_role_for_display": "Contributor",
+       "id": 10168783,
+       "iq": 9534,
+       "login": "CrankyUDG",
+       "name": "CrankyUDG",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CrankyUDG",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.012048192771084338,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/204360",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "human_readable_role_for_display": null,
+       "id": 204360,
+       "iq": 69,
+       "login": "Zendaya19",
+       "name": "Zendaya19",
+       "role_for_display": null,
+       "url": "https://genius.com/Zendaya19",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/2954636",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/58cc49aa7b944b9ef378ea6225b22b9e",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/58cc49aa7b944b9ef378ea6225b22b9e",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/58cc49aa7b944b9ef378ea6225b22b9e",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/58cc49aa7b944b9ef378ea6225b22b9e",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 2954636,
+  "iq": 1087,
+  "login": "Zendaya",
+  "name": "Zendaya",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/Zendaya",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/207472",
+   "artist_names": "Zendaya",
+   "full_title": "Replay by\u00a0Zendaya",
+   "header_image_thumbnail_url": "https://images.genius.com/7a711b3d7f8d69524b142d619c8acfbf.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7a711b3d7f8d69524b142d619c8acfbf.1000x1000x1.jpg",
+   "id": 207472,
+   "language": "en",
+   "lyrics_owner_id": 272040,
+   "lyrics_state": "complete",
+   "path": "/Zendaya-replay-lyrics",
+   "pyongs_count": 56,
+   "relationships_index_url": "https://genius.com/Zendaya-replay-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 16
+   },
+   "release_date_for_display": "July 16, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7a711b3d7f8d69524b142d619c8acfbf.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7a711b3d7f8d69524b142d619c8acfbf.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 53,
+    "iq_earners": 50,
+    "transcribers": 5,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 87617
+   },
+   "title": "Replay",
+   "title_with_featured": "Replay",
+   "url": "https://genius.com/Zendaya-replay-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/43902",
+    "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+    "id": 43902,
+    "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Zendaya",
+    "url": "https://genius.com/artists/Zendaya",
+    "iq": 1087
+   },
+   "apple_music_id": "685028078",
+   "apple_music_player_url": "https://genius.com/songs/207472/apple_music_player",
+   "description": {
+    "plain": "\u201cReplay\u201d is a glitch-influenced pop song where Zendaya compares her love to a song she loves playing repeatedly.\n\nThis song is the lead single from Zendaya\u2019s self-titled debut."
+   },
+   "embed_content": "<div id='rg_embed_link_207472' class='rg_embed_link' data-song-id='207472'>Read <a href='https://genius.com/Zendaya-replay-lyrics'>\u201cReplay\u201d by Zendaya</a> on Genius</div> <script crossorigin src='//genius.com/songs/207472/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-07-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/46046",
+    "cover_art_url": "https://images.genius.com/316e49caa219934864e22f65381f8eba.1000x1000x1.png",
+    "full_title": "Zendaya by Zendaya",
+    "id": 46046,
+    "name": "Zendaya",
+    "release_date_for_display": "September 17, 2013",
+    "url": "https://genius.com/albums/Zendaya/Zendaya",
+    "artist": {
+     "api_path": "/artists/43902",
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "id": 43902,
+     "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Zendaya",
+     "url": "https://genius.com/artists/Zendaya",
+     "iq": 1087
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/838535",
+       "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+       "id": 838535,
+       "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SESAC",
+       "url": "https://genius.com/artists/Sesac"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2260082",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2260082,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit Biela Songs",
+       "url": "https://genius.com/artists/Spirit-biela-songs"
+      },
+      {
+       "api_path": "/artists/2256091",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2256091,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG Firefly",
+       "url": "https://genius.com/artists/Bmg-firefly"
+      },
+      {
+       "api_path": "/artists/2270880",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2270880,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Auntie\u2019s Favorite",
+       "url": "https://genius.com/artists/Aunties-favorite"
+      },
+      {
+       "api_path": "/artists/648508",
+       "header_image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+       "id": 648508,
+       "image_url": "https://images.genius.com/146f585e8c78f4bf0e2da7d55f08d6cd.375x375x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rondor Music",
+       "url": "https://genius.com/artists/Rondor-music"
+      },
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/1011919",
+       "header_image_url": "https://images.genius.com/054a299c5a9e0961dfa43145a8665744.1000x465x1.png",
+       "id": 1011919,
+       "image_url": "https://images.genius.com/d7674e632d4ffeb66c78b9a2ec56f32e.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG",
+       "url": "https://genius.com/artists/Bmg"
+      },
+      {
+       "api_path": "/artists/2270879",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2270879,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KidBrother Media",
+       "url": "https://genius.com/artists/Kidbrother-media"
+      },
+      {
+       "api_path": "/artists/992360",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 992360,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG Gold Songs",
+       "url": "https://genius.com/artists/Bmg-gold-songs"
+      },
+      {
+       "api_path": "/artists/2260456",
+       "header_image_url": "https://images.genius.com/384f084d262a28f484dabcbc496ca1be.463x75x1.png",
+       "id": 2260456,
+       "image_url": "https://images.genius.com/6a6dcf2dc647ec800739f5c9fcf19ac8.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit Music Group",
+       "url": "https://genius.com/artists/Spirit-music-group"
+      },
+      {
+       "api_path": "/artists/992610",
+       "header_image_url": "https://images.genius.com/8b0552add15b72c3747e7260ff993e41.256x256x1.png",
+       "id": 992610,
+       "image_url": "https://images.genius.com/96dd59233d48e915da8c65bbd93b1dda.256x256x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Disney Music Group",
+       "url": "https://genius.com/artists/Disney-music-group"
+      },
+      {
+       "api_path": "/artists/2284738",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2284738,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Z Swagg Music Publishing",
+       "url": "https://genius.com/artists/Z-swagg-music-publishing"
+      },
+      {
+       "api_path": "/artists/2266181",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2266181,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Underdog Songs",
+       "url": "https://genius.com/artists/Underdog-songs"
+      },
+      {
+       "api_path": "/artists/1223279",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1223279,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit One Music",
+       "url": "https://genius.com/artists/Spirit-one-music"
+      },
+      {
+       "api_path": "/artists/1010842",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1010842,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Seven Peaks Music",
+       "url": "https://genius.com/artists/Seven-peaks-music"
+      },
+      {
+       "api_path": "/artists/1465586",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1465586,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mick Schultz Productions",
+       "url": "https://genius.com/artists/Mick-schultz-productions"
+      },
+      {
+       "api_path": "/artists/995508",
+       "header_image_url": "https://images.genius.com/081d60f2338084c6cc3d765188107246.525x525x1.jpg",
+       "id": 995508,
+       "image_url": "https://images.genius.com/db53af5c3b63f9174272e15ab2880724.525x525x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Irving Music",
+       "url": "https://genius.com/artists/Irving-music"
+      }
+     ]
+    },
+    {
+     "label": "Vocal Producer",
+     "artists": [
+      {
+       "api_path": "/artists/38438",
+       "header_image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+       "id": 38438,
+       "image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mick Schultz",
+       "url": "https://genius.com/artists/Mick-schultz",
+       "iq": 178
+      },
+      {
+       "api_path": "/artists/570971",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 570971,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Shelton",
+       "url": "https://genius.com/artists/Paul-shelton"
+      },
+      {
+       "api_path": "/artists/500832",
+       "header_image_url": "https://images.genius.com/c4c2f4cce353d03ab6543f3ea6cc0eb2.1000x525x1.jpg",
+       "id": 500832,
+       "image_url": "https://images.genius.com/6329dce50ee655caaaeb730d7e869a80.533x533x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tiffany Fred",
+       "url": "https://genius.com/artists/Tiffany-fred"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/58977",
+       "header_image_url": "https://images.genius.com/87ab7a15a4d8b02c2b86f6fd17da1d92.1000x1000x1.png",
+       "id": 58977,
+       "image_url": "https://images.genius.com/79ab52a07e536bb14aa7a68e020c3bd0.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hollywood Records",
+       "url": "https://genius.com/artists/Hollywood-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 70148,
+    "annotator_login": "chihuahua0",
+    "api_path": "/referents/3661214",
+    "classification": "accepted",
+    "fragment": "Replay",
+    "id": 3661214,
+    "is_description": true,
+    "path": "/3661214/Zendaya-replay/Replay",
+    "range": {
+     "content": "Replay"
+    },
+    "song_id": 207472,
+    "url": "https://genius.com/3661214/Zendaya-replay/Replay",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/207472",
+     "client_timestamps": {
+      "updated_by_human_at": 1681530155,
+      "lyrics_updated_at": 1681530155
+     },
+     "context": "Zendaya",
+     "id": 207472,
+     "image_url": "https://images.genius.com/7a711b3d7f8d69524b142d619c8acfbf.1000x1000x1.jpg",
+     "link_title": "Replay by\u00a0Zendaya",
+     "title": "Replay",
+     "type": "Song",
+     "url": "https://genius.com/Zendaya-replay-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3661214",
+      "body": {
+       "plain": "\u201cReplay\u201d is a glitch-influenced pop song where Zendaya compares her love to a song she loves playing repeatedly.\n\nThis song is the lead single from Zendaya\u2019s self-titled debut."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3661214,
+      "pinned": false,
+      "share_url": "https://genius.com/3661214",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3661214/Zendaya-replay/Replay",
+      "verified": false,
+      "votes_total": 49,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9285714285714286,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/70148",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 70148,
+         "iq": 187094,
+         "login": "chihuahua0",
+         "name": "Chihuahua0",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/chihuahua0",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03571428571428572,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1217659",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6723212bd50112478d850d5534d1b6bd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6723212bd50112478d850d5534d1b6bd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6723212bd50112478d850d5534d1b6bd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6723212bd50112478d850d5534d1b6bd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0vndlniRQvODPDfskVy7_tumblr_o8ug15Ho8T1uu9fqho1_500.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1217659,
+         "iq": 8986,
+         "login": "randomgirl0013",
+         "name": "randomgirl0013",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/randomgirl0013",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03571428571428572,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/301639",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 301639,
+         "iq": 155463,
+         "login": "gone_6gqv_e654",
+         "name": "gone_6gqv_e654",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/gone_6gqv_e654",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7d1CFwrBmH34gmS0Hkbfbt",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7d1CFwrBmH34gmS0Hkbfbt"
+    },
+    {
+     "attribution": "zendaya official",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/zendaya-official/replay"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cyLE48i4XY0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/38438",
+     "header_image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "id": 38438,
+     "image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mick Schultz",
+     "url": "https://genius.com/artists/Mick-schultz",
+     "iq": 178
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7321554",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Replay (2013) by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/8541a397fdd9d318cde8bcef2dbc568d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8541a397fdd9d318cde8bcef2dbc568d.640x640x1.jpg",
+       "id": 7321554,
+       "language": "en",
+       "lyrics_owner_id": 8348099,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-replay-2013-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-replay-2013-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 8
+       },
+       "release_date_for_display": "October 8, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 8, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8541a397fdd9d318cde8bcef2dbc568d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8541a397fdd9d318cde8bcef2dbc568d.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (2013)",
+       "title_with_featured": "Replay (2013)",
+       "url": "https://genius.com/Kidz-bop-kids-replay-2013-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Zendaya-replay-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8197463",
+       "artist_names": "Lvusm",
+       "full_title": "Replayyy (comment 'jeremy') by\u00a0Lvusm",
+       "header_image_thumbnail_url": "https://images.genius.com/2725cdfa70b71aae1ecc8c2011b89c62.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2725cdfa70b71aae1ecc8c2011b89c62.500x500x1.jpg",
+       "id": 8197463,
+       "language": "en",
+       "lyrics_owner_id": 6226731,
+       "lyrics_state": "complete",
+       "path": "/Lvusm-replayyy-comment-jeremy-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lvusm-replayyy-comment-jeremy-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 1,
+        "day": 15
+       },
+       "release_date_for_display": "January 15, 2022",
+       "release_date_with_abbreviated_month_for_display": "Jan. 15, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2725cdfa70b71aae1ecc8c2011b89c62.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2725cdfa70b71aae1ecc8c2011b89c62.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replayyy (comment \u2019jeremy\u2019)",
+       "title_with_featured": "Replayyy (comment 'jeremy')",
+       "url": "https://genius.com/Lvusm-replayyy-comment-jeremy-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2288957",
+        "header_image_url": "https://images.genius.com/28b9a432f2d194a34269cbf8c0265ec8.999x1000x1.jpg",
+        "id": 2288957,
+        "image_url": "https://images.genius.com/c22a0cf77faa5f4c1a935e4a1b3abe80.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lvusm",
+        "url": "https://genius.com/artists/Lvusm"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2236499",
+       "artist_names": "Zendaya",
+       "full_title": "Replay - Monsieur Adi Remix (Radio Edit) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.1000x1000x1.png",
+       "id": 2236499,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-monsieur-adi-remix-radio-edit-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-monsieur-adi-remix-radio-edit-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 2,
+        "day": 24
+       },
+       "release_date_for_display": "February 24, 2014",
+       "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay - Monsieur Adi Remix (Radio Edit)",
+       "title_with_featured": "Replay - Monsieur Adi Remix (Radio Edit)",
+       "url": "https://genius.com/Zendaya-replay-monsieur-adi-remix-radio-edit-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2086682",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Monsieur Adi Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.1000x1000x1.png",
+       "id": 2086682,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-monsieur-adi-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-monsieur-adi-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 2,
+        "day": 24
+       },
+       "release_date_for_display": "February 24, 2014",
+       "release_date_with_abbreviated_month_for_display": "Feb. 24, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0f5a5da3ddbca775908bfb5a80ccb53a.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Monsieur Adi Remix)",
+       "title_with_featured": "Replay (Monsieur Adi Remix)",
+       "url": "https://genius.com/Zendaya-replay-monsieur-adi-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1999001",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Jump Smokers Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 1999001,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-jump-smokers-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-jump-smokers-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Jump Smokers Remix)",
+       "title_with_featured": "Replay (Jump Smokers Remix)",
+       "url": "https://genius.com/Zendaya-replay-jump-smokers-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2232484",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Riddler Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 2232484,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-riddler-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-riddler-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Riddler Remix)",
+       "title_with_featured": "Replay (Riddler Remix)",
+       "url": "https://genius.com/Zendaya-replay-riddler-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2229947",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Belanger Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 2229947,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-belanger-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-belanger-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Belanger Remix)",
+       "title_with_featured": "Replay (Belanger Remix)",
+       "url": "https://genius.com/Zendaya-replay-belanger-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2001736",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (It\u2019s The Kue Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 2001736,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-its-the-kue-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-its-the-kue-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (It\u2019s The Kue Remix)",
+       "title_with_featured": "Replay (It\u2019s The Kue Remix)",
+       "url": "https://genius.com/Zendaya-replay-its-the-kue-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2258988",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Jason Nevins Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 2258988,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-jason-nevins-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-jason-nevins-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Jason Nevins Remix)",
+       "title_with_featured": "Replay (Jason Nevins Remix)",
+       "url": "https://genius.com/Zendaya-replay-jason-nevins-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2230453",
+       "artist_names": "Zendaya",
+       "full_title": "Replay (Ralphi Rosario Remix) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "id": 2230453,
+       "language": "en",
+       "lyrics_owner_id": 8885023,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-replay-ralphi-rosario-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-replay-ralphi-rosario-remix-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9a18c9e1abb1ccc2ee28e5dbe80d6d1c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Replay (Ralphi Rosario Remix)",
+       "title_with_featured": "Replay (Ralphi Rosario Remix)",
+       "url": "https://genius.com/Zendaya-replay-ralphi-rosario-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7756920",
+       "artist_names": "Genius Traducciones al Espa\u00f1ol",
+       "full_title": "Zendaya - Replay (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+       "header_image_thumbnail_url": "https://images.genius.com/d9ef24db42dca15721f7401bc6ad0f5e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d9ef24db42dca15721f7401bc6ad0f5e.842x842x1.jpg",
+       "id": 7756920,
+       "language": "es",
+       "lyrics_owner_id": 13832890,
+       "lyrics_state": "complete",
+       "path": "/Genius-traducciones-al-espanol-zendaya-replay-traduccion-al-espanol-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-zendaya-replay-traduccion-al-espanol-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 16
+       },
+       "release_date_for_display": "July 16, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d9ef24db42dca15721f7401bc6ad0f5e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d9ef24db42dca15721f7401bc6ad0f5e.842x842x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Zendaya - Replay (Traducci\u00f3n al Espa\u00f1ol)",
+       "title_with_featured": "Zendaya - Replay (Traducci\u00f3n al Espa\u00f1ol)",
+       "url": "https://genius.com/Genius-traducciones-al-espanol-zendaya-replay-traduccion-al-espanol-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1376254",
+        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+        "id": 1376254,
+        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Traducciones al Espa\u00f1ol",
+        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7756920",
+     "id": 7756920,
+     "language": "es",
+     "lyrics_state": "complete",
+     "path": "/Genius-traducciones-al-espanol-zendaya-replay-traduccion-al-espanol-lyrics",
+     "title": "Zendaya - Replay (Traducci\u00f3n al Espa\u00f1ol)",
+     "url": "https://genius.com/Genius-traducciones-al-espanol-zendaya-replay-traduccion-al-espanol-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/38438",
+     "header_image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "id": 38438,
+     "image_url": "https://images.genius.com/e3df2b7c63d467315776267eef0320bf.436x436x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mick Schultz",
+     "url": "https://genius.com/artists/Mick-schultz",
+     "iq": 178
+    },
+    {
+     "api_path": "/artists/570971",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 570971,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Paul Shelton",
+     "url": "https://genius.com/artists/Paul-shelton"
+    },
+    {
+     "api_path": "/artists/500832",
+     "header_image_url": "https://images.genius.com/c4c2f4cce353d03ab6543f3ea6cc0eb2.1000x525x1.jpg",
+     "id": 500832,
+     "image_url": "https://images.genius.com/6329dce50ee655caaaeb730d7e869a80.533x533x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tiffany Fred",
+     "url": "https://genius.com/artists/Tiffany-fred"
+    },
+    {
+     "api_path": "/artists/43902",
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "id": 43902,
+     "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Zendaya",
+     "url": "https://genius.com/artists/Zendaya",
+     "iq": 1087
+    }
+   ],
+   "artist": "Zendaya",
+   "lyrics": "53 ContributorsTranslationsEspa\u00f1olReplay Lyrics[Verse 1]\nMake it stop\nSounds so good, I just can't take no more\nTurn it down, turn it up, I don't know\nI don't know (Know)\nBut don't stop (Ah)\nDon't move (Ah), just keep it there (Right there)\nKeep it right there (Mmh)\nKeep it right there\n\n[Pre-Chorus]\nI wanna put you on repeat\nPlay you everywhere I go, e-e-everywhere I go\nPlay you everywhere I go\nPut you on repeat\nPlay you everywhere I go (Go), e-e-everywhere I go (Go)\nPlay you everywhere I go\n\n[Chorus]\nYeah, wanna put this song on replay\nI can listen to it all day\nI can listen to you all day, yeah, you all day\nYeah, wanna put this song on replay\nWe can start all over again, and again (Yeah)\nYeah, wanna put this song on replay\nYou might also like[Verse 2]\nDon't stop (Stop)\nTurn it on, turn it up, make it louder (Yeah)\nI don't wanna miss a single thing\nI wanna hear every melody (Yeah)\nB-b-b-beating (Beating, beating)\nBeating so loud you can feel it (See it, see it)\nB-b-b-beating (Beating, beating)\nBeating for you\n\n[Pre-Chorus]\nI wanna put you on repeat\nPlay you everywhere I go, e-e-everywhere I go\nPlay you everywhere I go\nPut you on repeat\nPlay you everywhere I go (Go), e-e-everywhere I go (Go)\nPlay you everywhere I go\n\n[Chorus]\nYeah, wanna put this song on replay\nI can listen to it all day\nI can listen to you all day, yeah, you all day\nYeah, wanna put this song on replay\nWe can start all over again, and again (Yeah)\nYeah, wanna put this song on replay\n[Bridge]\nFeel it all, feel it all crashing down (Down, down)\nI'm so lost, I'm so lost in your sound (Sound)\n\n[Breakdown]\nYeah, wanna put this song on replay (Yeah, on replay)\nPut this song on replay (On replay)\nList-listen to you all day (To you all day, yeah)\n\n[Chorus]\nYeah, wanna put this song on replay (Song on replay)\nI can listen to it all day\nI can listen to you all day, yeah, you all day\nYeah, wanna put this song on replay\nWe can start all over again, and again (Yeah)\nYeah, wanna put this song on replay\n\n[Outro]\nYeah\nYeah56Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2016418",
+   "artist_names": "Zendaya",
+   "full_title": "Neverland by\u00a0Zendaya",
+   "header_image_thumbnail_url": "https://images.genius.com/8c1e109a2c2a30dd37a3532d901159ef.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8c1e109a2c2a30dd37a3532d901159ef.600x600x1.jpg",
+   "id": 2016418,
+   "language": "en",
+   "lyrics_owner_id": 93685,
+   "lyrics_state": "complete",
+   "path": "/Zendaya-neverland-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Zendaya-neverland-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 5,
+    "day": 26
+   },
+   "release_date_for_display": "May 26, 2015",
+   "release_date_with_abbreviated_month_for_display": "May. 26, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8c1e109a2c2a30dd37a3532d901159ef.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8c1e109a2c2a30dd37a3532d901159ef.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 21,
+    "iq_earners": 21,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 67414
+   },
+   "title": "Neverland",
+   "title_with_featured": "Neverland",
+   "url": "https://genius.com/Zendaya-neverland-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/43902",
+    "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+    "id": 43902,
+    "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Zendaya",
+    "url": "https://genius.com/artists/Zendaya",
+    "iq": 1087
+   },
+   "apple_music_id": "986582618",
+   "apple_music_player_url": "https://genius.com/songs/2016418/apple_music_player",
+   "description": {
+    "plain": "Neverland is the first single taken from the compilation album, Finding Neverland. This specific version was first heard on The 68th Annual Tony Awards, performed by R&B vocalist, Jennifer Hudson.\n\nThe music video was released on January 24, 2016:\n\nhttps://www.youtube.com/watch?v=O3VPs9b_HZE"
+   },
+   "embed_content": "<div id='rg_embed_link_2016418' class='rg_embed_link' data-song-id='2016418'>Read <a href='https://genius.com/Zendaya-neverland-lyrics'>\u201cNeverland\u201d by Zendaya</a> on Genius</div> <script crossorigin src='//genius.com/songs/2016418/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-05-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/340984",
+    "cover_art_url": "https://images.genius.com/a19c778e62effa000a68ffbe7b445fff.1000x1000x1.jpg",
+    "full_title": "Finding Neverland: The Album (Songs from the Broadway Musical) by Various Artists",
+    "id": 340984,
+    "name": "Finding Neverland: The Album (Songs from the Broadway Musical)",
+    "release_date_for_display": "April 20, 2015",
+    "url": "https://genius.com/albums/Various-artists/Finding-neverland-the-album-songs-from-the-broadway-musical",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2650077",
+       "header_image_url": "https://images.genius.com/875754a1dceedb399b909b249052afbc.899x899x1.jpg",
+       "id": 2650077,
+       "image_url": "https://images.genius.com/875754a1dceedb399b909b249052afbc.899x899x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Marqueze \u201cKeez\u201d Parker",
+       "url": "https://genius.com/artists/Marqueze-keez-parker"
+      },
+      {
+       "api_path": "/artists/1151202",
+       "header_image_url": "https://images.genius.com/ac5eed653b02e1f014dec05dd28d8c9d.958x960x1.jpg",
+       "id": 1151202,
+       "image_url": "https://images.genius.com/ac5eed653b02e1f014dec05dd28d8c9d.958x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Bailey",
+       "url": "https://genius.com/artists/Jon-bailey"
+      }
+     ]
+    },
+    {
+     "label": "Strings Contractor",
+     "artists": [
+      {
+       "api_path": "/artists/1145023",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1145023,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Susie Gillis",
+       "url": "https://genius.com/artists/Susie-gillis"
+      },
+      {
+       "api_path": "/artists/910557",
+       "header_image_url": "https://images.genius.com/f63e72bd8da8f221a9e2d831b03a7cfc.200x200x1.jpg",
+       "id": 910557,
+       "image_url": "https://images.genius.com/f63e72bd8da8f221a9e2d831b03a7cfc.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Perry Montague-Mason",
+       "url": "https://genius.com/artists/Perry-montague-mason"
+      },
+      {
+       "api_path": "/artists/649562",
+       "header_image_url": "https://images.genius.com/725f4c4ca89c4e3cfe02e2b709b56cd6.418x418x1.jpg",
+       "id": 649562,
+       "image_url": "https://images.genius.com/725f4c4ca89c4e3cfe02e2b709b56cd6.418x418x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Isobel Griffiths",
+       "url": "https://genius.com/artists/Isobel-griffiths"
+      }
+     ]
+    },
+    {
+     "label": "Strings",
+     "artists": [
+      {
+       "api_path": "/artists/650368",
+       "header_image_url": "https://images.genius.com/4d25428fcbe3b4ac39d44a0773b4af49.600x400x1.jpg",
+       "id": 650368,
+       "image_url": "https://images.genius.com/f8fe9d3ec9767914f367d0bd288affdf.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "London Session Orchestra",
+       "url": "https://genius.com/artists/London-session-orchestra"
+      }
+     ]
+    },
+    {
+     "label": "Strings Arranger",
+     "artists": [
+      {
+       "api_path": "/artists/1174124",
+       "header_image_url": "https://images.genius.com/2a04430675e981fc94c33b4c57e97820.506x506x1.jpg",
+       "id": 1174124,
+       "image_url": "https://images.genius.com/2a04430675e981fc94c33b4c57e97820.506x506x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Wil Malone",
+       "url": "https://genius.com/artists/Wil-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/653713",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 653713,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan Carline",
+       "url": "https://genius.com/artists/Ryan-carline"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/972613",
+       "header_image_url": "https://images.genius.com/a41ae30edddb7580ce7b18475d9554e5.1000x668x1.png",
+       "id": 972613,
+       "image_url": "https://images.genius.com/8b3fc942a10e3edc72da0af66061e425.801x801x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Miles Showell",
+       "url": "https://genius.com/artists/Miles-showell"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1157298",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1157298,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Gareth Brown",
+       "url": "https://genius.com/artists/Gareth-brown"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/2361965",
+       "header_image_url": "https://images.genius.com/345966ec16c3f59a2363aa2ff4e093ae.400x400x1.jpg",
+       "id": 2361965,
+       "image_url": "https://images.genius.com/345966ec16c3f59a2363aa2ff4e093ae.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Linslee Campbell",
+       "url": "https://genius.com/artists/Linslee-campbell"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/22615",
+       "header_image_url": "https://images.genius.com/72afed5723583432aa4f028c199f437c.1000x1000x1.png",
+       "id": 22615,
+       "image_url": "https://images.genius.com/72afed5723583432aa4f028c199f437c.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cherokee",
+       "url": "https://genius.com/artists/Cherokee"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/58977",
+       "header_image_url": "https://images.genius.com/87ab7a15a4d8b02c2b86f6fd17da1d92.1000x1000x1.png",
+       "id": 58977,
+       "image_url": "https://images.genius.com/79ab52a07e536bb14aa7a68e020c3bd0.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hollywood Records",
+       "url": "https://genius.com/artists/Hollywood-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2204204,
+    "annotator_login": "sincerelyaj",
+    "api_path": "/referents/12314316",
+    "classification": "accepted",
+    "fragment": "Neverland",
+    "id": 12314316,
+    "is_description": true,
+    "path": "/12314316/Zendaya-neverland/Neverland",
+    "range": {
+     "content": "Neverland"
+    },
+    "song_id": 2016418,
+    "url": "https://genius.com/12314316/Zendaya-neverland/Neverland",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2016418",
+     "client_timestamps": {
+      "updated_by_human_at": 1668336020,
+      "lyrics_updated_at": 1668336020
+     },
+     "context": "Zendaya",
+     "id": 2016418,
+     "image_url": "https://images.genius.com/8c1e109a2c2a30dd37a3532d901159ef.600x600x1.jpg",
+     "link_title": "Neverland by\u00a0Zendaya",
+     "title": "Neverland",
+     "type": "Song",
+     "url": "https://genius.com/Zendaya-neverland-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12314316",
+      "body": {
+       "plain": "Neverland is the first single taken from the compilation album, Finding Neverland. This specific version was first heard on The 68th Annual Tony Awards, performed by R&B vocalist, Jennifer Hudson.\n\nThe music video was released on January 24, 2016:\n\nhttps://www.youtube.com/watch?v=O3VPs9b_HZE"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 12314316,
+      "pinned": false,
+      "share_url": "https://genius.com/12314316",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12314316/Zendaya-neverland/Neverland",
+      "verified": false,
+      "votes_total": 14,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2204204",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3da02db48690e05ae620858fb7b655c0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3da02db48690e05ae620858fb7b655c0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3da02db48690e05ae620858fb7b655c0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3da02db48690e05ae620858fb7b655c0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1d3d0bbcebf5f87bdd166041b8e495d0.1000x625x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2204204,
+         "iq": 191056,
+         "login": "sincerelyaj",
+         "name": "AJ Jaffari",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sincerelyaj",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=xmK_q3Js-8Y"
+    },
+    {
+     "native_uri": "spotify:track:654bpQLFU931tUdT7HHqu0",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/108647",
+     "header_image_url": "https://images.genius.com/2f4a03d695263406201249d2f8b06991.1000x562x1.jpg",
+     "id": 108647,
+     "image_url": "https://images.genius.com/9eea5c0bd8e73307a136a0a1bb3156a5.536x536x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gary Barlow",
+     "url": "https://genius.com/artists/Gary-barlow"
+    },
+    {
+     "api_path": "/artists/57786",
+     "header_image_url": "https://images.genius.com/bdebef91bd9508c25598615b48c4cbde.1000x666x1.jpg",
+     "id": 57786,
+     "image_url": "https://images.genius.com/71b36f17400f3c023e4a2c3759f72407.547x547x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eliot Kennedy",
+     "url": "https://genius.com/artists/Eliot-kennedy"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2819982",
+       "artist_names": "Matthew Morrison (Ft. Laura Michelle Kelly)",
+       "full_title": "Neverland by\u00a0Matthew\u00a0Morrison (Ft.\u00a0Laura\u00a0Michelle Kelly)",
+       "header_image_thumbnail_url": "https://images.genius.com/b8671b2e1661d3c635f782e10e473757.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b8671b2e1661d3c635f782e10e473757.600x600x1.jpg",
+       "id": 2819982,
+       "language": "en",
+       "lyrics_owner_id": 2553734,
+       "lyrics_state": "complete",
+       "path": "/Matthew-morrison-neverland-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Matthew-morrison-neverland-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 7,
+        "day": 17
+       },
+       "release_date_for_display": "July 17, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jul. 17, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b8671b2e1661d3c635f782e10e473757.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b8671b2e1661d3c635f782e10e473757.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 18915
+       },
+       "title": "Neverland",
+       "title_with_featured": "Neverland (Ft.\u00a0Laura\u00a0Michelle Kelly)",
+       "url": "https://genius.com/Matthew-morrison-neverland-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/378786",
+         "header_image_url": "https://images.genius.com/fb94a232fcaf07d3992378d9f53a1159.500x357x1.jpg",
+         "id": 378786,
+         "image_url": "https://images.genius.com/919504bdf4786066d7f724fd3a8903b9.408x408x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Laura Michelle Kelly",
+         "url": "https://genius.com/artists/Laura-michelle-kelly"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/344543",
+        "header_image_url": "https://images.genius.com/b9a30f349c62a8cdb457bb931813afad.1000x333x1.jpg",
+        "id": 344543,
+        "image_url": "https://images.genius.com/61b0298efedf8dd793d63be58d5e3939.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Matthew Morrison",
+        "url": "https://genius.com/artists/Matthew-morrison",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/664571",
+     "header_image_url": "https://images.genius.com/66835c381dfcf22b0354eb62c766c2ea.232x232x1.jpg",
+     "id": 664571,
+     "image_url": "https://images.genius.com/66835c381dfcf22b0354eb62c766c2ea.232x232x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carmen Michelle Key",
+     "url": "https://genius.com/artists/Carmen-michelle-key"
+    },
+    {
+     "api_path": "/artists/57786",
+     "header_image_url": "https://images.genius.com/bdebef91bd9508c25598615b48c4cbde.1000x666x1.jpg",
+     "id": 57786,
+     "image_url": "https://images.genius.com/71b36f17400f3c023e4a2c3759f72407.547x547x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Eliot Kennedy",
+     "url": "https://genius.com/artists/Eliot-kennedy"
+    },
+    {
+     "api_path": "/artists/108647",
+     "header_image_url": "https://images.genius.com/2f4a03d695263406201249d2f8b06991.1000x562x1.jpg",
+     "id": 108647,
+     "image_url": "https://images.genius.com/9eea5c0bd8e73307a136a0a1bb3156a5.536x536x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gary Barlow",
+     "url": "https://genius.com/artists/Gary-barlow"
+    }
+   ],
+   "artist": "Zendaya",
+   "lyrics": "21 ContributorsNeverland Lyrics[Verse 1]\nWhenever I was frightened or ever felt alone\nI turned to the night sky at a star I call my own\nSomewhere I could run to, just across the Milky Way\nIf you like, I could take you\nIt's just a lightyear and a day\n\n[Chorus]\nWe can sail away tonight on a sea of pure moonlight\nWe can navigate the stars to bring us back home\nIn a place so far away\nWe'll be young, that's how we'll stay\nEvery wish is our command\nWhen we find ourselves in Never, Neverland\n\n[Verse 2]\nThrough all my make believe, there's some reality\nIn your reflection there's much more than you see, yeah!\nAll that you hope for, you hope for today\nIt's the love someone gives you in an unconditional way\n\n[Chorus]\nWe can sail away tonight on a sea of pure moonlight\nWe can navigate the stars to bring us back home\nIn a place so far away\nWe'll be young, that's how we'll stay\nEvery wish is our command\nWhen we find ourselves in Never, Neverland\nYou might also like[Bridge]\nPicture a land you'll never have seen\nWhere life is eternal and evergreen\nFuture of happiness all in your hands\nAll in this place I created that I call Neverland\n\n[Chorus 2]\nWe can sail away tonight on a sea of pure moonlight\nWe can navigate the stars to bring us back home\nIn a place so far away\nWe'll be young, that's how we'll stay\nAnd with your hand in my hand\nI am closer now to finding Neverland\nAnd with your hand in my hand\nI am closer now to finding Neverland7Embed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/2412990",
+   "artist_names": "Zendaya (Ft. Chris Brown)",
+   "full_title": "Something New by\u00a0Zendaya (Ft.\u00a0Chris\u00a0Brown)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/ab28f0f288a9514c03eb7ff6463a63d4.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/ab28f0f288a9514c03eb7ff6463a63d4.1000x1000x1.jpg",
+   "id": 2412990,
+   "language": "en",
+   "lyrics_owner_id": 172030,
+   "lyrics_state": "complete",
+   "path": "/Zendaya-something-new-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Zendaya-something-new-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 2,
+    "day": 3
+   },
+   "release_date_for_display": "February 3, 2016",
+   "release_date_with_abbreviated_month_for_display": "Feb. 3, 2016",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/ab28f0f288a9514c03eb7ff6463a63d4.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/ab28f0f288a9514c03eb7ff6463a63d4.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 35,
+    "iq_earners": 34,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 5,
+    "hot": false,
+    "pageviews": 45739
+   },
+   "title": "Something New",
+   "title_with_featured": "Something New (Ft.\u00a0Chris\u00a0Brown)",
+   "url": "https://genius.com/Zendaya-something-new-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/43902",
+    "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+    "id": 43902,
+    "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Zendaya",
+    "url": "https://genius.com/artists/Zendaya",
+    "iq": 1087
+   },
+   "apple_music_id": "1081069391",
+   "apple_music_player_url": "https://genius.com/songs/2412990/apple_music_player",
+   "description": {
+    "plain": "On \u201cSomething New,\u201d Zendaya sings about meeting someone at a club and wanting to have a one-night stand.\n\n\u201cSomething New\u201d is the lead radio single off Zendaya\u2019s sophomore album. The song shifts from her electro-pop sound established on \u201cReplay\u201d to a more contemporary R&B sound.\n\nZendaya told MTV News:\n\nI would say it\u2019s the new wave of R&B. It\u2019s where I think it should be going, or it should be headed; it\u2019s very old-school vibe, but it\u2019s a new age version."
+   },
+   "embed_content": "<div id='rg_embed_link_2412990' class='rg_embed_link' data-song-id='2412990'>Read <a href='https://genius.com/Zendaya-something-new-lyrics'>\u201cSomething New\u201d by Zendaya</a> on Genius</div> <script crossorigin src='//genius.com/songs/2412990/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-02-03",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/968290",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1682450960",
+    "full_title": "Z2* [Shelved] by Zendaya",
+    "id": 968290,
+    "name": "Z2* [Shelved]",
+    "release_date_for_display": "2017",
+    "url": "https://genius.com/albums/Zendaya/Z2-shelved",
+    "artist": {
+     "api_path": "/artists/43902",
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "id": 43902,
+     "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Zendaya",
+     "url": "https://genius.com/artists/Zendaya",
+     "iq": 1087
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2280450",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2280450,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Antonio Dixon\u2019s Muzik",
+       "url": "https://genius.com/artists/Antonio-dixons-muzik"
+      },
+      {
+       "api_path": "/artists/2284745",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2284745,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tone Face Music",
+       "url": "https://genius.com/artists/Tone-face-music"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+       "id": 1100826,
+       "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/647230",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 647230,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI April Music",
+       "url": "https://genius.com/artists/Emi-april-music"
+      },
+      {
+       "api_path": "/artists/1209162",
+       "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+       "id": 1209162,
+       "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Music Publishing Group",
+       "url": "https://genius.com/artists/Emi-music-publishing-group"
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/2261510",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6filx7uda04",
+       "id": 2261510,
+       "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6filx7uda04",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony/ATV Tunes",
+       "url": "https://genius.com/artists/Sony-atv-tunes"
+      },
+      {
+       "api_path": "/artists/2284744",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2284744,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rafael\u2019s Son Music",
+       "url": "https://genius.com/artists/Rafaels-son-music"
+      },
+      {
+       "api_path": "/artists/2266209",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2266209,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kyle Christopher Music",
+       "url": "https://genius.com/artists/Kyle-christopher-music"
+      },
+      {
+       "api_path": "/artists/992610",
+       "header_image_url": "https://images.genius.com/8b0552add15b72c3747e7260ff993e41.256x256x1.png",
+       "id": 992610,
+       "image_url": "https://images.genius.com/96dd59233d48e915da8c65bbd93b1dda.256x256x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Disney Music Group",
+       "url": "https://genius.com/artists/Disney-music-group"
+      },
+      {
+       "api_path": "/artists/2284738",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2284738,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Z Swagg Music Publishing",
+       "url": "https://genius.com/artists/Z-swagg-music-publishing"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/2246974",
+       "header_image_url": "https://images.genius.com/fa44df07206a8177fd927ab0143e4c74.640x640x1.png",
+       "id": 2246974,
+       "image_url": "https://images.genius.com/fa44df07206a8177fd927ab0143e4c74.640x640x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Right Now Sound",
+       "url": "https://genius.com/artists/Right-now-sound"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/1010842",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1010842,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Seven Peaks Music",
+       "url": "https://genius.com/artists/Seven-peaks-music"
+      },
+      {
+       "api_path": "/artists/1027086",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1027086,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rowdy Man Music",
+       "url": "https://genius.com/artists/Rowdy-man-music"
+      },
+      {
+       "api_path": "/artists/2284743",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2284743,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Khristopher Van Riddick-Tynes Music Publishing",
+       "url": "https://genius.com/artists/Khristopher-van-riddick-tynes-music-publishing"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      },
+      {
+       "api_path": "/artists/2234594",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234594,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dylan\u2019s Way Music",
+       "url": "https://genius.com/artists/Dylans-way-music"
+      },
+      {
+       "api_path": "/artists/1205802",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1205802,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Culture Beyond Ur Experience",
+       "url": "https://genius.com/artists/Culture-beyond-ur-experience"
+      }
+     ]
+    },
+    {
+     "label": "Studio Personnel",
+     "artists": [
+      {
+       "api_path": "/artists/992309",
+       "header_image_url": "https://images.genius.com/3796ddfcdc413613675e9ca2fbe4cfbd.320x320x1.jpg",
+       "id": 992309,
+       "image_url": "https://images.genius.com/3796ddfcdc413613675e9ca2fbe4cfbd.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aya Merrill",
+       "url": "https://genius.com/artists/Aya-merrill"
+      },
+      {
+       "api_path": "/artists/589828",
+       "header_image_url": "https://images.genius.com/8010c397402a269e4c0c3def2edc7267.1000x667x1.png",
+       "id": 589828,
+       "image_url": "https://images.genius.com/46c5f3a739690651ba01154cc0b9e590.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaycen Joshua",
+       "url": "https://genius.com/artists/Jaycen-joshua"
+      },
+      {
+       "api_path": "/artists/1238947",
+       "header_image_url": "https://images.genius.com/926f7cf45185ddebf1a1348930e8b5b5.1000x943x1.jpg",
+       "id": 1238947,
+       "image_url": "https://images.genius.com/9b0cb63af9a6368b2b2ea1fa53d7152f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joshua Florez",
+       "url": "https://genius.com/artists/Joshua-florez"
+      },
+      {
+       "api_path": "/artists/1238948",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1238948,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kazembe Ajamu",
+       "url": "https://genius.com/artists/Kazembe-ajamu"
+      },
+      {
+       "api_path": "/artists/68765",
+       "header_image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+       "id": 68765,
+       "image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Khristopher Riddick-Tynes",
+       "url": "https://genius.com/artists/Khristopher-riddick-tynes",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/903694",
+       "header_image_url": "https://images.genius.com/79e4a97ff74d571ba8090bd1e3bd86fa.484x484x1.jpg",
+       "id": 903694,
+       "image_url": "https://images.genius.com/79e4a97ff74d571ba8090bd1e3bd86fa.484x484x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Boutin",
+       "url": "https://genius.com/artists/Paul-boutin"
+      },
+      {
+       "api_path": "/artists/1238946",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1238946,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sheldon Stanford",
+       "url": "https://genius.com/artists/Sheldon-stanford"
+      },
+      {
+       "api_path": "/artists/396012",
+       "header_image_url": "https://images.genius.com/af14099731b377463d798965fef794cf.1000x536x1.jpg",
+       "id": 396012,
+       "image_url": "https://images.genius.com/6dcc9ef17462337ef8cc4069a8a036f6.312x312x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Coyne",
+       "url": "https://genius.com/artists/Tom-coyne"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/992309",
+       "header_image_url": "https://images.genius.com/3796ddfcdc413613675e9ca2fbe4cfbd.320x320x1.jpg",
+       "id": 992309,
+       "image_url": "https://images.genius.com/3796ddfcdc413613675e9ca2fbe4cfbd.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aya Merrill",
+       "url": "https://genius.com/artists/Aya-merrill"
+      },
+      {
+       "api_path": "/artists/396012",
+       "header_image_url": "https://images.genius.com/af14099731b377463d798965fef794cf.1000x536x1.jpg",
+       "id": 396012,
+       "image_url": "https://images.genius.com/6dcc9ef17462337ef8cc4069a8a036f6.312x312x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Coyne",
+       "url": "https://genius.com/artists/Tom-coyne"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1238947",
+       "header_image_url": "https://images.genius.com/926f7cf45185ddebf1a1348930e8b5b5.1000x943x1.jpg",
+       "id": 1238947,
+       "image_url": "https://images.genius.com/9b0cb63af9a6368b2b2ea1fa53d7152f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joshua Florez",
+       "url": "https://genius.com/artists/Joshua-florez"
+      },
+      {
+       "api_path": "/artists/1238948",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1238948,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kazembe Ajamu",
+       "url": "https://genius.com/artists/Kazembe-ajamu"
+      },
+      {
+       "api_path": "/artists/68765",
+       "header_image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+       "id": 68765,
+       "image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Khristopher Riddick-Tynes",
+       "url": "https://genius.com/artists/Khristopher-riddick-tynes",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/903694",
+       "header_image_url": "https://images.genius.com/79e4a97ff74d571ba8090bd1e3bd86fa.484x484x1.jpg",
+       "id": 903694,
+       "image_url": "https://images.genius.com/79e4a97ff74d571ba8090bd1e3bd86fa.484x484x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Boutin",
+       "url": "https://genius.com/artists/Paul-boutin"
+      },
+      {
+       "api_path": "/artists/1238946",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1238946,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sheldon Stanford",
+       "url": "https://genius.com/artists/Sheldon-stanford"
+      }
+     ]
+    },
+    {
+     "label": "Additional Producer",
+     "artists": [
+      {
+       "api_path": "/artists/12164",
+       "header_image_url": "https://images.genius.com/780d85ed64936259f186ccf6673569c1.1000x667x1.jpg",
+       "id": 12164,
+       "image_url": "https://images.genius.com/4cd46ac4c247a5184cbd1b62f9b0ad4d.757x757x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Chrishan",
+       "url": "https://genius.com/artists/Chrishan",
+       "iq": 1065
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/58977",
+       "header_image_url": "https://images.genius.com/87ab7a15a4d8b02c2b86f6fd17da1d92.1000x1000x1.png",
+       "id": 58977,
+       "image_url": "https://images.genius.com/79ab52a07e536bb14aa7a68e020c3bd0.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hollywood Records",
+       "url": "https://genius.com/artists/Hollywood-records"
+      },
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      },
+      {
+       "api_path": "/artists/1011844",
+       "header_image_url": "https://images.genius.com/400a971fbe8786b2e5d5031a34a59d6a.1000x313x1.jpg",
+       "id": 1011844,
+       "image_url": "https://images.genius.com/d8ea37a285aa8bdcb0eaebb31f116529.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Republic Records",
+       "url": "https://genius.com/artists/Republic-records"
+      },
+      {
+       "api_path": "/artists/1637182",
+       "header_image_url": "https://images.genius.com/15085d85ee00094c24f87cb78a13936d.325x85x1.png",
+       "id": 1637182,
+       "image_url": "https://images.genius.com/1706dac2b4843d6435a16f88d8b96cf4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Records",
+       "url": "https://genius.com/artists/Universal-records"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/589828",
+       "header_image_url": "https://images.genius.com/8010c397402a269e4c0c3def2edc7267.1000x667x1.png",
+       "id": 589828,
+       "image_url": "https://images.genius.com/46c5f3a739690651ba01154cc0b9e590.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaycen Joshua",
+       "url": "https://genius.com/artists/Jaycen-joshua"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 70148,
+    "annotator_login": "chihuahua0",
+    "api_path": "/referents/8576333",
+    "classification": "accepted",
+    "fragment": "Something New",
+    "id": 8576333,
+    "is_description": true,
+    "path": "/8576333/Zendaya-something-new/Something-new",
+    "range": {
+     "content": "Something New"
+    },
+    "song_id": 2412990,
+    "url": "https://genius.com/8576333/Zendaya-something-new/Something-new",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2412990",
+     "client_timestamps": {
+      "updated_by_human_at": 1668793134,
+      "lyrics_updated_at": 1664533521
+     },
+     "context": "Zendaya",
+     "id": 2412990,
+     "image_url": "https://images.rapgenius.com/ab28f0f288a9514c03eb7ff6463a63d4.1000x1000x1.jpg",
+     "link_title": "Something New by\u00a0Zendaya (Ft.\u00a0Chris\u00a0Brown)",
+     "title": "Something New",
+     "type": "Song",
+     "url": "https://genius.com/Zendaya-something-new-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8576333",
+      "body": {
+       "plain": "On \u201cSomething New,\u201d Zendaya sings about meeting someone at a club and wanting to have a one-night stand.\n\n\u201cSomething New\u201d is the lead radio single off Zendaya\u2019s sophomore album. The song shifts from her electro-pop sound established on \u201cReplay\u201d to a more contemporary R&B sound.\n\nZendaya told MTV News:\n\nI would say it\u2019s the new wave of R&B. It\u2019s where I think it should be going, or it should be headed; it\u2019s very old-school vibe, but it\u2019s a new age version."
+      },
+      "comment_count": 3,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 8576333,
+      "pinned": false,
+      "share_url": "https://genius.com/8576333",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/8576333/Zendaya-something-new/Something-new",
+      "verified": false,
+      "votes_total": 30,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6987951807228916,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1964677",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+         "human_readable_role_for_display": "Editor",
+         "id": 1964677,
+         "iq": 56474,
+         "login": "CalHx",
+         "name": "CalHx",
+         "role_for_display": "editor",
+         "url": "https://genius.com/CalHx",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.30120481927710846,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/70148",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 70148,
+         "iq": 187094,
+         "login": "chihuahua0",
+         "name": "Chihuahua0",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/chihuahua0",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1z15fhSgN6U2k4gqA1Zu4j",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1z15fhSgN6U2k4gqA1Zu4j"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4VGCKaTbkHA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/12164",
+     "header_image_url": "https://images.genius.com/780d85ed64936259f186ccf6673569c1.1000x667x1.jpg",
+     "id": 12164,
+     "image_url": "https://images.genius.com/4cd46ac4c247a5184cbd1b62f9b0ad4d.757x757x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chrishan",
+     "url": "https://genius.com/artists/Chrishan",
+     "iq": 1065
+    },
+    {
+     "api_path": "/artists/1336",
+     "header_image_url": "https://images.genius.com/71ac9edea797caca2ce2965663e5355a.700x350x1.jpg",
+     "id": 1336,
+     "image_url": "https://images.genius.com/4f370ffd521c1530ae28b32202e35c07.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Babyface",
+     "url": "https://genius.com/artists/Babyface",
+     "iq": 163
+    },
+    {
+     "api_path": "/artists/68765",
+     "header_image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+     "id": 68765,
+     "image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Khristopher Riddick-Tynes",
+     "url": "https://genius.com/artists/Khristopher-riddick-tynes",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/664571",
+     "header_image_url": "https://images.genius.com/66835c381dfcf22b0354eb62c766c2ea.232x232x1.jpg",
+     "id": 664571,
+     "image_url": "https://images.genius.com/66835c381dfcf22b0354eb62c766c2ea.232x232x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carmen Michelle Key",
+     "url": "https://genius.com/artists/Carmen-michelle-key"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/5428",
+       "artist_names": "Slick Rick",
+       "full_title": "Hey Young World by\u00a0Slick\u00a0Rick",
+       "header_image_thumbnail_url": "https://images.genius.com/1b5003c727be5c3d1612fe1ab8077674.300x296x1.jpg",
+       "header_image_url": "https://images.genius.com/1b5003c727be5c3d1612fe1ab8077674.1000x987x1.jpg",
+       "id": 5428,
+       "language": "en",
+       "lyrics_owner_id": 8534,
+       "lyrics_state": "complete",
+       "path": "/Slick-rick-hey-young-world-lyrics",
+       "pyongs_count": 13,
+       "relationships_index_url": "https://genius.com/Slick-rick-hey-young-world-sample",
+       "release_date_components": {
+        "year": 1989,
+        "month": 6,
+        "day": 15
+       },
+       "release_date_for_display": "June 15, 1989",
+       "release_date_with_abbreviated_month_for_display": "Jun. 15, 1989",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1b5003c727be5c3d1612fe1ab8077674.300x296x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1b5003c727be5c3d1612fe1ab8077674.1000x987x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 10,
+        "hot": false,
+        "pageviews": 54427
+       },
+       "title": "Hey Young World",
+       "title_with_featured": "Hey Young World",
+       "url": "https://genius.com/Slick-rick-hey-young-world-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/306",
+        "header_image_url": "https://images.genius.com/3c7fd9e0c5f32f93bcd2460ed7701724.715x402x1.jpg",
+        "id": 306,
+        "image_url": "https://images.genius.com/5f4d75aded5ef0d74dba14238567f9f2.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Slick Rick",
+        "url": "https://genius.com/artists/Slick-rick"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/45596",
+       "artist_names": "TLC",
+       "full_title": "Creep by\u00a0TLC",
+       "header_image_thumbnail_url": "https://images.genius.com/be229a56f136a28bc1bcc9dc347caab3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/be229a56f136a28bc1bcc9dc347caab3.1000x1000x1.png",
+       "id": 45596,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Tlc-creep-lyrics",
+       "pyongs_count": 26,
+       "relationships_index_url": "https://genius.com/Tlc-creep-sample",
+       "release_date_components": {
+        "year": 1994,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 1994",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 1994",
+       "song_art_image_thumbnail_url": "https://images.genius.com/012b6c2e21a3fba70d326fccbce0924f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/012b6c2e21a3fba70d326fccbce0924f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 277192
+       },
+       "title": "Creep",
+       "title_with_featured": "Creep",
+       "url": "https://genius.com/Tlc-creep-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/964",
+        "header_image_url": "https://images.genius.com/0a25c93057783e53177e67e7820f768f.674x256x1.jpg",
+        "id": 964,
+        "image_url": "https://images.genius.com/08fe3d56886c1be927f4bb04624d173a.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "TLC",
+        "url": "https://genius.com/artists/Tlc"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/45596",
+       "artist_names": "TLC",
+       "full_title": "Creep by\u00a0TLC",
+       "header_image_thumbnail_url": "https://images.genius.com/be229a56f136a28bc1bcc9dc347caab3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/be229a56f136a28bc1bcc9dc347caab3.1000x1000x1.png",
+       "id": 45596,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Tlc-creep-lyrics",
+       "pyongs_count": 26,
+       "relationships_index_url": "https://genius.com/Tlc-creep-sample",
+       "release_date_components": {
+        "year": 1994,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 1994",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 1994",
+       "song_art_image_thumbnail_url": "https://images.genius.com/012b6c2e21a3fba70d326fccbce0924f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/012b6c2e21a3fba70d326fccbce0924f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 277192
+       },
+       "title": "Creep",
+       "title_with_featured": "Creep",
+       "url": "https://genius.com/Tlc-creep-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/964",
+        "header_image_url": "https://images.genius.com/0a25c93057783e53177e67e7820f768f.674x256x1.jpg",
+        "id": 964,
+        "image_url": "https://images.genius.com/08fe3d56886c1be927f4bb04624d173a.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "TLC",
+        "url": "https://genius.com/artists/Tlc"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/2954636",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/58cc49aa7b944b9ef378ea6225b22b9e",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/58cc49aa7b944b9ef378ea6225b22b9e",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/58cc49aa7b944b9ef378ea6225b22b9e",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/58cc49aa7b944b9ef378ea6225b22b9e",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 2954636,
+     "iq": 1087,
+     "login": "Zendaya",
+     "name": "Zendaya",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/Zendaya",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/43902",
+      "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+      "id": 43902,
+      "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Zendaya",
+      "url": "https://genius.com/artists/Zendaya",
+      "iq": 1087
+     },
+     "user": {
+      "api_path": "/users/2954636",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/58cc49aa7b944b9ef378ea6225b22b9e",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/58cc49aa7b944b9ef378ea6225b22b9e",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/58cc49aa7b944b9ef378ea6225b22b9e",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/58cc49aa7b944b9ef378ea6225b22b9e",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 2954636,
+      "iq": 1087,
+      "login": "Zendaya",
+      "name": "Zendaya",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/Zendaya",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/46587",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 46587,
+     "image_url": "https://images.genius.com/98b5090e574f89aaea926eb987827f2b.157x157x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Antonio Dixon",
+     "url": "https://genius.com/artists/Antonio-dixon"
+    },
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "api_path": "/artists/12164",
+     "header_image_url": "https://images.genius.com/780d85ed64936259f186ccf6673569c1.1000x667x1.jpg",
+     "id": 12164,
+     "image_url": "https://images.genius.com/4cd46ac4c247a5184cbd1b62f9b0ad4d.757x757x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chrishan",
+     "url": "https://genius.com/artists/Chrishan",
+     "iq": 1065
+    },
+    {
+     "api_path": "/artists/39842",
+     "header_image_url": "https://images.genius.com/awu4ajv3v13bx1ecm24d8233l.304x304x1.jpg",
+     "id": 39842,
+     "image_url": "https://images.genius.com/awu4ajv3v13bx1ecm24d8233l.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dallas Austin",
+     "url": "https://genius.com/artists/Dallas-austin"
+    },
+    {
+     "api_path": "/artists/1336",
+     "header_image_url": "https://images.genius.com/71ac9edea797caca2ce2965663e5355a.700x350x1.jpg",
+     "id": 1336,
+     "image_url": "https://images.genius.com/4f370ffd521c1530ae28b32202e35c07.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Babyface",
+     "url": "https://genius.com/artists/Babyface",
+     "iq": 163
+    },
+    {
+     "api_path": "/artists/68765",
+     "header_image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+     "id": 68765,
+     "image_url": "https://images.genius.com/d4e0fd3570b3155f0ba44cafbc8b93ea.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Khristopher Riddick-Tynes",
+     "url": "https://genius.com/artists/Khristopher-riddick-tynes",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/2013741",
+     "header_image_url": "https://images.genius.com/33d6ada3ec36e6fb5b910d068555b78a.857x857x1.jpg",
+     "id": 2013741,
+     "image_url": "https://images.genius.com/33d6ada3ec36e6fb5b910d068555b78a.857x857x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kxhris",
+     "url": "https://genius.com/artists/Kxhris",
+     "iq": 120
+    },
+    {
+     "api_path": "/artists/73646",
+     "header_image_url": "https://images.genius.com/be9daf287d1d8546eb504c0c705f58ee.759x840x1.jpg",
+     "id": 73646,
+     "image_url": "https://images.genius.com/e3556a764c2248e9ac98f342cc434ace.759x759x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Leon Thomas III",
+     "url": "https://genius.com/artists/Leon-thomas-iii",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/43902",
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "id": 43902,
+     "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Zendaya",
+     "url": "https://genius.com/artists/Zendaya",
+     "iq": 1087
+    }
+   ],
+   "artist": "Zendaya",
+   "lyrics": "35 ContributorsSomething New Lyrics[Co-produced by Babyface and Dallas Austin]\n\n[Intro: Zendaya]\nI wanna try something, all night\nI wanna try something, all night\n\n[Chorus: Zendaya & Chris Brown]\nDon't know your name, but I guess I really don't care\nI probably should wait, but I wanna let you go there\nI wanna try something new, all night\nI wanna try something new, all night\nI wanna try something\n\n[Verse 1: Zendaya]\nBy the way you looking tonight\nOnly one thing comes to my mind\nWhen the lights come on at two\nI'll still be moving with you\nYou ain't looking at nobody\nJust my body\n\n[Chorus: Zendaya & Chris Brown]\nDon't know your name, but I guess I really don't care\nI probably should wait, but I wanna let you go there\nI wanna try something new, all night\nI wanna try something new, all night\nI wanna try something\nYou might also like[Refrain: Zendaya]\nAh-ah-ah-ah\nAh-ah-ah-ah, wanna try, babe\nAh-ah-ah-ah, all night\nAh-ah-ah, oh, babe\n\n[Interlude: Chris Brown]\nOh I, oh I, oh I\nBaby, oh I, oh I, oh I\nOh I, oh I, oh I\nBaby, oh I, oh I, oh I, baby\n\n[Verse 2: Chris Brown]\nHey, what you doing tonight?\nI see that look in your eyes\nI feel the same, yeah, yeah\nMiss your lips, girl, when we kiss (We kiss)\nWhy don't we handle this? (Uh, huh, huh)\nGirl, you know I need some affection (Yeah, girl)\nOh, I don't know\n\n[Chorus: Zendaya & Chris Brown, Zendaya]\nDon't know your name, but I guess I really don't care\nI probably should wait, but I wanna let you go there\nI wanna try something new, all night (Doo-doo-doo-doo-doo-doo)\nI wanna try something new, all night\nI wanna try something\n[Refrain: Zendaya]\nAh-ah-ah-ah\nAh-ah-ah-ah, I wanna try, babe\nAh-ah-ah-ah, all night\nAh-ah-ah, oh, babe\n\n[Bridge: Zendaya]\nThis ain't forever, baby, just tonight\nJust sit back and take my direction now\n\n[Chorus: Zendaya & Chris Brown, Zendaya, Chris Brown]\nDon't know your name, but I guess I really don't care\nProbably should wait, but I'll let you go there\nI wanna try something new, all night\nI wanna try something new, all night (I wanna try something new, new, new)\nOh, I...\n\n[Refrain: Zendaya & Chris Brown, Chris Brown, Zendaya]\nAh-ah-ah-ah (Hey)\nAh-ah-ah-ah (I wanna try baby)\nAh-ah-ah-ah, all night (Wanna try baby)\nAh-ah-ah, ooh, babe\nAh-ah-ah-ah (Girl, let me have this)\nAh-ah-ah-ah, wanna try, babe (I wanna try baby)\nAh-ah-ah-ah (Oh, oh-oh-oh-oh)\nOoh, babe\n[Outro: Zendaya]\nI like that new-new, boy, I like that new\nWanna try\nGive me that new-new, boy, give me that new\nWanna try\nI like that new-new, boy, I like that new\nWanna try\nGive me that new-new, boy, give me that new\nAll night12Embed"
+  }
+ ]
+}

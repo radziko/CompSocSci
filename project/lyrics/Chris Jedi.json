@@ -1,0 +1,180 @@
+{
+ "alternate_names": [
+  "Carlos Enrique Ortiz-Riviera",
+  "Chris Jeday",
+  "Carlos Enrique Ortiz Rivera",
+  "Carlos Ortiz",
+  "Carlos E. Ortiz",
+  "Carlos E. Ortiz-Riviera"
+ ],
+ "api_path": "/artists/572241",
+ "description": {
+  "plain": "Carlos Ortiz, conocido como Chris Jeday, es un productor y compositor de Puerto Rico, que en muchas ocasiones colabora con su compa\u00f1ero Gaby Music.\n\nEs conocido por trabajar con artistas como Daddy Yankee, Don Omar, Ozuna, Anuel AA y entre otros.\n\nSu sencillo m\u00e1s exitoso ha sido \u201cAhora Dice\u201d en el 2017, junto con Ozuna, Arcangel & J Balvin. El tema alcanz\u00f3 la posici\u00f3n n\u00famero 7 en los Hot Latin Songs y el video en Youtube cuenta con m\u00e1s de mil millones de visitas."
+ },
+ "facebook_name": null,
+ "followers_count": 23,
+ "header_image_url": "https://images.genius.com/6bb1ceee0a488c48d400610a64a51235.1000x563x1.jpg",
+ "id": 572241,
+ "image_url": "https://images.genius.com/5d698fef3a5cb16bc6ed75d6689e379a.640x640x1.jpg",
+ "instagram_name": "chrisjedi",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Chris Jedi",
+ "translation_artist": false,
+ "twitter_name": "ChrisJeday",
+ "url": "https://genius.com/artists/Chris-jedi",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4243223,
+  "annotator_login": "Saaanto",
+  "api_path": "/referents/11928396",
+  "classification": "accepted",
+  "fragment": "Chris Jedi",
+  "id": 11928396,
+  "is_description": true,
+  "path": "/11928396/Chris-jedi/Chris-jedi",
+  "range": {
+   "content": "Chris Jedi"
+  },
+  "song_id": null,
+  "url": "https://genius.com/11928396/Chris-jedi/Chris-jedi",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/572241",
+   "context": null,
+   "id": 572241,
+   "image_url": "https://images.genius.com/5d698fef3a5cb16bc6ed75d6689e379a.640x640x1.jpg",
+   "link_title": "Chris Jedi",
+   "title": "Chris Jedi",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Chris-jedi"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/11928396",
+    "body": {
+     "plain": "Carlos Ortiz, conocido como Chris Jeday, es un productor y compositor de Puerto Rico, que en muchas ocasiones colabora con su compa\u00f1ero Gaby Music.\n\nEs conocido por trabajar con artistas como Daddy Yankee, Don Omar, Ozuna, Anuel AA y entre otros.\n\nSu sencillo m\u00e1s exitoso ha sido \u201cAhora Dice\u201d en el 2017, junto con Ozuna, Arcangel & J Balvin. El tema alcanz\u00f3 la posici\u00f3n n\u00famero 7 en los Hot Latin Songs y el video en Youtube cuenta con m\u00e1s de mil millones de visitas."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 11928396,
+    "pinned": false,
+    "share_url": "https://genius.com/11928396",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/11928396/Chris-jedi/Chris-jedi",
+    "verified": false,
+    "votes_total": 5,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4243223",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/79660cdce9ec52287754a385f12b0f46",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/79660cdce9ec52287754a385f12b0f46",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/79660cdce9ec52287754a385f12b0f46",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/79660cdce9ec52287754a385f12b0f46",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fezo3shymx",
+       "human_readable_role_for_display": "Editor",
+       "id": 4243223,
+       "iq": 65414,
+       "login": "Saaanto",
+       "name": "Saaanto",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Saaanto",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": []
+}

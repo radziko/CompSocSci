@@ -1,0 +1,1749 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/22368",
+ "description": {
+  "plain": "Contemporary R&B singer & songwriter Elijah Blake, who has also been credited under his birth name of Sean Fenton, as well as Redd Stylez"
+ },
+ "facebook_name": "",
+ "followers_count": 55,
+ "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+ "id": 22368,
+ "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+ "instagram_name": "sirelijahblake",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Elijah Blake",
+ "translation_artist": false,
+ "twitter_name": "SirElijahBlake",
+ "url": "https://genius.com/artists/Elijah-blake",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6053292,
+  "annotator_login": "FluxLine",
+  "api_path": "/referents/6943853",
+  "classification": "unreviewed",
+  "fragment": "Elijah Blake",
+  "id": 6943853,
+  "is_description": true,
+  "path": "/6943853/Elijah-blake/Elijah-blake",
+  "range": {
+   "content": "Elijah Blake"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6943853/Elijah-blake/Elijah-blake",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/22368",
+   "context": null,
+   "id": 22368,
+   "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+   "link_title": "Elijah Blake",
+   "title": "Elijah Blake",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Elijah-blake"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6943853",
+    "body": {
+     "plain": "Contemporary R&B singer & songwriter Elijah Blake, who has also been credited under his birth name of Sean Fenton, as well as Redd Stylez"
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6943853,
+    "pinned": false,
+    "share_url": "https://genius.com/6943853",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/6943853/Elijah-blake/Elijah-blake",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6053292",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e53e39731575aab3fecf28fd9125d546",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e53e39731575aab3fecf28fd9125d546",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e53e39731575aab3fecf28fd9125d546",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e53e39731575aab3fecf28fd9125d546",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/e53e39731575aab3fecf28fd9125d546",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6053292,
+       "iq": 3497,
+       "login": "FluxLine",
+       "name": "FluxLine",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/FluxLine",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/725205",
+   "artist_names": "Elijah Blake",
+   "full_title": "I Just Wanna by\u00a0Elijah\u00a0Blake",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.300x304x1.png",
+   "header_image_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.599x606x1.png",
+   "id": 725205,
+   "language": "en",
+   "lyrics_owner_id": 172030,
+   "lyrics_state": "complete",
+   "path": "/Elijah-blake-i-just-wanna-lyrics",
+   "pyongs_count": 29,
+   "relationships_index_url": "https://genius.com/Elijah-blake-i-just-wanna-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 3,
+    "day": 16
+   },
+   "release_date_for_display": "March 16, 2015",
+   "release_date_with_abbreviated_month_for_display": "Mar. 16, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.300x304x1.png",
+   "song_art_image_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.599x606x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 118357
+   },
+   "title": "I Just Wanna",
+   "title_with_featured": "I Just Wanna",
+   "url": "https://genius.com/Elijah-blake-i-just-wanna-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/22368",
+    "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "id": 22368,
+    "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Elijah Blake",
+    "url": "https://genius.com/artists/Elijah-blake"
+   },
+   "apple_music_id": "986600832",
+   "apple_music_player_url": "https://genius.com/songs/725205/apple_music_player",
+   "description": {
+    "plain": "Track off R&B up and comer; Elijah Blake\u2019s debut album Shadows & Diamonds in which he wants to \u201cget fucked up\u201d with his girl which could imply alcohol or drugs, but it doesn\u2019t matter as long as it\u2019s with her."
+   },
+   "embed_content": "<div id='rg_embed_link_725205' class='rg_embed_link' data-song-id='725205'>Read <a href='https://genius.com/Elijah-blake-i-just-wanna-lyrics'>\u201cI Just Wanna\u201d by Elijah\u00a0Blake</a> on Genius</div> <script crossorigin src='//genius.com/songs/725205/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-03-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/121618",
+    "cover_art_url": "https://images.genius.com/853e63e8fff5cea5cf4a113ed1a8bc42.680x680x1.jpg",
+    "full_title": "Shadows & Diamonds by Elijah Blake",
+    "id": 121618,
+    "name": "Shadows & Diamonds",
+    "release_date_for_display": "April 28, 2015",
+    "url": "https://genius.com/albums/Elijah-blake/Shadows-diamonds",
+    "artist": {
+     "api_path": "/artists/22368",
+     "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "id": 22368,
+     "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Blake",
+     "url": "https://genius.com/artists/Elijah-blake"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/79113",
+       "header_image_url": "https://images.genius.com/9252f253b2afab55a38379b49c295886.1000x563x1.jpg",
+       "id": 79113,
+       "image_url": "https://images.genius.com/1220b035ce57f5791d0338aa053acf7b.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Def Jam Recordings",
+       "url": "https://genius.com/artists/Def-jam-recordings"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 126836,
+    "annotator_login": "ChloeConlon",
+    "api_path": "/referents/5051891",
+    "classification": "accepted",
+    "fragment": "I Just Wanna",
+    "id": 5051891,
+    "is_description": true,
+    "path": "/5051891/Elijah-blake-i-just-wanna/I-just-wanna",
+    "range": {
+     "content": "I Just Wanna"
+    },
+    "song_id": 725205,
+    "url": "https://genius.com/5051891/Elijah-blake-i-just-wanna/I-just-wanna",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/725205",
+     "client_timestamps": {
+      "updated_by_human_at": 1573271842,
+      "lyrics_updated_at": 1533322709
+     },
+     "context": "Elijah Blake",
+     "id": 725205,
+     "image_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.599x606x1.png",
+     "link_title": "I Just Wanna by\u00a0Elijah\u00a0Blake",
+     "title": "I Just Wanna",
+     "type": "Song",
+     "url": "https://genius.com/Elijah-blake-i-just-wanna-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5051891",
+      "body": {
+       "plain": "Track off R&B up and comer; Elijah Blake\u2019s debut album Shadows & Diamonds in which he wants to \u201cget fucked up\u201d with his girl which could imply alcohol or drugs, but it doesn\u2019t matter as long as it\u2019s with her."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5051891,
+      "pinned": false,
+      "share_url": "https://genius.com/5051891",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5051891/Elijah-blake-i-just-wanna/I-just-wanna",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/126836",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2f4efbb8d2031e656696b1f2e029c742",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/27d4ff0a8726ba5d0d06dc681ee8d18e.480x270x23.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 126836,
+         "iq": 3431708,
+         "login": "ChloeConlon",
+         "name": "Chloe Conlon \u2618\ufe0f",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ChloeConlon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5Tp8RuEmY81DOEvaWCsBUr",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5Tp8RuEmY81DOEvaWCsBUr"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NCpP2_C2cNI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/44536",
+     "header_image_url": "https://images.genius.com/33e1982f910864f5330339f64857b546.244x244x1.png",
+     "id": 44536,
+     "image_url": "https://images.genius.com/33e1982f910864f5330339f64857b546.244x244x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Djemba Djemba",
+     "url": "https://genius.com/artists/Djemba-djemba"
+    },
+    {
+     "api_path": "/artists/148838",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 148838,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "C.Z.",
+     "url": "https://genius.com/artists/Cz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/1779083",
+       "artist_names": "Elijah Blake (Ft. DeJ Loaf)",
+       "full_title": "I Just Wanna (Remix) by\u00a0Elijah\u00a0Blake (Ft.\u00a0DeJ\u00a0Loaf)",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.600x600x1.jpg",
+       "id": 1779083,
+       "language": "en",
+       "lyrics_owner_id": 172030,
+       "lyrics_state": "complete",
+       "path": "/Elijah-blake-i-just-wanna-remix-lyrics",
+       "pyongs_count": 17,
+       "relationships_index_url": "https://genius.com/Elijah-blake-i-just-wanna-remix-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2015",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2015",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 95557
+       },
+       "title": "I Just Wanna (Remix)",
+       "title_with_featured": "I Just Wanna (Remix) (Ft.\u00a0DeJ\u00a0Loaf)",
+       "url": "https://genius.com/Elijah-blake-i-just-wanna-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/222357",
+         "header_image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+         "id": 222357,
+         "image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "DeJ Loaf",
+         "url": "https://genius.com/artists/Dej-loaf",
+         "iq": 2599
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/22368",
+        "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+        "id": 22368,
+        "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Elijah Blake",
+        "url": "https://genius.com/artists/Elijah-blake"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/22368",
+     "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "id": 22368,
+     "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Blake",
+     "url": "https://genius.com/artists/Elijah-blake"
+    },
+    {
+     "api_path": "/artists/182322",
+     "header_image_url": "https://images.genius.com/7e8049ee4d03c47c1cef1d1e8d547476.1000x333x1.jpg",
+     "id": 182322,
+     "image_url": "https://images.genius.com/bb6b16ea2bf0d260af88638b6182bd3d.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lyrica Anderson",
+     "url": "https://genius.com/artists/Lyrica-anderson",
+     "iq": 246
+    },
+    {
+     "api_path": "/artists/2008078",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2008078,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Floyd Bently",
+     "url": "https://genius.com/artists/Floyd-bently"
+    },
+    {
+     "api_path": "/artists/148838",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 148838,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "C.Z.",
+     "url": "https://genius.com/artists/Cz"
+    },
+    {
+     "api_path": "/artists/1185820",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1185820,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Swanson Music",
+     "url": "https://genius.com/artists/Andrew-swanson-music"
+    }
+   ],
+   "artist": "Elijah Blake",
+   "lyrics": "11 ContributorsI Just Wanna Lyrics[Bridge]\nGirl you single tonight, heard some shit you ain't like\n'Bout that nigga that was lovin' on you just the other night\nYou've been workin' all week, know it's hard on your feet\nLet me take some of that stress up off you, come lay with me\n\n[Verse 1]\nYou know wassup, pour another cup\nLet that liquor hold your sentence\nWhy you gotta talk so much?\nNot tryna fuss, but I'm in a rush\nSee you movin' them lips but not on this so you ain't saying much\nTried to be polite, but you ain't acting right\nSit yo pretty ass on this bed, make a v-shape with your legs, that's it, that's it...\n[Chorus]\nI just wanna get fucked up\nWith you, with you, (oh yeah), with you\nI just wanna get fucked up\nWith you, with you, (oh yeah), I do\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\n\n[Verse 2]\nI admit it, I admit it, when I said I came to kick it\nGirl I was lyin' (lyin')\nI got so damn carried away, there's nothin' left that I can say\nI want you now, I need you now\nI gotta hit that shit somehow, somehow\nI gotta hit that shit somehow, right now\n\n[Chorus]\nI just wanna get fucked up\nWith you, with you, (oh yeah), with you\nI just wanna get fucked up\nWith you, with you, (oh yeah), I do\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\nYou might also like[Bridge]\nGirl you single tonight, heard some shit you ain't like\n'Bout that nigga that was lovin' on you just the other night\nYou've been workin' all week, know it's hard on your feet\nLet me take some of that stress up off you\nCome lay with me\nGirl you single tonight, heard some shit you ain't like\n'Bout that nigga that was lovin' on you just the other night\nYou've been workin' all week, know it's hard on your feet\nLet me take some of that stress up off you\nCome lay with me\n\n[Chorus]\nI just wanna get fucked up\nI just wanna get fucked up\nWith you, with you, (oh yeah), with you\nI just wanna get fucked up\nWith you, with you, (oh yeah), I do\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up29Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1779083",
+   "artist_names": "Elijah Blake (Ft. DeJ Loaf)",
+   "full_title": "I Just Wanna (Remix) by\u00a0Elijah\u00a0Blake (Ft.\u00a0DeJ\u00a0Loaf)",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.600x600x1.jpg",
+   "id": 1779083,
+   "language": "en",
+   "lyrics_owner_id": 172030,
+   "lyrics_state": "complete",
+   "path": "/Elijah-blake-i-just-wanna-remix-lyrics",
+   "pyongs_count": 17,
+   "relationships_index_url": "https://genius.com/Elijah-blake-i-just-wanna-remix-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 4,
+    "day": 29
+   },
+   "release_date_for_display": "April 29, 2015",
+   "release_date_with_abbreviated_month_for_display": "Apr. 29, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 95557
+   },
+   "title": "I Just Wanna (Remix)",
+   "title_with_featured": "I Just Wanna (Remix) (Ft.\u00a0DeJ\u00a0Loaf)",
+   "url": "https://genius.com/Elijah-blake-i-just-wanna-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/222357",
+     "header_image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+     "id": 222357,
+     "image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "DeJ Loaf",
+     "url": "https://genius.com/artists/Dej-loaf",
+     "iq": 2599
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/22368",
+    "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "id": 22368,
+    "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Elijah Blake",
+    "url": "https://genius.com/artists/Elijah-blake"
+   },
+   "apple_music_id": "1445039076",
+   "apple_music_player_url": "https://genius.com/songs/1779083/apple_music_player",
+   "description": {
+    "plain": "H"
+   },
+   "embed_content": "<div id='rg_embed_link_1779083' class='rg_embed_link' data-song-id='1779083'>Read <a href='https://genius.com/Elijah-blake-i-just-wanna-remix-lyrics'>\u201cI Just Wanna (Remix)\u201d by Elijah\u00a0Blake</a> on Genius</div> <script crossorigin src='//genius.com/songs/1779083/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-04-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1855738,
+    "annotator_login": "niya1142",
+    "api_path": "/referents/6318266",
+    "classification": "unreviewed",
+    "fragment": "I Just Wanna (Remix)",
+    "id": 6318266,
+    "is_description": true,
+    "path": "/6318266/Elijah-blake-i-just-wanna-remix/I-just-wanna-remix",
+    "range": {
+     "content": "I Just Wanna (Remix)"
+    },
+    "song_id": 1779083,
+    "url": "https://genius.com/6318266/Elijah-blake-i-just-wanna-remix/I-just-wanna-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1779083",
+     "client_timestamps": {
+      "updated_by_human_at": 1663706340,
+      "lyrics_updated_at": 1663706340
+     },
+     "context": "Elijah Blake",
+     "id": 1779083,
+     "image_url": "https://images.rapgenius.com/46fd6fcf4dbe456469840c46601cd4c9.600x600x1.jpg",
+     "link_title": "I Just Wanna (Remix) by\u00a0Elijah\u00a0Blake (Ft.\u00a0DeJ\u00a0Loaf)",
+     "title": "I Just Wanna (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Elijah-blake-i-just-wanna-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6318266",
+      "body": {
+       "plain": "H"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6318266,
+      "pinned": false,
+      "share_url": "https://genius.com/6318266",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6318266/Elijah-blake-i-just-wanna-remix/I-just-wanna-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1855738",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 1855738,
+         "iq": 13,
+         "login": "niya1142",
+         "name": "niya1142",
+         "role_for_display": null,
+         "url": "https://genius.com/niya1142",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/12195618",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+    "human_readable_role_for_display": "Editor",
+    "id": 12195618,
+    "iq": 58540,
+    "login": "DayCole",
+    "name": "DayCole",
+    "role_for_display": "editor",
+    "url": "https://genius.com/DayCole",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/12195618",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+    "human_readable_role_for_display": "Editor",
+    "id": 12195618,
+    "iq": 58540,
+    "login": "DayCole",
+    "name": "DayCole",
+    "role_for_display": "editor",
+    "url": "https://genius.com/DayCole",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NCpP2_C2cNI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/148838",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 148838,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "C.Z.",
+     "url": "https://genius.com/artists/Cz"
+    },
+    {
+     "api_path": "/artists/44536",
+     "header_image_url": "https://images.genius.com/33e1982f910864f5330339f64857b546.244x244x1.png",
+     "id": 44536,
+     "image_url": "https://images.genius.com/33e1982f910864f5330339f64857b546.244x244x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Djemba Djemba",
+     "url": "https://genius.com/artists/Djemba-djemba"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3010109",
+       "artist_names": "The Retro (Jethro, Bash)",
+       "full_title": "With You by\u00a0The\u00a0Retro (Jethro, Bash)",
+       "header_image_thumbnail_url": "https://images.genius.com/42e2e4d9f3aa99683e5659f20236ac82.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/42e2e4d9f3aa99683e5659f20236ac82.1000x1000x1.jpg",
+       "id": 3010109,
+       "language": "en",
+       "lyrics_owner_id": 3218138,
+       "lyrics_state": "complete",
+       "path": "/The-retro-jethro-bash-with-you-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/The-retro-jethro-bash-with-you-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 7,
+        "day": 19
+       },
+       "release_date_for_display": "July 19, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jul. 19, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/42e2e4d9f3aa99683e5659f20236ac82.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/42e2e4d9f3aa99683e5659f20236ac82.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "With You",
+       "title_with_featured": "With You",
+       "url": "https://genius.com/The-retro-jethro-bash-with-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1091951",
+        "header_image_url": "https://images.genius.com/f0f2d6ee7c805318c249615897a364e9.640x640x1.jpg",
+        "id": 1091951,
+        "image_url": "https://images.genius.com/3b36ed99d133d523ce611bd9856a16ff.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Retro (Jethro, Bash)",
+        "url": "https://genius.com/artists/The-retro-jethro-bash"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/725205",
+       "artist_names": "Elijah Blake",
+       "full_title": "I Just Wanna by\u00a0Elijah\u00a0Blake",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.300x304x1.png",
+       "header_image_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.599x606x1.png",
+       "id": 725205,
+       "language": "en",
+       "lyrics_owner_id": 172030,
+       "lyrics_state": "complete",
+       "path": "/Elijah-blake-i-just-wanna-lyrics",
+       "pyongs_count": 29,
+       "relationships_index_url": "https://genius.com/Elijah-blake-i-just-wanna-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 3,
+        "day": 16
+       },
+       "release_date_for_display": "March 16, 2015",
+       "release_date_with_abbreviated_month_for_display": "Mar. 16, 2015",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.300x304x1.png",
+       "song_art_image_url": "https://images.rapgenius.com/7638da5f4513b0f5b16e7b608b9d9c43.599x606x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 118357
+       },
+       "title": "I Just Wanna",
+       "title_with_featured": "I Just Wanna",
+       "url": "https://genius.com/Elijah-blake-i-just-wanna-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/22368",
+        "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+        "id": 22368,
+        "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Elijah Blake",
+        "url": "https://genius.com/artists/Elijah-blake"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/222357",
+     "header_image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+     "id": 222357,
+     "image_url": "https://images.genius.com/ea8256d97882ea54dbf85eed3326466d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "DeJ Loaf",
+     "url": "https://genius.com/artists/Dej-loaf",
+     "iq": 2599
+    },
+    {
+     "api_path": "/artists/22368",
+     "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "id": 22368,
+     "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Blake",
+     "url": "https://genius.com/artists/Elijah-blake"
+    },
+    {
+     "api_path": "/artists/182322",
+     "header_image_url": "https://images.genius.com/7e8049ee4d03c47c1cef1d1e8d547476.1000x333x1.jpg",
+     "id": 182322,
+     "image_url": "https://images.genius.com/bb6b16ea2bf0d260af88638b6182bd3d.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lyrica Anderson",
+     "url": "https://genius.com/artists/Lyrica-anderson",
+     "iq": 246
+    },
+    {
+     "api_path": "/artists/233680",
+     "header_image_url": "https://images.genius.com/de9517bfd1f924fd7461a3f24bbc78fe.400x400x1.jpg",
+     "id": 233680,
+     "image_url": "https://images.genius.com/951c94e4eaf0b9dba8daf54cb4c0d320.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "A1",
+     "url": "https://genius.com/artists/A1"
+    },
+    {
+     "api_path": "/artists/552355",
+     "header_image_url": "https://images.genius.com/b033ccf3100e408c0d99b4f9d3b231f9.563x563x1.jpg",
+     "id": 552355,
+     "image_url": "https://images.genius.com/2334e88c9dc84ac5a977ea1e4dd05be3.563x563x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "B.Slade",
+     "url": "https://genius.com/artists/Bslade"
+    }
+   ],
+   "artist": "Elijah Blake",
+   "lyrics": "10 ContributorsI Just Wanna (Remix) Lyrics[Intro: Elijah Blake & DeJ Loaf]\nAyy, ayy\nIf I let you hit\nYou gotta promise me you ain't gon' fall in love\nAlready, already\nBae\nAlready\nBae\n(Yeah)\nMake you fall heavy\n[Verse 1: Elijah Blake]\nYou know wassup, pour another cup\nLet that liquor hold your sentence, why you gotta talk so much?\nNot tryna fuss, but I'm in a rush\nSee you movin' them lips but not on this so you ain't saying much\nTried to be polite, but you ain't acting right\nSit yo' pretty ass on this bed, make a v-shape with your legs\nThat's it, that's it\n\n[Chorus: Elijah Blake]\nI just wanna get fucked up\nWith you, with you, (oh yeah), with you\nI just wanna get fucked up\nWith you, with you, (oh yeah), I do\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\nAlready, already, already know\nI just wanna get fucked up\n\n[Post-Chorus: Elijah Blake, Elijah Blake & Dej Loaf]\nDa-da-da-da, da-da-da-da, da\nDa-da-da-da, da-da-da-da, da\nDa-da-da-da, da-da-da-da, da\nDa-da-da-da, da-da-da-da, da\nYou might also like[Verse 2: Elijah Blake]\nI admit it, I admit it\nWhen I said I came to kick it\nGirl, I was lyin' (Lyin')\nI got so damn carried away\nThere's nothin' left that I can say\nI want you now, I need you now\nI gotta hit that shit somehow, somehow\nI gotta hit that shit somehow, right now\n\n[Chorus: Elijah Blake, Dej Loaf and Elijah Blake & Dej Loaf]\nI just wanna get fucked up\nWith you, with you, (Oh yeah), with you\nI just wanna get fucked up\nWith you, with you, (Oh yeah), I do\nI just wanna get fucked up\nAlready, already, already know (Yeah)\nI just wanna get fucked up (With you)\nAlready, already, already know (With you, yeah)\nI just wanna get fucked up\n\n[Verse 3: Dej Loaf]\nIt's been a long week and I need it\nJust got rid of him, I'm single\nI feel good about this evening\nLet's hit the strip and throw singles\nYou done blew ten thousand that easy\nMight as well bring the bitch home with us\nOh shit, that sound like a threesome\nMust be the Henny talking, I'm trippin'\nWhippin', we dippin', back to the crib with me\nI hope you got Jimmy shit, don't get offended\nThe windows is tinted, the liq' in my system\nI'm really a shooter, I bust like a semi\nI know I'm fucking up my livers and kidney\nI know this shit's wild\nShots of that brown\nI'm out of my mind\n[Chorus: Elijah Blake, Dej Loaf and Elijah Blake & Dej Loaf]\nI just wanna get fucked up (Woah)\nWith you, with you, (Oh yeah), yeah\nI just wanna get fucked up\nWith you, with you, (Oh yeah), with you (Yeah)\nI just wanna get fucked up\nWith you, with you (Yeah, I do)\nI just wanna get fucked up\nWith you, with you, (Oh yeah), woah\nI just wanna get fucked up\n\n[Outro: Dej Loaf]\nI just wanna get fucked up, just wanna get fucked up with you\nI just wanna get fucked up with you, with you\nI just wanna get fucked up with you, with you17Embed"
+  },
+  {
+   "annotation_count": 23,
+   "api_path": "/songs/182452",
+   "artist_names": "Elijah Blake (Ft. J. Cole)",
+   "full_title": "Vendetta by\u00a0Elijah\u00a0Blake (Ft.\u00a0J.\u00a0Cole)",
+   "header_image_thumbnail_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.450x450x1.jpg",
+   "id": 182452,
+   "language": "en",
+   "lyrics_owner_id": 20094,
+   "lyrics_state": "complete",
+   "path": "/Elijah-blake-vendetta-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Elijah-blake-vendetta-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 2
+   },
+   "release_date_for_display": "July 2, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 2, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.450x450x1.jpg",
+   "stats": {
+    "accepted_annotations": 21,
+    "contributors": 18,
+    "iq_earners": 18,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 28804
+   },
+   "title": "Vendetta",
+   "title_with_featured": "Vendetta (Ft.\u00a0J.\u00a0Cole)",
+   "url": "https://genius.com/Elijah-blake-vendetta-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/69",
+     "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+     "id": 69,
+     "image_url": "https://images.genius.com/84a98a8d26b13b7311aa2359ebade757.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "J. Cole",
+     "url": "https://genius.com/artists/J-cole",
+     "iq": 505
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/22368",
+    "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "id": 22368,
+    "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Elijah Blake",
+    "url": "https://genius.com/artists/Elijah-blake"
+   },
+   "apple_music_id": "920622493",
+   "apple_music_player_url": "https://genius.com/songs/182452/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_182452' class='rg_embed_link' data-song-id='182452'>Read <a href='https://genius.com/Elijah-blake-vendetta-lyrics'>\u201cVendetta\u201d by Elijah\u00a0Blake</a> on Genius</div> <script crossorigin src='//genius.com/songs/182452/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-07-02",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/112262",
+    "cover_art_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.450x450x1.jpg",
+    "full_title": "Drift EP by Elijah Blake",
+    "id": 112262,
+    "name": "Drift EP",
+    "release_date_for_display": "September 30, 2014",
+    "url": "https://genius.com/albums/Elijah-blake/Drift-ep",
+    "artist": {
+     "api_path": "/artists/22368",
+     "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "id": 22368,
+     "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Blake",
+     "url": "https://genius.com/artists/Elijah-blake"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 20094,
+    "annotator_login": "amirue",
+    "api_path": "/referents/3685660",
+    "classification": "needs_exegesis",
+    "fragment": "Vendetta",
+    "id": 3685660,
+    "is_description": true,
+    "path": "/3685660/Elijah-blake-vendetta/Vendetta",
+    "range": {
+     "content": "Vendetta"
+    },
+    "song_id": 182452,
+    "url": "https://genius.com/3685660/Elijah-blake-vendetta/Vendetta",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/182452",
+     "client_timestamps": {
+      "updated_by_human_at": 1573270892,
+      "lyrics_updated_at": 1415082638
+     },
+     "context": "Elijah Blake",
+     "id": 182452,
+     "image_url": "https://images.genius.com/eade3b1e3eb720c4c71e6fbf9eac0886.450x450x1.jpg",
+     "link_title": "Vendetta by\u00a0Elijah\u00a0Blake (Ft.\u00a0J.\u00a0Cole)",
+     "title": "Vendetta",
+     "type": "Song",
+     "url": "https://genius.com/Elijah-blake-vendetta-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3685660",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3685660,
+      "pinned": false,
+      "share_url": "https://genius.com/3685660",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3685660/Elijah-blake-vendetta/Vendetta",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/20094",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/0b7045ef44a14a5f07bb2a3018d5db7d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/0b7045ef44a14a5f07bb2a3018d5db7d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/0b7045ef44a14a5f07bb2a3018d5db7d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/0b7045ef44a14a5f07bb2a3018d5db7d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/0b7045ef44a14a5f07bb2a3018d5db7d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 20094,
+         "iq": 915,
+         "login": "amirue",
+         "name": "amirue",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/amirue",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:73s4uzNm7aiCYSYlxCJOT6",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/73s4uzNm7aiCYSYlxCJOT6"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7Gy-lLnJfhQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/69",
+     "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+     "id": 69,
+     "image_url": "https://images.genius.com/84a98a8d26b13b7311aa2359ebade757.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "J. Cole",
+     "url": "https://genius.com/artists/J-cole",
+     "iq": 505
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/22368",
+     "header_image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "id": 22368,
+     "image_url": "https://images.genius.com/afc7aace0e95bcc21f53d66717ca1ed6.720x720x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Blake",
+     "url": "https://genius.com/artists/Elijah-blake"
+    },
+    {
+     "api_path": "/artists/69",
+     "header_image_url": "https://images.genius.com/b4ced5fc34166c4798ae3a0e23aaa13d.1000x261x1.jpg",
+     "id": 69,
+     "image_url": "https://images.genius.com/84a98a8d26b13b7311aa2359ebade757.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "J. Cole",
+     "url": "https://genius.com/artists/J-cole",
+     "iq": 505
+    }
+   ],
+   "artist": "Elijah Blake",
+   "lyrics": "18 ContributorsVendetta Lyrics[Intro: J. Cole]\nOn that Henny\nMy tour bus got plenty\nI surplus so many\nWanna' serve us so many, Cole\nOn that Henny\nMy tour bus got plenty\nI surplus so many\nWanna' serve us so many, go\n\n[Verse 1]\nBabe, now I do some things I ain't so proud of, wait\nNeed to get this off my chest so can you stay\nBut you want me to beg\nThat ain't playing fair\nI won't, won't do that\n[Bridge]\nShall we say, I'm still young but grown enough to make mistakes\nYou're the only one I left in me and my place\nIf you want an excuse, that's one thing I don't do, no babe\n\n[Hook]\nLove you baby, more than my own life\nWhat else can I say if you're not satisfied\n\n[Verse 2]\nYou be asking me about where I be\nWondering who I see, ain't you here with me\nBaby, don't you trip, cause I lost that shit\nFuck them other chicks, but I know you ain't convinced\nI tell ya'\n\n[Bridge]\nHey, I'm still young but grown enough to make mistakes\nYou're the only one I left in me and my place\nIf you want me excused, that's one thing I don't do, now baby\n\n[Hook]\n\n[Verse 3: J. Cole]\nYeah, got a vendetta even though I been better\nShe be out of pocket when her friends wit' her\nDisturbing the peace, curse words in the street\nMan, shoulda' let the muhfucking Benz hit her\nBut I chilled though\nAnd peeled off, real slow\nStraight face, so she'll know\nBut damn that thing feels so good, make a nigga do the heel-toe\nThat's high school shit, baby this a different world\nA world where women don't last long\nGot so many hoes that I passed on\nLeave her heartbroken with a cast on\nLearning all the words to the sad songs\nI know it seems that my past wrong\nAnd so it seems that I'm past gone\nLike one false move and yo ass gone\nBut you a lil' mo' purty, lil' mo' thick\nLil' mo' smarter, lil' mo' quick\nLil' mo sweeter, lil' mo' slick\nSuperwoman like Lil' Mo hit\nSo stop thinking that I'm still gon' dip\nI know it might seem weird to you\nThat sometimes our dreams come true\nBut sometimes our fears do too\nYou might also like[Hook]3Embed"
+  }
+ ]
+}

@@ -1,0 +1,1495 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/580568",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 23,
+ "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+ "id": 580568,
+ "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "FRENSHIP",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Frenship",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1088,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2917479,
+  "annotator_login": "Beugeair",
+  "api_path": "/referents/13290520",
+  "classification": "needs_exegesis",
+  "fragment": "FRENSHIP",
+  "id": 13290520,
+  "is_description": true,
+  "path": "/13290520/Frenship/Frenship",
+  "range": {
+   "content": "FRENSHIP"
+  },
+  "song_id": null,
+  "url": "https://genius.com/13290520/Frenship/Frenship",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/580568",
+   "context": null,
+   "id": 580568,
+   "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+   "link_title": "FRENSHIP",
+   "title": "FRENSHIP",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Frenship"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/13290520",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 13290520,
+    "pinned": false,
+    "share_url": "https://genius.com/13290520",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/13290520/Frenship/Frenship",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2917479",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e0757820686749028f90b9f15a7c11ed",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e0757820686749028f90b9f15a7c11ed",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e0757820686749028f90b9f15a7c11ed",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e0757820686749028f90b9f15a7c11ed",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/80782c3f0fc67c209cb0c99f95add00f.1000x667x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 2917479,
+       "iq": 193724,
+       "login": "Beugeair",
+       "name": "\u200bbeugeair.",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Beugeair",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3485134",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/88108fbe66e776603ee01b2e290dbfad",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/88108fbe66e776603ee01b2e290dbfad",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/88108fbe66e776603ee01b2e290dbfad",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/88108fbe66e776603ee01b2e290dbfad",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3485134,
+  "iq": 1088,
+  "login": "FRENSHIP",
+  "name": "FRENSHIP",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/FRENSHIP",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2849608",
+   "artist_names": "FRENSHIP",
+   "full_title": "1000 Nights by\u00a0FRENSHIP",
+   "header_image_thumbnail_url": "https://images.genius.com/75f593decb339afa87a837ca7e8b54a3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/75f593decb339afa87a837ca7e8b54a3.640x640x1.jpg",
+   "id": 2849608,
+   "language": "en",
+   "lyrics_owner_id": 1717255,
+   "lyrics_state": "complete",
+   "path": "/Frenship-1000-nights-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Frenship-1000-nights-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 2
+   },
+   "release_date_for_display": "September 2, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 2, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/75f593decb339afa87a837ca7e8b54a3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/75f593decb339afa87a837ca7e8b54a3.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 44434
+   },
+   "title": "1000 Nights",
+   "title_with_featured": "1000 Nights",
+   "url": "https://genius.com/Frenship-1000-nights-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/580568",
+    "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+    "id": 580568,
+    "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "FRENSHIP",
+    "url": "https://genius.com/artists/Frenship",
+    "iq": 1088
+   },
+   "apple_music_id": "1147798458",
+   "apple_music_player_url": "https://genius.com/songs/2849608/apple_music_player",
+   "description": {
+    "plain": "The \u20181000 Nights\u2019 video was shot at Diablo Lake in Washington State. The band state, \u201cWe made this one out at Table Rock in Laguna Beach with our guitarist Danny Schnair and videographer Tony Corella. We had to scale a bunch of rocks with our equipment, which was interesting, but getting to that cove to film was worth it. The whole trek sort of nicely tied into the meaning behind \u20181000 Nights,\u2019 in realizing the value of a journey comes from spending it in good company.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_2849608' class='rg_embed_link' data-song-id='2849608'>Read <a href='https://genius.com/Frenship-1000-nights-lyrics'>\u201c1000 Nights\u201d by FRENSHIP</a> on Genius</div> <script crossorigin src='//genius.com/songs/2849608/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-02",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/167374",
+    "cover_art_url": "https://images.genius.com/cb8500ed7610b3b42a451be049bc33de.1000x1000x1.jpg",
+    "full_title": "Truce EP by FRENSHIP",
+    "id": 167374,
+    "name": "Truce EP",
+    "release_date_for_display": "September 2, 2016",
+    "url": "https://genius.com/albums/Frenship/Truce-ep",
+    "artist": {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4829719,
+    "annotator_login": "steadymindful",
+    "api_path": "/referents/10323890",
+    "classification": "unreviewed",
+    "fragment": "1000 Nights",
+    "id": 10323890,
+    "is_description": true,
+    "path": "/10323890/Frenship-1000-nights/1000-nights",
+    "range": {
+     "content": "1000 Nights"
+    },
+    "song_id": 2849608,
+    "url": "https://genius.com/10323890/Frenship-1000-nights/1000-nights",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2849608",
+     "client_timestamps": {
+      "updated_by_human_at": 1623446274,
+      "lyrics_updated_at": 1623446274
+     },
+     "context": "FRENSHIP",
+     "id": 2849608,
+     "image_url": "https://images.genius.com/75f593decb339afa87a837ca7e8b54a3.640x640x1.jpg",
+     "link_title": "1000 Nights by\u00a0FRENSHIP",
+     "title": "1000 Nights",
+     "type": "Song",
+     "url": "https://genius.com/Frenship-1000-nights-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10323890",
+      "body": {
+       "plain": "The \u20181000 Nights\u2019 video was shot at Diablo Lake in Washington State. The band state, \u201cWe made this one out at Table Rock in Laguna Beach with our guitarist Danny Schnair and videographer Tony Corella. We had to scale a bunch of rocks with our equipment, which was interesting, but getting to that cove to film was worth it. The whole trek sort of nicely tied into the meaning behind \u20181000 Nights,\u2019 in realizing the value of a journey comes from spending it in good company.\u201d"
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 10323890,
+      "pinned": false,
+      "share_url": "https://genius.com/10323890",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10323890/Frenship-1000-nights/1000-nights",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4829719",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ac45dbbb9cfdded2a0d38dccbc4704d2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ac45dbbb9cfdded2a0d38dccbc4704d2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ac45dbbb9cfdded2a0d38dccbc4704d2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ac45dbbb9cfdded2a0d38dccbc4704d2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ac45dbbb9cfdded2a0d38dccbc4704d2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4829719,
+         "iq": 2616,
+         "login": "steadymindful",
+         "name": "steadymindful",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/steadymindful",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=E8EMeAp1qLo"
+    },
+    {
+     "native_uri": "spotify:track:5fIq2ovEhDIyV5Hx1epC4c",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5fIq2ovEhDIyV5Hx1epC4c"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   ],
+   "artist": "FRENSHIP",
+   "lyrics": "8 Contributors1000 Nights Lyrics[Verse 1]\nWhen the fever's gone\nAnd the road's to dust\nI touch down Sunday\nTo tie the loose ends up\nWith a pocket full of\nThat gypsy stuff\nI heard you calling me, calling me, calling me\nThrough the dissonance\nI've been known to run\nJust to feel the rush\nBut the dying sun\nIlluminates so much\n[Pre-Chorus]\nIt's hard to see beyond what's in sight\nBut when you tilt the light I realize\n\n[Chorus]\nFor 1000 nights\nI've been a restless soul\nJust wasting time\nDigging up fool's gold\nIt took a 1000 lives\nBeing on my own\nFor me to find\nIt was all fool's gold\n\n[Post-Chorus]\n(Find)\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\n\n[Verse 2]\nI've felt the fever on\nBut couldn't taste the fruit\nThere's a bulletproof-bond\nBetween meaning and you\n\n[Pre-Chorus]\nIt's hard to see beyond what's in sight\nBut when you tilt the light I realize\nYou might also like[Chorus]\nFor 1000 nights\nI've been a restless soul\nJust wasting time\nDigging up fool's gold\nIt took a 1000 lives\nBeing on my own\nFor me to find\nIt was all fool's gold\n\n[Post-Chorus]\n(Find)\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\n(Find)\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nOoh ooh\n\n[Bridge]\nIt was all dead end roads, heaven knows\nIt was all dead end roads, heaven knows\n\n[Pre-Chorus]\nIt's hard to see beyond what's in sight\nOr when you tilt the light I realize\n[Chorus]\nFor 1000 nights\nI've been a restless soul\nJust wasting time\nDigging up fool's gold\nIt took a 1000 lives\nBeing on my own\nFor me to find\nIt was all fool's gold\n\n[Post-Chorus]\n(Without)\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\n(Without)\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nYou-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh-ooh\nOoh ooh\n\n[Outro]\nOoh ooh ooh ooh ooh ooh ooh ooh ooh ooh\nOoh ooh ooh ooh ooh ooh ooh ooh ooh ooh5Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2443825",
+   "artist_names": "FRENSHIP",
+   "full_title": "Carpet by\u00a0FRENSHIP",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/f826d1ff7f5d2a3f16b745fef903d0e5.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/f826d1ff7f5d2a3f16b745fef903d0e5.500x500x1.jpg",
+   "id": 2443825,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Frenship-carpet-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Frenship-carpet-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 3,
+    "day": 23
+   },
+   "release_date_for_display": "March 23, 2016",
+   "release_date_with_abbreviated_month_for_display": "Mar. 23, 2016",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/f826d1ff7f5d2a3f16b745fef903d0e5.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/f826d1ff7f5d2a3f16b745fef903d0e5.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 25410
+   },
+   "title": "Carpet",
+   "title_with_featured": "Carpet",
+   "url": "https://genius.com/Frenship-carpet-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/580568",
+    "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+    "id": 580568,
+    "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "FRENSHIP",
+    "url": "https://genius.com/artists/Frenship",
+    "iq": 1088
+   },
+   "apple_music_id": "1147798349",
+   "apple_music_player_url": "https://genius.com/songs/2443825/apple_music_player",
+   "description": {
+    "plain": "Alongside its Billboard premiere, FRENSHIP member James Sunderland shared the story behind \u201cCarpet\u201d:\n\n\u2018Carpet\u2019 was written during a stressful time in my life where I was feeling like I couldn\u2019t get my feet under me. It\u2019s about a conversation I had with an ex while we were lying on the carpet floor of my room and she was telling me I had to \u2018do more\u2019 with my life. It\u2019s a conversation that still rings in my head to this day."
+   },
+   "embed_content": "<div id='rg_embed_link_2443825' class='rg_embed_link' data-song-id='2443825'>Read <a href='https://genius.com/Frenship-carpet-lyrics'>\u201cCarpet\u201d by FRENSHIP</a> on Genius</div> <script crossorigin src='//genius.com/songs/2443825/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-03-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/167374",
+    "cover_art_url": "https://images.genius.com/cb8500ed7610b3b42a451be049bc33de.1000x1000x1.jpg",
+    "full_title": "Truce EP by FRENSHIP",
+    "id": 167374,
+    "name": "Truce EP",
+    "release_date_for_display": "September 2, 2016",
+    "url": "https://genius.com/albums/Frenship/Truce-ep",
+    "artist": {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 104344,
+    "annotator_login": "streetlights",
+    "api_path": "/referents/8864109",
+    "classification": "accepted",
+    "fragment": "Carpet",
+    "id": 8864109,
+    "is_description": true,
+    "path": "/8864109/Frenship-carpet/Carpet",
+    "range": {
+     "content": "Carpet"
+    },
+    "song_id": 2443825,
+    "url": "https://genius.com/8864109/Frenship-carpet/Carpet",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2443825",
+     "client_timestamps": {
+      "updated_by_human_at": 1570581593,
+      "lyrics_updated_at": 1570581592
+     },
+     "context": "FRENSHIP",
+     "id": 2443825,
+     "image_url": "https://images.rapgenius.com/f826d1ff7f5d2a3f16b745fef903d0e5.500x500x1.jpg",
+     "link_title": "Carpet by\u00a0FRENSHIP",
+     "title": "Carpet",
+     "type": "Song",
+     "url": "https://genius.com/Frenship-carpet-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8864109",
+      "body": {
+       "plain": "Alongside its Billboard premiere, FRENSHIP member James Sunderland shared the story behind \u201cCarpet\u201d:\n\n\u2018Carpet\u2019 was written during a stressful time in my life where I was feeling like I couldn\u2019t get my feet under me. It\u2019s about a conversation I had with an ex while we were lying on the carpet floor of my room and she was telling me I had to \u2018do more\u2019 with my life. It\u2019s a conversation that still rings in my head to this day."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 8864109,
+      "pinned": false,
+      "share_url": "https://genius.com/8864109",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/8864109/Frenship-carpet/Carpet",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9875,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 3065824,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0125,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1964677",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+         "human_readable_role_for_display": "Editor",
+         "id": 1964677,
+         "iq": 56474,
+         "login": "CalHx",
+         "name": "CalHx",
+         "role_for_display": "editor",
+         "url": "https://genius.com/CalHx",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5TGwxlonESupwZBi9IRxzH",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5TGwxlonESupwZBi9IRxzH"
+    },
+    {
+     "attribution": "frenship",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/frenship/carpet"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   ],
+   "artist": "FRENSHIP",
+   "lyrics": "6 ContributorsCarpet Lyrics[Verse 1]\nI'm living with \"I told you so\"\nAnd these feelings get a little bit old\nOn the cusp of getting it right\nBut it never is black and white, and white, no\n\n[Pre-Chorus]\nShe gave me the time when shit got rough\nA little more time could've been enough for us\n\n[Chorus]\n\"Do more\"\nShe says to me on the carpet floor\nStretch yourself thin\nSo I can be with you once again\nBefore I have to run\nAnd leave these bars of one\n[Verse 2]\nI'm reaching for what I can't see\nBut the quiet still gets to me\nI swallow, had I known it's worth\nLove seldom and that's why it hurts\n\n[Pre-Chorus]\nShe gave me the time when shit got rough\nA little more time could've been enough for us\n\n[Chorus]\n\"Do more\"\nShe says to me on the carpet floor\nStretch yourself thin\nSo I can be with you once again\nBefore I have to run\nAnd leave these bars of one\n\n[Bridge]\nShe gave me the time when shit got rough\nA little more time could've been enough\nI ran out of time and lost my luck\nA little more time could've been enough for us\n\n[Chorus]\n\"Do more\"\nShe says to me on the carpet floor\nStretch yourself thin\nSo I can be with you once again\nBefore I have to run\nAnd leave these bars of one\nBefore I have to run\nAnd leave these bars of one\nYou might also like[Outro]\nI said it's not even\nYou ended up just leaving\nMe and your feelings\nLying on the carpet floor\nIt's not that even\nYou ended up just leaving\nMe and your feelings\nLying on the carpet floor3Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3490199",
+   "artist_names": "FRENSHIP",
+   "full_title": "LOVE Somebody by\u00a0FRENSHIP",
+   "header_image_thumbnail_url": "https://images.genius.com/96c00a730b18e31e52aee672a98ffdb3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/96c00a730b18e31e52aee672a98ffdb3.1000x1000x1.jpg",
+   "id": 3490199,
+   "language": "en",
+   "lyrics_owner_id": 2034060,
+   "lyrics_state": "complete",
+   "path": "/Frenship-love-somebody-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Frenship-love-somebody-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 2,
+    "day": 2
+   },
+   "release_date_for_display": "February 2, 2018",
+   "release_date_with_abbreviated_month_for_display": "Feb. 2, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/96c00a730b18e31e52aee672a98ffdb3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/96c00a730b18e31e52aee672a98ffdb3.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 3,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 17153
+   },
+   "title": "LOVE Somebody",
+   "title_with_featured": "LOVE Somebody",
+   "url": "https://genius.com/Frenship-love-somebody-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/580568",
+    "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+    "id": 580568,
+    "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "FRENSHIP",
+    "url": "https://genius.com/artists/Frenship",
+    "iq": 1088
+   },
+   "apple_music_id": "1436339420",
+   "apple_music_player_url": "https://genius.com/songs/3490199/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3490199' class='rg_embed_link' data-song-id='3490199'>Read <a href='https://genius.com/Frenship-love-somebody-lyrics'>\u201cLOVE Somebody\u201d by FRENSHIP</a> on Genius</div> <script crossorigin src='//genius.com/songs/3490199/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-02-02",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/413101",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1682450960",
+    "full_title": "LOVE Somebody (Single) by FRENSHIP",
+    "id": 413101,
+    "name": "LOVE Somebody (Single)",
+    "release_date_for_display": null,
+    "url": "https://genius.com/albums/Frenship/Love-somebody-single",
+    "artist": {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1484854,
+    "annotator_login": "Spamkiller1",
+    "api_path": "/referents/13722555",
+    "classification": "needs_exegesis",
+    "fragment": "LOVE Somebody",
+    "id": 13722555,
+    "is_description": true,
+    "path": "/13722555/Frenship-love-somebody/Love-somebody",
+    "range": {
+     "content": "LOVE Somebody"
+    },
+    "song_id": 3490199,
+    "url": "https://genius.com/13722555/Frenship-love-somebody/Love-somebody",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3490199",
+     "client_timestamps": {
+      "updated_by_human_at": 1521862982,
+      "lyrics_updated_at": 1517605034
+     },
+     "context": "FRENSHIP",
+     "id": 3490199,
+     "image_url": "https://images.genius.com/96c00a730b18e31e52aee672a98ffdb3.1000x1000x1.jpg",
+     "link_title": "LOVE Somebody by\u00a0FRENSHIP",
+     "title": "LOVE Somebody",
+     "type": "Song",
+     "url": "https://genius.com/Frenship-love-somebody-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13722555",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13722555,
+      "pinned": false,
+      "share_url": "https://genius.com/13722555",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13722555/Frenship-love-somebody/Love-somebody",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1484854",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b1vxfqutxmr",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ynqi0mm89pk",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1484854,
+         "iq": 0,
+         "login": "Spamkiller1",
+         "name": "Spamkiller1",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Spamkiller1",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=JKWw3GxMmd8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/580568",
+     "header_image_url": "https://images.genius.com/bc23b87b3c9c7d16e127bffa9dd5bcb5.1000x563x1.jpg",
+     "id": 580568,
+     "image_url": "https://images.genius.com/a368157ab949d7c8eb867d59829b495f.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "FRENSHIP",
+     "url": "https://genius.com/artists/Frenship",
+     "iq": 1088
+    },
+    {
+     "api_path": "/artists/263544",
+     "header_image_url": "https://images.genius.com/bda026af1afee7032543dc8720e20e61.418x418x1.jpg",
+     "id": 263544,
+     "image_url": "https://images.genius.com/bda026af1afee7032543dc8720e20e61.418x418x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Ruth",
+     "url": "https://genius.com/artists/Nick-ruth"
+    },
+    {
+     "api_path": "/artists/378099",
+     "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+     "id": 378099,
+     "image_url": "https://images.genius.com/7ae48c4aa75e0a3114f468fc6b20abc2.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steph Jones",
+     "url": "https://genius.com/artists/Steph-jones"
+    }
+   ],
+   "artist": "FRENSHIP",
+   "lyrics": "5 ContributorsLOVE Somebody Lyrics(Intro)\nLaLa x 4\n\n(Verse 1)\nRun for the highlights, chase down the weekend\nGive in to dreamin\u2019, if that\u2019s what your feeling\nLearn from the mileage, shake up the silence\nGive up the old plans, and give in to romance\n\n(Pre chorus)\nIt\u2019s hard to see you go\nBut that\u2019s just life you see\nOh I hope you keep in tow\nThe memories that you made with me\n(Chorus)\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\n\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\n\nLa la x4\n(Get lost on way)\n\n\n(Verse 2)\nMourn in the freedom, show grace at the gallows\nSleep in the Rockies, above all the shadows\nRevel in heartache, wrestle the restless\nI hope you know that, that I am proud of you\n\n(Pre chorus)\nIt\u2019s hard to see you go\nBut that\u2019s just life you see\nOh I hope you keep in tow\nThe memories that you made with me\nYou might also like(Chorus)\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\n\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\n\nLa la x8\n(Get lost on way x2)\n\n(Bridge)\nGet up, get out and love someone\nOr just get by and get paid\nGet up, get out and love someone\nOr get by get paid\nGet up, get out and love someone\nOr just get by and get paid\nGet up, get out and love someone\nOr get by or get paid\n\n(Chorus)\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\nGet up, get out and love somebody\nGet up, get out and love someone\nI hope you go love somebody\nAnd go get lost on the way\n\nLa La x 8\n(Get lost on the way x2)1Embed"
+  }
+ ]
+}

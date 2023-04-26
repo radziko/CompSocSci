@@ -1,0 +1,1535 @@
+{
+ "alternate_names": [
+  "Jameson Rogers"
+ ],
+ "api_path": "/artists/1172738",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "jamesonrodgers",
+ "followers_count": 5,
+ "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+ "id": 1172738,
+ "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+ "instagram_name": "jamesonrodgers",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Jameson Rodgers",
+ "translation_artist": false,
+ "twitter_name": "jamesonrodgers",
+ "url": "https://genius.com/artists/Jameson-rodgers",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4733728,
+  "annotator_login": "JJEvans",
+  "api_path": "/referents/19891277",
+  "classification": "needs_exegesis",
+  "fragment": "Jameson Rodgers",
+  "id": 19891277,
+  "is_description": true,
+  "path": "/19891277/Jameson-rodgers/Jameson-rodgers",
+  "range": {
+   "content": "Jameson Rodgers"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19891277/Jameson-rodgers/Jameson-rodgers",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1172738",
+   "context": null,
+   "id": 1172738,
+   "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+   "link_title": "Jameson Rodgers",
+   "title": "Jameson Rodgers",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jameson-rodgers"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19891277",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19891277,
+    "pinned": false,
+    "share_url": "https://genius.com/19891277",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19891277/Jameson-rodgers/Jameson-rodgers",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4733728",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 4733728,
+       "iq": 630083,
+       "login": "JJEvans",
+       "name": "Jay Evans",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JJEvans",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/8843806",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/d546a3dd55f26eee8f721f5e3e6b40af",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/d546a3dd55f26eee8f721f5e3e6b40af",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/d546a3dd55f26eee8f721f5e3e6b40af",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/d546a3dd55f26eee8f721f5e3e6b40af",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 8843806,
+  "iq": 100,
+  "login": "JamesonRodgers",
+  "name": "Jameson Rodgers",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/JamesonRodgers",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3367473",
+   "artist_names": "Jameson Rodgers",
+   "full_title": "Some Girls by\u00a0Jameson\u00a0Rodgers",
+   "header_image_thumbnail_url": "https://images.genius.com/115ed78626f541fa4a5c72529c367a77.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/115ed78626f541fa4a5c72529c367a77.1000x1000x1.jpg",
+   "id": 3367473,
+   "language": "en",
+   "lyrics_owner_id": 5446597,
+   "lyrics_state": "complete",
+   "path": "/Jameson-rodgers-some-girls-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Jameson-rodgers-some-girls-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 1,
+    "day": 19
+   },
+   "release_date_for_display": "January 19, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jan. 19, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a20a5bc618adb305cf296f51977b188e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a20a5bc618adb305cf296f51977b188e.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 51521
+   },
+   "title": "Some Girls",
+   "title_with_featured": "Some Girls",
+   "url": "https://genius.com/Jameson-rodgers-some-girls-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1172738",
+    "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+    "id": 1172738,
+    "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jameson Rodgers",
+    "url": "https://genius.com/artists/Jameson-rodgers",
+    "iq": 100
+   },
+   "apple_music_id": "1451844083",
+   "apple_music_player_url": "https://genius.com/songs/3367473/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3367473' class='rg_embed_link' data-song-id='3367473'>Read <a href='https://genius.com/Jameson-rodgers-some-girls-lyrics'>\u201cSome Girls\u201d by Jameson\u00a0Rodgers</a> on Genius</div> <script crossorigin src='//genius.com/songs/3367473/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-01-19",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/761255",
+    "cover_art_url": "https://images.genius.com/f754bc388700e571883fb5d7d8772d94.1000x1000x1.jpg",
+    "full_title": "In It for the Money - EP by Jameson Rodgers",
+    "id": 761255,
+    "name": "In It for the Money - EP",
+    "release_date_for_display": "April 23, 2021",
+    "url": "https://genius.com/albums/Jameson-rodgers/In-it-for-the-money-ep",
+    "artist": {
+     "api_path": "/artists/1172738",
+     "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+     "id": 1172738,
+     "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jameson Rodgers",
+     "url": "https://genius.com/artists/Jameson-rodgers",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9719163,
+    "annotator_login": "charityspicer",
+    "api_path": "/referents/22824558",
+    "classification": "needs_exegesis",
+    "fragment": "Some Girls",
+    "id": 22824558,
+    "is_description": true,
+    "path": "/22824558/Jameson-rodgers-some-girls/Some-girls",
+    "range": {
+     "content": "Some Girls"
+    },
+    "song_id": 3367473,
+    "url": "https://genius.com/22824558/Jameson-rodgers-some-girls/Some-girls",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3367473",
+     "client_timestamps": {
+      "updated_by_human_at": 1651950497,
+      "lyrics_updated_at": 1651950497
+     },
+     "context": "Jameson Rodgers",
+     "id": 3367473,
+     "image_url": "https://images.genius.com/a20a5bc618adb305cf296f51977b188e.800x800x1.jpg",
+     "link_title": "Some Girls by\u00a0Jameson\u00a0Rodgers",
+     "title": "Some Girls",
+     "type": "Song",
+     "url": "https://genius.com/Jameson-rodgers-some-girls-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22824558",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22824558,
+      "pinned": false,
+      "share_url": "https://genius.com/22824558",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22824558/Jameson-rodgers-some-girls/Some-girls",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9719163",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/14b73b88974401a1019bf2d6d8132f31",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/14b73b88974401a1019bf2d6d8132f31",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/14b73b88974401a1019bf2d6d8132f31",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/14b73b88974401a1019bf2d6d8132f31",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/887ef0cbeffd306d7ac2384e3dffa258.1000x272x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 9719163,
+         "iq": 186073,
+         "login": "charityspicer",
+         "name": "\u200bcharityspicer",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/charityspicer",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:54eUv9Q3D9MZuOGS5PSflp",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/54eUv9Q3D9MZuOGS5PSflp"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=SbEX5kkH_oI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1924638",
+     "header_image_url": "https://images.genius.com/f61ace172f721c41c5004a9dc1dfb734.169x169x1.jpg",
+     "id": 1924638,
+     "image_url": "https://images.genius.com/f61ace172f721c41c5004a9dc1dfb734.169x169x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Farren (Producer)",
+     "url": "https://genius.com/artists/Chris-farren-producer"
+    },
+    {
+     "api_path": "/artists/440254",
+     "header_image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+     "id": 440254,
+     "image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mickey Jack Cones",
+     "url": "https://genius.com/artists/Mickey-jack-cones"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7972351",
+       "artist_names": "Jameson Rodgers",
+       "full_title": "Some Girls (Live) by\u00a0Jameson\u00a0Rodgers",
+       "header_image_thumbnail_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.1000x1000x1.jpg",
+       "id": 7972351,
+       "language": "en",
+       "lyrics_owner_id": 93685,
+       "lyrics_state": "complete",
+       "path": "/Jameson-rodgers-some-girls-live-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jameson-rodgers-some-girls-live-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 5,
+        "day": 6
+       },
+       "release_date_for_display": "May 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Some Girls (Live)",
+       "title_with_featured": "Some Girls (Live)",
+       "url": "https://genius.com/Jameson-rodgers-some-girls-live-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1172738",
+        "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+        "id": 1172738,
+        "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jameson Rodgers",
+        "url": "https://genius.com/artists/Jameson-rodgers",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    },
+    {
+     "api_path": "/artists/1080498",
+     "header_image_url": "https://images.genius.com/5bd226d6315888036f6e97e29a72e4bb.339x339x1.jpg",
+     "id": 1080498,
+     "image_url": "https://images.genius.com/5bd226d6315888036f6e97e29a72e4bb.339x339x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Mitchell",
+     "url": "https://genius.com/artists/Jake-mitchell"
+    },
+    {
+     "api_path": "/artists/556848",
+     "header_image_url": "https://images.genius.com/f077e054635a45630091ace859e2915e.225x225x1.jpg",
+     "id": 556848,
+     "image_url": "https://images.genius.com/f077e054635a45630091ace859e2915e.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "CJ Solar",
+     "url": "https://genius.com/artists/Cj-solar"
+    }
+   ],
+   "artist": "Jameson Rodgers",
+   "lyrics": "14 ContributorsSome Girls Lyrics[Verse 1]\nPictures on her phone and tears in her eyes\nWaterproof makeup ain't made for a breakup on a Saturday night\nThen it's hey how you been, good how 'bout you\nFunny how seeing you once after a few months\nGets you locked out\nRight back to telling folks you know I know\nAll about some new guy taking you out\nThen you unfollow me then follow me back\nJust so I know you're still around\n[Chorus]\nSome girls get their mama on the phone\nTake a trip back home, pretend they never knew the guy\nSome girls drink a bottle of wine\nGot an old ex to text to get 'em through the getting by\nSometimes it's a clean break, stay gone\nClean slate moving on to something new\nSometimes some girls make it easy on you\nBut some girls never do\n\n[Verse 2]\nSome hearts stay broke, some hearts don't skip a beat\nSome people say goodbye then try to make it alright\nJust like you're doing to me, but tonight I'm letting it ring\n\n[Chorus]\nSome girls get their mama on the phone\nTake a trip back home, pretend they never knew the guy\nSome girls drink a bottle of wine\nGot an old ex to text to get 'em through the getting by\nSometimes it's a clean break, stay gone\nClean slate, moving on to something new\nSometimes some girls make it easy on you\nBut some girls never do\nNo some girls never do\nYou might also like[Bridge]\nYeah some girls know when they've got something\nWorth holding on to, but some girls never do\n\n[Chorus]\nSome girls get their mama on the phone\nTake a trip back home, pretend they never knew the guy\nSome girls drink a bottle of wine\nGot an old ex to text to get 'em through the getting by\nSometimes it's a clean break, stay gone\nClean slate, moving on to something new\nSometimes some girls make it easy on you\nBut some girls never do\n\n[Outro]\nYeah some girls never do\nSometimes some girls make it easy on you\nBut some girls never do6Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3151806",
+   "artist_names": "Jameson Rodgers",
+   "full_title": "Midnight Daydream by\u00a0Jameson\u00a0Rodgers",
+   "header_image_thumbnail_url": "https://images.genius.com/812a7ac3335bcb25369a4939b044140e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/812a7ac3335bcb25369a4939b044140e.640x640x1.jpg",
+   "id": 3151806,
+   "language": "en",
+   "lyrics_owner_id": 2349910,
+   "lyrics_state": "complete",
+   "path": "/Jameson-rodgers-midnight-daydream-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jameson-rodgers-midnight-daydream-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/812a7ac3335bcb25369a4939b044140e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/812a7ac3335bcb25369a4939b044140e.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 13676
+   },
+   "title": "Midnight Daydream",
+   "title_with_featured": "Midnight Daydream",
+   "url": "https://genius.com/Jameson-rodgers-midnight-daydream-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1172738",
+    "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+    "id": 1172738,
+    "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jameson Rodgers",
+    "url": "https://genius.com/artists/Jameson-rodgers",
+    "iq": 100
+   },
+   "apple_music_id": "1142871905",
+   "apple_music_player_url": "https://genius.com/songs/3151806/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3151806' class='rg_embed_link' data-song-id='3151806'>Read <a href='https://genius.com/Jameson-rodgers-midnight-daydream-lyrics'>\u201cMidnight Daydream\u201d by Jameson\u00a0Rodgers</a> on Genius</div> <script crossorigin src='//genius.com/songs/3151806/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/441839",
+    "cover_art_url": "https://images.genius.com/b7829eb90598c880f109c5da9402ddf5.1000x1000x1.jpg",
+    "full_title": "Jameson Rodgers by Jameson Rodgers",
+    "id": 441839,
+    "name": "Jameson Rodgers",
+    "release_date_for_display": "June 3, 2016",
+    "url": "https://genius.com/albums/Jameson-rodgers/Jameson-rodgers",
+    "artist": {
+     "api_path": "/artists/1172738",
+     "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+     "id": 1172738,
+     "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jameson Rodgers",
+     "url": "https://genius.com/artists/Jameson-rodgers",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2349910,
+    "annotator_login": "Xissoric",
+    "api_path": "/referents/12307933",
+    "classification": "needs_exegesis",
+    "fragment": "Midnight Daydream",
+    "id": 12307933,
+    "is_description": true,
+    "path": "/12307933/Jameson-rodgers-midnight-daydream/Midnight-daydream",
+    "range": {
+     "content": "Midnight Daydream"
+    },
+    "song_id": 3151806,
+    "url": "https://genius.com/12307933/Jameson-rodgers-midnight-daydream/Midnight-daydream",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3151806",
+     "client_timestamps": {
+      "updated_by_human_at": 1651957326,
+      "lyrics_updated_at": 1651957326
+     },
+     "context": "Jameson Rodgers",
+     "id": 3151806,
+     "image_url": "https://images.genius.com/812a7ac3335bcb25369a4939b044140e.640x640x1.jpg",
+     "link_title": "Midnight Daydream by\u00a0Jameson\u00a0Rodgers",
+     "title": "Midnight Daydream",
+     "type": "Song",
+     "url": "https://genius.com/Jameson-rodgers-midnight-daydream-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12307933",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12307933,
+      "pinned": false,
+      "share_url": "https://genius.com/12307933",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12307933/Jameson-rodgers-midnight-daydream/Midnight-daydream",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2349910",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/96883d95284b730a5ddfcf34127284bb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/96883d95284b730a5ddfcf34127284bb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/96883d95284b730a5ddfcf34127284bb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/96883d95284b730a5ddfcf34127284bb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v83qemuuiv",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2349910,
+         "iq": 45117,
+         "login": "Xissoric",
+         "name": "Xissoric",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Xissoric",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=i1qrCAHM3QU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7972353",
+       "artist_names": "Jameson Rodgers",
+       "full_title": "Midnight Daydream (Live) by\u00a0Jameson\u00a0Rodgers",
+       "header_image_thumbnail_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.1000x1000x1.jpg",
+       "id": 7972353,
+       "language": "en",
+       "lyrics_owner_id": 93685,
+       "lyrics_state": "complete",
+       "path": "/Jameson-rodgers-midnight-daydream-live-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jameson-rodgers-midnight-daydream-live-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 5,
+        "day": 6
+       },
+       "release_date_for_display": "May 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "May. 6, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/deba8c8c9a7bda23b76234da5c916e83.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Midnight Daydream (Live)",
+       "title_with_featured": "Midnight Daydream (Live)",
+       "url": "https://genius.com/Jameson-rodgers-midnight-daydream-live-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1172738",
+        "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+        "id": 1172738,
+        "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jameson Rodgers",
+        "url": "https://genius.com/artists/Jameson-rodgers",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Jameson Rodgers",
+   "lyrics": "4 ContributorsMidnight Daydream Lyrics[Verse 1]\nBaby I broke down and went and found somebody new\nShe ain't from Mississippi but she looks a lot like you\nAnd something crazy happened when I took her home last night\nShe invited me inside, she turned down all the lights\n\n[Chorus]\nAnd I found myself inside a midnight daydream\nBaby if you saw it then I know it may seem\nLike I'm moving on\nBut every time I touch her every time I taste her kiss\nI just feel your lips\nI can't snap out of this\nMidnight daydream\nLike I'm still with you\nMidnight daydream\nDammit girl I miss ya\n[Verse 2]\nShe led me up the stairs and to her bedroom down the hall\nPut her hands under my shirt and pinned me up against the wall\nShe kissed me on my neck and whispered like you used to do\nShe was slipping off her dress and I was slipping in to\n\n[Chorus]\nA midnight daydream\nBaby if you saw it then I know it may seem\nLike I'm moving on\nBut every time I touch her every time I taste her kiss\nI just feel your lips\nI can't snap out of this\nMidnight daydream\nLike I'm still with you\nMidnight daydream\nDammit girl I miss ya\n\n[Bridge]\nI watched her blue eyes turn to green\nIt was your hands all over me\nLike you never broke my heart\nLike nothing ever changed\nDamn I almost called her by your name\nBy your name girl\nMidnight daydream\nYou might also like[Chorus]\nMidnight daydream\nBaby if you saw it then I know it may seem\nLike I'm moving on\nBut every time I touch her every time I taste her kiss\nI just feel your lips\nI can't snap out of this\nMidnight daydream\nLike I'm still with you\nMidnight daydream\nDammit girl I miss yaEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3544373",
+   "artist_names": "Jameson Rodgers",
+   "full_title": "Missing One by\u00a0Jameson\u00a0Rodgers",
+   "header_image_thumbnail_url": "https://images.genius.com/d2cbe4621a0e0cd169570ec7c83223a6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d2cbe4621a0e0cd169570ec7c83223a6.1000x1000x1.jpg",
+   "id": 3544373,
+   "language": "en",
+   "lyrics_owner_id": 5446597,
+   "lyrics_state": "complete",
+   "path": "/Jameson-rodgers-missing-one-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jameson-rodgers-missing-one-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 9,
+    "day": 17
+   },
+   "release_date_for_display": "September 17, 2021",
+   "release_date_with_abbreviated_month_for_display": "Sep. 17, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d2cbe4621a0e0cd169570ec7c83223a6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d2cbe4621a0e0cd169570ec7c83223a6.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6952
+   },
+   "title": "Missing One",
+   "title_with_featured": "Missing One",
+   "url": "https://genius.com/Jameson-rodgers-missing-one-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1172738",
+    "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+    "id": 1172738,
+    "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jameson Rodgers",
+    "url": "https://genius.com/artists/Jameson-rodgers",
+    "iq": 100
+   },
+   "apple_music_id": "1451844206",
+   "apple_music_player_url": "https://genius.com/songs/3544373/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3544373' class='rg_embed_link' data-song-id='3544373'>Read <a href='https://genius.com/Jameson-rodgers-missing-one-lyrics'>\u201cMissing One\u201d by Jameson\u00a0Rodgers</a> on Genius</div> <script crossorigin src='//genius.com/songs/3544373/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-09-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/804946",
+    "cover_art_url": "https://images.genius.com/4233ed1c343c2f14962e6fd64b133a71.1000x1000x1.jpg",
+    "full_title": "Bet You\u2019re from a Small Town by Jameson Rodgers",
+    "id": 804946,
+    "name": "Bet You\u2019re from a Small Town",
+    "release_date_for_display": "September 17, 2021",
+    "url": "https://genius.com/albums/Jameson-rodgers/Bet-youre-from-a-small-town",
+    "artist": {
+     "api_path": "/artists/1172738",
+     "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+     "id": 1172738,
+     "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jameson Rodgers",
+     "url": "https://genius.com/artists/Jameson-rodgers",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5446597,
+    "annotator_login": "daniellehaines",
+    "api_path": "/referents/13933543",
+    "classification": "needs_exegesis",
+    "fragment": "Missing One",
+    "id": 13933543,
+    "is_description": true,
+    "path": "/13933543/Jameson-rodgers-missing-one/Missing-one",
+    "range": {
+     "content": "Missing One"
+    },
+    "song_id": 3544373,
+    "url": "https://genius.com/13933543/Jameson-rodgers-missing-one/Missing-one",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3544373",
+     "client_timestamps": {
+      "updated_by_human_at": 1632201483,
+      "lyrics_updated_at": 1562638332
+     },
+     "context": "Jameson Rodgers",
+     "id": 3544373,
+     "image_url": "https://images.genius.com/d2cbe4621a0e0cd169570ec7c83223a6.1000x1000x1.jpg",
+     "link_title": "Missing One by\u00a0Jameson\u00a0Rodgers",
+     "title": "Missing One",
+     "type": "Song",
+     "url": "https://genius.com/Jameson-rodgers-missing-one-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13933543",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13933543,
+      "pinned": false,
+      "share_url": "https://genius.com/13933543",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13933543/Jameson-rodgers-missing-one/Missing-one",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5446597",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3e3e4e09d3b1827055a9dcc35685acf7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3e3e4e09d3b1827055a9dcc35685acf7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3e3e4e09d3b1827055a9dcc35685acf7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3e3e4e09d3b1827055a9dcc35685acf7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/3e3e4e09d3b1827055a9dcc35685acf7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5446597,
+         "iq": 25249,
+         "login": "daniellehaines",
+         "name": "daniellehaines",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daniellehaines",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=o3AGB436aCA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/389048",
+     "header_image_url": "https://images.genius.com/851470f6ad5336b4064f75fb4fb2f6f5.1000x512x1.jpg",
+     "id": 389048,
+     "image_url": "https://images.genius.com/8b288dccd167d33260c0e27e866f5099.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Farren",
+     "url": "https://genius.com/artists/Chris-farren"
+    },
+    {
+     "api_path": "/artists/440254",
+     "header_image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+     "id": 440254,
+     "image_url": "https://images.genius.com/d8f2a2f9adcf0630a069813a2581bc2c.387x387x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mickey Jack Cones",
+     "url": "https://genius.com/artists/Mickey-jack-cones"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1114516",
+     "header_image_url": "https://images.genius.com/cea36b738a0aebcbb950929a2487a875.300x300x1.png",
+     "id": 1114516,
+     "image_url": "https://images.genius.com/cea36b738a0aebcbb950929a2487a875.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Smith Ahnquist",
+     "url": "https://genius.com/artists/Smith-ahnquist"
+    },
+    {
+     "api_path": "/artists/1172738",
+     "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+     "id": 1172738,
+     "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jameson Rodgers",
+     "url": "https://genius.com/artists/Jameson-rodgers",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1078430",
+     "header_image_url": "https://images.genius.com/0fa88bc77cc313ef18e9bf6360523566.959x958x1.jpg",
+     "id": 1078430,
+     "image_url": "https://images.genius.com/371176a247eb360101de4d7fdb0d7c9d.958x958x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hunter Phelps",
+     "url": "https://genius.com/artists/Hunter-phelps"
+    }
+   ],
+   "artist": "Jameson Rodgers",
+   "lyrics": "7 ContributorsMissing One Lyrics[Verse 1]\nI had every Eagles record\nCenter console in a stack\nWhen we split up, she still had Desperado\nAnd I never asked for it back\nSo I'm missing one\n\n[Verse 2]\nShe's the reason that I quit 'em\nYeah she was always on my ass\nBut she ain't here to check my jacket pocket\nSo I bought a brand new pack\nNow it's missing one\nOh yeah I'm missing one\n[Chorus]\nI hate the way it hurts like hell\nI wanna want somebody else\nGirls in here can't help tonight\nCause I'm missing one\n\n[Verse 3]\nIt used to race like Kentucky\nAnd it'd go crazy in her arms\nSkipping beats sending thunder through these veins\nBack when I had a heart\nNow I'm missing one\nOh yeah I'm missing one\n\n[Chorus]\nI hate the way it hurts like hell\nI wanna want somebody else\nGirls in here can't help tonight\nCause I'm missing one, yeah\n\n[Bridge]\nYeah I'm missing one, missing one, missing one\nYeah I'm missing one, missing one, missing one\nOh I'm missing one, missing one, missing one\n\n[Chorus]\nI hate the way it hurts like hell\nI wanna want somebody else\nGirls in here can't help tonight\nCause I'm missing one\nOh I'm missing one, yeah\nOh I'm missing one, missing one, missing oneYou might also likeEmbed"
+  }
+ ]
+}

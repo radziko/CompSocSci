@@ -1,0 +1,2438 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/153163",
+ "description": {
+  "plain": "David Kushner (born September 6, 2000) is an artist from Chicago, Illinois."
+ },
+ "facebook_name": null,
+ "followers_count": 10,
+ "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+ "id": 153163,
+ "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+ "instagram_name": "david.kushner",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "David Kushner",
+ "translation_artist": false,
+ "twitter_name": "davidkushner_",
+ "url": "https://genius.com/artists/David-kushner",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 20438444,
+  "annotator_login": "nofaithinmyfuture",
+  "api_path": "/referents/7009243",
+  "classification": "unreviewed",
+  "fragment": "David Kushner",
+  "id": 7009243,
+  "is_description": true,
+  "path": "/7009243/David-kushner/David-kushner",
+  "range": {
+   "content": "David Kushner"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7009243/David-kushner/David-kushner",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/153163",
+   "context": null,
+   "id": 153163,
+   "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+   "link_title": "David Kushner",
+   "title": "David Kushner",
+   "type": "Artist",
+   "url": "https://genius.com/artists/David-kushner"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7009243",
+    "body": {
+     "plain": "David Kushner (born September 6, 2000) is an artist from Chicago, Illinois."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7009243,
+    "pinned": false,
+    "share_url": "https://genius.com/7009243",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7009243/David-kushner/David-kushner",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/20438444",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7b28f2d664b520c94889052fa8c8d03d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7b28f2d664b520c94889052fa8c8d03d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7b28f2d664b520c94889052fa8c8d03d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7b28f2d664b520c94889052fa8c8d03d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/7b28f2d664b520c94889052fa8c8d03d",
+       "human_readable_role_for_display": null,
+       "id": 20438444,
+       "iq": 110,
+       "login": "nofaithinmyfuture",
+       "name": "nofaithinmyfuture",
+       "role_for_display": null,
+       "url": "https://genius.com/nofaithinmyfuture",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/8762378",
+   "artist_names": "David Kushner",
+   "full_title": "Daylight by\u00a0David\u00a0Kushner",
+   "header_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+   "id": 8762378,
+   "language": "en",
+   "lyrics_owner_id": 5748418,
+   "lyrics_state": "complete",
+   "path": "/David-kushner-daylight-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/David-kushner-daylight-sample",
+   "release_date_components": {
+    "year": 2023,
+    "month": 4,
+    "day": 14
+   },
+   "release_date_for_display": "April 14, 2023",
+   "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+   "song_art_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 2,
+    "unreviewed_annotations": 8,
+    "verified_annotations": 0,
+    "concurrents": 4,
+    "hot": false,
+    "pageviews": 335217
+   },
+   "title": "Daylight",
+   "title_with_featured": "Daylight",
+   "url": "https://genius.com/David-kushner-daylight-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/153163",
+    "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+    "id": 153163,
+    "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "David Kushner",
+    "url": "https://genius.com/artists/David-kushner"
+   },
+   "apple_music_id": "1680069454",
+   "apple_music_player_url": "https://genius.com/songs/8762378/apple_music_player",
+   "description": {
+    "plain": "On April 14, 2023, David Kushner unveiled his eagerly anticipated single, \u201cDaylight.\u201d In the pensive ballad, the singer-songwriter reflects on the paradox of desires that may be harmful to ourselves. In an interview with Paper Magazine, Kushner explains this concept:\n\nWith my song \u201cDaylight,\u201d I aim to convey the paradoxical desire for something that is simultaneously harmful to oneself, using elements of light and darkness. The lyrics, \u201cOh, I love it and I hate it at the same time/You and I drink the poison from the same vine,\u201d encapsulate this concept.\n\nAlso, the story is based on biblical references that inspired Kushner as a child:\n\nI would want to do things that would lead to darkness but also want to be in the light. Those are real things. We all go through darkness and we all have brighter moments, too. [This song] speaks from my own life experiences. To me, it\u2019s a realization of my own desires and the complexity of those desires. The desire for light, but always running towards the darkness instead of light.\n\nThe accompanying music video \u2014 directed by Luke Shaw and Landon Juern \u2014 captures a woodland church where fire, water, air, and ash find Kushner pensive and soulful."
+   },
+   "embed_content": "<div id='rg_embed_link_8762378' class='rg_embed_link' data-song-id='8762378'>Read <a href='https://genius.com/David-kushner-daylight-lyrics'>\u201cDaylight\u201d by David\u00a0Kushner</a> on Genius</div> <script crossorigin src='//genius.com/songs/8762378/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2023-04-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/1024599",
+    "cover_art_url": "https://assets.genius.com/images/default_cover_art.png?1682450960",
+    "full_title": "DK2* by David Kushner",
+    "id": 1024599,
+    "name": "DK2*",
+    "release_date_for_display": "2024",
+    "url": "https://genius.com/albums/David-kushner/Dk2",
+    "artist": {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/3503859",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3503859,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Miserable Music Group",
+       "url": "https://genius.com/artists/Miserable-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/133664",
+       "header_image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+       "id": 133664,
+       "image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rob Kirwan",
+       "url": "https://genius.com/artists/Rob-kirwan"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/133664",
+       "header_image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+       "id": 133664,
+       "image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rob Kirwan",
+       "url": "https://genius.com/artists/Rob-kirwan"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/3503860",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3503860,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rick Hornby",
+       "url": "https://genius.com/artists/Rick-hornby"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1757702",
+       "header_image_url": "https://images.genius.com/690bb18c1443b0b4722be3f8cd12aad2.1000x210x1.jpg",
+       "id": 1757702,
+       "image_url": "https://images.genius.com/16ddf98afa8ebdfd3f46dd30d01257c1.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hayd",
+       "url": "https://genius.com/artists/Hayd"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/335088",
+       "header_image_url": "https://images.genius.com/35eeedb5d93950b1421ba7ed028e4241.500x500x1.jpg",
+       "id": 335088,
+       "image_url": "https://images.genius.com/35eeedb5d93950b1421ba7ed028e4241.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacob \u201cBiz\u201d Morris",
+       "url": "https://genius.com/artists/Jacob-biz-morris"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/335088",
+       "header_image_url": "https://images.genius.com/35eeedb5d93950b1421ba7ed028e4241.500x500x1.jpg",
+       "id": 335088,
+       "image_url": "https://images.genius.com/35eeedb5d93950b1421ba7ed028e4241.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacob \u201cBiz\u201d Morris",
+       "url": "https://genius.com/artists/Jacob-biz-morris"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/153163",
+       "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+       "id": 153163,
+       "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Kushner",
+       "url": "https://genius.com/artists/David-kushner"
+      },
+      {
+       "api_path": "/artists/3503859",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3503859,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Miserable Music Group",
+       "url": "https://genius.com/artists/Miserable-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/153163",
+       "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+       "id": 153163,
+       "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Kushner",
+       "url": "https://genius.com/artists/David-kushner"
+      },
+      {
+       "api_path": "/artists/3503859",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3503859,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Miserable Music Group",
+       "url": "https://genius.com/artists/Miserable-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 20436284,
+    "annotator_login": "MiglKotrynaKusait",
+    "api_path": "/referents/27644311",
+    "classification": "accepted",
+    "fragment": "Daylight",
+    "id": 27644311,
+    "is_description": true,
+    "path": "/27644311/David-kushner-daylight/Daylight",
+    "range": {
+     "content": "Daylight"
+    },
+    "song_id": 8762378,
+    "url": "https://genius.com/27644311/David-kushner-daylight/Daylight",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8762378",
+     "client_timestamps": {
+      "updated_by_human_at": 1682357614,
+      "lyrics_updated_at": 1682357614
+     },
+     "context": "David Kushner",
+     "id": 8762378,
+     "image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+     "link_title": "Daylight by\u00a0David\u00a0Kushner",
+     "title": "Daylight",
+     "type": "Song",
+     "url": "https://genius.com/David-kushner-daylight-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/27644311",
+      "body": {
+       "plain": "On April 14, 2023, David Kushner unveiled his eagerly anticipated single, \u201cDaylight.\u201d In the pensive ballad, the singer-songwriter reflects on the paradox of desires that may be harmful to ourselves. In an interview with Paper Magazine, Kushner explains this concept:\n\nWith my song \u201cDaylight,\u201d I aim to convey the paradoxical desire for something that is simultaneously harmful to oneself, using elements of light and darkness. The lyrics, \u201cOh, I love it and I hate it at the same time/You and I drink the poison from the same vine,\u201d encapsulate this concept.\n\nAlso, the story is based on biblical references that inspired Kushner as a child:\n\nI would want to do things that would lead to darkness but also want to be in the light. Those are real things. We all go through darkness and we all have brighter moments, too. [This song] speaks from my own life experiences. To me, it\u2019s a realization of my own desires and the complexity of those desires. The desire for light, but always running towards the darkness instead of light.\n\nThe accompanying music video \u2014 directed by Luke Shaw and Landon Juern \u2014 captures a woodland church where fire, water, air, and ash find Kushner pensive and soulful."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 27644311,
+      "pinned": false,
+      "share_url": "https://genius.com/27644311",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/27644311/David-kushner-daylight/Daylight",
+      "verified": false,
+      "votes_total": 10,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.748768472906404,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6552113",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c26c1217080d70e190f43763c48eaa8e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c26c1217080d70e190f43763c48eaa8e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c26c1217080d70e190f43763c48eaa8e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c26c1217080d70e190f43763c48eaa8e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427079e280ba2eef1f1d5d25433622b7.480x160x15.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6552113,
+         "iq": 121006,
+         "login": "laylaaaaa",
+         "name": "\u200blaylaaaaa",
+         "role_for_display": "editor",
+         "url": "https://genius.com/laylaaaaa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.25123152709359603,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/20436284",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 20436284,
+         "iq": 26,
+         "login": "MiglKotrynaKusait",
+         "name": "MiglKotrynaKusait",
+         "role_for_display": null,
+         "url": "https://genius.com/MiglKotrynaKusait",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/6552113",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c26c1217080d70e190f43763c48eaa8e",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c26c1217080d70e190f43763c48eaa8e",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c26c1217080d70e190f43763c48eaa8e",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c26c1217080d70e190f43763c48eaa8e",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/427079e280ba2eef1f1d5d25433622b7.480x160x15.gif",
+    "human_readable_role_for_display": "Editor",
+    "id": 6552113,
+    "iq": 121006,
+    "login": "laylaaaaa",
+    "name": "\u200blaylaaaaa",
+    "role_for_display": "editor",
+    "url": "https://genius.com/laylaaaaa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7770942",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/777085736e6f584279ba269687f004ef.1000x326x1.png",
+    "human_readable_role_for_display": "Staff",
+    "id": 7770942,
+    "iq": 181293,
+    "login": "benkeller14",
+    "name": "\u200bbenkeller14",
+    "role_for_display": "staff",
+    "url": "https://genius.com/benkeller14",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=MoN9ql6Yymw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/133664",
+     "header_image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+     "id": 133664,
+     "image_url": "https://images.genius.com/dbffb32e4df40a82b7750fcdd9af3040.246x246x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rob Kirwan",
+     "url": "https://genius.com/artists/Rob-kirwan"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": "https://genius.com/David-kushner-daylight-sample/translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9019364",
+       "artist_names": "Genius \u6b4c\u8a5e\u548c\u8a33 (Japanese Translations)",
+       "full_title": "David Kushner - Daylight (\u6b4c\u8a5e\u548c\u8a33) by\u00a0Genius\u00a0\u6b4c\u8a5e\u548c\u8a33 (Japanese Translations)",
+       "header_image_thumbnail_url": "https://images.genius.com/0c6af29f8d708d1a8ee25f51b86847e3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0c6af29f8d708d1a8ee25f51b86847e3.544x544x1.jpg",
+       "id": 9019364,
+       "language": "ja",
+       "lyrics_owner_id": 3489629,
+       "lyrics_state": "complete",
+       "path": "/Genius-japanese-translations-david-kushner-daylight-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-japanese-translations-david-kushner-daylight-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+       },
+       "release_date_for_display": "April 14, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0c6af29f8d708d1a8ee25f51b86847e3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0c6af29f8d708d1a8ee25f51b86847e3.544x544x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Daylight (\u6b4c\u8a5e\u548c\u8a33)",
+       "title_with_featured": "David Kushner - Daylight (\u6b4c\u8a5e\u548c\u8a33)",
+       "url": "https://genius.com/Genius-japanese-translations-david-kushner-daylight-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1825793",
+        "header_image_url": "https://images.genius.com/b36d1dfe3145ceb6195a69579cf31826.1000x500x1.png",
+        "id": 1825793,
+        "image_url": "https://images.genius.com/eedc19f38dba3cc3a1bfa0ec25923c56.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius \u6b4c\u8a5e\u548c\u8a33 (Japanese Translations)",
+        "url": "https://genius.com/artists/Genius-japanese-translations"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9016001",
+       "artist_names": "Genius Deutsche \u00dcbersetzungen",
+       "full_title": "David Kushner - Daylight (Deutsche \u00dcbersetzung) by\u00a0Genius\u00a0Deutsche \u00dcbersetzungen",
+       "header_image_thumbnail_url": "https://images.genius.com/295128b63e2e9a58a2594b0a958e5cf1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/295128b63e2e9a58a2594b0a958e5cf1.1000x1000x1.jpg",
+       "id": 9016001,
+       "language": "de",
+       "lyrics_owner_id": 2490946,
+       "lyrics_state": "complete",
+       "path": "/Genius-deutsche-ubersetzungen-david-kushner-daylight-deutsche-ubersetzung-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-deutsche-ubersetzungen-david-kushner-daylight-deutsche-ubersetzung-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+       },
+       "release_date_for_display": "April 14, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/295128b63e2e9a58a2594b0a958e5cf1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/295128b63e2e9a58a2594b0a958e5cf1.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 12316
+       },
+       "title": "David Kushner - Daylight (Deutsche \u00dcbersetzung)",
+       "title_with_featured": "David Kushner - Daylight (Deutsche \u00dcbersetzung)",
+       "url": "https://genius.com/Genius-deutsche-ubersetzungen-david-kushner-daylight-deutsche-ubersetzung-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1799569",
+        "header_image_url": "https://images.genius.com/4cd52448d159fcc37e7837b512feab9d.1000x250x1.jpg",
+        "id": 1799569,
+        "image_url": "https://images.genius.com/5be402ac22b96f4f06c534baa7efa626.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Deutsche \u00dcbersetzungen",
+        "url": "https://genius.com/artists/Genius-deutsche-ubersetzungen"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9023179",
+       "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+       "full_title": "David Kushner - Daylight (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+       "header_image_thumbnail_url": "https://images.genius.com/1f00ba7a99480a9c003047c4be7e4435.300x300x1.png",
+       "header_image_url": "https://images.genius.com/1f00ba7a99480a9c003047c4be7e4435.1000x1000x1.png",
+       "id": 9023179,
+       "language": "pt",
+       "lyrics_owner_id": 18227249,
+       "lyrics_state": "complete",
+       "path": "/Genius-brasil-traducoes-david-kushner-daylight-traducao-em-portugues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-david-kushner-daylight-traducao-em-portugues-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+       },
+       "release_date_for_display": "April 14, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1f00ba7a99480a9c003047c4be7e4435.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/1f00ba7a99480a9c003047c4be7e4435.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Daylight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "title_with_featured": "David Kushner - Daylight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-daylight-traducao-em-portugues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/210448",
+        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+        "id": 210448,
+        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9024775",
+       "artist_names": "Genius Traductions fran\u00e7aises",
+       "full_title": "David Kushner - Daylight (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+       "header_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+       "id": 9024775,
+       "language": "fr",
+       "lyrics_owner_id": 20459450,
+       "lyrics_state": "complete",
+       "path": "/Genius-traductions-francaises-david-kushner-daylight-traduction-francaise-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-traductions-francaises-david-kushner-daylight-traduction-francaise-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+       },
+       "release_date_for_display": "April 14, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Daylight (Traduction Fran\u00e7aise)",
+       "title_with_featured": "David Kushner - Daylight (Traduction Fran\u00e7aise)",
+       "url": "https://genius.com/Genius-traductions-francaises-david-kushner-daylight-traduction-francaise-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/140856",
+        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+        "id": 140856,
+        "image_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.637x637x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Traductions fran\u00e7aises",
+        "url": "https://genius.com/artists/Genius-traductions-francaises"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9032873",
+       "artist_names": "Genius magyar ford\u00edt\u00e1sok",
+       "full_title": "David Kushner - Daylight (magyar dalsz\u00f6veg) by\u00a0Genius\u00a0magyar ford\u00edt\u00e1sok",
+       "header_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+       "id": 9032873,
+       "language": "hu",
+       "lyrics_owner_id": 20449032,
+       "lyrics_state": "complete",
+       "path": "/Genius-magyar-forditasok-david-kushner-daylight-magyar-dalszoveg-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-magyar-forditasok-david-kushner-daylight-magyar-dalszoveg-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 4,
+        "day": 14
+       },
+       "release_date_for_display": "April 14, 2023",
+       "release_date_with_abbreviated_month_for_display": "Apr. 14, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/595e05a0f6791d1ef82feafec76498c0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Daylight (magyar dalsz\u00f6veg)",
+       "title_with_featured": "David Kushner - Daylight (magyar dalsz\u00f6veg)",
+       "url": "https://genius.com/Genius-magyar-forditasok-david-kushner-daylight-magyar-dalszoveg-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2426702",
+        "header_image_url": "https://images.genius.com/4ce749ac28163965a417709271ffce28.220x220x1.png",
+        "id": 2426702,
+        "image_url": "https://images.genius.com/990485b00518fe7052c0d527e45cb3c8.220x220x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius magyar ford\u00edt\u00e1sok",
+        "url": "https://genius.com/artists/Genius-magyar-forditasok"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/9019364",
+     "id": 9019364,
+     "language": "ja",
+     "lyrics_state": "complete",
+     "path": "/Genius-japanese-translations-david-kushner-daylight-lyrics",
+     "title": "David Kushner - Daylight (\u6b4c\u8a5e\u548c\u8a33)",
+     "url": "https://genius.com/Genius-japanese-translations-david-kushner-daylight-lyrics"
+    },
+    {
+     "api_path": "/songs/9016001",
+     "id": 9016001,
+     "language": "de",
+     "lyrics_state": "complete",
+     "path": "/Genius-deutsche-ubersetzungen-david-kushner-daylight-deutsche-ubersetzung-lyrics",
+     "title": "David Kushner - Daylight (Deutsche \u00dcbersetzung)",
+     "url": "https://genius.com/Genius-deutsche-ubersetzungen-david-kushner-daylight-deutsche-ubersetzung-lyrics"
+    },
+    {
+     "api_path": "/songs/9023179",
+     "id": 9023179,
+     "language": "pt",
+     "lyrics_state": "complete",
+     "path": "/Genius-brasil-traducoes-david-kushner-daylight-traducao-em-portugues-lyrics",
+     "title": "David Kushner - Daylight (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+     "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-daylight-traducao-em-portugues-lyrics"
+    },
+    {
+     "api_path": "/songs/9024775",
+     "id": 9024775,
+     "language": "fr",
+     "lyrics_state": "complete",
+     "path": "/Genius-traductions-francaises-david-kushner-daylight-traduction-francaise-lyrics",
+     "title": "David Kushner - Daylight (Traduction Fran\u00e7aise)",
+     "url": "https://genius.com/Genius-traductions-francaises-david-kushner-daylight-traduction-francaise-lyrics"
+    },
+    {
+     "api_path": "/songs/9032873",
+     "id": 9032873,
+     "language": "hu",
+     "lyrics_state": "complete",
+     "path": "/Genius-magyar-forditasok-david-kushner-daylight-magyar-dalszoveg-lyrics",
+     "title": "David Kushner - Daylight (magyar dalsz\u00f6veg)",
+     "url": "https://genius.com/Genius-magyar-forditasok-david-kushner-daylight-magyar-dalszoveg-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    },
+    {
+     "api_path": "/artists/1757702",
+     "header_image_url": "https://images.genius.com/690bb18c1443b0b4722be3f8cd12aad2.1000x210x1.jpg",
+     "id": 1757702,
+     "image_url": "https://images.genius.com/16ddf98afa8ebdfd3f46dd30d01257c1.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hayd",
+     "url": "https://genius.com/artists/Hayd"
+    },
+    {
+     "api_path": "/artists/1236501",
+     "header_image_url": "https://images.genius.com/14470f0163ed5358330fa499cce5c9ac.960x355x1.jpg",
+     "id": 1236501,
+     "image_url": "https://images.genius.com/b0291b055d49fca2dbed706b260b55b0.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sarcastic Sounds",
+     "url": "https://genius.com/artists/Sarcastic-sounds"
+    },
+    {
+     "api_path": "/artists/1329162",
+     "header_image_url": "https://images.genius.com/056a1ccd425e6f6601884cffb6d8dd40.1000x1000x1.jpg",
+     "id": 1329162,
+     "image_url": "https://images.genius.com/056a1ccd425e6f6601884cffb6d8dd40.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Bruce Williams",
+     "url": "https://genius.com/artists/Josh-bruce-williams"
+    }
+   ],
+   "artist": "David Kushner",
+   "lyrics": "24 ContributorsTranslations\u65e5\u672c\u8a9eDeutschPortugu\u00easFran\u00e7aisMagyarDaylight Lyrics[Verse 1]\nTelling myself I won't go there\nOh, but I know that I won't care\nTryna wash away all the blood I've spilt\nThis lust is a burden that we both share\nTwo sinners can't atone from a lone prayer\nSouls tied, intertwined by pride and guilt\n\n[Pre-Chorus]\n(Ooh) There's darkness in the distance\nFrom the way that I've been livin'\n(Ooh) But I know I can't resist it\n[Chorus]\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from th\u0435 daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hat\u0435 it at the same time\n\n[Verse 2]\nTellin' myself it's the last time\nCan you spare any mercy that you might find\nIf I'm down on my knees again?\nDeep down, way down, Lord, I try\nTry to follow your light, but it's nighttime\nPlease don't leave me in the end\n\n[Pre-Chorus]\n(Ooh) There's darkness in the distance\nI'm beggin' for forgiveness\n(Ooh) But I know I might resist it, oh\n\n[Chorus]\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from the daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hate it at the same time\nOh, I love it and I hate it at the same time\nYou and I drink the poison from the same vine\nOh, I love it and I hate it at the same time\nHidin' all of our sins from the daylight\nFrom the daylight, runnin' from the daylight\nFrom the daylight, runnin' from the daylight\nOh, I love it and I hate it at the same timeYou might also like1Embed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/7479486",
+   "artist_names": "David Kushner",
+   "full_title": "Mr. Forgettable by\u00a0David\u00a0Kushner",
+   "header_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+   "header_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+   "id": 7479486,
+   "language": "en",
+   "lyrics_owner_id": 6938643,
+   "lyrics_state": "complete",
+   "path": "/David-kushner-mr-forgettable-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/David-kushner-mr-forgettable-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 3,
+    "day": 4
+   },
+   "release_date_for_display": "March 4, 2022",
+   "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 2,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 74706
+   },
+   "title": "Mr. Forgettable",
+   "title_with_featured": "Mr. Forgettable",
+   "url": "https://genius.com/David-kushner-mr-forgettable-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/153163",
+    "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+    "id": 153163,
+    "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "David Kushner",
+    "url": "https://genius.com/artists/David-kushner"
+   },
+   "apple_music_id": "1610640448",
+   "apple_music_player_url": "https://genius.com/songs/7479486/apple_music_player",
+   "description": {
+    "plain": "According to David Kushner, the song is written from the perspective of a grandfather with Alzheimer\u2019s. Kushner has also stated that he took inspiration for the song from the passing of his uncle\u2019s late father-in-law.\n\nKushner shared the first snippet of the \u201cMr. Forgettable\u201d back in November of 2021 which led to it going viral on TikTok and people wanting him to release the full song."
+   },
+   "embed_content": "<div id='rg_embed_link_7479486' class='rg_embed_link' data-song-id='7479486'>Read <a href='https://genius.com/David-kushner-mr-forgettable-lyrics'>\u201cMr. Forgettable\u201d by David\u00a0Kushner</a> on Genius</div> <script crossorigin src='//genius.com/songs/7479486/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-03-04",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/943098",
+    "cover_art_url": "https://images.genius.com/c67b1022c200fba4cafb2b9089e05903.1000x1000x1.png",
+    "full_title": "Footprints I Found by David Kushner",
+    "id": 943098,
+    "name": "Footprints I Found",
+    "release_date_for_display": "September 16, 2022",
+    "url": "https://genius.com/albums/David-kushner/Footprints-i-found",
+    "artist": {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Other",
+     "artists": [
+      {
+       "api_path": "/artists/3082461",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3082461,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeremy Karelis",
+       "url": "https://genius.com/artists/Jeremy-karelis"
+      },
+      {
+       "api_path": "/artists/3082460",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3082460,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jack Steindorf",
+       "url": "https://genius.com/artists/Jack-steindorf"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1875982",
+       "header_image_url": "https://images.genius.com/528279d78ddef4958b08e5a65ee18dd6.937x937x1.jpg",
+       "id": 1875982,
+       "image_url": "https://images.genius.com/528279d78ddef4958b08e5a65ee18dd6.937x937x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Yianni AP",
+       "url": "https://genius.com/artists/Yianni-ap"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/153163",
+       "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+       "id": 153163,
+       "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Kushner",
+       "url": "https://genius.com/artists/David-kushner"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6938643,
+    "annotator_login": "NvrLvcky",
+    "api_path": "/referents/24619525",
+    "classification": "accepted",
+    "fragment": "Mr. Forgettable",
+    "id": 24619525,
+    "is_description": true,
+    "path": "/24619525/David-kushner-mr-forgettable/Mr-forgettable",
+    "range": {
+     "content": "Mr. Forgettable"
+    },
+    "song_id": 7479486,
+    "url": "https://genius.com/24619525/David-kushner-mr-forgettable/Mr-forgettable",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7479486",
+     "client_timestamps": {
+      "updated_by_human_at": 1680625802,
+      "lyrics_updated_at": 1678734077
+     },
+     "context": "David Kushner",
+     "id": 7479486,
+     "image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+     "link_title": "Mr. Forgettable by\u00a0David\u00a0Kushner",
+     "title": "Mr. Forgettable",
+     "type": "Song",
+     "url": "https://genius.com/David-kushner-mr-forgettable-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24619525",
+      "body": {
+       "plain": "According to David Kushner, the song is written from the perspective of a grandfather with Alzheimer\u2019s. Kushner has also stated that he took inspiration for the song from the passing of his uncle\u2019s late father-in-law.\n\nKushner shared the first snippet of the \u201cMr. Forgettable\u201d back in November of 2021 which led to it going viral on TikTok and people wanting him to release the full song."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 24619525,
+      "pinned": false,
+      "share_url": "https://genius.com/24619525",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/24619525/David-kushner-mr-forgettable/Mr-forgettable",
+      "verified": false,
+      "votes_total": 34,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6938643",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/20a6b3e71b7a706ff860a1ce4da962ed",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/20a6b3e71b7a706ff860a1ce4da962ed",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/20a6b3e71b7a706ff860a1ce4da962ed",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/20a6b3e71b7a706ff860a1ce4da962ed",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/8afc6e8d03f7805feae147391e59e05f.480x270x214.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 6938643,
+         "iq": 101534,
+         "login": "NvrLvcky",
+         "name": "NvrLvcky",
+         "role_for_display": "editor",
+         "url": "https://genius.com/NvrLvcky",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/6938643",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/20a6b3e71b7a706ff860a1ce4da962ed",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/20a6b3e71b7a706ff860a1ce4da962ed",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/20a6b3e71b7a706ff860a1ce4da962ed",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/20a6b3e71b7a706ff860a1ce4da962ed",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/8afc6e8d03f7805feae147391e59e05f.480x270x214.gif",
+    "human_readable_role_for_display": "Editor",
+    "id": 6938643,
+    "iq": 101534,
+    "login": "NvrLvcky",
+    "name": "NvrLvcky",
+    "role_for_display": "editor",
+    "url": "https://genius.com/NvrLvcky",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7TCncxWNcPU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1759528",
+     "header_image_url": "https://images.genius.com/632c8d1125b65f2248c094c48d18290d.1000x216x1.jpg",
+     "id": 1759528,
+     "image_url": "https://images.genius.com/1b78a91195a0e93ec20bf491eb5aecf6.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Alexander 23",
+     "url": "https://genius.com/artists/Alexander-23",
+     "iq": 1382
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7817507",
+       "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+       "full_title": "David Kushner - Mr. Forgettable (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviri",
+       "header_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+       "id": 7817507,
+       "language": "tr",
+       "lyrics_owner_id": 6988186,
+       "lyrics_state": "complete",
+       "path": "/Genius-turkce-ceviri-david-kushner-mr-forgettable-turkce-ceviri-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-david-kushner-mr-forgettable-turkce-ceviri-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 3
+       },
+       "release_date_for_display": "March 3, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 3, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Mr. Forgettable (T\u00fcrk\u00e7e \u00c7eviri)",
+       "title_with_featured": "David Kushner - Mr. Forgettable (T\u00fcrk\u00e7e \u00c7eviri)",
+       "url": "https://genius.com/Genius-turkce-ceviri-david-kushner-mr-forgettable-turkce-ceviri-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/569121",
+        "header_image_url": "https://images.genius.com/8de14cbfa60a48d10ac52487723f658f.1000x300x1.png",
+        "id": 569121,
+        "image_url": "https://images.genius.com/49f4bc4332283d01689f8fb883ec88e9.302x302x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+        "url": "https://genius.com/artists/Genius-turkce-ceviri"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8984372",
+       "artist_names": "Genius Ukrainian Translations",
+       "full_title": "David Kushner - Mr. Forgettable (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.1000x1000x1.jpg",
+       "id": 8984372,
+       "language": "uk",
+       "lyrics_owner_id": 10351753,
+       "lyrics_state": "complete",
+       "path": "/Genius-ukrainian-translations-david-kushner-mr-forgettable-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-david-kushner-mr-forgettable-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Mr. Forgettable (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+       "title_with_featured": "David Kushner - Mr. Forgettable (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+       "url": "https://genius.com/Genius-ukrainian-translations-david-kushner-mr-forgettable-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1872193",
+        "header_image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+        "id": 1872193,
+        "image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Ukrainian Translations",
+        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9025961",
+       "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+       "full_title": "David Kushner - Mr. Forgettable (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+       "header_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+       "id": 9025961,
+       "language": "pt",
+       "lyrics_owner_id": 16239335,
+       "lyrics_state": "complete",
+       "path": "/Genius-brasil-traducoes-david-kushner-mr-forgettable-traducao-em-portugues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-david-kushner-mr-forgettable-traducao-em-portugues-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 4
+       },
+       "release_date_for_display": "March 4, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9dd29394882845dda9e8e24661a01dca.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Mr. Forgettable (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "title_with_featured": "David Kushner - Mr. Forgettable (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-mr-forgettable-traducao-em-portugues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/210448",
+        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+        "id": 210448,
+        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7817507",
+     "id": 7817507,
+     "language": "tr",
+     "lyrics_state": "complete",
+     "path": "/Genius-turkce-ceviri-david-kushner-mr-forgettable-turkce-ceviri-lyrics",
+     "title": "David Kushner - Mr. Forgettable (T\u00fcrk\u00e7e \u00c7eviri)",
+     "url": "https://genius.com/Genius-turkce-ceviri-david-kushner-mr-forgettable-turkce-ceviri-lyrics"
+    },
+    {
+     "api_path": "/songs/8984372",
+     "id": 8984372,
+     "language": "uk",
+     "lyrics_state": "complete",
+     "path": "/Genius-ukrainian-translations-david-kushner-mr-forgettable-annotated",
+     "title": "David Kushner - Mr. Forgettable (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+     "url": "https://genius.com/Genius-ukrainian-translations-david-kushner-mr-forgettable-annotated"
+    },
+    {
+     "api_path": "/songs/9025961",
+     "id": 9025961,
+     "language": "pt",
+     "lyrics_state": "complete",
+     "path": "/Genius-brasil-traducoes-david-kushner-mr-forgettable-traducao-em-portugues-lyrics",
+     "title": "David Kushner - Mr. Forgettable (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+     "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-mr-forgettable-traducao-em-portugues-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   ],
+   "artist": "David Kushner",
+   "lyrics": "14 ContributorsTranslationsT\u00fcrk\u00e7e\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430Portugu\u00easMr. Forgettable Lyrics[Verse 1]\nI know that you're waiting for me like a dog\nBut have some patience for the part of me that's lost\nThere's been a hundred times\nWhen I don't recognize\nAny of you that love me\nI try to memorize and identify\nBut it's all getting foggy\n\n[Pre-Chorus]\nMy head is in the clouds right now\nJust pray I come around, around\n[Chorus]\nHello, hello, are you lonely?\nI'm sorry, it's just the chemicals\nHello, hello, do you know me?\nI'm called Mr. Forgettable\n\n[Post-Chorus]\n(Oh, oh, oh, oh-oh, oh-oh, oh-oh)\nMr. Forgettable\n(Oh, oh, oh, oh-oh, oh-oh, oh-oh)\nMr. Forgettable\n\n[Verse 2]\nThe old m\u0435 hides while the n\u0435w me fights\nLook in my eyes, he's still in there, right?\nDid the kitchen change?\nWhat about your name?\nYou used to be my heart\nAnd now you're just a face\n\n[Pre-Chorus]\nMy head is in the clouds right now\nJust pray I come around, around (Oh-oh)\n\n[Chorus]\nHello, hello, are you lonely?\nI'm sorry, it's just the chemicals\nHello, hello, do you know me?\nI'm called Mr. Forgettable\nYou might also like[Post-Chorus]\n(Oh, oh, oh, oh-oh, oh-oh, oh-oh)\nMr. Forgettable\n(Oh, oh, oh, oh-oh, oh-oh, oh-oh)\nMr. Forgettable\n(Oh, oh, oh, oh-oh, oh-oh, oh-oh)\nMr. Forgettable (Mr. Forgettable)\n\n[Outro]\nHello, hello, are you lonely?\nI'm sorry, it's just the chemicals\nHello, hello, do you know me?\nThey call me Mr. Forgettable3Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/7480794",
+   "artist_names": "David Kushner",
+   "full_title": "Miserable Man by\u00a0David\u00a0Kushner",
+   "header_image_thumbnail_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.300x300x1.png",
+   "header_image_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.1000x1000x1.png",
+   "id": 7480794,
+   "language": "en",
+   "lyrics_owner_id": 6938643,
+   "lyrics_state": "complete",
+   "path": "/David-kushner-miserable-man-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/David-kushner-miserable-man-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 1,
+    "day": 7
+   },
+   "release_date_for_display": "January 7, 2022",
+   "release_date_with_abbreviated_month_for_display": "Jan. 7, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 13,
+    "iq_earners": 13,
+    "transcribers": 3,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 38359
+   },
+   "title": "Miserable Man",
+   "title_with_featured": "Miserable Man",
+   "url": "https://genius.com/David-kushner-miserable-man-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/153163",
+    "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+    "id": 153163,
+    "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "David Kushner",
+    "url": "https://genius.com/artists/David-kushner"
+   },
+   "apple_music_id": "1600967833",
+   "apple_music_player_url": "https://genius.com/songs/7480794/apple_music_player",
+   "description": {
+    "plain": "The Chorus originally was a trending audio on TikTok and its popularity allowed the artist to complete and release the song.\nThe song itself is about leaving one\u2019s small town to be able to take advantage of a larger urban center for opportunity and stability."
+   },
+   "embed_content": "<div id='rg_embed_link_7480794' class='rg_embed_link' data-song-id='7480794'>Read <a href='https://genius.com/David-kushner-miserable-man-lyrics'>\u201cMiserable Man\u201d by David\u00a0Kushner</a> on Genius</div> <script crossorigin src='//genius.com/songs/7480794/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-01-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/943098",
+    "cover_art_url": "https://images.genius.com/c67b1022c200fba4cafb2b9089e05903.1000x1000x1.png",
+    "full_title": "Footprints I Found by David Kushner",
+    "id": 943098,
+    "name": "Footprints I Found",
+    "release_date_for_display": "September 16, 2022",
+    "url": "https://genius.com/albums/David-kushner/Footprints-i-found",
+    "artist": {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performance Rigths",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Lyricist",
+     "artists": [
+      {
+       "api_path": "/artists/153163",
+       "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+       "id": 153163,
+       "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Kushner",
+       "url": "https://genius.com/artists/David-kushner"
+      }
+     ]
+    },
+    {
+     "label": "Composer",
+     "artists": [
+      {
+       "api_path": "/artists/153163",
+       "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+       "id": 153163,
+       "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Kushner",
+       "url": "https://genius.com/artists/David-kushner"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1716192",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1716192,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Wright",
+       "url": "https://genius.com/artists/Alex-wright"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1639279",
+       "header_image_url": "https://images.genius.com/cc6057c91db61311b9cfeaf994370d6f.1000x333x1.jpg",
+       "id": 1639279,
+       "image_url": "https://images.genius.com/6ffdf18cd89160bfc40f6e82e06f7e05.531x531x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Abe Parker",
+       "url": "https://genius.com/artists/Abe-parker"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 16142829,
+    "annotator_login": "sollyumber",
+    "api_path": "/referents/24622604",
+    "classification": "unreviewed",
+    "fragment": "Miserable Man",
+    "id": 24622604,
+    "is_description": true,
+    "path": "/24622604/David-kushner-miserable-man/Miserable-man",
+    "range": {
+     "content": "Miserable Man"
+    },
+    "song_id": 7480794,
+    "url": "https://genius.com/24622604/David-kushner-miserable-man/Miserable-man",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7480794",
+     "client_timestamps": {
+      "updated_by_human_at": 1681721526,
+      "lyrics_updated_at": 1654907621
+     },
+     "context": "David Kushner",
+     "id": 7480794,
+     "image_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.1000x1000x1.png",
+     "link_title": "Miserable Man by\u00a0David\u00a0Kushner",
+     "title": "Miserable Man",
+     "type": "Song",
+     "url": "https://genius.com/David-kushner-miserable-man-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24622604",
+      "body": {
+       "plain": "The Chorus originally was a trending audio on TikTok and its popularity allowed the artist to complete and release the song.\nThe song itself is about leaving one\u2019s small town to be able to take advantage of a larger urban center for opportunity and stability."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 24622604,
+      "pinned": false,
+      "share_url": "https://genius.com/24622604",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/24622604/David-kushner-miserable-man/Miserable-man",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/16142829",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 16142829,
+         "iq": 59,
+         "login": "sollyumber",
+         "name": "sollyumber",
+         "role_for_display": null,
+         "url": "https://genius.com/sollyumber",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QjrJn1RuTMg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1639279",
+     "header_image_url": "https://images.genius.com/cc6057c91db61311b9cfeaf994370d6f.1000x333x1.jpg",
+     "id": 1639279,
+     "image_url": "https://images.genius.com/6ffdf18cd89160bfc40f6e82e06f7e05.531x531x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Abe Parker",
+     "url": "https://genius.com/artists/Abe-parker"
+    },
+    {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9027031",
+       "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+       "full_title": "David Kushner - Miserable Man (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+       "header_image_thumbnail_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.1000x1000x1.png",
+       "id": 9027031,
+       "language": "pt",
+       "lyrics_owner_id": 16239335,
+       "lyrics_state": "complete",
+       "path": "/Genius-brasil-traducoes-david-kushner-miserable-man-traducao-em-portugues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-david-kushner-miserable-man-traducao-em-portugues-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 1,
+        "day": 7
+       },
+       "release_date_for_display": "January 7, 2022",
+       "release_date_with_abbreviated_month_for_display": "Jan. 7, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/f749e256b77930c8357346f67372c99c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Miserable Man (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "title_with_featured": "David Kushner - Miserable Man (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-miserable-man-traducao-em-portugues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/210448",
+        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+        "id": 210448,
+        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8984553",
+       "artist_names": "Genius Ukrainian Translations",
+       "full_title": "David Kushner - Miserable Man (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434) by\u00a0Genius\u00a0Ukrainian Translations",
+       "header_image_thumbnail_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.1000x1000x1.jpg",
+       "id": 8984553,
+       "language": "uk",
+       "lyrics_owner_id": 10351753,
+       "lyrics_state": "complete",
+       "path": "/Genius-ukrainian-translations-david-kushner-miserable-man-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-ukrainian-translations-david-kushner-miserable-man-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c9b118982e5fa6e7bdea93e6ed070413.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "David Kushner - Miserable Man (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+       "title_with_featured": "David Kushner - Miserable Man (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+       "url": "https://genius.com/Genius-ukrainian-translations-david-kushner-miserable-man-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1872193",
+        "header_image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+        "id": 1872193,
+        "image_url": "https://images.genius.com/f9fbd9444a61bcb22a5ceee2817c4d65.512x512x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Ukrainian Translations",
+        "url": "https://genius.com/artists/Genius-ukrainian-translations"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/9027031",
+     "id": 9027031,
+     "language": "pt",
+     "lyrics_state": "complete",
+     "path": "/Genius-brasil-traducoes-david-kushner-miserable-man-traducao-em-portugues-lyrics",
+     "title": "David Kushner - Miserable Man (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+     "url": "https://genius.com/Genius-brasil-traducoes-david-kushner-miserable-man-traducao-em-portugues-lyrics"
+    },
+    {
+     "api_path": "/songs/8984553",
+     "id": 8984553,
+     "language": "uk",
+     "lyrics_state": "complete",
+     "path": "/Genius-ukrainian-translations-david-kushner-miserable-man-annotated",
+     "title": "David Kushner - Miserable Man (\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434)",
+     "url": "https://genius.com/Genius-ukrainian-translations-david-kushner-miserable-man-annotated"
+    },
+    {
+     "api_path": "/songs/8119264",
+     "id": 8119264,
+     "language": null,
+     "lyrics_state": "incomplete",
+     "path": "/Genius-srpski-prevodi-david-kushner-miserable-man-srpski-prevod-lyrics",
+     "title": "David Kushner - Miserable Man (Srpski Prevod)",
+     "url": "https://genius.com/Genius-srpski-prevodi-david-kushner-miserable-man-srpski-prevod-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/153163",
+     "header_image_url": "https://images.genius.com/96876ed82f83e699f273690d28cc1e3c.1000x333x1.jpg",
+     "id": 153163,
+     "image_url": "https://images.genius.com/2718d781dff7df664282a74559950359.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Kushner",
+     "url": "https://genius.com/artists/David-kushner"
+    }
+   ],
+   "artist": "David Kushner",
+   "lyrics": "13 ContributorsTranslationsPortugu\u00eas\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430David Kushner - Miserable Man (Srpski Prevod)Miserable Man Lyrics[Verse 1]\nLet's pack our stuff now and run away\nWe can't be all we want in this small town\nOur life was rough, so let's make our days\nWhat we want and I'll give you my last name\n\n[Pre-Chorus]\nWe'll take our chances\nAfter all these letdowns\nLet's keep our patience\nUntil ourselves are found\n(Oh-oh-oh, oh)\n[Chorus]\nAll we wanted\nWas a place to feel like home\nThat's why we parted\nFrom our ways to heal our souls\nI'm a small-town miserable man\nThat does what he can\nI'm a small-town miserable man\nThat does what he can\nI'm a miserable man\n\n[Verse 2]\nIt's been some y\u0435ars now and we're okay\nWe hav\u0435 some kids and built our dream house\nWe're eating dinner, so we're sayin' grace\nWithout the light, we wouldn't find our way\n\n[Pre-Chorus]\nHow are we standin'\nFrom misery to this now?\n'Cause we've been stranded\nTo screamin' this out loud\n\n[Chorus]\nAll we wanted\nWas a place to feel like home\nThat's why we parted\nFrom our ways to heal our souls\nI'm a small-town miserable man\nThat does what he can\nI'm a small-town miserable man\nThat does what he can\nMm-mm, I'm a miserable man\nYou might also like[Outro]\n(I'm a miserable man)\n(I'm a miserable man)\n(I'm a miserable man)\nI'm a miserable man1Embed"
+  }
+ ]
+}

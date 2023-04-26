@@ -1,0 +1,2063 @@
+{
+ "alternate_names": [
+  "Matthew \"Blxst\" Burdette",
+  "Blxst Burdette",
+  "Matthew Burdette"
+ ],
+ "api_path": "/artists/1723999",
+ "description": {
+  "plain": "South Central Los Angeles-native Matthew Burdette, better know as the artist Blxst (pronounced \u201cblast\u201d), has made a name for himself by seamlessly mixing rap and R&B on tracks.\n\nLaunching his independent music career in 2015, Blxst achieved a breakout hit with the release of \u201cHurt\u201d in 2019.  His following continued to grow in 2020 with the release of the album No Love Lost featuring tracks such as \u201cOverrated\u201d and \u201cBe Alone.\u201d Blxst has also frequently collaborated with Mozzy and Bino Rideaux, leading to hits such as \u201cI Ain\u2019t Perfect\u201d and \u201cSelfish\u201d respectively."
+ },
+ "facebook_name": null,
+ "followers_count": 56,
+ "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+ "id": 1723999,
+ "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+ "instagram_name": "blxst",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Blxst",
+ "translation_artist": false,
+ "twitter_name": "BLXST",
+ "url": "https://genius.com/artists/Blxst",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6077694,
+  "annotator_login": "veduta",
+  "api_path": "/referents/16455268",
+  "classification": "accepted",
+  "fragment": "Blxst",
+  "id": 16455268,
+  "is_description": true,
+  "path": "/16455268/Blxst/Blxst",
+  "range": {
+   "content": "Blxst"
+  },
+  "song_id": null,
+  "url": "https://genius.com/16455268/Blxst/Blxst",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1723999",
+   "context": null,
+   "id": 1723999,
+   "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+   "link_title": "Blxst",
+   "title": "Blxst",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Blxst"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/16455268",
+    "body": {
+     "plain": "South Central Los Angeles-native Matthew Burdette, better know as the artist Blxst (pronounced \u201cblast\u201d), has made a name for himself by seamlessly mixing rap and R&B on tracks.\n\nLaunching his independent music career in 2015, Blxst achieved a breakout hit with the release of \u201cHurt\u201d in 2019.  His following continued to grow in 2020 with the release of the album No Love Lost featuring tracks such as \u201cOverrated\u201d and \u201cBe Alone.\u201d Blxst has also frequently collaborated with Mozzy and Bino Rideaux, leading to hits such as \u201cI Ain\u2019t Perfect\u201d and \u201cSelfish\u201d respectively."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 16455268,
+    "pinned": false,
+    "share_url": "https://genius.com/16455268",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/16455268/Blxst/Blxst",
+    "verified": false,
+    "votes_total": 24,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6077694",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yza868xytl",
+       "human_readable_role_for_display": "Editor",
+       "id": 6077694,
+       "iq": 112979,
+       "login": "veduta",
+       "name": "veduta",
+       "role_for_display": "editor",
+       "url": "https://genius.com/veduta",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/10806129",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/1bbd822e650307225b4402766fb9b408",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/1bbd822e650307225b4402766fb9b408",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/1bbd822e650307225b4402766fb9b408",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/1bbd822e650307225b4402766fb9b408",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/1bbd822e650307225b4402766fb9b408",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 10806129,
+  "iq": 100,
+  "login": "Blxst",
+  "name": "Blxst",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/Blxst",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/5843456",
+   "artist_names": "Blxst",
+   "full_title": "Overrated by\u00a0Blxst",
+   "header_image_thumbnail_url": "https://images.genius.com/8c470284200eee1ece87e23193c66074.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8c470284200eee1ece87e23193c66074.500x500x1.jpg",
+   "id": 5843456,
+   "language": "en",
+   "lyrics_owner_id": 602117,
+   "lyrics_state": "complete",
+   "path": "/Blxst-overrated-lyrics",
+   "pyongs_count": 8,
+   "relationships_index_url": "https://genius.com/Blxst-overrated-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 8,
+    "day": 7
+   },
+   "release_date_for_display": "August 7, 2020",
+   "release_date_with_abbreviated_month_for_display": "Aug. 7, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/4ec203b95de9fbb5788b2d167cd29946.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/4ec203b95de9fbb5788b2d167cd29946.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 25,
+    "iq_earners": 24,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 58070
+   },
+   "title": "Overrated",
+   "title_with_featured": "Overrated",
+   "url": "https://genius.com/Blxst-overrated-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1723999",
+    "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "id": 1723999,
+    "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Blxst",
+    "url": "https://genius.com/artists/Blxst",
+    "iq": 100
+   },
+   "apple_music_id": "1523329539",
+   "apple_music_player_url": "https://genius.com/songs/5843456/apple_music_player",
+   "description": {
+    "plain": "Overall, this song focuses on loyalty instead of love. Sure, love is an emotion, something one feels for another that is sometimes reciprocated, but loyalty is an action that proves one\u2019s love. This song sums up Blxst\u2019s desire for loyalty, but to not be blinded by the glitz and glamour of his life. That comes along with it. There isn\u2019t even any need for a label, just the reassurance that you are both in it together and that the trust is there. Then you both can take on the world together."
+   },
+   "embed_content": "<div id='rg_embed_link_5843456' class='rg_embed_link' data-song-id='5843456'>Read <a href='https://genius.com/Blxst-overrated-lyrics'>\u201cOverrated\u201d by Blxst</a> on Genius</div> <script crossorigin src='//genius.com/songs/5843456/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-08-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/665082",
+    "cover_art_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+    "full_title": "No Love Lost by Blxst",
+    "id": 665082,
+    "name": "No Love Lost",
+    "release_date_for_display": "September 4, 2020",
+    "url": "https://genius.com/albums/Blxst/No-love-lost",
+    "artist": {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/3408317",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3408317,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EVGLE PUBLISHING LLC",
+       "url": "https://genius.com/artists/Evgle-publishing-llc"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/3067591",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3067591,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "So Goode Music",
+       "url": "https://genius.com/artists/So-goode-music"
+      },
+      {
+       "api_path": "/artists/1222368",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1222368,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Downtown DLJ Songs",
+       "url": "https://genius.com/artists/Downtown-dlj-songs"
+      },
+      {
+       "api_path": "/artists/2235740",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2235740,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Checkman Music",
+       "url": "https://genius.com/artists/Checkman-music"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rigths",
+     "artists": [
+      {
+       "api_path": "/artists/838535",
+       "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+       "id": 838535,
+       "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SESAC",
+       "url": "https://genius.com/artists/Sesac"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/3144743",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3144743,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "MadebyJAMES",
+       "url": "https://genius.com/artists/Madebyjames"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 9806786,
+    "annotator_login": "paigechav",
+    "api_path": "/referents/20526992",
+    "classification": "unreviewed",
+    "fragment": "Overrated",
+    "id": 20526992,
+    "is_description": true,
+    "path": "/20526992/Blxst-overrated/Overrated",
+    "range": {
+     "content": "Overrated"
+    },
+    "song_id": 5843456,
+    "url": "https://genius.com/20526992/Blxst-overrated/Overrated",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5843456",
+     "client_timestamps": {
+      "updated_by_human_at": 1678283600,
+      "lyrics_updated_at": 1673972093
+     },
+     "context": "Blxst",
+     "id": 5843456,
+     "image_url": "https://images.genius.com/4ec203b95de9fbb5788b2d167cd29946.640x640x1.jpg",
+     "link_title": "Overrated by\u00a0Blxst",
+     "title": "Overrated",
+     "type": "Song",
+     "url": "https://genius.com/Blxst-overrated-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20526992",
+      "body": {
+       "plain": "Overall, this song focuses on loyalty instead of love. Sure, love is an emotion, something one feels for another that is sometimes reciprocated, but loyalty is an action that proves one\u2019s love. This song sums up Blxst\u2019s desire for loyalty, but to not be blinded by the glitz and glamour of his life. That comes along with it. There isn\u2019t even any need for a label, just the reassurance that you are both in it together and that the trust is there. Then you both can take on the world together."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 20526992,
+      "pinned": false,
+      "share_url": "https://genius.com/20526992",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/20526992/Blxst-overrated/Overrated",
+      "verified": false,
+      "votes_total": 17,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/9806786",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/abcebc0b99a098832affb75b752f012c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/abcebc0b99a098832affb75b752f012c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/abcebc0b99a098832affb75b752f012c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/abcebc0b99a098832affb75b752f012c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ln5we8fff1a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 9806786,
+         "iq": 498,
+         "login": "paigechav",
+         "name": "paigechav",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/paigechav",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 337142,
+    "login": "worstofalltime",
+    "name": "\u200bworstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "blxst1",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/blxst1/overrated"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DnLx9y7UXp0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/484681",
+       "artist_names": "Donell Jones",
+       "full_title": "This Luv by\u00a0Donell\u00a0Jones",
+       "header_image_thumbnail_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.500x500x1.jpg",
+       "id": 484681,
+       "language": "en",
+       "lyrics_owner_id": 1049552,
+       "lyrics_state": "complete",
+       "path": "/Donell-jones-this-luv-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Donell-jones-this-luv-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 10,
+        "day": 12
+       },
+       "release_date_for_display": "October 12, 1999",
+       "release_date_with_abbreviated_month_for_display": "Oct. 12, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false,
+        "pageviews": 28313
+       },
+       "title": "This Luv",
+       "title_with_featured": "This Luv",
+       "url": "https://genius.com/Donell-jones-this-luv-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3682",
+        "header_image_url": "https://images.genius.com/3317072e1bc7276625a9349c00e08551.615x462x1.jpg",
+        "id": 3682,
+        "image_url": "https://images.genius.com/b1e5fe4aa1a7db87f3eb1447133ed2e4.409x409x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donell Jones",
+        "url": "https://genius.com/artists/Donell-jones"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/484681",
+       "artist_names": "Donell Jones",
+       "full_title": "This Luv by\u00a0Donell\u00a0Jones",
+       "header_image_thumbnail_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.500x500x1.jpg",
+       "id": 484681,
+       "language": "en",
+       "lyrics_owner_id": 1049552,
+       "lyrics_state": "complete",
+       "path": "/Donell-jones-this-luv-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Donell-jones-this-luv-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 10,
+        "day": 12
+       },
+       "release_date_for_display": "October 12, 1999",
+       "release_date_with_abbreviated_month_for_display": "Oct. 12, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d28347838477e65234754ee663e4060c.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false,
+        "pageviews": 28313
+       },
+       "title": "This Luv",
+       "title_with_featured": "This Luv",
+       "url": "https://genius.com/Donell-jones-this-luv-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3682",
+        "header_image_url": "https://images.genius.com/3317072e1bc7276625a9349c00e08551.615x462x1.jpg",
+        "id": 3682,
+        "image_url": "https://images.genius.com/b1e5fe4aa1a7db87f3eb1447133ed2e4.409x409x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donell Jones",
+        "url": "https://genius.com/artists/Donell-jones"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6751697",
+       "artist_names": "C-Easy",
+       "full_title": "Underrated by\u00a0C-Easy",
+       "header_image_thumbnail_url": "https://images.genius.com/88ec64be1d8775e7227d60f99ac04218.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/88ec64be1d8775e7227d60f99ac04218.1000x1000x1.jpg",
+       "id": 6751697,
+       "language": "en",
+       "lyrics_owner_id": 8165378,
+       "lyrics_state": "complete",
+       "path": "/C-easy-underrated-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/C-easy-underrated-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 5,
+        "day": 14
+       },
+       "release_date_for_display": "May 14, 2021",
+       "release_date_with_abbreviated_month_for_display": "May. 14, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/88ec64be1d8775e7227d60f99ac04218.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/88ec64be1d8775e7227d60f99ac04218.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Underrated",
+       "title_with_featured": "Underrated",
+       "url": "https://genius.com/C-easy-underrated-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2074580",
+        "header_image_url": "https://images.genius.com/e32ee34586a2b6c43742046e34b96eaa.480x490x1.jpg",
+        "id": 2074580,
+        "image_url": "https://images.genius.com/110e3063cf096c367b29439d10793ad4.235x235x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "C-Easy",
+        "url": "https://genius.com/artists/C-easy",
+        "iq": 25029
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5975162",
+       "artist_names": "Blxst (Ft. Billy Badnewz)",
+       "full_title": "Overrated (Remix) by\u00a0Blxst (Ft.\u00a0Billy\u00a0Badnewz)",
+       "header_image_thumbnail_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+       "id": 5975162,
+       "language": "en",
+       "lyrics_owner_id": 165293,
+       "lyrics_state": "complete",
+       "path": "/Blxst-overrated-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Blxst-overrated-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 9,
+        "day": 19
+       },
+       "release_date_for_display": "September 19, 2020",
+       "release_date_with_abbreviated_month_for_display": "Sep. 19, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Overrated (Remix)",
+       "title_with_featured": "Overrated (Remix) (Ft.\u00a0Billy\u00a0Badnewz)",
+       "url": "https://genius.com/Blxst-overrated-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/672816",
+         "header_image_url": "https://images.genius.com/d61035475da1eb9159b81990897f7d79.1000x563x1.jpg",
+         "id": 672816,
+         "image_url": "https://images.genius.com/c8d96a8a0941580d10bef1a6d89dce1c.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Billy Badnewz",
+         "url": "https://genius.com/artists/Billy-badnewz",
+         "iq": 2444
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1723999",
+        "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+        "id": 1723999,
+        "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Blxst",
+        "url": "https://genius.com/artists/Blxst",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/3682",
+     "header_image_url": "https://images.genius.com/3317072e1bc7276625a9349c00e08551.615x462x1.jpg",
+     "id": 3682,
+     "image_url": "https://images.genius.com/b1e5fe4aa1a7db87f3eb1447133ed2e4.409x409x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Donell Jones",
+     "url": "https://genius.com/artists/Donell-jones"
+    },
+    {
+     "api_path": "/artists/985365",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 985365,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sheldon Goode",
+     "url": "https://genius.com/artists/Sheldon-goode"
+    }
+   ],
+   "artist": "Blxst",
+   "lyrics": "25 ContributorsOverrated Lyrics[Chorus]\nAyy, you ain't even gotta say it\nWhat\u2019s understood don't need to be complicated, ayy\nYou know\u2005we\u2005good, no reason\u2005to be explainin'\nJust give me loyalty,\u2005\u2019cause love is overrated, yeah, yeah, yeah\nI know you love when we shaded (Sheesh)\nDucked off, they hate it when we isolated, ayy\nYou know we good, no reason to be explainin'\nJust want your loyalty, the love is overrated\n\n[Post-Chorus]\nAre you down to bleed the streets with me?\nOr could you be blinded by all this ice you see?\nI'm willing to give you all this love I got\nBut no relationships involved\nI just need your loyalty, that's all\nDon't need love\n[Chorus]\nYou ain't even gotta say it\nWhat's understood don't need to be complicated, ayy\nYou know we good, no reason to be explainin\u2019\nJust give me loyalty, \u2019cause love is overrated, yeah, yeah, yeah\nI know you love when we shaded (Sweet)\nDucked off, they hate it when we isolated, ayy\nYou know we good, no reason to be explainin'\nJust want your loyalty, the love is overrated, yeah\n\n[Verse]\nYou know I forever lit\nMoney ain\u2019t nothing if you got nobody to share it with\nHeart on my sleeve, but got a problem with wearing it\nTime ain't free, so if you got it then cherish it\nYou know the code, never switch, my love been legit\nYou know I'ma go all out for my (Sheesh)\nAnd if we ever fall out, get a grip, get it right back\nAnd if it's up, let it stick and it\u2019s like that\n\n[Chorus]\nYou ain't even gotta say it\nWhat's understood don't need to be complicated, ayy\nYou know we good, no reason to be explainin'\nJust give me loyalty, 'cause love is overrated, yeah, yeah, yeah\nI know you love when we shaded (Sweet)\nDucked off, they hate it when we isolated, ayy\nYou know we good, no reason to be explainin'\nJust want your loyalty, the love is overrated, yeah\nYou might also like[Post-Chorus]\nAre you down to bleed the streets with me?\nOr could you be blinded by all this ice you see?\nI'm willing to give you all this love I got\nBut no relationships involved\nI just need your loyalty, that's all\nDon't need love8Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/5843477",
+   "artist_names": "Blxst",
+   "full_title": "Be Alone by\u00a0Blxst",
+   "header_image_thumbnail_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+   "id": 5843477,
+   "language": "en",
+   "lyrics_owner_id": 7650027,
+   "lyrics_state": "complete",
+   "path": "/Blxst-be-alone-lyrics",
+   "pyongs_count": 14,
+   "relationships_index_url": "https://genius.com/Blxst-be-alone-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 9,
+    "day": 4
+   },
+   "release_date_for_display": "September 4, 2020",
+   "release_date_with_abbreviated_month_for_display": "Sep. 4, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 35860
+   },
+   "title": "Be Alone",
+   "title_with_featured": "Be Alone",
+   "url": "https://genius.com/Blxst-be-alone-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1723999",
+    "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "id": 1723999,
+    "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Blxst",
+    "url": "https://genius.com/artists/Blxst",
+    "iq": 100
+   },
+   "apple_music_id": "1523329555",
+   "apple_music_player_url": "https://genius.com/songs/5843477/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5843477' class='rg_embed_link' data-song-id='5843477'>Read <a href='https://genius.com/Blxst-be-alone-lyrics'>\u201cBe Alone\u201d by Blxst</a> on Genius</div> <script crossorigin src='//genius.com/songs/5843477/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-09-04",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/665082",
+    "cover_art_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+    "full_title": "No Love Lost by Blxst",
+    "id": 665082,
+    "name": "No Love Lost",
+    "release_date_for_display": "September 4, 2020",
+    "url": "https://genius.com/albums/Blxst/No-love-lost",
+    "artist": {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2280582",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2280582,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bubba Gee Music",
+       "url": "https://genius.com/artists/Bubba-gee-music"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/3408317",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3408317,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EVGLE PUBLISHING LLC",
+       "url": "https://genius.com/artists/Evgle-publishing-llc"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/3246178",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3246178,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hipgnosis Side A",
+       "url": "https://genius.com/artists/Hipgnosis-side-a"
+      },
+      {
+       "api_path": "/artists/2266204",
+       "header_image_url": "https://images.genius.com/be5f54d58a981a2fea834c3576849ca6.563x563x1.png",
+       "id": 2266204,
+       "image_url": "https://images.genius.com/be5f54d58a981a2fea834c3576849ca6.563x563x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hipgnosis Songs",
+       "url": "https://genius.com/artists/Hipgnosis-songs"
+      },
+      {
+       "api_path": "/artists/2267335",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2267335,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kevin Hicks Music",
+       "url": "https://genius.com/artists/Kevin-hicks-music"
+      },
+      {
+       "api_path": "/artists/1223271",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1223271,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Noontime Music",
+       "url": "https://genius.com/artists/Noontime-music"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rigths",
+     "artists": [
+      {
+       "api_path": "/artists/838535",
+       "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+       "id": 838535,
+       "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SESAC",
+       "url": "https://genius.com/artists/Sesac"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/3144743",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3144743,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "MadebyJAMES",
+       "url": "https://genius.com/artists/Madebyjames"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11341951,
+    "annotator_login": "zealotofstockholm",
+    "api_path": "/referents/25943555",
+    "classification": "needs_exegesis",
+    "fragment": "Be Alone",
+    "id": 25943555,
+    "is_description": true,
+    "path": "/25943555/Blxst-be-alone/Be-alone",
+    "range": {
+     "content": "Be Alone"
+    },
+    "song_id": 5843477,
+    "url": "https://genius.com/25943555/Blxst-be-alone/Be-alone",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5843477",
+     "client_timestamps": {
+      "updated_by_human_at": 1678283835,
+      "lyrics_updated_at": 1658069988
+     },
+     "context": "Blxst",
+     "id": 5843477,
+     "image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+     "link_title": "Be Alone by\u00a0Blxst",
+     "title": "Be Alone",
+     "type": "Song",
+     "url": "https://genius.com/Blxst-be-alone-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25943555",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25943555,
+      "pinned": false,
+      "share_url": "https://genius.com/25943555",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25943555/Blxst-be-alone/Be-alone",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11341951",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/67161dc0fcc9518e251e35eea80bf744",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/3dc347f8a13276f95fbe2783ef18e34a.549x309x20.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 11341951,
+         "iq": 76478,
+         "login": "zealotofstockholm",
+         "name": "Zealot of Stockholm",
+         "role_for_display": "editor",
+         "url": "https://genius.com/zealotofstockholm",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 337142,
+    "login": "worstofalltime",
+    "name": "\u200bworstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=UwWfbXQ5Ifg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2408236",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2408236,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Donnie Scantlebury",
+     "url": "https://genius.com/artists/Donnie-scantlebury"
+    },
+    {
+     "api_path": "/artists/2652",
+     "header_image_url": "https://images.genius.com/2365ee7dddffebf59c49946ad87da0b8.318x318x1.jpg",
+     "id": 2652,
+     "image_url": "https://images.genius.com/2365ee7dddffebf59c49946ad87da0b8.318x318x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jazze Pha",
+     "url": "https://genius.com/artists/Jazze-pha"
+    },
+    {
+     "api_path": "/artists/161486",
+     "header_image_url": "https://images.genius.com/e27455062e3bddb264d1f3c43471b9be.350x350x1.jpg",
+     "id": 161486,
+     "image_url": "https://images.genius.com/e27455062e3bddb264d1f3c43471b9be.350x350x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kevin Hicks",
+     "url": "https://genius.com/artists/Kevin-hicks"
+    },
+    {
+     "api_path": "/artists/16145",
+     "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+     "id": 16145,
+     "image_url": "https://images.genius.com/518508111245272074fcf2adf7e92ab2.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnt\u00e1 Austin",
+     "url": "https://genius.com/artists/Johnta-austin"
+    },
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   ],
+   "artist": "Blxst",
+   "lyrics": "11 ContributorsBe Alone Lyrics[Chorus]\n(Shee) You be trippin' on the time we don't spend\nI pull up and gotta slide\u2005once\u2005again\nYou signed up,\u2005said you'd ride to the end,\u2005yeah\nBut you don't wanna be alone\nIf it's something on your\u205fmind\u205flet\u205fme in (Ayy,\u205flet me know)\nI\u205fbe hoping that the vibe never end\nI just hope you know that I understand\nThat you don't wanna be alone\n\n[Verse 1]\nI been on the late night, making sure your plate right\nYou be paranoid hearing sirens again (Shee)\nI been tryna make time, I been movin' statewide\nHope I\u2019m on the safe side, flyin' in the wind, ayy\nYou know I double back, right after running laps\nI thought you wanted a hustler, girl, it come with that\nI need that duck off duffle, I need that humble pack\nAnd I'm tryna put you on to something you ain't never had\n[Chorus]\nYou be trippin' on the time we don't spend\nI pull up and gotta slide once again\nYou signed up, said you'd ride to the end, yeah\nBut you don't wanna be alone\nIf it's something on your mind let me in (Let me know)\nI be hoping that the vibe never end\nI just hope you know that I understand\nThat you don't wanna be alone\n\n[Verse 2]\n'Cause lately I been stingy with the time\nI hate to say you killin' off the vibe\nPlay your position, you the realest on my side\n'Cause you the one I mention on my mind\nYou be pressing on my line, look, I promise I'ma try\nTo get it right, but I got money on my mind\nYou say it ain't always 'bout money all the time, yeah\nBut she don't wanna be alone\n\n[Chorus]\nYou be trippin' on the time we don't spend (Oh)\nI pull up and gotta slide once again (Oh)\nYou signed up, said you'd ride to the end, yeah\nBut you don't wanna be alone\nIf it's something on your mind (Let me know)\nI be hoping that the vibe never end\nI just hope you know that I understand\nThat you don't wanna be alone\nYou might also like[Instrumental Break]\n\n[Chorus]\nYou be trippin' on the time we don't spend\nI pull up and gotta slide once again\nYou signed up, said you'd ride to the end, yeah\nBut you don't wanna be alone\nIf it's something on your mind let me in (Let me know)\nI be hoping that the vibe never end\nI just hope you know that I understand\nThat you don't wanna be alone14Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5843474",
+   "artist_names": "Blxst",
+   "full_title": "No Love Lost by\u00a0Blxst",
+   "header_image_thumbnail_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+   "id": 5843474,
+   "language": "en",
+   "lyrics_owner_id": 7650027,
+   "lyrics_state": "complete",
+   "path": "/Blxst-no-love-lost-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Blxst-no-love-lost-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 9,
+    "day": 4
+   },
+   "release_date_for_display": "September 4, 2020",
+   "release_date_with_abbreviated_month_for_display": "Sep. 4, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 32063
+   },
+   "title": "No Love Lost",
+   "title_with_featured": "No Love Lost",
+   "url": "https://genius.com/Blxst-no-love-lost-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1723999",
+    "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "id": 1723999,
+    "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Blxst",
+    "url": "https://genius.com/artists/Blxst",
+    "iq": 100
+   },
+   "apple_music_id": "1523329293",
+   "apple_music_player_url": "https://genius.com/songs/5843474/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5843474' class='rg_embed_link' data-song-id='5843474'>Read <a href='https://genius.com/Blxst-no-love-lost-lyrics'>\u201cNo Love Lost\u201d by Blxst</a> on Genius</div> <script crossorigin src='//genius.com/songs/5843474/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-09-04",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/665082",
+    "cover_art_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+    "full_title": "No Love Lost by Blxst",
+    "id": 665082,
+    "name": "No Love Lost",
+    "release_date_for_display": "September 4, 2020",
+    "url": "https://genius.com/albums/Blxst/No-love-lost",
+    "artist": {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 602117,
+    "annotator_login": "steelesutton",
+    "api_path": "/referents/20527028",
+    "classification": "needs_exegesis",
+    "fragment": "No Love Lost",
+    "id": 20527028,
+    "is_description": true,
+    "path": "/20527028/Blxst-no-love-lost/No-love-lost",
+    "range": {
+     "content": "No Love Lost"
+    },
+    "song_id": 5843474,
+    "url": "https://genius.com/20527028/Blxst-no-love-lost/No-love-lost",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5843474",
+     "client_timestamps": {
+      "updated_by_human_at": 1672112649,
+      "lyrics_updated_at": 1672112649
+     },
+     "context": "Blxst",
+     "id": 5843474,
+     "image_url": "https://images.genius.com/8a7c94fa735439eb669b3e405f035154.500x500x1.jpg",
+     "link_title": "No Love Lost by\u00a0Blxst",
+     "title": "No Love Lost",
+     "type": "Song",
+     "url": "https://genius.com/Blxst-no-love-lost-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20527028",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20527028,
+      "pinned": false,
+      "share_url": "https://genius.com/20527028",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20527028/Blxst-no-love-lost/No-love-lost",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/602117",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fe7500dd115ba0532dc57254eedd5db2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fe7500dd115ba0532dc57254eedd5db2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fe7500dd115ba0532dc57254eedd5db2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fe7500dd115ba0532dc57254eedd5db2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tgmzx1ty1b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 602117,
+         "iq": 102147,
+         "login": "steelesutton",
+         "name": "steelesutton",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/steelesutton",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 337142,
+    "login": "worstofalltime",
+    "name": "\u200bworstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "blxst1",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/blxst1/no-love-lost"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bmCm-iEqZIM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1723999",
+     "header_image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "id": 1723999,
+     "image_url": "https://images.genius.com/b874b16fc118b2584440ce52fca86b35.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Blxst",
+     "url": "https://genius.com/artists/Blxst",
+     "iq": 100
+    }
+   ],
+   "artist": "Blxst",
+   "lyrics": "11 ContributorsNo Love Lost Lyrics[Chorus]\nIf I go and duck off\nHope you know ain't no love lost\nMight get low\nIf I\u2005don't\u2005take that risk,\u2005I ain't no boss\nI been away\u2005for some time\nBut I know it's still all mine\nGirl, I\u205fstill\u205fain't\u205ftouched my prime\nCan't\u205fjust sit back\u205fand recline\n\n[Post-Chorus]\nAll that time spent alone\n(All that time spent alone)\nI know you miss the vibe we was on\nCan't deny it, so don't\n[Verse]\nYeah-yeah, yeah-yeah, yeah\nSo I'm on ten, two four, eight\nKnow that bag on the way\nLook, I know the streets ain't safe\nI stay dangerous either way\nI been through hell, wish me well\nI know you won't kiss and tell\nI'm not cool with taking Ls\nDo my dirt all by myself\nFell out with friends, I'm like \u201coh well\u201d\nIf you my dog, we D4L\nI try to reach out, I can tell\nThat pride will keep you in your shell\nI understand we fall and fail\nGet that bag and leave that trail\nThey can't feel the pain I've felt\nI just owe shit to myself\n\n[Chorus]\nSo if I go and duck off\nHope you know ain't no love lost\nMight get low\nIf I don't take that risk, I ain't no boss\nI been away for some time\nBut you know you still my slime\nMemories we can rewind\nCan't just sit back and recline\nYou might also like[Post-Chorus]\nAll that time spent alone\n(All that time spent alone)\nI know you miss the vibe we was on\nCan't deny it, so don't2Embed"
+  }
+ ]
+}

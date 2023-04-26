@@ -1,0 +1,1566 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/18319",
+ "description": {
+  "plain": "M-City J.r. is a Detroit-based rapper, and leader of the Yacht Club Social Network music collective."
+ },
+ "facebook_name": "https://www.facebook.com/M-City-Jr-249208397910/",
+ "followers_count": 12,
+ "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+ "id": 18319,
+ "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+ "instagram_name": "mcityjr",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "M City JR",
+ "translation_artist": false,
+ "twitter_name": "AddictedToMyEX",
+ "url": "https://genius.com/artists/M-city-jr",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 552,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 10616,
+  "annotator_login": "DonRummy",
+  "api_path": "/referents/6941687",
+  "classification": "accepted",
+  "fragment": "M City JR",
+  "id": 6941687,
+  "is_description": true,
+  "path": "/6941687/M-city-jr/M-city-jr",
+  "range": {
+   "content": "M City JR"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6941687/M-city-jr/M-city-jr",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/18319",
+   "context": null,
+   "id": 18319,
+   "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+   "link_title": "M City JR",
+   "title": "M City JR",
+   "type": "Artist",
+   "url": "https://genius.com/artists/M-city-jr"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6941687",
+    "body": {
+     "plain": "M-City J.r. is a Detroit-based rapper, and leader of the Yacht Club Social Network music collective."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6941687,
+    "pinned": false,
+    "share_url": "https://genius.com/6941687",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6941687/M-city-jr/M-city-jr",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/10616",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/b43b456f0950c477955c944da596b969",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/b43b456f0950c477955c944da596b969",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/b43b456f0950c477955c944da596b969",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+       "human_readable_role_for_display": "Editor",
+       "id": 10616,
+       "iq": 30056,
+       "login": "DonRummy",
+       "name": "DonRummy",
+       "role_for_display": "editor",
+       "url": "https://genius.com/DonRummy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/83068",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/bfa7280763cd09061d70562ce11e11a1",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/bfa7280763cd09061d70562ce11e11a1",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/bfa7280763cd09061d70562ce11e11a1",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 83068,
+  "iq": 552,
+  "login": "MCITYJR",
+  "name": "M City JR",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/MCITYJR",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 19,
+   "api_path": "/songs/2438189",
+   "artist_names": "M City JR",
+   "full_title": "Addicted to My Ex by\u00a0M\u00a0City JR",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/8c6f7134e9e79f2307aca675d49b660d.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/8c6f7134e9e79f2307aca675d49b660d.1000x1000x1.jpg",
+   "id": 2438189,
+   "language": "en",
+   "lyrics_owner_id": 2782235,
+   "lyrics_state": "complete",
+   "path": "/M-city-jr-addicted-to-my-ex-lyrics",
+   "pyongs_count": 13,
+   "relationships_index_url": "https://genius.com/M-city-jr-addicted-to-my-ex-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 4,
+    "day": 28
+   },
+   "release_date_for_display": "April 28, 2015",
+   "release_date_with_abbreviated_month_for_display": "Apr. 28, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/8c6f7134e9e79f2307aca675d49b660d.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/8c6f7134e9e79f2307aca675d49b660d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 8,
+    "contributors": 57,
+    "iq_earners": 56,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 9,
+    "hot": false,
+    "pageviews": 874588
+   },
+   "title": "Addicted to My Ex",
+   "title_with_featured": "Addicted to My Ex",
+   "url": "https://genius.com/M-city-jr-addicted-to-my-ex-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/18319",
+    "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "id": 18319,
+    "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "M City JR",
+    "url": "https://genius.com/artists/M-city-jr",
+    "iq": 552
+   },
+   "apple_music_id": "1125289497",
+   "apple_music_player_url": "https://genius.com/songs/2438189/apple_music_player",
+   "description": {
+    "plain": "Detroit rapper M-City J.r. has some petty fun at the expense of his former lover in \u201cAddicted To My Ex.\u201d\n\nHe\u2019s not addicted to her in the sense of getting back with her\u2014instead, he\u2019s interested in showing off in front of her for entertainment.\n\nThe song was accompanied by a comedic music video\u2014M-City starts out as an overweight slob, dumped by his girlfriend, and then loses weight, gets money, and comes back to show off with his new girl."
+   },
+   "embed_content": "<div id='rg_embed_link_2438189' class='rg_embed_link' data-song-id='2438189'>Read <a href='https://genius.com/M-city-jr-addicted-to-my-ex-lyrics'>\u201cAddicted to My Ex\u201d by M\u00a0City JR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2438189/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-04-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/325775",
+    "cover_art_url": "https://images.genius.com/1cc86a7adb1d18dadaca0bcf8cb62f4d.1000x1000x1.jpg",
+    "full_title": "Addicted To My Ex by M City JR",
+    "id": 325775,
+    "name": "Addicted To My Ex",
+    "release_date_for_display": "January 15, 2017",
+    "url": "https://genius.com/albums/M-city-jr/Addicted-to-my-ex",
+    "artist": {
+     "api_path": "/artists/18319",
+     "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "id": 18319,
+     "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M City JR",
+     "url": "https://genius.com/artists/M-city-jr",
+     "iq": 552
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10616,
+    "annotator_login": "DonRummy",
+    "api_path": "/referents/8809785",
+    "classification": "accepted",
+    "fragment": "Addicted to My Ex",
+    "id": 8809785,
+    "is_description": true,
+    "path": "/8809785/M-city-jr-addicted-to-my-ex/Addicted-to-my-ex",
+    "range": {
+     "content": "Addicted to My Ex"
+    },
+    "song_id": 2438189,
+    "url": "https://genius.com/8809785/M-city-jr-addicted-to-my-ex/Addicted-to-my-ex",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2438189",
+     "client_timestamps": {
+      "updated_by_human_at": 1668247471,
+      "lyrics_updated_at": 1668247471
+     },
+     "context": "M City JR",
+     "id": 2438189,
+     "image_url": "https://images.rapgenius.com/8c6f7134e9e79f2307aca675d49b660d.1000x1000x1.jpg",
+     "link_title": "Addicted to My Ex by\u00a0M\u00a0City JR",
+     "title": "Addicted to My Ex",
+     "type": "Song",
+     "url": "https://genius.com/M-city-jr-addicted-to-my-ex-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8809785",
+      "body": {
+       "plain": "Detroit rapper M-City J.r. has some petty fun at the expense of his former lover in \u201cAddicted To My Ex.\u201d\n\nHe\u2019s not addicted to her in the sense of getting back with her\u2014instead, he\u2019s interested in showing off in front of her for entertainment.\n\nThe song was accompanied by a comedic music video\u2014M-City starts out as an overweight slob, dumped by his girlfriend, and then loses weight, gets money, and comes back to show off with his new girl."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 8809785,
+      "pinned": false,
+      "share_url": "https://genius.com/8809785",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/8809785/M-city-jr-addicted-to-my-ex/Addicted-to-my-ex",
+      "verified": false,
+      "votes_total": 38,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10616",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/b43b456f0950c477955c944da596b969",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/b43b456f0950c477955c944da596b969",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/b43b456f0950c477955c944da596b969",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+         "human_readable_role_for_display": "Editor",
+         "id": 10616,
+         "iq": 30056,
+         "login": "DonRummy",
+         "name": "DonRummy",
+         "role_for_display": "editor",
+         "url": "https://genius.com/DonRummy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": {
+       "api_path": "/comments/3659885",
+       "body": {
+        "plain": ""
+       },
+       "commentable_id": 8809785,
+       "commentable_type": "Annotation",
+       "created_at": 1460581769,
+       "has_voters": false,
+       "id": 3659885,
+       "pinned_role": null,
+       "votes_total": 0,
+       "anonymous_author": null,
+       "author": {
+        "api_path": "/users/10616",
+        "avatar": {
+         "tiny": {
+          "url": "https://images.rapgenius.com/avatars/tiny/b43b456f0950c477955c944da596b969",
+          "bounding_box": {
+           "width": 16,
+           "height": 16
+          }
+         },
+         "thumb": {
+          "url": "https://images.rapgenius.com/avatars/thumb/b43b456f0950c477955c944da596b969",
+          "bounding_box": {
+           "width": 32,
+           "height": 32
+          }
+         },
+         "small": {
+          "url": "https://images.rapgenius.com/avatars/small/b43b456f0950c477955c944da596b969",
+          "bounding_box": {
+           "width": 100,
+           "height": 100
+          }
+         },
+         "medium": {
+          "url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+          "bounding_box": {
+           "width": 300,
+           "height": 400
+          }
+         }
+        },
+        "header_image_url": "https://images.rapgenius.com/avatars/medium/b43b456f0950c477955c944da596b969",
+        "human_readable_role_for_display": "Editor",
+        "id": 10616,
+        "iq": 30056,
+        "login": "DonRummy",
+        "name": "DonRummy",
+        "role_for_display": "editor",
+        "url": "https://genius.com/DonRummy",
+        "current_user_metadata": {
+         "permissions": [],
+         "excluded_permissions": [
+          "follow"
+         ],
+         "interactions": {
+          "following": false
+         }
+        }
+       },
+       "reason": {
+        "context_url": "https://genius.com/8846441/Genius-how-genius-works/More-on-annotations",
+        "display_character": "M",
+        "handle": "Missing something",
+        "id": 3,
+        "name": "missing-something",
+        "raw_name": "missing something",
+        "requires_body": false,
+        "slug": "missing_something"
+       }
+      },
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=HIj1ehvJYhM"
+    },
+    {
+     "native_uri": "spotify:track:30KcJZaETkOl3kabw7R7D3",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/30KcJZaETkOl3kabw7R7D3"
+    },
+    {
+     "attribution": "coinhandlersmgt",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/coinhandlersmgt/addicted-to-my-ex-dirty"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/658378",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 658378,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Yola Gang",
+     "url": "https://genius.com/artists/Yola-gang"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/83068",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/bfa7280763cd09061d70562ce11e11a1",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/bfa7280763cd09061d70562ce11e11a1",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/bfa7280763cd09061d70562ce11e11a1",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 83068,
+     "iq": 552,
+     "login": "MCITYJR",
+     "name": "M City JR",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/MCITYJR",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/18319",
+      "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+      "id": 18319,
+      "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "M City JR",
+      "url": "https://genius.com/artists/M-city-jr",
+      "iq": 552
+     },
+     "user": {
+      "api_path": "/users/83068",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/bfa7280763cd09061d70562ce11e11a1",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/bfa7280763cd09061d70562ce11e11a1",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/bfa7280763cd09061d70562ce11e11a1",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/bfa7280763cd09061d70562ce11e11a1",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 83068,
+      "iq": 552,
+      "login": "MCITYJR",
+      "name": "M City JR",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/MCITYJR",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/18319",
+     "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "id": 18319,
+     "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M City JR",
+     "url": "https://genius.com/artists/M-city-jr",
+     "iq": 552
+    }
+   ],
+   "artist": "M City JR",
+   "lyrics": "57 ContributorsAddicted to My Ex Lyrics[Production: Yola Gang]\n\n(Yola cop bricks!)\n\n[Hook]\nI'm addicted to flexin' on my old hoes old hoes\nHand me downs, they ain't worth more than my old clothes\nI might fuck her but I keep that on the low low low\nOh I keep that on the low low\nOn the low low\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\nHoes\nFlexin' on my old\nHoes\nI'm addicted to em'\n[Verse 1]\nI... I flex on my ex every time that she text me\nI'm lookin' like hold up (yaaaaaa)\nI know I'm the shit, but she say I ain't shit and my dick is... bitch shut up (yaaaaaa)\nI'm taking my new bitch places I took her she cannot afford\nThen I post it on Instagram stuntin', she tryna ignore it\nYou mad or nah (yaaaaaa)\nI bought a new whip just in spite of that bitch, she be catching the bus\nSeen her, pretend that I'm pickin' her up\nWhen I pulled up, I gave her the finger and skuuurt (yaaaaaa)\nI bought her a gift didn't return it\nI took it right back from her\nI ain't gon' never gon' get back with her unless she suck me like Dracula\nListen I'm telling you\nI, I see her in public and stunt on a bitch\nDo you see this coat?\nWhy, why keep her around if she just gone drown and jump off the boat?\nI lie, I sent her a text and told her I loved her and sent a reply\nSike, she blow up my phone and won't leave me alone so\n(bitch bye yaaaaaa)\n\n[Hook]\nI'm addicted to flexin' on my old hoes old hoes\nHand me downs, they ain't worth more than my old clothes\nI might fuck her but I keep that on the low low (low)\nOh I keep that on the low low\nOn the low low\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\nHoes\nFlexin' on my old\nHoes\nI'm addicted to em'\nYou might also like[Verse 2]\nI, I show up to all of her family events cause her momma still love me (I love you momma)\nAnd she got a new nigga so when I pull up he be looking so jelly\n(I hate that nigga)\nIf I'm really on tip, I might even show up with one of her buddies (I fucked her too)\nAs soon as she come up to hug me, I look and I say, \"Bitch what?\" (yaaaaa)\nShe tell all her friends that I ain't the man bitch, fuck you mean (yaaaaa)\nI know that she want me she peep that my rolie, so fuckin' fleek\nAnd speaking of rolies I left her alone, 'cause she wasted my time\nShe tryna come over and fuck but I cannot see her, I'm legally blind (barely)\nI'm swaggin', listen, Linda, I'm swaggin'\nIf you had me then you a has been look at me now a young nigga flashin'\nMy new bitches name is Yasmine\nI never do cuff em' I pass em' like a college exam\nBitch I am the man\nI don't give a damn so bitch bye (yaaaaaaa)\n\n[Hook]\nI'm addicted to flexin' on my old hoes old hoes\nHand me downs, they ain't worth more than my old clothes\nI might fuck her but I keep that on the low low\nOh I keep that on the low low\nOn the low low\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\n(I think I'm addicted to flexin' on my old hoes)\nHoes\nFlexin' on my old\nHoes\nI'm addicted to 'em (I'm addicted to 'em)13Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2975590",
+   "artist_names": "M City JR",
+   "full_title": "Bitch Bye! by\u00a0M\u00a0City JR",
+   "header_image_thumbnail_url": "https://images.genius.com/cb03268044fb00aa0288873f6b0f577a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cb03268044fb00aa0288873f6b0f577a.600x600x1.jpg",
+   "id": 2975590,
+   "language": "en",
+   "lyrics_owner_id": 3251272,
+   "lyrics_state": "complete",
+   "path": "/M-city-jr-bitch-bye-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/M-city-jr-bitch-bye-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 8,
+    "day": 25
+   },
+   "release_date_for_display": "August 25, 2016",
+   "release_date_with_abbreviated_month_for_display": "Aug. 25, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cb03268044fb00aa0288873f6b0f577a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cb03268044fb00aa0288873f6b0f577a.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bitch Bye!",
+   "title_with_featured": "Bitch Bye!",
+   "url": "https://genius.com/M-city-jr-bitch-bye-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/18319",
+    "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "id": 18319,
+    "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "M City JR",
+    "url": "https://genius.com/artists/M-city-jr",
+    "iq": 552
+   },
+   "apple_music_id": "1146024377",
+   "apple_music_player_url": "https://genius.com/songs/2975590/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2975590' class='rg_embed_link' data-song-id='2975590'>Read <a href='https://genius.com/M-city-jr-bitch-bye-lyrics'>\u201cBitch Bye!\u201d by M\u00a0City JR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2975590/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-08-25",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3251272,
+    "annotator_login": "spillretro",
+    "api_path": "/referents/11285729",
+    "classification": "needs_exegesis",
+    "fragment": "Bitch Bye!",
+    "id": 11285729,
+    "is_description": true,
+    "path": "/11285729/M-city-jr-bitch-bye/Bitch-bye",
+    "range": {
+     "content": "Bitch Bye!"
+    },
+    "song_id": 2975590,
+    "url": "https://genius.com/11285729/M-city-jr-bitch-bye/Bitch-bye",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2975590",
+     "client_timestamps": {
+      "updated_by_human_at": 1558822153,
+      "lyrics_updated_at": 1558822153
+     },
+     "context": "M City JR",
+     "id": 2975590,
+     "image_url": "https://images.genius.com/cb03268044fb00aa0288873f6b0f577a.600x600x1.jpg",
+     "link_title": "Bitch Bye! by\u00a0M\u00a0City JR",
+     "title": "Bitch Bye!",
+     "type": "Song",
+     "url": "https://genius.com/M-city-jr-bitch-bye-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11285729",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11285729,
+      "pinned": false,
+      "share_url": "https://genius.com/11285729",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11285729/M-city-jr-bitch-bye/Bitch-bye",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3251272",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/5bf80e64aa9af95e6dc1640e1024cbd2.464x398x14.gif",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/5bf80e64aa9af95e6dc1640e1024cbd2.464x398x14.gif",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/5bf80e64aa9af95e6dc1640e1024cbd2.464x398x14.gif",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/5bf80e64aa9af95e6dc1640e1024cbd2.464x398x14.gif",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/b1c790584d6a9de5c0437da8422d96e1.500x375x24.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 3251272,
+         "iq": 189442,
+         "login": "spillretro",
+         "name": "\u200bspill retro",
+         "role_for_display": "editor",
+         "url": "https://genius.com/spillretro",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=C1gM10n98u8"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/18319",
+     "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "id": 18319,
+     "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M City JR",
+     "url": "https://genius.com/artists/M-city-jr",
+     "iq": 552
+    }
+   ],
+   "artist": "M City JR",
+   "lyrics": "2 ContributorsBitch Bye! Lyrics[Hook]\nShe said that she love me and that's a lie\nShe just want the dick from old times\nI just want the sex and good night\n(I thought I was spending the night?)\nBitch, bye!\nYou ain't gotta go home and talk about the fuck about it, else\nBitch, bye!\nI thought i told your ass (Bitch, bye!)\n(Yaaaa!)\nBitch Bye!\nYou still coming tomorrow like 4 pm (Bitch, bye!)\n[Verse 1]\nSit their ass on in the Uber\nEven thought i got more bands than a tuber\nI took her out, she ordered everything on the menu\nYou must thought that i was paying for it, did you?\n(Bitch, bye!)\nNow she say she gotta boyfriend\nMan, that shit is so annoying (she a lie)\nBut she say she like girls and she went a whole summer without ever letting boys in (cut it out)\nBitch Bye!\nGirl you ain't gotta lie to kick it(You ain't gotta lie)\nFlexing on my ex, I'm still addicted\nBut she got so much junk in the trunk, if she back that ass up she'll get a parking ticket (Bitch, bye!)\n\n[Hook]\nShe said that she love me and that's a lie\nShe just wants the dick from old times\nI just want the sex and good night\n(I thought I was spending the night?)\nBitch Bye!\nYou ain't gotta go home and talk about the fuck about it, else (Bitch, bye!)\nI thought i told your ass (Bitch, bye!)\n(Yaaaa!)\nBitch, Bye!\nYou still coming tomorrow like 4 pm (Bitch, bye!)\nSit that ass on in the taxi(in the taxi)You might also likeEmbed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/2946973",
+   "artist_names": "M City JR",
+   "full_title": "Diddy'd That by\u00a0M\u00a0City JR",
+   "header_image_thumbnail_url": "https://images.genius.com/a3f03b386e75470267d9f7da278a1f6f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a3f03b386e75470267d9f7da278a1f6f.500x500x1.jpg",
+   "id": 2946973,
+   "language": "en",
+   "lyrics_owner_id": 54639,
+   "lyrics_state": "complete",
+   "path": "/M-city-jr-diddyd-that-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/M-city-jr-diddyd-that-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 12,
+    "day": 9
+   },
+   "release_date_for_display": "December 9, 2016",
+   "release_date_with_abbreviated_month_for_display": "Dec. 9, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a3f03b386e75470267d9f7da278a1f6f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a3f03b386e75470267d9f7da278a1f6f.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Diddy\u2019d That",
+   "title_with_featured": "Diddy'd That",
+   "url": "https://genius.com/M-city-jr-diddyd-that-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/18319",
+    "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "id": 18319,
+    "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "M City JR",
+    "url": "https://genius.com/artists/M-city-jr",
+    "iq": 552
+   },
+   "apple_music_id": "1182614408",
+   "apple_music_player_url": "https://genius.com/songs/2946973/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2946973' class='rg_embed_link' data-song-id='2946973'>Read <a href='https://genius.com/M-city-jr-diddyd-that-lyrics'>\u201cDiddy'd That\u201d by M\u00a0City JR</a> on Genius</div> <script crossorigin src='//genius.com/songs/2946973/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-12-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/325775",
+    "cover_art_url": "https://images.genius.com/1cc86a7adb1d18dadaca0bcf8cb62f4d.1000x1000x1.jpg",
+    "full_title": "Addicted To My Ex by M City JR",
+    "id": 325775,
+    "name": "Addicted To My Ex",
+    "release_date_for_display": "January 15, 2017",
+    "url": "https://genius.com/albums/M-city-jr/Addicted-to-my-ex",
+    "artist": {
+     "api_path": "/artists/18319",
+     "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "id": 18319,
+     "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M City JR",
+     "url": "https://genius.com/artists/M-city-jr",
+     "iq": 552
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 54639,
+    "annotator_login": "WriteNProppa",
+    "api_path": "/referents/11111805",
+    "classification": "needs_exegesis",
+    "fragment": "Diddy\u2019d That",
+    "id": 11111805,
+    "is_description": true,
+    "path": "/11111805/M-city-jr-diddyd-that/Diddyd-that",
+    "range": {
+     "content": "Diddy'd That"
+    },
+    "song_id": 2946973,
+    "url": "https://genius.com/11111805/M-city-jr-diddyd-that/Diddyd-that",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2946973",
+     "client_timestamps": {
+      "updated_by_human_at": 1558822318,
+      "lyrics_updated_at": 1558822318
+     },
+     "context": "M City JR",
+     "id": 2946973,
+     "image_url": "https://images.genius.com/a3f03b386e75470267d9f7da278a1f6f.500x500x1.jpg",
+     "link_title": "Diddy\u2019d That by\u00a0M\u00a0City JR",
+     "title": "Diddy'd That",
+     "type": "Song",
+     "url": "https://genius.com/M-city-jr-diddyd-that-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11111805",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11111805,
+      "pinned": false,
+      "share_url": "https://genius.com/11111805",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11111805/M-city-jr-diddyd-that/Diddyd-that",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/54639",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "human_readable_role_for_display": "Staff",
+         "id": 54639,
+         "iq": 2709665,
+         "login": "WriteNProppa",
+         "name": "WriteNProppa",
+         "role_for_display": "staff",
+         "url": "https://genius.com/WriteNProppa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=9PbbnznMjNs"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/18319",
+     "header_image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "id": 18319,
+     "image_url": "https://images.genius.com/ccec7f1f12f596feb21881e3c44ee566.666x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "M City JR",
+     "url": "https://genius.com/artists/M-city-jr",
+     "iq": 552
+    }
+   ],
+   "artist": "M City JR",
+   "lyrics": "4 ContributorsDiddy\u2019d That Lyrics[Hook]\nWhen I met her she was doughy\n(Nah, remix that bitch)\nNow that bitch a Khloe (Yahh!)\nShe was Ayesha Curry\n(Nah, remix that bitch)\nNow she Amber Rose dirty (Yahh!)\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\n[Verse 1]\nTake that take that, baby girl can you take that?\nGive me head like a wave cap\nLazy boy, I be laid back\nGive me that glitter suit\nWalk for that cheese cake\nGive me that clean head\nThat Amber Rose \u2018til my knees shake\nI\u2019m in a heat wave, I\u2019m hot boy\nTurn a virgin to a thot boy\nAll of these dimes I turn into diamonds\nYou would think I was a Roc boy\nWhen I met her she was doughy-oey\nFat and round just like a rollie pollie\nFucking a rapper just gave her some confidence\nNow she be looking so okie dokie\nI don\u2019t want to hear talk, just show me\nIf you a fan then just blow me\nFucking a rapper just gave her some confidence\nNow she be looking like baby promote me\nRemix it, I Diddy\u2019d that\nFrom the back in my Fendi cap\nAll on camera, niggas know I got to play\nPitty pat with her kitty kat\n\n[Hook]\nWhen I met her she was doughy\n(Nah, remix that bitch)\nNow that bitch a Khloe (Yahh!)\nShe was Ayesha Curry\n(Nah, remix that bitch)\nNow she Amber Rose dirty (Yahh!)\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nYou might also like[Verse 2]\nTake that, take that, no\nGirl, shake that, shake that\nKelis milkshake that\nI see that cake and I bake that\nI know that you know me from way back\nYou call me D\u2019andre, girl why you say that?\nBut now you got me buck naked with Timbos\nSo I don\u2019t lose no traction\nXNXX off a Rolex\nLights, camera, that action\nDivide legs, that\u2019s a fraction\nMinus panties, that\u2019s subtraction\nShe asked a nigga how he liked his eggs\nI said fertilized, girl let\u2019s get it crackin\u2019\nHer ass fat and her waist tight\nI go hard, I don\u2019t waste a night\nShe go crazy, she don\u2019t waste pipe\nI dog hoes, they bitches right?\nYou know a nigga live a rapper\u2019s life\nProbably hit it in the afterlife\nYou know that a nigga gon\u2019 hit it and quit it\nAnd then I get ghost like a poltergeist\n\n[Hook]\nWhen I met her she was doughy\n(Nah, remix that bitch)\nNow that bitch a Khloe (Yahh!)\nShe was Ayesha Curry\n(Nah, remix that bitch)\nNow she Amber Rose dirty (Yahh!)\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did it\nI Diddy\u2019d that, I did it, I did itEmbed"
+  }
+ ]
+}

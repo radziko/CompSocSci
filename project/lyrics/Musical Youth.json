@@ -1,0 +1,2758 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/44324",
+ "description": {
+  "plain": "Musical Youth is a British Jamaican reggae band formed in 1979 in Birmingham, England. They are best remembered for their successful 1982 single \u201cPass the Dutchie\u201d, which became a number 1 hit around the world."
+ },
+ "facebook_name": null,
+ "followers_count": 4,
+ "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+ "id": 44324,
+ "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Musical Youth",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Musical-youth",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7176996,
+  "annotator_login": "PhillyDSwerv",
+  "api_path": "/referents/13210698",
+  "classification": "unreviewed",
+  "fragment": "Musical Youth",
+  "id": 13210698,
+  "is_description": true,
+  "path": "/13210698/Musical-youth/Musical-youth",
+  "range": {
+   "content": "Musical Youth"
+  },
+  "song_id": null,
+  "url": "https://genius.com/13210698/Musical-youth/Musical-youth",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/44324",
+   "context": null,
+   "id": 44324,
+   "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+   "link_title": "Musical Youth",
+   "title": "Musical Youth",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Musical-youth"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/13210698",
+    "body": {
+     "plain": "Musical Youth is a British Jamaican reggae band formed in 1979 in Birmingham, England. They are best remembered for their successful 1982 single \u201cPass the Dutchie\u201d, which became a number 1 hit around the world."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 13210698,
+    "pinned": false,
+    "share_url": "https://genius.com/13210698",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/13210698/Musical-youth/Musical-youth",
+    "verified": false,
+    "votes_total": 1,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7176996",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/c61614992d60ec7f46b4543beb92ea8e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/c61614992d60ec7f46b4543beb92ea8e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/c61614992d60ec7f46b4543beb92ea8e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/c61614992d60ec7f46b4543beb92ea8e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/tagwadvurqd",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7176996,
+       "iq": 799,
+       "login": "PhillyDSwerv",
+       "name": "PhillyDSwerv",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/PhillyDSwerv",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/135503",
+   "artist_names": "Musical Youth",
+   "full_title": "Pass the Dutchie by\u00a0Musical\u00a0Youth",
+   "header_image_thumbnail_url": "https://images.genius.com/47a974453f2c4857da6cc6578d93ad34.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/47a974453f2c4857da6cc6578d93ad34.600x600x1.jpg",
+   "id": 135503,
+   "language": "en",
+   "lyrics_owner_id": 138085,
+   "lyrics_state": "complete",
+   "path": "/Musical-youth-pass-the-dutchie-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Musical-youth-pass-the-dutchie-sample",
+   "release_date_components": {
+    "year": 1982,
+    "month": 9,
+    "day": 17
+   },
+   "release_date_for_display": "September 17, 1982",
+   "release_date_with_abbreviated_month_for_display": "Sep. 17, 1982",
+   "song_art_image_thumbnail_url": "https://images.genius.com/47a974453f2c4857da6cc6578d93ad34.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/47a974453f2c4857da6cc6578d93ad34.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 11,
+    "contributors": 39,
+    "iq_earners": 38,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 210171
+   },
+   "title": "Pass the Dutchie",
+   "title_with_featured": "Pass the Dutchie",
+   "url": "https://genius.com/Musical-youth-pass-the-dutchie-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/44324",
+    "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+    "id": 44324,
+    "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Musical Youth",
+    "url": "https://genius.com/artists/Musical-youth"
+   },
+   "apple_music_id": "543949959",
+   "apple_music_player_url": "https://genius.com/songs/135503/apple_music_player",
+   "description": {
+    "plain": "\u201cPass The Dutchie\u201d is a Grammy-nominated international hit single based on The Mighty Diamonds song \u201cPass The Koutchie\u201d combined with elements of \u201cGimme The Music\u201d by reggae artist U Brown and \u201cRule The Nation\u201d by Jamaican vocalist U-Roy.\n\nThe original song \u201cPass The Koutchie\u201d was written about marijuana, but because Musical Youth were all children at the time, its drug slang was replaced with food references. For example, \u201cKoutchie\u201d (a slang term for a pot in which marijuana is kept) became \u201cDutchie\u201d (slang for a Dutch stewing pot) and \u201cherb\u201d (another slang term for marijuana) became \u201cfood\u201d.\n\nVarious lines from U Brown\u2019s \u201cGimme The Music\u201d, like \u201cSounds to really make you rub and scrub\u201d and \u201cGive me music, make me jump and prance\u201d, were interposed between altered \u201cPass The Koutchie\u201d lyrics.\n\n\u201cPass The Dutchie\u201d was Musical Youth\u2019s first single for MCA Records. It found immediate success, debuting on the UK pop chart at #26 in September 1982 then hitting #1 the following week. It would go on to reach #1 in four more countries and peak at #10 in the US in February 1983 \u2013 becoming the biggest-selling reggae single in over a decade there.\n\nWhen its music video was aired on MTV, it made Musical Youth the first black group to appear on the channel.\n\nThe group went on to score five more top 40\u2019s in both Ireland and their homeland of the UK over the next two years, but aside from reaching #65 a year later with \u201cShe\u2019s Trouble\u201d, Musical Youth had no further hits in the US \u2013 earning them the label of one-hit wonder there."
+   },
+   "embed_content": "<div id='rg_embed_link_135503' class='rg_embed_link' data-song-id='135503'>Read <a href='https://genius.com/Musical-youth-pass-the-dutchie-lyrics'>\u201cPass the Dutchie\u201d by Musical\u00a0Youth</a> on Genius</div> <script crossorigin src='//genius.com/songs/135503/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1982-09-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/251211",
+    "cover_art_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+    "full_title": "The Youth of Today by Musical Youth",
+    "id": 251211,
+    "name": "The Youth of Today",
+    "release_date_for_display": "January 1, 1982",
+    "url": "https://genius.com/albums/Musical-youth/The-youth-of-today",
+    "artist": {
+     "api_path": "/artists/44324",
+     "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+     "id": 44324,
+     "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Musical Youth",
+     "url": "https://genius.com/artists/Musical-youth"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1118956",
+       "header_image_url": "https://images.genius.com/074e45e853269815bceec2367ac75ed4.1000x1000x1.png",
+       "id": 1118956,
+       "image_url": "https://images.genius.com/9250a1a2ea2984c70946cae916d084d9.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "MCA Records",
+       "url": "https://genius.com/artists/Mca-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 138085,
+    "annotator_login": "farrous",
+    "api_path": "/referents/3720444",
+    "classification": "accepted",
+    "fragment": "Pass the Dutchie",
+    "id": 3720444,
+    "is_description": true,
+    "path": "/3720444/Musical-youth-pass-the-dutchie/Pass-the-dutchie",
+    "range": {
+     "content": "Pass the Dutchie"
+    },
+    "song_id": 135503,
+    "url": "https://genius.com/3720444/Musical-youth-pass-the-dutchie/Pass-the-dutchie",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/135503",
+     "client_timestamps": {
+      "updated_by_human_at": 1662561047,
+      "lyrics_updated_at": 1663063848
+     },
+     "context": "Musical Youth",
+     "id": 135503,
+     "image_url": "https://images.genius.com/47a974453f2c4857da6cc6578d93ad34.600x600x1.jpg",
+     "link_title": "Pass the Dutchie by\u00a0Musical\u00a0Youth",
+     "title": "Pass the Dutchie",
+     "type": "Song",
+     "url": "https://genius.com/Musical-youth-pass-the-dutchie-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3720444",
+      "body": {
+       "plain": "\u201cPass The Dutchie\u201d is a Grammy-nominated international hit single based on The Mighty Diamonds song \u201cPass The Koutchie\u201d combined with elements of \u201cGimme The Music\u201d by reggae artist U Brown and \u201cRule The Nation\u201d by Jamaican vocalist U-Roy.\n\nThe original song \u201cPass The Koutchie\u201d was written about marijuana, but because Musical Youth were all children at the time, its drug slang was replaced with food references. For example, \u201cKoutchie\u201d (a slang term for a pot in which marijuana is kept) became \u201cDutchie\u201d (slang for a Dutch stewing pot) and \u201cherb\u201d (another slang term for marijuana) became \u201cfood\u201d.\n\nVarious lines from U Brown\u2019s \u201cGimme The Music\u201d, like \u201cSounds to really make you rub and scrub\u201d and \u201cGive me music, make me jump and prance\u201d, were interposed between altered \u201cPass The Koutchie\u201d lyrics.\n\n\u201cPass The Dutchie\u201d was Musical Youth\u2019s first single for MCA Records. It found immediate success, debuting on the UK pop chart at #26 in September 1982 then hitting #1 the following week. It would go on to reach #1 in four more countries and peak at #10 in the US in February 1983 \u2013 becoming the biggest-selling reggae single in over a decade there.\n\nWhen its music video was aired on MTV, it made Musical Youth the first black group to appear on the channel.\n\nThe group went on to score five more top 40\u2019s in both Ireland and their homeland of the UK over the next two years, but aside from reaching #65 a year later with \u201cShe\u2019s Trouble\u201d, Musical Youth had no further hits in the US \u2013 earning them the label of one-hit wonder there."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3720444,
+      "pinned": false,
+      "share_url": "https://genius.com/3720444",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3720444/Musical-youth-pass-the-dutchie/Pass-the-dutchie",
+      "verified": false,
+      "votes_total": 32,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9812734082397004,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1884245",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/a50b2b29a755904448140c3e47aa0c04.1000x554x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1884245,
+         "iq": 171393,
+         "login": "sadchild",
+         "name": "Sadchild",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sadchild",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.018726591760299626,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/138085",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/02ce4a655d2f865d7ff6ae9745f152b4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/02ce4a655d2f865d7ff6ae9745f152b4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/02ce4a655d2f865d7ff6ae9745f152b4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/02ce4a655d2f865d7ff6ae9745f152b4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/02ce4a655d2f865d7ff6ae9745f152b4",
+         "human_readable_role_for_display": "Contributor",
+         "id": 138085,
+         "iq": 21636,
+         "login": "farrous",
+         "name": "farrous",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/farrous",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1BkY0N8ChFk2mdLbAUu8ZK",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=EsyUa63NM1E"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/61615",
+     "header_image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "id": 61615,
+     "image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Collins",
+     "url": "https://genius.com/artists/Peter-collins"
+    },
+    {
+     "api_path": "/artists/394695",
+     "header_image_url": "https://images.genius.com/46ecc789f8580edebca7c126d933434f.1000x1000x1.jpg",
+     "id": 394695,
+     "image_url": "https://images.genius.com/46ecc789f8580edebca7c126d933434f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Waterman",
+     "url": "https://genius.com/artists/Pete-waterman"
+    },
+    {
+     "api_path": "/artists/1035285",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1035285,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Toney Owens",
+     "url": "https://genius.com/artists/Toney-owens"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Musical-youth-pass-the-dutchie-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4680702",
+       "artist_names": "3 The Hard Way (Ft. Bobbylon)",
+       "full_title": "Hip Hop Holiday by\u00a03\u00a0The Hard Way (Ft.\u00a0Bobbylon)",
+       "header_image_thumbnail_url": "https://images.genius.com/6805d81042b9e27ff03e4b5f1ca9e8a6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6805d81042b9e27ff03e4b5f1ca9e8a6.640x640x1.jpg",
+       "id": 4680702,
+       "language": "en",
+       "lyrics_owner_id": 7705233,
+       "lyrics_state": "complete",
+       "path": "/3-the-hard-way-hip-hop-holiday-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/3-the-hard-way-hip-hop-holiday-sample",
+       "release_date_components": {
+        "year": 1994,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 1994",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 1994",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6805d81042b9e27ff03e4b5f1ca9e8a6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6805d81042b9e27ff03e4b5f1ca9e8a6.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Hip Hop Holiday",
+       "title_with_featured": "Hip Hop Holiday (Ft.\u00a0Bobbylon)",
+       "url": "https://genius.com/3-the-hard-way-hip-hop-holiday-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1877788",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 1877788,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Bobbylon",
+         "url": "https://genius.com/artists/Bobbylon"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1877803",
+        "header_image_url": "https://images.genius.com/15960239b49095359ba1898d16a61992.350x464x1.jpg",
+        "id": 1877803,
+        "image_url": "https://images.genius.com/15960239b49095359ba1898d16a61992.350x464x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "3 The Hard Way",
+        "url": "https://genius.com/artists/3-the-hard-way"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1950094",
+       "artist_names": "Dimitri Vegas & Like Mike",
+       "full_title": "Generation X by\u00a0Dimitri\u00a0Vegas & Like Mike",
+       "header_image_thumbnail_url": "https://images.genius.com/afffa4c31ff5297370f32226f7b07a39.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/afffa4c31ff5297370f32226f7b07a39.1000x1000x1.jpg",
+       "id": 1950094,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Dimitri-vegas-and-like-mike-generation-x-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dimitri-vegas-and-like-mike-generation-x-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 7,
+        "day": 13
+       },
+       "release_date_for_display": "July 13, 2011",
+       "release_date_with_abbreviated_month_for_display": "Jul. 13, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/afffa4c31ff5297370f32226f7b07a39.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/afffa4c31ff5297370f32226f7b07a39.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Generation X",
+       "title_with_featured": "Generation X",
+       "url": "https://genius.com/Dimitri-vegas-and-like-mike-generation-x-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/350871",
+        "header_image_url": "https://images.genius.com/a4ad0b0b79c7321475e47fd82f8e6321.678x452x1.jpg",
+        "id": 350871,
+        "image_url": "https://images.genius.com/df44a9f61aa1bfb30994783613436fb6.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dimitri Vegas & Like Mike",
+        "url": "https://genius.com/artists/Dimitri-vegas-and-like-mike"
+       }
+      },
+      {
+       "annotation_count": 22,
+       "api_path": "/songs/36788",
+       "artist_names": "Public Enemy",
+       "full_title": "Revolutionary Generation by\u00a0Public\u00a0Enemy",
+       "header_image_thumbnail_url": "https://images.genius.com/887ce7b9f4406855000a1117d69fcb2f.300x306x1.jpg",
+       "header_image_url": "https://images.genius.com/887ce7b9f4406855000a1117d69fcb2f.980x1000x1.jpg",
+       "id": 36788,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Public-enemy-revolutionary-generation-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Public-enemy-revolutionary-generation-sample",
+       "release_date_components": {
+        "year": 1990,
+        "month": 4,
+        "day": 10
+       },
+       "release_date_for_display": "April 10, 1990",
+       "release_date_with_abbreviated_month_for_display": "Apr. 10, 1990",
+       "song_art_image_thumbnail_url": "https://images.genius.com/887ce7b9f4406855000a1117d69fcb2f.300x306x1.jpg",
+       "song_art_image_url": "https://images.genius.com/887ce7b9f4406855000a1117d69fcb2f.980x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 10809
+       },
+       "title": "Revolutionary Generation",
+       "title_with_featured": "Revolutionary Generation",
+       "url": "https://genius.com/Public-enemy-revolutionary-generation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/203",
+        "header_image_url": "https://images.genius.com/2fc3c0101225462f95f494685c92e377.1000x525x1.jpg",
+        "id": 203,
+        "image_url": "https://images.genius.com/04e955b7303db3639fb9b82dc57b81b2.709x709x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Public Enemy",
+        "url": "https://genius.com/artists/Public-enemy"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7543863",
+       "artist_names": "Best Bangkok",
+       "full_title": "\u0e2e\u0e32\u0e23\u0e4c\u0e42\u0e21\u0e19\u0e34\u0e01\u0e49\u0e32 (Harmonica) by\u00a0Best\u00a0Bangkok",
+       "header_image_thumbnail_url": "https://images.genius.com/cf45150f2ed44101e670507ce795d7fd.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cf45150f2ed44101e670507ce795d7fd.728x728x1.jpg",
+       "id": 7543863,
+       "language": "th",
+       "lyrics_owner_id": 15586472,
+       "lyrics_state": "complete",
+       "path": "/Best-bangkok-harmonica-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Best-bangkok-harmonica-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 7,
+        "day": 20
+       },
+       "release_date_for_display": "July 20, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jul. 20, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cf45150f2ed44101e670507ce795d7fd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cf45150f2ed44101e670507ce795d7fd.728x728x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "\u0e2e\u0e32\u0e23\u0e4c\u0e42\u0e21\u0e19\u0e34\u0e01\u0e49\u0e32 (Harmonica)",
+       "title_with_featured": "\u0e2e\u0e32\u0e23\u0e4c\u0e42\u0e21\u0e19\u0e34\u0e01\u0e49\u0e32 (Harmonica)",
+       "url": "https://genius.com/Best-bangkok-harmonica-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3005494",
+        "header_image_url": "https://images.genius.com/60de6e83f8b9839a4448aa32dbb32baf.612x816x1.jpg",
+        "id": 3005494,
+        "image_url": "https://images.genius.com/cf45150f2ed44101e670507ce795d7fd.728x728x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Best Bangkok",
+        "url": "https://genius.com/artists/Best-bangkok"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6699663",
+       "artist_names": "Boo-Dah Bliss Crew",
+       "full_title": "Pass The Boo-Dah by\u00a0Boo-Dah\u00a0Bliss Crew",
+       "header_image_thumbnail_url": "https://images.genius.com/e3a11b011c39f1467bd7c85088aa5047.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e3a11b011c39f1467bd7c85088aa5047.600x600x1.jpg",
+       "id": 6699663,
+       "language": "en",
+       "lyrics_owner_id": 22594,
+       "lyrics_state": "complete",
+       "path": "/Boo-dah-bliss-crew-pass-the-boo-dah-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Boo-dah-bliss-crew-pass-the-boo-dah-sample",
+       "release_date_components": {
+        "year": 1983,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1983",
+       "release_date_with_abbreviated_month_for_display": "1983",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e3a11b011c39f1467bd7c85088aa5047.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e3a11b011c39f1467bd7c85088aa5047.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Pass The Boo-Dah",
+       "title_with_featured": "Pass The Boo-Dah",
+       "url": "https://genius.com/Boo-dah-bliss-crew-pass-the-boo-dah-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2686903",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2686903,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Boo-Dah Bliss Crew",
+        "url": "https://genius.com/artists/Boo-dah-bliss-crew"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/6370948",
+       "artist_names": "Der Tobi & das Bo (Ft. Stefan Kozalla (DJ Koze))",
+       "full_title": "Is mir egal (Adolf Noise Mediation) by\u00a0Der\u00a0Tobi & das Bo (Ft.\u00a0Stefan\u00a0Kozalla (DJ Koze))",
+       "header_image_thumbnail_url": "https://images.genius.com/0f4321cf368134e1a0d6065e899a1480.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0f4321cf368134e1a0d6065e899a1480.300x300x1.jpg",
+       "id": 6370948,
+       "language": "de",
+       "lyrics_owner_id": 7216109,
+       "lyrics_state": "complete",
+       "path": "/Der-tobi-and-das-bo-is-mir-egal-adolf-noise-mediation-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Der-tobi-and-das-bo-is-mir-egal-adolf-noise-mediation-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/0f4321cf368134e1a0d6065e899a1480.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0f4321cf368134e1a0d6065e899a1480.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Is mir egal (Adolf Noise Mediation)",
+       "title_with_featured": "Is mir egal (Adolf Noise Mediation) (Ft.\u00a0Stefan\u00a0Kozalla (DJ Koze))",
+       "url": "https://genius.com/Der-tobi-and-das-bo-is-mir-egal-adolf-noise-mediation-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/562786",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 562786,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Stefan Kozalla (DJ Koze)",
+         "url": "https://genius.com/artists/Stefan-kozalla-dj-koze"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/32174",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 32174,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Der Tobi & das Bo",
+        "url": "https://genius.com/artists/Der-tobi-and-das-bo"
+       }
+      },
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/446269",
+       "artist_names": "Nitty Scott",
+       "full_title": "Generation Now (Psychedelic Little Buddha) by\u00a0Nitty\u00a0Scott",
+       "header_image_thumbnail_url": "https://images.genius.com/ff321b7b11c499b6ffbd311c2022b0d4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ff321b7b11c499b6ffbd311c2022b0d4.1000x1000x1.jpg",
+       "id": 446269,
+       "language": "en",
+       "lyrics_owner_id": 112825,
+       "lyrics_state": "complete",
+       "path": "/Nitty-scott-generation-now-psychedelic-little-buddha-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Nitty-scott-generation-now-psychedelic-little-buddha-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 5,
+        "day": 23
+       },
+       "release_date_for_display": "May 23, 2014",
+       "release_date_with_abbreviated_month_for_display": "May. 23, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ff321b7b11c499b6ffbd311c2022b0d4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ff321b7b11c499b6ffbd311c2022b0d4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false
+       },
+       "title": "Generation Now (Psychedelic Little Buddha)",
+       "title_with_featured": "Generation Now (Psychedelic Little Buddha)",
+       "url": "https://genius.com/Nitty-scott-generation-now-psychedelic-little-buddha-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/14381",
+        "header_image_url": "https://images.genius.com/b209d29b8b5b882a978938be20371fb3.640x562x1.jpg",
+        "id": 14381,
+        "image_url": "https://images.genius.com/3f274cda613753fb3f91c0f7d0a60443.562x562x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Nitty Scott",
+        "url": "https://genius.com/artists/Nitty-scott",
+        "iq": 1261
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5343997",
+       "artist_names": "Varnish la Piscine",
+       "full_title": "KISS by\u00a0Varnish\u00a0la Piscine",
+       "header_image_thumbnail_url": "https://images.genius.com/1bd613f3c886c363cdd5c55183954359.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1bd613f3c886c363cdd5c55183954359.596x596x1.jpg",
+       "id": 5343997,
+       "language": "fr",
+       "lyrics_owner_id": 3847588,
+       "lyrics_state": "complete",
+       "path": "/Varnish-la-piscine-kiss-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Varnish-la-piscine-kiss-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 3,
+        "day": 13
+       },
+       "release_date_for_display": "March 13, 2020",
+       "release_date_with_abbreviated_month_for_display": "Mar. 13, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1bd613f3c886c363cdd5c55183954359.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1bd613f3c886c363cdd5c55183954359.596x596x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "KISS",
+       "title_with_featured": "KISS",
+       "url": "https://genius.com/Varnish-la-piscine-kiss-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/94449",
+        "header_image_url": "https://images.genius.com/576faf52f520cf2183d31a4ccbe76faa.409x155x1.png",
+        "id": 94449,
+        "image_url": "https://images.genius.com/7af6f3d670c3756be089d75c586f1bff.575x575x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Varnish la Piscine",
+        "url": "https://genius.com/artists/Varnish-la-piscine"
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/11134",
+       "artist_names": "Bone Thugs-N-Harmony",
+       "full_title": "Def Dick by\u00a0Bone\u00a0Thugs-N-Harmony",
+       "header_image_thumbnail_url": "https://images.genius.com/82b2813b25fc0de013784c4c931d5a14.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/82b2813b25fc0de013784c4c931d5a14.1000x1000x1.jpg",
+       "id": 11134,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Bone-thugs-n-harmony-def-dick-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bone-thugs-n-harmony-def-dick-sample",
+       "release_date_components": {
+        "year": 1993,
+        "month": 6,
+        "day": 1
+       },
+       "release_date_for_display": "June 1, 1993",
+       "release_date_with_abbreviated_month_for_display": "Jun. 1, 1993",
+       "song_art_image_thumbnail_url": "https://images.genius.com/82b2813b25fc0de013784c4c931d5a14.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/82b2813b25fc0de013784c4c931d5a14.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 6058
+       },
+       "title": "Def Dick",
+       "title_with_featured": "Def Dick",
+       "url": "https://genius.com/Bone-thugs-n-harmony-def-dick-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/64",
+        "header_image_url": "https://images.genius.com/84b58415a54f1f2f977ff45f85a721d4.533x279x1.jpg",
+        "id": 64,
+        "image_url": "https://s3.amazonaws.com/rapgenius/Bone_Thugs.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bone Thugs-N-Harmony",
+        "url": "https://genius.com/artists/Bone-thugs-n-harmony"
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/1266338",
+       "artist_names": "J Hus",
+       "full_title": "Want From Me by\u00a0J\u00a0Hus",
+       "header_image_thumbnail_url": "https://images.genius.com/53f2a83ba3763cefc774a83e679e0e8c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/53f2a83ba3763cefc774a83e679e0e8c.500x500x1.jpg",
+       "id": 1266338,
+       "language": "en",
+       "lyrics_owner_id": 1592160,
+       "lyrics_state": "complete",
+       "path": "/J-hus-want-from-me-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/J-hus-want-from-me-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 29
+       },
+       "release_date_for_display": "December 29, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 29, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/53f2a83ba3763cefc774a83e679e0e8c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/53f2a83ba3763cefc774a83e679e0e8c.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false,
+        "pageviews": 27248
+       },
+       "title": "Want From Me",
+       "title_with_featured": "Want From Me",
+       "url": "https://genius.com/J-hus-want-from-me-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/328822",
+        "header_image_url": "https://images.genius.com/d064b0b26fa3e9a8ffd7bd939e7dd9ad.1000x429x1.jpg",
+        "id": 328822,
+        "image_url": "https://images.genius.com/b3817033b477a94d9fe1c411efffb085.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "J Hus",
+        "url": "https://genius.com/artists/J-hus",
+        "iq": 120
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1609871",
+       "artist_names": "Tinchy Stryder",
+       "full_title": "Generation by\u00a0Tinchy\u00a0Stryder",
+       "header_image_thumbnail_url": "https://images.genius.com/40162ad1711ee38e0578af13d46426d1.300x282x1.jpg",
+       "header_image_url": "https://images.genius.com/40162ad1711ee38e0578af13d46426d1.800x753x1.jpg",
+       "id": 1609871,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Tinchy-stryder-generation-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Tinchy-stryder-generation-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/40162ad1711ee38e0578af13d46426d1.300x282x1.jpg",
+       "song_art_image_url": "https://images.genius.com/40162ad1711ee38e0578af13d46426d1.800x753x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Generation",
+       "title_with_featured": "Generation",
+       "url": "https://genius.com/Tinchy-stryder-generation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1400",
+        "header_image_url": "https://images.genius.com/b3fb100659799fb2dddf6d7060537b9b.1000x563x1.jpg",
+        "id": 1400,
+        "image_url": "https://images.genius.com/ae5d8c37c8e375e90b1f2a1f3384f547.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tinchy Stryder",
+        "url": "https://genius.com/artists/Tinchy-stryder"
+       }
+      },
+      {
+       "annotation_count": 30,
+       "api_path": "/songs/2904585",
+       "artist_names": "A Tribe Called Quest (Ft. Busta Rhymes)",
+       "full_title": "Dis Generation by\u00a0A\u00a0Tribe Called Quest (Ft.\u00a0Busta\u00a0Rhymes)",
+       "header_image_thumbnail_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.1000x1000x1.jpg",
+       "id": 2904585,
+       "language": "en",
+       "lyrics_owner_id": 21564,
+       "lyrics_state": "complete",
+       "path": "/A-tribe-called-quest-dis-generation-lyrics",
+       "pyongs_count": 27,
+       "relationships_index_url": "https://genius.com/A-tribe-called-quest-dis-generation-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 11,
+        "day": 11
+       },
+       "release_date_for_display": "November 11, 2016",
+       "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/09e256ce885fe6b3cf181239c3b3231c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 176159
+       },
+       "title": "Dis Generation",
+       "title_with_featured": "Dis Generation (Ft.\u00a0Busta\u00a0Rhymes)",
+       "url": "https://genius.com/A-tribe-called-quest-dis-generation-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/338",
+         "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+         "id": 338,
+         "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Busta Rhymes",
+         "url": "https://genius.com/artists/Busta-rhymes",
+         "iq": 400
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/519",
+        "header_image_url": "https://images.genius.com/54015a0b5441c3e94ff76a375494b4a6.996x608x1.jpg",
+        "id": 519,
+        "image_url": "https://images.genius.com/44b3a90b2fcd09c5df186054d02c2817.545x545x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "A Tribe Called Quest",
+        "url": "https://genius.com/artists/A-tribe-called-quest"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Musical-youth-pass-the-dutchie-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/38531",
+       "artist_names": "Rah Digga (Ft. Busta Rhymes)",
+       "full_title": "Imperial by\u00a0Rah\u00a0Digga (Ft.\u00a0Busta\u00a0Rhymes)",
+       "header_image_thumbnail_url": "https://images.genius.com/5a2557979324c17591b23661973ffe3b.300x52x1.png",
+       "header_image_url": "https://images.genius.com/5a2557979324c17591b23661973ffe3b.1000x174x1.png",
+       "id": 38531,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Rah-digga-imperial-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rah-digga-imperial-sample",
+       "release_date_components": {
+        "year": 2000,
+        "month": 4,
+        "day": 4
+       },
+       "release_date_for_display": "April 4, 2000",
+       "release_date_with_abbreviated_month_for_display": "Apr. 4, 2000",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bd974d9a9fb5e94d18ccb88e3aa4d6b8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bd974d9a9fb5e94d18ccb88e3aa4d6b8.959x959x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Imperial",
+       "title_with_featured": "Imperial (Ft.\u00a0Busta\u00a0Rhymes)",
+       "url": "https://genius.com/Rah-digga-imperial-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/338",
+         "header_image_url": "https://images.genius.com/3b5bbef2983cf4f309a6cdf466a530a1.1000x667x1.jpg",
+         "id": 338,
+         "image_url": "https://images.genius.com/d872e4b2ec49a47787457eac5fba7895.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Busta Rhymes",
+         "url": "https://genius.com/artists/Busta-rhymes",
+         "iq": 400
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1586",
+        "header_image_url": "https://images.genius.com/30908947b21b2e25f658ea6b5107d73f.1000x174x1.png",
+        "id": 1586,
+        "image_url": "https://images.genius.com/98ac37578f7826f0f37649e47d6e6fbf.931x931x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Rah Digga",
+        "url": "https://genius.com/artists/Rah-digga",
+        "iq": 468
+       }
+      },
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/47482",
+       "artist_names": "The Dove Shack",
+       "full_title": "This Is the Shack by\u00a0The\u00a0Dove Shack",
+       "header_image_thumbnail_url": "https://images.genius.com/0571e437bbfbeabe74fae67aeff31522.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0571e437bbfbeabe74fae67aeff31522.1000x1000x1.jpg",
+       "id": 47482,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/The-dove-shack-this-is-the-shack-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/The-dove-shack-this-is-the-shack-sample",
+       "release_date_components": {
+        "year": 1994,
+        "month": 6,
+        "day": 7
+       },
+       "release_date_for_display": "June 7, 1994",
+       "release_date_with_abbreviated_month_for_display": "Jun. 7, 1994",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0571e437bbfbeabe74fae67aeff31522.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0571e437bbfbeabe74fae67aeff31522.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 6308
+       },
+       "title": "This Is the Shack",
+       "title_with_featured": "This Is the Shack",
+       "url": "https://genius.com/The-dove-shack-this-is-the-shack-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/5661",
+        "header_image_url": "https://images.genius.com/f7a874dcd238784cedff7d389ac78424.300x155x1.gif",
+        "id": 5661,
+        "image_url": "https://images.genius.com/f7a874dcd238784cedff7d389ac78424.300x155x1.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Dove Shack",
+        "url": "https://genius.com/artists/The-dove-shack"
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/20914",
+       "artist_names": "Geto Boys (Ft. Destiny's Child)",
+       "full_title": "Gangsta (Put Me Down) by\u00a0Geto\u00a0Boys (Ft.\u00a0Destiny's\u00a0Child)",
+       "header_image_thumbnail_url": "https://images.genius.com/fe35b5fd6d4234205ed896a66736e366.300x296x1.jpg",
+       "header_image_url": "https://images.genius.com/fe35b5fd6d4234205ed896a66736e366.300x296x1.jpg",
+       "id": 20914,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Geto-boys-gangsta-put-me-down-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Geto-boys-gangsta-put-me-down-sample",
+       "release_date_components": {
+        "year": 1998,
+        "month": 11,
+        "day": 17
+       },
+       "release_date_for_display": "November 17, 1998",
+       "release_date_with_abbreviated_month_for_display": "Nov. 17, 1998",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fe35b5fd6d4234205ed896a66736e366.300x296x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fe35b5fd6d4234205ed896a66736e366.300x296x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Gangsta (Put Me Down)",
+       "title_with_featured": "Gangsta (Put Me Down) (Ft.\u00a0Destiny's\u00a0Child)",
+       "url": "https://genius.com/Geto-boys-gangsta-put-me-down-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2831",
+         "header_image_url": "https://images.genius.com/125e19d92da2e9e4ce5c1559d296277f.1000x1000x1.png",
+         "id": 2831,
+         "image_url": "https://images.genius.com/eb76839808d58bbe9150af2ce1bd9db2.644x644x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Destiny\u2019s Child",
+         "url": "https://genius.com/artists/Destinys-child"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/377",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/4936_geto-boys.jpg",
+        "id": 377,
+        "image_url": "https://s3.amazonaws.com/rapgenius/4936_geto-boys.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Geto Boys",
+        "url": "https://genius.com/artists/Geto-boys"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6516156",
+       "artist_names": "Mac Dre (Ft. Rydah J. Klyde)",
+       "full_title": "Murda by\u00a0Mac\u00a0Dre (Ft.\u00a0Rydah\u00a0J. Klyde)",
+       "header_image_thumbnail_url": "https://images.genius.com/4a553744c42e00200c9f12ee8c66c641.220x220x1.jpg",
+       "header_image_url": "https://images.genius.com/4a553744c42e00200c9f12ee8c66c641.220x220x1.jpg",
+       "id": 6516156,
+       "language": "en",
+       "lyrics_owner_id": 3492882,
+       "lyrics_state": "complete",
+       "path": "/Mac-dre-murda-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mac-dre-murda-sample",
+       "release_date_components": {
+        "year": 2006,
+        "month": 12,
+        "day": 19
+       },
+       "release_date_for_display": "December 19, 2006",
+       "release_date_with_abbreviated_month_for_display": "Dec. 19, 2006",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4a553744c42e00200c9f12ee8c66c641.220x220x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4a553744c42e00200c9f12ee8c66c641.220x220x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Murda",
+       "title_with_featured": "Murda (Ft.\u00a0Rydah\u00a0J. Klyde)",
+       "url": "https://genius.com/Mac-dre-murda-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/5925",
+         "header_image_url": "https://images.genius.com/7432895a27e747f87ad049fb6ea9c950.300x300x1.jpg",
+         "id": 5925,
+         "image_url": "https://images.genius.com/7432895a27e747f87ad049fb6ea9c950.300x300x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Rydah J. Klyde",
+         "url": "https://genius.com/artists/Rydah-j-klyde"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/651",
+        "header_image_url": "https://images.genius.com/0fce16d9a4ab27ae4e75c53cf907d75a.500x374x1.jpg",
+        "id": 651,
+        "image_url": "https://images.genius.com/4f63a504f3093611a88cf7e6fe9880ba.320x227x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mac Dre",
+        "url": "https://genius.com/artists/Mac-dre"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/13163",
+       "artist_names": "CeeLo Green (Ft. Jazze Pha & Menta Malone)",
+       "full_title": "My Kind of People by\u00a0CeeLo\u00a0Green (Ft.\u00a0Jazze\u00a0Pha & Menta\u00a0Malone)",
+       "header_image_thumbnail_url": "https://images.genius.com/d2f75eef34f85f36331a1ef5977ea3a5.297x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d2f75eef34f85f36331a1ef5977ea3a5.297x300x1.jpg",
+       "id": 13163,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Ceelo-green-my-kind-of-people-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ceelo-green-my-kind-of-people-sample",
+       "release_date_components": {
+        "year": 2004,
+        "month": 3,
+        "day": 2
+       },
+       "release_date_for_display": "March 2, 2004",
+       "release_date_with_abbreviated_month_for_display": "Mar. 2, 2004",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d2f75eef34f85f36331a1ef5977ea3a5.297x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d2f75eef34f85f36331a1ef5977ea3a5.297x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "My Kind of People",
+       "title_with_featured": "My Kind of People (Ft.\u00a0Jazze\u00a0Pha & Menta\u00a0Malone)",
+       "url": "https://genius.com/Ceelo-green-my-kind-of-people-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/80244",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 80244,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Menta Malone",
+         "url": "https://genius.com/artists/Menta-malone"
+        },
+        {
+         "api_path": "/artists/2652",
+         "header_image_url": "https://images.genius.com/2365ee7dddffebf59c49946ad87da0b8.318x318x1.jpg",
+         "id": 2652,
+         "image_url": "https://images.genius.com/2365ee7dddffebf59c49946ad87da0b8.318x318x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jazze Pha",
+         "url": "https://genius.com/artists/Jazze-pha"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/4413",
+        "header_image_url": "https://images.genius.com/ca9d9a060a1089b5c4f740b8c7a39db5.1000x333x1.jpg",
+        "id": 4413,
+        "image_url": "https://images.genius.com/bf2035e369f7331ffc57a2059a9fce8a.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "CeeLo Green",
+        "url": "https://genius.com/artists/Ceelo-green",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 10,
+       "api_path": "/songs/5842022",
+       "artist_names": "Burna Boy (Ft. Sauti Sol)",
+       "full_title": "Time Flies by\u00a0Burna\u00a0Boy (Ft.\u00a0Sauti\u00a0Sol)",
+       "header_image_thumbnail_url": "https://images.genius.com/5a8d7df1cd9f7a50c0cf28578de6cacd.300x300x1.png",
+       "header_image_url": "https://images.genius.com/5a8d7df1cd9f7a50c0cf28578de6cacd.1000x1000x1.png",
+       "id": 5842022,
+       "language": "en",
+       "lyrics_owner_id": 498964,
+       "lyrics_state": "complete",
+       "path": "/Burna-boy-time-flies-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Burna-boy-time-flies-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 8,
+        "day": 13
+       },
+       "release_date_for_display": "August 13, 2020",
+       "release_date_with_abbreviated_month_for_display": "Aug. 13, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5a8d7df1cd9f7a50c0cf28578de6cacd.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/5a8d7df1cd9f7a50c0cf28578de6cacd.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 9,
+        "hot": false,
+        "pageviews": 58223
+       },
+       "title": "Time Flies",
+       "title_with_featured": "Time Flies (Ft.\u00a0Sauti\u00a0Sol)",
+       "url": "https://genius.com/Burna-boy-time-flies-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/16330",
+         "header_image_url": "https://images.genius.com/42bb264aaa32e62df607a58e5864d781.1000x720x1.jpg",
+         "id": 16330,
+         "image_url": "https://images.genius.com/58009f88ecfa219c6a6b078b80d4be95.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Sauti Sol",
+         "url": "https://genius.com/artists/Sauti-sol"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/39313",
+        "header_image_url": "https://images.genius.com/cef71f532763e70953a596e2bd5c2cac.1000x229x1.jpg",
+        "id": 39313,
+        "image_url": "https://images.genius.com/7af3374828b9ef22cc7373741880a597.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Burna Boy",
+        "url": "https://genius.com/artists/Burna-boy",
+        "iq": 734
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/33235",
+       "artist_names": "Missy Elliott (Ft. Timbaland)",
+       "full_title": "Pass Da Blunt by\u00a0Missy\u00a0Elliott (Ft.\u00a0Timbaland)",
+       "header_image_thumbnail_url": "https://images.genius.com/7c56370fb80d06a65ae8d0d483170edd.300x300x1.png",
+       "header_image_url": "https://images.genius.com/7c56370fb80d06a65ae8d0d483170edd.998x998x1.png",
+       "id": 33235,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Missy-elliott-pass-da-blunt-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Missy-elliott-pass-da-blunt-sample",
+       "release_date_components": {
+        "year": 1997,
+        "month": 7,
+        "day": 15
+       },
+       "release_date_for_display": "July 15, 1997",
+       "release_date_with_abbreviated_month_for_display": "Jul. 15, 1997",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7c56370fb80d06a65ae8d0d483170edd.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/7c56370fb80d06a65ae8d0d483170edd.998x998x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 5034
+       },
+       "title": "Pass Da Blunt",
+       "title_with_featured": "Pass Da Blunt (Ft.\u00a0Timbaland)",
+       "url": "https://genius.com/Missy-elliott-pass-da-blunt-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/112",
+         "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+         "id": 112,
+         "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Timbaland",
+         "url": "https://genius.com/artists/Timbaland"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1529",
+        "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+        "id": 1529,
+        "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Missy Elliott",
+        "url": "https://genius.com/artists/Missy-elliott"
+       }
+      },
+      {
+       "annotation_count": 24,
+       "api_path": "/songs/1071",
+       "artist_names": "Young Money (Ft. Fre$h (Short Dawg))",
+       "full_title": "Pass the Dutch by\u00a0Young\u00a0Money (Ft.\u00a0Fre$h\u00a0(Short Dawg))",
+       "header_image_thumbnail_url": "https://images.genius.com/85967f2988d0715a35c3a6f4eaf13c9f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/85967f2988d0715a35c3a6f4eaf13c9f.1000x1000x1.jpg",
+       "id": 1071,
+       "language": "en",
+       "lyrics_owner_id": 841,
+       "lyrics_state": "complete",
+       "path": "/Young-money-pass-the-dutch-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Young-money-pass-the-dutch-sample",
+       "release_date_components": {
+        "year": 2009,
+        "month": 12,
+        "day": 21
+       },
+       "release_date_for_display": "December 21, 2009",
+       "release_date_with_abbreviated_month_for_display": "Dec. 21, 2009",
+       "song_art_image_thumbnail_url": "https://images.genius.com/85967f2988d0715a35c3a6f4eaf13c9f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/85967f2988d0715a35c3a6f4eaf13c9f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 72873
+       },
+       "title": "Pass the Dutch",
+       "title_with_featured": "Pass the Dutch (Ft.\u00a0Fre$h\u00a0(Short Dawg))",
+       "url": "https://genius.com/Young-money-pass-the-dutch-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/566",
+         "header_image_url": "https://images.genius.com/dd312261752b477a5e85afca5fa71e92.1000x1000x1.jpg",
+         "id": 566,
+         "image_url": "https://images.genius.com/dd312261752b477a5e85afca5fa71e92.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Fre$h (Short Dawg)",
+         "url": "https://genius.com/artists/Fre-h-short-dawg"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/197",
+        "header_image_url": "https://images.genius.com/87d1f55850ff46ff273909cb33bd6021.980x1000x1.jpg",
+        "id": 197,
+        "image_url": "https://images.genius.com/9c52b213769ed70faebac3d920911292.591x591x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Young Money",
+        "url": "https://genius.com/artists/Young-money"
+       }
+      },
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/2337819",
+       "artist_names": "Teedra Moses",
+       "full_title": "Put It In The Wind by\u00a0Teedra\u00a0Moses",
+       "header_image_thumbnail_url": "https://images.genius.com/3ce7619bc82175884a20d9579744578b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3ce7619bc82175884a20d9579744578b.320x320x1.jpg",
+       "id": 2337819,
+       "language": "en",
+       "lyrics_owner_id": 353032,
+       "lyrics_state": "complete",
+       "path": "/Teedra-moses-put-it-in-the-wind-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Teedra-moses-put-it-in-the-wind-sample",
+       "release_date_components": {
+        "year": 2009,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2009",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2009",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3ce7619bc82175884a20d9579744578b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3ce7619bc82175884a20d9579744578b.320x320x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false
+       },
+       "title": "Put It In The Wind",
+       "title_with_featured": "Put It In The Wind",
+       "url": "https://genius.com/Teedra-moses-put-it-in-the-wind-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/11242",
+        "header_image_url": "https://images.genius.com/7d5f00d1dc51b40d00e9a09e91c062cd.1000x1000x1.jpg",
+        "id": 11242,
+        "image_url": "https://images.genius.com/7d5f00d1dc51b40d00e9a09e91c062cd.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Teedra Moses",
+        "url": "https://genius.com/artists/Teedra-moses"
+       }
+      },
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/1779954",
+       "artist_names": "Snoop Dogg (Ft. T.I.)",
+       "full_title": "Edibles by\u00a0Snoop\u00a0Dogg (Ft.\u00a0T.I.)",
+       "header_image_thumbnail_url": "https://images.genius.com/b70a8dcc62d2fed742fc6406b5d60520.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b70a8dcc62d2fed742fc6406b5d60520.1000x1000x1.jpg",
+       "id": 1779954,
+       "language": "en",
+       "lyrics_owner_id": 918020,
+       "lyrics_state": "complete",
+       "path": "/Snoop-dogg-edibles-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Snoop-dogg-edibles-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 5,
+        "day": 12
+       },
+       "release_date_for_display": "May 12, 2015",
+       "release_date_with_abbreviated_month_for_display": "May. 12, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b70a8dcc62d2fed742fc6406b5d60520.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b70a8dcc62d2fed742fc6406b5d60520.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 9593
+       },
+       "title": "Edibles",
+       "title_with_featured": "Edibles (Ft.\u00a0T.I.)",
+       "url": "https://genius.com/Snoop-dogg-edibles-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/85",
+         "header_image_url": "https://images.genius.com/9a7118eb0b1e83879cdb4b7855158d53.320x180x1.jpg",
+         "id": 85,
+         "image_url": "https://images.genius.com/6f1e66b5da6bb21cceee3cee5fb5dab5.272x272x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "T.I.",
+         "url": "https://genius.com/artists/Ti",
+         "iq": 7652
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/46",
+        "header_image_url": "https://images.genius.com/4a8a11f406cfaa80085daaee24b78863.1000x563x1.jpg",
+        "id": 46,
+        "image_url": "https://images.genius.com/91bd22f5e53a3ea3cb1436de8f4a3722.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Snoop Dogg",
+        "url": "https://genius.com/artists/Snoop-dogg",
+        "iq": 5139
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/10715",
+       "artist_names": "Black Eyed Peas (Ft. Dante Santiago)",
+       "full_title": "Dum Diddly by\u00a0Black\u00a0Eyed Peas (Ft.\u00a0Dante\u00a0Santiago)",
+       "header_image_thumbnail_url": "https://images.genius.com/7ff058b904a793e7e16d79e276c1133a.220x220x1.png",
+       "header_image_url": "https://images.genius.com/7ff058b904a793e7e16d79e276c1133a.220x220x1.png",
+       "id": 10715,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Black-eyed-peas-dum-diddly-lyrics",
+       "pyongs_count": 6,
+       "relationships_index_url": "https://genius.com/Black-eyed-peas-dum-diddly-sample",
+       "release_date_components": {
+        "year": 2005,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2005",
+       "release_date_with_abbreviated_month_for_display": "2005",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7ff058b904a793e7e16d79e276c1133a.220x220x1.png",
+       "song_art_image_url": "https://images.genius.com/7ff058b904a793e7e16d79e276c1133a.220x220x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 7622
+       },
+       "title": "Dum Diddly",
+       "title_with_featured": "Dum Diddly (Ft.\u00a0Dante\u00a0Santiago)",
+       "url": "https://genius.com/Black-eyed-peas-dum-diddly-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/72814",
+         "header_image_url": "https://images.genius.com/1699ae2fe45b06b6aef711976453b9aa.360x360x1.jpg",
+         "id": 72814,
+         "image_url": "https://images.genius.com/1699ae2fe45b06b6aef711976453b9aa.360x360x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Dante Santiago",
+         "url": "https://genius.com/artists/Dante-santiago"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/425",
+        "header_image_url": "https://images.genius.com/14252d92f5fcf3fc2f8b89e5e304e73d.1000x429x1.jpg",
+        "id": 425,
+        "image_url": "https://images.genius.com/02d2fd0d8011294d42524620f458b529.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Black Eyed Peas",
+        "url": "https://genius.com/artists/Black-eyed-peas",
+        "iq": 169
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/18472",
+       "artist_names": "E-40 (Ft. B-Legit & Celly Cel)",
+       "full_title": "H.I. Double L. by\u00a0E-40 (Ft.\u00a0B-Legit & Celly\u00a0Cel)",
+       "header_image_thumbnail_url": "https://images.genius.com/b52b581f902f3353abd2c96694363546.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b52b581f902f3353abd2c96694363546.800x800x1.jpg",
+       "id": 18472,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/E-40-hi-double-l-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/E-40-hi-double-l-sample",
+       "release_date_components": {
+        "year": 1995,
+        "month": 3,
+        "day": 14
+       },
+       "release_date_for_display": "March 14, 1995",
+       "release_date_with_abbreviated_month_for_display": "Mar. 14, 1995",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b52b581f902f3353abd2c96694363546.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b52b581f902f3353abd2c96694363546.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "H.I. Double L.",
+       "title_with_featured": "H.I. Double L. (Ft.\u00a0B-Legit & Celly\u00a0Cel)",
+       "url": "https://genius.com/E-40-hi-double-l-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3310",
+         "header_image_url": "https://images.genius.com/2657fa61148edc073de63bedd57fa107.359x359x1.jpg",
+         "id": 3310,
+         "image_url": "https://images.genius.com/2657fa61148edc073de63bedd57fa107.359x359x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Celly Cel",
+         "url": "https://genius.com/artists/Celly-cel"
+        },
+        {
+         "api_path": "/artists/1227",
+         "header_image_url": "https://images.genius.com/b612fd5c051f630ad532202cb52a6b84.467x467x1.jpg",
+         "id": 1227,
+         "image_url": "https://images.genius.com/b612fd5c051f630ad532202cb52a6b84.467x467x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "B-Legit",
+         "url": "https://genius.com/artists/B-legit"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/405",
+        "header_image_url": "https://images.genius.com/0d449cdcd71f97b47b8cdff2a992666b.1000x563x1.jpg",
+        "id": 405,
+        "image_url": "https://s3.amazonaws.com/rapgenius/429360_10150592533032050_1732757056_n.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "E-40",
+        "url": "https://genius.com/artists/E-40",
+        "iq": 2552
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/1693154",
+       "artist_names": "The Mighty Diamonds",
+       "full_title": "Pass The Kouchie by\u00a0The\u00a0Mighty Diamonds",
+       "header_image_thumbnail_url": "https://images.genius.com/738ddcb18c4178356bb615f1c17a6404.300x301x1.jpg",
+       "header_image_url": "https://images.genius.com/738ddcb18c4178356bb615f1c17a6404.600x601x1.jpg",
+       "id": 1693154,
+       "language": "en",
+       "lyrics_owner_id": 3492882,
+       "lyrics_state": "complete",
+       "path": "/The-mighty-diamonds-pass-the-kouchie-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-mighty-diamonds-pass-the-kouchie-sample",
+       "release_date_components": {
+        "year": 1981,
+        "month": 11,
+        "day": null
+       },
+       "release_date_for_display": "November 1981",
+       "release_date_with_abbreviated_month_for_display": "Nov. 1981",
+       "song_art_image_thumbnail_url": "https://images.genius.com/738ddcb18c4178356bb615f1c17a6404.300x301x1.jpg",
+       "song_art_image_url": "https://images.genius.com/738ddcb18c4178356bb615f1c17a6404.600x601x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 18257
+       },
+       "title": "Pass The Kouchie",
+       "title_with_featured": "Pass The Kouchie",
+       "url": "https://genius.com/The-mighty-diamonds-pass-the-kouchie-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/350720",
+        "header_image_url": "https://images.genius.com/6390e9e18b93afa81384246ce6d26cf3.480x360x1.jpg",
+        "id": 350720,
+        "image_url": "https://images.genius.com/2752680792d3b03f98958ea56c1817da.683x683x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Mighty Diamonds",
+        "url": "https://genius.com/artists/The-mighty-diamonds"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/528970",
+     "header_image_url": "https://images.genius.com/7f0e8ccd192290c7ba6826ab859e1c9f.430x430x1.jpg",
+     "id": 528970,
+     "image_url": "https://images.genius.com/7f0e8ccd192290c7ba6826ab859e1c9f.430x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jackie Mittoo",
+     "url": "https://genius.com/artists/Jackie-mittoo"
+    },
+    {
+     "api_path": "/artists/664555",
+     "header_image_url": "https://images.genius.com/1ab694baf4c6ccece3be81cd59190941.300x300x1.jpg",
+     "id": 664555,
+     "image_url": "https://images.genius.com/1ab694baf4c6ccece3be81cd59190941.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leroy Sibbles",
+     "url": "https://genius.com/artists/Leroy-sibbles"
+    }
+   ],
+   "artist": "Musical Youth",
+   "lyrics": "39 ContributorsPass the Dutchie Lyrics[Intro]\nThis generation\nRules di nation\nWith version\nMusic happen to be the food of love\nSounds to really make you rub an' scrub\n*Scatting* (I say)\n\n[Chorus]\nPass di Dutchie 'pon di left hand side (I say)\nPass di Dutchie 'pon di left hand side\nIt are go bun, give me di music, make mi jump an' prance\nIt are go dun, give mi di music, make mi rockin' at di dance\nJah know!\n\n[Verse 1]\nIt was a cool an' lonely breezy afternoon\nHow does it feel when you've got no food?\nYou could feel it 'cause it was the month of June\nHow does it feel when you've got no food?\nSo I left my gate an' went out for a walk\nHow does it feel when you've got no food?\nAs I pass the dreadlocks' camp I heard them say\nHow does it feel when you've got no food?\n\n[Chorus]\nPass di Dutchie 'pon di left hand side (I say)\nPass di Dutchie 'pon di left hand side\nIt are go bun, give me di music, make mi jump an' prance\nIt are go dun, give mi di music, make mi rockin' at di dance\nJah know! *Scatting*\nYou might also like[Verse 2]\nSo I stopped to find out what was going on\nHow does it feel when you've got no food?\n'Cause the spirit of Jah, you know he leads you on\nHow does it feel when you've got no food?\nThere was a ring of dreads an' a session was there in swing\nHow does it feel when you've got no food?\nYou could feel the chill as I seen an' heard them say\nHow does it feel when you've got no food?\n\n[Chorus]\nPass di Dutchie 'pon di left hand side (I say)\nPass di Dutchie 'pon di left hand side\nIt are go bun, give me di music, make mi jump an' prance\nIt are go dun, give mi di music, make mi rockin' at di dance\nJah know!\n\n[Bridge 1]\nNow mi say listen to di drum, an' mi say listen to di bass\nGive mi little music, make mi wind up mi waist\nMi say, listen to di drum, an' mi say listen to di bass\nGive mi little music, make mi wind up mi waist (I say)\n\n[Chorus]\nPass di Dutchie 'pon di left hand side (I say)\nPass di Dutchie 'pon di left hand side\nIt are go bun, give me di music, make mi jump an' prance\nIt are go dun, give mi di music, make mi rockin' at di dance\nJah know!\n[Bridge 2]\nYou play it on the radio\nAn' so mi say, we are go hear it on the stereo\nAn' so mi know, we are go play it on the disco\nAn' so mi say, we are go hear it on the stereo (Bow)\n\n[Chorus]\nPass di Dutchie 'pon di left hand side (I say)\nPass di Dutchie 'pon di left hand side\nIt are go bun, give me di music, make mi jump an' prance\nIt are go dun, give mi di music, make mi rockin' at di dance\nJah know!\n\n[Outro]\nCah mi say, say east, say west, say north an' south\nThis is gonna really make we jump an' shout5Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/959609",
+   "artist_names": "Musical Youth",
+   "full_title": "Youth of Today by\u00a0Musical\u00a0Youth",
+   "header_image_thumbnail_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+   "id": 959609,
+   "language": "en",
+   "lyrics_owner_id": 275705,
+   "lyrics_state": "complete",
+   "path": "/Musical-youth-youth-of-today-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Musical-youth-youth-of-today-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Youth of Today",
+   "title_with_featured": "Youth of Today",
+   "url": "https://genius.com/Musical-youth-youth-of-today-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/44324",
+    "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+    "id": 44324,
+    "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Musical Youth",
+    "url": "https://genius.com/artists/Musical-youth"
+   },
+   "apple_music_id": "1446924441",
+   "apple_music_player_url": "https://genius.com/songs/959609/apple_music_player",
+   "description": {
+    "plain": "Minigok"
+   },
+   "embed_content": "<div id='rg_embed_link_959609' class='rg_embed_link' data-song-id='959609'>Read <a href='https://genius.com/Musical-youth-youth-of-today-lyrics'>\u201cYouth of Today\u201d by Musical\u00a0Youth</a> on Genius</div> <script crossorigin src='//genius.com/songs/959609/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/251211",
+    "cover_art_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+    "full_title": "The Youth of Today by Musical Youth",
+    "id": 251211,
+    "name": "The Youth of Today",
+    "release_date_for_display": "January 1, 1982",
+    "url": "https://genius.com/albums/Musical-youth/The-youth-of-today",
+    "artist": {
+     "api_path": "/artists/44324",
+     "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+     "id": 44324,
+     "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Musical Youth",
+     "url": "https://genius.com/artists/Musical-youth"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5058636,
+    "annotator_login": "stinefreshness",
+    "api_path": "/referents/5453795",
+    "classification": "unreviewed",
+    "fragment": "Youth of Today",
+    "id": 5453795,
+    "is_description": true,
+    "path": "/5453795/Musical-youth-youth-of-today/Youth-of-today",
+    "range": {
+     "content": "Youth of Today"
+    },
+    "song_id": 959609,
+    "url": "https://genius.com/5453795/Musical-youth-youth-of-today/Youth-of-today",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/959609",
+     "client_timestamps": {
+      "updated_by_human_at": 1616798456,
+      "lyrics_updated_at": 1616798456
+     },
+     "context": "Musical Youth",
+     "id": 959609,
+     "image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+     "link_title": "Youth of Today by\u00a0Musical\u00a0Youth",
+     "title": "Youth of Today",
+     "type": "Song",
+     "url": "https://genius.com/Musical-youth-youth-of-today-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5453795",
+      "body": {
+       "plain": "Minigok"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5453795,
+      "pinned": false,
+      "share_url": "https://genius.com/5453795",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5453795/Musical-youth-youth-of-today/Youth-of-today",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5058636",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/792c505b3335ba57a23a78962edba080",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/792c505b3335ba57a23a78962edba080",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/792c505b3335ba57a23a78962edba080",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/792c505b3335ba57a23a78962edba080",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/792c505b3335ba57a23a78962edba080",
+         "human_readable_role_for_display": null,
+         "id": 5058636,
+         "iq": 110,
+         "login": "stinefreshness",
+         "name": "stinefreshness",
+         "role_for_display": null,
+         "url": "https://genius.com/stinefreshness",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=sK7K4YAjDP4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/61615",
+     "header_image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "id": 61615,
+     "image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Collins",
+     "url": "https://genius.com/artists/Peter-collins"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2099664",
+     "header_image_url": "https://images.genius.com/d8a6a38cbfdde146b5ef812de3ddd006.430x430x1.jpg",
+     "id": 2099664,
+     "image_url": "https://images.genius.com/d8a6a38cbfdde146b5ef812de3ddd006.430x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dennis Seaton",
+     "url": "https://genius.com/artists/Dennis-seaton"
+    },
+    {
+     "api_path": "/artists/2099663",
+     "header_image_url": "https://images.genius.com/a4e8dab52d6cb26b51f84a68b2f57ef3.382x382x1.jpg",
+     "id": 2099663,
+     "image_url": "https://images.genius.com/a4e8dab52d6cb26b51f84a68b2f57ef3.382x382x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelvin Grant",
+     "url": "https://genius.com/artists/Kelvin-grant"
+    },
+    {
+     "api_path": "/artists/571932",
+     "header_image_url": "https://images.genius.com/bac3c9309bf5f5978f91c2240dc1737c.404x404x1.jpg",
+     "id": 571932,
+     "image_url": "https://images.genius.com/bac3c9309bf5f5978f91c2240dc1737c.404x404x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Grant",
+     "url": "https://genius.com/artists/Michael-grant"
+    },
+    {
+     "api_path": "/artists/2099662",
+     "header_image_url": "https://images.genius.com/4ca5fff0f5f17bb3cd7872ef11155ff4.381x381x1.jpg",
+     "id": 2099662,
+     "image_url": "https://images.genius.com/4ca5fff0f5f17bb3cd7872ef11155ff4.381x381x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Waite",
+     "url": "https://genius.com/artists/Patrick-waite"
+    },
+    {
+     "api_path": "/artists/1228120",
+     "header_image_url": "https://images.genius.com/b9e2934018fe7306873ce96650a404ee.361x361x1.jpg",
+     "id": 1228120,
+     "image_url": "https://images.genius.com/b9e2934018fe7306873ce96650a404ee.361x361x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Freddie Waite",
+     "url": "https://genius.com/artists/Freddie-waite"
+    }
+   ],
+   "artist": "Musical Youth",
+   "lyrics": "4 ContributorsYouth of Today Lyrics[Intro]\nDennis, come back with my apple pie!\nDon't blame the youth (Don't blame the youth)\nDon't take us for fools (Don't blame the youth)\nYou know that it's true (Don't blame the youth)\nSo don't blame the youth (Don't blame the youth)\n\n[Hook]\nThe youth of today has got lots to say\nIt's our life, it's our future\nBecause we're living today\nSo don't blame the youth\nWhat do you say?\n\n[Verse 1]\nMy mother went to town to buy a little bike\nAnd when she see the price she nearly lose her sight\nCa dis a judgement time, slang bong\nLord, ca dis a judgement time\nSlang-bong-bong-bong-ai\n\n[Refrain]\nThe youth of today\nThe youth of today\nWe're under heavy heavy manners, yeah\nWe're under heavy heavy manners, yeah\nWhat did he say?\nYou might also like[Verse 2]\nI went down-town to buy a set of drums\nBut when me see the price\nIt have me tumble down\nCa dis a judgement time, boy!\nLord ca dis a judgement time\nDo it right!\n\n[Refrain]\nThe youth of today\nThe youth of today\nWe're under heavy heavy manners, yeah\nWe're under heavy heavy manners, yeah\nWhat did he say?\n\n[Verse 3]\nI went down-town to go buy keyboard\nThe price of the board make me shout out loud\nCa dis a judgement time\nSlong-bong-biddley-bong\nCa dis a judgement time mirror style\n\n[Refrain]\nThe youth of today\nThe youth of today\nWe're under heavy heavy manners, yeah\nWe're under heavy heavy manners, yeah\nAll night long shine\n\n[Hook]\nThe youth of today has got lots to say\nIt's our life, our future\nBecause we're living today\nDon't blame the youth (Don't blame the youth)\nDon't take us for fools (Don't blame the youth)\nYou know that it's true (Don't blame the youth)\n\n[Outro]\nMy mother went to town to buy a little bike\nAnd when she see the price she nearly lose her sight (Don't blame the youth)\nCa dis a judgement time, slang bong (Don't blame the youth)\nLord, ca dis a judgement time (Don't blame the youth)\nSlang-bong-bong-bong-ai\nDon't blame the youth\nDon't blame the youth\nWe used to do it at the musical workshopEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5234615",
+   "artist_names": "Musical Youth",
+   "full_title": "Young Generation by\u00a0Musical\u00a0Youth",
+   "header_image_thumbnail_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.300x299x1.jpg",
+   "header_image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+   "id": 5234615,
+   "language": "en",
+   "lyrics_owner_id": 8613973,
+   "lyrics_state": "complete",
+   "path": "/Musical-youth-young-generation-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Musical-youth-young-generation-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Young Generation",
+   "title_with_featured": "Young Generation",
+   "url": "https://genius.com/Musical-youth-young-generation-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/44324",
+    "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+    "id": 44324,
+    "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Musical Youth",
+    "url": "https://genius.com/artists/Musical-youth"
+   },
+   "apple_music_id": "1446924446",
+   "apple_music_player_url": "https://genius.com/songs/5234615/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5234615' class='rg_embed_link' data-song-id='5234615'>Read <a href='https://genius.com/Musical-youth-young-generation-lyrics'>\u201cYoung Generation\u201d by Musical\u00a0Youth</a> on Genius</div> <script crossorigin src='//genius.com/songs/5234615/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/251211",
+    "cover_art_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+    "full_title": "The Youth of Today by Musical Youth",
+    "id": 251211,
+    "name": "The Youth of Today",
+    "release_date_for_display": "January 1, 1982",
+    "url": "https://genius.com/albums/Musical-youth/The-youth-of-today",
+    "artist": {
+     "api_path": "/artists/44324",
+     "header_image_url": "https://images.genius.com/d3c13e4f27f7035e1cb5fb42a4d027d2.550x550x1.jpg",
+     "id": 44324,
+     "image_url": "https://images.genius.com/aa6d45b4257f7f94f6f723c3d7019043.378x378x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Musical Youth",
+     "url": "https://genius.com/artists/Musical-youth"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8613973,
+    "annotator_login": "artursd",
+    "api_path": "/referents/18988702",
+    "classification": "needs_exegesis",
+    "fragment": "Young Generation",
+    "id": 18988702,
+    "is_description": true,
+    "path": "/18988702/Musical-youth-young-generation/Young-generation",
+    "range": {
+     "content": "Young Generation"
+    },
+    "song_id": 5234615,
+    "url": "https://genius.com/18988702/Musical-youth-young-generation/Young-generation",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5234615",
+     "client_timestamps": {
+      "updated_by_human_at": 1580923748,
+      "lyrics_updated_at": 1580923131
+     },
+     "context": "Musical Youth",
+     "id": 5234615,
+     "image_url": "https://images.genius.com/3b39449335a39f400591a4776e8fd5d3.1000x995x1.jpg",
+     "link_title": "Young Generation by\u00a0Musical\u00a0Youth",
+     "title": "Young Generation",
+     "type": "Song",
+     "url": "https://genius.com/Musical-youth-young-generation-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18988702",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18988702,
+      "pinned": false,
+      "share_url": "https://genius.com/18988702",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18988702/Musical-youth-young-generation/Young-generation",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8613973",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c2c78371b52d67b5e75ed6203ff89904",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c2c78371b52d67b5e75ed6203ff89904",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c2c78371b52d67b5e75ed6203ff89904",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c2c78371b52d67b5e75ed6203ff89904",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/c2c78371b52d67b5e75ed6203ff89904",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8613973,
+         "iq": 2179539,
+         "login": "artursd",
+         "name": "artursd",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/artursd",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/61615",
+     "header_image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "id": 61615,
+     "image_url": "https://images.genius.com/cd1042ea4312fc4156eacb2de0d7289f.300x296x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Peter Collins",
+     "url": "https://genius.com/artists/Peter-collins"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2099664",
+     "header_image_url": "https://images.genius.com/d8a6a38cbfdde146b5ef812de3ddd006.430x430x1.jpg",
+     "id": 2099664,
+     "image_url": "https://images.genius.com/d8a6a38cbfdde146b5ef812de3ddd006.430x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dennis Seaton",
+     "url": "https://genius.com/artists/Dennis-seaton"
+    },
+    {
+     "api_path": "/artists/1228120",
+     "header_image_url": "https://images.genius.com/b9e2934018fe7306873ce96650a404ee.361x361x1.jpg",
+     "id": 1228120,
+     "image_url": "https://images.genius.com/b9e2934018fe7306873ce96650a404ee.361x361x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Freddie Waite",
+     "url": "https://genius.com/artists/Freddie-waite"
+    },
+    {
+     "api_path": "/artists/2099663",
+     "header_image_url": "https://images.genius.com/a4e8dab52d6cb26b51f84a68b2f57ef3.382x382x1.jpg",
+     "id": 2099663,
+     "image_url": "https://images.genius.com/a4e8dab52d6cb26b51f84a68b2f57ef3.382x382x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kelvin Grant",
+     "url": "https://genius.com/artists/Kelvin-grant"
+    },
+    {
+     "api_path": "/artists/571932",
+     "header_image_url": "https://images.genius.com/bac3c9309bf5f5978f91c2240dc1737c.404x404x1.jpg",
+     "id": 571932,
+     "image_url": "https://images.genius.com/bac3c9309bf5f5978f91c2240dc1737c.404x404x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Grant",
+     "url": "https://genius.com/artists/Michael-grant"
+    },
+    {
+     "api_path": "/artists/2099662",
+     "header_image_url": "https://images.genius.com/4ca5fff0f5f17bb3cd7872ef11155ff4.381x381x1.jpg",
+     "id": 2099662,
+     "image_url": "https://images.genius.com/4ca5fff0f5f17bb3cd7872ef11155ff4.381x381x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Waite",
+     "url": "https://genius.com/artists/Patrick-waite"
+    }
+   ],
+   "artist": "Musical Youth",
+   "lyrics": "1 ContributorYoung Generation LyricsYoung generation come fe mash up de nation\nCome dis a one, on a dis a\u2005amogideon\nWe\u2005come mash it\u2005in a version slang bang\n\nCa me\u2005say young generation\nCome fe mash up de nation\nYoung generation\nCome fe mash up de nation\nWe come fe mash up dis a one\nIn a dis a amogideon\n\nMe say you rock dis a one\nMake your sister understand\nRock dis a two make you feel true and true\nRock dis a three make you feel ire\nRock dis a four dem skank on the floor\nRock dis a five make de people come alive\nRock dis a seven dem gone up to heaven\nRock dis a eight dem gone for a date\nRock dis a nine dem no know de time\nRock dis a ten we start all again\n\nCa me say young generation\nCome fe mash up de nation\nYoung generation\nCome fe mash up de nation\nWe come fe mash up dis a one\nIn a dis a amogideon\nYou might also likeMe say me have a old Granny and she have a slip disk\nMe have a old Granny and she have a slip disk\nMe carry her go a doctor fe go get better\nMe carry her go a doctor fe go get better\nDe doctor tell me Granny fe no take too much risk\nDe doctor tell me Granny fe no take too much risk\nAnd her slip disk will get better ribbit\nAnd her slip disk will get better bim\n\nCa me say young generation\nCome fe mash up de nation\nYoung generation\nCome fe mash up de nation\nWe come fe mash dis a one\nIn dis a amogideon\n\nCa me say how you know say jah, jah a de\nBest sly die sly row you know say jah, jah\nA de best bim\n\nHim spend forty days and night in a de wilderness\nSearching to find some peace and rest\nAnd after that there come happiness\nMe say we carry rasta drum and then we carry Congo Stan\nI tell you Israelite we a go feel alright\nWe carry rasta drum and then we carry Congo Stan\nI tell you Israelite we a go feel alright\nCa me say young generation\nCome fe mash up de nation\nYoung generation\nCome fe mash up de nation\nWe come fe mash up dis a one\nIn a dis a amogideon\nIn a dis a amogideon\nIn a dis a amogideonEmbed"
+  }
+ ]
+}

@@ -1,0 +1,2588 @@
+{
+ "alternate_names": [
+  "Tyree Cinque Simmons",
+  "Tyree Simmons"
+ ],
+ "api_path": "/artists/301",
+ "description": {
+  "plain": "Drama broke down for us exactly why he loves his job:\n\nhttp://players.brightcove.net/4863540648001/HklmClHkx_default/index.html?videoId=5237526638001"
+ },
+ "facebook_name": "DJDRAMA",
+ "followers_count": 741,
+ "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+ "id": 301,
+ "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "DJ Drama",
+ "translation_artist": false,
+ "twitter_name": "DJDRAMA",
+ "url": "https://genius.com/artists/Dj-drama",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1565,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 173194,
+  "annotator_login": "ReadOnlyUser",
+  "api_path": "/referents/6925965",
+  "classification": "accepted",
+  "fragment": "DJ Drama",
+  "id": 6925965,
+  "is_description": true,
+  "path": "/6925965/Dj-drama/Dj-drama",
+  "range": {
+   "content": "DJ Drama"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6925965/Dj-drama/Dj-drama",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/301",
+   "context": null,
+   "id": 301,
+   "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+   "link_title": "DJ Drama",
+   "title": "DJ Drama",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Dj-drama"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6925965",
+    "body": {
+     "plain": "Drama broke down for us exactly why he loves his job:\n\nhttp://players.brightcove.net/4863540648001/HklmClHkx_default/index.html?videoId=5237526638001"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6925965,
+    "pinned": false,
+    "share_url": "https://genius.com/6925965",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6925965/Dj-drama/Dj-drama",
+    "verified": false,
+    "votes_total": 13,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.7317073170731707,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/173194",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9afe669951ef0a29def73ab9d3f384ec",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/CJRmBlbbSyGu4Qug2LjE_t3_2x7xqo.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 173194,
+       "iq": 57830,
+       "login": "ReadOnlyUser",
+       "name": "Somedamnname",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ReadOnlyUser",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.2682926829268293,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/16",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/Sf2Ln6jT56GIeteSc7gq.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 16,
+       "iq": 581559,
+       "login": "SameOldShawn",
+       "name": "SameOldShawn",
+       "role_for_display": "editor",
+       "url": "https://genius.com/SameOldShawn",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/224949",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/d1a53831a521c0acbece46f2a3f93f8e",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/d1a53831a521c0acbece46f2a3f93f8e",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/d1a53831a521c0acbece46f2a3f93f8e",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/d1a53831a521c0acbece46f2a3f93f8e",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 224949,
+  "iq": 1565,
+  "login": "DramaLikeTheDJ",
+  "name": "DJ Drama",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/DramaLikeTheDJ",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/2467401",
+   "artist_names": "DJ Drama (Ft. Chris Brown, LyQuin & Skeme)",
+   "full_title": "Wishing by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, LyQuin & Skeme)",
+   "header_image_thumbnail_url": "https://images.genius.com/e6e15901185a3870322ed01d5c090d71.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e6e15901185a3870322ed01d5c090d71.1000x1000x1.jpg",
+   "id": 2467401,
+   "language": "en",
+   "lyrics_owner_id": 126836,
+   "lyrics_state": "complete",
+   "path": "/Dj-drama-wishing-lyrics",
+   "pyongs_count": 21,
+   "relationships_index_url": "https://genius.com/Dj-drama-wishing-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 5,
+    "day": 6
+   },
+   "release_date_for_display": "May 6, 2016",
+   "release_date_with_abbreviated_month_for_display": "May. 6, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/949f1ec13ff58a788a9ad3a6476b4252.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/949f1ec13ff58a788a9ad3a6476b4252.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 48,
+    "iq_earners": 47,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 384290
+   },
+   "title": "Wishing",
+   "title_with_featured": "Wishing (Ft.\u00a0Chris\u00a0Brown, LyQuin & Skeme)",
+   "url": "https://genius.com/Dj-drama-wishing-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "api_path": "/artists/661867",
+     "header_image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+     "id": 661867,
+     "image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LyQuin",
+     "url": "https://genius.com/artists/Lyquin"
+    },
+    {
+     "api_path": "/artists/12939",
+     "header_image_url": "https://images.genius.com/275bab31ea50d9caa30bf6ef1e85a3f6.1000x1000x1.jpg",
+     "id": 12939,
+     "image_url": "https://images.genius.com/eb69085b6707b2690bec0fa3779c5ab8.772x772x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Skeme",
+     "url": "https://genius.com/artists/Skeme",
+     "iq": 399
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/301",
+    "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+    "id": 301,
+    "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "DJ Drama",
+    "url": "https://genius.com/artists/Dj-drama",
+    "iq": 1565
+   },
+   "apple_music_id": "1132708670",
+   "apple_music_player_url": "https://genius.com/songs/2467401/apple_music_player",
+   "description": {
+    "plain": "DJ Drama created this song with a roster of artists at various level of notoriety: the mega famous Chris Brown, the indie rapper from Southern Cali Skeme, and LyQuin, who is in the nascent stage of his career, with just two mixtapes under his belt. This is the first major placement for producer JnatBeats (aside from a Lil Uzi Vert song).\n\nThis was the first song that Dram released ahead of his 2016 album Quality Street Music 2\u2014the first installment dropped in 2012.\n\nThis song samples the intro of \u201cDisrespectful\u201d by Trey Songz & Mila J."
+   },
+   "embed_content": "<div id='rg_embed_link_2467401' class='rg_embed_link' data-song-id='2467401'>Read <a href='https://genius.com/Dj-drama-wishing-lyrics'>\u201cWishing\u201d by DJ\u00a0Drama</a> on Genius</div> <script crossorigin src='//genius.com/songs/2467401/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Means Street Studios, Atlanta",
+   "release_date": "2016-05-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/127685",
+    "cover_art_url": "https://images.genius.com/20c0691b9f9eacd67121a386b1f387b7.1000x1000x1.jpg",
+    "full_title": "Quality Street Music 2 by DJ Drama",
+    "id": 127685,
+    "name": "Quality Street Music 2",
+    "release_date_for_display": "July 22, 2016",
+    "url": "https://genius.com/albums/Dj-drama/Quality-street-music-2",
+    "artist": {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2160558",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2160558,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eavvon O\u2019Neal",
+       "url": "https://genius.com/artists/Eavvon-oneal"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1677366",
+       "header_image_url": "https://images.genius.com/02a1a7217ac7aeaeea54a22f7425868a.1000x667x1.png",
+       "id": 1677366,
+       "image_url": "https://images.genius.com/100f47aa310cb7268362344ab38be2d4.684x684x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u200beOne Music",
+       "url": "https://genius.com/artists/Eone-music"
+      },
+      {
+       "api_path": "/artists/1147907",
+       "header_image_url": "https://images.genius.com/f2f28517059df4ca8baa5d70f3c5ba84.452x84x1.png",
+       "id": 1147907,
+       "image_url": "https://images.genius.com/a17ab8689c551bbce2e2e78f93c1dbe5.640x640x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Generation Now",
+       "url": "https://genius.com/artists/Generation-now"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1829294,
+    "annotator_login": "jcuffy",
+    "api_path": "/referents/9103911",
+    "classification": "accepted",
+    "fragment": "Wishing",
+    "id": 9103911,
+    "is_description": true,
+    "path": "/9103911/Dj-drama-wishing/Wishing",
+    "range": {
+     "content": "Wishing"
+    },
+    "song_id": 2467401,
+    "url": "https://genius.com/9103911/Dj-drama-wishing/Wishing",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2467401",
+     "client_timestamps": {
+      "updated_by_human_at": 1673705124,
+      "lyrics_updated_at": 1673705124
+     },
+     "context": "DJ Drama",
+     "id": 2467401,
+     "image_url": "https://images.genius.com/949f1ec13ff58a788a9ad3a6476b4252.1000x1000x1.jpg",
+     "link_title": "Wishing by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, LyQuin & Skeme)",
+     "title": "Wishing",
+     "type": "Song",
+     "url": "https://genius.com/Dj-drama-wishing-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9103911",
+      "body": {
+       "plain": "DJ Drama created this song with a roster of artists at various level of notoriety: the mega famous Chris Brown, the indie rapper from Southern Cali Skeme, and LyQuin, who is in the nascent stage of his career, with just two mixtapes under his belt. This is the first major placement for producer JnatBeats (aside from a Lil Uzi Vert song).\n\nThis was the first song that Dram released ahead of his 2016 album Quality Street Music 2\u2014the first installment dropped in 2012.\n\nThis song samples the intro of \u201cDisrespectful\u201d by Trey Songz & Mila J."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9103911,
+      "pinned": false,
+      "share_url": "https://genius.com/9103911",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9103911/Dj-drama-wishing/Wishing",
+      "verified": false,
+      "votes_total": 46,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.875,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2197748",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fd29396ffdc54c11d855f3378124aa66",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fd29396ffdc54c11d855f3378124aa66",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fd29396ffdc54c11d855f3378124aa66",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fd29396ffdc54c11d855f3378124aa66",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/fd29396ffdc54c11d855f3378124aa66",
+         "human_readable_role_for_display": "Editor",
+         "id": 2197748,
+         "iq": 25457,
+         "login": "sam_satomi",
+         "name": "sam_satomi",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sam_satomi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.125,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1829294",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8b476727dccc2f425e83254ca6d72094",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8b476727dccc2f425e83254ca6d72094",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8b476727dccc2f425e83254ca6d72094",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8b476727dccc2f425e83254ca6d72094",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8b476727dccc2f425e83254ca6d72094",
+         "human_readable_role_for_display": null,
+         "id": 1829294,
+         "iq": 237,
+         "login": "jcuffy",
+         "name": "jcuffy",
+         "role_for_display": null,
+         "url": "https://genius.com/jcuffy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 20,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PX6aUukO8z8"
+    },
+    {
+     "native_uri": "spotify:track:3CBjt0dsLlaz9h2OodDYAW",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3CBjt0dsLlaz9h2OodDYAW"
+    },
+    {
+     "attribution": "eone music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/eone-music/dj-drama-wishin"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/622881",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 622881,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JnatBeats",
+     "url": "https://genius.com/artists/Jnatbeats"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 16,
+       "api_path": "/songs/2268339",
+       "artist_names": "Skeme",
+       "full_title": "Do It For Me by\u00a0Skeme",
+       "header_image_thumbnail_url": "https://images.genius.com/043a3277cdfc03535ef7c2c8f88dc86b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/043a3277cdfc03535ef7c2c8f88dc86b.1000x1000x1.jpg",
+       "id": 2268339,
+       "language": "en",
+       "lyrics_owner_id": 115204,
+       "lyrics_state": "complete",
+       "path": "/Skeme-do-it-for-me-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Skeme-do-it-for-me-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 6,
+        "day": 10
+       },
+       "release_date_for_display": "June 10, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jun. 10, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/043a3277cdfc03535ef7c2c8f88dc86b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/043a3277cdfc03535ef7c2c8f88dc86b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 15,
+        "hot": false
+       },
+       "title": "Do It For Me",
+       "title_with_featured": "Do It For Me",
+       "url": "https://genius.com/Skeme-do-it-for-me-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/12939",
+        "header_image_url": "https://images.genius.com/275bab31ea50d9caa30bf6ef1e85a3f6.1000x1000x1.jpg",
+        "id": 12939,
+        "image_url": "https://images.genius.com/eb69085b6707b2690bec0fa3779c5ab8.772x772x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Skeme",
+        "url": "https://genius.com/artists/Skeme",
+        "iq": 399
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/460029",
+       "artist_names": "Trey Songz (Ft. Mila J)",
+       "full_title": "Disrespectful by\u00a0Trey\u00a0Songz (Ft.\u00a0Mila\u00a0J)",
+       "header_image_thumbnail_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.1000x1000x1.jpg",
+       "id": 460029,
+       "language": "en",
+       "lyrics_owner_id": 321196,
+       "lyrics_state": "complete",
+       "path": "/Trey-songz-disrespectful-lyrics",
+       "pyongs_count": 104,
+       "relationships_index_url": "https://genius.com/Trey-songz-disrespectful-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 7,
+        "day": 1
+       },
+       "release_date_for_display": "July 1, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jul. 1, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 142198
+       },
+       "title": "Disrespectful",
+       "title_with_featured": "Disrespectful (Ft.\u00a0Mila\u00a0J)",
+       "url": "https://genius.com/Trey-songz-disrespectful-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/19285",
+         "header_image_url": "https://images.genius.com/6a5bbd04096bf5fd84812430e1e1fc44.800x315x1.png",
+         "id": 19285,
+         "image_url": "https://images.genius.com/5363c0738e8ccd3f9e6b25affe706ecc.783x783x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Mila J",
+         "url": "https://genius.com/artists/Mila-j",
+         "iq": 189
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/326",
+        "header_image_url": "https://images.genius.com/fec42cb7a6658894599556bbd1548c86.1000x995x1.jpg",
+        "id": 326,
+        "image_url": "https://images.genius.com/784d9135e67da7eb9bab97646a1d8aef.674x674x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Trey Songz",
+        "url": "https://genius.com/artists/Trey-songz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2869277",
+       "artist_names": "DJ Drama (Ft. Chris Brown, Fabolous, Jhen\u00e9 Aiko, Tory Lanez & Trey Songz)",
+       "full_title": "Wishing (Remix) by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, Fabolous, Jhen\u00e9\u00a0Aiko, Tory\u00a0Lanez & Trey\u00a0Songz)",
+       "header_image_thumbnail_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.500x500x1.jpg",
+       "id": 2869277,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Dj-drama-wishing-remix-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Dj-drama-wishing-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 191913
+       },
+       "title": "Wishing (Remix)",
+       "title_with_featured": "Wishing (Remix) (Ft.\u00a0Chris\u00a0Brown, Fabolous, Jhen\u00e9\u00a0Aiko, Tory\u00a0Lanez & Trey\u00a0Songz)",
+       "url": "https://genius.com/Dj-drama-wishing-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/438",
+         "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+         "id": 438,
+         "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Chris Brown",
+         "url": "https://genius.com/artists/Chris-brown"
+        },
+        {
+         "api_path": "/artists/1020",
+         "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+         "id": 1020,
+         "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Jhen\u00e9 Aiko",
+         "url": "https://genius.com/artists/Jhene-aiko",
+         "iq": 11376
+        },
+        {
+         "api_path": "/artists/1632",
+         "header_image_url": "https://images.genius.com/b25b80bed02917634a3387773e2e3e40.700x467x14.gif",
+         "id": 1632,
+         "image_url": "https://images.genius.com/83554e3a9e4e12f26685ec7c5247f1f5.467x467x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Tory Lanez",
+         "url": "https://genius.com/artists/Tory-lanez",
+         "iq": 9893
+        },
+        {
+         "api_path": "/artists/326",
+         "header_image_url": "https://images.genius.com/fec42cb7a6658894599556bbd1548c86.1000x995x1.jpg",
+         "id": 326,
+         "image_url": "https://images.genius.com/784d9135e67da7eb9bab97646a1d8aef.674x674x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Trey Songz",
+         "url": "https://genius.com/artists/Trey-songz"
+        },
+        {
+         "api_path": "/artists/3",
+         "header_image_url": "https://images.genius.com/87327cbb699021336651f7cd2c8ce7b9.1000x563x1.jpg",
+         "id": 3,
+         "image_url": "https://images.genius.com/8eaa26a5f0d71652f7e389d0e0b92a48.999x999x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Fabolous",
+         "url": "https://genius.com/artists/Fabolous",
+         "iq": 9216
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/301",
+        "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+        "id": 301,
+        "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "DJ Drama",
+        "url": "https://genius.com/artists/Dj-drama",
+        "iq": 1565
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2850201",
+       "artist_names": "Fabolous (Ft. DJ Drama)",
+       "full_title": "Wishing (Remix) by\u00a0Fabolous (Ft.\u00a0DJ\u00a0Drama)",
+       "header_image_thumbnail_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.1000x1000x1.jpg",
+       "id": 2850201,
+       "language": "en",
+       "lyrics_owner_id": 282633,
+       "lyrics_state": "complete",
+       "path": "/Fabolous-wishing-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Fabolous-wishing-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 2
+       },
+       "release_date_for_display": "September 2, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 2, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 45639
+       },
+       "title": "Wishing (Remix)",
+       "title_with_featured": "Wishing (Remix) (Ft.\u00a0DJ\u00a0Drama)",
+       "url": "https://genius.com/Fabolous-wishing-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/301",
+         "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+         "id": 301,
+         "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "DJ Drama",
+         "url": "https://genius.com/artists/Dj-drama",
+         "iq": 1565
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3",
+        "header_image_url": "https://images.genius.com/87327cbb699021336651f7cd2c8ce7b9.1000x563x1.jpg",
+        "id": 3,
+        "image_url": "https://images.genius.com/8eaa26a5f0d71652f7e389d0e0b92a48.999x999x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Fabolous",
+        "url": "https://genius.com/artists/Fabolous",
+        "iq": 9216
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/301",
+      "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+      "id": 301,
+      "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "DJ Drama",
+      "url": "https://genius.com/artists/Dj-drama",
+      "iq": 1565
+     },
+     "user": {
+      "api_path": "/users/224949",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/d1a53831a521c0acbece46f2a3f93f8e",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/d1a53831a521c0acbece46f2a3f93f8e",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/d1a53831a521c0acbece46f2a3f93f8e",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/d1a53831a521c0acbece46f2a3f93f8e",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 224949,
+      "iq": 1565,
+      "login": "DramaLikeTheDJ",
+      "name": "DJ Drama",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/DramaLikeTheDJ",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/661867",
+     "header_image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+     "id": 661867,
+     "image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LyQuin",
+     "url": "https://genius.com/artists/Lyquin"
+    },
+    {
+     "api_path": "/artists/622881",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 622881,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JnatBeats",
+     "url": "https://genius.com/artists/Jnatbeats"
+    },
+    {
+     "api_path": "/artists/1012064",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1012064,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barron Murray",
+     "url": "https://genius.com/artists/Barron-murray"
+    },
+    {
+     "api_path": "/artists/12939",
+     "header_image_url": "https://images.genius.com/275bab31ea50d9caa30bf6ef1e85a3f6.1000x1000x1.jpg",
+     "id": 12939,
+     "image_url": "https://images.genius.com/eb69085b6707b2690bec0fa3779c5ab8.772x772x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Skeme",
+     "url": "https://genius.com/artists/Skeme",
+     "iq": 399
+    },
+    {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    },
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    }
+   ],
+   "artist": "DJ Drama",
+   "lyrics": "48 ContributorsWishing Lyrics[Intro: DJ Drama]\nHaha, back at it\nBaby, I'ma make a wish and I want you to make one\nNah, don't tell me yet, we can talk 'bout that later\nDJ Drama\n\n[Verse 1: Chris Brown]\nI ain't like them other niggas, you see that I'm different\nI creep on the late night, I stay on a mission\nGot all types of different bitches\nPussy wet and dripping, I feel like sipping\nI eat the pussy with precision\n6 rings, Jordan, Pippen\nI do gymnastics with a brick and flip it\nMoney to the ceiling, no, I ain't tripping\nNo conversation\nThese niggas bitches be texting and sending emojis\nBut no, I don't say shit\nHe try to hang with the homies but tell on the gang\nBoy, you a straight bitch\nAnd now your girl coming over give me that booty\nKnow it's amazing, loving these bitches\nGot into trouble with bitches, can't fuck with these bitches\n[Chorus: Chris Brown]\nBaby, you know who I am\nAnd girl, I know just who you are (Hol' up)\nWe ain't gotta rush into shit\n'Cause being in love is too hard (Hol' up)\nI'm tired of all these flashing lights\nGirl, we should just fuck in the dark\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga (Ooh, woah)\nWishing that I was your nigga, yeah, yeah, yeah\nWishing that I was your nigga, yeah\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga\n\n[Verse 2: LyQuin]\nI know you got niggas, why you wanna be mines?\nOn your tippy toes when I hit her from behind\nOh my God, shawty, I ain't even lyin'\nWhat you know 'bout me, 'bout me? ('Bout me)\nPlayin' with the D, girl, will have you in the zone\nMake a movie how you climaxin' in my phone (Brrp, brrp)\nGot that Nia Long, now you gotta a Love Jones for me\nNow you after that, ride on this dick 'til you crash in that\nFlippin' and turnin' you up in the air like a acrobat\nTurn on the camera, this movie we makin' is action packed\nSafe sex is great sex, that's a wrap, Quin\nYou might also like[Chorus: Chris Brown]\nBaby, you know who I am\nAnd girl, I know just who you are (Hol' up)\nWe ain't gotta rush into shit\n'Cause being in love is too hard (Hol' up)\nI'm tired of all these flashing lights\nGirl, we should just fuck in the dark\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga (Ooh, woah)\nWishing that I was your nigga, yeah, yeah, yeah\nWishing that I was your nigga, yeah\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga\n\n[Verse 3: Skeme]\nPull up on me tonight shawty\nI show you I fuck with you strong\nI'm on that 12 Play, I promise you, baby\nI don't see nothin' wrong\nWith you pullin' up to the house\nAnd me fuckin' you on this couch\nI got long paper, ain't got no neighbors\nSo no one gon' hear when you shout\nBaby, just come through for me tonight\nYou the best, promise you I'm with the shits\nI ain't got too much to do, ain't got nothin' to do\nAin't got nothin' 'cept you on the list\nBaby, I know all your spots\nSo say is you with it or not?\n'Cause once I fuck you like I wanna fuck you, girl\nYou gon' wanna tie up the knot, yeah\n[Chorus: Chris Brown]\nBaby, you know who I am\nAnd girl, I know just who you are (Hol' up)\nWe ain't gotta rush into shit\n'Cause being in love is too hard (Hol' up)\nI'm tired of all these flashing lights\nGirl, we should just fuck in the dark\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga (Ooh, woah)\nWishing that I was your nigga, yeah, yeah, yeah\nWishing that I was your nigga, yeah\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga\n\n[Outro: Chris Brown & DJ Drama]\nQuality Street Music, and like that\nWishing that I was your nigga\nWe gone\nWishing that I was your nigga\nOh, oh, wish I was yours\nHaha, wishing that I was your nigga\nBreezy, holla at me21Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/79785",
+   "artist_names": "DJ Drama (Ft. 2 Chainz, Jeremih & Meek Mill)",
+   "full_title": "My Moment by\u00a0DJ\u00a0Drama (Ft.\u00a02\u00a0Chainz, Jeremih & Meek\u00a0Mill)",
+   "header_image_thumbnail_url": "https://images.genius.com/581e9373a96cdd65ea571c35aaaa074b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/581e9373a96cdd65ea571c35aaaa074b.1000x1000x1.jpg",
+   "id": 79785,
+   "language": "en",
+   "lyrics_owner_id": 61806,
+   "lyrics_state": "complete",
+   "path": "/Dj-drama-my-moment-lyrics",
+   "pyongs_count": 17,
+   "relationships_index_url": "https://genius.com/Dj-drama-my-moment-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2012",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0ff304e9571f9afa2d48d93f08514546.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0ff304e9571f9afa2d48d93f08514546.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 45,
+    "iq_earners": 44,
+    "transcribers": 5,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 225767
+   },
+   "title": "My Moment",
+   "title_with_featured": "My Moment (Ft.\u00a02\u00a0Chainz, Jeremih & Meek\u00a0Mill)",
+   "url": "https://genius.com/Dj-drama-my-moment-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/278",
+     "header_image_url": "https://images.genius.com/951bbb824c14042ab183d56c79ca3f7f.1000x679x1.png",
+     "id": 278,
+     "image_url": "https://images.genius.com/59567e4918671304d37eb021331d239d.550x550x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeremih",
+     "url": "https://genius.com/artists/Jeremih",
+     "iq": 2423
+    },
+    {
+     "api_path": "/artists/1319",
+     "header_image_url": "https://images.genius.com/3fe33644ce36943a1ef773527ba490b6.820x461x1.png",
+     "id": 1319,
+     "image_url": "https://images.genius.com/52a29948e810a6d545ce9dac8d37357f.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Meek Mill",
+     "url": "https://genius.com/artists/Meek-mill",
+     "iq": 4646
+    },
+    {
+     "api_path": "/artists/14325",
+     "header_image_url": "https://images.genius.com/54036584132834d0f358492ec81ed5fe.494x594x1.jpg",
+     "id": 14325,
+     "image_url": "https://images.genius.com/f82a00deb2e816cc89005a9839eead69.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "2 Chainz",
+     "url": "https://genius.com/artists/2-chainz",
+     "iq": 8515
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/301",
+    "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+    "id": 301,
+    "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "DJ Drama",
+    "url": "https://genius.com/artists/Dj-drama",
+    "iq": 1565
+   },
+   "apple_music_id": "561965632",
+   "apple_music_player_url": "https://genius.com/songs/79785/apple_music_player",
+   "description": {
+    "plain": "A song about how a young boy in the hood has his moment and rises up to be a successful figure in the rap game."
+   },
+   "embed_content": "<div id='rg_embed_link_79785' class='rg_embed_link' data-song-id='79785'>Read <a href='https://genius.com/Dj-drama-my-moment-lyrics'>\u201cMy Moment\u201d by DJ\u00a0Drama</a> on Genius</div> <script crossorigin src='//genius.com/songs/79785/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/21472",
+    "cover_art_url": "https://images.genius.com/75f100964549edeaac783d1725531b12.1000x1000x1.jpg",
+    "full_title": "Quality Street Music by DJ Drama",
+    "id": 21472,
+    "name": "Quality Street Music",
+    "release_date_for_display": "October 2, 2012",
+    "url": "https://genius.com/albums/Dj-drama/Quality-street-music",
+    "artist": {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Cameo Appearances",
+     "artists": [
+      {
+       "api_path": "/artists/12417",
+       "header_image_url": "https://images.genius.com/4e896a55925d464c3c3545a2d9a0d15b.1000x564x1.jpg",
+       "id": 12417,
+       "image_url": "https://images.genius.com/41eca064ad6fb1279eb20a6f546ac054.602x602x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "A$AP Rocky",
+       "url": "https://genius.com/artists/A-ap-rocky",
+       "iq": 32659
+      },
+      {
+       "api_path": "/artists/257",
+       "header_image_url": "https://images.genius.com/2c0ce44440f772f4cebdfb4d0195df8e.836x836x1.jpg",
+       "id": 257,
+       "image_url": "https://images.genius.com/2c0ce44440f772f4cebdfb4d0195df8e.836x836x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Waka Flocka Flame",
+       "url": "https://genius.com/artists/Waka-flocka-flame",
+       "iq": 2966
+      },
+      {
+       "api_path": "/artists/130",
+       "header_image_url": "https://images.genius.com/50b41d1da8dfd60548a6c9f2afa9b1b1.480x270x54.gif",
+       "id": 130,
+       "image_url": "https://images.genius.com/4e793216ac5eb88b8e8b7fc11b2e6521.548x548x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Drake",
+       "url": "https://genius.com/artists/Drake"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 140395,
+    "annotator_login": "DJ_Whiteout",
+    "api_path": "/referents/3792504",
+    "classification": "accepted",
+    "fragment": "My Moment",
+    "id": 3792504,
+    "is_description": true,
+    "path": "/3792504/Dj-drama-my-moment/My-moment",
+    "range": {
+     "content": "My Moment"
+    },
+    "song_id": 79785,
+    "url": "https://genius.com/3792504/Dj-drama-my-moment/My-moment",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/79785",
+     "client_timestamps": {
+      "updated_by_human_at": 1680323172,
+      "lyrics_updated_at": 1680322930
+     },
+     "context": "DJ Drama",
+     "id": 79785,
+     "image_url": "https://images.genius.com/0ff304e9571f9afa2d48d93f08514546.1000x1000x1.jpg",
+     "link_title": "My Moment by\u00a0DJ\u00a0Drama (Ft.\u00a02\u00a0Chainz, Jeremih & Meek\u00a0Mill)",
+     "title": "My Moment",
+     "type": "Song",
+     "url": "https://genius.com/Dj-drama-my-moment-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3792504",
+      "body": {
+       "plain": "A song about how a young boy in the hood has his moment and rises up to be a successful figure in the rap game."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3792504,
+      "pinned": false,
+      "share_url": "https://genius.com/3792504",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3792504/Dj-drama-my-moment/My-moment",
+      "verified": false,
+      "votes_total": 6,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/140395",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 140395,
+         "iq": 615,
+         "login": "DJ_Whiteout",
+         "name": "DJ_Whiteout",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DJ_Whiteout",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3oTUE6eypKjfLS6bR7J8GU",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3oTUE6eypKjfLS6bR7J8GU"
+    },
+    {
+     "attribution": "djdramaofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/djdramaofficial/my-moment-feat-2-chainz-meek-1"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uBnUgq_GNiI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27479",
+     "header_image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "id": 27479,
+     "image_url": "https://images.genius.com/f19378b93ac02b49256e60f404e7dcc8.304x304x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T-Minus",
+     "url": "https://genius.com/artists/T-minus"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6866418",
+       "artist_names": "PlinOfficial & Spai White P (Ft. Spai White P)",
+       "full_title": "Purple Cocktails by\u00a0PlinOfficial\u00a0& Spai White P (Ft.\u00a0Spai\u00a0White P)",
+       "header_image_thumbnail_url": "https://images.genius.com/1a03273ee249c6d64634c95ba2be1c02.300x304x1.jpg",
+       "header_image_url": "https://images.genius.com/1a03273ee249c6d64634c95ba2be1c02.756x767x1.jpg",
+       "id": 6866418,
+       "language": "ru",
+       "lyrics_owner_id": 10853827,
+       "lyrics_state": "complete",
+       "path": "/Plinofficial-and-spai-white-p-purple-cocktails-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Plinofficial-and-spai-white-p-purple-cocktails-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 2,
+        "day": 20
+       },
+       "release_date_for_display": "February 20, 2013",
+       "release_date_with_abbreviated_month_for_display": "Feb. 20, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1a03273ee249c6d64634c95ba2be1c02.300x304x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1a03273ee249c6d64634c95ba2be1c02.756x767x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Purple Cocktails",
+       "title_with_featured": "Purple Cocktails (Ft.\u00a0Spai\u00a0White P)",
+       "url": "https://genius.com/Plinofficial-and-spai-white-p-purple-cocktails-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2756125",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 2756125,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Spai White P",
+         "url": "https://genius.com/artists/Spai-white-p"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2756130",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2756130,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "PlinOfficial & Spai White P",
+        "url": "https://genius.com/artists/Plinofficial-and-spai-white-p"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5808538",
+       "artist_names": "DeStorm",
+       "full_title": "My Moment (De-Mix) by\u00a0DeStorm",
+       "header_image_thumbnail_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.300x200x1.jpg",
+       "header_image_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.700x467x1.jpg",
+       "id": 5808538,
+       "language": "en",
+       "lyrics_owner_id": 110161,
+       "lyrics_state": "complete",
+       "path": "/Destorm-my-moment-de-mix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Destorm-my-moment-de-mix-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 8,
+        "day": 23
+       },
+       "release_date_for_display": "August 23, 2012",
+       "release_date_with_abbreviated_month_for_display": "Aug. 23, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.300x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.700x467x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "My Moment (De-Mix)",
+       "title_with_featured": "My Moment (De-Mix)",
+       "url": "https://genius.com/Destorm-my-moment-de-mix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/14263",
+        "header_image_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.700x467x1.jpg",
+        "id": 14263,
+        "image_url": "https://images.genius.com/a7bbbab1d42121d54d4c4751261d859a.700x467x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "DeStorm",
+        "url": "https://genius.com/artists/Destorm",
+        "iq": 101
+       }
+      },
+      {
+       "annotation_count": 10,
+       "api_path": "/songs/3526263",
+       "artist_names": "Tobe Tinez (Ft. Lazza)",
+       "full_title": "My Moment by\u00a0Tobe\u00a0Tinez (Ft.\u00a0Lazza)",
+       "header_image_thumbnail_url": "https://images.genius.com/d3a46c7eccdca0f449a1539e91f00eb6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d3a46c7eccdca0f449a1539e91f00eb6.959x960x1.jpg",
+       "id": 3526263,
+       "language": "it",
+       "lyrics_owner_id": 5472038,
+       "lyrics_state": "complete",
+       "path": "/Tobe-tinez-my-moment-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Tobe-tinez-my-moment-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 2,
+        "day": 11
+       },
+       "release_date_for_display": "February 11, 2013",
+       "release_date_with_abbreviated_month_for_display": "Feb. 11, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d3a46c7eccdca0f449a1539e91f00eb6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d3a46c7eccdca0f449a1539e91f00eb6.959x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "My Moment",
+       "title_with_featured": "My Moment (Ft.\u00a0Lazza)",
+       "url": "https://genius.com/Tobe-tinez-my-moment-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/380028",
+         "header_image_url": "https://images.genius.com/4d691ca4dca360f6ee6f6f7b612f3aed.800x1000x1.jpg",
+         "id": 380028,
+         "image_url": "https://images.genius.com/4eda45322fea29b1f46f257dd9b5a7e8.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Lazza",
+         "url": "https://genius.com/artists/Lazza"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1026531",
+        "header_image_url": "https://images.genius.com/dc11bb6e04601f13b08fdbb190c1382b.1000x370x1.jpg",
+        "id": 1026531,
+        "image_url": "https://images.genius.com/35d91adb6fc6f49eeb6e14e9b27084e5.654x654x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tobe Tinez",
+        "url": "https://genius.com/artists/Tobe-tinez"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/14325",
+     "header_image_url": "https://images.genius.com/54036584132834d0f358492ec81ed5fe.494x594x1.jpg",
+     "id": 14325,
+     "image_url": "https://images.genius.com/f82a00deb2e816cc89005a9839eead69.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "2 Chainz",
+     "url": "https://genius.com/artists/2-chainz",
+     "iq": 8515
+    },
+    {
+     "api_path": "/artists/278",
+     "header_image_url": "https://images.genius.com/951bbb824c14042ab183d56c79ca3f7f.1000x679x1.png",
+     "id": 278,
+     "image_url": "https://images.genius.com/59567e4918671304d37eb021331d239d.550x550x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jeremih",
+     "url": "https://genius.com/artists/Jeremih",
+     "iq": 2423
+    },
+    {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    },
+    {
+     "api_path": "/artists/1319",
+     "header_image_url": "https://images.genius.com/3fe33644ce36943a1ef773527ba490b6.820x461x1.png",
+     "id": 1319,
+     "image_url": "https://images.genius.com/52a29948e810a6d545ce9dac8d37357f.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Meek Mill",
+     "url": "https://genius.com/artists/Meek-mill",
+     "iq": 4646
+    }
+   ],
+   "artist": "DJ Drama",
+   "lyrics": "45 ContributorsMy Moment Lyrics[Intro: DJ Drama & 2 Chainz]\nYou see I been waiting, waiting on that time\nFeel me if you been waiting on yours\nThat moment, is close (Yeah)\n\n[Chorus: Jeremih & 2 Chainz]\nTired of living day to day like everything is alright\nJust waiting on that moment\nWaiting on my moment (Yeah, 2 Chainz!)\nBeen waiting on my\n[Verse 1: 2 Chainz & Jeremih]\nOld dude met mom, it was on\nThen he named me over a phone, prison term\nLive and learn, sippin' syrup with my vision blurred\nTake this cup of reality, niggas finna err\nWhen you start from the bottom, you can see the top\nSo when you get to it, don't let 'em see the spot\nNext thing you know, you lookin' for a rent sign\nUpper echelon, bitch we skip line\nI remember reminiscing in the kitchen like\n\"I wonder when the Braves gon' win it\nI wonder when the Falcons gon' get here\"\nPyrex vison, made more than I ever made with DTP this year (Oh!)\n\n[Chorus: Jeremih with Meek Mill]\nTired of livin' day to day like everything's alright\nAnd every night, just one thing on my mind\nI'm just waiting on that moment\nWaiting on my moment\nYou say, \"Oh you got that aw shit? Hell nah\", next time, that's mine (That's mine)\nAs long as I stay hustling, I'm gon' shine\nI'm just waiting on that moment\nWaiting on my moment (Oh, oh, oh)\n\n[Verse 2: Meek Mill & Jeremih]\nJust waiting on my moment, bad hoes I'm shonin'\nTime came and I owned it just like 'Bron James and start ballin'\nWhen I touched the rock and I cracked the block\nWhen I pulled up in that muscle drop\nWith that roof off and my shoes off on y'all bitch niggas, RuPaul\nReal nigga in my hood who everybody gon' root for\nCause they see me come from that bottom (Bottom)\nWhere everybody get bodied (Bodied)\nThey told me get 'em, I got 'em, now I'm here nigga like yeah nigga\nJust Rolls Royce and Bugattis and M4s this year nigga\nIf I don't grind, I don't shine, if I don't shine, then I don't eat (Eat)\nIf I don't eat then I'ma starve, if I'ma starve, I pull heat (Heat)\nOn all y'all bitch ass niggas, all y'all rich ass niggas\nCause if I don't make no money, nigga\nI'm gon' take yo' money, nigga (Oh!)\nYou might also like[Chorus: Jeremih]\nTired of livin' day to day like everything's alright\nAnd every night, just one thing on my mind\nI'm just waiting on that moment\nWaiting on my moment\nYou say, \"Oh you got that aw shit? Hell nah\", next time, that's mine (That's mine)\nAs long as I stay hustling, I'm gon' shine\nI'm just waiting on that moment\nWaiting on my moment (Oh, oh, oh)\n\n[Bridge: Jeremih]\nSince life ain't promised tomorrow, live it up, live it up, live it up!\nCareful to come this far, give it up, give it up, give it up!\nOh no, I won't, give it up, give it up, give it up!\nUntil I have it all, yeah!\n\n[Chorus: Jeremih & DJ Drama]\nTired of livin' day to day like everything's alright\nAnd every night, just one thing on my mind\nI'm just waiting on that moment\nWaiting on my moment\nYou say, \"Oh you got that aw shit? Hell nah\", next time that's mine (That's mine)\nAs long as I stay hustling, I'm gon' shine\nI'm just waiting on that moment (DJ Drama!)\nWaiting on my moment (Oh, oh, oh, and like that, we gone)17Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/2869277",
+   "artist_names": "DJ Drama (Ft. Chris Brown, Fabolous, Jhen\u00e9 Aiko, Tory Lanez & Trey Songz)",
+   "full_title": "Wishing (Remix) by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, Fabolous, Jhen\u00e9\u00a0Aiko, Tory\u00a0Lanez & Trey\u00a0Songz)",
+   "header_image_thumbnail_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.500x500x1.jpg",
+   "id": 2869277,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Dj-drama-wishing-remix-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Dj-drama-wishing-remix-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 28
+   },
+   "release_date_for_display": "September 28, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 28, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 31,
+    "iq_earners": 31,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 191913
+   },
+   "title": "Wishing (Remix)",
+   "title_with_featured": "Wishing (Remix) (Ft.\u00a0Chris\u00a0Brown, Fabolous, Jhen\u00e9\u00a0Aiko, Tory\u00a0Lanez & Trey\u00a0Songz)",
+   "url": "https://genius.com/Dj-drama-wishing-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "api_path": "/artists/1020",
+     "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+     "id": 1020,
+     "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jhen\u00e9 Aiko",
+     "url": "https://genius.com/artists/Jhene-aiko",
+     "iq": 11376
+    },
+    {
+     "api_path": "/artists/1632",
+     "header_image_url": "https://images.genius.com/b25b80bed02917634a3387773e2e3e40.700x467x14.gif",
+     "id": 1632,
+     "image_url": "https://images.genius.com/83554e3a9e4e12f26685ec7c5247f1f5.467x467x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tory Lanez",
+     "url": "https://genius.com/artists/Tory-lanez",
+     "iq": 9893
+    },
+    {
+     "api_path": "/artists/326",
+     "header_image_url": "https://images.genius.com/fec42cb7a6658894599556bbd1548c86.1000x995x1.jpg",
+     "id": 326,
+     "image_url": "https://images.genius.com/784d9135e67da7eb9bab97646a1d8aef.674x674x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trey Songz",
+     "url": "https://genius.com/artists/Trey-songz"
+    },
+    {
+     "api_path": "/artists/3",
+     "header_image_url": "https://images.genius.com/87327cbb699021336651f7cd2c8ce7b9.1000x563x1.jpg",
+     "id": 3,
+     "image_url": "https://images.genius.com/8eaa26a5f0d71652f7e389d0e0b92a48.999x999x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fabolous",
+     "url": "https://genius.com/artists/Fabolous",
+     "iq": 9216
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/301",
+    "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+    "id": 301,
+    "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "DJ Drama",
+    "url": "https://genius.com/artists/Dj-drama",
+    "iq": 1565
+   },
+   "apple_music_id": "1159498324",
+   "apple_music_player_url": "https://genius.com/songs/2869277/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2869277' class='rg_embed_link' data-song-id='2869277'>Read <a href='https://genius.com/Dj-drama-wishing-remix-lyrics'>\u201cWishing (Remix)\u201d by DJ\u00a0Drama</a> on Genius</div> <script crossorigin src='//genius.com/songs/2869277/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1677366",
+       "header_image_url": "https://images.genius.com/02a1a7217ac7aeaeea54a22f7425868a.1000x667x1.png",
+       "id": 1677366,
+       "image_url": "https://images.genius.com/100f47aa310cb7268362344ab38be2d4.684x684x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u200beOne Music",
+       "url": "https://genius.com/artists/Eone-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18512225",
+    "classification": "needs_exegesis",
+    "fragment": "Wishing (Remix)",
+    "id": 18512225,
+    "is_description": true,
+    "path": "/18512225/Dj-drama-wishing-remix/Wishing-remix",
+    "range": {
+     "content": "Wishing (Remix)"
+    },
+    "song_id": 2869277,
+    "url": "https://genius.com/18512225/Dj-drama-wishing-remix/Wishing-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2869277",
+     "client_timestamps": {
+      "updated_by_human_at": 1682140185,
+      "lyrics_updated_at": 1682140185
+     },
+     "context": "DJ Drama",
+     "id": 2869277,
+     "image_url": "https://images.genius.com/51daea7387be59749fcb98446cf3a3d0.500x500x1.jpg",
+     "link_title": "Wishing (Remix) by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, Fabolous, Jhen\u00e9\u00a0Aiko, Tory\u00a0Lanez & Trey\u00a0Songz)",
+     "title": "Wishing (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Dj-drama-wishing-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18512225",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18512225,
+      "pinned": false,
+      "share_url": "https://genius.com/18512225",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18512225/Dj-drama-wishing-remix/Wishing-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 630083,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "eone music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/eone-music/wishing-remix"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cLr3mqVC3ro"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/622881",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 622881,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JnatBeats",
+     "url": "https://genius.com/artists/Jnatbeats"
+    },
+    {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/460029",
+       "artist_names": "Trey Songz (Ft. Mila J)",
+       "full_title": "Disrespectful by\u00a0Trey\u00a0Songz (Ft.\u00a0Mila\u00a0J)",
+       "header_image_thumbnail_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.1000x1000x1.jpg",
+       "id": 460029,
+       "language": "en",
+       "lyrics_owner_id": 321196,
+       "lyrics_state": "complete",
+       "path": "/Trey-songz-disrespectful-lyrics",
+       "pyongs_count": 104,
+       "relationships_index_url": "https://genius.com/Trey-songz-disrespectful-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 7,
+        "day": 1
+       },
+       "release_date_for_display": "July 1, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jul. 1, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4d7558f37c7e70ba4ab841dd7710d880.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 142198
+       },
+       "title": "Disrespectful",
+       "title_with_featured": "Disrespectful (Ft.\u00a0Mila\u00a0J)",
+       "url": "https://genius.com/Trey-songz-disrespectful-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/19285",
+         "header_image_url": "https://images.genius.com/6a5bbd04096bf5fd84812430e1e1fc44.800x315x1.png",
+         "id": 19285,
+         "image_url": "https://images.genius.com/5363c0738e8ccd3f9e6b25affe706ecc.783x783x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Mila J",
+         "url": "https://genius.com/artists/Mila-j",
+         "iq": 189
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/326",
+        "header_image_url": "https://images.genius.com/fec42cb7a6658894599556bbd1548c86.1000x995x1.jpg",
+        "id": 326,
+        "image_url": "https://images.genius.com/784d9135e67da7eb9bab97646a1d8aef.674x674x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Trey Songz",
+        "url": "https://genius.com/artists/Trey-songz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2850201",
+       "artist_names": "Fabolous (Ft. DJ Drama)",
+       "full_title": "Wishing (Remix) by\u00a0Fabolous (Ft.\u00a0DJ\u00a0Drama)",
+       "header_image_thumbnail_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.1000x1000x1.jpg",
+       "id": 2850201,
+       "language": "en",
+       "lyrics_owner_id": 282633,
+       "lyrics_state": "complete",
+       "path": "/Fabolous-wishing-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Fabolous-wishing-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 2
+       },
+       "release_date_for_display": "September 2, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 2, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3d9d5ac9e55ee9d3588b1b084f4e48bc.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 45639
+       },
+       "title": "Wishing (Remix)",
+       "title_with_featured": "Wishing (Remix) (Ft.\u00a0DJ\u00a0Drama)",
+       "url": "https://genius.com/Fabolous-wishing-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/301",
+         "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+         "id": 301,
+         "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "DJ Drama",
+         "url": "https://genius.com/artists/Dj-drama",
+         "iq": 1565
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3",
+        "header_image_url": "https://images.genius.com/87327cbb699021336651f7cd2c8ce7b9.1000x563x1.jpg",
+        "id": 3,
+        "image_url": "https://images.genius.com/8eaa26a5f0d71652f7e389d0e0b92a48.999x999x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Fabolous",
+        "url": "https://genius.com/artists/Fabolous",
+        "iq": 9216
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/2467401",
+       "artist_names": "DJ Drama (Ft. Chris Brown, LyQuin & Skeme)",
+       "full_title": "Wishing by\u00a0DJ\u00a0Drama (Ft.\u00a0Chris\u00a0Brown, LyQuin & Skeme)",
+       "header_image_thumbnail_url": "https://images.genius.com/e6e15901185a3870322ed01d5c090d71.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e6e15901185a3870322ed01d5c090d71.1000x1000x1.jpg",
+       "id": 2467401,
+       "language": "en",
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/Dj-drama-wishing-lyrics",
+       "pyongs_count": 21,
+       "relationships_index_url": "https://genius.com/Dj-drama-wishing-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 5,
+        "day": 6
+       },
+       "release_date_for_display": "May 6, 2016",
+       "release_date_with_abbreviated_month_for_display": "May. 6, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/949f1ec13ff58a788a9ad3a6476b4252.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/949f1ec13ff58a788a9ad3a6476b4252.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 384290
+       },
+       "title": "Wishing",
+       "title_with_featured": "Wishing (Ft.\u00a0Chris\u00a0Brown, LyQuin & Skeme)",
+       "url": "https://genius.com/Dj-drama-wishing-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/438",
+         "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+         "id": 438,
+         "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Chris Brown",
+         "url": "https://genius.com/artists/Chris-brown"
+        },
+        {
+         "api_path": "/artists/661867",
+         "header_image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+         "id": 661867,
+         "image_url": "https://images.genius.com/5a9309493eec10575364a219d0ee48cf.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "LyQuin",
+         "url": "https://genius.com/artists/Lyquin"
+        },
+        {
+         "api_path": "/artists/12939",
+         "header_image_url": "https://images.genius.com/275bab31ea50d9caa30bf6ef1e85a3f6.1000x1000x1.jpg",
+         "id": 12939,
+         "image_url": "https://images.genius.com/eb69085b6707b2690bec0fa3779c5ab8.772x772x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Skeme",
+         "url": "https://genius.com/artists/Skeme",
+         "iq": 399
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/301",
+        "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+        "id": 301,
+        "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "DJ Drama",
+        "url": "https://genius.com/artists/Dj-drama",
+        "iq": 1565
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3",
+     "header_image_url": "https://images.genius.com/87327cbb699021336651f7cd2c8ce7b9.1000x563x1.jpg",
+     "id": 3,
+     "image_url": "https://images.genius.com/8eaa26a5f0d71652f7e389d0e0b92a48.999x999x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Fabolous",
+     "url": "https://genius.com/artists/Fabolous",
+     "iq": 9216
+    },
+    {
+     "api_path": "/artists/326",
+     "header_image_url": "https://images.genius.com/fec42cb7a6658894599556bbd1548c86.1000x995x1.jpg",
+     "id": 326,
+     "image_url": "https://images.genius.com/784d9135e67da7eb9bab97646a1d8aef.674x674x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trey Songz",
+     "url": "https://genius.com/artists/Trey-songz"
+    },
+    {
+     "api_path": "/artists/1632",
+     "header_image_url": "https://images.genius.com/b25b80bed02917634a3387773e2e3e40.700x467x14.gif",
+     "id": 1632,
+     "image_url": "https://images.genius.com/83554e3a9e4e12f26685ec7c5247f1f5.467x467x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tory Lanez",
+     "url": "https://genius.com/artists/Tory-lanez",
+     "iq": 9893
+    },
+    {
+     "api_path": "/artists/1020",
+     "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+     "id": 1020,
+     "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jhen\u00e9 Aiko",
+     "url": "https://genius.com/artists/Jhene-aiko",
+     "iq": 11376
+    },
+    {
+     "api_path": "/artists/438",
+     "header_image_url": "https://images.genius.com/15f5109ebfc3ddaeecd4a0409b4d6ad3.1000x333x1.png",
+     "id": 438,
+     "image_url": "https://images.genius.com/63ba77e46f4da909fb6b03059ee4e1b5.535x535x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Brown",
+     "url": "https://genius.com/artists/Chris-brown"
+    },
+    {
+     "api_path": "/artists/301",
+     "header_image_url": "https://images.genius.com/49c954b8e944049bd42e0326569cc2ad.1000x327x1.jpg",
+     "id": 301,
+     "image_url": "https://images.genius.com/4a67c43f1e4fad8b14db3c926e699c59.722x722x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Drama",
+     "url": "https://genius.com/artists/Dj-drama",
+     "iq": 1565
+    }
+   ],
+   "artist": "DJ Drama",
+   "lyrics": "31 ContributorsWishing (Remix) Lyrics[Intro: Tory Lanez & DJ Drama]\nShorty this gon' be your favorite song\nDJ Drama\nThis is the remix\nBaby, I don't know about you, but my wish came true\nMatter of fact, let me take you on another round\n\n[Verse 1: Fabolous, DJ Drama & Chris Brown]\nTold her save my number under \"Big Dipper\"\nGot her wishin' on a star (Loso)\nSave my number under \"Big Tipper\"\nGot her blowin' kisses from the bar\nI, wish you could stay, but when you walk away\nYou look delicious from far\nShe roll up on me, then they get lit\nGirl, you my Swisher cigar (Woo)\nShorty rather lay by the poolside\nThan stay by a fool's side\nBeen sleepin' on yourself too long\nTime to flip the pillow over to the cool side\nDon't need the tea, baby, I got the juice\nYou wanna hang, baby, I got the noose\nI got the Ace, baby, I got the deuce\nI got a beat, baby, like I produce\nCome through the stu', let you hear somethin' nice\nBring that shit back, let you hear somethin' twice\nAsk how to keep drama clear from her life\nSaid, \"I don't know, girl, but here's some advice\nStop bein' friendly to the fuckboys (Yeah)\nStop bein' friendly to the fuckboys (Yeah)\nStop bein' friendly to the fuckboys\nStop bein' friendly to the fuckboys\"\nHold up, I'm who you've been cravin' for\nThe one that you save it for\nHop in the shower and shave it for\nCome and watch Power the day before\nLay up with me while your man be suspicious\nRub your booty 'til you grant me three wishes\nI'ma hit for every call that she misses\nEvery time I shoot my shot it be swishin'\n(Have that ass wishin' that I was your nigga)\nEvery time I shoot my shot it be swishin' (Yeah)\nThis the remix so I know what she wishin'\n[Verse 2: Trey Songz & DJ Drama]\nI hit it once and she want me to stroke again (Trigga)\nI get it wet like a super soaker gun, yeah (I like it!)\nNow she lookin' for me like I'm on the run\nShe think I'm the one, say she finna cum (Ooh)\nShe gon' bust it, she gon' bust it, bust it, I know\nWhen she suck it, she don't ever touch it, oh no (I like it!)\nShe be screamin', \"Beat it up,\" then she beggin', \"Go soft\"\nThen she tell me, \"Speed it up,\" (Speed up), now she beggin', \"No more\"\nI go crazy on your spot\nTickle, tickle, lick a lot, then she kiss the tippy top\nThen it turn to slippy sloppy\nDidn't waste not a drop when she caught me\nI got the juice, she let it splash on me (Oh, oh, nasty)\nKnow I'm the truth, ain't gotta ask 'bout me (Yeah)\n\n[Chorus: Trey Songz & Chris Brown]\nBaby, you know who I am\nAnd girl, I know just who you are (Hol' up)\nAin't gotta rush into shit\nBeing in love is too hard (It's too hard)\nI'm tired of all these flashing lights\nWe should just fuck in the dark\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga (Yeah)\nWishing that I was your nigga, yeah, yeah, yeah (Yeah)\nWishing that I was your nigga (Your, your)\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga\nYou might also like[Verse 3: Jhen\u00e9 Aiko & DJ Drama]\nKnow you've been hopin' and prayin' (Jhen\u00e9, holla at 'em)\n'Cause I've been right here and I heard every word you was sayin'\nYou've been complainin'\nWell who did it, baby? And do you need savin'?\nWell I'll be your savior\nFrom all of your exes that you've been regrettin'\nYou shouldn't be sweatin' them\nI can do you better\nI'll be your mothafuckin' genie in a bottle\nRub me down, you can fuck me 'til tomorrow\n'Til the sun come up, yeah\nI'm grantin' all of your wishes\nI ain't nothin' like none of these bitches\nAnd I'll have you wishin' that I was your woman\n\n[Verse 4: Tory Lanez & DJ Drama]\nOh, it got realer\nI cannot feel her\nI know my ex-bitch is tryna fuck, but don't\nNo I'm not Tiller (Tory)\nTell a ho I'm Godzilla\nMonster in the wet wet, I kill it\nDope dick, you better believe I sell it\nHit it so hard you believe I nailed it down\nHit it, but I held shit down\nYou know I done held this shit right down\nAll on the corner, go hustlin' on it\nJust so I could take you out of town\nThey ain't ballin', baby, they be out of bounds\nI just smoke that pussy like I'm out an ounce\nI can get that body tweakin' for you, baby\nYou just keep it clean and squeaky for me, baby (Mmm)\nYou can tell by the way that a young nigga treat you\nBody so curvy in a dress that's see-through\nLookin' so good I'll fuck you all in front of these people\n[Chorus: Chris Brown]\nBaby, you know who I am\nAnd girl, I know just who you are (Hol' up)\nWe ain't gotta rush into shit\n'Cause being in love is too hard (Hol' up)\nI'm tired of all these flashing lights\nGirl, we should just fuck in the dark\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga (Ooh, woah)\nWishing that I was your nigga, yeah, yeah, yeah\nWishing that I was your nigga, yeah\nOnce you let me hit it\nI'ma get to switching, different positions\nHave that ass wishing that I was your nigga\n\n[Outro: DJ Drama & Chris Brown]\nYou wanna know what my wish was?\nIt's for your wish to come true\nIt's all I ever wanted\nWishing that I was your nigga\nFeels good, don't it?\nWishin' that I was your nigga (Ooh, woah-woah)\nWish I was your\nKeep wishin', I'ma keep grantin'\nWishing that I was your nigga4Embed"
+  }
+ ]
+}

@@ -1,0 +1,3104 @@
+{
+ "alternate_names": [
+  "Rachel Ashley Platten"
+ ],
+ "api_path": "/artists/271204",
+ "description": {
+  "plain": "Rachel Platten is an American singer-songwriter. She is best known for her 2015 single \u201cFight Song\u201d which reached the top 10 in Australia, Canada, New Zealand, Slovakia, and the United States, and topped the charts in the UK.\n\nShe released her debut studio album Trust in Me in 2003. She has called it a collection of demos. Her second album, Be Here, was released from Rock Ridge Music in 2011. Wildfire, her major-label debut, was released on January 1, 2015."
+ },
+ "facebook_name": "rachelplattenmusic",
+ "followers_count": 68,
+ "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+ "id": 271204,
+ "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+ "instagram_name": "rachelplatten",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Rachel Platten",
+ "translation_artist": false,
+ "twitter_name": "rachelplatten",
+ "url": "https://genius.com/artists/Rachel-platten",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2506448,
+  "annotator_login": "DeadGenius",
+  "api_path": "/referents/7045504",
+  "classification": "accepted",
+  "fragment": "Rachel Platten",
+  "id": 7045504,
+  "is_description": true,
+  "path": "/7045504/Rachel-platten/Rachel-platten",
+  "range": {
+   "content": "Rachel Platten"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7045504/Rachel-platten/Rachel-platten",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/271204",
+   "context": null,
+   "id": 271204,
+   "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+   "link_title": "Rachel Platten",
+   "title": "Rachel Platten",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Rachel-platten"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7045504",
+    "body": {
+     "plain": "Rachel Platten is an American singer-songwriter. She is best known for her 2015 single \u201cFight Song\u201d which reached the top 10 in Australia, Canada, New Zealand, Slovakia, and the United States, and topped the charts in the UK.\n\nShe released her debut studio album Trust in Me in 2003. She has called it a collection of demos. Her second album, Be Here, was released from Rock Ridge Music in 2011. Wildfire, her major-label debut, was released on January 1, 2015."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7045504,
+    "pinned": false,
+    "share_url": "https://genius.com/7045504",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7045504/Rachel-platten/Rachel-platten",
+    "verified": false,
+    "votes_total": 20,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.85,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2506448",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/15d1368aee62f95e0be2ed8088889194",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/15d1368aee62f95e0be2ed8088889194",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/15d1368aee62f95e0be2ed8088889194",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/15d1368aee62f95e0be2ed8088889194",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/15d1368aee62f95e0be2ed8088889194",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2506448,
+       "iq": 6227,
+       "login": "DeadGenius",
+       "name": "DeadGenius",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/DeadGenius",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1448826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1448826,
+       "iq": 192804,
+       "login": "babuc",
+       "name": "Babu Chatterjee",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/babuc",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/591746",
+   "artist_names": "Rachel Platten",
+   "full_title": "Fight Song by\u00a0Rachel\u00a0Platten",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/941e48ad2aeb21c41eb5bf3801348647.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/941e48ad2aeb21c41eb5bf3801348647.1000x1000x1.jpg",
+   "id": 591746,
+   "language": "en",
+   "lyrics_owner_id": 1307971,
+   "lyrics_state": "complete",
+   "path": "/Rachel-platten-fight-song-lyrics",
+   "pyongs_count": 122,
+   "relationships_index_url": "https://genius.com/Rachel-platten-fight-song-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 2,
+    "day": 19
+   },
+   "release_date_for_display": "February 19, 2015",
+   "release_date_with_abbreviated_month_for_display": "Feb. 19, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/35207921545bd771483d58e4ae4f2e4e.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/35207921545bd771483d58e4ae4f2e4e.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 5,
+    "contributors": 92,
+    "iq_earners": 91,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 633011
+   },
+   "title": "Fight Song",
+   "title_with_featured": "Fight Song",
+   "url": "https://genius.com/Rachel-platten-fight-song-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/271204",
+    "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+    "id": 271204,
+    "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rachel Platten",
+    "url": "https://genius.com/artists/Rachel-platten"
+   },
+   "apple_music_id": "1061182684",
+   "apple_music_player_url": "https://genius.com/songs/591746/apple_music_player",
+   "description": {
+    "plain": "\u201cFight Song\u201d is the empowering title track to Rachel Platten\u2019s debut extended play, Fight Song. A year later, the song was included on her debut studio album, Wildfire.\n\nThe song\u2019s motivating tone conveys the song\u2019s message to believe in yourself."
+   },
+   "embed_content": "<div id='rg_embed_link_591746' class='rg_embed_link' data-song-id='591746'>Read <a href='https://genius.com/Rachel-platten-fight-song-lyrics'>\u201cFight Song\u201d by Rachel\u00a0Platten</a> on Genius</div> <script crossorigin src='//genius.com/songs/591746/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-02-19",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/139118",
+    "cover_art_url": "https://images.genius.com/31a1647f5a173ac6cc5c3af7bc2c8b49.1000x1000x1.jpg",
+    "full_title": "Wildfire  by Rachel Platten",
+    "id": 139118,
+    "name": "Wildfire ",
+    "release_date_for_display": "January 1, 2016",
+    "url": "https://genius.com/albums/Rachel-platten/Wildfire",
+    "artist": {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/976097",
+       "header_image_url": "https://images.genius.com/e43302f286d66526b0719bce7c78cbdd.300x170x1.jpg",
+       "id": 976097,
+       "image_url": "https://images.genius.com/72ccb1707a818148b33e9151e075ac0c.220x220x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Zook",
+       "url": "https://genius.com/artists/Joe-zook"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/665344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 665344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Piscina",
+       "url": "https://genius.com/artists/Dan-piscina"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1008789",
+       "header_image_url": "https://images.genius.com/1eaa76df51a3954fc428e54fc5121244.400x400x1.jpg",
+       "id": 1008789,
+       "image_url": "https://images.genius.com/1eaa76df51a3954fc428e54fc5121244.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eric Boulanger",
+       "url": "https://genius.com/artists/Eric-boulanger"
+      },
+      {
+       "api_path": "/artists/396012",
+       "header_image_url": "https://images.genius.com/af14099731b377463d798965fef794cf.1000x536x1.jpg",
+       "id": 396012,
+       "image_url": "https://images.genius.com/6dcc9ef17462337ef8cc4069a8a036f6.312x312x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Coyne",
+       "url": "https://genius.com/artists/Tom-coyne"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1127200",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1127200,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bassett Songs",
+       "url": "https://genius.com/artists/Bassett-songs"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      },
+      {
+       "api_path": "/artists/1573930",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1573930,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Platten Music Publishing",
+       "url": "https://genius.com/artists/Platten-music-publishing"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/271204",
+       "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+       "id": 271204,
+       "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rachel Platten",
+       "url": "https://genius.com/artists/Rachel-platten"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1757612,
+    "annotator_login": "religion",
+    "api_path": "/referents/4426413",
+    "classification": "accepted",
+    "fragment": "Fight Song",
+    "id": 4426413,
+    "is_description": true,
+    "path": "/4426413/Rachel-platten-fight-song/Fight-song",
+    "range": {
+     "content": "Fight Song"
+    },
+    "song_id": 591746,
+    "url": "https://genius.com/4426413/Rachel-platten-fight-song/Fight-song",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/591746",
+     "client_timestamps": {
+      "updated_by_human_at": 1676457902,
+      "lyrics_updated_at": 1665822142
+     },
+     "context": "Rachel Platten",
+     "id": 591746,
+     "image_url": "https://images.genius.com/35207921545bd771483d58e4ae4f2e4e.1000x1000x1.png",
+     "link_title": "Fight Song by\u00a0Rachel\u00a0Platten",
+     "title": "Fight Song",
+     "type": "Song",
+     "url": "https://genius.com/Rachel-platten-fight-song-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4426413",
+      "body": {
+       "plain": "\u201cFight Song\u201d is the empowering title track to Rachel Platten\u2019s debut extended play, Fight Song. A year later, the song was included on her debut studio album, Wildfire.\n\nThe song\u2019s motivating tone conveys the song\u2019s message to believe in yourself."
+      },
+      "comment_count": 5,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4426413,
+      "pinned": false,
+      "share_url": "https://genius.com/4426413",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4426413/Rachel-platten-fight-song/Fight-song",
+      "verified": false,
+      "votes_total": 95,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.425,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3499648",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5409e988fe3af98ed4c12f0c8d8b5375.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 3499648,
+         "iq": 1406233,
+         "login": "AlexanderJamesM",
+         "name": "AlexanderJamesM",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AlexanderJamesM",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.325,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1757612",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/315464ff8eeb1b44db5cfcbc8daf9091",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/315464ff8eeb1b44db5cfcbc8daf9091",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/315464ff8eeb1b44db5cfcbc8daf9091",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/315464ff8eeb1b44db5cfcbc8daf9091",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5K9KOmi6Q12b3BWnKy8D_tumblr_nuoa3uChPK1tnk5zlo1_540.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1757612,
+         "iq": 12986,
+         "login": "religion",
+         "name": "religion",
+         "role_for_display": "editor",
+         "url": "https://genius.com/religion",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.125,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/263424",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/d966d1d4f90bed72932964105dda6708.533x517x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 263424,
+         "iq": 138573,
+         "login": "darkdoomhoney",
+         "name": "\u200bdark doom honey",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/darkdoomhoney",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/143119",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/435bf4128688f7daf8886838ca43fdb7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/435bf4128688f7daf8886838ca43fdb7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/435bf4128688f7daf8886838ca43fdb7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/435bf4128688f7daf8886838ca43fdb7",
+         "human_readable_role_for_display": "Moderator",
+         "id": 143119,
+         "iq": 197292,
+         "login": "TheScrivener",
+         "name": "Elizabeth Milch",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/TheScrivener",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.025,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1448826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1448826,
+         "iq": 192804,
+         "login": "babuc",
+         "name": "Babu Chatterjee",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/babuc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=xo1VInw-SKc"
+    },
+    {
+     "native_uri": "spotify:track:6bRbeEgg8v8BQ0HuVuPE7v",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6bRbeEgg8v8BQ0HuVuPE7v"
+    },
+    {
+     "attribution": "rachelplatten",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/rachelplatten/fight-song?in=rachelplatten/sets/wildfire"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/451352",
+     "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "id": 451352,
+     "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Levine",
+     "url": "https://genius.com/artists/Jon-levine"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4888231",
+       "artist_names": "Gyrotron",
+       "full_title": "EXTREME MEME MEGAMIX III by\u00a0Gyrotron",
+       "header_image_thumbnail_url": "https://images.genius.com/45bff7dd6aa8ac1ac23aad9cd6e63d0d.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/45bff7dd6aa8ac1ac23aad9cd6e63d0d.480x360x1.jpg",
+       "id": 4888231,
+       "language": "en",
+       "lyrics_owner_id": 8942631,
+       "lyrics_state": "complete",
+       "path": "/Gyrotron-extreme-meme-megamix-iii-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Gyrotron-extreme-meme-megamix-iii-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 3,
+        "day": 29
+       },
+       "release_date_for_display": "March 29, 2018",
+       "release_date_with_abbreviated_month_for_display": "Mar. 29, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/45bff7dd6aa8ac1ac23aad9cd6e63d0d.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/45bff7dd6aa8ac1ac23aad9cd6e63d0d.480x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "EXTREME MEME MEGAMIX III",
+       "title_with_featured": "EXTREME MEME MEGAMIX III",
+       "url": "https://genius.com/Gyrotron-extreme-meme-megamix-iii-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1486274",
+        "header_image_url": "https://images.genius.com/26f04908ffb972e2a1fffeb4bc797d11.500x500x1.jpg",
+        "id": 1486274,
+        "image_url": "https://images.genius.com/26f04908ffb972e2a1fffeb4bc797d11.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gyrotron",
+        "url": "https://genius.com/artists/Gyrotron"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Rachel-platten-fight-song-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5723454",
+       "artist_names": "Raef",
+       "full_title": "Fight Song by\u00a0Raef",
+       "header_image_thumbnail_url": "https://images.genius.com/6a261a1fc6d719d14561ed9eb198acdd.270x270x1.webp",
+       "header_image_url": "https://images.genius.com/6a261a1fc6d719d14561ed9eb198acdd.270x270x1.webp",
+       "id": 5723454,
+       "language": "en",
+       "lyrics_owner_id": 10834676,
+       "lyrics_state": "complete",
+       "path": "/Raef-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Raef-fight-song-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 20
+       },
+       "release_date_for_display": "October 20, 2017",
+       "release_date_with_abbreviated_month_for_display": "Oct. 20, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6a261a1fc6d719d14561ed9eb198acdd.270x270x1.webp",
+       "song_art_image_url": "https://images.genius.com/6a261a1fc6d719d14561ed9eb198acdd.270x270x1.webp",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Raef-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/164085",
+        "header_image_url": "https://images.genius.com/4b09cba2c6e6d28afe47c9d87c6021ae.1000x333x1.jpg",
+        "id": 164085,
+        "image_url": "https://images.genius.com/ffd2217fe90d4976b2230c5feedca15e.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Raef",
+        "url": "https://genius.com/artists/Raef"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5176393",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Fight Song by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/a1819da6502c49d4deb17e8a6c88dbf0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a1819da6502c49d4deb17e8a6c88dbf0.1000x1000x1.jpg",
+       "id": 5176393,
+       "language": "en",
+       "lyrics_owner_id": 9921177,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-fight-song-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 10,
+        "day": 16
+       },
+       "release_date_for_display": "October 16, 2015",
+       "release_date_with_abbreviated_month_for_display": "Oct. 16, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a1819da6502c49d4deb17e8a6c88dbf0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a1819da6502c49d4deb17e8a6c88dbf0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Kidz-bop-kids-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6720839",
+       "artist_names": "Vitamin String Quartet",
+       "full_title": "Fight Song by\u00a0Vitamin\u00a0String Quartet",
+       "header_image_thumbnail_url": "https://images.genius.com/6f2d554a82908d30ca27744dab9fac41.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6f2d554a82908d30ca27744dab9fac41.1000x1000x1.jpg",
+       "id": 6720839,
+       "language": "en",
+       "lyrics_owner_id": 4274810,
+       "lyrics_state": "complete",
+       "path": "/Vitamin-string-quartet-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Vitamin-string-quartet-fight-song-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 9,
+        "day": 25
+       },
+       "release_date_for_display": "September 25, 2015",
+       "release_date_with_abbreviated_month_for_display": "Sep. 25, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6f2d554a82908d30ca27744dab9fac41.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6f2d554a82908d30ca27744dab9fac41.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Vitamin-string-quartet-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/454633",
+        "header_image_url": "https://images.genius.com/e0452090389fab739c46e708eaffba75.1000x429x1.jpg",
+        "id": 454633,
+        "image_url": "https://images.genius.com/3c992a4813c7fa30a59164a2d4bc419e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Vitamin String Quartet",
+        "url": "https://genius.com/artists/Vitamin-string-quartet",
+        "iq": 104
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6338470",
+       "artist_names": "Kurt Hugo Schneider & Sam Tsui",
+       "full_title": "Summer Pop Medley 2015 by\u00a0Kurt\u00a0Hugo Schneider & Sam Tsui",
+       "header_image_thumbnail_url": "https://images.genius.com/bf081fe237dac47d2d6cd62da2c98119.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/bf081fe237dac47d2d6cd62da2c98119.1000x563x1.jpg",
+       "id": 6338470,
+       "language": "en",
+       "lyrics_owner_id": 7580000,
+       "lyrics_state": "complete",
+       "path": "/Kurt-hugo-schneider-and-sam-tsui-summer-pop-medley-2015-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kurt-hugo-schneider-and-sam-tsui-summer-pop-medley-2015-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 14
+       },
+       "release_date_for_display": "December 14, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 14, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bf081fe237dac47d2d6cd62da2c98119.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bf081fe237dac47d2d6cd62da2c98119.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summer Pop Medley 2015",
+       "title_with_featured": "Summer Pop Medley 2015",
+       "url": "https://genius.com/Kurt-hugo-schneider-and-sam-tsui-summer-pop-medley-2015-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2545523",
+        "header_image_url": "https://images.genius.com/da03f4a889d8637692d20fa5a3ac047d.1000x563x1.jpg",
+        "id": 2545523,
+        "image_url": "https://images.genius.com/836bb15325e7c04b6c0979ccc125ef79.612x612x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kurt Hugo Schneider & Sam Tsui",
+        "url": "https://genius.com/artists/Kurt-hugo-schneider-and-sam-tsui"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6138148",
+       "artist_names": "Beau Dermott",
+       "full_title": "Fight Song by\u00a0Beau\u00a0Dermott",
+       "header_image_thumbnail_url": "https://images.genius.com/a5e6377f558f1845f27322775910ca7f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a5e6377f558f1845f27322775910ca7f.600x600x1.jpg",
+       "id": 6138148,
+       "language": "en",
+       "lyrics_owner_id": 3279839,
+       "lyrics_state": "complete",
+       "path": "/Beau-dermott-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Beau-dermott-fight-song-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 9,
+        "day": 1
+       },
+       "release_date_for_display": "September 1, 2017",
+       "release_date_with_abbreviated_month_for_display": "Sep. 1, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a5e6377f558f1845f27322775910ca7f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a5e6377f558f1845f27322775910ca7f.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Beau-dermott-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1509834",
+        "header_image_url": "https://images.genius.com/6f862c9272240b669827ee70d006a91b.393x393x1.jpg",
+        "id": 1509834,
+        "image_url": "https://images.genius.com/6f862c9272240b669827ee70d006a91b.393x393x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beau Dermott",
+        "url": "https://genius.com/artists/Beau-dermott"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2385221",
+       "artist_names": "Cimorelli",
+       "full_title": "Fight Song by\u00a0Cimorelli",
+       "header_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=Cimorelli",
+       "header_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=Cimorelli",
+       "id": 2385221,
+       "language": "en",
+       "lyrics_owner_id": 2573062,
+       "lyrics_state": "complete",
+       "path": "/Cimorelli-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cimorelli-fight-song-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 9,
+        "day": 4
+       },
+       "release_date_for_display": "September 4, 2015",
+       "release_date_with_abbreviated_month_for_display": "Sep. 4, 2015",
+       "song_art_image_thumbnail_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=Cimorelli",
+       "song_art_image_url": "https://i.embed.ly/1/display?key=fc778e44915911e088ae4040f9f86dcd&url=Cimorelli",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Cimorelli-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/21788",
+        "header_image_url": "https://images.genius.com/fd1876ae70719b9d01584d4ac31b127f.1000x747x1.png",
+        "id": 21788,
+        "image_url": "https://images.genius.com/968a412430286e972b1ef3aea6a40c7c.741x741x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cimorelli",
+        "url": "https://genius.com/artists/Cimorelli"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4852075",
+       "artist_names": "Caitlin Hart",
+       "full_title": "Fight Song by\u00a0Caitlin\u00a0Hart",
+       "header_image_thumbnail_url": "https://images.genius.com/95be3dcf1a10d08507c54ef4d32c94e8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/95be3dcf1a10d08507c54ef4d32c94e8.800x800x1.jpg",
+       "id": 4852075,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Caitlin-hart-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Caitlin-hart-fight-song-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/95be3dcf1a10d08507c54ef4d32c94e8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/95be3dcf1a10d08507c54ef4d32c94e8.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Caitlin-hart-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/460509",
+        "header_image_url": "https://images.genius.com/82d7858cd2f53a4c7e429b75a231d91a.1000x1000x1.jpg",
+        "id": 460509,
+        "image_url": "https://images.genius.com/82d7858cd2f53a4c7e429b75a231d91a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Caitlin Hart",
+        "url": "https://genius.com/artists/Caitlin-hart"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4850101",
+       "artist_names": "Ali Brustofski",
+       "full_title": "Fight Song by\u00a0Ali\u00a0Brustofski",
+       "header_image_thumbnail_url": "https://images.genius.com/456a75e43ebf2f4794d7bde2e0bd5e06.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/456a75e43ebf2f4794d7bde2e0bd5e06.500x500x1.jpg",
+       "id": 4850101,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Ali-brustofski-fight-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ali-brustofski-fight-song-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 6,
+        "day": 18
+       },
+       "release_date_for_display": "June 18, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jun. 18, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/456a75e43ebf2f4794d7bde2e0bd5e06.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/456a75e43ebf2f4794d7bde2e0bd5e06.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song",
+       "title_with_featured": "Fight Song",
+       "url": "https://genius.com/Ali-brustofski-fight-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/453382",
+        "header_image_url": "https://images.genius.com/452e612a7cc2e6784a8975795ed830cf.1000x690x1.jpg",
+        "id": 453382,
+        "image_url": "https://images.genius.com/0e3eedfc5db8967b2f540b1733cbc170.486x486x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ali Brustofski",
+        "url": "https://genius.com/artists/Ali-brustofski"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3707413",
+       "artist_names": "The Piano Guys",
+       "full_title": "Fight Song / Amazing Grace by\u00a0The\u00a0Piano Guys",
+       "header_image_thumbnail_url": "https://images.genius.com/990a3ba03387f631fd3ea03311e39dd6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/990a3ba03387f631fd3ea03311e39dd6.1000x1000x1.jpg",
+       "id": 3707413,
+       "language": "en",
+       "lyrics_owner_id": 5585647,
+       "lyrics_state": "complete",
+       "path": "/The-piano-guys-fight-song-amazing-grace-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-piano-guys-fight-song-amazing-grace-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 8,
+        "day": 7
+       },
+       "release_date_for_display": "August 7, 2015",
+       "release_date_with_abbreviated_month_for_display": "Aug. 7, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/990a3ba03387f631fd3ea03311e39dd6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/990a3ba03387f631fd3ea03311e39dd6.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song / Amazing Grace",
+       "title_with_featured": "Fight Song / Amazing Grace",
+       "url": "https://genius.com/The-piano-guys-fight-song-amazing-grace-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/370100",
+        "header_image_url": "https://images.genius.com/5c0eff05ff7982e295ead7fe987d4d08.1000x667x1.jpg",
+        "id": 370100,
+        "image_url": "https://images.genius.com/bf460bf4d3fa0250fa58750b6134ffd8.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Piano Guys",
+        "url": "https://genius.com/artists/The-piano-guys"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4008157",
+       "artist_names": "DJ Earworm",
+       "full_title": "United State of Pop 2015 (50 Shades of Pop) by\u00a0DJ\u00a0Earworm",
+       "header_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+       "id": 4008157,
+       "language": "en",
+       "lyrics_owner_id": 7122943,
+       "lyrics_state": "complete",
+       "path": "/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 3
+       },
+       "release_date_for_display": "December 3, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 3, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/809ab5375a1592e7d644713fdc95ab31.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "United State of Pop 2015 (50 Shades of Pop)",
+       "title_with_featured": "United State of Pop 2015 (50 Shades of Pop)",
+       "url": "https://genius.com/Dj-earworm-united-state-of-pop-2015-50-shades-of-pop-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/190620",
+        "header_image_url": "https://images.genius.com/5bdf76541f2271603b15ddb533d9f578.1000x388x1.jpg",
+        "id": 190620,
+        "image_url": "https://images.genius.com/b061c6d0b864568de35fb74b89b03672.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Earworm",
+        "url": "https://genius.com/artists/Dj-earworm"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4576867",
+       "artist_names": "Rachel Platten",
+       "full_title": "Fight Song (Dave Aud\u00e9 Remix) by\u00a0Rachel\u00a0Platten",
+       "header_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "id": 4576867,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Rachel-platten-fight-song-dave-aude-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rachel-platten-fight-song-dave-aude-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 13
+       },
+       "release_date_for_display": "April 13, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 13, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fight Song (Dave Aud\u00e9 Remix)",
+       "title_with_featured": "Fight Song (Dave Aud\u00e9 Remix)",
+       "url": "https://genius.com/Rachel-platten-fight-song-dave-aude-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/271204",
+        "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+        "id": 271204,
+        "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rachel Platten",
+        "url": "https://genius.com/artists/Rachel-platten"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/616113",
+     "header_image_url": "https://images.genius.com/19d9502bcfa01282218d0183d48d2275.402x402x1.png",
+     "id": 616113,
+     "image_url": "https://images.genius.com/19d9502bcfa01282218d0183d48d2275.402x402x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Bassett",
+     "url": "https://genius.com/artists/Dave-bassett"
+    },
+    {
+     "api_path": "/artists/451352",
+     "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "id": 451352,
+     "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Levine",
+     "url": "https://genius.com/artists/Jon-levine"
+    },
+    {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   ],
+   "artist": "Rachel Platten",
+   "lyrics": "92 ContributorsFight Song Lyrics[Refrain]\nLike a small boat on the ocean\nSending big waves into motion\nLike how a single word\nCan make a heart open\nI might only have one match\nBut I can make an explosion\n\n[Pre-Chorus]\nAnd all those things I didn't say\nWere wrecking balls inside my brain\nI will scream them loud tonight\nCan you hear my voice this time?\n[Chorus]\nThis is my fight song (Hey)\nTake back my life song (Hey)\nProve I'm alright song (Hey, ha)\nMy power's turned on (Hey)\nStarting right now, I'll be strong (Hey)\nI'll play my fight song (Hey)\nAnd I don't really care if nobody else believes (Ha)\n'Cause I've still got a lot of fight left in me\n\n[Verse]\nLosing friends and I'm chasing sleep\nEverybody's worried about me\nIn too deep, say I'm in too deep (In too deep)\nAnd it's been two years, I miss my home (I miss my home)\nBut there's a fire burning in my bones (In my bones)\nStill believe, yeah, I still believe\n\n[Pre-Chorus]\nAnd all those things I didn't say\nWrecking balls inside my brain\nI will scream them loud tonight\nCan you hear my voice this time?\n\n[Chorus]\nThis is my fight song (Hey)\nTake back my life song (Hey)\nProve I'm alright song (Hey, ha)\nMy power's turned on (Hey)\nStarting right now, I'll be strong (Hey)\nI'll play my fight song (Hey)\nAnd I don't really care if nobody else believes (Ha)\n'Cause I've still got a lot of fight left in me\nYou might also like[Post-Chorus]\nA lot of fight left in me\n\n[Refrain]\nLike a small boat on the ocean\nSending big waves into motion\nLike how a single word\nCan make a heart open\nI might only have one match\nBut I can make an explosion\n\n[Chorus]\nThis is my fight song (Hey)\nTake back my life song (Hey)\nProve I'm alright song (Hey)\nMy power's turned on (Hey)\nStarting right now, I'll be strong (I'll be strong)\nI'll play my fight song (Hey)\nAnd I don't really care if nobody else believes\n'Cause I've still got a lot of fight left in me\n\n[Outro]\nNo, I've still got a lot of fight left in me122Embed"
+  },
+  {
+   "annotation_count": 10,
+   "api_path": "/songs/2297738",
+   "artist_names": "Rachel Platten",
+   "full_title": "Stand By You by\u00a0Rachel\u00a0Platten",
+   "header_image_thumbnail_url": "https://images.genius.com/31a1647f5a173ac6cc5c3af7bc2c8b49.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/31a1647f5a173ac6cc5c3af7bc2c8b49.1000x1000x1.jpg",
+   "id": 2297738,
+   "language": "en",
+   "lyrics_owner_id": 266331,
+   "lyrics_state": "complete",
+   "path": "/Rachel-platten-stand-by-you-lyrics",
+   "pyongs_count": 11,
+   "relationships_index_url": "https://genius.com/Rachel-platten-stand-by-you-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 9,
+    "day": 11
+   },
+   "release_date_for_display": "September 11, 2015",
+   "release_date_with_abbreviated_month_for_display": "Sep. 11, 2015",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/1a1cd76a91527f452e4e3ff3206721f9.300x300x1.png",
+   "song_art_image_url": "https://images.rapgenius.com/1a1cd76a91527f452e4e3ff3206721f9.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 50,
+    "iq_earners": 49,
+    "transcribers": 4,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 85369
+   },
+   "title": "Stand By You",
+   "title_with_featured": "Stand By You",
+   "url": "https://genius.com/Rachel-platten-stand-by-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/271204",
+    "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+    "id": 271204,
+    "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rachel Platten",
+    "url": "https://genius.com/artists/Rachel-platten"
+   },
+   "apple_music_id": "1061182677",
+   "apple_music_player_url": "https://genius.com/songs/2297738/apple_music_player",
+   "description": {
+    "plain": "Following the breakout success of \u201cFight Song,\u201d Rachel Platten\u2019s empowering track \u201cStand By You\u201d was released on September 11, 2015 as its follow-up single, preceding her third studio album.\n\nPlatten wrote the track along with Jack Antonoff (of Fun. and Bleachers fame), Joy Williams (formerly of The Civil Wars), and Matt Morris.\n\nIt\u2019s a song for those who feels lonely on their battles in life. For somebody with depression, everything feels falling apart and you are on your own. In this song, it tells them that no matter what happens, they\u2019ll be with you."
+   },
+   "embed_content": "<div id='rg_embed_link_2297738' class='rg_embed_link' data-song-id='2297738'>Read <a href='https://genius.com/Rachel-platten-stand-by-you-lyrics'>\u201cStand By You\u201d by Rachel\u00a0Platten</a> on Genius</div> <script crossorigin src='//genius.com/songs/2297738/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-09-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/139118",
+    "cover_art_url": "https://images.genius.com/31a1647f5a173ac6cc5c3af7bc2c8b49.1000x1000x1.jpg",
+    "full_title": "Wildfire  by Rachel Platten",
+    "id": 139118,
+    "name": "Wildfire ",
+    "release_date_for_display": "January 1, 2016",
+    "url": "https://genius.com/albums/Rachel-platten/Wildfire",
+    "artist": {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Choir",
+     "artists": [
+      {
+       "api_path": "/artists/42768",
+       "header_image_url": "https://images.genius.com/a07f1810f1b7a83c9272acc499a8117b.1000x129x1.png",
+       "id": 42768,
+       "image_url": "https://images.genius.com/6b40867a4fc001b3e92ee9641d6c7226.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RaVaughn",
+       "url": "https://genius.com/artists/Ravaughn"
+      },
+      {
+       "api_path": "/artists/987365",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987365,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Davis",
+       "url": "https://genius.com/artists/Tim-davis"
+      },
+      {
+       "api_path": "/artists/987363",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987363,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Missi Hale",
+       "url": "https://genius.com/artists/Missi-hale"
+      },
+      {
+       "api_path": "/artists/987362",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987362,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Luke Edgemon",
+       "url": "https://genius.com/artists/Luke-edgemon"
+      },
+      {
+       "api_path": "/artists/987361",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987361,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kamari Copeland",
+       "url": "https://genius.com/artists/Kamari-copeland"
+      },
+      {
+       "api_path": "/artists/987360",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987360,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emily Benford",
+       "url": "https://genius.com/artists/Emily-benford"
+      },
+      {
+       "api_path": "/artists/769916",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 769916,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Loucks",
+       "url": "https://genius.com/artists/David-loucks"
+      },
+      {
+       "api_path": "/artists/21329",
+       "header_image_url": "https://images.genius.com/6ce7fc73b1d009b087fc802d9ddc473d.1000x534x1.jpg",
+       "id": 21329,
+       "image_url": "https://images.genius.com/3a017586c29fdf0fec2d38d7df5c1ee7.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Anthony Evans",
+       "url": "https://genius.com/artists/Anthony-evans"
+      }
+     ]
+    },
+    {
+     "label": "Drum Programming",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Electric Piano (Rhodes)",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/451352",
+       "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "id": 451352,
+       "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Levine",
+       "url": "https://genius.com/artists/Jon-levine"
+      }
+     ]
+    },
+    {
+     "label": "Recorded By",
+     "artists": [
+      {
+       "api_path": "/artists/665344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 665344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Piscina",
+       "url": "https://genius.com/artists/Dan-piscina"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/976097",
+       "header_image_url": "https://images.genius.com/e43302f286d66526b0719bce7c78cbdd.300x170x1.jpg",
+       "id": 976097,
+       "image_url": "https://images.genius.com/72ccb1707a818148b33e9151e075ac0c.220x220x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Zook",
+       "url": "https://genius.com/artists/Joe-zook"
+      }
+     ]
+    },
+    {
+     "label": "Mastered by",
+     "artists": [
+      {
+       "api_path": "/artists/396012",
+       "header_image_url": "https://images.genius.com/af14099731b377463d798965fef794cf.1000x536x1.jpg",
+       "id": 396012,
+       "image_url": "https://images.genius.com/6dcc9ef17462337ef8cc4069a8a036f6.312x312x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Coyne",
+       "url": "https://genius.com/artists/Tom-coyne"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/643910",
+       "header_image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+       "id": 643910,
+       "image_url": "https://images.genius.com/cb3f86931be503c40ec18d98b34dba99.600x600x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aaron Sterling",
+       "url": "https://genius.com/artists/Aaron-sterling"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/987359",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 987359,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Sosin",
+       "url": "https://genius.com/artists/Jon-sosin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 266331,
+    "annotator_login": "KurtTrowbridge",
+    "api_path": "/referents/7747847",
+    "classification": "accepted",
+    "fragment": "Stand By You",
+    "id": 7747847,
+    "is_description": true,
+    "path": "/7747847/Rachel-platten-stand-by-you/Stand-by-you",
+    "range": {
+     "content": "Stand By You"
+    },
+    "song_id": 2297738,
+    "url": "https://genius.com/7747847/Rachel-platten-stand-by-you/Stand-by-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2297738",
+     "client_timestamps": {
+      "updated_by_human_at": 1651800904,
+      "lyrics_updated_at": 1600655102
+     },
+     "context": "Rachel Platten",
+     "id": 2297738,
+     "image_url": "https://images.rapgenius.com/1a1cd76a91527f452e4e3ff3206721f9.1000x1000x1.png",
+     "link_title": "Stand By You by\u00a0Rachel\u00a0Platten",
+     "title": "Stand By You",
+     "type": "Song",
+     "url": "https://genius.com/Rachel-platten-stand-by-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7747847",
+      "body": {
+       "plain": "Following the breakout success of \u201cFight Song,\u201d Rachel Platten\u2019s empowering track \u201cStand By You\u201d was released on September 11, 2015 as its follow-up single, preceding her third studio album.\n\nPlatten wrote the track along with Jack Antonoff (of Fun. and Bleachers fame), Joy Williams (formerly of The Civil Wars), and Matt Morris.\n\nIt\u2019s a song for those who feels lonely on their battles in life. For somebody with depression, everything feels falling apart and you are on your own. In this song, it tells them that no matter what happens, they\u2019ll be with you."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 7747847,
+      "pinned": false,
+      "share_url": "https://genius.com/7747847",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/7747847/Rachel-platten-stand-by-you/Stand-by-you",
+      "verified": false,
+      "votes_total": 46,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5531914893617021,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/266331",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JFxcTh6EQYe2FMmhtLjW_SAM_4362-20x9.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 266331,
+         "iq": 96209,
+         "login": "KurtTrowbridge",
+         "name": "KurtTrowbridge",
+         "role_for_display": "editor",
+         "url": "https://genius.com/KurtTrowbridge",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.44680851063829785,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4554796",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5856982482772eaaf9a2d3b335a9909f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5856982482772eaaf9a2d3b335a9909f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5856982482772eaaf9a2d3b335a9909f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5856982482772eaaf9a2d3b335a9909f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/w6phyr0bt",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4554796,
+         "iq": 1294,
+         "login": "SuperHotnessJom",
+         "name": "SuperHotnessJom",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SuperHotnessJom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6rEzoN8rsbdfyHXAPgpNJG",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6rEzoN8rsbdfyHXAPgpNJG"
+    },
+    {
+     "attribution": "rachelplatten",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/rachelplatten/stand-by-you?in=rachelplatten/sets/wildfire"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bwB9EMpW8eY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/451352",
+     "header_image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "id": 451352,
+     "image_url": "https://images.genius.com/2b7d8d08ee0484d0755207b14c784d6e.351x351x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Levine",
+     "url": "https://genius.com/artists/Jon-levine"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8430544",
+       "artist_names": "NIIC",
+       "full_title": "Stand By You by\u00a0NIIC",
+       "header_image_thumbnail_url": "https://images.genius.com/6986948aae3f11356e895ad0c8f387b9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6986948aae3f11356e895ad0c8f387b9.500x500x1.jpg",
+       "id": 8430544,
+       "language": "en",
+       "lyrics_owner_id": 16756394,
+       "lyrics_state": "complete",
+       "path": "/Niic-stand-by-you-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Niic-stand-by-you-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 2,
+        "day": 14
+       },
+       "release_date_for_display": "February 14, 2016",
+       "release_date_with_abbreviated_month_for_display": "Feb. 14, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6986948aae3f11356e895ad0c8f387b9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6986948aae3f11356e895ad0c8f387b9.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Stand By You",
+       "title_with_featured": "Stand By You",
+       "url": "https://genius.com/Niic-stand-by-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1484725",
+        "header_image_url": "https://images.genius.com/5b7d3f4fc4e04681c336c0625f2b9cfd.1000x750x1.jpg",
+        "id": 1484725,
+        "image_url": "https://images.genius.com/1ad1d5b38d097a152acedec7b5175c3d.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "NIIC",
+        "url": "https://genius.com/artists/Niic"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6685867",
+       "artist_names": "Vitamin String Quartet",
+       "full_title": "Stand by You by\u00a0Vitamin\u00a0String Quartet",
+       "header_image_thumbnail_url": "https://images.genius.com/ca54b3c4f7dfab40a5c33e6cc057ddd9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ca54b3c4f7dfab40a5c33e6cc057ddd9.1000x1000x1.jpg",
+       "id": 6685867,
+       "language": "en",
+       "lyrics_owner_id": 4274810,
+       "lyrics_state": "complete",
+       "path": "/Vitamin-string-quartet-stand-by-you-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Vitamin-string-quartet-stand-by-you-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 2,
+        "day": 12
+       },
+       "release_date_for_display": "February 12, 2016",
+       "release_date_with_abbreviated_month_for_display": "Feb. 12, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ca54b3c4f7dfab40a5c33e6cc057ddd9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ca54b3c4f7dfab40a5c33e6cc057ddd9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Stand by You",
+       "title_with_featured": "Stand by You",
+       "url": "https://genius.com/Vitamin-string-quartet-stand-by-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/454633",
+        "header_image_url": "https://images.genius.com/e0452090389fab739c46e708eaffba75.1000x429x1.jpg",
+        "id": 454633,
+        "image_url": "https://images.genius.com/3c992a4813c7fa30a59164a2d4bc419e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Vitamin String Quartet",
+        "url": "https://genius.com/artists/Vitamin-string-quartet",
+        "iq": 104
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2893896",
+       "artist_names": "Rachel Platten (Ft. Diego Torres)",
+       "full_title": "Siempre Estar\u00e9 Ah\u00ed by\u00a0Rachel\u00a0Platten (Ft.\u00a0Diego\u00a0Torres)",
+       "header_image_thumbnail_url": "https://images.genius.com/e51e125b97ee9072f121ce7af3ad0a1f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e51e125b97ee9072f121ce7af3ad0a1f.1000x1000x1.jpg",
+       "id": 2893896,
+       "language": "es",
+       "lyrics_owner_id": 3779032,
+       "lyrics_state": "complete",
+       "path": "/Rachel-platten-siempre-estare-ahi-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Rachel-platten-siempre-estare-ahi-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 9
+       },
+       "release_date_for_display": "September 9, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 9, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e51e125b97ee9072f121ce7af3ad0a1f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e51e125b97ee9072f121ce7af3ad0a1f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Siempre Estar\u00e9 Ah\u00ed",
+       "title_with_featured": "Siempre Estar\u00e9 Ah\u00ed (Ft.\u00a0Diego\u00a0Torres)",
+       "url": "https://genius.com/Rachel-platten-siempre-estare-ahi-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/318980",
+         "header_image_url": "https://images.genius.com/b21a858dc90f0b033110676fea18d4a5.1000x563x1.jpg",
+         "id": 318980,
+         "image_url": "https://images.genius.com/e1e5759bea144be1d9a80632a572420e.956x956x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Diego Torres",
+         "url": "https://genius.com/artists/Diego-torres"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/271204",
+        "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+        "id": 271204,
+        "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rachel Platten",
+        "url": "https://genius.com/artists/Rachel-platten"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4576875",
+       "artist_names": "Rachel Platten",
+       "full_title": "Stand By You (DJ Mike D Remix) by\u00a0Rachel\u00a0Platten",
+       "header_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "id": 4576875,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Rachel-platten-stand-by-you-dj-mike-d-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rachel-platten-stand-by-you-dj-mike-d-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 13
+       },
+       "release_date_for_display": "April 13, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 13, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Stand By You (DJ Mike D Remix)",
+       "title_with_featured": "Stand By You (DJ Mike D Remix)",
+       "url": "https://genius.com/Rachel-platten-stand-by-you-dj-mike-d-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/271204",
+        "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+        "id": 271204,
+        "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rachel Platten",
+        "url": "https://genius.com/artists/Rachel-platten"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4576873",
+       "artist_names": "Rachel Platten",
+       "full_title": "Stand By You (Acoustic) by\u00a0Rachel\u00a0Platten",
+       "header_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "id": 4576873,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Rachel-platten-stand-by-you-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rachel-platten-stand-by-you-acoustic-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 13
+       },
+       "release_date_for_display": "April 13, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 13, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7823717d0b37e7cc2623dfdd19f50a4f.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Stand By You (Acoustic)",
+       "title_with_featured": "Stand By You (Acoustic)",
+       "url": "https://genius.com/Rachel-platten-stand-by-you-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/271204",
+        "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+        "id": 271204,
+        "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rachel Platten",
+        "url": "https://genius.com/artists/Rachel-platten"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/17930",
+     "header_image_url": "https://images.genius.com/c9f11bf841d281b32f960cfe8050398d.409x409x1.jpg",
+     "id": 17930,
+     "image_url": "https://images.genius.com/c9f11bf841d281b32f960cfe8050398d.409x409x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matt Morris",
+     "url": "https://genius.com/artists/Matt-morris"
+    },
+    {
+     "api_path": "/artists/124368",
+     "header_image_url": "https://images.genius.com/d2072fb0e084891f2719bab7c486ea7c.400x400x1.jpg",
+     "id": 124368,
+     "image_url": "https://images.genius.com/d2072fb0e084891f2719bab7c486ea7c.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joy Williams",
+     "url": "https://genius.com/artists/Joy-williams"
+    },
+    {
+     "api_path": "/artists/264329",
+     "header_image_url": "https://images.genius.com/9f1dfa5c42fa754b52ef635963a3d62c.1000x1000x1.jpg",
+     "id": 264329,
+     "image_url": "https://images.genius.com/11fc7e453ee62239eb379a42d00b2016.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jack Antonoff",
+     "url": "https://genius.com/artists/Jack-antonoff",
+     "iq": 250
+    },
+    {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   ],
+   "artist": "Rachel Platten",
+   "lyrics": "50 ContributorsStand By You Lyrics[Intro]\nEven if we can't find Heaven, Heaven, Heaven\nHeaven, Heaven, Heaven\n\n[Verse 1]\nHands, put your empty hands in mine\nAnd scars, show me all the scars you hide\nAnd hey, if your wings are broken\nPlease take mine 'til yours can open too\n'Cause I'm gonna stand by you\n[Pre-Chorus 1]\nOh, tears make kaleidoscopes in your eyes\nAnd hurt, I know you're hurting, but so am I\nAnd love, if your wings are broken\nBorrow mine so yours can open too\n\n[Chorus]\n'Cause I'm gonna stand by you\nEven if we're breaking down\nWe can find a way to break through\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\nEven if we can't find Heaven\nI'm gonna stand by you\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\n\n[Verse 2]\nYeah, you're all I never knew I needed\nAnd the heart, sometimes it's unclear why it's beating\nAnd love, if your wings are broken\nWe can brave through those emotions too\n'Cause I'm gonna stand by you\nYou might also like[Pre-Chorus 2]\nAnd oh, truth, I guess truth is what you believe in\nAnd faith, I think faith is having a reason\nNo, no, no, love, if your wings are broken\nBorrow mine so yours can open too\n\n[Chorus]\n'Cause I'm gonna stand by you\nEven if we're breaking down\nWe can find a way to break through\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\nEven if we can't find Heaven\nI'm gonna stand by you\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\n\n[Bridge]\nI'll be your eyes 'til yours can shine\nI'll be your arms, I'll be your steady satellite\nAnd when you can't rise\nWell, I'll crawl with you on hands and knees\n'Cause I...\n[Chorus]\nI'm gonna stand by you\nEven if we're breaking down\nWe can find a way to break through (Come on)\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\nEven if we can't find Heaven\nI'm gonna stand by you\nEven if we can't find Heaven\nI'll walk through Hell with you\nLove, you're not alone\n'Cause I'm gonna stand by you\nLove, you're not alone\nNo, I'm gonna stand by you\n\n[Outro]\n(Even if we can't find Heaven, Heaven, Heaven...)\nI'm gonna stand by you11Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/3183491",
+   "artist_names": "Rachel Platten",
+   "full_title": "Broken Glass by\u00a0Rachel\u00a0Platten",
+   "header_image_thumbnail_url": "https://images.genius.com/b3466b4304c290921fd38ff13bb07e54.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b3466b4304c290921fd38ff13bb07e54.1000x1000x1.jpg",
+   "id": 3183491,
+   "language": "en",
+   "lyrics_owner_id": 3489629,
+   "lyrics_state": "complete",
+   "path": "/Rachel-platten-broken-glass-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Rachel-platten-broken-glass-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 8,
+    "day": 18
+   },
+   "release_date_for_display": "August 18, 2017",
+   "release_date_with_abbreviated_month_for_display": "Aug. 18, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f8928dbbb483cf9373947c75bff004a2.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f8928dbbb483cf9373947c75bff004a2.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 19,
+    "iq_earners": 18,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 39760
+   },
+   "title": "Broken Glass",
+   "title_with_featured": "Broken Glass",
+   "url": "https://genius.com/Rachel-platten-broken-glass-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/271204",
+    "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+    "id": 271204,
+    "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rachel Platten",
+    "url": "https://genius.com/artists/Rachel-platten"
+   },
+   "apple_music_id": "1291444490",
+   "apple_music_player_url": "https://genius.com/songs/3183491/apple_music_player",
+   "description": {
+    "plain": "\u201cBroken Glass\u201d is about celebrating female unity and was inspired by events like the Women\u2019s March and International Women\u2019s Day.  Rachel wrote in an essay for Refinery29:\n\n\u201cBroken Glass\u201d is my rallying cry of release, healing, excitement, hope, and joy. It\u2019s a celebration of the power of women\u2014of our unity, strength, and fierceness, and of just how freaking awesome we are. We are badass on our own, but we\u2019re unstoppable when we come together.\n\nIn a different interview with Billboard, Rachel explained more about the song saying:\n\nI felt like I wanted to continue and do my part to give a message of hope through music and promote girl power. \u201cEven though we have a long way to go to get equality between men and women, we\u2019re making progress, and when we lift each other up, that\u2019s dope. \"Broken Glass\u201d is kind of about that message.\n\n\u201cBroken Glass\u201d was released on August 18, 2017 as the lead single for Platten\u2019s third full-length record, Waves. The song is a thematic continuation of the empowering anthems for which Platten is best known, like \u201cFight Song\u201d and \u201cStand By You.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3183491' class='rg_embed_link' data-song-id='3183491'>Read <a href='https://genius.com/Rachel-platten-broken-glass-lyrics'>\u201cBroken Glass\u201d by Rachel\u00a0Platten</a> on Genius</div> <script crossorigin src='//genius.com/songs/3183491/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-08-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/372229",
+    "cover_art_url": "https://images.genius.com/049fcfb7d0ca741328e10d5a84d8a8e9.1000x1000x1.jpg",
+    "full_title": "Waves by Rachel Platten",
+    "id": 372229,
+    "name": "Waves",
+    "release_date_for_display": "October 27, 2017",
+    "url": "https://genius.com/albums/Rachel-platten/Waves",
+    "artist": {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4973800,
+    "annotator_login": "honeymoonavenue",
+    "api_path": "/referents/12836334",
+    "classification": "accepted",
+    "fragment": "Broken Glass",
+    "id": 12836334,
+    "is_description": true,
+    "path": "/12836334/Rachel-platten-broken-glass/Broken-glass",
+    "range": {
+     "content": "Broken Glass"
+    },
+    "song_id": 3183491,
+    "url": "https://genius.com/12836334/Rachel-platten-broken-glass/Broken-glass",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3183491",
+     "client_timestamps": {
+      "updated_by_human_at": 1583379733,
+      "lyrics_updated_at": 1517550894
+     },
+     "context": "Rachel Platten",
+     "id": 3183491,
+     "image_url": "https://images.genius.com/f8928dbbb483cf9373947c75bff004a2.1000x1000x1.jpg",
+     "link_title": "Broken Glass by\u00a0Rachel\u00a0Platten",
+     "title": "Broken Glass",
+     "type": "Song",
+     "url": "https://genius.com/Rachel-platten-broken-glass-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12836334",
+      "body": {
+       "plain": "\u201cBroken Glass\u201d is about celebrating female unity and was inspired by events like the Women\u2019s March and International Women\u2019s Day.  Rachel wrote in an essay for Refinery29:\n\n\u201cBroken Glass\u201d is my rallying cry of release, healing, excitement, hope, and joy. It\u2019s a celebration of the power of women\u2014of our unity, strength, and fierceness, and of just how freaking awesome we are. We are badass on our own, but we\u2019re unstoppable when we come together.\n\nIn a different interview with Billboard, Rachel explained more about the song saying:\n\nI felt like I wanted to continue and do my part to give a message of hope through music and promote girl power. \u201cEven though we have a long way to go to get equality between men and women, we\u2019re making progress, and when we lift each other up, that\u2019s dope. \"Broken Glass\u201d is kind of about that message.\n\n\u201cBroken Glass\u201d was released on August 18, 2017 as the lead single for Platten\u2019s third full-length record, Waves. The song is a thematic continuation of the empowering anthems for which Platten is best known, like \u201cFight Song\u201d and \u201cStand By You.\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 12836334,
+      "pinned": false,
+      "share_url": "https://genius.com/12836334",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12836334/Rachel-platten-broken-glass/Broken-glass",
+      "verified": false,
+      "votes_total": 15,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8191489361702128,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4973800",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7ea0700318191dcfc5257800b64a0004",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7ea0700318191dcfc5257800b64a0004",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7ea0700318191dcfc5257800b64a0004",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7ea0700318191dcfc5257800b64a0004",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0119pwd5gcyb",
+         "human_readable_role_for_display": "Editor",
+         "id": 4973800,
+         "iq": 49196,
+         "login": "honeymoonavenue",
+         "name": "honeymoonavenue",
+         "role_for_display": "editor",
+         "url": "https://genius.com/honeymoonavenue",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.14361702127659576,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4355603",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b44894b6f3cdf7cab5335042d3ec18dd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b44894b6f3cdf7cab5335042d3ec18dd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b44894b6f3cdf7cab5335042d3ec18dd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b44894b6f3cdf7cab5335042d3ec18dd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pcZKtJA0T7WF41ECfzpu_blob-655237_1280.png",
+         "human_readable_role_for_display": "Editor",
+         "id": 4355603,
+         "iq": 76856,
+         "login": "toast2jams",
+         "name": "toast2jams",
+         "role_for_display": "editor",
+         "url": "https://genius.com/toast2jams",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03723404255319149,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/389740",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+         "human_readable_role_for_display": "Moderator",
+         "id": 389740,
+         "iq": 1400475,
+         "login": "ewokABdevito",
+         "name": "EwokABdevito",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/ewokABdevito",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:75hxLeRF6ykQcE55Lvp2ka",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/75hxLeRF6ykQcE55Lvp2ka"
+    },
+    {
+     "attribution": "rachelplatten",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/rachelplatten/broken-glass?in=rachelplatten/sets/waves-63"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=b2390GAm4d0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27578",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 27578,
+     "image_url": "https://images.genius.com/cde817afd31cef5140dade9b1387eeac.1000x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "StarGate",
+     "url": "https://genius.com/artists/Stargate"
+    },
+    {
+     "api_path": "/artists/648422",
+     "header_image_url": "https://images.genius.com/f80e6e343d3eb44e749ff8a6a58b9dc1.451x451x1.jpg",
+     "id": 648422,
+     "image_url": "https://images.genius.com/f80e6e343d3eb44e749ff8a6a58b9dc1.451x451x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MSTR Rogers",
+     "url": "https://genius.com/artists/Mstr-rogers"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/401419",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 401419,
+     "image_url": "https://images.genius.com/05ba928b80a20b096ebb463c31bb4998.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tor Erik Hermansen",
+     "url": "https://genius.com/artists/Tor-erik-hermansen"
+    },
+    {
+     "api_path": "/artists/1021143",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 1021143,
+     "image_url": "https://images.genius.com/1dc765341b09c358ff8d4c84d5de4d10.239x239x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikkel Storleer Eriksen",
+     "url": "https://genius.com/artists/Mikkel-storleer-eriksen"
+    },
+    {
+     "api_path": "/artists/648422",
+     "header_image_url": "https://images.genius.com/f80e6e343d3eb44e749ff8a6a58b9dc1.451x451x1.jpg",
+     "id": 648422,
+     "image_url": "https://images.genius.com/f80e6e343d3eb44e749ff8a6a58b9dc1.451x451x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MSTR Rogers",
+     "url": "https://genius.com/artists/Mstr-rogers"
+    },
+    {
+     "api_path": "/artists/647602",
+     "header_image_url": "https://images.genius.com/afbd9d2f65c6a5325d4f08d32b0b3a23.512x512x1.png",
+     "id": 647602,
+     "image_url": "https://images.genius.com/5e2aa2942e1840f9b6ff27667d2d1285.512x512x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nate Cyphert",
+     "url": "https://genius.com/artists/Nate-cyphert"
+    },
+    {
+     "api_path": "/artists/271204",
+     "header_image_url": "https://images.genius.com/867b073442936b5cba55f3817228770c.640x360x1.jpg",
+     "id": 271204,
+     "image_url": "https://images.genius.com/c7c2ff8e4049f18b7e7b77a859121413.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Platten",
+     "url": "https://genius.com/artists/Rachel-platten"
+    }
+   ],
+   "artist": "Rachel Platten",
+   "lyrics": "19 ContributorsBroken Glass Lyrics[Verse 1]\nI'm on a highway full of red lights\nI lost so many long nights\nFelt words that cut like knives\nI know, I know they're gonna say what they wanna\nAnd I know they're gonna say what they want\n\n[Pre-Chorus]\nBut I feel it changing, I can taste it\nI'm on the wave and I won't waste it\nI have been patient, but I'm not waiting anymore\nNot anymore, no\n[Chorus]\nI'm gonna dance on broken glass, on broken glass\nAnd I'm gonna make that ceiling crash, that ceiling crash\nSo what? Still got knives in my back\nSo what? So I'm tied to the tracks\nYeah, I'm gonna dance on broken glass\nAnd here I go, here I go\n(Oh, oh, oh) Yeah, here I go, here I go\n(Oh, oh, oh) Yeah, here I go, here I go\n\n[Verse 2]\nSo I'll bet on me and my own heartbeat\nWhen all the odds are piling like bricks around my feet\nYou know, you know it's more than, more than just for me\nYou know it's worth it\nI still believe, yeah yeah\n\n[Chorus]\nI'm gonna dance on broken glass, on broken glass\nAnd I'm gonna make that ceiling crash (uh), that ceiling crash\nSo what? Still got knives in my back\nSo what? So I'm tied to the tracks\nYeah, I'm gonna dance on broken glass\nAnd here I go, here I go\n(Oh, oh, oh) Yeah, here I go, here I go\n(Oh, oh, oh) And here I go, here I go\nYou might also like[Bridge]\nThrough to the other side, baby, I survive\n'Cause you know I'm a fighter\nThrough to the other side, baby, I'm on fire\n'Cause you know I'm a survivor\nThrough to the other side, baby, I survive\n'Cause you know I'm a fighter\nThrough to the other side, baby, I'm on fire, fire, fire\n\n[Chorus]\nI'm gonna dance on broken glass, on broken glass\nAnd I'm gonna make that ceiling crash (uh), that ceiling crash\nSo what? Still got knives in my back\nSo what? So I'm tied to the tracks\nYeah, I'm gonna dance on broken glass\nAnd here I go, here I go (Oh, oh, oh)\nYeah, here I go, here I go (Oh, oh, oh)\nAnd here I go, here I go7Embed"
+  }
+ ]
+}

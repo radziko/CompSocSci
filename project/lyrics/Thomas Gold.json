@@ -1,0 +1,1481 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/108123",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "djthomasgold",
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+ "id": 108123,
+ "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+ "instagram_name": "thomasgold",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Thomas Gold",
+ "translation_artist": false,
+ "twitter_name": "thomasgold",
+ "url": "https://genius.com/artists/Thomas-gold",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 349465,
+  "annotator_login": "ErikaAlta",
+  "api_path": "/referents/6996263",
+  "classification": "needs_exegesis",
+  "fragment": "Thomas Gold",
+  "id": 6996263,
+  "is_description": true,
+  "path": "/6996263/Thomas-gold/Thomas-gold",
+  "range": {
+   "content": "Thomas Gold"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6996263/Thomas-gold/Thomas-gold",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/108123",
+   "context": null,
+   "id": 108123,
+   "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+   "link_title": "Thomas Gold",
+   "title": "Thomas Gold",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Thomas-gold"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6996263",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 6996263,
+    "pinned": false,
+    "share_url": "https://genius.com/6996263",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/6996263/Thomas-gold/Thomas-gold",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/349465",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/f954229d8c2c85310680435bd0b5d839",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/f954229d8c2c85310680435bd0b5d839",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/f954229d8c2c85310680435bd0b5d839",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/f954229d8c2c85310680435bd0b5d839",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/f954229d8c2c85310680435bd0b5d839",
+       "human_readable_role_for_display": null,
+       "id": 349465,
+       "iq": 100,
+       "login": "ErikaAlta",
+       "name": "ErikaAlta",
+       "role_for_display": null,
+       "url": "https://genius.com/ErikaAlta",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2966582",
+   "artist_names": "Thomas Gold (Ft. Jillian Edwards)",
+   "full_title": "Magic by\u00a0Thomas\u00a0Gold (Ft.\u00a0Jillian\u00a0Edwards)",
+   "header_image_thumbnail_url": "https://images.genius.com/fafa4b3e8c3836ef3bdbed47ec6f0c63.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/fafa4b3e8c3836ef3bdbed47ec6f0c63.1000x1000x1.jpg",
+   "id": 2966582,
+   "language": "en",
+   "lyrics_owner_id": 1964677,
+   "lyrics_state": "complete",
+   "path": "/Thomas-gold-magic-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Thomas-gold-magic-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 30
+   },
+   "release_date_for_display": "September 30, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 30, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/fafa4b3e8c3836ef3bdbed47ec6f0c63.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/fafa4b3e8c3836ef3bdbed47ec6f0c63.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10503
+   },
+   "title": "Magic",
+   "title_with_featured": "Magic (Ft.\u00a0Jillian\u00a0Edwards)",
+   "url": "https://genius.com/Thomas-gold-magic-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/375685",
+     "header_image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+     "id": 375685,
+     "image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jillian Edwards",
+     "url": "https://genius.com/artists/Jillian-edwards"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/108123",
+    "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "id": 108123,
+    "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Gold",
+    "url": "https://genius.com/artists/Thomas-gold"
+   },
+   "apple_music_id": "1214326633",
+   "apple_music_player_url": "https://genius.com/songs/2966582/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2966582' class='rg_embed_link' data-song-id='2966582'>Read <a href='https://genius.com/Thomas-gold-magic-lyrics'>\u201cMagic\u201d by Thomas\u00a0Gold</a> on Genius</div> <script crossorigin src='//genius.com/songs/2966582/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/337847",
+    "cover_art_url": "https://images.genius.com/fee8354997ff13171893df35adf1c201.1000x1000x1.jpg",
+    "full_title": "Revelation, Pt. 1 - EP by Thomas Gold",
+    "id": 337847,
+    "name": "Revelation, Pt. 1 - EP",
+    "release_date_for_display": "March 31, 2017",
+    "url": "https://genius.com/albums/Thomas-gold/Revelation-pt-1-ep",
+    "artist": {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1964677,
+    "annotator_login": "CalHx",
+    "api_path": "/referents/11234686",
+    "classification": "needs_exegesis",
+    "fragment": "Magic",
+    "id": 11234686,
+    "is_description": true,
+    "path": "/11234686/Thomas-gold-magic/Magic",
+    "range": {
+     "content": "Magic"
+    },
+    "song_id": 2966582,
+    "url": "https://genius.com/11234686/Thomas-gold-magic/Magic",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2966582",
+     "client_timestamps": {
+      "updated_by_human_at": 1542306328,
+      "lyrics_updated_at": 1542316545
+     },
+     "context": "Thomas Gold",
+     "id": 2966582,
+     "image_url": "https://images.genius.com/fafa4b3e8c3836ef3bdbed47ec6f0c63.1000x1000x1.jpg",
+     "link_title": "Magic by\u00a0Thomas\u00a0Gold (Ft.\u00a0Jillian\u00a0Edwards)",
+     "title": "Magic",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-gold-magic-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11234686",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11234686,
+      "pinned": false,
+      "share_url": "https://genius.com/11234686",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11234686/Thomas-gold-magic/Magic",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1964677",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9b1f1163725586c1815090a72e8027e0",
+         "human_readable_role_for_display": "Editor",
+         "id": 1964677,
+         "iq": 56474,
+         "login": "CalHx",
+         "name": "CalHx",
+         "role_for_display": "editor",
+         "url": "https://genius.com/CalHx",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7GYLsGlCPqSkLBNDC5mVyl",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7GYLsGlCPqSkLBNDC5mVyl"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=uUC8YmR103g"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5640486",
+       "artist_names": "Thomas Gold (Ft. Jillian Edwards)",
+       "full_title": "Magic (filous Remix) by\u00a0Thomas\u00a0Gold (Ft.\u00a0Jillian\u00a0Edwards)",
+       "header_image_thumbnail_url": "https://images.genius.com/f0b31169875745a66135b2fd74c99d8d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f0b31169875745a66135b2fd74c99d8d.1000x1000x1.jpg",
+       "id": 5640486,
+       "language": "en",
+       "lyrics_owner_id": 10553321,
+       "lyrics_state": "complete",
+       "path": "/Thomas-gold-magic-filous-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Thomas-gold-magic-filous-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f0b31169875745a66135b2fd74c99d8d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f0b31169875745a66135b2fd74c99d8d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Magic (filous Remix)",
+       "title_with_featured": "Magic (filous Remix) (Ft.\u00a0Jillian\u00a0Edwards)",
+       "url": "https://genius.com/Thomas-gold-magic-filous-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/375685",
+         "header_image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+         "id": 375685,
+         "image_url": "https://images.genius.com/fc2bb8079dc8a1ab084c7cabf315fdf5.337x337x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jillian Edwards",
+         "url": "https://genius.com/artists/Jillian-edwards"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/108123",
+        "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+        "id": 108123,
+        "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Thomas Gold",
+        "url": "https://genius.com/artists/Thomas-gold"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Thomas Gold",
+   "lyrics": "4 ContributorsMagic Lyrics[Verse 1]\nBaby, who was I before I met you?\nHonestly I'm too scared to look back\nLike a wildfire deep inside got turned loose\nYou're the only one who made me feel that\nNow the sun is setting, let it take you baby\nTake every drop of you and drink you in\n\n[Pre-Chorus]\nNow I know\nYou put the magic in my bones\nNow I know\nYou put the magic in my bones\n\n[Chorus]\nYou put the magic in my bones\nYou put the magic in my bones\n(Bones, bones, bones...)\n\n[Verse 2]\nNow when I look at you\nI can't move, I'm dreaming\nI wanna keep this moment froze in time\nNothing you can do to undo those three words\nIt's enough to bring a dead heart back to life\nYou might also like[Pre-Chorus]\nNow I know\nYou put the magic in my bones\nNow I know\nYou put the magic in my bones\n\n[Chorus]\nYou put the magic in my bones\nYou put the magic in my bones\n\n[Outro]\nNow I know\nYou put the magic in my bones1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3657344",
+   "artist_names": "Thomas Gold",
+   "full_title": "Begin Again by\u00a0Thomas\u00a0Gold",
+   "header_image_thumbnail_url": "https://images.genius.com/e33000073f34e9992ed7e02f928822d8.300x300x1.png",
+   "header_image_url": "https://images.genius.com/e33000073f34e9992ed7e02f928822d8.1000x1000x1.png",
+   "id": 3657344,
+   "language": "en",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Thomas-gold-begin-again-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Thomas-gold-begin-again-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 4,
+    "day": 20
+   },
+   "release_date_for_display": "April 20, 2018",
+   "release_date_with_abbreviated_month_for_display": "Apr. 20, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e33000073f34e9992ed7e02f928822d8.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/e33000073f34e9992ed7e02f928822d8.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Begin Again",
+   "title_with_featured": "Begin Again",
+   "url": "https://genius.com/Thomas-gold-begin-again-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/108123",
+    "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "id": 108123,
+    "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Gold",
+    "url": "https://genius.com/artists/Thomas-gold"
+   },
+   "apple_music_id": "1364542166",
+   "apple_music_player_url": "https://genius.com/songs/3657344/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3657344' class='rg_embed_link' data-song-id='3657344'>Read <a href='https://genius.com/Thomas-gold-begin-again-lyrics'>\u201cBegin Again\u201d by Thomas\u00a0Gold</a> on Genius</div> <script crossorigin src='//genius.com/songs/3657344/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-04-20",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Publishers",
+     "artists": [
+      {
+       "api_path": "/artists/644595",
+       "header_image_url": "https://images.genius.com/d0a503f329bb67ced923c82252bc958d.600x147x1.png",
+       "id": 644595,
+       "image_url": "https://images.genius.com/764870a8c2f10ca85d70afbe9799663d.432x432x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u200bpeermusic",
+       "url": "https://genius.com/artists/Peermusic"
+      },
+      {
+       "api_path": "/artists/1011919",
+       "header_image_url": "https://images.genius.com/054a299c5a9e0961dfa43145a8665744.1000x465x1.png",
+       "id": 1011919,
+       "image_url": "https://images.genius.com/d7674e632d4ffeb66c78b9a2ec56f32e.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG",
+       "url": "https://genius.com/artists/Bmg"
+      }
+     ]
+    },
+    {
+     "label": "Uncredited Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/526835",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 526835,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Richard Judge",
+       "url": "https://genius.com/artists/Richard-judge"
+      }
+     ]
+    },
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/682294",
+       "header_image_url": "https://images.genius.com/fac64e0633c4fdaa5be1c081ea420233.960x421x1.jpg",
+       "id": 682294,
+       "image_url": "https://images.genius.com/006558c80c75ff7d225479f87614e0a6.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armada Music",
+       "url": "https://genius.com/artists/Armada-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/14346063",
+    "classification": "needs_exegesis",
+    "fragment": "Begin Again",
+    "id": 14346063,
+    "is_description": true,
+    "path": "/14346063/Thomas-gold-begin-again/Begin-again",
+    "range": {
+     "content": "Begin Again"
+    },
+    "song_id": 3657344,
+    "url": "https://genius.com/14346063/Thomas-gold-begin-again/Begin-again",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3657344",
+     "client_timestamps": {
+      "updated_by_human_at": 1580556105,
+      "lyrics_updated_at": 1524067403
+     },
+     "context": "Thomas Gold",
+     "id": 3657344,
+     "image_url": "https://images.genius.com/e33000073f34e9992ed7e02f928822d8.1000x1000x1.png",
+     "link_title": "Begin Again by\u00a0Thomas\u00a0Gold",
+     "title": "Begin Again",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-gold-begin-again-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14346063",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14346063,
+      "pinned": false,
+      "share_url": "https://genius.com/14346063",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14346063/Thomas-gold-begin-again/Begin-again",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 601613,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/667360",
+     "header_image_url": "https://images.genius.com/e4c89517f370900e1a49e2412245383c.714x714x1.jpg",
+     "id": 667360,
+     "image_url": "https://images.genius.com/bcb65595f3e9699d1361a3df9ef6aff6.714x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SAINT WKND",
+     "url": "https://genius.com/artists/Saint-wknd"
+    },
+    {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    },
+    {
+     "api_path": "/artists/667360",
+     "header_image_url": "https://images.genius.com/e4c89517f370900e1a49e2412245383c.714x714x1.jpg",
+     "id": 667360,
+     "image_url": "https://images.genius.com/bcb65595f3e9699d1361a3df9ef6aff6.714x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SAINT WKND",
+     "url": "https://genius.com/artists/Saint-wknd"
+    },
+    {
+     "api_path": "/artists/526835",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 526835,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Richard Judge",
+     "url": "https://genius.com/artists/Richard-judge"
+    }
+   ],
+   "artist": "Thomas Gold",
+   "lyrics": "3 ContributorsBegin Again Lyrics[Verse 1]\nYour lips resting on my shoulder\nSharp teeth letting me know you're there\nI sing out like an animal\nMaybe we could meet in the middle of the night again?\n\n[Pre-Chorus]\nEvery time you look at me\nDo you see a light flash before your eyes?\nMaybe we are all we need?\nSo I'm gonna ride until I'm by your side and I say\n\n[Chorus]\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\n\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\n\n[Verse 2]\nI feel some kind of warning\nIn my heart like it's alive\nSo I call out like a prisoner\nMaybe we could meet in the middle of the night again?\nYou might also like[Pre-Chorus]\nEvery time you look at me\nDo you see a light flash before your eyes?\nMaybe we are all we need?\nSo I'm gonna ride until I'm by your side and I say\n\n[Chorus]\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\n\n[Bridge]\nEh-ah, eh-ah, eh-ah, eh-ah\nEh-ah, eh-ah, eh-ah, eh-ah\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\n\n[Chorus]\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle?\nEh-ah, eh-ah, eh-ah, eh-ah\nMaybe we could meet in the middle and begin again?Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3190175",
+   "artist_names": "Thomas Gold (Ft. Mimoza)",
+   "full_title": "Dreamer by\u00a0Thomas\u00a0Gold (Ft.\u00a0Mimoza)",
+   "header_image_thumbnail_url": "https://images.genius.com/a9b9e5eb11947d8720da5b7485d6c049.300x300x1.png",
+   "header_image_url": "https://images.genius.com/a9b9e5eb11947d8720da5b7485d6c049.1000x1000x1.png",
+   "id": 3190175,
+   "language": "en",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Thomas-gold-dreamer-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Thomas-gold-dreamer-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 8,
+    "day": 9
+   },
+   "release_date_for_display": "August 9, 2017",
+   "release_date_with_abbreviated_month_for_display": "Aug. 9, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a9b9e5eb11947d8720da5b7485d6c049.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/a9b9e5eb11947d8720da5b7485d6c049.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Dreamer",
+   "title_with_featured": "Dreamer (Ft.\u00a0Mimoza)",
+   "url": "https://genius.com/Thomas-gold-dreamer-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/25300",
+     "header_image_url": "https://images.genius.com/131c23e5c2c1a2d1cd77635d2025243b.500x500x1.jpg",
+     "id": 25300,
+     "image_url": "https://images.genius.com/131c23e5c2c1a2d1cd77635d2025243b.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mimoza",
+     "url": "https://genius.com/artists/Mimoza"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/108123",
+    "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "id": 108123,
+    "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Thomas Gold",
+    "url": "https://genius.com/artists/Thomas-gold"
+   },
+   "apple_music_id": "1257743436",
+   "apple_music_player_url": "https://genius.com/songs/3190175/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3190175' class='rg_embed_link' data-song-id='3190175'>Read <a href='https://genius.com/Thomas-gold-dreamer-lyrics'>\u201cDreamer\u201d by Thomas\u00a0Gold</a> on Genius</div> <script crossorigin src='//genius.com/songs/3190175/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-08-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/682294",
+       "header_image_url": "https://images.genius.com/fac64e0633c4fdaa5be1c081ea420233.960x421x1.jpg",
+       "id": 682294,
+       "image_url": "https://images.genius.com/006558c80c75ff7d225479f87614e0a6.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Armada Music",
+       "url": "https://genius.com/artists/Armada-music"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/12484083",
+    "classification": "needs_exegesis",
+    "fragment": "Dreamer",
+    "id": 12484083,
+    "is_description": true,
+    "path": "/12484083/Thomas-gold-dreamer/Dreamer",
+    "range": {
+     "content": "Dreamer"
+    },
+    "song_id": 3190175,
+    "url": "https://genius.com/12484083/Thomas-gold-dreamer/Dreamer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3190175",
+     "client_timestamps": {
+      "updated_by_human_at": 1536117262,
+      "lyrics_updated_at": 1502283189
+     },
+     "context": "Thomas Gold",
+     "id": 3190175,
+     "image_url": "https://images.genius.com/a9b9e5eb11947d8720da5b7485d6c049.1000x1000x1.png",
+     "link_title": "Dreamer by\u00a0Thomas\u00a0Gold (Ft.\u00a0Mimoza)",
+     "title": "Dreamer",
+     "type": "Song",
+     "url": "https://genius.com/Thomas-gold-dreamer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12484083",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12484083,
+      "pinned": false,
+      "share_url": "https://genius.com/12484083",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12484083/Thomas-gold-dreamer/Dreamer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 601613,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "thomasgoldofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/thomasgoldofficial/thomas-gold-feat-mimoza"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=OXF3B2BfZZ8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/108123",
+     "header_image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "id": 108123,
+     "image_url": "https://images.genius.com/bca5d154b607d19bf801b6f020906495.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Gold",
+     "url": "https://genius.com/artists/Thomas-gold"
+    }
+   ],
+   "artist": "Thomas Gold",
+   "lyrics": "2 ContributorsDreamer Lyrics[Verse 1]\nI believe in pressing diamonds from the sand\nI can feel the touch of Midas in my hands\nAnd I carry it wherever I go\nI'm depending on the angels by my side\nI've been having conversations with the sky\nAnd I call on them when I get low\n\n[Pre-Chorus 1]\nIf you were me, you'd be living the way I do\nI don't get high 'cause I'm already on my roof\n\n[Chorus]\nSo don't wake a dreamer\nGot my head in the clouds\nWhere the Gods can hear me out\nDon't wake a dreamer\nReaching for gold\nThat's all I know\n\n[Verse 2]\nI've been dancing with the sinners and the saints\nUnderneath it are we naked and the same\nAnd we dance again whenever we want\nI've been rising like a Phoenix from the past\nSee my colors burning brighter in the ash\nAnd they catch a flame when I'm in the dark\nYou might also like[Pre-Chorus 2]\nIf you were me, you'll be sky walking in my shoes\nTip toe the tight rope between the sun and the moon\n\n[Chorus]\nSo don't wake a dreamer\nGot my head in the clouds\nWhere the Gods can hear me out\nDon't wake a dreamer\nReaching for gold\nThat's all I know\n\n[Bridge]\nI don't see reality\nI escape to a place I call home\nI don't bleed red like you\nI escape to a higher place\nThat's why you\n\n[Chorus]\nSo don't wake a dreamer\nGot my head in the clouds\nWhere the Gods can hear me out\nSo don't wake a dreamer\nReaching for gold\nThat's all I know\nDon't wake a dreamer\nReaching for gold\nThat's all I know\nSo don't wake a dreamer2Embed"
+  }
+ ]
+}

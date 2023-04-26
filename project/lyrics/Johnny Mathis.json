@@ -1,0 +1,2305 @@
+{
+ "alternate_names": [
+  "John Mathis",
+  "John Royce Mathis"
+ ],
+ "api_path": "/artists/309211",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "JohnnyMathisMusic",
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+ "id": 309211,
+ "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Johnny Mathis",
+ "translation_artist": false,
+ "twitter_name": "mathisjohnny",
+ "url": "https://genius.com/artists/Johnny-mathis",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1190011,
+  "annotator_login": "mory40265",
+  "api_path": "/referents/7051830",
+  "classification": "needs_exegesis",
+  "fragment": "Johnny Mathis",
+  "id": 7051830,
+  "is_description": true,
+  "path": "/7051830/Johnny-mathis/Johnny-mathis",
+  "range": {
+   "content": "Johnny Mathis"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7051830/Johnny-mathis/Johnny-mathis",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/309211",
+   "context": null,
+   "id": 309211,
+   "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+   "link_title": "Johnny Mathis",
+   "title": "Johnny Mathis",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Johnny-mathis"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7051830",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7051830,
+    "pinned": false,
+    "share_url": "https://genius.com/7051830",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7051830/Johnny-mathis/Johnny-mathis",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1190011",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8075bc2bdba779772395e47dca8835cf",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8075bc2bdba779772395e47dca8835cf",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8075bc2bdba779772395e47dca8835cf",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8075bc2bdba779772395e47dca8835cf",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/8075bc2bdba779772395e47dca8835cf",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1190011,
+       "iq": 1783,
+       "login": "mory40265",
+       "name": "mory40265",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/mory40265",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1357729",
+   "artist_names": "Johnny Mathis",
+   "full_title": "I'll Be Home For Christmas by\u00a0Johnny\u00a0Mathis",
+   "header_image_thumbnail_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.1000x1000x1.jpg",
+   "id": 1357729,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Johnny-mathis-ill-be-home-for-christmas-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Johnny-mathis-ill-be-home-for-christmas-sample",
+   "release_date_components": {
+    "year": 1958,
+    "month": 10,
+    "day": 6
+   },
+   "release_date_for_display": "October 6, 1958",
+   "release_date_with_abbreviated_month_for_display": "Oct. 6, 1958",
+   "song_art_image_thumbnail_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 54322
+   },
+   "title": "I\u2019ll Be Home For Christmas",
+   "title_with_featured": "I'll Be Home For Christmas",
+   "url": "https://genius.com/Johnny-mathis-ill-be-home-for-christmas-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/309211",
+    "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "id": 309211,
+    "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Johnny Mathis",
+    "url": "https://genius.com/artists/Johnny-mathis"
+   },
+   "apple_music_id": "192688636",
+   "apple_music_player_url": "https://genius.com/songs/1357729/apple_music_player",
+   "description": {
+    "plain": "This song is a recreation of Bing Crosby\u2019s \u201cI\u2019ll Be Home For Christmas.\u201d This version includes more words and phrases than the original."
+   },
+   "embed_content": "<div id='rg_embed_link_1357729' class='rg_embed_link' data-song-id='1357729'>Read <a href='https://genius.com/Johnny-mathis-ill-be-home-for-christmas-lyrics'>\u201cI'll Be Home For Christmas\u201d by Johnny\u00a0Mathis</a> on Genius</div> <script crossorigin src='//genius.com/songs/1357729/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "CBS 30th Street Studio, New York",
+   "release_date": "1958-10-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/171337",
+    "cover_art_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.1000x1000x1.jpg",
+    "full_title": "Merry Christmas by Johnny Mathis",
+    "id": 171337,
+    "name": "Merry Christmas",
+    "release_date_for_display": "October 6, 1958",
+    "url": "https://genius.com/albums/Johnny-mathis/Merry-christmas",
+    "artist": {
+     "api_path": "/artists/309211",
+     "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "id": 309211,
+     "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Mathis",
+     "url": "https://genius.com/artists/Johnny-mathis"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7054245,
+    "annotator_login": "DepressedLlamas",
+    "api_path": "/referents/5865235",
+    "classification": "unreviewed",
+    "fragment": "I\u2019ll Be Home For Christmas",
+    "id": 5865235,
+    "is_description": true,
+    "path": "/5865235/Johnny-mathis-ill-be-home-for-christmas/Ill-be-home-for-christmas",
+    "range": {
+     "content": "I'll Be Home For Christmas"
+    },
+    "song_id": 1357729,
+    "url": "https://genius.com/5865235/Johnny-mathis-ill-be-home-for-christmas/Ill-be-home-for-christmas",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1357729",
+     "client_timestamps": {
+      "updated_by_human_at": 1669675110,
+      "lyrics_updated_at": 1666916015
+     },
+     "context": "Johnny Mathis",
+     "id": 1357729,
+     "image_url": "https://images.genius.com/dd7a80fb2a843785c3ee72b53f3cc93d.1000x1000x1.jpg",
+     "link_title": "I\u2019ll Be Home For Christmas by\u00a0Johnny\u00a0Mathis",
+     "title": "I'll Be Home For Christmas",
+     "type": "Song",
+     "url": "https://genius.com/Johnny-mathis-ill-be-home-for-christmas-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5865235",
+      "body": {
+       "plain": "This song is a recreation of Bing Crosby\u2019s \u201cI\u2019ll Be Home For Christmas.\u201d This version includes more words and phrases than the original."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5865235,
+      "pinned": false,
+      "share_url": "https://genius.com/5865235",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5865235/Johnny-mathis-ill-be-home-for-christmas/Ill-be-home-for-christmas",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7054245",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6676bcb8b735515e8880dd9959ba97af",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6676bcb8b735515e8880dd9959ba97af",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6676bcb8b735515e8880dd9959ba97af",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6676bcb8b735515e8880dd9959ba97af",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/6676bcb8b735515e8880dd9959ba97af",
+         "human_readable_role_for_display": null,
+         "id": 7054245,
+         "iq": 119,
+         "login": "DepressedLlamas",
+         "name": "DepressedLlamas",
+         "role_for_display": null,
+         "url": "https://genius.com/DepressedLlamas",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=OrirklunkjI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/361948",
+     "header_image_url": "https://images.genius.com/c9ad74c5e0178fd67cd711a1a715568b.1000x1000x1.jpg",
+     "id": 361948,
+     "image_url": "https://images.genius.com/c9ad74c5e0178fd67cd711a1a715568b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mitch Miller",
+     "url": "https://genius.com/artists/Mitch-miller"
+    },
+    {
+     "api_path": "/artists/438264",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 438264,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Al Ham",
+     "url": "https://genius.com/artists/Al-ham"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Johnny-mathis-ill-be-home-for-christmas-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/1390068",
+       "artist_names": "Bing Crosby",
+       "full_title": "I\u2019ll Be Home For Christmas by\u00a0Bing\u00a0Crosby",
+       "header_image_thumbnail_url": "https://images.genius.com/847bb2aab5e21f80c7bea1e9c8cfc522.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/847bb2aab5e21f80c7bea1e9c8cfc522.1000x1000x1.jpg",
+       "id": 1390068,
+       "language": "en",
+       "lyrics_owner_id": 320363,
+       "lyrics_state": "complete",
+       "path": "/Bing-crosby-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bing-crosby-ill-be-home-for-christmas-sample",
+       "release_date_components": {
+        "year": 1943,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1943",
+       "release_date_with_abbreviated_month_for_display": "1943",
+       "song_art_image_thumbnail_url": "https://images.genius.com/847bb2aab5e21f80c7bea1e9c8cfc522.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/847bb2aab5e21f80c7bea1e9c8cfc522.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 9517
+       },
+       "title": "I\u2019ll Be Home For Christmas",
+       "title_with_featured": "I\u2019ll Be Home For Christmas",
+       "url": "https://genius.com/Bing-crosby-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/30989",
+        "header_image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+        "id": 30989,
+        "image_url": "https://images.genius.com/813ca5eb1229e559a7c61fef553222af.594x594x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bing Crosby",
+        "url": "https://genius.com/artists/Bing-crosby"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Johnny-mathis-ill-be-home-for-christmas-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8902426",
+       "artist_names": "L\u00e1\u010fa Kerndl",
+       "full_title": "I'll Be Home for Christmas by\u00a0L\u00e1\u010fa\u00a0Kerndl",
+       "header_image_thumbnail_url": "https://images.genius.com/a7950847b3c5e4d2ac84a6865dbd0941.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a7950847b3c5e4d2ac84a6865dbd0941.1000x1000x1.jpg",
+       "id": 8902426,
+       "language": "en",
+       "lyrics_owner_id": 13341136,
+       "lyrics_state": "complete",
+       "path": "/Lada-kerndl-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lada-kerndl-ill-be-home-for-christmas-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/a7950847b3c5e4d2ac84a6865dbd0941.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a7950847b3c5e4d2ac84a6865dbd0941.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Home for Christmas",
+       "title_with_featured": "I'll Be Home for Christmas",
+       "url": "https://genius.com/Lada-kerndl-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3357384",
+        "header_image_url": "https://images.genius.com/35fb46600803836f3fcc93886b29b60a.665x1000x1.jpg",
+        "id": 3357384,
+        "image_url": "https://images.genius.com/a4e86407c4475db987b45b6cdf229c81.206x206x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "L\u00e1\u010fa Kerndl",
+        "url": "https://genius.com/artists/Lada-kerndl"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/217485",
+       "artist_names": "Aimee Mann",
+       "full_title": "I'll Be Home For Christmas by\u00a0Aimee\u00a0Mann",
+       "header_image_thumbnail_url": "https://images.genius.com/e5076ae1f4a68c99dc7fcd130a1b6528.300x300x1.png",
+       "header_image_url": "https://images.genius.com/e5076ae1f4a68c99dc7fcd130a1b6528.1000x1000x1.png",
+       "id": 217485,
+       "language": "en",
+       "lyrics_owner_id": 281429,
+       "lyrics_state": "complete",
+       "path": "/Aimee-mann-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Aimee-mann-ill-be-home-for-christmas-sample",
+       "release_date_components": {
+        "year": 2006,
+        "month": 10,
+        "day": 24
+       },
+       "release_date_for_display": "October 24, 2006",
+       "release_date_with_abbreviated_month_for_display": "Oct. 24, 2006",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e5076ae1f4a68c99dc7fcd130a1b6528.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/e5076ae1f4a68c99dc7fcd130a1b6528.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Home For Christmas",
+       "title_with_featured": "I'll Be Home For Christmas",
+       "url": "https://genius.com/Aimee-mann-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/33616",
+        "header_image_url": "https://images.genius.com/d2f6a34937bdd64b94617df2d91bbe85.980x653x1.jpg",
+        "id": 33616,
+        "image_url": "https://images.genius.com/21a9df1d556cd653f4a01035904e23c0.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Aimee Mann",
+        "url": "https://genius.com/artists/Aimee-mann"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7353019",
+       "artist_names": "Camila Cabello",
+       "full_title": "I'll Be Home For Christmas by\u00a0Camila\u00a0Cabello",
+       "header_image_thumbnail_url": "https://images.genius.com/6df205c2539d4a3db9f9c19837fddd87.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6df205c2539d4a3db9f9c19837fddd87.1000x1000x1.jpg",
+       "id": 7353019,
+       "language": "en",
+       "lyrics_owner_id": 8280771,
+       "lyrics_state": "complete",
+       "path": "/Camila-cabello-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Camila-cabello-ill-be-home-for-christmas-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 4
+       },
+       "release_date_for_display": "November 4, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 4, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6df205c2539d4a3db9f9c19837fddd87.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6df205c2539d4a3db9f9c19837fddd87.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Home For Christmas",
+       "title_with_featured": "I'll Be Home For Christmas",
+       "url": "https://genius.com/Camila-cabello-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/609667",
+        "header_image_url": "https://images.genius.com/d3af5398fb9b4b0720366a6733599afe.1000x333x1.jpg",
+        "id": 609667,
+        "image_url": "https://images.genius.com/c7c3f71dbc3bbe771c1d7057d70b65d5.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Camila Cabello",
+        "url": "https://genius.com/artists/Camila-cabello",
+        "iq": 3295
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1428770",
+       "artist_names": "Josh Groban",
+       "full_title": "I'll Be Home For Christmas by\u00a0Josh\u00a0Groban",
+       "header_image_thumbnail_url": "https://images.genius.com/39de68c90934e3ff3325b6496a619987.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/39de68c90934e3ff3325b6496a619987.1000x1000x1.jpg",
+       "id": 1428770,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Josh-groban-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Josh-groban-ill-be-home-for-christmas-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": 10,
+        "day": 9
+       },
+       "release_date_for_display": "October 9, 2007",
+       "release_date_with_abbreviated_month_for_display": "Oct. 9, 2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/39de68c90934e3ff3325b6496a619987.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/39de68c90934e3ff3325b6496a619987.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Home For Christmas",
+       "title_with_featured": "I'll Be Home For Christmas",
+       "url": "https://genius.com/Josh-groban-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/31919",
+        "header_image_url": "https://images.genius.com/32a5f31090bc022396c0049c39f6f083.1000x467x1.jpg",
+        "id": 31919,
+        "image_url": "https://images.genius.com/7ef05342ccd406ea74af00e316f099df.387x387x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Josh Groban",
+        "url": "https://genius.com/artists/Josh-groban"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1774057",
+       "artist_names": "Glee Cast",
+       "full_title": "I'll Be Home for Christmas by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/24a1675170bcc4f93c57b80cfd4a1f9e.300x298x1.jpg",
+       "header_image_url": "https://images.genius.com/24a1675170bcc4f93c57b80cfd4a1f9e.1000x994x1.jpg",
+       "id": 1774057,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-ill-be-home-for-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glee-cast-ill-be-home-for-christmas-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 12,
+        "day": 11
+       },
+       "release_date_for_display": "December 11, 2012",
+       "release_date_with_abbreviated_month_for_display": "Dec. 11, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/24a1675170bcc4f93c57b80cfd4a1f9e.300x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/24a1675170bcc4f93c57b80cfd4a1f9e.1000x994x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Home for Christmas",
+       "title_with_featured": "I'll Be Home for Christmas",
+       "url": "https://genius.com/Glee-cast-ill-be-home-for-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/244920",
+     "header_image_url": "https://images.genius.com/6dcd4d34ecd5a0b40925cff38d375b08.210x210x1.jpg",
+     "id": 244920,
+     "image_url": "https://images.genius.com/6dcd4d34ecd5a0b40925cff38d375b08.210x210x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Buck Ram",
+     "url": "https://genius.com/artists/Buck-ram"
+    },
+    {
+     "api_path": "/artists/379615",
+     "header_image_url": "https://images.genius.com/d317ffa2fc0ab21e089f2f9107792165.240x240x1.jpg",
+     "id": 379615,
+     "image_url": "https://images.genius.com/d317ffa2fc0ab21e089f2f9107792165.240x240x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kim Gannon",
+     "url": "https://genius.com/artists/Kim-gannon"
+    },
+    {
+     "api_path": "/artists/572971",
+     "header_image_url": "https://images.genius.com/21f858cc46029dd928567ee2b45eee80.199x199x1.jpg",
+     "id": 572971,
+     "image_url": "https://images.genius.com/21f858cc46029dd928567ee2b45eee80.199x199x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Walter Kent",
+     "url": "https://genius.com/artists/Walter-kent"
+    }
+   ],
+   "artist": "Johnny Mathis",
+   "lyrics": "6 ContributorsI\u2019ll Be Home For Christmas LyricsI'm dreaming tonight of a place I love\nEven more than I usually do\nAnd although I know it's a long road back\nI promise you\n\nI'll be home for Christmas\nYou can count on me\nPlease have snow and mistletoe\nAnd presents on the tree\n\nChristmas Eve will find me\nWhere the love light gleams\nI'll be home for Christmas\nIf only in my dreams\nPlease have snow and mistletoe\nAnd presents on the tree\n\nChristmas Eve will find me\nWhere the love light gleams\nI'll be home for Christmas\nIf only in my dreams\n\nIf only in my dreamsYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/672292",
+   "artist_names": "Johnny Mathis",
+   "full_title": "Misty by\u00a0Johnny\u00a0Mathis",
+   "header_image_thumbnail_url": "https://images.genius.com/f518ffe2e74492d5f331a2062a9e7e47.300x303x1.jpg",
+   "header_image_url": "https://images.genius.com/f518ffe2e74492d5f331a2062a9e7e47.990x1000x1.jpg",
+   "id": 672292,
+   "language": "en",
+   "lyrics_owner_id": 1190011,
+   "lyrics_state": "complete",
+   "path": "/Johnny-mathis-misty-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Johnny-mathis-misty-sample",
+   "release_date_components": {
+    "year": 1959,
+    "month": 9,
+    "day": 1
+   },
+   "release_date_for_display": "September 1, 1959",
+   "release_date_with_abbreviated_month_for_display": "Sep. 1, 1959",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/3863fd3ba4a761c4aad6911bce74380c.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/3863fd3ba4a761c4aad6911bce74380c.720x720x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 46235
+   },
+   "title": "Misty",
+   "title_with_featured": "Misty",
+   "url": "https://genius.com/Johnny-mathis-misty-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/309211",
+    "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "id": 309211,
+    "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Johnny Mathis",
+    "url": "https://genius.com/artists/Johnny-mathis"
+   },
+   "apple_music_id": "217273839",
+   "apple_music_player_url": "https://genius.com/songs/672292/apple_music_player",
+   "description": {
+    "plain": "Written in 1954 by Erroll Garner, this jazz standard\u2019s best-known rendition is Johnny Mathis\u2018, despite recordings by other giants such as Frank Sinatra and Ella Fitzgerald."
+   },
+   "embed_content": "<div id='rg_embed_link_672292' class='rg_embed_link' data-song-id='672292'>Read <a href='https://genius.com/Johnny-mathis-misty-lyrics'>\u201cMisty\u201d by Johnny\u00a0Mathis</a> on Genius</div> <script crossorigin src='//genius.com/songs/672292/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1959-09-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/161619",
+    "cover_art_url": "https://images.genius.com/50c44092c5e5745ac04e8af4d666b42a.1000x1000x1.jpg",
+    "full_title": "Heavenly by Johnny Mathis",
+    "id": 161619,
+    "name": "Heavenly",
+    "release_date_for_display": "August 10, 1959",
+    "url": "https://genius.com/albums/Johnny-mathis/Heavenly",
+    "artist": {
+     "api_path": "/artists/309211",
+     "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "id": 309211,
+     "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Mathis",
+     "url": "https://genius.com/artists/Johnny-mathis"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By, Conductor",
+     "artists": [
+      {
+       "api_path": "/artists/1892608",
+       "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+       "id": 1892608,
+       "image_url": "https://images.genius.com/10a26dd461b48196a5a6ab771e5a5667.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Glenn Osser",
+       "url": "https://genius.com/artists/Glenn-osser"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1190011,
+    "annotator_login": "mory40265",
+    "api_path": "/referents/4712740",
+    "classification": "accepted",
+    "fragment": "Misty",
+    "id": 4712740,
+    "is_description": true,
+    "path": "/4712740/Johnny-mathis-misty/Misty",
+    "range": {
+     "content": "Misty"
+    },
+    "song_id": 672292,
+    "url": "https://genius.com/4712740/Johnny-mathis-misty/Misty",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/672292",
+     "client_timestamps": {
+      "updated_by_human_at": 1668703771,
+      "lyrics_updated_at": 1659280551
+     },
+     "context": "Johnny Mathis",
+     "id": 672292,
+     "image_url": "https://images.rapgenius.com/3863fd3ba4a761c4aad6911bce74380c.720x720x1.jpg",
+     "link_title": "Misty by\u00a0Johnny\u00a0Mathis",
+     "title": "Misty",
+     "type": "Song",
+     "url": "https://genius.com/Johnny-mathis-misty-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4712740",
+      "body": {
+       "plain": "Written in 1954 by Erroll Garner, this jazz standard\u2019s best-known rendition is Johnny Mathis\u2018, despite recordings by other giants such as Frank Sinatra and Ella Fitzgerald."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4712740,
+      "pinned": false,
+      "share_url": "https://genius.com/4712740",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4712740/Johnny-mathis-misty/Misty",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1190011",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8075bc2bdba779772395e47dca8835cf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8075bc2bdba779772395e47dca8835cf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8075bc2bdba779772395e47dca8835cf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8075bc2bdba779772395e47dca8835cf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8075bc2bdba779772395e47dca8835cf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1190011,
+         "iq": 1783,
+         "login": "mory40265",
+         "name": "mory40265",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/mory40265",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DkC9bCuahC8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/438264",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 438264,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Al Ham",
+     "url": "https://genius.com/artists/Al-ham"
+    },
+    {
+     "api_path": "/artists/361948",
+     "header_image_url": "https://images.genius.com/c9ad74c5e0178fd67cd711a1a715568b.1000x1000x1.jpg",
+     "id": 361948,
+     "image_url": "https://images.genius.com/c9ad74c5e0178fd67cd711a1a715568b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mitch Miller",
+     "url": "https://genius.com/artists/Mitch-miller"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Johnny-mathis-misty-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8324478",
+       "artist_names": "Samara Joy",
+       "full_title": "Misty by\u00a0Samara\u00a0Joy",
+       "header_image_thumbnail_url": "https://images.genius.com/d228fd8d592381ca901a6baeb5166808.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d228fd8d592381ca901a6baeb5166808.1000x1000x1.jpg",
+       "id": 8324478,
+       "language": "en",
+       "lyrics_owner_id": 7547709,
+       "lyrics_state": "complete",
+       "path": "/Samara-joy-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Samara-joy-misty-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 16
+       },
+       "release_date_for_display": "September 16, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 16, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d228fd8d592381ca901a6baeb5166808.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d228fd8d592381ca901a6baeb5166808.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Samara-joy-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2686123",
+        "header_image_url": "https://images.genius.com/d768fedad9a80c55781fae39be47d10a.820x312x1.jpg",
+        "id": 2686123,
+        "image_url": "https://images.genius.com/7583c38dcd87ad730384d509e1149752.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Samara Joy",
+        "url": "https://genius.com/artists/Samara-joy"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1636788",
+       "artist_names": "Kenny Rogers",
+       "full_title": "Misty by\u00a0Kenny\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/776574fe2654069752f0240c2124e0da.220x221x1.jpg",
+       "header_image_url": "https://images.genius.com/776574fe2654069752f0240c2124e0da.220x221x1.jpg",
+       "id": 1636788,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Kenny-rogers-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kenny-rogers-misty-sample",
+       "release_date_components": {
+        "year": 1996,
+        "month": 1,
+        "day": 2
+       },
+       "release_date_for_display": "January 2, 1996",
+       "release_date_with_abbreviated_month_for_display": "Jan. 2, 1996",
+       "song_art_image_thumbnail_url": "https://images.genius.com/776574fe2654069752f0240c2124e0da.220x221x1.jpg",
+       "song_art_image_url": "https://images.genius.com/776574fe2654069752f0240c2124e0da.220x221x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Kenny-rogers-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/11192",
+        "header_image_url": "https://images.genius.com/06651b441392c83855788ea36b94dc3d.664x441x1.jpg",
+        "id": 11192,
+        "image_url": "https://images.genius.com/6f1f026ced5315f98473167ddb0309c2.990x990x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kenny Rogers",
+        "url": "https://genius.com/artists/Kenny-rogers"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6515411",
+       "artist_names": "\u677e\u539f\u307f\u304d (Miki Matsubara)",
+       "full_title": "Misty by\u00a0\u677e\u539f\u307f\u304d\u00a0(Miki Matsubara)",
+       "header_image_thumbnail_url": "https://images.genius.com/e7f693b4a9d1b1959ddac0dd5b41b1c9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e7f693b4a9d1b1959ddac0dd5b41b1c9.599x599x1.jpg",
+       "id": 6515411,
+       "language": "en",
+       "lyrics_owner_id": 4443265,
+       "lyrics_state": "complete",
+       "path": "/Miki-matsubara-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Miki-matsubara-misty-sample",
+       "release_date_components": {
+        "year": 1984,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1984",
+       "release_date_with_abbreviated_month_for_display": "1984",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e7f693b4a9d1b1959ddac0dd5b41b1c9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e7f693b4a9d1b1959ddac0dd5b41b1c9.599x599x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Miki-matsubara-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1210045",
+        "header_image_url": "https://images.genius.com/78464a1897133050f4815878de393598.727x340x1.jpg",
+        "id": 1210045,
+        "image_url": "https://images.genius.com/f67dec21ea6d22d3bd9637488b89ef32.450x450x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u677e\u539f\u307f\u304d (Miki Matsubara)",
+        "url": "https://genius.com/artists/Miki-matsubara"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1064090",
+       "artist_names": "Donny Hathaway",
+       "full_title": "Misty by\u00a0Donny\u00a0Hathaway",
+       "header_image_thumbnail_url": "https://images.genius.com/98b6d24a4d8213a903bc4ff5ef2bcc05.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/98b6d24a4d8213a903bc4ff5ef2bcc05.1000x1000x1.jpg",
+       "id": 1064090,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Donny-hathaway-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Donny-hathaway-misty-sample",
+       "release_date_components": {
+        "year": 1970,
+        "month": 7,
+        "day": 1
+       },
+       "release_date_for_display": "July 1, 1970",
+       "release_date_with_abbreviated_month_for_display": "Jul. 1, 1970",
+       "song_art_image_thumbnail_url": "https://images.genius.com/98b6d24a4d8213a903bc4ff5ef2bcc05.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/98b6d24a4d8213a903bc4ff5ef2bcc05.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Donny-hathaway-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/56468",
+        "header_image_url": "https://images.genius.com/2df3ca5c872ca1f8f3409aec0fe90f6f.1000x691x1.jpg",
+        "id": 56468,
+        "image_url": "https://images.genius.com/d89404f3007cbbe0396c5257fac63c2d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donny Hathaway",
+        "url": "https://genius.com/artists/Donny-hathaway"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/785798",
+       "artist_names": "Clay Aiken",
+       "full_title": "Misty by\u00a0Clay\u00a0Aiken",
+       "header_image_thumbnail_url": "https://images.genius.com/5566f4ce4c2b22e8aeb90a0ec80bd303.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5566f4ce4c2b22e8aeb90a0ec80bd303.400x400x1.jpg",
+       "id": 785798,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Clay-aiken-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Clay-aiken-misty-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 6,
+        "day": 1
+       },
+       "release_date_for_display": "June 1, 2010",
+       "release_date_with_abbreviated_month_for_display": "Jun. 1, 2010",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5566f4ce4c2b22e8aeb90a0ec80bd303.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5566f4ce4c2b22e8aeb90a0ec80bd303.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Clay-aiken-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/272181",
+        "header_image_url": "https://images.genius.com/da7233a226842ee16cd000ed76169a57.525x525x1.jpg",
+        "id": 272181,
+        "image_url": "https://images.genius.com/da7233a226842ee16cd000ed76169a57.525x525x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Clay Aiken",
+        "url": "https://genius.com/artists/Clay-aiken"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1196706",
+       "artist_names": "Julie London",
+       "full_title": "Misty by\u00a0Julie\u00a0London",
+       "header_image_thumbnail_url": "https://images.genius.com/81ad702c81bf36088458c23e0dfca1d7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/81ad702c81bf36088458c23e0dfca1d7.640x640x1.jpg",
+       "id": 1196706,
+       "language": "en",
+       "lyrics_owner_id": 1168310,
+       "lyrics_state": "complete",
+       "path": "/Julie-london-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Julie-london-misty-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/81ad702c81bf36088458c23e0dfca1d7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/81ad702c81bf36088458c23e0dfca1d7.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Julie-london-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/364681",
+        "header_image_url": "https://images.genius.com/601ab0d7b27777baa9b208d91b8a1e44.1000x555x1.jpg",
+        "id": 364681,
+        "image_url": "https://images.genius.com/312d747693d7fed25030000656f5192c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Julie London",
+        "url": "https://genius.com/artists/Julie-london"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/707959",
+       "artist_names": "Lesley Gore",
+       "full_title": "Misty by\u00a0Lesley\u00a0Gore",
+       "header_image_thumbnail_url": "https://images.genius.com/6b0691bfc2974fd9e96217fc20065b0c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6b0691bfc2974fd9e96217fc20065b0c.1000x1000x1.jpg",
+       "id": 707959,
+       "language": "en",
+       "lyrics_owner_id": 389740,
+       "lyrics_state": "complete",
+       "path": "/Lesley-gore-misty-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Lesley-gore-misty-sample",
+       "release_date_components": {
+        "year": 1963,
+        "month": 6,
+        "day": 1
+       },
+       "release_date_for_display": "June 1, 1963",
+       "release_date_with_abbreviated_month_for_display": "Jun. 1, 1963",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6b0691bfc2974fd9e96217fc20065b0c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6b0691bfc2974fd9e96217fc20065b0c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 7870
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Lesley-gore-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/51035",
+        "header_image_url": "https://images.genius.com/20c2859e42a5eafb5334c615e3ec0d5f.900x898x1.jpg",
+        "id": 51035,
+        "image_url": "https://images.genius.com/8f566a330144ad55cbb2ac039a8ffb90.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lesley Gore",
+        "url": "https://genius.com/artists/Lesley-gore"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/913475",
+       "artist_names": "Ray Stevens",
+       "full_title": "Misty by\u00a0Ray\u00a0Stevens",
+       "header_image_thumbnail_url": "https://images.genius.com/bf336334fbff8f692a9010ada70c2063.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bf336334fbff8f692a9010ada70c2063.640x640x1.jpg",
+       "id": 913475,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Ray-stevens-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ray-stevens-misty-sample",
+       "release_date_components": {
+        "year": 1975,
+        "month": 4,
+        "day": null
+       },
+       "release_date_for_display": "April 1975",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1975",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bf336334fbff8f692a9010ada70c2063.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bf336334fbff8f692a9010ada70c2063.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Ray-stevens-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/51534",
+        "header_image_url": "https://images.genius.com/f882dde9f50721f83ebc2f4f22df3ad6.650x430x1.jpg",
+        "id": 51534,
+        "image_url": "https://images.genius.com/fb7f0ea480f7635192ae19d79314eab8.886x886x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ray Stevens",
+        "url": "https://genius.com/artists/Ray-stevens"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1759518",
+       "artist_names": "Lloyd Price",
+       "full_title": "Misty by\u00a0Lloyd\u00a0Price",
+       "header_image_thumbnail_url": "https://images.genius.com/e9b27398f6fad8d24c0a00f6b92bd45a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e9b27398f6fad8d24c0a00f6b92bd45a.600x600x1.jpg",
+       "id": 1759518,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Lloyd-price-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lloyd-price-misty-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e9b27398f6fad8d24c0a00f6b92bd45a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e9b27398f6fad8d24c0a00f6b92bd45a.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Lloyd-price-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/355804",
+        "header_image_url": "https://images.genius.com/b50b0005a092385c7093522f985b6c6c.170x219x1.jpg",
+        "id": 355804,
+        "image_url": "https://images.genius.com/e9b27398f6fad8d24c0a00f6b92bd45a.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lloyd Price",
+        "url": "https://genius.com/artists/Lloyd-price"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1937536",
+       "artist_names": "Etta James",
+       "full_title": "Misty by\u00a0Etta\u00a0James",
+       "header_image_thumbnail_url": "https://images.genius.com/68a11778e4264ec4a4094597523489bb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/68a11778e4264ec4a4094597523489bb.400x400x1.jpg",
+       "id": 1937536,
+       "language": "en",
+       "lyrics_owner_id": 1512657,
+       "lyrics_state": "complete",
+       "path": "/Etta-james-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Etta-james-misty-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/68a11778e4264ec4a4094597523489bb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/68a11778e4264ec4a4094597523489bb.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Etta-james-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/5093",
+        "header_image_url": "https://images.genius.com/03afa043e147f000e5cc335ba0dce9e3.1000x563x1.jpg",
+        "id": 5093,
+        "image_url": "https://images.genius.com/3cf3df713ed485989a3940262f156135.1000x666x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Etta James",
+        "url": "https://genius.com/artists/Etta-james"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/829102",
+       "artist_names": "Andy Williams",
+       "full_title": "Misty by\u00a0Andy\u00a0Williams",
+       "header_image_thumbnail_url": "https://images.genius.com/06539850573863b536e9eb8c70f0c0fb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/06539850573863b536e9eb8c70f0c0fb.1000x1000x1.jpg",
+       "id": 829102,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Andy-williams-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Andy-williams-misty-sample",
+       "release_date_components": {
+        "year": 1962,
+        "month": 1,
+        "day": null
+       },
+       "release_date_for_display": "January 1962",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1962",
+       "song_art_image_thumbnail_url": "https://images.genius.com/06539850573863b536e9eb8c70f0c0fb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/06539850573863b536e9eb8c70f0c0fb.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Andy-williams-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/526003",
+        "header_image_url": "https://images.genius.com/fb0104d19f52a9bd0c477a307616c5e8.1000x600x1.jpg",
+        "id": 526003,
+        "image_url": "https://images.genius.com/ffea53a774874fd997fc4a52f3e0712c.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Andy Williams",
+        "url": "https://genius.com/artists/Andy-williams"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/930273",
+       "artist_names": "Billy Eckstine",
+       "full_title": "Misty by\u00a0Billy\u00a0Eckstine",
+       "header_image_thumbnail_url": "https://images.genius.com/e478d7823a59d63b2421743e1a742e02.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e478d7823a59d63b2421743e1a742e02.439x439x1.jpg",
+       "id": 930273,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Billy-eckstine-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Billy-eckstine-misty-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/e478d7823a59d63b2421743e1a742e02.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e478d7823a59d63b2421743e1a742e02.439x439x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Billy-eckstine-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/354324",
+        "header_image_url": "https://images.genius.com/8db0c9b722c8a807acfa1c13a9c92d9a.439x543x1.jpg",
+        "id": 354324,
+        "image_url": "https://images.genius.com/e478d7823a59d63b2421743e1a742e02.439x439x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Billy Eckstine",
+        "url": "https://genius.com/artists/Billy-eckstine"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1405696",
+       "artist_names": "Sarah Vaughan",
+       "full_title": "Misty by\u00a0Sarah\u00a0Vaughan",
+       "header_image_thumbnail_url": "https://images.genius.com/edfda2694533970e9e58f490c257fe3c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/edfda2694533970e9e58f490c257fe3c.1000x1000x1.jpg",
+       "id": 1405696,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Sarah-vaughan-misty-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Sarah-vaughan-misty-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/edfda2694533970e9e58f490c257fe3c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/edfda2694533970e9e58f490c257fe3c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 8172
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Sarah-vaughan-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/90980",
+        "header_image_url": "https://images.genius.com/93d1478e0b95b40a6cf3da57e8a5055c.767x900x1.jpg",
+        "id": 90980,
+        "image_url": "https://images.genius.com/93d1478e0b95b40a6cf3da57e8a5055c.767x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sarah Vaughan",
+        "url": "https://genius.com/artists/Sarah-vaughan"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1013614",
+       "artist_names": "Ella Fitzgerald",
+       "full_title": "Misty by\u00a0Ella\u00a0Fitzgerald",
+       "header_image_thumbnail_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+       "id": 1013614,
+       "language": "en",
+       "lyrics_owner_id": 5656907,
+       "lyrics_state": "complete",
+       "path": "/Ella-fitzgerald-misty-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Ella-fitzgerald-misty-sample",
+       "release_date_components": {
+        "year": 1960,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1960",
+       "release_date_with_abbreviated_month_for_display": "1960",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 61740
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Ella-fitzgerald-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32784",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+        "id": 32784,
+        "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ella Fitzgerald",
+        "url": "https://genius.com/artists/Ella-fitzgerald"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1450425",
+       "artist_names": "Frank Sinatra",
+       "full_title": "Misty by\u00a0Frank\u00a0Sinatra",
+       "header_image_thumbnail_url": "https://images.genius.com/addfb1fc7f63809dd71aa49f77ce265a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/addfb1fc7f63809dd71aa49f77ce265a.1000x1000x1.jpg",
+       "id": 1450425,
+       "language": "en",
+       "lyrics_owner_id": 9162253,
+       "lyrics_state": "complete",
+       "path": "/Frank-sinatra-misty-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Frank-sinatra-misty-sample",
+       "release_date_components": {
+        "year": 1962,
+        "month": 1,
+        "day": null
+       },
+       "release_date_for_display": "January 1962",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1962",
+       "song_art_image_thumbnail_url": "https://images.genius.com/addfb1fc7f63809dd71aa49f77ce265a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/addfb1fc7f63809dd71aa49f77ce265a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Frank-sinatra-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/824",
+        "header_image_url": "https://images.genius.com/10ddb50540e37c16b9f320ca4991a1fb.369x136x1.jpg",
+        "id": 824,
+        "image_url": "https://images.genius.com/5f746dbf6c41747811e11452bfabb552.490x490x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Frank Sinatra",
+        "url": "https://genius.com/artists/Frank-sinatra"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/372965",
+     "header_image_url": "https://images.genius.com/3232794a09a1c59d2f16e1617ac92fc7.1000x700x1.jpg",
+     "id": 372965,
+     "image_url": "https://images.genius.com/f69ac5ccf511f2fc3f7967b6f169fc81.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erroll Garner",
+     "url": "https://genius.com/artists/Erroll-garner"
+    },
+    {
+     "api_path": "/artists/401524",
+     "header_image_url": "https://images.genius.com/9415750d06523097caa19ce4c00dedbf.198x254x1.jpg",
+     "id": 401524,
+     "image_url": "https://images.genius.com/9415750d06523097caa19ce4c00dedbf.198x254x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Burke",
+     "url": "https://genius.com/artists/Johnny-burke"
+    }
+   ],
+   "artist": "Johnny Mathis",
+   "lyrics": "11 ContributorsMisty Lyrics[Verse 1]\nLook at me\nI'm as helpless as a kitten up a tree\nAnd I feel like I'm clinging to a cloud\nI can't understand\nI get misty just holding your hand\n\n[Verse 2]\nWalk my way\nAnd a thousand violins begin to play\nOr it might be the sound of your hello\nThat music I hear\nI get misty the moment you're near\n[Verse 3]\nYou can say that you're leading me on\nBut it's just what I want you to do\nDon't you notice how hopelessly I'm lost?\nThat's why I'm following you\n\n[Verse 4]\nOn my own\nWould I wander through this wonderland alone\nNever knowing my right foot from my left\nMy hat from my glove\nI'm too misty and too much in love\nI'm too misty and too much in love\n\n[Outro]\nLook at meYou might also like2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/673210",
+   "artist_names": "Johnny Mathis",
+   "full_title": "Chances Are by\u00a0Johnny\u00a0Mathis",
+   "header_image_thumbnail_url": "https://images.genius.com/41c4b06b9d1f69f863c15c144ea3f52e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/41c4b06b9d1f69f863c15c144ea3f52e.1000x1000x1.jpg",
+   "id": 673210,
+   "language": "en",
+   "lyrics_owner_id": 1190011,
+   "lyrics_state": "complete",
+   "path": "/Johnny-mathis-chances-are-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Johnny-mathis-chances-are-sample",
+   "release_date_components": {
+    "year": 1957,
+    "month": 8,
+    "day": 12
+   },
+   "release_date_for_display": "August 12, 1957",
+   "release_date_with_abbreviated_month_for_display": "Aug. 12, 1957",
+   "song_art_image_thumbnail_url": "https://images.genius.com/41c4b06b9d1f69f863c15c144ea3f52e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/41c4b06b9d1f69f863c15c144ea3f52e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14725
+   },
+   "title": "Chances Are",
+   "title_with_featured": "Chances Are",
+   "url": "https://genius.com/Johnny-mathis-chances-are-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/309211",
+    "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "id": 309211,
+    "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Johnny Mathis",
+    "url": "https://genius.com/artists/Johnny-mathis"
+   },
+   "apple_music_id": "181452551",
+   "apple_music_player_url": "https://genius.com/songs/673210/apple_music_player",
+   "description": {
+    "plain": "\u201cChances Are\u201d became Johnny Mathis' first number-one hit in 1957. The song also peaked at #12 on Billboard\u2019s R&B chart.\n\nThe song was even inducted into the Grammy Hall of Fame in 1998."
+   },
+   "embed_content": "<div id='rg_embed_link_673210' class='rg_embed_link' data-song-id='673210'>Read <a href='https://genius.com/Johnny-mathis-chances-are-lyrics'>\u201cChances Are\u201d by Johnny\u00a0Mathis</a> on Genius</div> <script crossorigin src='//genius.com/songs/673210/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1957-08-12",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/971275",
+    "cover_art_url": "https://images.genius.com/82532005d184875bb5a569c8e1958cf2.1000x1000x1.jpg",
+    "full_title": "Johnny\u2019s Greatest Hits by Johnny Mathis",
+    "id": 971275,
+    "name": "Johnny\u2019s Greatest Hits",
+    "release_date_for_display": "March 17, 1958",
+    "url": "https://genius.com/albums/Johnny-mathis/Johnnys-greatest-hits",
+    "artist": {
+     "api_path": "/artists/309211",
+     "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "id": 309211,
+     "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Mathis",
+     "url": "https://genius.com/artists/Johnny-mathis"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1106295,
+    "annotator_login": "LuckyBluJay",
+    "api_path": "/referents/4717553",
+    "classification": "accepted",
+    "fragment": "Chances Are",
+    "id": 4717553,
+    "is_description": true,
+    "path": "/4717553/Johnny-mathis-chances-are/Chances-are",
+    "range": {
+     "content": "Chances Are"
+    },
+    "song_id": 673210,
+    "url": "https://genius.com/4717553/Johnny-mathis-chances-are/Chances-are",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/673210",
+     "client_timestamps": {
+      "updated_by_human_at": 1668655120,
+      "lyrics_updated_at": 1497489860
+     },
+     "context": "Johnny Mathis",
+     "id": 673210,
+     "image_url": "https://images.genius.com/41c4b06b9d1f69f863c15c144ea3f52e.1000x1000x1.jpg",
+     "link_title": "Chances Are by\u00a0Johnny\u00a0Mathis",
+     "title": "Chances Are",
+     "type": "Song",
+     "url": "https://genius.com/Johnny-mathis-chances-are-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4717553",
+      "body": {
+       "plain": "\u201cChances Are\u201d became Johnny Mathis' first number-one hit in 1957. The song also peaked at #12 on Billboard\u2019s R&B chart.\n\nThe song was even inducted into the Grammy Hall of Fame in 1998."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4717553,
+      "pinned": false,
+      "share_url": "https://genius.com/4717553",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4717553/Johnny-mathis-chances-are/Chances-are",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1106295",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/3ffda5f3e59da6dae8b02a783b2c3962",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/3ffda5f3e59da6dae8b02a783b2c3962",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/3ffda5f3e59da6dae8b02a783b2c3962",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/3ffda5f3e59da6dae8b02a783b2c3962",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/3ffda5f3e59da6dae8b02a783b2c3962",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1106295,
+         "iq": 408041,
+         "login": "LuckyBluJay",
+         "name": "LuckyBluJay",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/LuckyBluJay",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1CieoQeLqcU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/473434",
+     "header_image_url": "https://images.genius.com/ca27b52019ffd4ae1670d5cf92856c03.1000x1000x1.jpg",
+     "id": 473434,
+     "image_url": "https://images.genius.com/ca27b52019ffd4ae1670d5cf92856c03.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robert Allen",
+     "url": "https://genius.com/artists/Robert-allen"
+    },
+    {
+     "api_path": "/artists/1002975",
+     "header_image_url": "https://images.genius.com/6e06ace44e7fae29c6d259ed794443fe.168x168x1.jpg",
+     "id": 1002975,
+     "image_url": "https://images.genius.com/6e06ace44e7fae29c6d259ed794443fe.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Al Stillman",
+     "url": "https://genius.com/artists/Al-stillman"
+    }
+   ],
+   "artist": "Johnny Mathis",
+   "lyrics": "6 ContributorsChances Are LyricsChances are, 'cause I wear a silly grin\nThe moment you come into view\nChances are you think that I'm in love with you\n\nJust because my composure sort of slips\nThe moment that your lips meet mine\nChances are you think my heart's your valentine\n\nIn the magic of moonlight\nWhen I sigh, \"Hold me close, dear\"\nChances are you'll believe the stars\nThat fill the skies are in my eyes\nGuess you feel you'll always be\nThe one and only one for me\nAnd if you think you could\nWell, chances are your chances are awfully good\n\nChances are you'll believe the stars\nThat fill the skies are in my eyes\n\nGuess you feel you'll always be\nThe one and only one for me\nAnd if you think you could\nWell, chances are your chances are awfully good\n\nThe chances are your chances are awfully goodYou might also like1Embed"
+  }
+ ]
+}

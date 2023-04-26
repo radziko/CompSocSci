@@ -1,0 +1,2753 @@
+{
+ "alternate_names": [
+  "Jaymes McFarland"
+ ],
+ "api_path": "/artists/67182",
+ "description": {
+  "plain": "Jaymes Mcfarland, better known by his stage name Jaymes Young, (born September 1, 1991) is an American singer-songwriter. He lived in Seattle, Washington as a child with his 3 siblings. He says his musical muses consisted of Amy Winehouse, Maroon 5, Death Cab for Cutie, and several others.\n\nIn 2013, Young released his debut EP Dark Star and the following year he released his second EP Habits of My Heart.\n\nJaymes' debut full-length album Feel Something was released on June 23, 2017."
+ },
+ "facebook_name": "JaymesYoungMusic",
+ "followers_count": 115,
+ "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+ "id": 67182,
+ "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+ "instagram_name": "Jaymesyng",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jaymes Young",
+ "translation_artist": false,
+ "twitter_name": "Jaymesyng",
+ "url": "https://genius.com/artists/Jaymes-young",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1736640,
+  "annotator_login": "FlaviliciousUnicorn",
+  "api_path": "/referents/6983039",
+  "classification": "accepted",
+  "fragment": "Jaymes Young",
+  "id": 6983039,
+  "is_description": true,
+  "path": "/6983039/Jaymes-young/Jaymes-young",
+  "range": {
+   "content": "Jaymes Young"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6983039/Jaymes-young/Jaymes-young",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/67182",
+   "context": null,
+   "id": 67182,
+   "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+   "link_title": "Jaymes Young",
+   "title": "Jaymes Young",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jaymes-young"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6983039",
+    "body": {
+     "plain": "Jaymes Mcfarland, better known by his stage name Jaymes Young, (born September 1, 1991) is an American singer-songwriter. He lived in Seattle, Washington as a child with his 3 siblings. He says his musical muses consisted of Amy Winehouse, Maroon 5, Death Cab for Cutie, and several others.\n\nIn 2013, Young released his debut EP Dark Star and the following year he released his second EP Habits of My Heart.\n\nJaymes' debut full-length album Feel Something was released on June 23, 2017."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6983039,
+    "pinned": false,
+    "share_url": "https://genius.com/6983039",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6983039/Jaymes-young/Jaymes-young",
+    "verified": false,
+    "votes_total": 27,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.524390243902439,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1736640",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/a022fb7853b4190c38d8c42e8584e6aa",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/a022fb7853b4190c38d8c42e8584e6aa",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/a022fb7853b4190c38d8c42e8584e6aa",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/a022fb7853b4190c38d8c42e8584e6aa",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/a022fb7853b4190c38d8c42e8584e6aa",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1736640,
+       "iq": 757,
+       "login": "FlaviliciousUnicorn",
+       "name": "FlaviliciousUnicorn",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/FlaviliciousUnicorn",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.4634146341463415,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3944448",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/764rrrea5hx",
+       "human_readable_role_for_display": "Editor",
+       "id": 3944448,
+       "iq": 99623,
+       "login": "aaaaaick",
+       "name": "aaaaaick",
+       "role_for_display": "editor",
+       "url": "https://genius.com/aaaaaick",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.012195121951219513,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2034060",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2b74604953ff1ec9fbda385dc748e9c9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ouwLD8I2RAiEfkKCkH70_IMG_0001.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 2034060,
+       "iq": 351863,
+       "login": "nzboss99",
+       "name": "\u200bnzboss99",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/nzboss99",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/1856869",
+   "artist_names": "Jaymes Young",
+   "full_title": "Habits of My Heart by\u00a0Jaymes\u00a0Young",
+   "header_image_thumbnail_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.1000x1000x1.jpg",
+   "id": 1856869,
+   "language": "en",
+   "lyrics_owner_id": 5316266,
+   "lyrics_state": "complete",
+   "path": "/Jaymes-young-habits-of-my-heart-lyrics",
+   "pyongs_count": 9,
+   "relationships_index_url": "https://genius.com/Jaymes-young-habits-of-my-heart-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 9,
+    "day": 28
+   },
+   "release_date_for_display": "September 28, 2014",
+   "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 27,
+    "iq_earners": 26,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 224583
+   },
+   "title": "Habits of My Heart",
+   "title_with_featured": "Habits of My Heart",
+   "url": "https://genius.com/Jaymes-young-habits-of-my-heart-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/67182",
+    "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+    "id": 67182,
+    "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jaymes Young",
+    "url": "https://genius.com/artists/Jaymes-young"
+   },
+   "apple_music_id": "913785875",
+   "apple_music_player_url": "https://genius.com/songs/1856869/apple_music_player",
+   "description": {
+    "plain": "Habits of My Hearts was the debut track from the second EP, with the same title as the track, Habits of My Heart EP. The song was released on March 20, 2014 and was sampled from Sufjan Stevens' \u201cConcerning the UFO Sighting Near Highland, Illinois\u201d. In one of his interview, Young said that this song was the least planned of all five tracks on the EP.\n\nThis song is about an abusive relationship where his partner mistreats Jaymes. It is also about mixing up love and lust and how that can mess somebody up."
+   },
+   "embed_content": "<div id='rg_embed_link_1856869' class='rg_embed_link' data-song-id='1856869'>Read <a href='https://genius.com/Jaymes-young-habits-of-my-heart-lyrics'>\u201cHabits of My Heart\u201d by Jaymes\u00a0Young</a> on Genius</div> <script crossorigin src='//genius.com/songs/1856869/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-09-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/224572",
+    "cover_art_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.1000x1000x1.jpg",
+    "full_title": "Habits of My Heart by Jaymes Young",
+    "id": 224572,
+    "name": "Habits of My Heart",
+    "release_date_for_display": "September 28, 2014",
+    "url": "https://genius.com/albums/Jaymes-young/Habits-of-my-heart",
+    "artist": {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/198492",
+       "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+       "id": 198492,
+       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Gehringer",
+       "url": "https://genius.com/artists/Chris-gehringer"
+      }
+     ]
+    },
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+       "id": 68978,
+       "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3915719,
+    "annotator_login": "blxrry",
+    "api_path": "/referents/11421609",
+    "classification": "accepted",
+    "fragment": "Habits of My Heart",
+    "id": 11421609,
+    "is_description": true,
+    "path": "/11421609/Jaymes-young-habits-of-my-heart/Habits-of-my-heart",
+    "range": {
+     "content": "Habits of My Heart"
+    },
+    "song_id": 1856869,
+    "url": "https://genius.com/11421609/Jaymes-young-habits-of-my-heart/Habits-of-my-heart",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1856869",
+     "client_timestamps": {
+      "updated_by_human_at": 1652885401,
+      "lyrics_updated_at": 1652885401
+     },
+     "context": "Jaymes Young",
+     "id": 1856869,
+     "image_url": "https://images.genius.com/5691b42eca71d4c36c648da530525683.1000x1000x1.jpg",
+     "link_title": "Habits of My Heart by\u00a0Jaymes\u00a0Young",
+     "title": "Habits of My Heart",
+     "type": "Song",
+     "url": "https://genius.com/Jaymes-young-habits-of-my-heart-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11421609",
+      "body": {
+       "plain": "Habits of My Hearts was the debut track from the second EP, with the same title as the track, Habits of My Heart EP. The song was released on March 20, 2014 and was sampled from Sufjan Stevens' \u201cConcerning the UFO Sighting Near Highland, Illinois\u201d. In one of his interview, Young said that this song was the least planned of all five tracks on the EP.\n\nThis song is about an abusive relationship where his partner mistreats Jaymes. It is also about mixing up love and lust and how that can mess somebody up."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11421609,
+      "pinned": false,
+      "share_url": "https://genius.com/11421609",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11421609/Jaymes-young-habits-of-my-heart/Habits-of-my-heart",
+      "verified": false,
+      "votes_total": 13,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.7021276595744681,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3915719",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hj2o459j8mu",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hj2o459j8mu",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hj2o459j8mu",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hj2o459j8mu",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/v1kmbpmvqn",
+         "human_readable_role_for_display": "Editor",
+         "id": 3915719,
+         "iq": 8354,
+         "login": "blxrry",
+         "name": "blxrry",
+         "role_for_display": "editor",
+         "url": "https://genius.com/blxrry",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2978723404255319,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4744240",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4744240,
+         "iq": 1553,
+         "login": "gone_2toog_4e34",
+         "name": "gone_2toog_4e34",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/gone_2toog_4e34",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0elXIl26ZrovBULLTrEGK6",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0elXIl26ZrovBULLTrEGK6"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=CDJOP16yNdY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/99528",
+       "artist_names": "Sufjan Stevens",
+       "full_title": "Concerning the UFO Sighting Near Highland, Illinois by\u00a0Sufjan\u00a0Stevens",
+       "header_image_thumbnail_url": "https://images.genius.com/739ee009cef3cb6c419bbd04801f9847.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/739ee009cef3cb6c419bbd04801f9847.1000x1000x1.jpg",
+       "id": 99528,
+       "language": "en",
+       "lyrics_owner_id": 116340,
+       "lyrics_state": "complete",
+       "path": "/Sufjan-stevens-concerning-the-ufo-sighting-near-highland-illinois-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Sufjan-stevens-concerning-the-ufo-sighting-near-highland-illinois-sample",
+       "release_date_components": {
+        "year": 2005,
+        "month": 7,
+        "day": 4
+       },
+       "release_date_for_display": "July 4, 2005",
+       "release_date_with_abbreviated_month_for_display": "Jul. 4, 2005",
+       "song_art_image_thumbnail_url": "https://images.genius.com/739ee009cef3cb6c419bbd04801f9847.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/739ee009cef3cb6c419bbd04801f9847.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 61306
+       },
+       "title": "Concerning the UFO Sighting Near Highland, Illinois",
+       "title_with_featured": "Concerning the UFO Sighting Near Highland, Illinois",
+       "url": "https://genius.com/Sufjan-stevens-concerning-the-ufo-sighting-near-highland-illinois-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/958",
+        "header_image_url": "https://images.genius.com/0e814dfb3a569f7359ad39cf68595217.1000x166x1.jpg",
+        "id": 958,
+        "image_url": "https://images.genius.com/42c5e270ecdaabe60f38f09b7990dd3e.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sufjan Stevens",
+        "url": "https://genius.com/artists/Sufjan-stevens"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/639014",
+       "artist_names": "Jaymes Young",
+       "full_title": "Habits Of My Heart (Sufjan Stevens Remix) by\u00a0Jaymes\u00a0Young",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/4c76429e351937cbbcb5b9732e46b659.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/4c76429e351937cbbcb5b9732e46b659.500x500x1.jpg",
+       "id": 639014,
+       "language": "en",
+       "lyrics_owner_id": 1376886,
+       "lyrics_state": "complete",
+       "path": "/Jaymes-young-habits-of-my-heart-sufjan-stevens-remix-lyrics",
+       "pyongs_count": 17,
+       "relationships_index_url": "https://genius.com/Jaymes-young-habits-of-my-heart-sufjan-stevens-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2014",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/4c76429e351937cbbcb5b9732e46b659.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/4c76429e351937cbbcb5b9732e46b659.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 7469
+       },
+       "title": "Habits Of My Heart (Sufjan Stevens Remix)",
+       "title_with_featured": "Habits Of My Heart (Sufjan Stevens Remix)",
+       "url": "https://genius.com/Jaymes-young-habits-of-my-heart-sufjan-stevens-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/67182",
+        "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+        "id": 67182,
+        "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jaymes Young",
+        "url": "https://genius.com/artists/Jaymes-young"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    },
+    {
+     "api_path": "/artists/958",
+     "header_image_url": "https://images.genius.com/0e814dfb3a569f7359ad39cf68595217.1000x166x1.jpg",
+     "id": 958,
+     "image_url": "https://images.genius.com/42c5e270ecdaabe60f38f09b7990dd3e.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sufjan Stevens",
+     "url": "https://genius.com/artists/Sufjan-stevens"
+    }
+   ],
+   "artist": "Jaymes Young",
+   "lyrics": "27 ContributorsHabits of My Heart Lyrics[Intro]\nI can't, say no\nIt's ripping me apart\n\n[Verse 1]\nIn a dark room, in cold sheets\nI can't feel a damn thing\nI lost myself between your legs\nYour medicine is in my head\n\n[Pre-Chorus]\nYou know I'd rather be alone, yeah\nBut then you call me on the phone\n[Chorus]\nOh, the habits of my heart\nI can't say no\nIt's ripping me apart\nYou get too close\nYou make it hard to let you go\n\n[Verse 2]\nI tell myself \"I like that\"\nWhen you tie my hands behind my back\nYou're confident, I'll give you that\nBut if you love yourself, you can fuck yourself\n\n[Pre-Chorus]\n'Cause I'd rather be alone\nBut you fermented in my bones\n\n[Chorus]\nOh, the habits of my heart\nI can't say no\nIt's ripping me apart\nYou get too close\nYou make it hard to let you go\nOh, the habits of my heart\nI can't say no\nIt's ripping me apart\nYou get too close\nYou make it hard to let you go\nYou might also likeOh, the habits of my heart\nI can't say no\nIt's ripping me apart\nYou get too close...9Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/3060977",
+   "artist_names": "Jaymes Young",
+   "full_title": "Infinity by\u00a0Jaymes\u00a0Young",
+   "header_image_thumbnail_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.1000x1000x1.jpg",
+   "id": 3060977,
+   "language": "en",
+   "lyrics_owner_id": 2034060,
+   "lyrics_state": "complete",
+   "path": "/Jaymes-young-infinity-lyrics",
+   "pyongs_count": 15,
+   "relationships_index_url": "https://genius.com/Jaymes-young-infinity-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 23
+   },
+   "release_date_for_display": "June 23, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 21,
+    "iq_earners": 20,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 157411
+   },
+   "title": "Infinity",
+   "title_with_featured": "Infinity",
+   "url": "https://genius.com/Jaymes-young-infinity-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/67182",
+    "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+    "id": 67182,
+    "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jaymes Young",
+    "url": "https://genius.com/artists/Jaymes-young"
+   },
+   "apple_music_id": "1227451772",
+   "apple_music_player_url": "https://genius.com/songs/3060977/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3060977' class='rg_embed_link' data-song-id='3060977'>Read <a href='https://genius.com/Jaymes-young-infinity-lyrics'>\u201cInfinity\u201d by Jaymes\u00a0Young</a> on Genius</div> <script crossorigin src='//genius.com/songs/3060977/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/341014",
+    "cover_art_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.1000x1000x1.jpg",
+    "full_title": "Feel Something by Jaymes Young",
+    "id": 341014,
+    "name": "Feel Something",
+    "release_date_for_display": "June 23, 2017",
+    "url": "https://genius.com/albums/Jaymes-young/Feel-something",
+    "artist": {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1035436",
+       "header_image_url": "https://images.genius.com/f353c371eda1787f845f027b20f2017b.956x956x1.jpg",
+       "id": 1035436,
+       "image_url": "https://images.genius.com/f353c371eda1787f845f027b20f2017b.956x956x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Michelle Mancini",
+       "url": "https://genius.com/artists/Michelle-mancini"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6974707,
+    "annotator_login": "luciabgl",
+    "api_path": "/referents/17704318",
+    "classification": "needs_exegesis",
+    "fragment": "Infinity",
+    "id": 17704318,
+    "is_description": true,
+    "path": "/17704318/Jaymes-young-infinity/Infinity",
+    "range": {
+     "content": "Infinity"
+    },
+    "song_id": 3060977,
+    "url": "https://genius.com/17704318/Jaymes-young-infinity/Infinity",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3060977",
+     "client_timestamps": {
+      "updated_by_human_at": 1678671664,
+      "lyrics_updated_at": 1678671664
+     },
+     "context": "Jaymes Young",
+     "id": 3060977,
+     "image_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.1000x1000x1.jpg",
+     "link_title": "Infinity by\u00a0Jaymes\u00a0Young",
+     "title": "Infinity",
+     "type": "Song",
+     "url": "https://genius.com/Jaymes-young-infinity-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17704318",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17704318,
+      "pinned": false,
+      "share_url": "https://genius.com/17704318",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17704318/Jaymes-young-infinity/Infinity",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6974707",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0f84bf2a969731d1fd973010a0b2d2a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0f84bf2a969731d1fd973010a0b2d2a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0f84bf2a969731d1fd973010a0b2d2a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0f84bf2a969731d1fd973010a0b2d2a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/8f10664a44a4dc5cd164d631303b4c96.500x167x1.png",
+         "human_readable_role_for_display": "Editor",
+         "id": 6974707,
+         "iq": 318964,
+         "login": "luciabgl",
+         "name": "\u200bluciabgl",
+         "role_for_display": "editor",
+         "url": "https://genius.com/luciabgl",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "jaymes young",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/jaymes-young/infinity"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=RY607kB2QiU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/262052",
+     "header_image_url": "https://images.genius.com/9471d02e5c825049d2b287c96cb32b27.960x960x1.jpg",
+     "id": 262052,
+     "image_url": "https://images.genius.com/01983139d8f78bf8cb198adea3478bb9.958x958x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billboard (Producer)",
+     "url": "https://genius.com/artists/Billboard-producer"
+    },
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7745726",
+       "artist_names": "Lil Soda Boi",
+       "full_title": "Infiniti by\u00a0Lil\u00a0Soda Boi",
+       "header_image_thumbnail_url": "https://images.genius.com/6fc92858e3b7573c6cf5f49af0c9c48d.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6fc92858e3b7573c6cf5f49af0c9c48d.1000x1000x1.png",
+       "id": 7745726,
+       "language": "en",
+       "lyrics_owner_id": 3564670,
+       "lyrics_state": "complete",
+       "path": "/Lil-soda-boi-infiniti-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lil-soda-boi-infiniti-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 13
+       },
+       "release_date_for_display": "March 13, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 13, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6fc92858e3b7573c6cf5f49af0c9c48d.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6fc92858e3b7573c6cf5f49af0c9c48d.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Infiniti",
+       "title_with_featured": "Infiniti",
+       "url": "https://genius.com/Lil-soda-boi-infiniti-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/610210",
+        "header_image_url": "https://images.genius.com/e93e9c6b1f6fdede83d6f87c27f1bc31.1000x333x1.jpg",
+        "id": 610210,
+        "image_url": "https://images.genius.com/ffc738d7d577e476b76739ed53ad0976.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Soda Boi",
+        "url": "https://genius.com/artists/Lil-soda-boi",
+        "iq": 5878
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/9004637",
+       "artist_names": "Little V.",
+       "full_title": "Infinity (Metal Version) by\u00a0Little\u00a0V.",
+       "header_image_thumbnail_url": "https://images.genius.com/d3da1e95a16fbcc755e637ddf242f109.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/d3da1e95a16fbcc755e637ddf242f109.1000x563x1.jpg",
+       "id": 9004637,
+       "language": "en",
+       "lyrics_owner_id": 10743785,
+       "lyrics_state": "complete",
+       "path": "/Little-v-infinity-metal-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Little-v-infinity-metal-version-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 27
+       },
+       "release_date_for_display": "December 27, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 27, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/45fcb3748128b9d66521cdd8ac0cea45.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/45fcb3748128b9d66521cdd8ac0cea45.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Infinity (Metal Version)",
+       "title_with_featured": "Infinity (Metal Version)",
+       "url": "https://genius.com/Little-v-infinity-metal-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2138332",
+        "header_image_url": "https://images.genius.com/de7d05b21487410c9c6e2892d309dfae.1000x561x1.jpg",
+        "id": 2138332,
+        "image_url": "https://images.genius.com/37b721a653362dc59c25ed70f3123f23.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Little V.",
+        "url": "https://genius.com/artists/Little-v"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7909762",
+       "artist_names": "Veronica Bravo & Twin",
+       "full_title": "Infinity by\u00a0Veronica\u00a0Bravo & Twin",
+       "header_image_thumbnail_url": "https://images.genius.com/6b18585e455b69ec761036958ea2b2cc.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6b18585e455b69ec761036958ea2b2cc.1000x1000x1.png",
+       "id": 7909762,
+       "language": "en",
+       "lyrics_owner_id": 13565282,
+       "lyrics_state": "complete",
+       "path": "/Veronica-bravo-and-twin-infinity-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Veronica-bravo-and-twin-infinity-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 15
+       },
+       "release_date_for_display": "April 15, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 15, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6b18585e455b69ec761036958ea2b2cc.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6b18585e455b69ec761036958ea2b2cc.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Infinity",
+       "title_with_featured": "Infinity",
+       "url": "https://genius.com/Veronica-bravo-and-twin-infinity-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3132147",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3132147,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Veronica Bravo & Twin",
+        "url": "https://genius.com/artists/Veronica-bravo-and-twin"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7337495",
+       "artist_names": "Jaymes Young",
+       "full_title": "Infinity (Piano Version) by\u00a0Jaymes\u00a0Young",
+       "header_image_thumbnail_url": "https://images.genius.com/9e33df7cc464a317c210c90682f6d48f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9e33df7cc464a317c210c90682f6d48f.1000x1000x1.jpg",
+       "id": 7337495,
+       "language": "en",
+       "lyrics_owner_id": 3900235,
+       "lyrics_state": "complete",
+       "path": "/Jaymes-young-infinity-piano-version-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Jaymes-young-infinity-piano-version-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 29
+       },
+       "release_date_for_display": "October 29, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 29, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9e33df7cc464a317c210c90682f6d48f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9e33df7cc464a317c210c90682f6d48f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Infinity (Piano Version)",
+       "title_with_featured": "Infinity (Piano Version)",
+       "url": "https://genius.com/Jaymes-young-infinity-piano-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/67182",
+        "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+        "id": 67182,
+        "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jaymes Young",
+        "url": "https://genius.com/artists/Jaymes-young"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7685740",
+       "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+       "full_title": "Jaymes Young - Infinity (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviri",
+       "header_image_thumbnail_url": "https://images.genius.com/14d9d2e77582dafcb3edd799f3eab122.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/14d9d2e77582dafcb3edd799f3eab122.640x640x1.jpg",
+       "id": 7685740,
+       "language": "tr",
+       "lyrics_owner_id": 6988186,
+       "lyrics_state": "complete",
+       "path": "/Genius-turkce-ceviri-jaymes-young-infinity-turkce-ceviri-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-infinity-turkce-ceviri-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 6,
+        "day": 23
+       },
+       "release_date_for_display": "June 23, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/14d9d2e77582dafcb3edd799f3eab122.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/14d9d2e77582dafcb3edd799f3eab122.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5883
+       },
+       "title": "Jaymes Young - Infinity (T\u00fcrk\u00e7e \u00c7eviri)",
+       "title_with_featured": "Jaymes Young - Infinity (T\u00fcrk\u00e7e \u00c7eviri)",
+       "url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-infinity-turkce-ceviri-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/569121",
+        "header_image_url": "https://images.genius.com/8de14cbfa60a48d10ac52487723f658f.1000x300x1.png",
+        "id": 569121,
+        "image_url": "https://images.genius.com/49f4bc4332283d01689f8fb883ec88e9.302x302x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+        "url": "https://genius.com/artists/Genius-turkce-ceviri"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7685740",
+     "id": 7685740,
+     "language": "tr",
+     "lyrics_state": "complete",
+     "path": "/Genius-turkce-ceviri-jaymes-young-infinity-turkce-ceviri-lyrics",
+     "title": "Jaymes Young - Infinity (T\u00fcrk\u00e7e \u00c7eviri)",
+     "url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-infinity-turkce-ceviri-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/262052",
+     "header_image_url": "https://images.genius.com/9471d02e5c825049d2b287c96cb32b27.960x960x1.jpg",
+     "id": 262052,
+     "image_url": "https://images.genius.com/01983139d8f78bf8cb198adea3478bb9.958x958x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billboard (Producer)",
+     "url": "https://genius.com/artists/Billboard-producer"
+    },
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   ],
+   "artist": "Jaymes Young",
+   "lyrics": "21 ContributorsTranslationsT\u00fcrk\u00e7eInfinity Lyrics[Intro]\n(Oh-oh, oh-oh-oh)\n(Oh-oh, oh-oh-oh)\n\n[Verse 1]\nBaby, this love, I'll never let it die\nCan't be touched by no one\nI'd like to see them try (Oh-oh)\nI'm a mad man for your touch (Oh-oh)\nGirl, I've lost control (Oh-oh-oh)\nI'm gonna make this last forever (Oh-oh)\nDon't tell me it's impossible (Oh-oh-oh)\n[Chorus]\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n\n[Verse 2]\nOh, darling, my soul\nYou know it aches for yours\nAnd you've been filling this hole\nSince you were born, oh\n'Cause you're the reason I believe in fate (Oh-oh)\nYou're my paradise (Oh-oh-oh)\nAnd I'll do anything to be your love (Oh-oh)\nI'll be your sacrifice (Oh-oh-oh)\n\n[Chorus]\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n(Oh-oh)\n\n[Bridge]\nMeet me at the bottom of the ocean (Ocean)\nWhere the time is frozen (Frozen)\nWhere all the universes open (Open)\nLove isn't random, we are chosen (Oh-oh)\nAnd we could wear the same crown\nKeep slowing your heart down\nWe are the gods now\nYou might also like[Chorus]\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n'Cause I love you for infinity (Oh-oh-oh)\nI love you for infinity (Oh-oh-oh)\n\n[Outro]\n(Oh-oh, oh-oh-oh)\n(Oh-oh, oh-oh-oh)\n(Oh-oh, oh-oh)\n(Oh-oh, oh-oh)15Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/533062",
+   "artist_names": "Jaymes Young",
+   "full_title": "I'll Be Good by\u00a0Jaymes\u00a0Young",
+   "header_image_thumbnail_url": "https://images.genius.com/5245016d552b9b078364261cadaf3ace.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5245016d552b9b078364261cadaf3ace.1000x1000x1.jpg",
+   "id": 533062,
+   "language": "en",
+   "lyrics_owner_id": 1212048,
+   "lyrics_state": "complete",
+   "path": "/Jaymes-young-ill-be-good-lyrics",
+   "pyongs_count": 38,
+   "relationships_index_url": "https://genius.com/Jaymes-young-ill-be-good-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 9,
+    "day": 28
+   },
+   "release_date_for_display": "September 28, 2014",
+   "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0b59a0433b387f8524111c7f2b7319ff.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0b59a0433b387f8524111c7f2b7319ff.963x963x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 40,
+    "iq_earners": 40,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 131623
+   },
+   "title": "I\u2019ll Be Good",
+   "title_with_featured": "I'll Be Good",
+   "url": "https://genius.com/Jaymes-young-ill-be-good-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/67182",
+    "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+    "id": 67182,
+    "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jaymes Young",
+    "url": "https://genius.com/artists/Jaymes-young"
+   },
+   "apple_music_id": "1227451771",
+   "apple_music_player_url": "https://genius.com/songs/533062/apple_music_player",
+   "description": {
+    "plain": "\u201cI\u2019ll Be Good\u201d is the first single from Jaymes Young\u2019s second EP, Habits Of My Heart and it\u2019s the eleventh track on Young\u2019s debut full-length album Feel Something.\n\nAbout the music video for \u201cI\u2019ll Be Good,\u201d Jaymes said:\n\nThis video represents the harm we do. We harm ourselves when we harm others. It also reflects the re-birth of a forgiven conscience."
+   },
+   "embed_content": "<div id='rg_embed_link_533062' class='rg_embed_link' data-song-id='533062'>Read <a href='https://genius.com/Jaymes-young-ill-be-good-lyrics'>\u201cI'll Be Good\u201d by Jaymes\u00a0Young</a> on Genius</div> <script crossorigin src='//genius.com/songs/533062/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-09-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/341014",
+    "cover_art_url": "https://images.genius.com/c2665c72238ddcf8e49faae03f3d49cf.1000x1000x1.jpg",
+    "full_title": "Feel Something by Jaymes Young",
+    "id": 341014,
+    "name": "Feel Something",
+    "release_date_for_display": "June 23, 2017",
+    "url": "https://genius.com/albums/Jaymes-young/Feel-something",
+    "artist": {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/67182",
+       "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+       "id": 67182,
+       "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaymes Young",
+       "url": "https://genius.com/artists/Jaymes-young"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/198492",
+       "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+       "id": 198492,
+       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Gehringer",
+       "url": "https://genius.com/artists/Chris-gehringer"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2525831,
+    "annotator_login": "KatrinIvanova",
+    "api_path": "/referents/4148305",
+    "classification": "accepted",
+    "fragment": "I\u2019ll Be Good",
+    "id": 4148305,
+    "is_description": true,
+    "path": "/4148305/Jaymes-young-ill-be-good/Ill-be-good",
+    "range": {
+     "content": "I'll Be Good"
+    },
+    "song_id": 533062,
+    "url": "https://genius.com/4148305/Jaymes-young-ill-be-good/Ill-be-good",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/533062",
+     "client_timestamps": {
+      "updated_by_human_at": 1658851708,
+      "lyrics_updated_at": 1639743930
+     },
+     "context": "Jaymes Young",
+     "id": 533062,
+     "image_url": "https://images.genius.com/0b59a0433b387f8524111c7f2b7319ff.963x963x1.jpg",
+     "link_title": "I\u2019ll Be Good by\u00a0Jaymes\u00a0Young",
+     "title": "I'll Be Good",
+     "type": "Song",
+     "url": "https://genius.com/Jaymes-young-ill-be-good-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4148305",
+      "body": {
+       "plain": "\u201cI\u2019ll Be Good\u201d is the first single from Jaymes Young\u2019s second EP, Habits Of My Heart and it\u2019s the eleventh track on Young\u2019s debut full-length album Feel Something.\n\nAbout the music video for \u201cI\u2019ll Be Good,\u201d Jaymes said:\n\nThis video represents the harm we do. We harm ourselves when we harm others. It also reflects the re-birth of a forgiven conscience."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4148305,
+      "pinned": false,
+      "share_url": "https://genius.com/4148305",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4148305/Jaymes-young-ill-be-good/Ill-be-good",
+      "verified": false,
+      "votes_total": 56,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6721311475409836,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2525831",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/404da972e31b2bda8dc6a667a4a2474f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/404da972e31b2bda8dc6a667a4a2474f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/404da972e31b2bda8dc6a667a4a2474f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/404da972e31b2bda8dc6a667a4a2474f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/404da972e31b2bda8dc6a667a4a2474f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2525831,
+         "iq": 744,
+         "login": "KatrinIvanova",
+         "name": "KatrinIvanova",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/KatrinIvanova",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.32786885245901637,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3944448",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/757493b2f17df57a325d3dbc622c717c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/757493b2f17df57a325d3dbc622c717c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/757493b2f17df57a325d3dbc622c717c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/757493b2f17df57a325d3dbc622c717c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/764rrrea5hx",
+         "human_readable_role_for_display": "Editor",
+         "id": 3944448,
+         "iq": 99623,
+         "login": "aaaaaick",
+         "name": "aaaaaick",
+         "role_for_display": "editor",
+         "url": "https://genius.com/aaaaaick",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5WLSak7DN3LY1K71oWYuoN",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=scd-uNNxgrU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Jaymes-young-ill-be-good-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3792044",
+       "artist_names": "\u200bshattered",
+       "full_title": "Take away the pain by\u00a0\u200bshattered",
+       "header_image_thumbnail_url": "https://images.genius.com/d0262dd5b31e12c6758f1b4d9b2089ce.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d0262dd5b31e12c6758f1b4d9b2089ce.500x500x1.jpg",
+       "id": 3792044,
+       "language": "en",
+       "lyrics_owner_id": 5846816,
+       "lyrics_state": "complete",
+       "path": "/Shattered-take-away-the-pain-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Shattered-take-away-the-pain-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 5,
+        "day": 11
+       },
+       "release_date_for_display": "May 11, 2018",
+       "release_date_with_abbreviated_month_for_display": "May. 11, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d0262dd5b31e12c6758f1b4d9b2089ce.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d0262dd5b31e12c6758f1b4d9b2089ce.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Take away the pain",
+       "title_with_featured": "Take away the pain",
+       "url": "https://genius.com/Shattered-take-away-the-pain-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/38030",
+        "header_image_url": "https://images.genius.com/c0aef52a9984a56028548df7e911270a.1000x210x1.jpg",
+        "id": 38030,
+        "image_url": "https://images.genius.com/50fcd4ab2ca49b3e518a4032d6cfdf59.499x499x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bshattered",
+        "url": "https://genius.com/artists/Shattered"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2896391",
+       "artist_names": "\u2112und",
+       "full_title": "Mirror by\u00a0\u2112und",
+       "header_image_thumbnail_url": "https://images.genius.com/a7c418dc05c6281da116528fd3f35095.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a7c418dc05c6281da116528fd3f35095.500x500x1.jpg",
+       "id": 2896391,
+       "language": "en",
+       "lyrics_owner_id": 2917479,
+       "lyrics_state": "complete",
+       "path": "/Lund-mirror-annotated",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Lund-mirror-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 12,
+        "day": 28
+       },
+       "release_date_for_display": "December 28, 2014",
+       "release_date_with_abbreviated_month_for_display": "Dec. 28, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a7c418dc05c6281da116528fd3f35095.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a7c418dc05c6281da116528fd3f35095.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mirror",
+       "title_with_featured": "Mirror",
+       "url": "https://genius.com/Lund-mirror-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/650935",
+        "header_image_url": "https://images.genius.com/77b9b6adb0b03c583756efcfb815d763.1000x210x1.jpg",
+        "id": 650935,
+        "image_url": "https://images.genius.com/f23da1e6160cb79bb7e8374383cdf47b.499x499x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u2112und",
+        "url": "https://genius.com/artists/Lund"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6921187",
+       "artist_names": "Ace Martyr",
+       "full_title": "I'll Be Good (Remix) by\u00a0Ace\u00a0Martyr",
+       "header_image_thumbnail_url": "https://images.genius.com/d5ce6f407a92e83b6c6788dd4635434e.225x225x1.jpg",
+       "header_image_url": "https://images.genius.com/d5ce6f407a92e83b6c6788dd4635434e.225x225x1.jpg",
+       "id": 6921187,
+       "language": null,
+       "lyrics_owner_id": 12791680,
+       "lyrics_state": "unreleased",
+       "path": "/Ace-martyr-ill-be-good-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ace-martyr-ill-be-good-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 22
+       },
+       "release_date_for_display": "October 22, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 22, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d5ce6f407a92e83b6c6788dd4635434e.225x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d5ce6f407a92e83b6c6788dd4635434e.225x225x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019ll Be Good (Remix)",
+       "title_with_featured": "I'll Be Good (Remix)",
+       "url": "https://genius.com/Ace-martyr-ill-be-good-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1494592",
+        "header_image_url": "https://images.genius.com/98e0c8f19194b291dcdd1021e995f8ef.528x528x1.jpg",
+        "id": 1494592,
+        "image_url": "https://images.genius.com/a0cd73ffe2a9349d0ec34b7c3fde88a3.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ace Martyr",
+        "url": "https://genius.com/artists/Ace-martyr"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6921105",
+       "artist_names": "J-Rhymer",
+       "full_title": "Better 2Day by\u00a0J-Rhymer",
+       "header_image_thumbnail_url": "https://images.genius.com/e745e051538fb228f4f0dfbc22ef6a58.225x225x1.jpg",
+       "header_image_url": "https://images.genius.com/e745e051538fb228f4f0dfbc22ef6a58.225x225x1.jpg",
+       "id": 6921105,
+       "language": null,
+       "lyrics_owner_id": 12791680,
+       "lyrics_state": "unreleased",
+       "path": "/J-rhymer-better-2day-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/J-rhymer-better-2day-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 6
+       },
+       "release_date_for_display": "October 6, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 6, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e745e051538fb228f4f0dfbc22ef6a58.225x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e745e051538fb228f4f0dfbc22ef6a58.225x225x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Better 2Day",
+       "title_with_featured": "Better 2Day",
+       "url": "https://genius.com/J-rhymer-better-2day-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1691406",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 1691406,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "J-Rhymer",
+        "url": "https://genius.com/artists/J-rhymer"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6921075",
+       "artist_names": "KeshawnCage",
+       "full_title": "I'll be good by\u00a0KeshawnCage",
+       "header_image_thumbnail_url": "https://i.genius.com/cd33cd23081df19f86788b2ee82e625ed4b8a346?url=https%3A%2F%2Fyoutu.be%2FaCv8ZnUHSvU",
+       "header_image_url": "https://i.genius.com/cd33cd23081df19f86788b2ee82e625ed4b8a346?url=https%3A%2F%2Fyoutu.be%2FaCv8ZnUHSvU",
+       "id": 6921075,
+       "language": null,
+       "lyrics_owner_id": 12791680,
+       "lyrics_state": "unreleased",
+       "path": "/Keshawncage-ill-be-good-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Keshawncage-ill-be-good-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 11,
+        "day": 1
+       },
+       "release_date_for_display": "November 1, 2020",
+       "release_date_with_abbreviated_month_for_display": "Nov. 1, 2020",
+       "song_art_image_thumbnail_url": "https://i.genius.com/cd33cd23081df19f86788b2ee82e625ed4b8a346?url=https%3A%2F%2Fyoutu.be%2FaCv8ZnUHSvU",
+       "song_art_image_url": "https://i.genius.com/cd33cd23081df19f86788b2ee82e625ed4b8a346?url=https%3A%2F%2Fyoutu.be%2FaCv8ZnUHSvU",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019ll be good",
+       "title_with_featured": "I'll be good",
+       "url": "https://genius.com/Keshawncage-ill-be-good-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2652862",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2652862,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KeshawnCage",
+        "url": "https://genius.com/artists/Keshawncage"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2389672",
+       "artist_names": "Justin Stone",
+       "full_title": "I'll Be Good by\u00a0Justin\u00a0Stone",
+       "header_image_thumbnail_url": "https://images.genius.com/3dbf3e6249264176bab54c8c19b5248e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3dbf3e6249264176bab54c8c19b5248e.1000x1000x1.jpg",
+       "id": 2389672,
+       "language": "en",
+       "lyrics_owner_id": 2442092,
+       "lyrics_state": "complete",
+       "path": "/Justin-stone-ill-be-good-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Justin-stone-ill-be-good-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 5
+       },
+       "release_date_for_display": "April 5, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 5, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3dbf3e6249264176bab54c8c19b5248e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3dbf3e6249264176bab54c8c19b5248e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7656
+       },
+       "title": "I\u2019ll Be Good",
+       "title_with_featured": "I'll Be Good",
+       "url": "https://genius.com/Justin-stone-ill-be-good-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/619912",
+        "header_image_url": "https://images.genius.com/363ab2c9707212f31f69b2ddf222ce54.1000x478x1.jpg",
+        "id": 619912,
+        "image_url": "https://images.genius.com/806908a02fa0658c3bc7cf0a409752ed.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Justin Stone",
+        "url": "https://genius.com/artists/Justin-stone",
+        "iq": 411
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3433098",
+       "artist_names": "9TAILS",
+       "full_title": "1am by\u00a09TAILS",
+       "header_image_thumbnail_url": "https://images.genius.com/52f5808596d8ad1e9fa1ab2689f44119.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/52f5808596d8ad1e9fa1ab2689f44119.535x535x1.jpg",
+       "id": 3433098,
+       "language": "en",
+       "lyrics_owner_id": 4799549,
+       "lyrics_state": "complete",
+       "path": "/9tails-1am-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/9tails-1am-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 1,
+        "day": 12
+       },
+       "release_date_for_display": "January 12, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jan. 12, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/52f5808596d8ad1e9fa1ab2689f44119.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/52f5808596d8ad1e9fa1ab2689f44119.535x535x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "1am",
+       "title_with_featured": "1am",
+       "url": "https://genius.com/9tails-1am-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1144902",
+        "header_image_url": "https://images.genius.com/4d01c4961ff09af38b6e53407a5bcae0.1000x210x1.jpg",
+        "id": 1144902,
+        "image_url": "https://images.genius.com/a48d8bdc7f8b12b0f752551cc8eb73ab.640x640x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "9TAILS",
+        "url": "https://genius.com/artists/9tails"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3121367",
+       "artist_names": "Lighteye Beatz",
+       "full_title": "Vergeben & Vergessen by\u00a0Lighteye\u00a0Beatz",
+       "header_image_thumbnail_url": "https://images.genius.com/c1cd70cfc83e81feee469da4bade6cf4.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/c1cd70cfc83e81feee469da4bade6cf4.1000x563x1.jpg",
+       "id": 3121367,
+       "language": "de",
+       "lyrics_owner_id": 3066244,
+       "lyrics_state": "complete",
+       "path": "/Lighteye-beatz-vergeben-and-vergessen-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lighteye-beatz-vergeben-and-vergessen-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 12,
+        "day": 15
+       },
+       "release_date_for_display": "December 15, 2016",
+       "release_date_with_abbreviated_month_for_display": "Dec. 15, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c1cd70cfc83e81feee469da4bade6cf4.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c1cd70cfc83e81feee469da4bade6cf4.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Vergeben & Vergessen",
+       "title_with_featured": "Vergeben & Vergessen",
+       "url": "https://genius.com/Lighteye-beatz-vergeben-and-vergessen-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1129725",
+        "header_image_url": "https://images.genius.com/85641deb056c54f3a2f683bd7463f3a9.1000x166x1.jpg",
+        "id": 1129725,
+        "image_url": "https://images.genius.com/2d5625b57b6aad127accaf0b4d6f1ead.176x176x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lighteye Beatz",
+        "url": "https://genius.com/artists/Lighteye-beatz",
+        "iq": 186
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5783834",
+       "artist_names": "Chilli Vanilli",
+       "full_title": "ICH LIEBE 187 by\u00a0Chilli\u00a0Vanilli",
+       "header_image_thumbnail_url": "https://images.genius.com/f1c68b77a89d702e4b748833823e1e8b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f1c68b77a89d702e4b748833823e1e8b.500x500x1.jpg",
+       "id": 5783834,
+       "language": "en",
+       "lyrics_owner_id": 10917509,
+       "lyrics_state": "complete",
+       "path": "/Chilli-vanilli-ich-liebe-187-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Chilli-vanilli-ich-liebe-187-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 5,
+        "day": 16
+       },
+       "release_date_for_display": "May 16, 2019",
+       "release_date_with_abbreviated_month_for_display": "May. 16, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f1c68b77a89d702e4b748833823e1e8b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f1c68b77a89d702e4b748833823e1e8b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "ICH LIEBE 187",
+       "title_with_featured": "ICH LIEBE 187",
+       "url": "https://genius.com/Chilli-vanilli-ich-liebe-187-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2692241",
+        "header_image_url": "https://images.genius.com/56f1ae94037e0defd41cf96cb3db3888.1000x416x1.jpg",
+        "id": 2692241,
+        "image_url": "https://images.genius.com/864355051744962526ec1863f0d7e375.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chilli Vanilli",
+        "url": "https://genius.com/artists/Chilli-vanilli"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7380200",
+       "artist_names": "Polskie t\u0142umaczenia Genius",
+       "full_title": "Jaymes Young - I'll Be Good (Polskie T\u0142umaczenie) by\u00a0Polskie\u00a0t\u0142umaczenia Genius",
+       "header_image_thumbnail_url": "https://images.genius.com/f306d093ae65ddb86333122854829c8f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f306d093ae65ddb86333122854829c8f.440x440x1.jpg",
+       "id": 7380200,
+       "language": "pl",
+       "lyrics_owner_id": 14947802,
+       "lyrics_state": "complete",
+       "path": "/Polskie-tumaczenia-genius-jaymes-young-ill-be-good-polskie-tumaczenie-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Polskie-tumaczenia-genius-jaymes-young-ill-be-good-polskie-tumaczenie-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2014",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f306d093ae65ddb86333122854829c8f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f306d093ae65ddb86333122854829c8f.440x440x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Jaymes Young - I\u2019ll Be Good (Polskie T\u0142umaczenie)",
+       "title_with_featured": "Jaymes Young - I'll Be Good (Polskie T\u0142umaczenie)",
+       "url": "https://genius.com/Polskie-tumaczenia-genius-jaymes-young-ill-be-good-polskie-tumaczenie-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/161407",
+        "header_image_url": "https://images.genius.com/d5556d9bbcf2acf5746255ac70326318.1000x300x1.png",
+        "id": 161407,
+        "image_url": "https://images.genius.com/0e56374611b2fa9e5647bce7b5ef7544.613x613x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Polskie t\u0142umaczenia Genius",
+        "url": "https://genius.com/artists/Polskie-tumaczenia-genius"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5718738",
+       "artist_names": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+       "full_title": "Jaymes Young - I\u2019ll Be Good (T\u00fcrk\u00e7e \u00c7eviri) by\u00a0Genius\u00a0T\u00fcrk\u00e7e \u00c7eviri",
+       "header_image_thumbnail_url": "https://images.genius.com/5245016d552b9b078364261cadaf3ace.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5245016d552b9b078364261cadaf3ace.1000x1000x1.jpg",
+       "id": 5718738,
+       "language": "tr",
+       "lyrics_owner_id": 7379163,
+       "lyrics_state": "complete",
+       "path": "/Genius-turkce-ceviri-jaymes-young-ill-be-good-turkce-ceviri-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-ill-be-good-turkce-ceviri-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2014",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0b59a0433b387f8524111c7f2b7319ff.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0b59a0433b387f8524111c7f2b7319ff.963x963x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Jaymes Young - I\u2019ll Be Good (T\u00fcrk\u00e7e \u00c7eviri)",
+       "title_with_featured": "Jaymes Young - I\u2019ll Be Good (T\u00fcrk\u00e7e \u00c7eviri)",
+       "url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-ill-be-good-turkce-ceviri-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/569121",
+        "header_image_url": "https://images.genius.com/8de14cbfa60a48d10ac52487723f658f.1000x300x1.png",
+        "id": 569121,
+        "image_url": "https://images.genius.com/49f4bc4332283d01689f8fb883ec88e9.302x302x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius T\u00fcrk\u00e7e \u00c7eviri",
+        "url": "https://genius.com/artists/Genius-turkce-ceviri"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7380200",
+     "id": 7380200,
+     "language": "pl",
+     "lyrics_state": "complete",
+     "path": "/Polskie-tumaczenia-genius-jaymes-young-ill-be-good-polskie-tumaczenie-lyrics",
+     "title": "Jaymes Young - I\u2019ll Be Good (Polskie T\u0142umaczenie)",
+     "url": "https://genius.com/Polskie-tumaczenia-genius-jaymes-young-ill-be-good-polskie-tumaczenie-lyrics"
+    },
+    {
+     "api_path": "/songs/5718738",
+     "id": 5718738,
+     "language": "tr",
+     "lyrics_state": "complete",
+     "path": "/Genius-turkce-ceviri-jaymes-young-ill-be-good-turkce-ceviri-lyrics",
+     "title": "Jaymes Young - I\u2019ll Be Good (T\u00fcrk\u00e7e \u00c7eviri)",
+     "url": "https://genius.com/Genius-turkce-ceviri-jaymes-young-ill-be-good-turkce-ceviri-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/67182",
+     "header_image_url": "https://images.genius.com/c3cb6c7f549ed3943c25d2e3ced2ff67.400x400x1.jpg",
+     "id": 67182,
+     "image_url": "https://images.genius.com/002e629cd216adac1fdd6bfb63c70976.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jaymes Young",
+     "url": "https://genius.com/artists/Jaymes-young"
+    }
+   ],
+   "artist": "Jaymes Young",
+   "lyrics": "40 ContributorsTranslationsPolskiT\u00fcrk\u00e7eI\u2019ll Be Good Lyrics[Verse 1]\nI thought I saw the devil this morning\nLooking in the mirror\nDrop of rum on my tongue with a warning\nTo help me see myself clearer\n\n[Pre-Chorus]\nI never meant to start a fire\nI never meant to make you bleed\nI'll be a better man today\n[Chorus]\nI'll be good, I'll be good\nAnd I'll love the world like I should\nI'll be good, I'll be good\nFor all of the times that I never could\n\n[Verse 2]\nMy past has tasted bitter for years now so I wield an iron fist\nGrace is just weakness, or so I've been told\nI've been cold, I've been merciless\n\n[Pre-Chorus]\nBut the blood on my hands scares me to death\nMaybe I'm waking up today\n\n[Chorus]\nI'll be good, I'll be good\nAnd I'll love the world like I should\nI'll be good, I'll be good\n(I'll be good, I'll be good)\n\n[Bridge]\nFor all of the light that I shut out\nFor all of the innocent things that I doubt\nFor all of the bruises I've caused and the tears\nFor all of the things that I've done\nAll these years, no, yeah\nFor all of the sparks that I stomped out\nFor all of the perfect things that I doubt\nYou might also like[Chorus]\nI'll be good, I'll be good\nAnd I'll love the world like I should yeah\nI'll be good, I'll be good\nFor all of the times I never could\nFor all of the times I never could38Embed"
+  }
+ ]
+}

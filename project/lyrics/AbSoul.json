@@ -1,0 +1,4314 @@
+{
+ "alternate_names": [
+  "Black Lip Bastard",
+  "Black Lip Pastor",
+  "Soul Brother #2",
+  "Herbert Anthony Stevens IV",
+  "Soulo Ho3"
+ ],
+ "api_path": "/artists/2049",
+ "description": {
+  "plain": "Herbert Anthony Stevens IV (born February 23, 1987), better known by his stage name Ab-Soul, is an American hip hop recording artist from Carson, California, signed to Top Dawg Entertainment and Interscope Records. Stevens is best known as a member of hip hop supergroup Black Hippy, along with fellow West Coast rappers and label-mates Jay Rock, Kendrick Lamar, and ScHoolboy Q. He has so far released three independent studio albums under the label Top Dawg Entertainment, Longterm Mentality, Control System, and These Days, and one album jointly with Interscope, Do What Thou Wilt."
+ },
+ "facebook_name": "abdashsoul",
+ "followers_count": 4874,
+ "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+ "id": 2049,
+ "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+ "instagram_name": "souloho3",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Ab-Soul",
+ "translation_artist": false,
+ "twitter_name": "abdashsoul",
+ "url": "https://genius.com/artists/Ab-soul",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 16955,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 7759,
+  "annotator_login": "TrueLogic",
+  "api_path": "/referents/6927311",
+  "classification": "accepted",
+  "fragment": "Ab-Soul",
+  "id": 6927311,
+  "is_description": true,
+  "path": "/6927311/Ab-soul/Ab-soul",
+  "range": {
+   "content": "Ab-Soul"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6927311/Ab-soul/Ab-soul",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2049",
+   "context": null,
+   "id": 2049,
+   "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+   "link_title": "Ab-Soul",
+   "title": "Ab-Soul",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ab-soul"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6927311",
+    "body": {
+     "plain": "Herbert Anthony Stevens IV (born February 23, 1987), better known by his stage name Ab-Soul, is an American hip hop recording artist from Carson, California, signed to Top Dawg Entertainment and Interscope Records. Stevens is best known as a member of hip hop supergroup Black Hippy, along with fellow West Coast rappers and label-mates Jay Rock, Kendrick Lamar, and ScHoolboy Q. He has so far released three independent studio albums under the label Top Dawg Entertainment, Longterm Mentality, Control System, and These Days, and one album jointly with Interscope, Do What Thou Wilt."
+    },
+    "comment_count": 2,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6927311,
+    "pinned": false,
+    "share_url": "https://genius.com/6927311",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6927311/Ab-soul/Ab-soul",
+    "verified": false,
+    "votes_total": 104,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.7314814814814815,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11524",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e7b84a26140d5becfc5614929303367f",
+       "human_readable_role_for_display": "Editor",
+       "id": 11524,
+       "iq": 300485,
+       "login": "tomi",
+       "name": "Tomi Fischer",
+       "role_for_display": "editor",
+       "url": "https://genius.com/tomi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1111111111111111,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/357321",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/7a1c299e0cd6fd03e86671be51ae30d8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/7a1c299e0cd6fd03e86671be51ae30d8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/7a1c299e0cd6fd03e86671be51ae30d8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/7a1c299e0cd6fd03e86671be51ae30d8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/7a1c299e0cd6fd03e86671be51ae30d8",
+       "human_readable_role_for_display": null,
+       "id": 357321,
+       "iq": 127,
+       "login": "meishwop_",
+       "name": "meishwop_",
+       "role_for_display": null,
+       "url": "https://genius.com/meishwop_",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.07407407407407407,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/648",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/648_DSC_0078.JPG",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288163_648_DSC_0078.JPG",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288164_648_DSC_0078.JPG",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288162_648_DSC_0078.JPG",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288162_648_DSC_0078.JPG",
+       "human_readable_role_for_display": "Contributor",
+       "id": 648,
+       "iq": 2343,
+       "login": "danielblakes",
+       "name": "danielblakes",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/danielblakes",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0462962962962963,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/259923",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/syH7kcrlQUusrcun1Ng2.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/syH7kcrlQUusrcun1Ng2.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/syH7kcrlQUusrcun1Ng2.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/syH7kcrlQUusrcun1Ng2.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/syH7kcrlQUusrcun1Ng2.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 259923,
+       "iq": 2616,
+       "login": "MadDoeX",
+       "name": "MadDoeX",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/MadDoeX",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.018518518518518517,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/152858",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/BJmNPhqzSr6Z3eDlj9Go.png",
+       "human_readable_role_for_display": "Contributor",
+       "id": 152858,
+       "iq": 7019,
+       "login": "Docktor",
+       "name": "Docktor",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Docktor",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.018518518518518517,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/128576",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/110747597d98a5f6ebcb37d85c1c595f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/110747597d98a5f6ebcb37d85c1c595f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/110747597d98a5f6ebcb37d85c1c595f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/110747597d98a5f6ebcb37d85c1c595f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/00d92c7bf7a77e1407b731813f555a40.470x215x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 128576,
+       "iq": 55436,
+       "login": "RaulMarquesRJ",
+       "name": "RaulMPimentel",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/RaulMarquesRJ",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/98423",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 98423,
+  "iq": 16955,
+  "login": "ab-soul",
+  "name": "Ab-Soul",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/ab-soul",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 31,
+   "api_path": "/songs/70378",
+   "artist_names": "Ab-Soul (Ft. Danny Brown & Jhen\u00e9 Aiko)",
+   "full_title": "Terrorist Threats by\u00a0Ab-Soul (Ft.\u00a0Danny\u00a0Brown & Jhen\u00e9\u00a0Aiko)",
+   "header_image_thumbnail_url": "https://images.genius.com/f85e24118cb49c168e21a1d68f39b1a4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f85e24118cb49c168e21a1d68f39b1a4.500x500x1.jpg",
+   "id": 70378,
+   "language": "en",
+   "lyrics_owner_id": 82883,
+   "lyrics_state": "complete",
+   "path": "/Ab-soul-terrorist-threats-lyrics",
+   "pyongs_count": 152,
+   "relationships_index_url": "https://genius.com/Ab-soul-terrorist-threats-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 5,
+    "day": 11
+   },
+   "release_date_for_display": "May 11, 2012",
+   "release_date_with_abbreviated_month_for_display": "May. 11, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f85e24118cb49c168e21a1d68f39b1a4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f85e24118cb49c168e21a1d68f39b1a4.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 26,
+    "contributors": 234,
+    "iq_earners": 233,
+    "transcribers": 6,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 3,
+    "hot": false,
+    "pageviews": 771915
+   },
+   "title": "Terrorist Threats",
+   "title_with_featured": "Terrorist Threats (Ft.\u00a0Danny\u00a0Brown & Jhen\u00e9\u00a0Aiko)",
+   "url": "https://genius.com/Ab-soul-terrorist-threats-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1422",
+     "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+     "id": 1422,
+     "image_url": "https://images.genius.com/c0563c9032200258584576466a5d6d53.395x395x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Danny Brown",
+     "url": "https://genius.com/artists/Danny-brown",
+     "iq": 11839
+    },
+    {
+     "api_path": "/artists/1020",
+     "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+     "id": 1020,
+     "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jhen\u00e9 Aiko",
+     "url": "https://genius.com/artists/Jhene-aiko",
+     "iq": 11376
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2049",
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+    "id": 2049,
+    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ab-Soul",
+    "url": "https://genius.com/artists/Ab-soul",
+    "iq": 16955
+   },
+   "apple_music_id": "525933462",
+   "apple_music_player_url": "https://genius.com/songs/70378/apple_music_player",
+   "description": {
+    "plain": "One of the first songs released off of Ab-Soul\u2019s fourth release, and the second project to be sold through iTunes.\n\nSoul essentially disclaims the belief that being raised in the suburbs (as opposed to the ghetto) keeps a child from the dangers of drugs and gang violence. Ab-Soul goes on to state that the people hold just as much power as the government and should be respected as equals.\n\nThe intro (rapped by Jhene Aiko) is an interpolation of Amil\u2019s intro on Jay Z\u2019s Jigga What, Jigga Who. There is, of course, a TDE twist on it.\n\nThe outro of the previous song on the album, \u201cBohemian Grove,\u201d sets the tone for this song by claiming that the people \u201cwill become our chattel,\u201d and then defines chattel: \u201cThat means slaves, it means collateral.\u201d\n\n\u201cBabble on\u201d could also be a hint about the speech in Babylon. The people there wanted to build the tower of Babylon and as it got too high, god changed all of their languages so they just \u201cbabbled\u201d.\n\nA music video, directed by Fredo Tovar and Scott Fleishman, was released on May 18, 2012 and can be found below.\n\nhttps://www.youtube.com/watch?v=m_71q5lVEjc"
+   },
+   "embed_content": "<div id='rg_embed_link_70378' class='rg_embed_link' data-song-id='70378'>Read <a href='https://genius.com/Ab-soul-terrorist-threats-lyrics'>\u201cTerrorist Threats\u201d by Ab-Soul</a> on Genius</div> <script crossorigin src='//genius.com/songs/70378/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-05-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/16352",
+    "cover_art_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+    "full_title": "Control System  by Ab-Soul",
+    "id": 16352,
+    "name": "Control System ",
+    "release_date_for_display": "May 11, 2012",
+    "url": "https://genius.com/albums/Ab-soul/Control-system",
+    "artist": {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1108010",
+       "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+       "id": 1108010,
+       "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Top Dawg Entertainment",
+       "url": "https://genius.com/artists/Top-dawg-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Additional Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1020",
+       "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+       "id": 1020,
+       "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Jhen\u00e9 Aiko",
+       "url": "https://genius.com/artists/Jhene-aiko",
+       "iq": 11376
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 103971,
+    "annotator_login": "nicolaaNOIR",
+    "api_path": "/referents/3561147",
+    "classification": "accepted",
+    "fragment": "Terrorist Threats",
+    "id": 3561147,
+    "is_description": true,
+    "path": "/3561147/Ab-soul-terrorist-threats/Terrorist-threats",
+    "range": {
+     "content": "Terrorist Threats"
+    },
+    "song_id": 70378,
+    "url": "https://genius.com/3561147/Ab-soul-terrorist-threats/Terrorist-threats",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/70378",
+     "client_timestamps": {
+      "updated_by_human_at": 1671235701,
+      "lyrics_updated_at": 1671235701
+     },
+     "context": "Ab-Soul",
+     "id": 70378,
+     "image_url": "https://images.genius.com/f85e24118cb49c168e21a1d68f39b1a4.500x500x1.jpg",
+     "link_title": "Terrorist Threats by\u00a0Ab-Soul (Ft.\u00a0Danny\u00a0Brown & Jhen\u00e9\u00a0Aiko)",
+     "title": "Terrorist Threats",
+     "type": "Song",
+     "url": "https://genius.com/Ab-soul-terrorist-threats-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3561147",
+      "body": {
+       "plain": "One of the first songs released off of Ab-Soul\u2019s fourth release, and the second project to be sold through iTunes.\n\nSoul essentially disclaims the belief that being raised in the suburbs (as opposed to the ghetto) keeps a child from the dangers of drugs and gang violence. Ab-Soul goes on to state that the people hold just as much power as the government and should be respected as equals.\n\nThe intro (rapped by Jhene Aiko) is an interpolation of Amil\u2019s intro on Jay Z\u2019s Jigga What, Jigga Who. There is, of course, a TDE twist on it.\n\nThe outro of the previous song on the album, \u201cBohemian Grove,\u201d sets the tone for this song by claiming that the people \u201cwill become our chattel,\u201d and then defines chattel: \u201cThat means slaves, it means collateral.\u201d\n\n\u201cBabble on\u201d could also be a hint about the speech in Babylon. The people there wanted to build the tower of Babylon and as it got too high, god changed all of their languages so they just \u201cbabbled\u201d.\n\nA music video, directed by Fredo Tovar and Scott Fleishman, was released on May 18, 2012 and can be found below.\n\nhttps://www.youtube.com/watch?v=m_71q5lVEjc"
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3561147,
+      "pinned": false,
+      "share_url": "https://genius.com/3561147",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3561147/Ab-soul-terrorist-threats/Terrorist-threats",
+      "verified": false,
+      "votes_total": 41,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.42792792792792794,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/103971",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 103971,
+         "iq": 2173,
+         "login": "nicolaaNOIR",
+         "name": "nicolaaNOIR",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/nicolaaNOIR",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.22972972972972971,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1431982",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/fafbf59eab47d1fc30781eb57e560fc2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1431982,
+         "iq": 613,
+         "login": "ThatSoundGood",
+         "name": "ThatSoundGood",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ThatSoundGood",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.17117117117117117,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1107299",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 1107299,
+         "iq": 58,
+         "login": "andtheb",
+         "name": "andtheb",
+         "role_for_display": null,
+         "url": "https://genius.com/andtheb",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.16216216216216217,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/23475",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f3e7df8c423169dfc0a9deb727b93695",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f3e7df8c423169dfc0a9deb727b93695",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f3e7df8c423169dfc0a9deb727b93695",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f3e7df8c423169dfc0a9deb727b93695",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f3e7df8c423169dfc0a9deb727b93695",
+         "human_readable_role_for_display": "Editor",
+         "id": 23475,
+         "iq": 69823,
+         "login": "Screv6",
+         "name": "Screv6",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Screv6",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.009009009009009009,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/26826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0d254adda7a5aa1ff678d9e2d935441",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0d254adda7a5aa1ff678d9e2d935441",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0d254adda7a5aa1ff678d9e2d935441",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0d254adda7a5aa1ff678d9e2d935441",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/188e7dbc2c1cc6a8fc070970a4dea577.960x699x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 26826,
+         "iq": 189417,
+         "login": "Thom",
+         "name": "HelloThereThom",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Thom",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 3,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=m_71q5lVEjc"
+    },
+    {
+     "native_uri": "spotify:track:7fU07zHBVjXu4JVry5oEsX",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7fU07zHBVjXu4JVry5oEsX"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27862",
+     "header_image_url": "https://images.genius.com/47387006eccdc6a6463f9d47e53dced8.1000x663x1.jpg",
+     "id": 27862,
+     "image_url": "https://images.genius.com/fedac43f4386e2f7d9415b3b9a222f6b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Free",
+     "url": "https://genius.com/artists/Dave-free"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Ab-soul-terrorist-threats-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3229045",
+       "artist_names": "Darren Korb",
+       "full_title": "The Bottom Feeders by\u00a0Darren\u00a0Korb",
+       "header_image_thumbnail_url": "https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.1000x1000x1.png",
+       "id": 3229045,
+       "language": "en",
+       "lyrics_owner_id": 2746445,
+       "lyrics_state": "complete",
+       "path": "/Darren-korb-the-bottom-feeders-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Darren-korb-the-bottom-feeders-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 8,
+        "day": 5
+       },
+       "release_date_for_display": "August 5, 2011",
+       "release_date_with_abbreviated_month_for_display": "Aug. 5, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b8f8b999cd30f3dbfe605462d1687819.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Bottom Feeders",
+       "title_with_featured": "The Bottom Feeders",
+       "url": "https://genius.com/Darren-korb-the-bottom-feeders-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/207650",
+        "header_image_url": "https://images.genius.com/5acd7a76262a708e380c3a2ecd7f23c3.500x334x1.png",
+        "id": 207650,
+        "image_url": "https://images.genius.com/070ce57ddce26c5e45dca62cbd380c1b.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Darren Korb",
+        "url": "https://genius.com/artists/Darren-korb"
+       }
+      },
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/24542",
+       "artist_names": "JAY-Z (Ft. Amil, Amil, Jaz-O & Jaz-O)",
+       "full_title": "Nigga What, Nigga Who (Originator '99) by\u00a0JAY-Z (Ft.\u00a0Amil, Amil, Jaz-O & Jaz-O)",
+       "header_image_thumbnail_url": "https://images.genius.com/1183893309de5394017bbd0f49d0c0f3.300x298x1.png",
+       "header_image_url": "https://images.genius.com/1183893309de5394017bbd0f49d0c0f3.1000x992x1.png",
+       "id": 24542,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Jay-z-nigga-what-nigga-who-originator-99-lyrics",
+       "pyongs_count": 18,
+       "relationships_index_url": "https://genius.com/Jay-z-nigga-what-nigga-who-originator-99-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 3,
+        "day": 1
+       },
+       "release_date_for_display": "March 1, 1999",
+       "release_date_with_abbreviated_month_for_display": "Mar. 1, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4c605b957c963b891eb4bfc739a7a0a0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4c605b957c963b891eb4bfc739a7a0a0.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 107678
+       },
+       "title": "Nigga What, Nigga Who (Originator \u201999)",
+       "title_with_featured": "Nigga What, Nigga Who (Originator '99) (Ft.\u00a0Amil, Amil, Jaz-O & Jaz-O)",
+       "url": "https://genius.com/Jay-z-nigga-what-nigga-who-originator-99-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/25560",
+         "header_image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "id": 25560,
+         "image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jaz-O",
+         "url": "https://genius.com/artists/Jaz-o"
+        },
+        {
+         "api_path": "/artists/901",
+         "header_image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "id": 901,
+         "image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Amil",
+         "url": "https://genius.com/artists/Amil"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2",
+        "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+        "id": 2,
+        "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "JAY-Z",
+        "url": "https://genius.com/artists/Jay-z",
+        "iq": 225
+       }
+      },
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/63527",
+       "artist_names": "ScHoolboy Q (Ft. Ab-Soul & Ab-Soul)",
+       "full_title": "Druggys wit Hoes Again by\u00a0ScHoolboy\u00a0Q (Ft.\u00a0Ab-Soul & Ab-Soul)",
+       "header_image_thumbnail_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.1000x1000x1.jpg",
+       "id": 63527,
+       "language": "en",
+       "lyrics_owner_id": 3358,
+       "lyrics_state": "complete",
+       "path": "/Schoolboy-q-druggys-wit-hoes-again-lyrics",
+       "pyongs_count": 37,
+       "relationships_index_url": "https://genius.com/Schoolboy-q-druggys-wit-hoes-again-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 1,
+        "day": 14
+       },
+       "release_date_for_display": "January 14, 2012",
+       "release_date_with_abbreviated_month_for_display": "Jan. 14, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 182381
+       },
+       "title": "Druggys wit Hoes Again",
+       "title_with_featured": "Druggys wit Hoes Again (Ft.\u00a0Ab-Soul & Ab-Soul)",
+       "url": "https://genius.com/Schoolboy-q-druggys-wit-hoes-again-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2049",
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+         "id": 2049,
+         "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Ab-Soul",
+         "url": "https://genius.com/artists/Ab-soul",
+         "iq": 16955
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/11353",
+        "header_image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+        "id": 11353,
+        "image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "ScHoolboy Q",
+        "url": "https://genius.com/artists/Schoolboy-q",
+        "iq": 3386
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Ab-soul-terrorist-threats-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 23,
+       "api_path": "/songs/674539",
+       "artist_names": "Joey Bada$$ (Ft. Chronixx)",
+       "full_title": "Belly of the Beast by\u00a0Joey\u00a0Bada$$ (Ft.\u00a0Chronixx)",
+       "header_image_thumbnail_url": "https://images.genius.com/314e5f2acb3d276d4b374900e64b4c42.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/314e5f2acb3d276d4b374900e64b4c42.1000x1000x1.jpg",
+       "id": 674539,
+       "language": "en",
+       "lyrics_owner_id": 94012,
+       "lyrics_state": "complete",
+       "path": "/Joey-bada-belly-of-the-beast-lyrics",
+       "pyongs_count": 34,
+       "relationships_index_url": "https://genius.com/Joey-bada-belly-of-the-beast-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 1,
+        "day": 20
+       },
+       "release_date_for_display": "January 20, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jan. 20, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/314e5f2acb3d276d4b374900e64b4c42.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/314e5f2acb3d276d4b374900e64b4c42.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 83859
+       },
+       "title": "Belly of the Beast",
+       "title_with_featured": "Belly of the Beast (Ft.\u00a0Chronixx)",
+       "url": "https://genius.com/Joey-bada-belly-of-the-beast-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/68340",
+         "header_image_url": "https://images.genius.com/996453202d12aaae8de59de167e61534.1000x562x1.jpg",
+         "id": 68340,
+         "image_url": "https://images.genius.com/fc7f92cb32d6a4e35c82cbd66180e2bb.644x644x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Chronixx",
+         "url": "https://genius.com/artists/Chronixx"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/18047",
+        "header_image_url": "https://images.genius.com/41507e756fcad49ca69e63616f7af005.1000x1000x1.jpg",
+        "id": 18047,
+        "image_url": "https://images.genius.com/5d14793c3b0bdcb10c9a02ef9907cf7a.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Joey Bada$$",
+        "url": "https://genius.com/artists/Joey-bada",
+        "iq": 28032
+       }
+      },
+      {
+       "annotation_count": 32,
+       "api_path": "/songs/64575",
+       "artist_names": "Ab-Soul",
+       "full_title": "Nibiru by\u00a0Ab-Soul",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/c2153cedf38a5c4eb501106d4266fd6b.300x225x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/c2153cedf38a5c4eb501106d4266fd6b.1000x750x1.jpg",
+       "id": 64575,
+       "language": "en",
+       "lyrics_owner_id": 14660,
+       "lyrics_state": "complete",
+       "path": "/Ab-soul-nibiru-lyrics",
+       "pyongs_count": 34,
+       "relationships_index_url": "https://genius.com/Ab-soul-nibiru-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 8,
+        "day": 15
+       },
+       "release_date_for_display": "August 15, 2012",
+       "release_date_with_abbreviated_month_for_display": "Aug. 15, 2012",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/c2153cedf38a5c4eb501106d4266fd6b.300x225x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/c2153cedf38a5c4eb501106d4266fd6b.1000x750x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 181485
+       },
+       "title": "Nibiru",
+       "title_with_featured": "Nibiru",
+       "url": "https://genius.com/Ab-soul-nibiru-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2049",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+        "id": 2049,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ab-Soul",
+        "url": "https://genius.com/artists/Ab-soul",
+        "iq": 16955
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/3112558",
+       "artist_names": "Mad Sadiq",
+       "full_title": "Terrorist Threats by\u00a0Mad\u00a0Sadiq",
+       "header_image_thumbnail_url": "https://images.genius.com/3f609db9d96c856fc3bbe2e7ea470e4f.275x275x1.jpg",
+       "header_image_url": "https://images.genius.com/3f609db9d96c856fc3bbe2e7ea470e4f.275x275x1.jpg",
+       "id": 3112558,
+       "language": "en",
+       "lyrics_owner_id": 4311525,
+       "lyrics_state": "complete",
+       "path": "/Mad-sadiq-terrorist-threats-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mad-sadiq-terrorist-threats-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 5,
+        "day": 12
+       },
+       "release_date_for_display": "May 12, 2017",
+       "release_date_with_abbreviated_month_for_display": "May. 12, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3f609db9d96c856fc3bbe2e7ea470e4f.275x275x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3f609db9d96c856fc3bbe2e7ea470e4f.275x275x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Terrorist Threats",
+       "title_with_featured": "Terrorist Threats",
+       "url": "https://genius.com/Mad-sadiq-terrorist-threats-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1123483",
+        "header_image_url": "https://images.genius.com/7a92777b4990f4276563a3872117409d.1000x1000x1.jpg",
+        "id": 1123483,
+        "image_url": "https://images.genius.com/3711a8b8c2831309298f4df7fcffec71.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mad Sadiq",
+        "url": "https://genius.com/artists/Mad-sadiq"
+       }
+      },
+      {
+       "annotation_count": 27,
+       "api_path": "/songs/182405",
+       "artist_names": "JAY-Z (Ft. Travis Scott)",
+       "full_title": "Crown by\u00a0JAY-Z (Ft.\u00a0Travis\u00a0Scott)",
+       "header_image_thumbnail_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.300x300x1.png",
+       "header_image_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+       "id": 182405,
+       "language": "en",
+       "lyrics_owner_id": 237477,
+       "lyrics_state": "complete",
+       "path": "/Jay-z-crown-lyrics",
+       "pyongs_count": 43,
+       "relationships_index_url": "https://genius.com/Jay-z-crown-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 7,
+        "day": 4
+       },
+       "release_date_for_display": "July 4, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jul. 4, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/2da322648704159878b73c5cfc9c7dc5.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 569190
+       },
+       "title": "Crown",
+       "title_with_featured": "Crown (Ft.\u00a0Travis\u00a0Scott)",
+       "url": "https://genius.com/Jay-z-crown-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/20185",
+         "header_image_url": "https://images.genius.com/77659552bac452cb5dee1ac1d68c62a9.480x288x24.gif",
+         "id": 20185,
+         "image_url": "https://images.genius.com/5d19fecdb3828ca9ec89dda588e2eb7d.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Travis Scott",
+         "url": "https://genius.com/artists/Travis-scott",
+         "iq": 5409
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2",
+        "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+        "id": 2,
+        "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "JAY-Z",
+        "url": "https://genius.com/artists/Jay-z",
+        "iq": 225
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": "https://genius.com/Ab-soul-terrorist-threats-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/146648",
+       "artist_names": "Lil Scrappy (Ft. Young Buck)",
+       "full_title": "Money in the Bank by\u00a0Lil\u00a0Scrappy (Ft.\u00a0Young\u00a0Buck)",
+       "header_image_thumbnail_url": "https://images.genius.com/0ec27b6023fdef052011e493255845b9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0ec27b6023fdef052011e493255845b9.900x900x1.jpg",
+       "id": 146648,
+       "language": "en",
+       "lyrics_owner_id": 12757,
+       "lyrics_state": "complete",
+       "path": "/Lil-scrappy-money-in-the-bank-lyrics",
+       "pyongs_count": 5,
+       "relationships_index_url": "https://genius.com/Lil-scrappy-money-in-the-bank-sample",
+       "release_date_components": {
+        "year": 2005,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2005",
+       "release_date_with_abbreviated_month_for_display": "2005",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c235aa618ff218d397c807f4e077f8ed.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c235aa618ff218d397c807f4e077f8ed.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 16965
+       },
+       "title": "Money in the Bank",
+       "title_with_featured": "Money in the Bank (Ft.\u00a0Young\u00a0Buck)",
+       "url": "https://genius.com/Lil-scrappy-money-in-the-bank-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/402",
+         "header_image_url": "https://images.genius.com/787eb0fed4a05aa802dee3238c64431a.792x792x1.jpg",
+         "id": 402,
+         "image_url": "https://images.genius.com/787eb0fed4a05aa802dee3238c64431a.792x792x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Young Buck",
+         "url": "https://genius.com/artists/Young-buck"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/135",
+        "header_image_url": "https://images.genius.com/c029b5819aa2879475b73d63e7c08c6f.1000x754x1.jpg",
+        "id": 135,
+        "image_url": "https://images.genius.com/334d02ee258544e3ac2bc2392d939fb5.405x405x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Scrappy",
+        "url": "https://genius.com/artists/Lil-scrappy"
+       }
+      },
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/63527",
+       "artist_names": "ScHoolboy Q (Ft. Ab-Soul & Ab-Soul)",
+       "full_title": "Druggys wit Hoes Again by\u00a0ScHoolboy\u00a0Q (Ft.\u00a0Ab-Soul & Ab-Soul)",
+       "header_image_thumbnail_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.1000x1000x1.jpg",
+       "id": 63527,
+       "language": "en",
+       "lyrics_owner_id": 3358,
+       "lyrics_state": "complete",
+       "path": "/Schoolboy-q-druggys-wit-hoes-again-lyrics",
+       "pyongs_count": 37,
+       "relationships_index_url": "https://genius.com/Schoolboy-q-druggys-wit-hoes-again-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 1,
+        "day": 14
+       },
+       "release_date_for_display": "January 14, 2012",
+       "release_date_with_abbreviated_month_for_display": "Jan. 14, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/41740fc8a4f359c7d4a16721d87de950.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 182381
+       },
+       "title": "Druggys wit Hoes Again",
+       "title_with_featured": "Druggys wit Hoes Again (Ft.\u00a0Ab-Soul & Ab-Soul)",
+       "url": "https://genius.com/Schoolboy-q-druggys-wit-hoes-again-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2049",
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+         "id": 2049,
+         "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Ab-Soul",
+         "url": "https://genius.com/artists/Ab-soul",
+         "iq": 16955
+        },
+        {
+         "api_path": "/artists/2049",
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+         "id": 2049,
+         "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Ab-Soul",
+         "url": "https://genius.com/artists/Ab-soul",
+         "iq": 16955
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/11353",
+        "header_image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+        "id": 11353,
+        "image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "ScHoolboy Q",
+        "url": "https://genius.com/artists/Schoolboy-q",
+        "iq": 3386
+       }
+      },
+      {
+       "annotation_count": 20,
+       "api_path": "/songs/24542",
+       "artist_names": "JAY-Z (Ft. Amil, Amil, Jaz-O & Jaz-O)",
+       "full_title": "Nigga What, Nigga Who (Originator '99) by\u00a0JAY-Z (Ft.\u00a0Amil, Amil, Jaz-O & Jaz-O)",
+       "header_image_thumbnail_url": "https://images.genius.com/1183893309de5394017bbd0f49d0c0f3.300x298x1.png",
+       "header_image_url": "https://images.genius.com/1183893309de5394017bbd0f49d0c0f3.1000x992x1.png",
+       "id": 24542,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Jay-z-nigga-what-nigga-who-originator-99-lyrics",
+       "pyongs_count": 18,
+       "relationships_index_url": "https://genius.com/Jay-z-nigga-what-nigga-who-originator-99-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 3,
+        "day": 1
+       },
+       "release_date_for_display": "March 1, 1999",
+       "release_date_with_abbreviated_month_for_display": "Mar. 1, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4c605b957c963b891eb4bfc739a7a0a0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4c605b957c963b891eb4bfc739a7a0a0.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 107678
+       },
+       "title": "Nigga What, Nigga Who (Originator \u201999)",
+       "title_with_featured": "Nigga What, Nigga Who (Originator '99) (Ft.\u00a0Amil, Amil, Jaz-O & Jaz-O)",
+       "url": "https://genius.com/Jay-z-nigga-what-nigga-who-originator-99-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/25560",
+         "header_image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "id": 25560,
+         "image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jaz-O",
+         "url": "https://genius.com/artists/Jaz-o"
+        },
+        {
+         "api_path": "/artists/901",
+         "header_image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "id": 901,
+         "image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Amil",
+         "url": "https://genius.com/artists/Amil"
+        },
+        {
+         "api_path": "/artists/25560",
+         "header_image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "id": 25560,
+         "image_url": "https://images.genius.com/e1e43eaf1a7ff8ffc361f403790f2ddd.507x507x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jaz-O",
+         "url": "https://genius.com/artists/Jaz-o"
+        },
+        {
+         "api_path": "/artists/901",
+         "header_image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "id": 901,
+         "image_url": "https://images.genius.com/b374c4f63b607be4091f11eef90c607b.612x612x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Amil",
+         "url": "https://genius.com/artists/Amil"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2",
+        "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+        "id": 2,
+        "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "JAY-Z",
+        "url": "https://genius.com/artists/Jay-z",
+        "iq": 225
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Ab-soul-terrorist-threats-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 43,
+       "api_path": "/songs/201538",
+       "artist_names": "Ab-Soul",
+       "full_title": "Christopher DRONEr by\u00a0Ab-Soul",
+       "header_image_thumbnail_url": "https://images.genius.com/eb9f637d0ba24cc3dc13154944dd024d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/eb9f637d0ba24cc3dc13154944dd024d.608x608x1.jpg",
+       "id": 201538,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Ab-soul-christopher-droner-lyrics",
+       "pyongs_count": 14,
+       "relationships_index_url": "https://genius.com/Ab-soul-christopher-droner-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2013",
+       "release_date_with_abbreviated_month_for_display": "2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/eb9f637d0ba24cc3dc13154944dd024d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/eb9f637d0ba24cc3dc13154944dd024d.608x608x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 46774
+       },
+       "title": "Christopher DRONEr",
+       "title_with_featured": "Christopher DRONEr",
+       "url": "https://genius.com/Ab-soul-christopher-droner-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2049",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+        "id": 2049,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ab-Soul",
+        "url": "https://genius.com/artists/Ab-soul",
+        "iq": 16955
+       }
+      },
+      {
+       "annotation_count": 26,
+       "api_path": "/songs/450939",
+       "artist_names": "Ab-Soul",
+       "full_title": "Just Have Fun by\u00a0Ab-Soul",
+       "header_image_thumbnail_url": "https://images.genius.com/077bbd628ad3b7383f095afde8670b76.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/077bbd628ad3b7383f095afde8670b76.560x560x1.jpg",
+       "id": 450939,
+       "language": "en",
+       "lyrics_owner_id": 344421,
+       "lyrics_state": "complete",
+       "path": "/Ab-soul-just-have-fun-lyrics",
+       "pyongs_count": 30,
+       "relationships_index_url": "https://genius.com/Ab-soul-just-have-fun-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 6,
+        "day": 24
+       },
+       "release_date_for_display": "June 24, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jun. 24, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/077bbd628ad3b7383f095afde8670b76.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/077bbd628ad3b7383f095afde8670b76.560x560x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 90614
+       },
+       "title": "Just Have Fun",
+       "title_with_featured": "Just Have Fun",
+       "url": "https://genius.com/Ab-soul-just-have-fun-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2049",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+        "id": 2049,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ab-Soul",
+        "url": "https://genius.com/artists/Ab-soul",
+        "iq": 16955
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/98423",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 98423,
+     "iq": 16955,
+     "login": "ab-soul",
+     "name": "Ab-Soul",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ab-soul",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    {
+     "api_path": "/users/82158",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/6dfe1b9dda88f61bda46e3b0c64269d9",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/6dfe1b9dda88f61bda46e3b0c64269d9",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/6dfe1b9dda88f61bda46e3b0c64269d9",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/6dfe1b9dda88f61bda46e3b0c64269d9",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 82158,
+     "iq": 11839,
+     "login": "DannyBrown",
+     "name": "Danny Brown",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/DannyBrown",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/2049",
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "id": 2049,
+      "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ab-Soul",
+      "url": "https://genius.com/artists/Ab-soul",
+      "iq": 16955
+     },
+     "user": {
+      "api_path": "/users/98423",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 98423,
+      "iq": 16955,
+      "login": "ab-soul",
+      "name": "Ab-Soul",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ab-soul",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    },
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1422",
+      "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+      "id": 1422,
+      "image_url": "https://images.genius.com/c0563c9032200258584576466a5d6d53.395x395x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Danny Brown",
+      "url": "https://genius.com/artists/Danny-brown",
+      "iq": 11839
+     },
+     "user": {
+      "api_path": "/users/82158",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/6dfe1b9dda88f61bda46e3b0c64269d9",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/6dfe1b9dda88f61bda46e3b0c64269d9",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/6dfe1b9dda88f61bda46e3b0c64269d9",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/6dfe1b9dda88f61bda46e3b0c64269d9",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 82158,
+      "iq": 11839,
+      "login": "DannyBrown",
+      "name": "Danny Brown",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/DannyBrown",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1020",
+     "header_image_url": "https://images.genius.com/0e404cd1a485385c0c2326dbb0e40326.800x1000x1.png",
+     "id": 1020,
+     "image_url": "https://images.genius.com/4353b07cd7ea6660d2f3cc5fe75231f0.538x538x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Jhen\u00e9 Aiko",
+     "url": "https://genius.com/artists/Jhene-aiko",
+     "iq": 11376
+    },
+    {
+     "api_path": "/artists/1422",
+     "header_image_url": "https://images.genius.com/344ff4409d4b7fddb09f4bb7dde34987.965x579x1.jpg",
+     "id": 1422,
+     "image_url": "https://images.genius.com/c0563c9032200258584576466a5d6d53.395x395x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Danny Brown",
+     "url": "https://genius.com/artists/Danny-brown",
+     "iq": 11839
+    },
+    {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    }
+   ],
+   "artist": "Ab-Soul",
+   "lyrics": "234 ContributorsTerrorist Threats Lyrics[Produced By Dave Free]\n\n[Intro: Ab-Soul]\nWicked as Aleister Crowley\nYou niggas know\ufeff me\nWicked as Aleister Crowley\nYou niggas know\ufeff me\n\n[Bridge: Jhene Aiko]\nKick your game, spit your flow\nCan't fuck with this Top Dawg shit though\nKick your game, spit your flow\nCan't fuck with this Top Dawg shit though\nKick your game, spit your flow\nCan't fuck with this Top Dawg shit though\nKick your game, spit your flow\nCan't fuck with this Top Dawg shit though\n[Chorus: Ab-Soul]\nWish I could see out of Selassie' eye\nMaybe my sovereignty would still be mine\nIf all the gangs in the world unified\nWe'd stand a chance against the military tonight\n\n[Verse 1: Ab-Soul]\nBabylon, Babylon, out my window all I see is Babylon\nOn the news, all I see is Babylon\nAnd all niggas do is just babble on\nMoney and hoes, want money and hoes\nIf I sold dope, I'd have plenty of flows\nIf I was from the projects like Jay Rock\nI would've more than likely slang rocks\nAll my life I done been around Crips and Bloods\nPimps and thugs, just to name a few\nI do drugs, Momma say it's in my blood\nBut she don't know what the fuck I've been through\nTo creep through the back door\nThe typical black boy in the good old USA\nBefore I pushed rhymes like weight\nI used to wanna play for the NBA (Hey\u2026)\nFuck I'm doin' talkin' about pineal gland?\nAncient ways of Sumerians?\nAin't nothin' wrong with a righteous man (Damn\u2026)\nThis why I had to write this, man\nFor my niggas on the corner, sellin' water\nTo somebody daughter, fluctuatin' prices, man\nI ain't got no gavel, I ain't tryna fight nobody battle\nI just wanna be free, I ain't tryna be nobody's chattel\nYou might also like[Chorus: Ab-Soul]\nWish I could see out of Selassie' eye\nMaybe my sovereignty would still be mine\nIf all the gangs in the world unified\nWe'd stand a chance against the military tonight\n[Verse 2: Ab-Soul]\n(Extra pills, extra pills)\nThem AK clips stay extra peeled\nSmokin' on some of that extra kill\nPurple Urkel, that Jaleel\nI put that on everythang\nIf we could link up every gang\nAnd niggas is willin' to bear the pain\nWe'd put the White House lights out today\nOkay-kay-kay\nWe mobbin' like we the black KKK\nDon't forget my a.k.a. Mayday\nPee on your Ph. D. or your AA\nHey, Dear Barack\nI know you just a puppet, but I'm givin' you props\nYou lyin' to the public like it ain't nothin'\nAnd I just love it, I hope it don't stop\nI don't give a damn, nigga, bang that block!\nI don't give a fuck, nigga, bang that Glock!\nI seen an image of Hitler in the picture\nWhen the Twin Towers dropped\nPeep the concept\nYou've got progress, you've got congress\nWe protest in hopes they confess\nJust proceed on your conquest\nI ain't got no gavel, I ain't finna fight nobody battle\nI just wanna be free, I ain't finna be nobody's chattel\n[Chorus: Ab-Soul]\nWish I could see out of Selassie' eye\nMaybe my sovereignty would still be mine\nIf all the gangs in the world unified\nWe'd stand a chance against the military tonight\n\n[Verse 3: Danny Brown]\n(Extra pills, extra pills)\nNose candy rain like Soul 4 Real\nMy baby needs some Enfamil\nSo bags get stuffed like Oprah grill\nPull around, come back, oh, for real?\nTop blew off, loafers in teal\nGet lined up like homeless meals\nFeelin' if he know how bein' homeless feels?\nOkay-kay-kay\nDon't try to stop it, get in my way\nYou'll get stomped like a Broadway play\nAK melee make you obey, okay?\nFeel my pain, goin' insane, I'm ashamed\n\u2018Cause I ain't got shit but an EBT card\nFrom a fiend that owe me and it's in her daughter name\nHow the fuck is they 'posed to eat?\nHow the fuck am I 'posed to eat?\nGot a nigga in the streets, no health care\nTryna slang weed just to put shoes on his feet\nSo fuck you! You don't give a fuck about me\nCan't get a job if they drug test me\nGot a nigga stressed, depressed\nGot a feelin' in his chest\nAnd the world's stripped of happiness\nI ain't got no gavel, I ain't tryna fight nobody battle\nI just wanna be free, I ain't finna be nobody's shadow152Embed"
+  },
+  {
+   "annotation_count": 34,
+   "api_path": "/songs/73615",
+   "artist_names": "Ab-Soul (Ft. Kendrick Lamar)",
+   "full_title": "ILLuminate by\u00a0Ab-Soul (Ft.\u00a0Kendrick\u00a0Lamar)",
+   "header_image_thumbnail_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+   "id": 73615,
+   "language": "en",
+   "lyrics_owner_id": 47768,
+   "lyrics_state": "complete",
+   "path": "/Ab-soul-illuminate-lyrics",
+   "pyongs_count": 90,
+   "relationships_index_url": "https://genius.com/Ab-soul-illuminate-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 5,
+    "day": 8
+   },
+   "release_date_for_display": "May 8, 2012",
+   "release_date_with_abbreviated_month_for_display": "May. 8, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 28,
+    "contributors": 175,
+    "iq_earners": 174,
+    "transcribers": 5,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 3,
+    "hot": false,
+    "pageviews": 499657
+   },
+   "title": "ILLuminate",
+   "title_with_featured": "ILLuminate (Ft.\u00a0Kendrick\u00a0Lamar)",
+   "url": "https://genius.com/Ab-soul-illuminate-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 54509
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2049",
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+    "id": 2049,
+    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ab-Soul",
+    "url": "https://genius.com/artists/Ab-soul",
+    "iq": 16955
+   },
+   "apple_music_id": "525933468",
+   "apple_music_player_url": "https://genius.com/songs/73615/apple_music_player",
+   "description": {
+    "plain": "One half of Black Hippy rock bars over Skyhe Hutch\u2019s stripped down production, speaking of perseverance, attitudes, legacies and HiiiPoWeR. This is one of the most talked about songs from \u201cControl System,\u201d mainly because of the oft-misinterpreted lines about Jay-Z. You\u2019ll notice it\u2019s peppered with references to him, and speaking of this with Complex Magazine Soulo said:\n\n\nMy favorite rapper of all time is Jay-Z hands down. For sure, I probably have been the most inspired by him lyrically. It doesn\u2019t feel like it\u2019s jocking or biting [when I quote Jay-Z in my rhymes]. It\u2019s not. Being a fan of hip-hop, just what I\u2019ve seen done time and time again.\n\nI\u2019m 25 now man, I try to remember that. I\u2019m 25 now. I see myself with those guys, so I just want everybody to know that that\u2019s how I feel. When you speak of me I want you to speak of me amongst them. That\u2019s the only statement that I\u2019m trying to make. But at the same time you incorporate the lyrics.\n\nEverybody is talking about my Jay-Z line off \u2018Illuminate\u2019 but, the majority of the song was inspired by Jay-Z. If you\u2019re a big fan of Jay-Z you can hear it. That\u2019s what it was about. And I hope Jay gets a chance to hear it. If he is who I think he is, then he should understand exactly what I intended to do with that. I was paying homage but letting him know, we coming. You got some new young cats on your heels now. That\u2019s all\u2026\n\n\nWatch Soul decode this with Jay-Z\u2019s Life+Times below:\n\nhttp://www.youtube.com/watch?v=p-n9bPiIBwI\n\nThe sample used here is an unusual one, specifically of Madonna\u2019s \u201cLive to Tell\u201d.\n\nA music video, directed by Fredo Tovar and Scott Fleishman, was released on January 15, 2013 and can be found below.\n\nhttps://www.youtube.com/watch?v=DszIoEP8OAo"
+   },
+   "embed_content": "<div id='rg_embed_link_73615' class='rg_embed_link' data-song-id='73615'>Read <a href='https://genius.com/Ab-soul-illuminate-lyrics'>\u201cILLuminate\u201d by Ab-Soul</a> on Genius</div> <script crossorigin src='//genius.com/songs/73615/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-05-08",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/16352",
+    "cover_art_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+    "full_title": "Control System  by Ab-Soul",
+    "id": 16352,
+    "name": "Control System ",
+    "release_date_for_display": "May 11, 2012",
+    "url": "https://genius.com/albums/Ab-soul/Control-system",
+    "artist": {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1108010",
+       "header_image_url": "https://images.genius.com/b6d0cd73308dc9c8c514b5c11081f1a5.500x333x1.jpg",
+       "id": 1108010,
+       "image_url": "https://images.genius.com/8d7bc7b0d6188a564b2b0cc553fbe199.899x899x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Top Dawg Entertainment",
+       "url": "https://genius.com/artists/Top-dawg-entertainment"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 66978,
+    "annotator_login": "Chigz",
+    "api_path": "/referents/3564274",
+    "classification": "accepted",
+    "fragment": "ILLuminate",
+    "id": 3564274,
+    "is_description": true,
+    "path": "/3564274/Ab-soul-illuminate/Illuminate",
+    "range": {
+     "content": "ILLuminate"
+    },
+    "song_id": 73615,
+    "url": "https://genius.com/3564274/Ab-soul-illuminate/Illuminate",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/73615",
+     "client_timestamps": {
+      "updated_by_human_at": 1673817775,
+      "lyrics_updated_at": 1673817775
+     },
+     "context": "Ab-Soul",
+     "id": 73615,
+     "image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+     "link_title": "ILLuminate by\u00a0Ab-Soul (Ft.\u00a0Kendrick\u00a0Lamar)",
+     "title": "ILLuminate",
+     "type": "Song",
+     "url": "https://genius.com/Ab-soul-illuminate-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3564274",
+      "body": {
+       "plain": "One half of Black Hippy rock bars over Skyhe Hutch\u2019s stripped down production, speaking of perseverance, attitudes, legacies and HiiiPoWeR. This is one of the most talked about songs from \u201cControl System,\u201d mainly because of the oft-misinterpreted lines about Jay-Z. You\u2019ll notice it\u2019s peppered with references to him, and speaking of this with Complex Magazine Soulo said:\n\n\nMy favorite rapper of all time is Jay-Z hands down. For sure, I probably have been the most inspired by him lyrically. It doesn\u2019t feel like it\u2019s jocking or biting [when I quote Jay-Z in my rhymes]. It\u2019s not. Being a fan of hip-hop, just what I\u2019ve seen done time and time again.\n\nI\u2019m 25 now man, I try to remember that. I\u2019m 25 now. I see myself with those guys, so I just want everybody to know that that\u2019s how I feel. When you speak of me I want you to speak of me amongst them. That\u2019s the only statement that I\u2019m trying to make. But at the same time you incorporate the lyrics.\n\nEverybody is talking about my Jay-Z line off \u2018Illuminate\u2019 but, the majority of the song was inspired by Jay-Z. If you\u2019re a big fan of Jay-Z you can hear it. That\u2019s what it was about. And I hope Jay gets a chance to hear it. If he is who I think he is, then he should understand exactly what I intended to do with that. I was paying homage but letting him know, we coming. You got some new young cats on your heels now. That\u2019s all\u2026\n\n\nWatch Soul decode this with Jay-Z\u2019s Life+Times below:\n\nhttp://www.youtube.com/watch?v=p-n9bPiIBwI\n\nThe sample used here is an unusual one, specifically of Madonna\u2019s \u201cLive to Tell\u201d.\n\nA music video, directed by Fredo Tovar and Scott Fleishman, was released on January 15, 2013 and can be found below.\n\nhttps://www.youtube.com/watch?v=DszIoEP8OAo"
+      },
+      "comment_count": 4,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3564274,
+      "pinned": false,
+      "share_url": "https://genius.com/3564274",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3564274/Ab-soul-illuminate/Illuminate",
+      "verified": false,
+      "votes_total": 37,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8044077134986226,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2670",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/aee9c7c4a7b88244a20e20d7f64e71ac",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/aee9c7c4a7b88244a20e20d7f64e71ac",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/aee9c7c4a7b88244a20e20d7f64e71ac",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/aee9c7c4a7b88244a20e20d7f64e71ac",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/aee9c7c4a7b88244a20e20d7f64e71ac",
+         "human_readable_role_for_display": "Editor",
+         "id": 2670,
+         "iq": 49932,
+         "login": "Riptide",
+         "name": "Riptide",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Riptide",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.14049586776859505,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1431982",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/fafbf59eab47d1fc30781eb57e560fc2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/fafbf59eab47d1fc30781eb57e560fc2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1431982,
+         "iq": 613,
+         "login": "ThatSoundGood",
+         "name": "ThatSoundGood",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ThatSoundGood",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03581267217630854,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/174558",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 174558,
+         "iq": 26555,
+         "login": "borealis",
+         "name": "borealis",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/borealis",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.011019283746556474,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/114981",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/114981_IMAG0460.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290206_114981_IMAG0460.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290207_114981_IMAG0460.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290206_114981_IMAG0460.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290206_114981_IMAG0460.jpg",
+         "human_readable_role_for_display": null,
+         "id": 114981,
+         "iq": 203,
+         "login": "doubleentendre",
+         "name": "doubleentendre",
+         "role_for_display": null,
+         "url": "https://genius.com/doubleentendre",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.008264462809917356,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/66978",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/YCfGdDhkTGWI3wtHiCx2.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/YCfGdDhkTGWI3wtHiCx2.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/YCfGdDhkTGWI3wtHiCx2.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/YCfGdDhkTGWI3wtHiCx2.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/YCfGdDhkTGWI3wtHiCx2.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 66978,
+         "iq": 2905,
+         "login": "Chigz",
+         "name": "Chigz",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Chigz",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 55,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DszIoEP8OAo"
+    },
+    {
+     "native_uri": "spotify:track:3tK9aXMLi2QSMvxAS7rpv5",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3tK9aXMLi2QSMvxAS7rpv5"
+    },
+    {
+     "attribution": "topdawgent",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/topdawgent/10-illuminate"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27478",
+     "header_image_url": "https://images.genius.com/0e1eb79fcc46b4684886cbf2e9a18ee2.773x1000x1.jpg",
+     "id": 27478,
+     "image_url": "https://images.genius.com/eac7fd32c0c54c61f1ec3f49bed52ea4.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Skhye Hutch",
+     "url": "https://genius.com/artists/Skhye-hutch",
+     "iq": 112
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 43,
+       "api_path": "/songs/324",
+       "artist_names": "Dr. Dre (Ft. Eminem, Eminem, Xzibit & Xzibit)",
+       "full_title": "What's the Difference by\u00a0Dr.\u00a0Dre (Ft.\u00a0Eminem, Eminem, Xzibit & Xzibit)",
+       "header_image_thumbnail_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.300x300x1.png",
+       "header_image_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.999x999x1.png",
+       "id": 324,
+       "language": "en",
+       "lyrics_owner_id": 107,
+       "lyrics_state": "complete",
+       "path": "/Dr-dre-whats-the-difference-lyrics",
+       "pyongs_count": 87,
+       "relationships_index_url": "https://genius.com/Dr-dre-whats-the-difference-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 1999",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.999x999x1.png",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "hot": false,
+        "pageviews": 867080
+       },
+       "title": "What\u2019s the Difference",
+       "title_with_featured": "What's the Difference (Ft.\u00a0Eminem, Eminem, Xzibit & Xzibit)",
+       "url": "https://genius.com/Dr-dre-whats-the-difference-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/45",
+         "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+         "id": 45,
+         "image_url": "https://images.genius.com/76c536a17ca35f7edd1f78e129609fe0.573x573x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Eminem",
+         "url": "https://genius.com/artists/Eminem",
+         "iq": 257995
+        },
+        {
+         "api_path": "/artists/291",
+         "header_image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "id": 291,
+         "image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Xzibit",
+         "url": "https://genius.com/artists/Xzibit"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/123",
+        "header_image_url": "https://images.genius.com/8f996b7d602ce42fea2b8f62d45442f2.660x371x1.png",
+        "id": 123,
+        "image_url": "https://images.genius.com/3c8cbbf8a3bd237a684c0bd81115ff0b.576x576x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dr. Dre",
+        "url": "https://genius.com/artists/Dr-dre"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6787934",
+       "artist_names": "RAWINTHEVOID",
+       "full_title": "Criminal Minds by\u00a0RAWINTHEVOID",
+       "header_image_thumbnail_url": "https://images.genius.com/97c275689412e24fd851b8a8472f6726.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/97c275689412e24fd851b8a8472f6726.700x700x1.jpg",
+       "id": 6787934,
+       "language": "en",
+       "lyrics_owner_id": 13075398,
+       "lyrics_state": "complete",
+       "path": "/Rawinthevoid-criminal-minds-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rawinthevoid-criminal-minds-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 22
+       },
+       "release_date_for_display": "February 22, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 22, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/97c275689412e24fd851b8a8472f6726.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/97c275689412e24fd851b8a8472f6726.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Criminal Minds",
+       "title_with_featured": "Criminal Minds",
+       "url": "https://genius.com/Rawinthevoid-criminal-minds-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2339085",
+        "header_image_url": "https://images.genius.com/c2f51f8bbe230b7ca898c302f2054d0e.975x180x1.png",
+        "id": 2339085,
+        "image_url": "https://images.genius.com/ad4c9cf4779c9bc3dfe8024518f9087e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "RAWINTHEVOID",
+        "url": "https://genius.com/artists/Rawinthevoid"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": "https://genius.com/Ab-soul-illuminate-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 18,
+       "api_path": "/songs/62932",
+       "artist_names": "Kendrick Lamar",
+       "full_title": "Wanna Be Heard by\u00a0Kendrick\u00a0Lamar",
+       "header_image_thumbnail_url": "https://images.genius.com/de49545ec6453e829bb3ff6d34d088db.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/de49545ec6453e829bb3ff6d34d088db.1000x1000x1.jpg",
+       "id": 62932,
+       "language": "en",
+       "lyrics_owner_id": 62425,
+       "lyrics_state": "complete",
+       "path": "/Kendrick-lamar-wanna-be-heard-lyrics",
+       "pyongs_count": 6,
+       "relationships_index_url": "https://genius.com/Kendrick-lamar-wanna-be-heard-sample",
+       "release_date_components": {
+        "year": 2009,
+        "month": 12,
+        "day": 31
+       },
+       "release_date_for_display": "December 31, 2009",
+       "release_date_with_abbreviated_month_for_display": "Dec. 31, 2009",
+       "song_art_image_thumbnail_url": "https://images.genius.com/de49545ec6453e829bb3ff6d34d088db.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/de49545ec6453e829bb3ff6d34d088db.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 68764
+       },
+       "title": "Wanna Be Heard",
+       "title_with_featured": "Wanna Be Heard",
+       "url": "https://genius.com/Kendrick-lamar-wanna-be-heard-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1421",
+        "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+        "id": 1421,
+        "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Kendrick Lamar",
+        "url": "https://genius.com/artists/Kendrick-lamar",
+        "iq": 54509
+       }
+      },
+      {
+       "annotation_count": 22,
+       "api_path": "/songs/51801",
+       "artist_names": "Kendrick Lamar",
+       "full_title": "A.D.H.D by\u00a0Kendrick\u00a0Lamar",
+       "header_image_thumbnail_url": "https://images.genius.com/1f3cde1d04f886d4d4eb88a2c26a4e4d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1f3cde1d04f886d4d4eb88a2c26a4e4d.1000x1000x1.jpg",
+       "id": 51801,
+       "language": "en",
+       "lyrics_owner_id": 12317,
+       "lyrics_state": "complete",
+       "path": "/Kendrick-lamar-adhd-lyrics",
+       "pyongs_count": 474,
+       "relationships_index_url": "https://genius.com/Kendrick-lamar-adhd-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 7,
+        "day": 2
+       },
+       "release_date_for_display": "July 2, 2011",
+       "release_date_with_abbreviated_month_for_display": "Jul. 2, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1f3cde1d04f886d4d4eb88a2c26a4e4d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1f3cde1d04f886d4d4eb88a2c26a4e4d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 2354202
+       },
+       "title": "A.D.H.D",
+       "title_with_featured": "A.D.H.D",
+       "url": "https://genius.com/Kendrick-lamar-adhd-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1421",
+        "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+        "id": 1421,
+        "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Kendrick Lamar",
+        "url": "https://genius.com/artists/Kendrick-lamar",
+        "iq": 54509
+       }
+      },
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/55589",
+       "artist_names": "Drake (Ft. Rick Ross)",
+       "full_title": "Free Spirit by\u00a0Drake (Ft.\u00a0Rick\u00a0Ross)",
+       "header_image_thumbnail_url": "https://images.genius.com/b61712fd1ae500320454074cc3f2e906.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b61712fd1ae500320454074cc3f2e906.500x500x1.jpg",
+       "id": 55589,
+       "language": "en",
+       "lyrics_owner_id": 7,
+       "lyrics_state": "complete",
+       "path": "/Drake-free-spirit-lyrics",
+       "pyongs_count": 37,
+       "relationships_index_url": "https://genius.com/Drake-free-spirit-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 9,
+        "day": 10
+       },
+       "release_date_for_display": "September 10, 2011",
+       "release_date_with_abbreviated_month_for_display": "Sep. 10, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b61712fd1ae500320454074cc3f2e906.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b61712fd1ae500320454074cc3f2e906.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 373379
+       },
+       "title": "Free Spirit",
+       "title_with_featured": "Free Spirit (Ft.\u00a0Rick\u00a0Ross)",
+       "url": "https://genius.com/Drake-free-spirit-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/88",
+         "header_image_url": "https://images.genius.com/63765912cb46406696fba044850e3c1d.770x588x1.jpg",
+         "id": 88,
+         "image_url": "https://images.genius.com/3dce21029cdd8aab73eb473e015807d5.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Rick Ross",
+         "url": "https://genius.com/artists/Rick-ross",
+         "iq": 5082
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/130",
+        "header_image_url": "https://images.genius.com/50b41d1da8dfd60548a6c9f2afa9b1b1.480x270x54.gif",
+        "id": 130,
+        "image_url": "https://images.genius.com/4e793216ac5eb88b8e8b7fc11b2e6521.548x548x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Drake",
+        "url": "https://genius.com/artists/Drake"
+       }
+      },
+      {
+       "annotation_count": 43,
+       "api_path": "/songs/324",
+       "artist_names": "Dr. Dre (Ft. Eminem, Eminem, Xzibit & Xzibit)",
+       "full_title": "What's the Difference by\u00a0Dr.\u00a0Dre (Ft.\u00a0Eminem, Eminem, Xzibit & Xzibit)",
+       "header_image_thumbnail_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.300x300x1.png",
+       "header_image_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.999x999x1.png",
+       "id": 324,
+       "language": "en",
+       "lyrics_owner_id": 107,
+       "lyrics_state": "complete",
+       "path": "/Dr-dre-whats-the-difference-lyrics",
+       "pyongs_count": 87,
+       "relationships_index_url": "https://genius.com/Dr-dre-whats-the-difference-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 1999",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/1b216b71132c798c2c54f6cdc76f0f0d.999x999x1.png",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "hot": false,
+        "pageviews": 867080
+       },
+       "title": "What\u2019s the Difference",
+       "title_with_featured": "What's the Difference (Ft.\u00a0Eminem, Eminem, Xzibit & Xzibit)",
+       "url": "https://genius.com/Dr-dre-whats-the-difference-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/45",
+         "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+         "id": 45,
+         "image_url": "https://images.genius.com/76c536a17ca35f7edd1f78e129609fe0.573x573x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Eminem",
+         "url": "https://genius.com/artists/Eminem",
+         "iq": 257995
+        },
+        {
+         "api_path": "/artists/291",
+         "header_image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "id": 291,
+         "image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Xzibit",
+         "url": "https://genius.com/artists/Xzibit"
+        },
+        {
+         "api_path": "/artists/45",
+         "header_image_url": "https://images.genius.com/7879bf220b8614a7fe4617006f132a92.1000x391x1.png",
+         "id": 45,
+         "image_url": "https://images.genius.com/76c536a17ca35f7edd1f78e129609fe0.573x573x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Eminem",
+         "url": "https://genius.com/artists/Eminem",
+         "iq": 257995
+        },
+        {
+         "api_path": "/artists/291",
+         "header_image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "id": 291,
+         "image_url": "https://images.genius.com/fce1e2b08952b1596484d7ea9ce00db2.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Xzibit",
+         "url": "https://genius.com/artists/Xzibit"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/123",
+        "header_image_url": "https://images.genius.com/8f996b7d602ce42fea2b8f62d45442f2.660x371x1.png",
+        "id": 123,
+        "image_url": "https://images.genius.com/3c8cbbf8a3bd237a684c0bd81115ff0b.576x576x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dr. Dre",
+        "url": "https://genius.com/artists/Dr-dre"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Ab-soul-illuminate-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 23,
+       "api_path": "/songs/387311",
+       "artist_names": "Christon Gray (Ft. JGivens)",
+       "full_title": "Wanna by\u00a0Christon\u00a0Gray (Ft.\u00a0JGivens)",
+       "header_image_thumbnail_url": "https://images.genius.com/140577ba76a8689496fdad8a92318ea2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/140577ba76a8689496fdad8a92318ea2.1000x1000x1.jpg",
+       "id": 387311,
+       "language": "en",
+       "lyrics_owner_id": 301639,
+       "lyrics_state": "complete",
+       "path": "/Christon-gray-wanna-lyrics",
+       "pyongs_count": 13,
+       "relationships_index_url": "https://genius.com/Christon-gray-wanna-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 3,
+        "day": 25
+       },
+       "release_date_for_display": "March 25, 2014",
+       "release_date_with_abbreviated_month_for_display": "Mar. 25, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/140577ba76a8689496fdad8a92318ea2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/140577ba76a8689496fdad8a92318ea2.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 16,
+        "hot": false,
+        "pageviews": 15099
+       },
+       "title": "Wanna",
+       "title_with_featured": "Wanna (Ft.\u00a0JGivens)",
+       "url": "https://genius.com/Christon-gray-wanna-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/145917",
+         "header_image_url": "https://images.genius.com/c2a0b361dbbb30276ce9257bf87e0ac4.809x809x1.jpg",
+         "id": 145917,
+         "image_url": "https://images.genius.com/f8f9115f8df3ad26c675f02e5d9e54b1.400x400x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "JGivens",
+         "url": "https://genius.com/artists/Jgivens",
+         "iq": 835
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/24105",
+        "header_image_url": "https://images.genius.com/f1eea4e76c9e7c5566a02ca9c05c9c5d.565x640x1.jpg",
+        "id": 24105,
+        "image_url": "https://images.genius.com/5ab3d15eb8c249580562c1f675cc8b6d.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Christon Gray",
+        "url": "https://genius.com/artists/Christon-gray",
+        "iq": 117
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/98423",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 98423,
+     "iq": 16955,
+     "login": "ab-soul",
+     "name": "Ab-Soul",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ab-soul",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/2049",
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "id": 2049,
+      "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ab-Soul",
+      "url": "https://genius.com/artists/Ab-soul",
+      "iq": 16955
+     },
+     "user": {
+      "api_path": "/users/98423",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 98423,
+      "iq": 16955,
+      "login": "ab-soul",
+      "name": "Ab-Soul",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ab-soul",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 54509
+    },
+    {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    }
+   ],
+   "artist": "Ab-Soul",
+   "lyrics": "175 ContributorsILLuminate Lyrics[Produced by Skhye Hutch]\n\n[Verse 1: Ab-Soul]\nBack when I first grabbed that pen\nI told myself I was gon' win\nAnd I ain't know when\nBut it was gon' end up happenin', I want in\nSo you can take your top 5 list\nDead or alive, and put me after Em\nI'm a fuckin' genius\nGrippin' my fuckin' penis, livin' this life\nYou can't tell me nothin'\nStill ain't really got no money, fuckin' right\nI'm all about that real, about that real\nThis ain't no motion picture\nI tell you how that feel, how that feel\nEven when the odds against you\nThey wanna see me wearin' Polo drawers\nPut two chains on, and that ain't wrong\nBut that ain't me, I go too damn hard\nI don't need clothes or jewelry to stand out\nBlack lip nigga with his hair wild, too damn proud\nBeen killin' this since Cam made \"Oh Boy\"\nOh boy, I'm the man now\nTDE, put the money in my hand, ain't shit free\nThis business is quick sand and I won't sink\nPut the pistol in my hand and I won't think\nBlat, blat, blat! Rest in peace\nYou just made room for the next to be\nI never been afraid to say what I wanna say\nWhen I wanna say it, okay then\nFurthermore, we do this for y'all\nRap is stressin', but it pays great\nThat is, until you lose appeal\nAnd your release date get date raped\nStay safe, hold your head\nI got two fish and a loaf of bread\nFeed the people food for thought\n\u2018Cause we all equal, who'd have thought?\n[Chorus: Ab-Soul & Kendrick Lamar]\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nYou can have all my shine, I'll give you the light\nYou can have all my shine, I'll give you the light\n\n[Verse 2: Ab-Soul]\nI used to wanna rap like Jay Z\nNow I feel I could run laps 'round Jay Z\nNas ain't seen nothin' this nasty\nBIG and Pac got it comin' when I pass, too\nYou got the mic? I ain't the one you wanna pass to\nMy niggas say my new shit past due\nI paid dues, even got that shit tattooed\nHiiiPower on another plateau\nI know you know we need a few plaques too\nThe brand new niggas with a attitude\nPoppin' in Compton or Timbuktu\nI might even sell my new shit for ten bucks too\nToo ill when I jot these words, true eel when I shock the world\nI know life's a bitch\nWhen you know life's a bitch, then that's not your girl\nCold shit, I'm hot though, like coal get, Ab-Soul\nThis is a shift in paradigm\nI remember when I couldn't spare a dime\nNow I step in with a pair of dimes, on P's, y'all know me\nFlow like water, admiralty, the best author ever to breathe\nAnd as we proceed to follow these dreams, I ain't losin' no sleep\nNo-no on them NoDoz, just know \"no\" if it's no dough\nSo high, but I'm Soulo, two cups and I sip slow\nTakin' my time, we don't just shine, we illuminate the whole show\nNow let's go!\nYou might also like[Chorus: Ab-Soul & Kendrick Lamar]\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nYou can have all my shine, I'll give you the light\nYou can have all my shine, I'll give you the light\n[Verse 3: Kendrick Lamar]\nTime and time, I drop line for line but only time will tell\nIf I ever go Columbine and cop thirty 9s and cock back and kill\nSee, the truth is they wanna know\nHow close me, Dre, and Snoop is\nOr how the shoe fits when they choose this\nTo beat 2Pac, but truth, I give two shits\n'Bout expectations or critics hatin'\nShit, I just put Moms on vacation\nBitch, you never know my new location, it's across nations\nCourt cases get thrown out\nSo tell the mothafuckin' king dethrone now\nI am ruler, I am highness, the Prince Zamunda\nI am the shit like what the prune does\nBlack on black tint like Kinte Kunta\nBlack is back, bitch, I'm kin to Kunta\nBlack-on-black crime resent the shooter\nBlat, blat, blat! I intend to mute ya\nRacks on racks, I don't rap on tracks\nWithout my A-game, so please don't ask me about no pressure\nBitch, with the grip of my fingertip I can hold this coast together\n[Chorus: Ab-Soul & Kendrick Lamar]\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nThey wanna share my light, they wanna share my light\nYou can have all my shine, I'll give you the light\nYou can have all my shine, I'll give you the light90Embed"
+  },
+  {
+   "annotation_count": 43,
+   "api_path": "/songs/73852",
+   "artist_names": "Ab-Soul (Ft. Black Hippy)",
+   "full_title": "Black Lip Bastard (Remix) by\u00a0Ab-Soul (Ft.\u00a0Black\u00a0Hippy)",
+   "header_image_thumbnail_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+   "id": 73852,
+   "language": "en",
+   "lyrics_owner_id": 90512,
+   "lyrics_state": "complete",
+   "path": "/Ab-soul-black-lip-bastard-remix-lyrics",
+   "pyongs_count": 57,
+   "relationships_index_url": "https://genius.com/Ab-soul-black-lip-bastard-remix-sample",
+   "release_date_components": {
+    "year": 2012,
+    "month": 5,
+    "day": 11
+   },
+   "release_date_for_display": "May 11, 2012",
+   "release_date_with_abbreviated_month_for_display": "May. 11, 2012",
+   "song_art_image_thumbnail_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 37,
+    "contributors": 203,
+    "iq_earners": 203,
+    "transcribers": 6,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 5,
+    "hot": false,
+    "pageviews": 376490
+   },
+   "title": "Black Lip Bastard (Remix)",
+   "title_with_featured": "Black Lip Bastard (Remix) (Ft.\u00a0Black\u00a0Hippy)",
+   "url": "https://genius.com/Ab-soul-black-lip-bastard-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/17985",
+     "header_image_url": "https://images.genius.com/24f1683399b01c52d5879ded8777033f.495x495x1.jpg",
+     "id": 17985,
+     "image_url": "https://images.genius.com/24f1683399b01c52d5879ded8777033f.495x495x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Black Hippy",
+     "url": "https://genius.com/artists/Black-hippy"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/2049",
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+    "id": 2049,
+    "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ab-Soul",
+    "url": "https://genius.com/artists/Ab-soul",
+    "iq": 16955
+   },
+   "apple_music_id": "525933500",
+   "apple_music_player_url": "https://genius.com/songs/73852/apple_music_player",
+   "description": {
+    "plain": "This Black Hippy posse-cut, produced by in-house T.D.E. producer Willie B, is a remix of Ab-Soul\u2019s \u201cBlack Lip Bastard\u201d included on Control System as a bonus track.\n\nThe track thoroughly samples piano notes from Donny Hathaway\u2019s \u201cA Song For You,\u201d and a short sample of his up-pitched voice can be heard in the intro of the track."
+   },
+   "embed_content": "<div id='rg_embed_link_73852' class='rg_embed_link' data-song-id='73852'>Read <a href='https://genius.com/Ab-soul-black-lip-bastard-remix-lyrics'>\u201cBlack Lip Bastard (Remix)\u201d by Ab-Soul</a> on Genius</div> <script crossorigin src='//genius.com/songs/73852/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2012-05-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/16352",
+    "cover_art_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+    "full_title": "Control System  by Ab-Soul",
+    "id": 16352,
+    "name": "Control System ",
+    "release_date_for_display": "May 11, 2012",
+    "url": "https://genius.com/albums/Ab-soul/Control-system",
+    "artist": {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Video Editor",
+     "artists": [
+      {
+       "api_path": "/artists/43977",
+       "header_image_url": "https://images.genius.com/2014ee15f7e69e2e1de25bad76fbda89.255x255x1.png",
+       "id": 43977,
+       "image_url": "https://images.genius.com/2014ee15f7e69e2e1de25bad76fbda89.255x255x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "MP Williams",
+       "url": "https://genius.com/artists/Mp-williams"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/1809809",
+       "header_image_url": "https://images.genius.com/c8d7c3c829cee0d38c323dccd033286a.400x400x1.jpg",
+       "id": 1809809,
+       "image_url": "https://images.genius.com/c8d7c3c829cee0d38c323dccd033286a.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TheICU",
+       "url": "https://genius.com/artists/Theicu"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4123,
+    "annotator_login": "DPK",
+    "api_path": "/referents/3564505",
+    "classification": "accepted",
+    "fragment": "Black Lip Bastard (Remix)",
+    "id": 3564505,
+    "is_description": true,
+    "path": "/3564505/Ab-soul-black-lip-bastard-remix/Black-lip-bastard-remix",
+    "range": {
+     "content": "Black Lip Bastard (Remix)"
+    },
+    "song_id": 73852,
+    "url": "https://genius.com/3564505/Ab-soul-black-lip-bastard-remix/Black-lip-bastard-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/73852",
+     "client_timestamps": {
+      "updated_by_human_at": 1671235753,
+      "lyrics_updated_at": 1671235754
+     },
+     "context": "Ab-Soul",
+     "id": 73852,
+     "image_url": "https://images.genius.com/36147c3e9b6fcfa747233bb1c340f424.500x500x1.jpg",
+     "link_title": "Black Lip Bastard (Remix) by\u00a0Ab-Soul (Ft.\u00a0Black\u00a0Hippy)",
+     "title": "Black Lip Bastard (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Ab-soul-black-lip-bastard-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3564505",
+      "body": {
+       "plain": "This Black Hippy posse-cut, produced by in-house T.D.E. producer Willie B, is a remix of Ab-Soul\u2019s \u201cBlack Lip Bastard\u201d included on Control System as a bonus track.\n\nThe track thoroughly samples piano notes from Donny Hathaway\u2019s \u201cA Song For You,\u201d and a short sample of his up-pitched voice can be heard in the intro of the track."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3564505,
+      "pinned": false,
+      "share_url": "https://genius.com/3564505",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3564505/Ab-soul-black-lip-bastard-remix/Black-lip-bastard-remix",
+      "verified": false,
+      "votes_total": 33,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.53125,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/923739",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f1ba6e6a384117b22ce0542051b64e60",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f1ba6e6a384117b22ce0542051b64e60",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f1ba6e6a384117b22ce0542051b64e60",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f1ba6e6a384117b22ce0542051b64e60",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f1ba6e6a384117b22ce0542051b64e60",
+         "human_readable_role_for_display": "Editor",
+         "id": 923739,
+         "iq": 101924,
+         "login": "theKuzG",
+         "name": "The Kuz Giacometti",
+         "role_for_display": "editor",
+         "url": "https://genius.com/theKuzG",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.359375,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/993805",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ruar8gm48qe",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/73c9ellj2f7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 993805,
+         "iq": 82577,
+         "login": "StayInTheHouse",
+         "name": "StayInTheHouse",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/StayInTheHouse",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.09375,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/328414",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/444312de15d3cc6b0f6dafbca8d8d240.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/444312de15d3cc6b0f6dafbca8d8d240.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/444312de15d3cc6b0f6dafbca8d8d240.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/444312de15d3cc6b0f6dafbca8d8d240.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/444312de15d3cc6b0f6dafbca8d8d240.jpeg",
+         "human_readable_role_for_display": null,
+         "id": 328414,
+         "iq": 173,
+         "login": "DanielBoya",
+         "name": "DanielBoya",
+         "role_for_display": null,
+         "url": "https://genius.com/DanielBoya",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.015625,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4123",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/4123_images.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288171_4123_images.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288172_4123_images.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288171_4123_images.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288171_4123_images.jpeg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4123,
+         "iq": 33766,
+         "login": "DPK",
+         "name": "DPK",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DPK",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "topdawgent",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/topdawgent/ab-soul-black-lip-bastard"
+    },
+    {
+     "provider": "youtube",
+     "start": 8,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=y9kncHM9nFk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27776",
+     "header_image_url": "https://images.genius.com/b95456ce187d5e422b81494eb97d7ab1.500x500x1.jpg",
+     "id": 27776,
+     "image_url": "https://images.genius.com/b95456ce187d5e422b81494eb97d7ab1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Willie B",
+     "url": "https://genius.com/artists/Willie-b",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/2284399",
+       "artist_names": "Donny Hathaway",
+       "full_title": "A Song for You by\u00a0Donny\u00a0Hathaway",
+       "header_image_thumbnail_url": "https://images.genius.com/3f532fad41de391706cab4e90896d096.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3f532fad41de391706cab4e90896d096.1000x999x1.jpg",
+       "id": 2284399,
+       "language": "en",
+       "lyrics_owner_id": 1277,
+       "lyrics_state": "complete",
+       "path": "/Donny-hathaway-a-song-for-you-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Donny-hathaway-a-song-for-you-sample",
+       "release_date_components": {
+        "year": 1971,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1971",
+       "release_date_with_abbreviated_month_for_display": "1971",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3f532fad41de391706cab4e90896d096.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3f532fad41de391706cab4e90896d096.1000x999x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false,
+        "pageviews": 143897
+       },
+       "title": "A Song for You",
+       "title_with_featured": "A Song for You",
+       "url": "https://genius.com/Donny-hathaway-a-song-for-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/56468",
+        "header_image_url": "https://images.genius.com/2df3ca5c872ca1f8f3409aec0fe90f6f.1000x691x1.jpg",
+        "id": 56468,
+        "image_url": "https://images.genius.com/d89404f3007cbbe0396c5257fac63c2d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Donny Hathaway",
+        "url": "https://genius.com/artists/Donny-hathaway"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/8616488",
+       "artist_names": "Ab-Soul",
+       "full_title": "FOMF by\u00a0Ab-Soul",
+       "header_image_thumbnail_url": "https://images.genius.com/30d2db0cd0f5d3c5d986e41ff2749b95.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/30d2db0cd0f5d3c5d986e41ff2749b95.1000x1000x1.jpg",
+       "id": 8616488,
+       "language": "en",
+       "lyrics_owner_id": 3065281,
+       "lyrics_state": "complete",
+       "path": "/Ab-soul-fomf-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ab-soul-fomf-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 16
+       },
+       "release_date_for_display": "December 16, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 16, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/30d2db0cd0f5d3c5d986e41ff2749b95.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/30d2db0cd0f5d3c5d986e41ff2749b95.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 11710
+       },
+       "title": "FOMF",
+       "title_with_featured": "FOMF",
+       "url": "https://genius.com/Ab-soul-fomf-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2049",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+        "id": 2049,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ab-Soul",
+        "url": "https://genius.com/artists/Ab-soul",
+        "iq": 16955
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/63727",
+       "artist_names": "Ab-Soul",
+       "full_title": "Black Lip Bastard by\u00a0Ab-Soul",
+       "header_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+       "id": 63727,
+       "language": "en",
+       "lyrics_owner_id": 66028,
+       "lyrics_state": "complete",
+       "path": "/Ab-soul-black-lip-bastard-lyrics",
+       "pyongs_count": 14,
+       "relationships_index_url": "https://genius.com/Ab-soul-black-lip-bastard-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 1,
+        "day": 17
+       },
+       "release_date_for_display": "January 17, 2012",
+       "release_date_with_abbreviated_month_for_display": "Jan. 17, 2012",
+       "song_art_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+       "song_art_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 51929
+       },
+       "title": "Black Lip Bastard",
+       "title_with_featured": "Black Lip Bastard",
+       "url": "https://genius.com/Ab-soul-black-lip-bastard-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2049",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+        "id": 2049,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Ab-Soul",
+        "url": "https://genius.com/artists/Ab-soul",
+        "iq": 16955
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/98423",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 98423,
+     "iq": 16955,
+     "login": "ab-soul",
+     "name": "Ab-Soul",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ab-soul",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    },
+    {
+     "api_path": "/users/117985",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/1aeb211a252f228b0ae0a4b6bac511a9",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/1aeb211a252f228b0ae0a4b6bac511a9",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/1aeb211a252f228b0ae0a4b6bac511a9",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/1aeb211a252f228b0ae0a4b6bac511a9",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 117985,
+     "iq": 54509,
+     "login": "KendrickLamar",
+     "name": "Kendrick Lamar",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/KendrickLamar",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/2049",
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "id": 2049,
+      "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Ab-Soul",
+      "url": "https://genius.com/artists/Ab-soul",
+      "iq": 16955
+     },
+     "user": {
+      "api_path": "/users/98423",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/3e40561a4e8c2d41327c367e0ba4f1be",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 98423,
+      "iq": 16955,
+      "login": "ab-soul",
+      "name": "Ab-Soul",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ab-soul",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    },
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/1421",
+      "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+      "id": 1421,
+      "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Kendrick Lamar",
+      "url": "https://genius.com/artists/Kendrick-lamar",
+      "iq": 54509
+     },
+     "user": {
+      "api_path": "/users/117985",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/1aeb211a252f228b0ae0a4b6bac511a9",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/1aeb211a252f228b0ae0a4b6bac511a9",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/1aeb211a252f228b0ae0a4b6bac511a9",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/1aeb211a252f228b0ae0a4b6bac511a9",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 117985,
+      "iq": 54509,
+      "login": "KendrickLamar",
+      "name": "Kendrick Lamar",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/KendrickLamar",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2049",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/V0KEkQcNRra8FQUUewiW_ab-soul-dwtw-interview-2.jpg",
+     "id": 2049,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/0sfhqn8qSr0cTamFCJUd_ab-soul-dwtw-interview-3.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ab-Soul",
+     "url": "https://genius.com/artists/Ab-soul",
+     "iq": 16955
+    },
+    {
+     "api_path": "/artists/1421",
+     "header_image_url": "https://images.genius.com/3514a6d32afe88c48f22263e303f55d0.1000x601x1.jpg",
+     "id": 1421,
+     "image_url": "https://images.genius.com/d6d96651b423fa5a83c38ee2a4c6c939.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Kendrick Lamar",
+     "url": "https://genius.com/artists/Kendrick-lamar",
+     "iq": 54509
+    },
+    {
+     "api_path": "/artists/11353",
+     "header_image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+     "id": 11353,
+     "image_url": "https://images.genius.com/e79de87534188a7a50d154e7eb1c6a42.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "ScHoolboy Q",
+     "url": "https://genius.com/artists/Schoolboy-q",
+     "iq": 3386
+    },
+    {
+     "api_path": "/artists/27776",
+     "header_image_url": "https://images.genius.com/b95456ce187d5e422b81494eb97d7ab1.500x500x1.jpg",
+     "id": 27776,
+     "image_url": "https://images.genius.com/b95456ce187d5e422b81494eb97d7ab1.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Willie B",
+     "url": "https://genius.com/artists/Willie-b",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1403",
+     "header_image_url": "https://images.genius.com/342a36ab4005da9cfd3b0292f7a748a1.1000x600x1.jpg",
+     "id": 1403,
+     "image_url": "https://images.genius.com/e1cbef603f6c11cee182adcd55a78a87.421x421x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jay Rock",
+     "url": "https://genius.com/artists/Jay-rock",
+     "iq": 14100
+    }
+   ],
+   "artist": "Ab-Soul",
+   "lyrics": "203 ContributorsBlack Lip Bastard (Remix) Lyrics[Intro: Kendrick Lamar]\nThis what you really want, huh?\nTurn me up, Ali\n\n[Sample: Donny Hathaway]\nI know your image of me\nIs what I hope to be\n\n[Verse 1: Kendrick Lamar]\nBlack lip bastard, pass me your password\nSo I can hack inside your brain\nSee, I too have gone insane\nBefore I fall I'm sure to curse you all in Jesus' name\nLead shower, Anna Peebles hour, bitch stand the rain\nThis what y'all really want\nLet me get it back Ali\nWhen we do- when we do interviews, don't ask me 'bout no movements\nYeah I'm good\nNo crews, no-no posses, no cliquesIf it ain't 'bout TDE I don't wanna hear that shit, bitch\nLook inside my parkin' garage and see a collage\nOf every person I despised since the moment I turned five\nCalculate my steps and strategically took my time\nEven fallin' off, I land on the ass of Nicki Minaj (so soft)\nEat that pink pussy like it's Friday\nBust one, roam and reload, then smoke to Sade\nAnd somebody tell Rihanna too\nI need that vagina too (hey baby)\nDon't fuckin' take me for some kind of fool\nI'm kinda the reminder of knowin' Compton ain't kinda cool\nGood kid, mad city, mountaintops couldn't see my views\nCountertops, we hop over, hit the register, then we move\nI hope this shit can register on a regular soon\nBefore I climb this pedestal\nAnd make you catch my fuckin' stool (bitch)\nK.Dot, leave 'em grievin' on evenin' news\nEven when society break even, I'll break rules\n[Verse 2: Ab-Soul]\nI told niggas, caught wrecked, then I towed niggas\nFold niggas like clothes and drawers, nigga\nHomie chose to go toe-to-toe, I had to break his leg\nLike a clich\u00e9 to rock a show, is that over your head?\nNiggas stretchin' the truth like they choose to do yoga instead\nEither that or they depressed, eatin' yogurt in bed\nSolar system, grab a space shuttle and stay subtle\nThe bass bit the bait, I'm straight, you a gay couple\nI ain't thirsty for the deal, wait and make 'em pay double\nI'm anxious, when the bacon on the table, I need a muzzle\nYou're basic like cable to a satellite dish\nYou was runnin' L.A., now you out of there like Fish\nWhat more can I say? I'm a bastard with black lips\nBlack shirt, black shades, long black dick\nI'm awkward, dog, I'm tryna bargain shop at Saks Fifth\nSwung two axes and knocked the Earth off axis, ask 'em\n\n[Interlude: Ab-Soul, ScHoolboy Q & Kendrick Lamar]\nAnd all we do is it, all we do is do it\nAll we do is do it, all we do is do it (nigga squad)\n(This what you really want)\nAll we do is do it\nAnd all we do is it, all we do is do it\nAll we do is do it, all we do is do it (nigga squad)\n(This what you want, I give up\nLet Puff Daddy talk to you\nThe real Puff Daddy)\nYou might also like[Verse 3: ScHoolboy Q]\nFigg side, black nine, black lips, smoke time\nFuck this rap shit, I'm active\nSuckin' on titties since I was eight\nHoodie with my shades, I ain't tryna be fake\nSo don't be talkin' to me, pussy\nRunnin' your gums like you be Loc'ing\nWhen the world know that you're nookie\nRookie, softer than infant fabric, I won't have it\nWhen the gun drawn, get rat-tat-tat-tat-tat-tatted\nKnow my niggas movin'\nYou hesitatin' to hit the lick, what the fuck is you doin'?\n\n[Verse 4: Ab-Soul]\nPerpetratin', bitches poppin' Percocet and percolatin'\nFreelance for God but do the work of Satan\nWhatever works\nI'm clever with the words if you haven't noticed yet\nLightyears ahead, I'm bright and I like to get oral sex\nSoul brother number one plus one\nGettin' fed like where drugs and guns come from\n\n[Verse 5: Jay Rock]\nAll we do is do it, shittin' on the competition\nTakin' heads off, this Hannibal Lecter music\nYou niggas don't move me, you niggas just movies\nCut straight to them credits and hit you with a Uzi\nPeel off in a dullies, truck bed full of toolies\nGet home, smoke, poke on some coochie\nI'm just fuckin' around, enough with them fairy tales\nBut I bust heads for real, go 'head\u2014\nI'm Jay Rock, you lil' niggas beneath me\nHow you gon' dance with the devil with two left feet?\nPeep, thinkin' you sweet, but you weak\nTalkin' out of turn'll leave all of your teeth in the street\nMama taught you better, never clash with a giant\nUnless you David, remember, my nigga, I'm not Goliath\nFeel the wrath of this titan\nHit some water, call it Poseidon\nWig out, then hit your ass with a trident\nMoney on the table my nigga, you know I'm all in\nIf rap was a drink, you wine, nigga I'm all gin\nHundred proof, recruit a hundred troops who love to shoot\nNo fluke, my nigga, you know that's what us hunters do\nEast side up, Watts City mayhem\nChoppers, they sprayin' from AM to PM\nI'm the silent assassin of the four-headed dragon\nBlack Hippy blastin' a .50 out the back of the Benz Wagon\nToe-taggin' wack rappers off G.P\nYou can't see me, your vision ain't 3D\nYou smokin' on that seaweed, we rollin' up that kiwi\nAnd the Backwood lighted, we high for like three weeks\nYou payin' for that pussy, but we always get freebies\nTop Dawg that ho and throw it like a frisbee, it's history\nYou know the night and day is ours\nTop Dawg conglomerate, Hiii Power, bitch\n[Outro: Kendrick Lamar]\nIs this what y'all really want?\nThis Black Hippy shit what y'all really want?\nWhen I'm in interviews, don't ask me 'bout no crews\nNo posses, no cliques, don't tell me who's gettin' it\nI don't give a fuck, nigga\nI just paid\u2014 I just paid six figures in taxes, nigga\nOff Section.80, on some independent shit\nUncle Sam talkin' 'bout, \"you an old lost relative,\" nigga fuck you\nK-Dot said it, not Kendrick\nAb-Soul the rawest motherfucker on the planet, nigga\nT.D.E., solar system, Control System, beyotch57Embed"
+  }
+ ]
+}

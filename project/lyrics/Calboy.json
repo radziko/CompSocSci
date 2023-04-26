@@ -1,0 +1,4163 @@
+{
+ "alternate_names": [
+  "147 Calboy",
+  "Calvin Woods"
+ ],
+ "api_path": "/artists/1577142",
+ "description": {
+  "plain": "Calvin Woods (b. April 3, 1999), professionally known as Calboy, is a rapper from Calumet City, Chicago, Illinois.\n\nRapping since the 6th grade, he built a hometown fan base with his first mixtape Calboy the Wildboy and breakout, platinum-selling   single \u201cEnvy Me\u201d in 2018.\n\nThe following year, Calboy signed with RCA Records and released his debut studio album, Wildboy, featuring the hit track \u201cChariot\u201d with Meek Mill, Young Thug, and Lil Durk. He dropped a follow-up EP, Long Live the Kings, and its deluxe edition in 2020."
+ },
+ "facebook_name": "CalboyOfficial",
+ "followers_count": 118,
+ "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+ "id": 1577142,
+ "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+ "instagram_name": "147calboy",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Calboy",
+ "translation_artist": false,
+ "twitter_name": "147Calboy",
+ "url": "https://genius.com/artists/Calboy",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1429,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1798850,
+  "annotator_login": "m_brgndi",
+  "api_path": "/referents/15367686",
+  "classification": "accepted",
+  "fragment": "Calboy",
+  "id": 15367686,
+  "is_description": true,
+  "path": "/15367686/Calboy/Calboy",
+  "range": {
+   "content": "Calboy"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15367686/Calboy/Calboy",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1577142",
+   "context": null,
+   "id": 1577142,
+   "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+   "link_title": "Calboy",
+   "title": "Calboy",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Calboy"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15367686",
+    "body": {
+     "plain": "Calvin Woods (b. April 3, 1999), professionally known as Calboy, is a rapper from Calumet City, Chicago, Illinois.\n\nRapping since the 6th grade, he built a hometown fan base with his first mixtape Calboy the Wildboy and breakout, platinum-selling   single \u201cEnvy Me\u201d in 2018.\n\nThe following year, Calboy signed with RCA Records and released his debut studio album, Wildboy, featuring the hit track \u201cChariot\u201d with Meek Mill, Young Thug, and Lil Durk. He dropped a follow-up EP, Long Live the Kings, and its deluxe edition in 2020."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 15367686,
+    "pinned": false,
+    "share_url": "https://genius.com/15367686",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/15367686/Calboy/Calboy",
+    "verified": false,
+    "votes_total": 24,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.367816091954023,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6077694",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6190faab96eb4b6b82e9324fb992e97e",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yza868xytl",
+       "human_readable_role_for_display": "Editor",
+       "id": 6077694,
+       "iq": 112979,
+       "login": "veduta",
+       "name": "veduta",
+       "role_for_display": "editor",
+       "url": "https://genius.com/veduta",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.20689655172413793,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1798850",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/029fbdf1c037b96f4cdc4ddf734c1630",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/029fbdf1c037b96f4cdc4ddf734c1630",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/029fbdf1c037b96f4cdc4ddf734c1630",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/029fbdf1c037b96f4cdc4ddf734c1630",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/029fbdf1c037b96f4cdc4ddf734c1630",
+       "human_readable_role_for_display": "Editor",
+       "id": 1798850,
+       "iq": 69177,
+       "login": "m_brgndi",
+       "name": "\u200bm.brgndi",
+       "role_for_display": "editor",
+       "url": "https://genius.com/m_brgndi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.1724137931034483,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6823762",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8627ad2209e4a151a5b8516991ce9315",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/gx169j8pg6",
+       "human_readable_role_for_display": "Editor",
+       "id": 6823762,
+       "iq": 350091,
+       "login": "PierFrancescoCosta",
+       "name": "PierFrancescoCosta",
+       "role_for_display": "editor",
+       "url": "https://genius.com/PierFrancescoCosta",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.16091954022988506,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6032628",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/y9g0nadb02l",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6032628,
+       "iq": 9533,
+       "login": "bruckily",
+       "name": "bruckily",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/bruckily",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.04597701149425287,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7670677",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7c8d405f377f9c27b227607ed59b70d3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7c8d405f377f9c27b227607ed59b70d3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7c8d405f377f9c27b227607ed59b70d3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7c8d405f377f9c27b227607ed59b70d3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/1b8e33227fc17cb9c8d34ba9f35de366.215x97x15.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 7670677,
+       "iq": 150823,
+       "login": "half-ghoul",
+       "name": "\u200bhalf ghoul",
+       "role_for_display": "editor",
+       "url": "https://genius.com/half-ghoul",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.022988505747126436,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 2709645,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011494252873563218,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7365748",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/bdc93beae7322ceb966cc9b3d91804c8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/bdc93beae7322ceb966cc9b3d91804c8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/bdc93beae7322ceb966cc9b3d91804c8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/bdc93beae7322ceb966cc9b3d91804c8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/bdc93beae7322ceb966cc9b3d91804c8",
+       "human_readable_role_for_display": null,
+       "id": 7365748,
+       "iq": 107,
+       "login": "AnthonyMorandoGonzalez",
+       "name": "AnthonyMorandoGonzalez",
+       "role_for_display": null,
+       "url": "https://genius.com/AnthonyMorandoGonzalez",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.011494252873563218,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/421153",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3fdd66b9a30bf7c4c4174279779c0f25.960x770x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 421153,
+       "iq": 16862,
+       "login": "eddiefu",
+       "name": "Eddie Fu",
+       "role_for_display": "editor",
+       "url": "https://genius.com/eddiefu",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/7589943",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/98d1192c3ac03cb99e8b432aa8bbdd0c",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/98d1192c3ac03cb99e8b432aa8bbdd0c",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/98d1192c3ac03cb99e8b432aa8bbdd0c",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 7589943,
+  "iq": 1429,
+  "login": "calboyofficial",
+  "name": "Calboy",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/calboyofficial",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 19,
+   "api_path": "/songs/3955218",
+   "artist_names": "Calboy",
+   "full_title": "Envy Me by\u00a0Calboy",
+   "header_image_thumbnail_url": "https://images.genius.com/c8f7c3f8242cf52a253480c29a0af643.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c8f7c3f8242cf52a253480c29a0af643.1000x1000x1.jpg",
+   "id": 3955218,
+   "language": "en",
+   "lyrics_owner_id": 366619,
+   "lyrics_state": "complete",
+   "path": "/Calboy-envy-me-lyrics",
+   "pyongs_count": 45,
+   "relationships_index_url": "https://genius.com/Calboy-envy-me-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 3,
+    "day": 13
+   },
+   "release_date_for_display": "March 13, 2018",
+   "release_date_with_abbreviated_month_for_display": "Mar. 13, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c8f7c3f8242cf52a253480c29a0af643.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c8f7c3f8242cf52a253480c29a0af643.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 78,
+    "iq_earners": 78,
+    "transcribers": 4,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 11,
+    "hot": false,
+    "pageviews": 896440
+   },
+   "title": "Envy Me",
+   "title_with_featured": "Envy Me",
+   "url": "https://genius.com/Calboy-envy-me-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1577142",
+    "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "id": 1577142,
+    "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Calboy",
+    "url": "https://genius.com/artists/Calboy",
+    "iq": 1429
+   },
+   "apple_music_id": "1465009487",
+   "apple_music_player_url": "https://genius.com/songs/3955218/apple_music_player",
+   "description": {
+    "plain": "Calboy\u2019s breakout single \u201cEnvy Me\u201d is a two-minute glimpse into his life as a young man growing up in Chicago. Since its release in September, the song has blown up thanks to a viral dance challenge on TikTok."
+   },
+   "embed_content": "<div id='rg_embed_link_3955218' class='rg_embed_link' data-song-id='3955218'>Read <a href='https://genius.com/Calboy-envy-me-lyrics'>\u201cEnvy Me\u201d by Calboy</a> on Genius</div> <script crossorigin src='//genius.com/songs/3955218/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-03-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/527915",
+    "cover_art_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+    "full_title": "Wildboy by Calboy",
+    "id": 527915,
+    "name": "Wildboy",
+    "release_date_for_display": "May 31, 2019",
+    "url": "https://genius.com/albums/Calboy/Wildboy",
+    "artist": {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publishers",
+     "artists": [
+      {
+       "api_path": "/artists/2833458",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2833458,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "2 Girls and a Boy",
+       "url": "https://genius.com/artists/2-girls-and-a-boy"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      }
+     ]
+    },
+    {
+     "label": "Perfomance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1154180",
+       "header_image_url": "https://images.genius.com/962a97d9661663f58342ab9814dcab12.1000x667x1.jpg",
+       "id": 1154180,
+       "image_url": "https://images.genius.com/84836fec667be0e73385c84837318c74.380x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Millice",
+       "url": "https://genius.com/artists/Dan-millice"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1005809",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1005809,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ray Seay",
+       "url": "https://genius.com/artists/Ray-seay"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1168797",
+       "header_image_url": "https://images.genius.com/f69504237b33eaf9c6be72c3e65e7ab3.1000x388x1.jpg",
+       "id": 1168797,
+       "image_url": "https://images.genius.com/06f5b6f0192836d605df1068d7bdf0b5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polo Grounds Music",
+       "url": "https://genius.com/artists/Polo-grounds-music"
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 54639,
+    "annotator_login": "WriteNProppa",
+    "api_path": "/referents/15889741",
+    "classification": "accepted",
+    "fragment": "Envy Me",
+    "id": 15889741,
+    "is_description": true,
+    "path": "/15889741/Calboy-envy-me/Envy-me",
+    "range": {
+     "content": "Envy Me"
+    },
+    "song_id": 3955218,
+    "url": "https://genius.com/15889741/Calboy-envy-me/Envy-me",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3955218",
+     "client_timestamps": {
+      "updated_by_human_at": 1673032878,
+      "lyrics_updated_at": 1664628193
+     },
+     "context": "Calboy",
+     "id": 3955218,
+     "image_url": "https://images.genius.com/c8f7c3f8242cf52a253480c29a0af643.1000x1000x1.jpg",
+     "link_title": "Envy Me by\u00a0Calboy",
+     "title": "Envy Me",
+     "type": "Song",
+     "url": "https://genius.com/Calboy-envy-me-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15889741",
+      "body": {
+       "plain": "Calboy\u2019s breakout single \u201cEnvy Me\u201d is a two-minute glimpse into his life as a young man growing up in Chicago. Since its release in September, the song has blown up thanks to a viral dance challenge on TikTok."
+      },
+      "comment_count": 3,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 15889741,
+      "pinned": false,
+      "share_url": "https://genius.com/15889741",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/15889741/Calboy-envy-me/Envy-me",
+      "verified": false,
+      "votes_total": 66,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/54639",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "human_readable_role_for_display": "Staff",
+         "id": 54639,
+         "iq": 2709645,
+         "login": "WriteNProppa",
+         "name": "WriteNProppa",
+         "role_for_display": "staff",
+         "url": "https://genius.com/WriteNProppa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/2976672",
+    "avatar": {
+     "tiny": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l1pegbzlvms",
+    "human_readable_role_for_display": "Staff",
+    "id": 2976672,
+    "iq": 341546,
+    "login": "Gary",
+    "name": "Gary",
+    "role_for_display": "staff",
+    "url": "https://genius.com/Gary",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:05t7JMip6JrLuSrMV5yYjX",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/05t7JMip6JrLuSrMV5yYjX"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=FhPvceQcfzE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1015153",
+     "header_image_url": "https://images.genius.com/ad6bddfb4d25578017cd3eec01c99c3a.1000x562x1.jpg",
+     "id": 1015153,
+     "image_url": "https://images.genius.com/73f4ec5fb1cd4a12066a862518726f50.607x607x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JTK",
+     "url": "https://genius.com/artists/Jtk"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Calboy-envy-me-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7965016",
+       "artist_names": "Fr33Bandit (Ft. Quelly Woo)",
+       "full_title": "Envy Me by\u00a0Fr33Bandit (Ft.\u00a0Quelly\u00a0Woo)",
+       "header_image_thumbnail_url": "https://images.genius.com/0bf3221ccba27afabd515c417797b75b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0bf3221ccba27afabd515c417797b75b.640x640x1.jpg",
+       "id": 7965016,
+       "language": "en",
+       "lyrics_owner_id": 5771820,
+       "lyrics_state": "complete",
+       "path": "/Fr33bandit-envy-me-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fr33bandit-envy-me-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 27
+       },
+       "release_date_for_display": "September 27, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 27, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0bf3221ccba27afabd515c417797b75b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0bf3221ccba27afabd515c417797b75b.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Envy Me",
+       "title_with_featured": "Envy Me (Ft.\u00a0Quelly\u00a0Woo)",
+       "url": "https://genius.com/Fr33bandit-envy-me-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2426010",
+         "header_image_url": "https://images.genius.com/a478566c5e562a7454d13ed5ed8c26e2.480x270x97.gif",
+         "id": 2426010,
+         "image_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Quelly Woo",
+         "url": "https://genius.com/artists/Quelly-woo"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3117934",
+        "header_image_url": "https://images.genius.com/a3d92c18468448393a4aad94711fcfdb.1000x442x35.gif",
+        "id": 3117934,
+        "image_url": "https://images.genius.com/a793497fe3f93f1efc602538d1f8f3c5.531x531x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fr33Bandit",
+        "url": "https://genius.com/artists/Fr33bandit"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7523743",
+       "artist_names": "\u200bc0ncernn",
+       "full_title": "\u200bnight of the living midtempo EDM bro by\u00a0\u200bc0ncernn",
+       "header_image_thumbnail_url": "https://images.genius.com/f99f3273f68b2c6a017865163c3686bd.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f99f3273f68b2c6a017865163c3686bd.500x500x1.jpg",
+       "id": 7523743,
+       "language": "en",
+       "lyrics_owner_id": 9065843,
+       "lyrics_state": "complete",
+       "path": "/C0ncernn-night-of-the-living-midtempo-edm-bro-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/C0ncernn-night-of-the-living-midtempo-edm-bro-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 24
+       },
+       "release_date_for_display": "December 24, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 24, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f99f3273f68b2c6a017865163c3686bd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f99f3273f68b2c6a017865163c3686bd.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "\u200bnight of the living midtempo EDM bro",
+       "title_with_featured": "\u200bnight of the living midtempo EDM bro",
+       "url": "https://genius.com/C0ncernn-night-of-the-living-midtempo-edm-bro-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2730678",
+        "header_image_url": "https://images.genius.com/8d8a283275427577beb6d0e9296b0dc5.1000x210x1.jpg",
+        "id": 2730678,
+        "image_url": "https://images.genius.com/fad3cecebcfd781d92ca9c18ce3e4fd2.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bc0ncernn",
+        "url": "https://genius.com/artists/C0ncernn"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/6837097",
+       "artist_names": "\u200bc0ncernn",
+       "full_title": "DILF repellent by\u00a0\u200bc0ncernn",
+       "header_image_thumbnail_url": "https://images.genius.com/b67eeac0eb1945589145b516b369807a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b67eeac0eb1945589145b516b369807a.500x500x1.jpg",
+       "id": 6837097,
+       "language": "en",
+       "lyrics_owner_id": 15303756,
+       "lyrics_state": "complete",
+       "path": "/C0ncernn-dilf-repellent-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/C0ncernn-dilf-repellent-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 5,
+        "day": 22
+       },
+       "release_date_for_display": "May 22, 2021",
+       "release_date_with_abbreviated_month_for_display": "May. 22, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b67eeac0eb1945589145b516b369807a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b67eeac0eb1945589145b516b369807a.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "DILF repellent",
+       "title_with_featured": "DILF repellent",
+       "url": "https://genius.com/C0ncernn-dilf-repellent-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2730678",
+        "header_image_url": "https://images.genius.com/8d8a283275427577beb6d0e9296b0dc5.1000x210x1.jpg",
+        "id": 2730678,
+        "image_url": "https://images.genius.com/fad3cecebcfd781d92ca9c18ce3e4fd2.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bc0ncernn",
+        "url": "https://genius.com/artists/C0ncernn"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5389070",
+       "artist_names": "Syto de HGC",
+       "full_title": "Cover/Envy Me (Dirt Take) by\u00a0Syto\u00a0de HGC",
+       "header_image_thumbnail_url": "https://images.genius.com/6756970918f711f44bf5e2a0095eb138.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6756970918f711f44bf5e2a0095eb138.1000x1000x1.png",
+       "id": 5389070,
+       "language": "es",
+       "lyrics_owner_id": 8173442,
+       "lyrics_state": "complete",
+       "path": "/Syto-de-hgc-cover-envy-me-dirt-take-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Syto-de-hgc-cover-envy-me-dirt-take-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 4
+       },
+       "release_date_for_display": "October 4, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 4, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6756970918f711f44bf5e2a0095eb138.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6756970918f711f44bf5e2a0095eb138.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Cover/Envy Me (Dirt Take)",
+       "title_with_featured": "Cover/Envy Me (Dirt Take)",
+       "url": "https://genius.com/Syto-de-hgc-cover-envy-me-dirt-take-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2151284",
+        "header_image_url": "https://images.genius.com/6ba801391689ca89a8a1b52d7578794d.1000x663x1.png",
+        "id": 2151284,
+        "image_url": "https://images.genius.com/9199160bdd2ba3ea192dce792ee7a671.898x898x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Syto de HGC",
+        "url": "https://genius.com/artists/Syto-de-hgc"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5210267",
+       "artist_names": "Calboy",
+       "full_title": "DEAD$ by\u00a0Calboy",
+       "header_image_thumbnail_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+       "id": 5210267,
+       "language": "en",
+       "lyrics_owner_id": 10163697,
+       "lyrics_state": "complete",
+       "path": "/Calboy-dead-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Calboy-dead-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 1,
+        "day": 22
+       },
+       "release_date_for_display": "January 22, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jan. 22, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "DEAD$",
+       "title_with_featured": "DEAD$",
+       "url": "https://genius.com/Calboy-dead-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1577142",
+        "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+        "id": 1577142,
+        "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Calboy",
+        "url": "https://genius.com/artists/Calboy",
+        "iq": 1429
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3998368",
+       "artist_names": "Unknown Artist",
+       "full_title": "Now I Lay Me Down to Sleep by\u00a0Unknown\u00a0Artist",
+       "header_image_thumbnail_url": "https://images.genius.com/393bfda8da80c5024e572eb01cf58020.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/393bfda8da80c5024e572eb01cf58020.900x900x1.jpg",
+       "id": 3998368,
+       "language": "en",
+       "lyrics_owner_id": 2917479,
+       "lyrics_state": "complete",
+       "path": "/Unknown-artist-now-i-lay-me-down-to-sleep-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Unknown-artist-now-i-lay-me-down-to-sleep-sample",
+       "release_date_components": {
+        "year": 1750,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1750",
+       "release_date_with_abbreviated_month_for_display": "1750",
+       "song_art_image_thumbnail_url": "https://images.genius.com/393bfda8da80c5024e572eb01cf58020.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/393bfda8da80c5024e572eb01cf58020.900x900x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Now I Lay Me Down to Sleep",
+       "title_with_featured": "Now I Lay Me Down to Sleep",
+       "url": "https://genius.com/Unknown-artist-now-i-lay-me-down-to-sleep-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/40152",
+        "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+        "id": 40152,
+        "image_url": "https://images.genius.com/393bfda8da80c5024e572eb01cf58020.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Unknown Artist",
+        "url": "https://genius.com/artists/Unknown-artist"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Calboy-envy-me-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/7640005",
+       "artist_names": "Sus",
+       "full_title": "Stickz And Stonez by\u00a0Sus",
+       "header_image_thumbnail_url": "https://images.genius.com/c44000d773fa60107566e1f4f4a6c5c0.300x300x1.png",
+       "header_image_url": "https://images.genius.com/c44000d773fa60107566e1f4f4a6c5c0.1000x1000x1.png",
+       "id": 7640005,
+       "language": "en",
+       "lyrics_owner_id": 10246179,
+       "lyrics_state": "complete",
+       "path": "/Sus-stickz-and-stonez-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sus-stickz-and-stonez-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 6
+       },
+       "release_date_for_display": "February 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 6, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c44000d773fa60107566e1f4f4a6c5c0.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/c44000d773fa60107566e1f4f4a6c5c0.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 14,
+        "hot": false,
+        "pageviews": 6436
+       },
+       "title": "Stickz And Stonez",
+       "title_with_featured": "Stickz And Stonez",
+       "url": "https://genius.com/Sus-stickz-and-stonez-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2165777",
+        "header_image_url": "https://images.genius.com/03b64eb9bdf92a041f7295c714f0f753.600x296x268.gif",
+        "id": 2165777,
+        "image_url": "https://images.genius.com/35bfe27f4ef56739789a3e13538c57c5.218x218x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sus",
+        "url": "https://genius.com/artists/Sus"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7293514",
+       "artist_names": "King Von (Ft. Yungeen Ace)",
+       "full_title": "Takeoff (Hard To Breathe) by\u00a0King\u00a0Von (Ft.\u00a0Yungeen\u00a0Ace)",
+       "header_image_thumbnail_url": "https://images.genius.com/d20965ea3ed5e9ac331ad2ce8438cf9d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d20965ea3ed5e9ac331ad2ce8438cf9d.640x640x1.jpg",
+       "id": 7293514,
+       "language": "en",
+       "lyrics_owner_id": 8597920,
+       "lyrics_state": "complete",
+       "path": "/King-von-takeoff-hard-to-breathe-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/King-von-takeoff-hard-to-breathe-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d20965ea3ed5e9ac331ad2ce8438cf9d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d20965ea3ed5e9ac331ad2ce8438cf9d.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 5802
+       },
+       "title": "Takeoff (Hard To Breathe)",
+       "title_with_featured": "Takeoff (Hard To Breathe) (Ft.\u00a0Yungeen\u00a0Ace)",
+       "url": "https://genius.com/King-von-takeoff-hard-to-breathe-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1388104",
+         "header_image_url": "https://images.genius.com/bd1a45916332741eae799f3fcb52afd0.800x1000x1.jpg",
+         "id": 1388104,
+         "image_url": "https://images.genius.com/c7bde6d6f7980a3ee261325651a446b8.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Yungeen Ace",
+         "url": "https://genius.com/artists/Yungeen-ace",
+         "iq": 792
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1488337",
+        "header_image_url": "https://images.genius.com/5fc800e16a73db94b3212d4b27b8155b.1000x333x1.jpg",
+        "id": 1488337,
+        "image_url": "https://images.genius.com/d20965ea3ed5e9ac331ad2ce8438cf9d.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "King Von",
+        "url": "https://genius.com/artists/King-von",
+        "iq": 4939
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/5479673",
+       "artist_names": "Cloudy Nueve",
+       "full_title": "Noddin' Off by\u00a0Cloudy\u00a0Nueve",
+       "header_image_thumbnail_url": "https://images.genius.com/8750f5fbf72e6396b9aa3cd5c582c065.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8750f5fbf72e6396b9aa3cd5c582c065.500x500x1.jpg",
+       "id": 5479673,
+       "language": "en",
+       "lyrics_owner_id": 5527576,
+       "lyrics_state": "complete",
+       "path": "/Cloudy-nueve-noddin-off-lyrics",
+       "pyongs_count": 5,
+       "relationships_index_url": "https://genius.com/Cloudy-nueve-noddin-off-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 12,
+        "day": 13
+       },
+       "release_date_for_display": "December 13, 2019",
+       "release_date_with_abbreviated_month_for_display": "Dec. 13, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8750f5fbf72e6396b9aa3cd5c582c065.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8750f5fbf72e6396b9aa3cd5c582c065.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 6908
+       },
+       "title": "Noddin\u2019 Off",
+       "title_with_featured": "Noddin' Off",
+       "url": "https://genius.com/Cloudy-nueve-noddin-off-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/624541",
+        "header_image_url": "https://images.genius.com/d8f47ebd34839ea5836536bdf7d6f885.1000x1000x1.png",
+        "id": 624541,
+        "image_url": "https://images.genius.com/d8f47ebd34839ea5836536bdf7d6f885.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cloudy Nueve",
+        "url": "https://genius.com/artists/Cloudy-nueve"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4639783",
+       "artist_names": "Leto",
+       "full_title": "Bonbonne by\u00a0Leto",
+       "header_image_thumbnail_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.600x600x1.jpg",
+       "id": 4639783,
+       "language": "fr",
+       "lyrics_owner_id": 205837,
+       "lyrics_state": "complete",
+       "path": "/Leto-bonbonne-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Leto-bonbonne-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 7,
+        "day": 5
+       },
+       "release_date_for_display": "July 5, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jul. 5, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/73b55de1e9142ad6b42d051ddf3bb868.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 15623
+       },
+       "title": "Bonbonne",
+       "title_with_featured": "Bonbonne",
+       "url": "https://genius.com/Leto-bonbonne-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/183940",
+        "header_image_url": "https://images.genius.com/e7cc2a6b2b5dd7b1bfb106a13bee1242.1000x563x1.jpg",
+        "id": 183940,
+        "image_url": "https://images.genius.com/d7cde8675c3362bb9f0345c10b4e3993.833x833x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Leto",
+        "url": "https://genius.com/artists/Leto"
+       }
+      },
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/5172230",
+       "artist_names": "Pop Smoke",
+       "full_title": "Christopher Walking by\u00a0Pop\u00a0Smoke",
+       "header_image_thumbnail_url": "https://images.genius.com/4f98fbba85d8ed50d9676b96f5292e0f.300x53x1.jpg",
+       "header_image_url": "https://images.genius.com/4f98fbba85d8ed50d9676b96f5292e0f.300x53x1.jpg",
+       "id": 5172230,
+       "language": "en",
+       "lyrics_owner_id": 1599419,
+       "lyrics_state": "complete",
+       "path": "/Pop-smoke-christopher-walking-lyrics",
+       "pyongs_count": 11,
+       "relationships_index_url": "https://genius.com/Pop-smoke-christopher-walking-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 1,
+        "day": 15
+       },
+       "release_date_for_display": "January 15, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jan. 15, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e7e0d40dd9d1d65eb2170facd3615c7e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e7e0d40dd9d1d65eb2170facd3615c7e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 229621
+       },
+       "title": "Christopher Walking",
+       "title_with_featured": "Christopher Walking",
+       "url": "https://genius.com/Pop-smoke-christopher-walking-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1801970",
+        "header_image_url": "https://images.genius.com/0de0aaf51969f9e894ca9512adfe690c.1000x750x1.jpg",
+        "id": 1801970,
+        "image_url": "https://images.genius.com/41eeb550a79204cee6bdee9acdb584a2.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Pop Smoke",
+        "url": "https://genius.com/artists/Pop-smoke",
+        "iq": 3675
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5244074",
+       "artist_names": "Rob Liberachi",
+       "full_title": "Surviving by\u00a0Rob\u00a0Liberachi",
+       "header_image_thumbnail_url": "https://images.genius.com/b705d282aea4e4dcbc142b338a2fd180.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b705d282aea4e4dcbc142b338a2fd180.640x640x1.jpg",
+       "id": 5244074,
+       "language": "en",
+       "lyrics_owner_id": 5607844,
+       "lyrics_state": "complete",
+       "path": "/Rob-liberachi-surviving-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rob-liberachi-surviving-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 1,
+        "day": 29
+       },
+       "release_date_for_display": "January 29, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jan. 29, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b705d282aea4e4dcbc142b338a2fd180.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b705d282aea4e4dcbc142b338a2fd180.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surviving",
+       "title_with_featured": "Surviving",
+       "url": "https://genius.com/Rob-liberachi-surviving-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1486891",
+        "header_image_url": "https://images.genius.com/87f4eb40d4a22180455c820ca09ccf1f.828x828x1.jpg",
+        "id": 1486891,
+        "image_url": "https://images.genius.com/edc26370a178e04802368f8498bcb557.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rob Liberachi",
+        "url": "https://genius.com/artists/Rob-liberachi",
+        "iq": 6752
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Calboy-envy-me-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8037333",
+       "artist_names": "Wizer (Z4)",
+       "full_title": "Envy Me RMX by\u00a0Wizer\u00a0(Z4)",
+       "header_image_thumbnail_url": "https://images.genius.com/6f8820b55a33225b5ff199d8ea94283c.300x266x1.png",
+       "header_image_url": "https://images.genius.com/6f8820b55a33225b5ff199d8ea94283c.854x758x1.png",
+       "id": 8037333,
+       "language": "it",
+       "lyrics_owner_id": 16951353,
+       "lyrics_state": "complete",
+       "path": "/Wizer-z4-envy-me-rmx-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Wizer-z4-envy-me-rmx-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 17
+       },
+       "release_date_for_display": "December 17, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 17, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6f8820b55a33225b5ff199d8ea94283c.300x266x1.png",
+       "song_art_image_url": "https://images.genius.com/6f8820b55a33225b5ff199d8ea94283c.854x758x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Envy Me RMX",
+       "title_with_featured": "Envy Me RMX",
+       "url": "https://genius.com/Wizer-z4-envy-me-rmx-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3176284",
+        "header_image_url": "https://images.genius.com/6768213c508c554fd5e6ca5a457b8a9a.579x579x1.png",
+        "id": 3176284,
+        "image_url": "https://images.genius.com/6768213c508c554fd5e6ca5a457b8a9a.579x579x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Wizer (Z4)",
+        "url": "https://genius.com/artists/Wizer-z4"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5636594",
+       "artist_names": "Guy2x",
+       "full_title": "Envy Me (Remix) by\u00a0Guy2x",
+       "header_image_thumbnail_url": "https://images.genius.com/df0ace1b1fccaecd9a7914046ea0abaf.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/df0ace1b1fccaecd9a7914046ea0abaf.500x500x1.jpg",
+       "id": 5636594,
+       "language": null,
+       "lyrics_owner_id": 3082806,
+       "lyrics_state": "unreleased",
+       "path": "/Guy2x-envy-me-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Guy2x-envy-me-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 19
+       },
+       "release_date_for_display": "December 19, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 19, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/df0ace1b1fccaecd9a7914046ea0abaf.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/df0ace1b1fccaecd9a7914046ea0abaf.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Envy Me (Remix)",
+       "title_with_featured": "Envy Me (Remix)",
+       "url": "https://genius.com/Guy2x-envy-me-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2264808",
+        "header_image_url": "https://images.genius.com/a0fd20e1be6b34036934acea91ccdb61.953x953x1.jpg",
+        "id": 2264808,
+        "image_url": "https://images.genius.com/a0fd20e1be6b34036934acea91ccdb61.953x953x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Guy2x",
+        "url": "https://genius.com/artists/Guy2x"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/4511580",
+       "artist_names": "Lito Kirino (Ft. Duki & Pablo Chill-E)",
+       "full_title": "Envy Me Freestyle, Pt. 2 by\u00a0Lito\u00a0Kirino (Ft.\u00a0Duki & Pablo\u00a0Chill-E)",
+       "header_image_thumbnail_url": "https://images.genius.com/36282fe60763b331109f906c4e6b2d67.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/36282fe60763b331109f906c4e6b2d67.1000x1000x1.jpg",
+       "id": 4511580,
+       "language": "es",
+       "lyrics_owner_id": 4118964,
+       "lyrics_state": "complete",
+       "path": "/Lito-kirino-envy-me-freestyle-pt-2-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Lito-kirino-envy-me-freestyle-pt-2-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 5,
+        "day": 3
+       },
+       "release_date_for_display": "May 3, 2019",
+       "release_date_with_abbreviated_month_for_display": "May. 3, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2c8702f92c99e3f6252e609469862f07.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/2c8702f92c99e3f6252e609469862f07.800x800x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 33531
+       },
+       "title": "Envy Me Freestyle, Pt. 2",
+       "title_with_featured": "Envy Me Freestyle, Pt. 2 (Ft.\u00a0Duki & Pablo\u00a0Chill-E)",
+       "url": "https://genius.com/Lito-kirino-envy-me-freestyle-pt-2-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1351988",
+         "header_image_url": "https://images.genius.com/a2f3bc87b91521370c946e67f534f598.1000x563x1.jpg",
+         "id": 1351988,
+         "image_url": "https://images.genius.com/576f56534b2f88261ce8d096ec15c355.800x800x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Pablo Chill-E",
+         "url": "https://genius.com/artists/Pablo-chill-e"
+        },
+        {
+         "api_path": "/artists/1037443",
+         "header_image_url": "https://images.genius.com/ab91c1e72807a4720370e8f342550562.480x270x67.gif",
+         "id": 1037443,
+         "image_url": "https://images.genius.com/8c5d1963439e7a23f780962b7b06734b.715x715x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Duki",
+         "url": "https://genius.com/artists/Duki",
+         "iq": 100
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/552284",
+        "header_image_url": "https://images.genius.com/492c3d41fb122bca191647f9efa01e7c.890x890x1.jpg",
+        "id": 552284,
+        "image_url": "https://images.genius.com/492c3d41fb122bca191647f9efa01e7c.890x890x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lito Kirino",
+        "url": "https://genius.com/artists/Lito-kirino"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4880527",
+       "artist_names": "Rxse Vader",
+       "full_title": "I Miss Yall by\u00a0Rxse\u00a0Vader",
+       "header_image_thumbnail_url": "https://images.genius.com/d4b25ffef7168e3ef9faed58b76885d0.225x225x1.jpg",
+       "header_image_url": "https://images.genius.com/d4b25ffef7168e3ef9faed58b76885d0.225x225x1.jpg",
+       "id": 4880527,
+       "language": "en",
+       "lyrics_owner_id": 9233648,
+       "lyrics_state": "complete",
+       "path": "/Rxse-vader-i-miss-yall-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rxse-vader-i-miss-yall-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 7,
+        "day": 7
+       },
+       "release_date_for_display": "July 7, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jul. 7, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d4b25ffef7168e3ef9faed58b76885d0.225x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d4b25ffef7168e3ef9faed58b76885d0.225x225x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "I Miss Yall",
+       "title_with_featured": "I Miss Yall",
+       "url": "https://genius.com/Rxse-vader-i-miss-yall-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1940160",
+        "header_image_url": "https://images.genius.com/ae23b0a67aed437a20e9da8553a070b4.1000x1000x1.jpg",
+        "id": 1940160,
+        "image_url": "https://images.genius.com/4690e7c3694badc19df5920283035e22.256x256x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rxse Vader",
+        "url": "https://genius.com/artists/Rxse-vader"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4305474",
+       "artist_names": "Coi Leray",
+       "full_title": "Envy C (Remix) by\u00a0Coi\u00a0Leray",
+       "header_image_thumbnail_url": "https://images.genius.com/d728f14fa582f68e2dce582222d5565f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d728f14fa582f68e2dce582222d5565f.1000x1000x1.jpg",
+       "id": 4305474,
+       "language": "en",
+       "lyrics_owner_id": 5955079,
+       "lyrics_state": "complete",
+       "path": "/Coi-leray-envy-c-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Coi-leray-envy-c-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 18
+       },
+       "release_date_for_display": "December 18, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 18, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d728f14fa582f68e2dce582222d5565f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d728f14fa582f68e2dce582222d5565f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 9356
+       },
+       "title": "Envy C (Remix)",
+       "title_with_featured": "Envy C (Remix)",
+       "url": "https://genius.com/Coi-leray-envy-c-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1530720",
+        "header_image_url": "https://images.genius.com/220516926d152032b6d2dd94aeac3a3a.1000x1000x1.jpg",
+        "id": 1530720,
+        "image_url": "https://images.genius.com/ed9860d644d29e01356b78a5c97fc937.450x450x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Coi Leray",
+        "url": "https://genius.com/artists/Coi-leray",
+        "iq": 763
+       }
+      },
+      {
+       "annotation_count": 27,
+       "api_path": "/songs/4317962",
+       "artist_names": "Montana of 300",
+       "full_title": "Envy Me (Remix) by\u00a0Montana\u00a0of 300",
+       "header_image_thumbnail_url": "https://images.genius.com/0161820b822e2fb710cf624b75907d6a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0161820b822e2fb710cf624b75907d6a.960x960x1.jpg",
+       "id": 4317962,
+       "language": "en",
+       "lyrics_owner_id": 5987,
+       "lyrics_state": "complete",
+       "path": "/Montana-of-300-envy-me-remix-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Montana-of-300-envy-me-remix-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 2,
+        "day": 15
+       },
+       "release_date_for_display": "February 15, 2019",
+       "release_date_with_abbreviated_month_for_display": "Feb. 15, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0161820b822e2fb710cf624b75907d6a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0161820b822e2fb710cf624b75907d6a.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false,
+        "pageviews": 47671
+       },
+       "title": "Envy Me (Remix)",
+       "title_with_featured": "Envy Me (Remix)",
+       "url": "https://genius.com/Montana-of-300-envy-me-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/35857",
+        "header_image_url": "https://images.genius.com/c4353179ebe85df8475d248f77b35ab1.1000x667x1.jpg",
+        "id": 35857,
+        "image_url": "https://images.genius.com/8a87caca9d8596de2be32bd4e6f83b58.446x446x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Montana of 300",
+        "url": "https://genius.com/artists/Montana-of-300",
+        "iq": 2767
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/7589943",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7589943,
+     "iq": 1429,
+     "login": "calboyofficial",
+     "name": "Calboy",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/calboyofficial",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "lyrics",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/1577142",
+      "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+      "id": 1577142,
+      "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Calboy",
+      "url": "https://genius.com/artists/Calboy",
+      "iq": 1429
+     },
+     "user": {
+      "api_path": "/users/7589943",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/98d1192c3ac03cb99e8b432aa8bbdd0c",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/98d1192c3ac03cb99e8b432aa8bbdd0c",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/98d1192c3ac03cb99e8b432aa8bbdd0c",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 7589943,
+      "iq": 1429,
+      "login": "calboyofficial",
+      "name": "Calboy",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/calboyofficial",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [
+    {
+     "api_path": "/users/7589943",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/avatars/medium/98d1192c3ac03cb99e8b432aa8bbdd0c",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7589943,
+     "iq": 1429,
+     "login": "calboyofficial",
+     "name": "Calboy",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/calboyofficial",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1015153",
+     "header_image_url": "https://images.genius.com/ad6bddfb4d25578017cd3eec01c99c3a.1000x562x1.jpg",
+     "id": 1015153,
+     "image_url": "https://images.genius.com/73f4ec5fb1cd4a12066a862518726f50.607x607x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JTK",
+     "url": "https://genius.com/artists/Jtk"
+    },
+    {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    }
+   ],
+   "artist": "Calboy",
+   "lyrics": "78 ContributorsEnvy Me Lyrics[Chorus]\nNow I lay me down to sleep (Now I lay me down to sleep), ayy\nI pray the Lord my soul to keep (I pray the Lord my soul to keep), yeah, ayy\nLike a locksmith, I got the keys (Like a locksmith, I got the keys), yeah, ayy\nPull up, make opp niggas bleed (Pull up, make opp niggas bleed), yeah, ayy\nI got water like overseas, yeah, ayy (Overseas)\nBitch, I ball like NBA (Bitch, I ball like NBA), yeah, ayy\nBitch, I ball like MVP (Bitch, I ball like MVP), yeah, ayy\nI got money, they envy me (I got money, they envy me)\n\n[Verse]\nI'm with the gang, I'm with the mob, what was you thinkin'?\nRemember them days, and that shit was hard, a nigga been thinkin' (Yeah)\nI put a four in a twenty ounce, a nigga been drinkin' (Yeah)\nIf you with the squad, I give you my heart, lil' nigga, I mean it (Yeah)\nI was fighting some demons, in the field, bitch, I'm deep in (Deep in)\nI was raised in the deep end (Deep end), I know niggas be sinkin' (Sinkin')\nTake your bitch and go deep in, but I gave her back, why you tweakin'? (Tweakin')\nCome around with that rah-rah, we leave you dead on the cement (On the cement)\nWith the gang, we ain't playing fair\nMatter fact, we don't play at all\nOG 'Woods in the air\nBut we bought the Runtz so we smoke it all\nPutting on a front, boy, you better fall\nWe gon' kill 'em dead, we gon' kill 'em all\nMight spend a ten when I'm in the mall\nI was on the bend with it in my drawers\nHit that smoke and I'm blackin' (Blackin')\nHit that smoke and I black out\nIf he run, blow his back down\nI was gone but I'm back now\nThese niggas gon' fold, but I never back down\nIn the school, I was trappin' (Trappin')\nIn the school, you was class clown (Class clown)\nYou might also like[Chorus]\nAyy, now I lay me down to sleep, ayy\nI pray the Lord my soul to keep, yeah, ayy\nLike a locksmith, I got the keys, yeah, ayy\nPull up, make opp niggas bleed, yeah, ayy\nI got water like overseas, yeah, ayy\nBitch, I ball like NBA, yeah, ayy\nBitch, I ball like MVP, yeah, ayy\nI got money, they envy me45Embed"
+  },
+  {
+   "annotation_count": 14,
+   "api_path": "/songs/4592453",
+   "artist_names": "Calboy (Ft. Lil Durk, Meek Mill & Young Thug)",
+   "full_title": "Chariot by\u00a0Calboy (Ft.\u00a0Lil\u00a0Durk, Meek\u00a0Mill & Young\u00a0Thug)",
+   "header_image_thumbnail_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+   "id": 4592453,
+   "language": "en",
+   "lyrics_owner_id": 1532287,
+   "lyrics_state": "complete",
+   "path": "/Calboy-chariot-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Calboy-chariot-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 31
+   },
+   "release_date_for_display": "May 31, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 31, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 8,
+    "contributors": 48,
+    "iq_earners": 48,
+    "transcribers": 2,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 135322
+   },
+   "title": "Chariot",
+   "title_with_featured": "Chariot (Ft.\u00a0Lil\u00a0Durk, Meek\u00a0Mill & Young\u00a0Thug)",
+   "url": "https://genius.com/Calboy-chariot-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/faf71e6a99ed9c87d5c325d1fe81d92c.760x862x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/3252e426add0a17ee1ce248fbce344ed.751x751x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    {
+     "api_path": "/artists/21964",
+     "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+     "id": 21964,
+     "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Durk",
+     "url": "https://genius.com/artists/Lil-durk",
+     "iq": 9964
+    },
+    {
+     "api_path": "/artists/1319",
+     "header_image_url": "https://images.genius.com/3fe33644ce36943a1ef773527ba490b6.820x461x1.png",
+     "id": 1319,
+     "image_url": "https://images.genius.com/52a29948e810a6d545ce9dac8d37357f.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Meek Mill",
+     "url": "https://genius.com/artists/Meek-mill",
+     "iq": 4646
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1577142",
+    "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "id": 1577142,
+    "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Calboy",
+    "url": "https://genius.com/artists/Calboy",
+    "iq": 1429
+   },
+   "apple_music_id": "1465009855",
+   "apple_music_player_url": "https://genius.com/songs/4592453/apple_music_player",
+   "description": {
+    "plain": "Young Thug, Lil Durk & Meek Mill team up to assist CalBoy on \u201cChariot\u201d a banger produced by the Greek producing twins Nikolas and Alex W. Papamitrou.\n\nThe quartet comes with a smooth delivery and deals with topics such as their new money and women, and coming from the corners of high crime neighborhoods to their current luxurious lives.\n\nOn August 16, 2019, CalBoy re-released the song as a single, keeping only his verse, the chorus, and Lil Durk\u2019s verse."
+   },
+   "embed_content": "<div id='rg_embed_link_4592453' class='rg_embed_link' data-song-id='4592453'>Read <a href='https://genius.com/Calboy-chariot-lyrics'>\u201cChariot\u201d by Calboy</a> on Genius</div> <script crossorigin src='//genius.com/songs/4592453/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-05-31",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/527915",
+    "cover_art_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+    "full_title": "Wildboy by Calboy",
+    "id": 527915,
+    "name": "Wildboy",
+    "release_date_for_display": "May 31, 2019",
+    "url": "https://genius.com/albums/Calboy/Wildboy",
+    "artist": {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2906538",
+       "header_image_url": "https://images.genius.com/2ffe16dd9fa1eb6659bf03b41dce0e48.1000x1000x1.png",
+       "id": 2906538,
+       "image_url": "https://images.genius.com/2ffe16dd9fa1eb6659bf03b41dce0e48.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Anthony \u201cbreakitdwn\u201d Cruz",
+       "url": "https://genius.com/artists/Anthony-breakitdwn-cruz"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1156486",
+       "header_image_url": "https://images.genius.com/02748991d2c15b2e25f515b67979ee18.1000x562x1.jpg",
+       "id": 1156486,
+       "image_url": "https://images.genius.com/c39a6ad898feb6d5af29131cdb26dcdf.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Stoner Life",
+       "url": "https://genius.com/artists/Young-stoner-life"
+      },
+      {
+       "api_path": "/artists/2824768",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2824768,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "XanderMusic Global",
+       "url": "https://genius.com/artists/Xandermusic-global"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+       "id": 68978,
+       "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      },
+      {
+       "api_path": "/artists/1938081",
+       "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "id": 1938081,
+       "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Artist Publishing Group",
+       "url": "https://genius.com/artists/Artist-publishing-group"
+      },
+      {
+       "api_path": "/artists/2234531",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234531,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "300 Rainwater Music",
+       "url": "https://genius.com/artists/300-rainwater-music"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/547565",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 547565,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "PapamitrouMusic",
+       "url": "https://genius.com/artists/Papamitroumusic"
+      },
+      {
+       "api_path": "/artists/1618410",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1618410,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Music & Dreams Publishing",
+       "url": "https://genius.com/artists/Music-and-dreams-publishing"
+      },
+      {
+       "api_path": "/artists/150687",
+       "header_image_url": "https://images.genius.com/56784d0f107a386d03c1816159ed480f.617x409x1.jpg",
+       "id": 150687,
+       "image_url": "https://images.genius.com/5a93bde91854fee16dbfe81ae301f9b0.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Maybach Music Group",
+       "url": "https://genius.com/artists/Maybach-music-group"
+      },
+      {
+       "api_path": "/artists/2227014",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2227014,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Forever Rich",
+       "url": "https://genius.com/artists/Forever-rich"
+      },
+      {
+       "api_path": "/artists/2235692",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2235692,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Angelo OTF Music",
+       "url": "https://genius.com/artists/Angelo-otf-music"
+      },
+      {
+       "api_path": "/artists/648696",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 648696,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cookies and Milk LLC",
+       "url": "https://genius.com/artists/Cookies-and-milk-llc"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1154180",
+       "header_image_url": "https://images.genius.com/962a97d9661663f58342ab9814dcab12.1000x667x1.jpg",
+       "id": 1154180,
+       "image_url": "https://images.genius.com/84836fec667be0e73385c84837318c74.380x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Millice",
+       "url": "https://genius.com/artists/Dan-millice"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1168797",
+       "header_image_url": "https://images.genius.com/f69504237b33eaf9c6be72c3e65e7ab3.1000x388x1.jpg",
+       "id": 1168797,
+       "image_url": "https://images.genius.com/06f5b6f0192836d605df1068d7bdf0b5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polo Grounds Music",
+       "url": "https://genius.com/artists/Polo-grounds-music"
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1825680",
+       "header_image_url": "https://images.genius.com/a1ef885c9ca5278e86222843e6eac9d4.640x427x1.jpg",
+       "id": 1825680,
+       "image_url": "https://images.genius.com/0128053e4a73540eb0618451deebf24a.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Zillasuper",
+       "url": "https://genius.com/artists/Zillasuper",
+       "iq": 107
+      },
+      {
+       "api_path": "/artists/116768",
+       "header_image_url": "https://images.genius.com/1520c529c479ee80a0044618c7ff89cc.1000x667x1.jpg",
+       "id": 116768,
+       "image_url": "https://images.genius.com/80a6e72bfd23850605ab799e9ba55c64.724x724x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Kash Beats",
+       "url": "https://genius.com/artists/Kash-beats",
+       "iq": 167
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8441474,
+    "annotator_login": "gone_50xhe_e632",
+    "api_path": "/referents/17394323",
+    "classification": "accepted",
+    "fragment": "Chariot",
+    "id": 17394323,
+    "is_description": true,
+    "path": "/17394323/Calboy-chariot/Chariot",
+    "range": {
+     "content": "Chariot"
+    },
+    "song_id": 4592453,
+    "url": "https://genius.com/17394323/Calboy-chariot/Chariot",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4592453",
+     "client_timestamps": {
+      "updated_by_human_at": 1662636716,
+      "lyrics_updated_at": 1660288551
+     },
+     "context": "Calboy",
+     "id": 4592453,
+     "image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+     "link_title": "Chariot by\u00a0Calboy (Ft.\u00a0Lil\u00a0Durk, Meek\u00a0Mill & Young\u00a0Thug)",
+     "title": "Chariot",
+     "type": "Song",
+     "url": "https://genius.com/Calboy-chariot-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17394323",
+      "body": {
+       "plain": "Young Thug, Lil Durk & Meek Mill team up to assist CalBoy on \u201cChariot\u201d a banger produced by the Greek producing twins Nikolas and Alex W. Papamitrou.\n\nThe quartet comes with a smooth delivery and deals with topics such as their new money and women, and coming from the corners of high crime neighborhoods to their current luxurious lives.\n\nOn August 16, 2019, CalBoy re-released the song as a single, keeping only his verse, the chorus, and Lil Durk\u2019s verse."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17394323,
+      "pinned": false,
+      "share_url": "https://genius.com/17394323",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/17394323/Calboy-chariot/Chariot",
+      "verified": false,
+      "votes_total": 21,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.27848101265822783,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8441474",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 8441474,
+         "iq": 189,
+         "login": "gone_50xhe_e632",
+         "name": "gone_50xhe_e632",
+         "role_for_display": null,
+         "url": "https://genius.com/gone_50xhe_e632",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.27848101265822783,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6032628",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ddwyg16tvo",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/y9g0nadb02l",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6032628,
+         "iq": 9533,
+         "login": "bruckily",
+         "name": "bruckily",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/bruckily",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.25316455696202533,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/43360",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/31ed7a105dce09ba271ab868c9fda68a",
+         "human_readable_role_for_display": "Editor",
+         "id": 43360,
+         "iq": 51932,
+         "login": "sabsad",
+         "name": "sabsad",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sabsad",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.189873417721519,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4160922",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7d67a0a1d84780e53572fb0b9a10ef84.640x360x23.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4160922,
+         "iq": 217945,
+         "login": "NYLLOCK",
+         "name": "NYLLOCK!",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/NYLLOCK",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065824,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ylf3MSDbssM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/70962",
+     "header_image_url": "https://images.genius.com/d114cbcae8201d13e7fe02701f231415.485x485x1.jpg",
+     "id": 70962,
+     "image_url": "https://images.genius.com/d114cbcae8201d13e7fe02701f231415.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Papz",
+     "url": "https://genius.com/artists/Nick-papz"
+    },
+    {
+     "api_path": "/artists/1929820",
+     "header_image_url": "https://images.genius.com/c3008783292dc9836925f8ce0806a176.640x640x1.jpg",
+     "id": 1929820,
+     "image_url": "https://images.genius.com/8b49e68f5f25d8250087b44f91f8af27.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bxander.",
+     "url": "https://genius.com/artists/Xander"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": [
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/3657420",
+       "artist_names": "Gunna (Ft. Lil Baby)",
+       "full_title": "Sold Out Dates by\u00a0Gunna (Ft.\u00a0Lil\u00a0Baby)",
+       "header_image_thumbnail_url": "https://images.genius.com/8f93ec012f200004c230edc63246f7da.300x300x1.png",
+       "header_image_url": "https://images.genius.com/8f93ec012f200004c230edc63246f7da.1000x1000x1.png",
+       "id": 3657420,
+       "language": "en",
+       "lyrics_owner_id": 54639,
+       "lyrics_state": "complete",
+       "path": "/Gunna-sold-out-dates-lyrics",
+       "pyongs_count": 38,
+       "relationships_index_url": "https://genius.com/Gunna-sold-out-dates-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 4,
+        "day": 17
+       },
+       "release_date_for_display": "April 17, 2018",
+       "release_date_with_abbreviated_month_for_display": "Apr. 17, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8f93ec012f200004c230edc63246f7da.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/8f93ec012f200004c230edc63246f7da.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 716172
+       },
+       "title": "Sold Out Dates",
+       "title_with_featured": "Sold Out Dates (Ft.\u00a0Lil\u00a0Baby)",
+       "url": "https://genius.com/Gunna-sold-out-dates-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1110328",
+         "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+         "id": 1110328,
+         "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Lil Baby",
+         "url": "https://genius.com/artists/Lil-baby",
+         "iq": 3564
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/91049",
+        "header_image_url": "https://images.genius.com/c3db679dfdee89f6c1a389595f6b0486.640x640x1.jpg",
+        "id": 91049,
+        "image_url": "https://images.genius.com/c711618018ed5c0d6cc4cc74b36e8799.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Gunna",
+        "url": "https://genius.com/artists/Gunna",
+        "iq": 931
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/5255606",
+       "artist_names": "Future (Ft. DaBaby, Drake & Lil Baby)",
+       "full_title": "Life Is Good (Remix) by\u00a0Future (Ft.\u00a0DaBaby, Drake & Lil\u00a0Baby)",
+       "header_image_thumbnail_url": "https://images.genius.com/d4283da5622f4e838bf0d53ce81034e3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/d4283da5622f4e838bf0d53ce81034e3.1000x1000x1.png",
+       "id": 5255606,
+       "language": "en",
+       "lyrics_owner_id": 8117646,
+       "lyrics_state": "complete",
+       "path": "/Future-life-is-good-remix-lyrics",
+       "pyongs_count": 19,
+       "relationships_index_url": "https://genius.com/Future-life-is-good-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 2,
+        "day": 15
+       },
+       "release_date_for_display": "February 15, 2020",
+       "release_date_with_abbreviated_month_for_display": "Feb. 15, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d4283da5622f4e838bf0d53ce81034e3.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d4283da5622f4e838bf0d53ce81034e3.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 372657
+       },
+       "title": "Life Is Good (Remix)",
+       "title_with_featured": "Life Is Good (Remix) (Ft.\u00a0DaBaby, Drake & Lil\u00a0Baby)",
+       "url": "https://genius.com/Future-life-is-good-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/130",
+         "header_image_url": "https://images.genius.com/50b41d1da8dfd60548a6c9f2afa9b1b1.480x270x54.gif",
+         "id": 130,
+         "image_url": "https://images.genius.com/4e793216ac5eb88b8e8b7fc11b2e6521.548x548x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Drake",
+         "url": "https://genius.com/artists/Drake"
+        },
+        {
+         "api_path": "/artists/1162342",
+         "header_image_url": "https://images.genius.com/c9e02a3b6b862685f24ffc1e8d919997.960x640x1.jpg",
+         "id": 1162342,
+         "image_url": "https://images.genius.com/464d281e2a6b7cbab950c4a26ec5c635.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "DaBaby",
+         "url": "https://genius.com/artists/Dababy",
+         "iq": 1237
+        },
+        {
+         "api_path": "/artists/1110328",
+         "header_image_url": "https://images.genius.com/883ae92f9df1109797e99e0537fd8b02.1000x333x1.jpg",
+         "id": 1110328,
+         "image_url": "https://images.genius.com/98367f3cd4548347b114452eb3a5927f.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Lil Baby",
+         "url": "https://genius.com/artists/Lil-baby",
+         "iq": 3564
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2197",
+        "header_image_url": "https://images.genius.com/5e622dbebaf2309119258925d49c1a18.875x583x1.webp",
+        "id": 2197,
+        "image_url": "https://images.genius.com/a3496b5fc4c6f7796e08548ab28aef18.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Future",
+        "url": "https://genius.com/artists/Future",
+        "iq": 4648
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/5477035",
+       "artist_names": "Wiz Khalifa (Ft. Quavo)",
+       "full_title": "Out in Space by\u00a0Wiz\u00a0Khalifa (Ft.\u00a0Quavo)",
+       "header_image_thumbnail_url": "https://images.genius.com/b1a60ed2aa73e300594cfbc5c76ba76d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b1a60ed2aa73e300594cfbc5c76ba76d.1000x1000x1.jpg",
+       "id": 5477035,
+       "language": "en",
+       "lyrics_owner_id": 8674307,
+       "lyrics_state": "complete",
+       "path": "/Wiz-khalifa-out-in-space-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Wiz-khalifa-out-in-space-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 4,
+        "day": 20
+       },
+       "release_date_for_display": "April 20, 2020",
+       "release_date_with_abbreviated_month_for_display": "Apr. 20, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b1a60ed2aa73e300594cfbc5c76ba76d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b1a60ed2aa73e300594cfbc5c76ba76d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false,
+        "pageviews": 20533
+       },
+       "title": "Out in Space",
+       "title_with_featured": "Out in Space (Ft.\u00a0Quavo)",
+       "url": "https://genius.com/Wiz-khalifa-out-in-space-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/61600",
+         "header_image_url": "https://images.genius.com/cfd25c6603c03d1810a63e65506d7413.1000x563x1.png",
+         "id": 61600,
+         "image_url": "https://images.genius.com/ff947bf0574f3cb16bc418078b7bf191.1000x1000x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Quavo",
+         "url": "https://genius.com/artists/Quavo"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/310",
+        "header_image_url": "https://images.genius.com/d00bc03bc5bdd1bc352f6f7731d89db6.500x281x8.gif",
+        "id": 310,
+        "image_url": "https://images.genius.com/2ba15f623d81eda09cdc07f50dde02ad.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Wiz Khalifa",
+        "url": "https://genius.com/artists/Wiz-khalifa",
+        "iq": 10280
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4785920",
+       "artist_names": "Calboy (Ft. Lil Durk & Meek Mill)",
+       "full_title": "Chariot (Single Version) by\u00a0Calboy (Ft.\u00a0Lil\u00a0Durk & Meek\u00a0Mill)",
+       "header_image_thumbnail_url": "https://images.genius.com/67b3536077c120071e8c09a29fd00b18.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/67b3536077c120071e8c09a29fd00b18.939x939x1.jpg",
+       "id": 4785920,
+       "language": "en",
+       "lyrics_owner_id": 1532287,
+       "lyrics_state": "complete",
+       "path": "/Calboy-chariot-single-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Calboy-chariot-single-version-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 8,
+        "day": 16
+       },
+       "release_date_for_display": "August 16, 2019",
+       "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/67b3536077c120071e8c09a29fd00b18.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/67b3536077c120071e8c09a29fd00b18.939x939x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Chariot (Single Version)",
+       "title_with_featured": "Chariot (Single Version) (Ft.\u00a0Lil\u00a0Durk & Meek\u00a0Mill)",
+       "url": "https://genius.com/Calboy-chariot-single-version-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/21964",
+         "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+         "id": 21964,
+         "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Lil Durk",
+         "url": "https://genius.com/artists/Lil-durk",
+         "iq": 9964
+        },
+        {
+         "api_path": "/artists/1319",
+         "header_image_url": "https://images.genius.com/3fe33644ce36943a1ef773527ba490b6.820x461x1.png",
+         "id": 1319,
+         "image_url": "https://images.genius.com/52a29948e810a6d545ce9dac8d37357f.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Meek Mill",
+         "url": "https://genius.com/artists/Meek-mill",
+         "iq": 4646
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1577142",
+        "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+        "id": 1577142,
+        "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Calboy",
+        "url": "https://genius.com/artists/Calboy",
+        "iq": 1429
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1929820",
+     "header_image_url": "https://images.genius.com/c3008783292dc9836925f8ce0806a176.640x640x1.jpg",
+     "id": 1929820,
+     "image_url": "https://images.genius.com/8b49e68f5f25d8250087b44f91f8af27.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bxander.",
+     "url": "https://genius.com/artists/Xander"
+    },
+    {
+     "api_path": "/artists/70962",
+     "header_image_url": "https://images.genius.com/d114cbcae8201d13e7fe02701f231415.485x485x1.jpg",
+     "id": 70962,
+     "image_url": "https://images.genius.com/d114cbcae8201d13e7fe02701f231415.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nick Papz",
+     "url": "https://genius.com/artists/Nick-papz"
+    },
+    {
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/faf71e6a99ed9c87d5c325d1fe81d92c.760x862x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/3252e426add0a17ee1ce248fbce344ed.751x751x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    {
+     "api_path": "/artists/21964",
+     "header_image_url": "https://images.genius.com/b8097f0d2205da855a16c468d1452b5d.800x1000x1.jpg",
+     "id": 21964,
+     "image_url": "https://images.genius.com/d017b30ef8c9bb362a7520bd1a103400.466x466x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Durk",
+     "url": "https://genius.com/artists/Lil-durk",
+     "iq": 9964
+    },
+    {
+     "api_path": "/artists/1319",
+     "header_image_url": "https://images.genius.com/3fe33644ce36943a1ef773527ba490b6.820x461x1.png",
+     "id": 1319,
+     "image_url": "https://images.genius.com/52a29948e810a6d545ce9dac8d37357f.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Meek Mill",
+     "url": "https://genius.com/artists/Meek-mill",
+     "iq": 4646
+    },
+    {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    }
+   ],
+   "artist": "Calboy",
+   "lyrics": "48 ContributorsChariot Lyrics[Intro]\nP-P-Papamitrou, boy\n\n[Chorus: Meek Mill]\nFresh out the trap and they know how I carry it\nI fell in love with the game and I married it\n200 thou' for the walk on a Saturday\nI threw the wrap on the Phantom, it's matte today\nPushin' that bitch through the 'jects like a chariot\nDiamonds on diamonds, they comin' in various\nI gave that bitch $20,000 for charity\nCounted me out and I'm back, and I'm havin' it, ayy\n\n[Verse 1: Calboy]\nI'm from the trenches where I had to get it\nI'm so used to trappin', I get it and flip it\nI know that you be actin', I know you ain't with it\nBro, throw me the package, I wrap it and flip it\nThey say I got money so I'm actin' different\nGet it by my lonely, so I never listen\nStay callin' my phone, this lil' bitch, she trippin'\nJust leave me alone, I'm handlin' business\nWork hard, I gotta get it (I gotta get it)\nTrap hard, we in the kitchen\nDiamonds so cold, light even bend\nAnd my niggas don't fold, they never bendin'\nTook a loss, but shit happens, I get it\nWith the bosses, I'm payin' attention\nTold that bitch I ain't wastin' no time\nSo, no, I can't wait, not a minute\nAnd I pray to the Lord for better days\nI'm flexin' hard like a heavyweight\nSpent some racks and I bust down the bezel face\nGot this .30 on me, make 'em run away, yeah\nBitch, I'm gettin' paid\nI was in the trap whippin' shit like a slave\nCan't put trust in these bitches, these bitches changed\nOn the block with them niggas, was goin' insane, yeah\nI ain't come to play\nCan't fuck with lil' shawty, she in the way (You in the way)\nNo time to waste\nGotta get to this money, I'm runnin' late, yeah (I'm runnin' late)\nBetter keep a K\nBoy, these bullets get drawn like anime\nI'ma hop in that foreign and do the race\nYeah, I got the Bentley, Meek got the Wraith, yeah\nYou might also like[Chorus: Meek Mill]\nFresh out the trap and they know how I carry it\nI fell in love with the game and I married it\n200 thou' for the walk on a Saturday\nI threw the wrap on the Phantom, it's matte today\nPushin' that bitch through the 'jects like a chariot\nDiamonds on diamonds, they comin' in various\nI gave that bitch $20,000 for charity\nCounted me out and I'm back, and I'm havin' it, ayy\n\n[Verse 2: Young Thug]\nWoo, ayy\nFuck on a private jet\nThen he hop in his 'Gatti with a jet motor (Rrt)\nAyy, I just had bought out the plug\nI got enough drugs to never be sober, yeah\nI can't hop in with a scrub\nI don't carry dubs in none of my clothin', yeah\nI told this bitch to cool off\nShe was overexcited 'bout my golds, yeah, uh (Woo)\nChoke on the beans, I'm fuckin' her friend\nThey doin' my chores, yeah\nHe fresh out the can and I gave him a wifey\nNigga, that's yours, yeah (No cap)\nI sleep with a K and a couple grenades\nI'm ready for war, yeah\nNipsey blue Range Rover SVR\nRacks in the safe, I stack it like Lays\nMy diamonds all colors like a gay parade (Woo)\nGo on your bitch, I could've just laid\nBut I alley-oop'd to my homie, he ate (He just scored)\nI cooked that fishscale, he slimed out the plate\nGot 52 watches and I still come in late\nYou a sassy bitch, but I don't go on dates\nDiamonds canary, stone lemon cakes\nShow me attention when I'm in your city\nI'm so used to fuckin' on all of your bitches\nThey wanna fuck us and they know that we pimpin'\nGiuseppe Zanotti, I cop by the 50, yeah\nI work the backstreets in all of the cities\nYes, I paid for her thighs, lips, ass, and her titties, yeah\nSkydweller get wet as Pacific\nI ain't sold a drug, but my wrist on the chicken, yeah (Woo, woo)\n[Chorus: Meek Mill & Lil Durk]\nFresh out the trap and they know how I carry it\nI fell in love with the game and I married it\n200 thou' for the walk on a Saturday\nI threw the wrap on the Phantom, it's matte today\nPushin' that bitch through the 'jects like a chariot\nDiamonds on diamonds, they comin' in various\nI gave that bitch $20,000 for charity (Yeah, yeah)\nCounted me out and I'm back, and I'm havin' it, ayy (Yeah, yeah)\n\n[Verse 3: Lil Durk]\nLook at my clarity, my diamonds is serious\nI got out of jail and I fucked on her period\nI know they racist, Gucci interior\nCame from a corner to ownin' my cereal\nMeek, we don't need a stylist\nPercs, weed, even my balance\nAlexander McQueen Margielas (Yeah)\nI kill in the streets, you tellin' (Skrrt)\nDon't run, don't run\nMake it home to my son (To my son)\nI be with killers who kill other killers\nI'm hangin' with Von\nYou'd rather buy the bitches back\nI'd rather give a new house to my mom\nSome niggas rather pray to the Bible\nWhen I converted, I pray with my palms\nSee, keepin' my Glock when I'm in the field (Gang)\nHop in the Track and I burn out the wheels (Skrrt)\nI fuck with the gangsters, don't fuck with my peers\nFresh out of Jeffrey's, I hop on the Lear\nGrippin' that .40, not talkin' a beer\nFlawless the diamonds, I boog out the ear\nBentley do wheelies, I pop it in gear\nEight in my cup when I'm walkin' through, clear\nMm-mm-mm-mm, this lifestyle\nMan, that X is fuckin' my pupil\nJust turn these lights down\nI'm just a wild, wild boy\nChopper ridin' 'round for him\nI need my mils like Meek\nI'm a thug like Thug and Cal, Calboy\n[Chorus: Meek Mill & Lil Durk]\nFresh out the trap and they know how I carry it (Trappin')\nI fell in love with the game and I married it (Trappin')\n200 thou' for the walk on a Saturday (Uh)\nI threw the wrap on the Phantom, it's matte today (Oh)\nPushin' that bitch through the 'jects like a chariot (Yeah)\nDiamonds on diamonds, they comin' in various (Clear)\nI gave that bitch $20,000 for charity (Gave the bitch)\nCounted me out and I'm back, and I'm havin' it, ayy (Uh oh)\n\n[Outro: Lil Durk]\nMm-mm, uh oh\nMm-mm, uh oh\nMm-mm, uh oh1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4592444",
+   "artist_names": "Calboy",
+   "full_title": "Adam & Eve by\u00a0Calboy",
+   "header_image_thumbnail_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+   "id": 4592444,
+   "language": "en",
+   "lyrics_owner_id": 1532287,
+   "lyrics_state": "complete",
+   "path": "/Calboy-adam-and-eve-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Calboy-adam-and-eve-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 31
+   },
+   "release_date_for_display": "May 31, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 31, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 20,
+    "iq_earners": 20,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 106987
+   },
+   "title": "Adam & Eve",
+   "title_with_featured": "Adam & Eve",
+   "url": "https://genius.com/Calboy-adam-and-eve-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1577142",
+    "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "id": 1577142,
+    "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Calboy",
+    "url": "https://genius.com/artists/Calboy",
+    "iq": 1429
+   },
+   "apple_music_id": "1465009494",
+   "apple_music_player_url": "https://genius.com/songs/4592444/apple_music_player",
+   "description": {
+    "plain": "\u201cAdam & Eve\u201d is CalBoy\u2019s love song that is dedicated to his soul mate, who continues to switch on him. CalBoy reflects on her flimsy attitude and the constant change she undergoes.\n\nThe biblical story of \u201cAdam and Eve\u201d stems from the Book of Genesis and describes the experiences of the first two people on Earth."
+   },
+   "embed_content": "<div id='rg_embed_link_4592444' class='rg_embed_link' data-song-id='4592444'>Read <a href='https://genius.com/Calboy-adam-and-eve-lyrics'>\u201cAdam & Eve\u201d by Calboy</a> on Genius</div> <script crossorigin src='//genius.com/songs/4592444/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-05-31",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/527915",
+    "cover_art_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+    "full_title": "Wildboy by Calboy",
+    "id": 527915,
+    "name": "Wildboy",
+    "release_date_for_display": "May 31, 2019",
+    "url": "https://genius.com/albums/Calboy/Wildboy",
+    "artist": {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1154180",
+       "header_image_url": "https://images.genius.com/962a97d9661663f58342ab9814dcab12.1000x667x1.jpg",
+       "id": 1154180,
+       "image_url": "https://images.genius.com/84836fec667be0e73385c84837318c74.380x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dan Millice",
+       "url": "https://genius.com/artists/Dan-millice"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2233096",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2233096,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Taz Taylor Publishing",
+       "url": "https://genius.com/artists/Taz-taylor-publishing"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/2234679",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234679,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "JR Hitmaker Publishing",
+       "url": "https://genius.com/artists/Jr-hitmaker-publishing"
+      },
+      {
+       "api_path": "/artists/1525200",
+       "header_image_url": "https://images.genius.com/a34cb17853582bae96f6c3a6ed60abb2.200x200x1.png",
+       "id": 1525200,
+       "image_url": "https://images.genius.com/a34cb17853582bae96f6c3a6ed60abb2.200x200x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Electric Feel",
+       "url": "https://genius.com/artists/Electric-feel",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/1938081",
+       "header_image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "id": 1938081,
+       "image_url": "https://images.genius.com/a940eb338784d8629ae9760149a672a9.720x720x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Artist Publishing Group",
+       "url": "https://genius.com/artists/Artist-publishing-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1168797",
+       "header_image_url": "https://images.genius.com/f69504237b33eaf9c6be72c3e65e7ab3.1000x388x1.jpg",
+       "id": 1168797,
+       "image_url": "https://images.genius.com/06f5b6f0192836d605df1068d7bdf0b5.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polo Grounds Music",
+       "url": "https://genius.com/artists/Polo-grounds-music"
+      },
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/88331",
+       "header_image_url": "https://images.genius.com/b46212847df33dcc782ffff51fc737b4.1000x207x1.png",
+       "id": 88331,
+       "image_url": "https://images.genius.com/2a8cce70d4827d126ecbbc648a8ad62f.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony Music Entertainment",
+       "url": "https://genius.com/artists/Sony-music-entertainment"
+      },
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/116768",
+       "header_image_url": "https://images.genius.com/1520c529c479ee80a0044618c7ff89cc.1000x667x1.jpg",
+       "id": 116768,
+       "image_url": "https://images.genius.com/80a6e72bfd23850605ab799e9ba55c64.724x724x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Kash Beats",
+       "url": "https://genius.com/artists/Kash-beats",
+       "iq": 167
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/116768",
+       "header_image_url": "https://images.genius.com/1520c529c479ee80a0044618c7ff89cc.1000x667x1.jpg",
+       "id": 116768,
+       "image_url": "https://images.genius.com/80a6e72bfd23850605ab799e9ba55c64.724x724x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Kash Beats",
+       "url": "https://genius.com/artists/Kash-beats",
+       "iq": 167
+      },
+      {
+       "api_path": "/artists/1825680",
+       "header_image_url": "https://images.genius.com/a1ef885c9ca5278e86222843e6eac9d4.640x427x1.jpg",
+       "id": 1825680,
+       "image_url": "https://images.genius.com/0128053e4a73540eb0618451deebf24a.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Zillasuper",
+       "url": "https://genius.com/artists/Zillasuper",
+       "iq": 107
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8117646,
+    "annotator_login": "TrappaChiNo",
+    "api_path": "/referents/17511847",
+    "classification": "accepted",
+    "fragment": "Adam & Eve",
+    "id": 17511847,
+    "is_description": true,
+    "path": "/17511847/Calboy-adam-and-eve/Adam-and-eve",
+    "range": {
+     "content": "Adam & Eve"
+    },
+    "song_id": 4592444,
+    "url": "https://genius.com/17511847/Calboy-adam-and-eve/Adam-and-eve",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4592444",
+     "client_timestamps": {
+      "updated_by_human_at": 1628120507,
+      "lyrics_updated_at": 1559274045
+     },
+     "context": "Calboy",
+     "id": 4592444,
+     "image_url": "https://images.genius.com/33eeaabad87daf9980dfa3a693243128.1000x1000x1.jpg",
+     "link_title": "Adam & Eve by\u00a0Calboy",
+     "title": "Adam & Eve",
+     "type": "Song",
+     "url": "https://genius.com/Calboy-adam-and-eve-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17511847",
+      "body": {
+       "plain": "\u201cAdam & Eve\u201d is CalBoy\u2019s love song that is dedicated to his soul mate, who continues to switch on him. CalBoy reflects on her flimsy attitude and the constant change she undergoes.\n\nThe biblical story of \u201cAdam and Eve\u201d stems from the Book of Genesis and describes the experiences of the first two people on Earth."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17511847,
+      "pinned": false,
+      "share_url": "https://genius.com/17511847",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/17511847/Calboy-adam-and-eve/Adam-and-eve",
+      "verified": false,
+      "votes_total": 15,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8117646",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b82391d26056f643e1ca6a70231d79a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7367f5ae5b4de0f05a6ee48cc22833b7.1000x1000x8.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8117646,
+         "iq": 485253,
+         "login": "TrappaChiNo",
+         "name": "TrappaChiNo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TrappaChiNo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/54639",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+    "human_readable_role_for_display": "Staff",
+    "id": 54639,
+    "iq": 2709645,
+    "login": "WriteNProppa",
+    "name": "WriteNProppa",
+    "role_for_display": "staff",
+    "url": "https://genius.com/WriteNProppa",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Ha9l7nAYz5g"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/528052",
+     "header_image_url": "https://images.genius.com/30f723228256196d5a61aaec352d8fdc.510x510x1.jpg",
+     "id": 528052,
+     "image_url": "https://images.genius.com/30f723228256196d5a61aaec352d8fdc.510x510x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JRHITMAKER",
+     "url": "https://genius.com/artists/Jrhitmaker"
+    },
+    {
+     "api_path": "/artists/37120",
+     "header_image_url": "https://images.genius.com/91bfc86e17b3981a17af68389e59b447.1000x1000x1.jpg",
+     "id": 37120,
+     "image_url": "https://images.genius.com/959524fd9755b6a0906d65d899bf2941.661x661x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Fuse 808",
+     "url": "https://genius.com/artists/Fuse-808",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1067866",
+     "header_image_url": "https://images.genius.com/36971d54f00f40e3278895db75dbba37.405x405x1.jpg",
+     "id": 1067866,
+     "image_url": "https://images.genius.com/36971d54f00f40e3278895db75dbba37.405x405x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TrePounds",
+     "url": "https://genius.com/artists/Trepounds"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/37120",
+     "header_image_url": "https://images.genius.com/91bfc86e17b3981a17af68389e59b447.1000x1000x1.jpg",
+     "id": 37120,
+     "image_url": "https://images.genius.com/959524fd9755b6a0906d65d899bf2941.661x661x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Fuse 808",
+     "url": "https://genius.com/artists/Fuse-808",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/36586",
+     "header_image_url": "https://images.genius.com/7c28f215740b51061cde76d70f0e5fe8.681x383x1.jpg",
+     "id": 36586,
+     "image_url": "https://images.genius.com/0a10b26e7cbfed01e02a29d81f0ac96a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Taz Taylor",
+     "url": "https://genius.com/artists/Taz-taylor"
+    },
+    {
+     "api_path": "/artists/528052",
+     "header_image_url": "https://images.genius.com/30f723228256196d5a61aaec352d8fdc.510x510x1.jpg",
+     "id": 528052,
+     "image_url": "https://images.genius.com/30f723228256196d5a61aaec352d8fdc.510x510x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JRHITMAKER",
+     "url": "https://genius.com/artists/Jrhitmaker"
+    },
+    {
+     "api_path": "/artists/1577142",
+     "header_image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "id": 1577142,
+     "image_url": "https://images.genius.com/64b54c0120200471c24a9e73a3e28456.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Calboy",
+     "url": "https://genius.com/artists/Calboy",
+     "iq": 1429
+    },
+    {
+     "api_path": "/artists/1067866",
+     "header_image_url": "https://images.genius.com/36971d54f00f40e3278895db75dbba37.405x405x1.jpg",
+     "id": 1067866,
+     "image_url": "https://images.genius.com/36971d54f00f40e3278895db75dbba37.405x405x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TrePounds",
+     "url": "https://genius.com/artists/Trepounds"
+    }
+   ],
+   "artist": "Calboy",
+   "lyrics": "20 ContributorsAdam & Eve Lyrics[Intro]\nDarling, darling, darling\nDie without my darling, yeah\nAyy, darling, yeah, hey, hey\n\n[Chorus]\nDarling, you know you my darling\nEven though I be workin', baby, I can't see you often\nAnd she gorgeous, drop dead, she fresh out the coffin\nPlay with her, you drop dead, we don't do no talkin'\nBoy, this shit ain't easy\nSwear that bitch my Eve, I might take that bitch to Eden\nNone of that shit make believe, I knew that bitch was a demon\nTold her don't break my heart, then I watched that lil' bitch eat it\nShe change like the seasons, why you get so greedy?\n\n[Verse 1]\nAlright, let me tell you how it started\nI was with my niggas, we was trappin' out apartments\nUnc' was my big homie, he say that love shit is nonsense\nWe come from the trenches, baby, we was taught to pop shit\nAyy, but I wasn't tryna listen, baby, I was feelin' dark\nTold the bitch come and link up when I'm trappin' out the park\nAyy, and she made me feel better, so I gave that bitch my heart\nI was thinkin' from the heart, introduce her to the mob\nAyy, meanwhile, foenem tryna clown\nI said, \"Boy, don't doubt, I rock with her proud\"\nI might say that loud\nThat clear, she got to switchin', I gave it a year\nThem bitches, they wanted me all in they ear\nNow look at a nigga, I'm man of the year\nYou might also like[Chorus]\nDarling, you know you my darling\nEven though I be workin', baby, I can't see you often\nAnd she gorgeous, drop dead, she fresh out the coffin\nPlay with her, you drop dead, we don't do no talkin'\nBoy, this shit ain't easy\nSwear that bitch my Eve, I might take that bitch to Eden\nNone of that shit make believe, I knew that bitch was a demon\nTold her don't break my heart, then I watched that lil' bitch eat it\nShe change like the seasons, why you get so greedy?\n\n[Verse 2]\nGot me feelin' a lil' darker\nI can't trust these niggas, they like sharks up in this water\nHad that lil' bitch cross me like Samson and Delilah\nSo I'm still ridin' solo, bitch, I don't got a partner\nYou know how I'm vibin', I'm ridin'\nBend a couple blocks and I got my lil' brother drivin'\nDevil on my shoulder, I can't wait 'til we come find him\nShe gone like the serpent, I swear that lil' bitch so slimy\nI got demons in my face, but the angels right behind me\nI ain't never lose my faith, my soul gold and that's timeless\nI done found a few ways to get paid, now I'm grindin'\nAnd I love the role that you play, made me stay, I was blinded, yeah\n\n[Chorus]\nDarling, you know you my darling\nEven though I be workin', baby, I can't see you often\nAnd she gorgeous, drop dead, she fresh out the coffin\nPlay with her, you drop dead, we don't do no talkin'\nBoy, this shit ain't easy\nSwear that bitch my Eve, I might take that bitch to Eden\nNone of that shit make believe, I knew that bitch was a demon\nTold her don't break my heart, then I watched that lil' bitch eat it\nShe change like the seasons, why you get so greedy?6Embed"
+  }
+ ]
+}

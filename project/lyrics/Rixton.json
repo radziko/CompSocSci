@@ -1,0 +1,670 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/3451253",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+ "id": 3451253,
+ "image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Rixton",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Rixton",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 16851497,
+  "annotator_login": "JustJAMESON",
+  "api_path": "/referents/27876597",
+  "classification": "needs_exegesis",
+  "fragment": "Rixton",
+  "id": 27876597,
+  "is_description": true,
+  "path": "/27876597/Rixton/Rixton",
+  "range": {
+   "content": "Rixton"
+  },
+  "song_id": null,
+  "url": "https://genius.com/27876597/Rixton/Rixton",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/3451253",
+   "context": null,
+   "id": 3451253,
+   "image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+   "link_title": "Rixton",
+   "title": "Rixton",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Rixton"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/27876597",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 27876597,
+    "pinned": false,
+    "share_url": "https://genius.com/27876597",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/27876597/Rixton/Rixton",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/16851497",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 16851497,
+       "iq": 19824,
+       "login": "JustJAMESON",
+       "name": "JustJAMESON",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/JustJAMESON",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/8857964",
+   "artist_names": "Rixton",
+   "full_title": "Me And My Broken Heart by\u00a0Rixton",
+   "header_image_thumbnail_url": "https://images.genius.com/b0ea5bc3035689a5a0a0dd374d2dc78d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b0ea5bc3035689a5a0a0dd374d2dc78d.1000x1000x1.jpg",
+   "id": 8857964,
+   "language": "en",
+   "lyrics_owner_id": 16851497,
+   "lyrics_state": "complete",
+   "path": "/Rixton-me-and-my-broken-heart-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Rixton-me-and-my-broken-heart-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 3,
+    "day": 14
+   },
+   "release_date_for_display": "March 14, 2014",
+   "release_date_with_abbreviated_month_for_display": "Mar. 14, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b0ea5bc3035689a5a0a0dd374d2dc78d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b0ea5bc3035689a5a0a0dd374d2dc78d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Me And My Broken Heart",
+   "title_with_featured": "Me And My Broken Heart",
+   "url": "https://genius.com/Rixton-me-and-my-broken-heart-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/3451253",
+    "header_image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+    "id": 3451253,
+    "image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Rixton",
+    "url": "https://genius.com/artists/Rixton"
+   },
+   "apple_music_id": "1443257264",
+   "apple_music_player_url": "https://genius.com/songs/8857964/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_8857964' class='rg_embed_link' data-song-id='8857964'>Read <a href='https://genius.com/Rixton-me-and-my-broken-heart-lyrics'>\u201cMe And My Broken Heart\u201d by Rixton</a> on Genius</div> <script crossorigin src='//genius.com/songs/8857964/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-03-14",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/1005346",
+    "cover_art_url": "https://images.genius.com/1453ca1ce36ecfcafcbea2eb9761088b.300x300x1.png",
+    "full_title": "Let The Road by Rixton",
+    "id": 1005346,
+    "name": "Let The Road",
+    "release_date_for_display": "March 3, 2015",
+    "url": "https://genius.com/albums/Rixton/Let-the-road",
+    "artist": {
+     "api_path": "/artists/3451253",
+     "header_image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+     "id": 3451253,
+     "image_url": "https://images.genius.com/186425880ff6b7fbe1f4edd619e7ef8e.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rixton",
+     "url": "https://genius.com/artists/Rixton"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 16851497,
+    "annotator_login": "JustJAMESON",
+    "api_path": "/referents/27876598",
+    "classification": "needs_exegesis",
+    "fragment": "Me And My Broken Heart",
+    "id": 27876598,
+    "is_description": true,
+    "path": "/27876598/Rixton-me-and-my-broken-heart/Me-and-my-broken-heart",
+    "range": {
+     "content": "Me And My Broken Heart"
+    },
+    "song_id": 8857964,
+    "url": "https://genius.com/27876598/Rixton-me-and-my-broken-heart/Me-and-my-broken-heart",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8857964",
+     "client_timestamps": {
+      "updated_by_human_at": 1677193093,
+      "lyrics_updated_at": 1677192744
+     },
+     "context": "Rixton",
+     "id": 8857964,
+     "image_url": "https://images.genius.com/b0ea5bc3035689a5a0a0dd374d2dc78d.1000x1000x1.jpg",
+     "link_title": "Me And My Broken Heart by\u00a0Rixton",
+     "title": "Me And My Broken Heart",
+     "type": "Song",
+     "url": "https://genius.com/Rixton-me-and-my-broken-heart-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/27876598",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 27876598,
+      "pinned": false,
+      "share_url": "https://genius.com/27876598",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/27876598/Rixton-me-and-my-broken-heart/Me-and-my-broken-heart",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/16851497",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d8718dd656a55e8c1f2bb7b6d8ebfdd9",
+         "human_readable_role_for_display": "Contributor",
+         "id": 16851497,
+         "iq": 19824,
+         "login": "JustJAMESON",
+         "name": "JustJAMESON",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JustJAMESON",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=7JJfJgyHYwU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/28906",
+     "header_image_url": "https://images.genius.com/4a92b715cb95fa66bf25222b38282658.1000x333x1.jpg",
+     "id": 28906,
+     "image_url": "https://images.genius.com/9f1c70552bee3cef572080c3cafce2af.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bbenny blanco",
+     "url": "https://genius.com/artists/Benny-blanco"
+    },
+    {
+     "api_path": "/artists/51766",
+     "header_image_url": "https://images.genius.com/6099f97d36139073ee7b31b8970b818a.500x498x1.jpg",
+     "id": 51766,
+     "image_url": "https://images.genius.com/22c669fee07999a9a8f32a6e47ed11d3.452x452x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Mac",
+     "url": "https://genius.com/artists/Steve-mac"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3394462",
+       "artist_names": "Nmesh",
+       "full_title": "Milk Channel by\u00a0Nmesh",
+       "header_image_thumbnail_url": "https://images.genius.com/461fa4e1be75c386ca9a006c60409667.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/461fa4e1be75c386ca9a006c60409667.1000x1000x1.jpg",
+       "id": 3394462,
+       "language": "en",
+       "lyrics_owner_id": 13075398,
+       "lyrics_state": "complete",
+       "path": "/Nmesh-milk-channel-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Nmesh-milk-channel-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 8,
+        "day": 4
+       },
+       "release_date_for_display": "August 4, 2017",
+       "release_date_with_abbreviated_month_for_display": "Aug. 4, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/461fa4e1be75c386ca9a006c60409667.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/461fa4e1be75c386ca9a006c60409667.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Milk Channel",
+       "title_with_featured": "Milk Channel",
+       "url": "https://genius.com/Nmesh-milk-channel-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/555263",
+        "header_image_url": "https://images.genius.com/e46487954b043d3b47755d97049b880c.1000x185x1.jpg",
+        "id": 555263,
+        "image_url": "https://images.genius.com/c83394e8c7d51e331db67f0c5a77c8a4.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nmesh",
+        "url": "https://genius.com/artists/Nmesh"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/51766",
+     "header_image_url": "https://images.genius.com/6099f97d36139073ee7b31b8970b818a.500x498x1.jpg",
+     "id": 51766,
+     "image_url": "https://images.genius.com/22c669fee07999a9a8f32a6e47ed11d3.452x452x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Steve Mac",
+     "url": "https://genius.com/artists/Steve-mac"
+    },
+    {
+     "api_path": "/artists/155257",
+     "header_image_url": "https://images.genius.com/4791a8a57f145327262c6f8a4bfc72d1.500x333x1.jpg",
+     "id": 155257,
+     "image_url": "https://images.genius.com/4791a8a57f145327262c6f8a4bfc72d1.500x333x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ammar Malik",
+     "url": "https://genius.com/artists/Ammar-malik"
+    },
+    {
+     "api_path": "/artists/108841",
+     "header_image_url": "https://images.genius.com/41e6db4a57380ad2956998ea2918d6dd.410x310x1.jpg",
+     "id": 108841,
+     "image_url": "https://images.genius.com/41e6db4a57380ad2956998ea2918d6dd.410x310x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Wayne Hector",
+     "url": "https://genius.com/artists/Wayne-hector"
+    },
+    {
+     "api_path": "/artists/37260",
+     "header_image_url": "https://images.genius.com/64ea360a61602ad4dc85629d9f755be1.534x401x1.jpg",
+     "id": 37260,
+     "image_url": "https://images.genius.com/64ea360a61602ad4dc85629d9f755be1.534x401x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Rob Thomas",
+     "url": "https://genius.com/artists/Rob-thomas",
+     "iq": 2482
+    },
+    {
+     "api_path": "/artists/28906",
+     "header_image_url": "https://images.genius.com/4a92b715cb95fa66bf25222b38282658.1000x333x1.jpg",
+     "id": 28906,
+     "image_url": "https://images.genius.com/9f1c70552bee3cef572080c3cafce2af.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bbenny blanco",
+     "url": "https://genius.com/artists/Benny-blanco"
+    }
+   ],
+   "artist": "Rixton",
+   "lyrics": "1 ContributorMe And My Broken Heart Lyrics[Chorus]\nAll I need's a little love in my life\nAll I need's a little love in the dark\nA little but I'm hoping it might kick-start\nMe and my broken heart\nI need a little loving tonight\nHold me so I'm not falling apart\nA little but I'm hoping it might kick-start\nMe and my broken heart\n\n[Verse 1]\nShotgun\nAimed at my heart\nYou got one\nTear me apart\nAnd then some\nHow do we call this love (whoa, oh oh oh)\n\n[Verse 2]\nI try\nTo run away but your eyes\nTell me to stay, oh why\nWhy do we call this love (whoa, oh oh oh)\n\n[Pre-Chorus]\nIt seems like we've been losing control\nSomebody, tell me I'm not alone\nWhen I say\nYou might also like[Chorus]\nAll I need's a little love in my life\nAll I need's a littl\u0435 love in the dark\nA little but I'm hoping it might kick-start\nM\u0435 and my broken heart\nI need a little loving tonight\nHold me so I'm not falling apart\nA little but I'm hoping it might kick-start\nMe and my broken heart\n\n[Verse 3]\nMaybe\nSome part of you just hates me\nYou pick me up and play me\nHow do we call this love? (whoa, oh oh oh)\n\n[Verse 4]\nOne time\nTell me you need me tonight\nTo make it easy, you lie\nAnd say it's all for love (whoa, oh oh oh)\n\n[Pre-Chorus]\nIt seems like we've been losing control\nSomebody, tell me I'm not alone\nWhen I say\n[Chorus]\nAll I need's a little love in my life\nAll I need's a little love in the dark\nA little but I'm hoping it might kick-start\nMe and my broken heart\nI need a little loving tonight\nHold me so I'm not falling apart\nA little but I'm hoping it might kick-start\nMe and my broken heart\n\n[Post-Chorus]\nWhoa, oh, whoa, oh\nMe and my broken heart\nWhoa, oh, whoa, oh\nMe and my broken\n\n[Bridge]\nYeah, yeah, yeah\nMe and my broken, broken heart\nYeah, yeah, yeah\nHow do we call this?\nIt's just me\nIt's just me\nIt's just me\nMe and my broken heart\n[Chorus]\nAll I need's a little love in my life\nAll I need's a little love in the dark\nA little but I'm hoping it might kick-start\nMe and my broken heart\nI need a little loving tonight\nHold me so I'm not falling apart\nA little but I'm hoping it might kick-start\nMe and my broken heartEmbed"
+  }
+ ]
+}

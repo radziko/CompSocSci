@@ -1,0 +1,2736 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/2958546",
+ "description": {
+  "plain": "Jessica Darrow is a Cuban-American actress that lives with her cat in New York. She voices Luisa Madrigal in the 2021 Disney film, Encanto. She also plays Sarah in the 2019 film, Feast of Seven Fishes."
+ },
+ "facebook_name": null,
+ "followers_count": 3,
+ "header_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+ "id": 2958546,
+ "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jessica Darrow",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jessica-darrow",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 15280765,
+  "annotator_login": "Saphicheartfr",
+  "api_path": "/referents/24695925",
+  "classification": "unreviewed",
+  "fragment": "Jessica Darrow",
+  "id": 24695925,
+  "is_description": true,
+  "path": "/24695925/Jessica-darrow/Jessica-darrow",
+  "range": {
+   "content": "Jessica Darrow"
+  },
+  "song_id": null,
+  "url": "https://genius.com/24695925/Jessica-darrow/Jessica-darrow",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2958546",
+   "context": null,
+   "id": 2958546,
+   "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+   "link_title": "Jessica Darrow",
+   "title": "Jessica Darrow",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jessica-darrow"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/24695925",
+    "body": {
+     "plain": "Jessica Darrow is a Cuban-American actress that lives with her cat in New York. She voices Luisa Madrigal in the 2021 Disney film, Encanto. She also plays Sarah in the 2019 film, Feast of Seven Fishes."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 24695925,
+    "pinned": false,
+    "share_url": "https://genius.com/24695925",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/24695925/Jessica-darrow/Jessica-darrow",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6666666666666667,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11795345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/688d00953aaa42887191dd43e71fb3ab",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/688d00953aaa42887191dd43e71fb3ab",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/688d00953aaa42887191dd43e71fb3ab",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/688d00953aaa42887191dd43e71fb3ab",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/688d00953aaa42887191dd43e71fb3ab",
+       "human_readable_role_for_display": "Contributor",
+       "id": 11795345,
+       "iq": 724,
+       "login": "LostinSacramento",
+       "name": "LostinSacramento",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/LostinSacramento",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.33333333333333337,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/15280765",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/43656b8f79f866bd184280187ba11f13",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/43656b8f79f866bd184280187ba11f13",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/43656b8f79f866bd184280187ba11f13",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/43656b8f79f866bd184280187ba11f13",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/43656b8f79f866bd184280187ba11f13",
+       "human_readable_role_for_display": "Contributor",
+       "id": 15280765,
+       "iq": 12421,
+       "login": "Saphicheartfr",
+       "name": "Jada 0/////0",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Saphicheartfr",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 39,
+   "api_path": "/songs/7406120",
+   "artist_names": "Jessica Darrow",
+   "full_title": "Surface Pressure by\u00a0Jessica\u00a0Darrow",
+   "header_image_thumbnail_url": "https://images.genius.com/d60f3bec7725590f2a7c5364433ab145.300x300x1.png",
+   "header_image_url": "https://images.genius.com/d60f3bec7725590f2a7c5364433ab145.1000x1000x1.png",
+   "id": 7406120,
+   "language": "en",
+   "lyrics_owner_id": 5720794,
+   "lyrics_state": "complete",
+   "path": "/Jessica-darrow-surface-pressure-lyrics",
+   "pyongs_count": 40,
+   "relationships_index_url": "https://genius.com/Jessica-darrow-surface-pressure-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 11,
+    "day": 19
+   },
+   "release_date_for_display": "November 19, 2021",
+   "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/58e44f9e7b8d7aafd76b085ffd196e0b.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/58e44f9e7b8d7aafd76b085ffd196e0b.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 10,
+    "contributors": 110,
+    "iq_earners": 109,
+    "transcribers": 2,
+    "unreviewed_annotations": 28,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 440298
+   },
+   "title": "Surface Pressure",
+   "title_with_featured": "Surface Pressure",
+   "url": "https://genius.com/Jessica-darrow-surface-pressure-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2958546",
+    "header_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "id": 2958546,
+    "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jessica Darrow",
+    "url": "https://genius.com/artists/Jessica-darrow"
+   },
+   "apple_music_id": "1594677759",
+   "apple_music_player_url": "https://genius.com/songs/7406120/apple_music_player",
+   "description": {
+    "plain": "\u201cSurface Pressure\u201d is Luisa\u2019s solo. Luisa is Mirabel\u2019s sister, and her magical ability is that she has superhuman strength. However, as she says in this song, her strength still has its limits, as she has an emotional breakdown.\n\nThis reggaeton song written and produced by Lin-Manuel Miranda added a depth to the character with her sense of responsibility, as stated by co-writer and director Jared Bush."
+   },
+   "embed_content": "<div id='rg_embed_link_7406120' class='rg_embed_link' data-song-id='7406120'>Read <a href='https://genius.com/Jessica-darrow-surface-pressure-lyrics'>\u201cSurface Pressure\u201d by Jessica\u00a0Darrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/7406120/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2021-11-19",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/836070",
+    "cover_art_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.1000x1000x1.jpg",
+    "full_title": "Encanto (Original Motion Picture Soundtrack) by Walt Disney Records",
+    "id": 836070,
+    "name": "Encanto (Original Motion Picture Soundtrack)",
+    "release_date_for_display": "November 19, 2021",
+    "url": "https://genius.com/albums/Walt-disney-records/Encanto-original-motion-picture-soundtrack",
+    "artist": {
+     "api_path": "/artists/32992",
+     "header_image_url": "https://images.genius.com/c414ea29563cb002e5a067947fc17aab.1000x284x1.png",
+     "id": 32992,
+     "image_url": "https://images.genius.com/9b4c7574a4388683c9d6a23cc090f28d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Walt Disney Records",
+     "url": "https://genius.com/artists/Walt-disney-records"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Lyricist",
+     "artists": [
+      {
+       "api_path": "/artists/13426",
+       "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+       "id": 13426,
+       "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Lin-Manuel Miranda",
+       "url": "https://genius.com/artists/Lin-manuel-miranda",
+       "iq": 30116
+      }
+     ]
+    },
+    {
+     "label": "Composer",
+     "artists": [
+      {
+       "api_path": "/artists/13426",
+       "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+       "id": 13426,
+       "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Lin-Manuel Miranda",
+       "url": "https://genius.com/artists/Lin-manuel-miranda",
+       "iq": 30116
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 11484870,
+    "annotator_login": "roofthatleak",
+    "api_path": "/referents/24444285",
+    "classification": "accepted",
+    "fragment": "Surface Pressure",
+    "id": 24444285,
+    "is_description": true,
+    "path": "/24444285/Jessica-darrow-surface-pressure/Surface-pressure",
+    "range": {
+     "content": "Surface Pressure"
+    },
+    "song_id": 7406120,
+    "url": "https://genius.com/24444285/Jessica-darrow-surface-pressure/Surface-pressure",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7406120",
+     "client_timestamps": {
+      "updated_by_human_at": 1681497192,
+      "lyrics_updated_at": 1681497192
+     },
+     "context": "Jessica Darrow",
+     "id": 7406120,
+     "image_url": "https://images.genius.com/58e44f9e7b8d7aafd76b085ffd196e0b.1000x1000x1.png",
+     "link_title": "Surface Pressure by\u00a0Jessica\u00a0Darrow",
+     "title": "Surface Pressure",
+     "type": "Song",
+     "url": "https://genius.com/Jessica-darrow-surface-pressure-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24444285",
+      "body": {
+       "plain": "\u201cSurface Pressure\u201d is Luisa\u2019s solo. Luisa is Mirabel\u2019s sister, and her magical ability is that she has superhuman strength. However, as she says in this song, her strength still has its limits, as she has an emotional breakdown.\n\nThis reggaeton song written and produced by Lin-Manuel Miranda added a depth to the character with her sense of responsibility, as stated by co-writer and director Jared Bush."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 24444285,
+      "pinned": false,
+      "share_url": "https://genius.com/24444285",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/24444285/Jessica-darrow-surface-pressure/Surface-pressure",
+      "verified": false,
+      "votes_total": 49,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.48484848484848486,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/11484870",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/cd5892c4b6cc43b2e162c2cdd9629113",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/cd5892c4b6cc43b2e162c2cdd9629113",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/cd5892c4b6cc43b2e162c2cdd9629113",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/cd5892c4b6cc43b2e162c2cdd9629113",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/cd5892c4b6cc43b2e162c2cdd9629113",
+         "human_readable_role_for_display": "Contributor",
+         "id": 11484870,
+         "iq": 2509,
+         "login": "roofthatleak",
+         "name": "roofthatleak",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/roofthatleak",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.46969696969696967,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15287634",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/956f681781f8bd2fc276c83ba74a3506",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/956f681781f8bd2fc276c83ba74a3506",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/956f681781f8bd2fc276c83ba74a3506",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/956f681781f8bd2fc276c83ba74a3506",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/956f681781f8bd2fc276c83ba74a3506",
+         "human_readable_role_for_display": "Contributor",
+         "id": 15287634,
+         "iq": 3718,
+         "login": "MichelleEDominguez",
+         "name": "MichelleEDominguez",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MichelleEDominguez",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.030303030303030304,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3398433",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f4c9475f512952f29e82f0f8a01b17c3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f4c9475f512952f29e82f0f8a01b17c3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f4c9475f512952f29e82f0f8a01b17c3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f4c9475f512952f29e82f0f8a01b17c3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f4c9475f512952f29e82f0f8a01b17c3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3398433,
+         "iq": 1016,
+         "login": "GaryShanno",
+         "name": "GaryShanno",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/GaryShanno",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.015151515151515152,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/13619363",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/38c8ba8961f08510b093107ce5f8bc93.480x480x69.gif",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/38c8ba8961f08510b093107ce5f8bc93.480x480x69.gif",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/38c8ba8961f08510b093107ce5f8bc93.480x480x69.gif",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/38c8ba8961f08510b093107ce5f8bc93.480x480x69.gif",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/00f13e75441ae48409ef6a5065764e68.498x278x31.gif",
+         "human_readable_role_for_display": "Contributor",
+         "id": 13619363,
+         "iq": 11866,
+         "login": "Funtime_L0lbit",
+         "name": "~-Funt!m3_|0|b!t-~",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Funtime_L0lbit",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tQwVKr8rCYw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/358722",
+     "header_image_url": "https://images.genius.com/44e45ccb552b337cd6d3908f6a4fd892.800x331x1.jpg",
+     "id": 358722,
+     "image_url": "https://images.genius.com/19a805bb9bd6c0d680e970386787ae89.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Disney",
+     "url": "https://genius.com/artists/Disney"
+    },
+    {
+     "api_path": "/artists/34793",
+     "header_image_url": "https://images.genius.com/5acd35e572fddbdd85a558dfa894767e.299x299x1.jpg",
+     "id": 34793,
+     "image_url": "https://images.genius.com/5acd35e572fddbdd85a558dfa894767e.299x299x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mike Elizondo",
+     "url": "https://genius.com/artists/Mike-elizondo"
+    },
+    {
+     "api_path": "/artists/13426",
+     "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+     "id": 13426,
+     "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lin-Manuel Miranda",
+     "url": "https://genius.com/artists/Lin-manuel-miranda",
+     "iq": 30116
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7722103",
+       "artist_names": "Luriea Madritai",
+       "full_title": "Death Of The Surface by\u00a0Luriea\u00a0Madritai",
+       "header_image_thumbnail_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.474x474x1.jpg",
+       "id": 7722103,
+       "language": "en",
+       "lyrics_owner_id": 15460555,
+       "lyrics_state": "complete",
+       "path": "/Luriea-madritai-death-of-the-surface-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Luriea-madritai-death-of-the-surface-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 19
+       },
+       "release_date_for_display": "February 19, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 19, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.474x474x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Death Of The Surface",
+       "title_with_featured": "Death Of The Surface",
+       "url": "https://genius.com/Luriea-madritai-death-of-the-surface-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3068324",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3068324,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Luriea Madritai",
+        "url": "https://genius.com/artists/Luriea-madritai"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7722103",
+       "artist_names": "Luriea Madritai",
+       "full_title": "Death Of The Surface by\u00a0Luriea\u00a0Madritai",
+       "header_image_thumbnail_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.474x474x1.jpg",
+       "id": 7722103,
+       "language": "en",
+       "lyrics_owner_id": 15460555,
+       "lyrics_state": "complete",
+       "path": "/Luriea-madritai-death-of-the-surface-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Luriea-madritai-death-of-the-surface-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 19
+       },
+       "release_date_for_display": "February 19, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 19, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1761a0e843cb6137f5291cfcc8c2cfe2.474x474x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Death Of The Surface",
+       "title_with_featured": "Death Of The Surface",
+       "url": "https://genius.com/Luriea-madritai-death-of-the-surface-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3068324",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3068324,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Luriea Madritai",
+        "url": "https://genius.com/artists/Luriea-madritai"
+       }
+      },
+      {
+       "annotation_count": 33,
+       "api_path": "/songs/7406124",
+       "artist_names": "Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto - Cast",
+       "full_title": "All Of You by\u00a0Stephanie\u00a0Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto - Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.1000x1000x1.jpg",
+       "id": 7406124,
+       "language": "en",
+       "lyrics_owner_id": 5720794,
+       "lyrics_state": "complete",
+       "path": "/Stephanie-beatriz-olga-merediz-john-leguizamo-adassa-maluma-and-encanto-cast-all-of-you-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Stephanie-beatriz-olga-merediz-john-leguizamo-adassa-maluma-and-encanto-cast-all-of-you-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 87430
+       },
+       "title": "All Of You",
+       "title_with_featured": "All Of You",
+       "url": "https://genius.com/Stephanie-beatriz-olga-merediz-john-leguizamo-adassa-maluma-and-encanto-cast-all-of-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3004412",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3004412,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto - Cast",
+        "url": "https://genius.com/artists/Stephanie-beatriz-olga-merediz-john-leguizamo-adassa-maluma-and-encanto-cast"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7487654",
+       "artist_names": "Sugey Torres",
+       "full_title": "En lo profundo/Peso by\u00a0Sugey\u00a0Torres",
+       "header_image_thumbnail_url": "https://images.genius.com/fa66a63e39a7606878d6eb2d4da3523c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/fa66a63e39a7606878d6eb2d4da3523c.1000x1000x1.png",
+       "id": 7487654,
+       "language": "es",
+       "lyrics_owner_id": 12137814,
+       "lyrics_state": "complete",
+       "path": "/Sugey-torres-en-lo-profundo-peso-lyrics",
+       "pyongs_count": 5,
+       "relationships_index_url": "https://genius.com/Sugey-torres-en-lo-profundo-peso-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fa66a63e39a7606878d6eb2d4da3523c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/fa66a63e39a7606878d6eb2d4da3523c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 12595
+       },
+       "title": "En lo profundo/Peso",
+       "title_with_featured": "En lo profundo/Peso",
+       "url": "https://genius.com/Sugey-torres-en-lo-profundo-peso-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2987258",
+        "header_image_url": "https://images.genius.com/660f168083d147c5d0366b6bcfa51e1f.366x366x1.jpg",
+        "id": 2987258,
+        "image_url": "https://images.genius.com/660f168083d147c5d0366b6bcfa51e1f.366x366x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sugey Torres",
+        "url": "https://genius.com/artists/Sugey-torres"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Jessica-darrow-surface-pressure-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8680578",
+       "artist_names": "Thai McGrath",
+       "full_title": "Surface Pressure Anime Opening by\u00a0Thai\u00a0McGrath",
+       "header_image_thumbnail_url": "https://images.genius.com/fd9d033f55ca75ee6b5833db1e1de5bc.300x300x1.png",
+       "header_image_url": "https://images.genius.com/fd9d033f55ca75ee6b5833db1e1de5bc.1000x1000x1.png",
+       "id": 8680578,
+       "language": "ja",
+       "lyrics_owner_id": 11279157,
+       "lyrics_state": "complete",
+       "path": "/Thai-mcgrath-surface-pressure-anime-opening-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Thai-mcgrath-surface-pressure-anime-opening-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 2
+       },
+       "release_date_for_display": "March 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fd9d033f55ca75ee6b5833db1e1de5bc.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/fd9d033f55ca75ee6b5833db1e1de5bc.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure Anime Opening",
+       "title_with_featured": "Surface Pressure Anime Opening",
+       "url": "https://genius.com/Thai-mcgrath-surface-pressure-anime-opening-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3320579",
+        "header_image_url": "https://images.genius.com/0cb544cfdace19d7671ea733da0f5895.1000x562x1.jpg",
+        "id": 3320579,
+        "image_url": "https://images.genius.com/ad7c004d7be27cc4e8b87c077272cfec.957x957x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Thai McGrath",
+        "url": "https://genius.com/artists/Thai-mcgrath"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8054793",
+       "artist_names": "Cimorelli",
+       "full_title": "We Don't Talk About Bruno / Surface Pressure / The Family Madrigal / Waiting on a Miracle / What Else Can I Do? (From \u201cEncanto\u201d) by\u00a0Cimorelli",
+       "header_image_thumbnail_url": "https://images.genius.com/ec0f8a62b6f92a08ae8f4c8821216bba.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ec0f8a62b6f92a08ae8f4c8821216bba.600x600x1.jpg",
+       "id": 8054793,
+       "language": "en",
+       "lyrics_owner_id": 11803763,
+       "lyrics_state": "complete",
+       "path": "/Cimorelli-we-dont-talk-about-bruno-surface-pressure-the-family-madrigal-waiting-on-a-miracle-what-else-can-i-do-from-encanto-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cimorelli-we-dont-talk-about-bruno-surface-pressure-the-family-madrigal-waiting-on-a-miracle-what-else-can-i-do-from-encanto-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 16
+       },
+       "release_date_for_display": "April 16, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 16, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ec0f8a62b6f92a08ae8f4c8821216bba.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ec0f8a62b6f92a08ae8f4c8821216bba.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "We Don\u2019t Talk About Bruno / Surface Pressure / The Family Madrigal / Waiting on a Miracle / What Else Can I Do? (From \u201cEncanto\u201d)",
+       "title_with_featured": "We Don't Talk About Bruno / Surface Pressure / The Family Madrigal / Waiting on a Miracle / What Else Can I Do? (From \u201cEncanto\u201d)",
+       "url": "https://genius.com/Cimorelli-we-dont-talk-about-bruno-surface-pressure-the-family-madrigal-waiting-on-a-miracle-what-else-can-i-do-from-encanto-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/21788",
+        "header_image_url": "https://images.genius.com/fd1876ae70719b9d01584d4ac31b127f.1000x747x1.png",
+        "id": 21788,
+        "image_url": "https://images.genius.com/968a412430286e972b1ef3aea6a40c7c.741x741x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cimorelli",
+        "url": "https://genius.com/artists/Cimorelli"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7981522",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Surface Pressure by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/9815d977a8c44d3a3570b3aed0847b7b.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9815d977a8c44d3a3570b3aed0847b7b.1000x1000x1.png",
+       "id": 7981522,
+       "language": "en",
+       "lyrics_owner_id": 8348099,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-surface-pressure-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-surface-pressure-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 7,
+        "day": 15
+       },
+       "release_date_for_display": "July 15, 2022",
+       "release_date_with_abbreviated_month_for_display": "Jul. 15, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9815d977a8c44d3a3570b3aed0847b7b.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9815d977a8c44d3a3570b3aed0847b7b.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure",
+       "title_with_featured": "Surface Pressure",
+       "url": "https://genius.com/Kidz-bop-kids-surface-pressure-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7885948",
+       "artist_names": "Punk Rock Factory",
+       "full_title": "Surface Pressure by\u00a0Punk\u00a0Rock Factory",
+       "header_image_thumbnail_url": "https://images.genius.com/b37a3b536b3db471e5747bbcf53b1dda.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b37a3b536b3db471e5747bbcf53b1dda.440x440x1.png",
+       "id": 7885948,
+       "language": "en",
+       "lyrics_owner_id": 6936343,
+       "lyrics_state": "complete",
+       "path": "/Punk-rock-factory-surface-pressure-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Punk-rock-factory-surface-pressure-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 4
+       },
+       "release_date_for_display": "March 4, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 4, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b37a3b536b3db471e5747bbcf53b1dda.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b37a3b536b3db471e5747bbcf53b1dda.440x440x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure",
+       "title_with_featured": "Surface Pressure",
+       "url": "https://genius.com/Punk-rock-factory-surface-pressure-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2832802",
+        "header_image_url": "https://images.genius.com/9fa80dbb73c377a0287c31872d4d6900.240x240x1.png",
+        "id": 2832802,
+        "image_url": "https://images.genius.com/9fa80dbb73c377a0287c31872d4d6900.240x240x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Punk Rock Factory",
+        "url": "https://genius.com/artists/Punk-rock-factory"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7858555",
+       "artist_names": "No Resolve",
+       "full_title": "Surface Pressure by\u00a0No\u00a0Resolve",
+       "header_image_thumbnail_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+       "header_image_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+       "id": 7858555,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/No-resolve-surface-pressure-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/No-resolve-surface-pressure-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+       "song_art_image_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure",
+       "title_with_featured": "Surface Pressure",
+       "url": "https://genius.com/No-resolve-surface-pressure-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/405263",
+        "header_image_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+        "id": 405263,
+        "image_url": "https://images.genius.com/dbcdeae3606dbf8130ed9df585b64b02.283x283x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "No Resolve",
+        "url": "https://genius.com/artists/No-resolve"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7739961",
+       "artist_names": "Our Last Night",
+       "full_title": "Surface Pressure by\u00a0Our\u00a0Last Night",
+       "header_image_thumbnail_url": "https://images.genius.com/042e478a7abcbcc1b9d63fec24bd007f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/042e478a7abcbcc1b9d63fec24bd007f.500x500x1.jpg",
+       "id": 7739961,
+       "language": "en",
+       "lyrics_owner_id": 321054,
+       "lyrics_state": "complete",
+       "path": "/Our-last-night-surface-pressure-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Our-last-night-surface-pressure-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 24
+       },
+       "release_date_for_display": "February 24, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 24, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/042e478a7abcbcc1b9d63fec24bd007f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/042e478a7abcbcc1b9d63fec24bd007f.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure",
+       "title_with_featured": "Surface Pressure",
+       "url": "https://genius.com/Our-last-night-surface-pressure-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/126411",
+        "header_image_url": "https://images.genius.com/d58ca28774bb160753786dcbf9d7ca10.1000x281x1.png",
+        "id": 126411,
+        "image_url": "https://images.genius.com/03627944481dcdb782595e9d3e351853.959x959x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Our Last Night",
+        "url": "https://genius.com/artists/Our-last-night"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7702550",
+       "artist_names": "Mr. Parr",
+       "full_title": "Under the Surface Volcanoes by\u00a0Mr.\u00a0Parr",
+       "header_image_thumbnail_url": "https://images.genius.com/be4e77e65203de0ae6c22d2c13eb5910.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/be4e77e65203de0ae6c22d2c13eb5910.1000x563x1.jpg",
+       "id": 7702550,
+       "language": "en",
+       "lyrics_owner_id": 8376068,
+       "lyrics_state": "complete",
+       "path": "/Mr-parr-under-the-surface-volcanoes-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Mr-parr-under-the-surface-volcanoes-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 13
+       },
+       "release_date_for_display": "February 13, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 13, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/be4e77e65203de0ae6c22d2c13eb5910.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/be4e77e65203de0ae6c22d2c13eb5910.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Under the Surface Volcanoes",
+       "title_with_featured": "Under the Surface Volcanoes",
+       "url": "https://genius.com/Mr-parr-under-the-surface-volcanoes-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1458288",
+        "header_image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "id": 1458288,
+        "image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mr. Parr",
+        "url": "https://genius.com/artists/Mr-parr"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Jessica-darrow-surface-pressure-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8348122",
+       "artist_names": "Jessica Darrow & Alok",
+       "full_title": "Surface Pressure (From \"Encanto\") [Alok Remix] by\u00a0Jessica\u00a0Darrow & Alok",
+       "header_image_thumbnail_url": "https://images.genius.com/ef5b071e6f1e9b9a6f9930d368a505d2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ef5b071e6f1e9b9a6f9930d368a505d2.640x640x1.jpg",
+       "id": 8348122,
+       "language": "en",
+       "lyrics_owner_id": 4274810,
+       "lyrics_state": "complete",
+       "path": "/Jessica-darrow-and-alok-surface-pressure-from-encanto-alok-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jessica-darrow-and-alok-surface-pressure-from-encanto-alok-remix-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 2
+       },
+       "release_date_for_display": "September 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ef5b071e6f1e9b9a6f9930d368a505d2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ef5b071e6f1e9b9a6f9930d368a505d2.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Surface Pressure (From \u201dEncanto\u201d) [Alok Remix]",
+       "title_with_featured": "Surface Pressure (From \"Encanto\") [Alok Remix]",
+       "url": "https://genius.com/Jessica-darrow-and-alok-surface-pressure-from-encanto-alok-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3282007",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3282007,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jessica Darrow & Alok",
+        "url": "https://genius.com/artists/Jessica-darrow-and-alok"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7738037",
+       "artist_names": "Jeske van de Staak",
+       "full_title": "Sterk zijn by\u00a0Jeske\u00a0van de Staak",
+       "header_image_thumbnail_url": "https://images.genius.com/e8ce37b551debdd8cf97ddcaf8d51b94.300x300x1.png",
+       "header_image_url": "https://images.genius.com/e8ce37b551debdd8cf97ddcaf8d51b94.1000x1000x1.png",
+       "id": 7738037,
+       "language": "nl",
+       "lyrics_owner_id": 11883186,
+       "lyrics_state": "complete",
+       "path": "/Jeske-van-de-staak-sterk-zijn-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jeske-van-de-staak-sterk-zijn-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 3
+       },
+       "release_date_for_display": "December 3, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 3, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e8ce37b551debdd8cf97ddcaf8d51b94.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/e8ce37b551debdd8cf97ddcaf8d51b94.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sterk zijn",
+       "title_with_featured": "Sterk zijn",
+       "url": "https://genius.com/Jeske-van-de-staak-sterk-zijn-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1687535",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 1687535,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jeske van de Staak",
+        "url": "https://genius.com/artists/Jeske-van-de-staak"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7647135",
+       "artist_names": "\u0110\u1eb7ng T\u00fa H\u1ea1nh",
+       "full_title": "\u00c1p L\u1ef1c T\u1eeb B\u00ean Trong by\u00a0\u0110\u1eb7ng\u00a0T\u00fa H\u1ea1nh",
+       "header_image_thumbnail_url": "https://images.genius.com/8ace1ba20104a373785fd0e6d5c5090b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8ace1ba20104a373785fd0e6d5c5090b.1000x1000x1.jpg",
+       "id": 7647135,
+       "language": "vi",
+       "lyrics_owner_id": 8475330,
+       "lyrics_state": "complete",
+       "path": "/Ang-tu-hanh-ap-luc-tu-ben-trong-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ang-tu-hanh-ap-luc-tu-ben-trong-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 1,
+        "day": 27
+       },
+       "release_date_for_display": "January 27, 2022",
+       "release_date_with_abbreviated_month_for_display": "Jan. 27, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8ace1ba20104a373785fd0e6d5c5090b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8ace1ba20104a373785fd0e6d5c5090b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "\u00c1p L\u1ef1c T\u1eeb B\u00ean Trong",
+       "title_with_featured": "\u00c1p L\u1ef1c T\u1eeb B\u00ean Trong",
+       "url": "https://genius.com/Ang-tu-hanh-ap-luc-tu-ben-trong-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3040971",
+        "header_image_url": "https://images.genius.com/c5ad7ab80830a5987fa1bf8f15c0f7f0.960x720x1.jpg",
+        "id": 3040971,
+        "image_url": "https://images.genius.com/404cffd9aeafb080307ee974f7a6ad87.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u0110\u1eb7ng T\u00fa H\u1ea1nh",
+        "url": "https://genius.com/artists/Ang-tu-hanh"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7404650",
+       "artist_names": "Lara Suleiman",
+       "full_title": "Estou Nervosa by\u00a0Lara\u00a0Suleiman",
+       "header_image_thumbnail_url": "https://images.genius.com/cd193afa010c1a91b00059a452f409c0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cd193afa010c1a91b00059a452f409c0.1000x1000x1.jpg",
+       "id": 7404650,
+       "language": "pt",
+       "lyrics_owner_id": 5976492,
+       "lyrics_state": "complete",
+       "path": "/Lara-suleiman-estou-nervosa-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lara-suleiman-estou-nervosa-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cd193afa010c1a91b00059a452f409c0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cd193afa010c1a91b00059a452f409c0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Estou Nervosa",
+       "title_with_featured": "Estou Nervosa",
+       "url": "https://genius.com/Lara-suleiman-estou-nervosa-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1830843",
+        "header_image_url": "https://images.genius.com/b03e70ec57f01ca1aed23583177d452a.320x320x1.jpg",
+        "id": 1830843,
+        "image_url": "https://images.genius.com/b03e70ec57f01ca1aed23583177d452a.320x320x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lara Suleiman",
+        "url": "https://genius.com/artists/Lara-suleiman"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7555808",
+       "artist_names": "Anna-Lisa Kumoji",
+       "full_title": "Presset by\u00a0Anna-Lisa\u00a0Kumoji",
+       "header_image_thumbnail_url": "https://images.genius.com/b6b8ecaf9c57328478880e7636fcac97.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b6b8ecaf9c57328478880e7636fcac97.499x499x1.png",
+       "id": 7555808,
+       "language": "no",
+       "lyrics_owner_id": 6936343,
+       "lyrics_state": "complete",
+       "path": "/Anna-lisa-kumoji-presset-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Anna-lisa-kumoji-presset-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 3
+       },
+       "release_date_for_display": "December 3, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 3, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b6b8ecaf9c57328478880e7636fcac97.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b6b8ecaf9c57328478880e7636fcac97.499x499x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Presset",
+       "title_with_featured": "Presset",
+       "url": "https://genius.com/Anna-lisa-kumoji-presset-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1708759",
+        "header_image_url": "https://images.genius.com/d2c7899ac9a2f5eacbc07e3c5ba536f0.280x280x1.png",
+        "id": 1708759,
+        "image_url": "https://images.genius.com/d2c7899ac9a2f5eacbc07e3c5ba536f0.280x280x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Anna-Lisa Kumoji",
+        "url": "https://genius.com/artists/Anna-lisa-kumoji"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7406295",
+       "artist_names": "Lin-Manuel Miranda",
+       "full_title": "Surface Pressure (Instrumental) by\u00a0Lin-Manuel\u00a0Miranda",
+       "header_image_thumbnail_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.1000x1000x1.jpg",
+       "id": 7406295,
+       "language": "en",
+       "lyrics_owner_id": 5720794,
+       "lyrics_state": "complete",
+       "path": "/Lin-manuel-miranda-surface-pressure-instrumental-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lin-manuel-miranda-surface-pressure-instrumental-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ff56bc835fc0fc35677f169c34b305b5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Surface Pressure (Instrumental)",
+       "title_with_featured": "Surface Pressure (Instrumental)",
+       "url": "https://genius.com/Lin-manuel-miranda-surface-pressure-instrumental-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/13426",
+        "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+        "id": 13426,
+        "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Lin-Manuel Miranda",
+        "url": "https://genius.com/artists/Lin-manuel-miranda",
+        "iq": 30116
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7529756",
+       "artist_names": "Ana Ka (FRA)",
+       "full_title": "Sous les apparences by\u00a0Ana\u00a0Ka (FRA)",
+       "header_image_thumbnail_url": "https://images.genius.com/dcdad956d28aea726e62af447b5890bb.300x300x1.png",
+       "header_image_url": "https://images.genius.com/dcdad956d28aea726e62af447b5890bb.1000x1000x1.png",
+       "id": 7529756,
+       "language": "fr",
+       "lyrics_owner_id": 10340852,
+       "lyrics_state": "complete",
+       "path": "/Ana-ka-fra-sous-les-apparences-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ana-ka-fra-sous-les-apparences-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 24
+       },
+       "release_date_for_display": "November 24, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 24, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/dcdad956d28aea726e62af447b5890bb.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/dcdad956d28aea726e62af447b5890bb.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sous les apparences",
+       "title_with_featured": "Sous les apparences",
+       "url": "https://genius.com/Ana-ka-fra-sous-les-apparences-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3001142",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3001142,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ana Ka (FRA)",
+        "url": "https://genius.com/artists/Ana-ka-fra"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7529481",
+       "artist_names": "\u3086\u3081\u3063\u3061 (Yumecchi)",
+       "full_title": "\u5897\u3057\u3066\u3044\u304f\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc (Surface Pressure) by\u00a0\u3086\u3081\u3063\u3061\u00a0(Yumecchi)",
+       "header_image_thumbnail_url": "https://images.genius.com/c85c60fdffe26efcbef93787283a6b62.300x300x1.png",
+       "header_image_url": "https://images.genius.com/c85c60fdffe26efcbef93787283a6b62.1000x1000x1.png",
+       "id": 7529481,
+       "language": "ja",
+       "lyrics_owner_id": 10340852,
+       "lyrics_state": "complete",
+       "path": "/Yumecchi-surface-pressure-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Yumecchi-surface-pressure-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 26
+       },
+       "release_date_for_display": "November 26, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 26, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c85c60fdffe26efcbef93787283a6b62.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/c85c60fdffe26efcbef93787283a6b62.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 5493
+       },
+       "title": "\u5897\u3057\u3066\u3044\u304f\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc (Surface Pressure)",
+       "title_with_featured": "\u5897\u3057\u3066\u3044\u304f\u30d7\u30ec\u30c3\u30b7\u30e3\u30fc (Surface Pressure)",
+       "url": "https://genius.com/Yumecchi-surface-pressure-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3001098",
+        "header_image_url": "https://images.genius.com/ba76496d7f624d3053d628c48597cd83.315x315x1.jpg",
+        "id": 3001098,
+        "image_url": "https://images.genius.com/ba76496d7f624d3053d628c48597cd83.315x315x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u3086\u3081\u3063\u3061 (Yumecchi)",
+        "url": "https://genius.com/artists/Yumecchi"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7535204",
+       "artist_names": "Jenniffer Kae",
+       "full_title": "Druck by\u00a0Jenniffer\u00a0Kae",
+       "header_image_thumbnail_url": "https://images.genius.com/3e4c77ad8991cf91b9b72d18ac339a82.300x300x1.png",
+       "header_image_url": "https://images.genius.com/3e4c77ad8991cf91b9b72d18ac339a82.1000x1000x1.png",
+       "id": 7535204,
+       "language": "de",
+       "lyrics_owner_id": 2171344,
+       "lyrics_state": "complete",
+       "path": "/Jenniffer-kae-druck-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Jenniffer-kae-druck-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/3e4c77ad8991cf91b9b72d18ac339a82.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/3e4c77ad8991cf91b9b72d18ac339a82.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7336
+       },
+       "title": "Druck",
+       "title_with_featured": "Druck",
+       "url": "https://genius.com/Jenniffer-kae-druck-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/368993",
+        "header_image_url": "https://images.genius.com/1867c46b220c42f88e5d97e03bec0591.1000x1000x1.jpg",
+        "id": 368993,
+        "image_url": "https://images.genius.com/1867c46b220c42f88e5d97e03bec0591.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jenniffer Kae",
+        "url": "https://genius.com/artists/Jenniffer-kae"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8568614",
+       "artist_names": "Cathy Go",
+       "full_title": "Pag Nagigipit by\u00a0Cathy\u00a0Go",
+       "header_image_thumbnail_url": "https://images.genius.com/4992369614010b18d93f4a478dfe9d02.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4992369614010b18d93f4a478dfe9d02.640x640x1.jpg",
+       "id": 8568614,
+       "language": "tl",
+       "lyrics_owner_id": 6685173,
+       "lyrics_state": "complete",
+       "path": "/Cathy-go-pag-nagigipit-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cathy-go-pag-nagigipit-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 18
+       },
+       "release_date_for_display": "November 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4992369614010b18d93f4a478dfe9d02.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4992369614010b18d93f4a478dfe9d02.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Pag Nagigipit",
+       "title_with_featured": "Pag Nagigipit",
+       "url": "https://genius.com/Cathy-go-pag-nagigipit-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/987642",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 987642,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cathy Go",
+        "url": "https://genius.com/artists/Cathy-go"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/8568614",
+     "id": 8568614,
+     "language": "tl",
+     "lyrics_state": "complete",
+     "path": "/Cathy-go-pag-nagigipit-lyrics",
+     "title": "Pag Nagigipit",
+     "url": "https://genius.com/Cathy-go-pag-nagigipit-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/13426",
+     "header_image_url": "https://images.genius.com/237aec2a1b157197445b1ff0792f8e14.700x394x1.jpg",
+     "id": 13426,
+     "image_url": "https://images.genius.com/f5cecb403364fda3cf9cee95e2fec842.1000x667x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lin-Manuel Miranda",
+     "url": "https://genius.com/artists/Lin-manuel-miranda",
+     "iq": 30116
+    }
+   ],
+   "artist": "Jessica Darrow",
+   "lyrics": "110 ContributorsTranslationsTagalog / \u1706\u1704\u170e\u1713\u1704\u1714Surface Pressure Lyrics[Intro]\nI'm the strong one, I'm not nervous\nI'm as tough as the crust of the Earth is\nI move mountains, I move churches\nAnd I glow, 'cause I know what my worth is\nI don't ask how hard the work is\nGot a rough, indestructible surface\nDiamonds and platinum, I find 'em, I flatten 'em\nI take what I'm handed, I break what's demanded, but\n\n[Verse 1]\nUnder the surface\nI feel berserk as a tightrope walker in a three-ring circus\nUnder the surface\nWas Hercules ever like, \"Yo, I don't wanna fight Cerberus?\"\nUnder the surface\nI'm pretty sur\u0435 I'm worthless if I can't be of servic\u0435\n[Pre-Chorus]\nA flaw or a crack, the straw in the stack\nThat breaks the camel's back\nWhat breaks the camel's back, it's\n\n[Chorus]\nPressure like a drip, drip, drip that'll never stop, whoa\nPressure that'll tip, tip, tip 'til you just go pop, whoa-oh-oh\nGive it to your sister, your sister's older\nGive her all the heavy things we can't shoulder\nWho am I if I can't run with the ball?\nIf I fall to\nPressure like a grip, grip, grip, and it won't let go, whoa\nPressure like a tick, tick, tick 'til it's ready to blow, whoa-oh-oh\nGive it to your sister, your sister's stronger\nSee if she can hang on a little longer\nWho am I if I can't carry it all?\nIf I falter\n\n[Verse 2]\nUnder the surface\nI hide my nerves and it worsens, I worry somethin' is gonna hurt us\nUnder the surface\nThe ship doesn't swerve, has it heard how big the iceberg is?\nUnder the surface\nI think about my purpose, can I somehow preserve this?\nLine up the dominoes, a light wind blows\nYou try to stop it tumbling, but on and on it goes\nYou might also like[Bridge]\nBut wait, if I could shake the crushing weight of expectations\nWould that free some room up for joy\nOr relaxation, or simple pleasure?\nInstead, we measure this growing pressure\nKeeps growing, keep going, 'cause all we know is\n\n[Chorus]\nPressure like a drip, drip, drip that'll never stop, whoa\nPressure that'll tip, tip, tip 'til you just go pop, whoa-oh-oh\nGive it to your sister, it doesn't hurt and\nSee if she can handle every family burden\nWatch as she buckles and bends but never breaks\nNo mistakes, just\nPressure like a grip, grip, grip, and it won't let go, whoa\nPressure like a tick, tick, tick 'til it's ready to blow, whoa-oh-oh\nGive it to your sister and never wonder\nIf the same pressure would've pulled you under\nWho am I if I don't have what it takes?\nNo cracks, no breaks\nNo mistakes, no pressure40Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/8527292",
+   "artist_names": "Jessica Darrow",
+   "full_title": "A Little More by\u00a0Jessica\u00a0Darrow",
+   "header_image_thumbnail_url": "https://images.genius.com/2384b5a2198284fc506642908e1f31c2.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2384b5a2198284fc506642908e1f31c2.1000x1000x1.jpg",
+   "id": 8527292,
+   "language": "en",
+   "lyrics_owner_id": 18410149,
+   "lyrics_state": "complete",
+   "path": "/Jessica-darrow-a-little-more-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jessica-darrow-a-little-more-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 11,
+    "day": 2
+   },
+   "release_date_for_display": "November 2, 2022",
+   "release_date_with_abbreviated_month_for_display": "Nov. 2, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2384b5a2198284fc506642908e1f31c2.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2384b5a2198284fc506642908e1f31c2.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "A Little More",
+   "title_with_featured": "A Little More",
+   "url": "https://genius.com/Jessica-darrow-a-little-more-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2958546",
+    "header_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "id": 2958546,
+    "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jessica Darrow",
+    "url": "https://genius.com/artists/Jessica-darrow"
+   },
+   "apple_music_id": "1651720200",
+   "apple_music_player_url": "https://genius.com/songs/8527292/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_8527292' class='rg_embed_link' data-song-id='8527292'>Read <a href='https://genius.com/Jessica-darrow-a-little-more-lyrics'>\u201cA Little More\u201d by Jessica\u00a0Darrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/8527292/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-11-02",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/1392327",
+       "header_image_url": "https://images.genius.com/7c07e87687062ea60e769918757c3b74.1000x158x1.jpg",
+       "id": 1392327,
+       "image_url": "https://images.genius.com/62765e60266779986c00bc28340379ea.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Austin Zudeck",
+       "url": "https://genius.com/artists/Austin-zudeck"
+      },
+      {
+       "api_path": "/artists/1392328",
+       "header_image_url": "https://images.genius.com/238696f5f2ea0c31980c4b8552232dcd.1000x521x1.jpg",
+       "id": 1392328,
+       "image_url": "https://images.genius.com/f35fbc278a5aa1dceefb9d7c05d6f45b.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Thunstrom",
+       "url": "https://genius.com/artists/Justin-thunstrom"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/1392328",
+       "header_image_url": "https://images.genius.com/238696f5f2ea0c31980c4b8552232dcd.1000x521x1.jpg",
+       "id": 1392328,
+       "image_url": "https://images.genius.com/f35fbc278a5aa1dceefb9d7c05d6f45b.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Thunstrom",
+       "url": "https://genius.com/artists/Justin-thunstrom"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1392327",
+       "header_image_url": "https://images.genius.com/7c07e87687062ea60e769918757c3b74.1000x158x1.jpg",
+       "id": 1392327,
+       "image_url": "https://images.genius.com/62765e60266779986c00bc28340379ea.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Austin Zudeck",
+       "url": "https://genius.com/artists/Austin-zudeck"
+      },
+      {
+       "api_path": "/artists/1392328",
+       "header_image_url": "https://images.genius.com/238696f5f2ea0c31980c4b8552232dcd.1000x521x1.jpg",
+       "id": 1392328,
+       "image_url": "https://images.genius.com/f35fbc278a5aa1dceefb9d7c05d6f45b.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Thunstrom",
+       "url": "https://genius.com/artists/Justin-thunstrom"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/1392327",
+       "header_image_url": "https://images.genius.com/7c07e87687062ea60e769918757c3b74.1000x158x1.jpg",
+       "id": 1392327,
+       "image_url": "https://images.genius.com/62765e60266779986c00bc28340379ea.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Austin Zudeck",
+       "url": "https://genius.com/artists/Austin-zudeck"
+      },
+      {
+       "api_path": "/artists/1392328",
+       "header_image_url": "https://images.genius.com/238696f5f2ea0c31980c4b8552232dcd.1000x521x1.jpg",
+       "id": 1392328,
+       "image_url": "https://images.genius.com/f35fbc278a5aa1dceefb9d7c05d6f45b.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Thunstrom",
+       "url": "https://genius.com/artists/Justin-thunstrom"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1392327",
+       "header_image_url": "https://images.genius.com/7c07e87687062ea60e769918757c3b74.1000x158x1.jpg",
+       "id": 1392327,
+       "image_url": "https://images.genius.com/62765e60266779986c00bc28340379ea.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Austin Zudeck",
+       "url": "https://genius.com/artists/Austin-zudeck"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1101994",
+       "header_image_url": "https://images.genius.com/7da961fdf2e58c2c17327f0624e94d17.487x487x1.jpg",
+       "id": 1101994,
+       "image_url": "https://images.genius.com/7da961fdf2e58c2c17327f0624e94d17.487x487x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Barnes",
+       "url": "https://genius.com/artists/Matt-barnes"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 54639,
+    "annotator_login": "WriteNProppa",
+    "api_path": "/referents/27058165",
+    "classification": "needs_exegesis",
+    "fragment": "A Little More",
+    "id": 27058165,
+    "is_description": true,
+    "path": "/27058165/Jessica-darrow-a-little-more/A-little-more",
+    "range": {
+     "content": "A Little More"
+    },
+    "song_id": 8527292,
+    "url": "https://genius.com/27058165/Jessica-darrow-a-little-more/A-little-more",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8527292",
+     "client_timestamps": {
+      "updated_by_human_at": 1680894739,
+      "lyrics_updated_at": 1668042645
+     },
+     "context": "Jessica Darrow",
+     "id": 8527292,
+     "image_url": "https://images.genius.com/2384b5a2198284fc506642908e1f31c2.1000x1000x1.jpg",
+     "link_title": "A Little More by\u00a0Jessica\u00a0Darrow",
+     "title": "A Little More",
+     "type": "Song",
+     "url": "https://genius.com/Jessica-darrow-a-little-more-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/27058165",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 27058165,
+      "pinned": false,
+      "share_url": "https://genius.com/27058165",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/27058165/Jessica-darrow-a-little-more/A-little-more",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/54639",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "human_readable_role_for_display": "Staff",
+         "id": 54639,
+         "iq": 2709645,
+         "login": "WriteNProppa",
+         "name": "WriteNProppa",
+         "role_for_display": "staff",
+         "url": "https://genius.com/WriteNProppa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dh847Xku1Aw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1392329",
+     "header_image_url": "https://images.genius.com/e9c6b132819655802c871270a1f69269.1000x807x1.jpg",
+     "id": 1392329,
+     "image_url": "https://images.genius.com/53f2e65f444e07a92412c353b9dd60aa.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "PARKWILD",
+     "url": "https://genius.com/artists/Parkwild"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8995279",
+       "artist_names": "Fabi Bang",
+       "full_title": "Um Pouco Mais by\u00a0Fabi\u00a0Bang",
+       "header_image_thumbnail_url": "https://images.genius.com/a89515fadf254b23244c42d478bbf10b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a89515fadf254b23244c42d478bbf10b.600x600x1.jpg",
+       "id": 8995279,
+       "language": "pt",
+       "lyrics_owner_id": 5976492,
+       "lyrics_state": "complete",
+       "path": "/Fabi-bang-um-pouco-mais-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fabi-bang-um-pouco-mais-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a89515fadf254b23244c42d478bbf10b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a89515fadf254b23244c42d478bbf10b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Um Pouco Mais",
+       "title_with_featured": "Um Pouco Mais",
+       "url": "https://genius.com/Fabi-bang-um-pouco-mais-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/670196",
+        "header_image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+        "id": 670196,
+        "image_url": "https://images.genius.com/dacd24592c7a3c71d3b4d76d0b2fc929.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fabi Bang",
+        "url": "https://genius.com/artists/Fabi-bang"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8520582",
+       "artist_names": "Nelli Matula",
+       "full_title": "V\u00e4h\u00e4n enemm\u00e4n by\u00a0Nelli\u00a0Matula",
+       "header_image_thumbnail_url": "https://images.genius.com/3ecdff89459a94fbc7dec52d6cc81a9a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3ecdff89459a94fbc7dec52d6cc81a9a.1000x1000x1.jpg",
+       "id": 8520582,
+       "language": "fi",
+       "lyrics_owner_id": 3619794,
+       "lyrics_state": "complete",
+       "path": "/Nelli-matula-vahan-enemman-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Nelli-matula-vahan-enemman-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3ecdff89459a94fbc7dec52d6cc81a9a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3ecdff89459a94fbc7dec52d6cc81a9a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "V\u00e4h\u00e4n enemm\u00e4n",
+       "title_with_featured": "V\u00e4h\u00e4n enemm\u00e4n",
+       "url": "https://genius.com/Nelli-matula-vahan-enemman-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1108113",
+        "header_image_url": "https://images.genius.com/ccf6b17552ca6dcbe9039a85c64462a8.1000x490x1.png",
+        "id": 1108113,
+        "image_url": "https://images.genius.com/b79928f0f8b074a3a722bd7227e79f0f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nelli Matula",
+        "url": "https://genius.com/artists/Nelli-matula"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8529694",
+       "artist_names": "Olivia Lobato",
+       "full_title": "\u00c4nnu mer by\u00a0Olivia\u00a0Lobato",
+       "header_image_thumbnail_url": "https://images.genius.com/60c21601cf248ef2c16cf662b16fcb28.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/60c21601cf248ef2c16cf662b16fcb28.300x300x1.jpg",
+       "id": 8529694,
+       "language": "sv",
+       "lyrics_owner_id": 10697931,
+       "lyrics_state": "complete",
+       "path": "/Olivia-lobato-annu-mer-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Olivia-lobato-annu-mer-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/60c21601cf248ef2c16cf662b16fcb28.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/60c21601cf248ef2c16cf662b16fcb28.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "\u00c4nnu mer",
+       "title_with_featured": "\u00c4nnu mer",
+       "url": "https://genius.com/Olivia-lobato-annu-mer-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2732107",
+        "header_image_url": "https://images.genius.com/db73e75541a7af6e439568ffb9039017.900x900x1.jpg",
+        "id": 2732107,
+        "image_url": "https://images.genius.com/db73e75541a7af6e439568ffb9039017.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Olivia Lobato",
+        "url": "https://genius.com/artists/Olivia-lobato"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1392327",
+     "header_image_url": "https://images.genius.com/7c07e87687062ea60e769918757c3b74.1000x158x1.jpg",
+     "id": 1392327,
+     "image_url": "https://images.genius.com/62765e60266779986c00bc28340379ea.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Austin Zudeck",
+     "url": "https://genius.com/artists/Austin-zudeck"
+    },
+    {
+     "api_path": "/artists/1392328",
+     "header_image_url": "https://images.genius.com/238696f5f2ea0c31980c4b8552232dcd.1000x521x1.jpg",
+     "id": 1392328,
+     "image_url": "https://images.genius.com/f35fbc278a5aa1dceefb9d7c05d6f45b.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Thunstrom",
+     "url": "https://genius.com/artists/Justin-thunstrom"
+    },
+    {
+     "api_path": "/artists/3059275",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 3059275,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rose Tan",
+     "url": "https://genius.com/artists/Rose-tan"
+    },
+    {
+     "api_path": "/artists/2147345",
+     "header_image_url": "https://images.genius.com/31c432d16a1fb13c1d7d51546a12b5c8.1000x661x1.jpg",
+     "id": 2147345,
+     "image_url": "https://images.genius.com/72e1a39bd47470b888bc6cdd9c93d3d0.546x546x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Sofia Quinn",
+     "url": "https://genius.com/artists/Sofia-quinn",
+     "iq": 194
+    }
+   ],
+   "artist": "Jessica Darrow",
+   "lyrics": "4 ContributorsA Little More Lyrics[Verse 1]\nDark, sometimes I feel alone in the dark\nWhen I'm looking for a friend, there you are\nAnd you know just how to steady my heart\n\n[Verse 2]\nClose, I'm hoping that we'll always stay close\nEven when things are changing the most\nI know that I can always come home\n\n[Refrain]\nWhen it only starts to change\nWish that it would stay the same\nBut I'll be strong the way you showed me to\n[Chorus]\nThere in the shadow, lighting the way home\nWhen I turn around, you're already there\nSometimes in the moment, it's hard to notic\u0435\nYou're all I've been looking for, and a little mor\u0435\n\n[Verse 3]\nLost, it's ok cause we all feel a little lost\nLooking at the stars, I know just where you are\nI can feel you there, you're never too far\n\n[Refrain]\nWhen it only starts to change\nWish that it would stay the same\nBut I'll be strong the way you showed me to\n\n[Chorus]\nThere in the shadow, lighting the way home\nWhen I turn around, you're already there\nSometimes in the moment, it's hard to notice\nYou're all I've been looking for, and a little more\nYou're all I've been looking for, and a little more\n\n[Bridge]\nA little more love that never leaves\nA little more help me on my feet\nA little of what you need me to be\nYou might also like[Chorus]\nThere in the shadow, lighting the way home\nI turn around, you're already there\nSometimes in the moment, it's hard to notice\nYou're all I've been looking for, and a little more\nYou're all I've been looking for, and a little moreEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/9030444",
+   "artist_names": "Jessica Darrow",
+   "full_title": "The Top Benefits of Ceramic Tint for Your Car by\u00a0Jessica\u00a0Darrow",
+   "header_image_thumbnail_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+   "id": 9030444,
+   "language": "en",
+   "lyrics_owner_id": 15874392,
+   "lyrics_state": "complete",
+   "path": "/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car-annotated",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "The Top Benefits of Ceramic Tint for Your Car",
+   "title_with_featured": "The Top Benefits of Ceramic Tint for Your Car",
+   "url": "https://genius.com/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car-annotated",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2958546",
+    "header_image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "id": 2958546,
+    "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jessica Darrow",
+    "url": "https://genius.com/artists/Jessica-darrow"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/9030444/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_9030444' class='rg_embed_link' data-song-id='9030444'>Read <a href='https://genius.com/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car-annotated'>\u201cThe Top Benefits of Ceramic Tint for Your Car\u201d by Jessica\u00a0Darrow</a> on Genius</div> <script crossorigin src='//genius.com/songs/9030444/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_recommendations",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15874392,
+    "annotator_login": "arunseo",
+    "api_path": "/referents/28312242",
+    "classification": "needs_exegesis",
+    "fragment": "The Top Benefits of Ceramic Tint for Your Car",
+    "id": 28312242,
+    "is_description": true,
+    "path": "/28312242/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car/The-top-benefits-of-ceramic-tint-for-your-car",
+    "range": {
+     "content": "The Top Benefits of Ceramic Tint for Your Car"
+    },
+    "song_id": 9030444,
+    "url": "https://genius.com/28312242/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car/The-top-benefits-of-ceramic-tint-for-your-car",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/9030444",
+     "client_timestamps": {
+      "updated_by_human_at": 1681829165,
+      "lyrics_updated_at": 1681829165
+     },
+     "context": "Jessica Darrow",
+     "id": 9030444,
+     "image_url": "https://images.genius.com/a821ff9d0e29a8fd1883bff0ff5ca60f.900x900x1.jpg",
+     "link_title": "The Top Benefits of Ceramic Tint for Your Car by\u00a0Jessica\u00a0Darrow",
+     "title": "The Top Benefits of Ceramic Tint for Your Car",
+     "type": "Song",
+     "url": "https://genius.com/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car-annotated"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/28312242",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 28312242,
+      "pinned": false,
+      "share_url": "https://genius.com/28312242",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/28312242/Jessica-darrow-the-top-benefits-of-ceramic-tint-for-your-car/The-top-benefits-of-ceramic-tint-for-your-car",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15874392",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f11ab4a5fe7b63cda735e848eb48a0be",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f11ab4a5fe7b63cda735e848eb48a0be",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f11ab4a5fe7b63cda735e848eb48a0be",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f11ab4a5fe7b63cda735e848eb48a0be",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/f11ab4a5fe7b63cda735e848eb48a0be",
+         "human_readable_role_for_display": null,
+         "id": 15874392,
+         "iq": 122,
+         "login": "arunseo",
+         "name": "arunseo",
+         "role_for_display": null,
+         "url": "https://genius.com/arunseo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Jessica Darrow",
+   "lyrics": "1 ContributorThe Top Benefits of Ceramic Tint for Your Car LyricsAre you tired of feeling like a human oven every time you step into your car during the summer months? Do you want to protect your vehicle's interior from harmful UV rays and keep it looking new for longer? Look no further than ceramic tint! In this blog post, we'll explore the top benefits of ceramic tint for your car, including improved comfort, increased privacy, and enhanced safety. So buckle up and let's dive in!What is Ceramic Tint?If you're looking for a new way to protect your car's paint job, ceramic tint may be the perf\u0435ct solution. Ceramic tint is made from a special typ\u0435 of glass that is fused with a ceramic material.\n\nCeramic tint also has several other benefits:\n\nIt blocks out sunlight and heat, which can make your car more comfortable in summertime. It can help keep your car's interior clean and free of dust and dirt.Types of Ceramic TintCeramic tinting is a process that uses ceramic materials to selectively block out light. This can be helpful for a number of reasons, including reducing the glare from sun and streetlights, improving privacy in your car, and protecting your vehicle's interior from damage.\n\nThere are a variety of different types of ceramic tinting available, each with its own set of benefits and drawbacks. Here are three of the most common types:\n\n1) Solar Film Tinting: This type of tint is made up of small pieces of ceramic that are bonded to the surface of your window. When sunlight hits these tiny particles, it is refracted (bounced off) in all directions instead of entering through the window and hitting your eyes. This results in reduced glare and improved privacy while driving.\n\nHowever, solar film tints can be less effective at filtering out sunlight than other types of tints. They also tend to be more expensive than other types and may not be suitable for all windows or vehicles.\n2) Cold Film Tinting: Cold film tints work much like solar film tints but use cold temperatures instead of sunlight to bond the ceramic particles to the glass. This makes them more durable and resistant to fading over time, as well as providing better filtering capabilities against sunlight.\n\nWhile cold film tints are generally more expensive than solar film tints, they're also less likely to cause headaches or eyestrain when used inBenefits of Ceramic Tint for Your CarThere are a number of reasons why ceramic tinting is a great choice for your car. First, it is anti-reflective, so you'll see less glare in the sunlight. Second, it resists wear and tear, meaning that your car's finish will last longer. Finally, ceramic tinting filters out both ultraviolet light and infrared radiation, which can damage your car's interior.ConclusionCeramic tinting for your car can bring a whole new level of luxury to your driving experience. Not only will you be looking good while cruising down the highway in style, but you'll also be protecting your car from the sun's harmful rays. Plus, ceramic tint is extremely low-maintenance and easy to keep clean - making it a great choice for drivers on the go. If you're interested in adding some luxurious refinement to your driving experience, consider investing in ceramic tint for your car!Embed"
+  }
+ ]
+}

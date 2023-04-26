@@ -1,0 +1,1683 @@
+{
+ "alternate_names": [
+  "Michael Wilson Hardy",
+  "Michael Hardy"
+ ],
+ "api_path": "/artists/1677420",
+ "description": {
+  "plain": "Michael Wilson Hardy, Michael Hardy known professionally as Hardy, is an American country music singer and songwriter. He has written songs for Florida Georgia Line, Chris Lane, Blake Shelton, Dallas Smith, Thomas Rhett, and Morgan Wallen."
+ },
+ "facebook_name": null,
+ "followers_count": 19,
+ "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+ "id": 1677420,
+ "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+ "instagram_name": "hardy",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "HARDY",
+ "translation_artist": false,
+ "twitter_name": "hardymusic",
+ "url": "https://genius.com/artists/Hardy",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 486,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 15404597,
+  "annotator_login": "Alexis_Anne_M",
+  "api_path": "/referents/22229565",
+  "classification": "unreviewed",
+  "fragment": "HARDY",
+  "id": 22229565,
+  "is_description": true,
+  "path": "/22229565/Hardy/Hardy",
+  "range": {
+   "content": "HARDY"
+  },
+  "song_id": null,
+  "url": "https://genius.com/22229565/Hardy/Hardy",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1677420",
+   "context": null,
+   "id": 1677420,
+   "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+   "link_title": "HARDY",
+   "title": "HARDY",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Hardy"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/22229565",
+    "body": {
+     "plain": "Michael Wilson Hardy, Michael Hardy known professionally as Hardy, is an American country music singer and songwriter. He has written songs for Florida Georgia Line, Chris Lane, Blake Shelton, Dallas Smith, Thomas Rhett, and Morgan Wallen."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 22229565,
+    "pinned": false,
+    "share_url": "https://genius.com/22229565",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/22229565/Hardy/Hardy",
+    "verified": false,
+    "votes_total": 8,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/15404597",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/1a0a5c9e9ef146ff49ea8f63a454cac3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/1a0a5c9e9ef146ff49ea8f63a454cac3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/1a0a5c9e9ef146ff49ea8f63a454cac3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/1a0a5c9e9ef146ff49ea8f63a454cac3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/1a0a5c9e9ef146ff49ea8f63a454cac3",
+       "human_readable_role_for_display": null,
+       "id": 15404597,
+       "iq": 186,
+       "login": "Alexis_Anne_M",
+       "name": "Alexis_Anne_M",
+       "role_for_display": null,
+       "url": "https://genius.com/Alexis_Anne_M",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/18261091",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/bbf4f6b4b577bf052ac764ce38f7dacf",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/bbf4f6b4b577bf052ac764ce38f7dacf",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/bbf4f6b4b577bf052ac764ce38f7dacf",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/bbf4f6b4b577bf052ac764ce38f7dacf",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/bbf4f6b4b577bf052ac764ce38f7dacf",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 18261091,
+  "iq": 486,
+  "login": "HARDYmusic",
+  "name": "HARDY",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/HARDYmusic",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4865014",
+   "artist_names": "HARDY (Ft. Devin Dawson & Lauren Alaina)",
+   "full_title": "ONE BEER by\u00a0HARDY (Ft.\u00a0Devin\u00a0Dawson & Lauren\u00a0Alaina)",
+   "header_image_thumbnail_url": "https://images.genius.com/69203612284ac6f1c2a968aa95626391.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/69203612284ac6f1c2a968aa95626391.1000x1000x1.jpg",
+   "id": 4865014,
+   "language": "en",
+   "lyrics_owner_id": 4733728,
+   "lyrics_state": "complete",
+   "path": "/Hardy-one-beer-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Hardy-one-beer-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 13
+   },
+   "release_date_for_display": "September 13, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/93bde7f68ad7f170025893a8b378f143.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/93bde7f68ad7f170025893a8b378f143.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 135499
+   },
+   "title": "ONE BEER",
+   "title_with_featured": "ONE BEER (Ft.\u00a0Devin\u00a0Dawson & Lauren\u00a0Alaina)",
+   "url": "https://genius.com/Hardy-one-beer-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/248478",
+     "header_image_url": "https://images.genius.com/fc49644bce0a6534524eb4cf6acc7723.1000x333x1.jpg",
+     "id": 248478,
+     "image_url": "https://images.genius.com/8e9e1e385cbb95706a01d771ea1efaf4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lauren Alaina",
+     "url": "https://genius.com/artists/Lauren-alaina"
+    },
+    {
+     "api_path": "/artists/1065061",
+     "header_image_url": "https://images.genius.com/3b91684410ce765a90297bd1ca229c7f.851x315x1.jpg",
+     "id": 1065061,
+     "image_url": "https://images.genius.com/3e7b113a554794bae404a0efb719e9ce.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Devin Dawson",
+     "url": "https://genius.com/artists/Devin-dawson",
+     "iq": 331
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1677420",
+    "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "id": 1677420,
+    "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "HARDY",
+    "url": "https://genius.com/artists/Hardy",
+    "iq": 486
+   },
+   "apple_music_id": "1521977988",
+   "apple_music_player_url": "https://genius.com/songs/4865014/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4865014' class='rg_embed_link' data-song-id='4865014'>Read <a href='https://genius.com/Hardy-one-beer-lyrics'>\u201cONE BEER\u201d by HARDY</a> on Genius</div> <script crossorigin src='//genius.com/songs/4865014/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/660385",
+    "cover_art_url": "https://images.genius.com/0d50f2430faa3c98c62a6dd9f34b73cb.1000x1000x1.jpg",
+    "full_title": "A ROCK by HARDY",
+    "id": 660385,
+    "name": "A ROCK",
+    "release_date_for_display": "September 4, 2020",
+    "url": "https://genius.com/albums/Hardy/A-rock",
+    "artist": {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/22793140",
+    "classification": "needs_exegesis",
+    "fragment": "ONE BEER",
+    "id": 22793140,
+    "is_description": true,
+    "path": "/22793140/Hardy-one-beer/One-beer",
+    "range": {
+     "content": "ONE BEER"
+    },
+    "song_id": 4865014,
+    "url": "https://genius.com/22793140/Hardy-one-beer/One-beer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4865014",
+     "client_timestamps": {
+      "updated_by_human_at": 1664567858,
+      "lyrics_updated_at": 1664567858
+     },
+     "context": "HARDY",
+     "id": 4865014,
+     "image_url": "https://images.genius.com/93bde7f68ad7f170025893a8b378f143.800x800x1.jpg",
+     "link_title": "ONE BEER by\u00a0HARDY (Ft.\u00a0Devin\u00a0Dawson & Lauren\u00a0Alaina)",
+     "title": "ONE BEER",
+     "type": "Song",
+     "url": "https://genius.com/Hardy-one-beer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/22793140",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 22793140,
+      "pinned": false,
+      "share_url": "https://genius.com/22793140",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/22793140/Hardy-one-beer/One-beer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 630083,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/93685",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 93685,
+    "iq": 1232015,
+    "login": "killersnowtiger",
+    "name": "\u200bKST",
+    "role_for_display": "staff",
+    "url": "https://genius.com/killersnowtiger",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:5FmvaZGd6fulojSToozLRD",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NNai9Ns5Y4U"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    },
+    {
+     "api_path": "/artists/662411",
+     "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+     "id": 662411,
+     "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Derek Wells",
+     "url": "https://genius.com/artists/Derek-wells"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    },
+    {
+     "api_path": "/artists/398449",
+     "header_image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+     "id": 398449,
+     "image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hillary Lindsey",
+     "url": "https://genius.com/artists/Hillary-lindsey"
+    },
+    {
+     "api_path": "/artists/1080498",
+     "header_image_url": "https://images.genius.com/5bd226d6315888036f6e97e29a72e4bb.339x339x1.jpg",
+     "id": 1080498,
+     "image_url": "https://images.genius.com/5bd226d6315888036f6e97e29a72e4bb.339x339x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Mitchell",
+     "url": "https://genius.com/artists/Jake-mitchell"
+    }
+   ],
+   "artist": "HARDY",
+   "lyrics": "10 ContributorsONE BEER Lyrics[Verse 1: HARDY]\n17 in a small town\nWeak knees in a CVS\nDoor locked in the bathroom\nWhat's it gonna\u2005be\u2005waitin' on that\u2005test?\nNever thought that they'd be\nPuttin' those\u2005life plans on the shelf\nA couple American babies raisin' one up their self\n\n[Chorus: All]\nOne beer turns into a lit cigarette\nBurnin' into a two beer buzz\nThree beers turns into five and six\nThen a love drunk kiss in the back of that truck\nJust like that, everything rearranges\nLife changes out of the blue\nIt's just a Bud Light, but ain't it funny\nWhat one beer can turn into?\n[Verse 2: Devin Dawson & Lauren Alaina]\nSesame Street on the TV\nA race car rollin' on a cardboard bridge\nCrayon stick figure family\nStuck right there front center on the fridge\nFlash back to two pink lines\nA whole bunch of prayin' and doubtin'\nFelt like the end of the world\nNow the world don't spin without 'em (Hey, yeah)\nOh, 'cause\n\n[Chorus: All & Lauren Alaina]\nOne beer turns into a lit cigarette\nBurnin' into a two beer buzz\nThree beers turns into five and six\nThen a love drunk kiss in the back of that truck\n(In the back of that truck)\nJust like that, everything rearranges\nLife changes out of the blue\nIt's just a Bud Light, but ain't it funny\nWhat one beer can turn into?\n\n[Bridge: HARDY & Lauren Alaina]\nA boy and a girl and a three on the tree\nK-I-S-S-I-N-G\nFirst comes lust, then the shotgun marriage\nSix months later come a baby in a carriage\nYou know what, y'all? You know what, y'all?\nThe whole thing started with some alcohol\nThe whole thing started with some alcohol (Hey, yeah)\nYou might also like[Chorus: All & HARDY]\nOne beer turns into a lit cigarette\nBurnin' into a two beer buzz (Into a two beer buzz)\nThree beers turns into five and six\nThen a love drunk kiss in the back of that truck\nJust like that, everything rearranges\nLife changes out of the blue\nIt's just a Bud Light, but ain't it funny\nWhat one beer can turn into?\n\n[Outro: All, Lauren Alaina, HARDY & Lauren Alaina, HARDY]\nA boy and a girl and a three on the tree\nK-I-S-S-I-N-G (Oh)\nFirst comes lust, then the shotgun marriage\nSix months later come a baby in a carriage\nThat's not all (Nah), that's not all (Nah)\nHere we go again, drinkin' alcohol, yeah4Embed"
+  },
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/4846771",
+   "artist_names": "HARDY (Ft. Morgan Wallen)",
+   "full_title": "He Went to Jared by\u00a0HARDY (Ft.\u00a0Morgan\u00a0Wallen)",
+   "header_image_thumbnail_url": "https://images.genius.com/1d553f69f425ed2c4021bcae1876cb25.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1d553f69f425ed2c4021bcae1876cb25.1000x1000x1.jpg",
+   "id": 4846771,
+   "language": "en",
+   "lyrics_owner_id": 4733728,
+   "lyrics_state": "complete",
+   "path": "/Hardy-he-went-to-jared-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Hardy-he-went-to-jared-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 6
+   },
+   "release_date_for_display": "September 6, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 6, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/dbf64d5830c627138096c57d8ffe94e7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dbf64d5830c627138096c57d8ffe94e7.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 73478
+   },
+   "title": "He Went to Jared",
+   "title_with_featured": "He Went to Jared (Ft.\u00a0Morgan\u00a0Wallen)",
+   "url": "https://genius.com/Hardy-he-went-to-jared-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/987153",
+     "header_image_url": "https://images.genius.com/928dda9a4be68b88d674ac3110e2bd51.1000x333x1.jpg",
+     "id": 987153,
+     "image_url": "https://images.genius.com/ac49d599729f883a3312e70ffc020a66.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Morgan Wallen",
+     "url": "https://genius.com/artists/Morgan-wallen",
+     "iq": 371
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1677420",
+    "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "id": 1677420,
+    "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "HARDY",
+    "url": "https://genius.com/artists/Hardy",
+    "iq": 486
+   },
+   "apple_music_id": "1479452202",
+   "apple_music_player_url": "https://genius.com/songs/4846771/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4846771' class='rg_embed_link' data-song-id='4846771'>Read <a href='https://genius.com/Hardy-he-went-to-jared-lyrics'>\u201cHe Went to Jared\u201d by HARDY</a> on Genius</div> <script crossorigin src='//genius.com/songs/4846771/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/560250",
+    "cover_art_url": "https://images.genius.com/074f39df4e25f675b42492906d36f9ce.1000x1000x1.jpg",
+    "full_title": "HIXTAPE, Vol. 1 by HiXTAPE",
+    "id": 560250,
+    "name": "HIXTAPE, Vol. 1",
+    "release_date_for_display": "September 13, 2019",
+    "url": "https://genius.com/albums/Hixtape/Hixtape-vol-1",
+    "artist": {
+     "api_path": "/artists/2892994",
+     "header_image_url": "https://images.genius.com/a13e68a69b4d66b1c2bbf36f9d056928.820x312x1.jpg",
+     "id": 2892994,
+     "image_url": "https://images.genius.com/45c3493edf885107ccc2deefb8fbae37.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "HiXTAPE",
+     "url": "https://genius.com/artists/Hixtape"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 93685,
+    "annotator_login": "killersnowtiger",
+    "api_path": "/referents/17983196",
+    "classification": "needs_exegesis",
+    "fragment": "He Went to Jared",
+    "id": 17983196,
+    "is_description": true,
+    "path": "/17983196/Hardy-he-went-to-jared/He-went-to-jared",
+    "range": {
+     "content": "He Went to Jared"
+    },
+    "song_id": 4846771,
+    "url": "https://genius.com/17983196/Hardy-he-went-to-jared/He-went-to-jared",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4846771",
+     "client_timestamps": {
+      "updated_by_human_at": 1668022809,
+      "lyrics_updated_at": 1668032164
+     },
+     "context": "HARDY",
+     "id": 4846771,
+     "image_url": "https://images.genius.com/dbf64d5830c627138096c57d8ffe94e7.1000x1000x1.jpg",
+     "link_title": "He Went to Jared by\u00a0HARDY (Ft.\u00a0Morgan\u00a0Wallen)",
+     "title": "He Went to Jared",
+     "type": "Song",
+     "url": "https://genius.com/Hardy-he-went-to-jared-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17983196",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17983196,
+      "pinned": false,
+      "share_url": "https://genius.com/17983196",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17983196/Hardy-he-went-to-jared/He-went-to-jared",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/93685",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+         "human_readable_role_for_display": "Staff",
+         "id": 93685,
+         "iq": 1232015,
+         "login": "killersnowtiger",
+         "name": "\u200bKST",
+         "role_for_display": "staff",
+         "url": "https://genius.com/killersnowtiger",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/93685",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 93685,
+    "iq": 1232015,
+    "login": "killersnowtiger",
+    "name": "\u200bKST",
+    "role_for_display": "staff",
+    "url": "https://genius.com/killersnowtiger",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=km_k1N7eiWo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    },
+    {
+     "api_path": "/artists/662411",
+     "header_image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+     "id": 662411,
+     "image_url": "https://images.genius.com/9ae8094eb468d8bf70c16c671833e7db.950x950x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Derek Wells",
+     "url": "https://genius.com/artists/Derek-wells"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    },
+    {
+     "api_path": "/artists/987153",
+     "header_image_url": "https://images.genius.com/928dda9a4be68b88d674ac3110e2bd51.1000x333x1.jpg",
+     "id": 987153,
+     "image_url": "https://images.genius.com/ac49d599729f883a3312e70ffc020a66.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Morgan Wallen",
+     "url": "https://genius.com/artists/Morgan-wallen",
+     "iq": 371
+    },
+    {
+     "api_path": "/artists/1004561",
+     "header_image_url": "https://images.genius.com/84c0c012da67590e59fff7d15df743fd.289x289x1.png",
+     "id": 1004561,
+     "image_url": "https://images.genius.com/84c0c012da67590e59fff7d15df743fd.289x289x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chase McGill",
+     "url": "https://genius.com/artists/Chase-mcgill"
+    }
+   ],
+   "artist": "HARDY",
+   "lyrics": "10 ContributorsHe Went to Jared Lyrics[Verse 1: HARDY]\nI still got a shoebox full of money\nSittin' at the top of my closet\nFrom workin'\u2005like\u2005a dog\nGot a\u2005chicken-scratch note pad\nOf what I woulda\u2005said once I bought it\n'Til she called it off\nNow she's pickin' out menus and venues and DJs\nAnd his cake and her cake, where the honeymoon gon' be\nWith a new 'do, with boo-coos of cold cash\nI swear that's the furthest damn thing from me\n[Chorus: HARDY]\nHe went to Ole Miss, I went to work\nHe pushes paper, I push the dirt\nHe's got that clean cut, drivin' him a clean truck\nI'm just sittin' here with a beer and my jeans tucked\nHe's tyin' cans on the bumper of a car\nI'm tyin' one on, takin' it hard\nThinkin' 'bout him there with a white horse and carriage\nNearly three karats, he went to Jared\nI went to the bar\nYeah, I went to the bar\nWhat's your story, Wallen?\n\n[Verse 2: Morgan Wallen]\nHaha, well\nI got my own ceremony goin' on right here in the neon\nWith my best man Jack\nIt'll be a meter-on-a-dash smellin'-bad yellow cab takin' me home\nHe'll be in a Cadillac\nOn his ride to the airline\nSaint Lucia next to the girl I should still be with\n\n[Chorus: Morgan Wallen]\nBut he went to Ole Miss, I went to work\nHe pushes paper, I push the dirt\nHe's got that clean cut, drivin' him a clean truck\nI'm just sittin' here with a beer and my jeans tucked\nHe's tyin' cans on the bumper of a car\nI'm tyin' one on, takin' it hard\nThinkin' 'bout him there with a white horse and carriage\nNearly three karats, he went to Jared\nI went to the bar\nYeah, I went to the bar\nYeah, I went to the bar\nYou might also like[Bridge: HARDY]\nYeah, well maybe I'm drunk and it ain't that bad\n'Cause I ain't into girls into guys like that\nHell naw\n\n[Chorus: HARDY, Morgan Wallen, & Both]\n'Cause he went to Ole Miss, I went to work\nHe pushes paper, I push the dirt\nHe's got that clean cut, drivin' him a clean truck\nI'm just sittin' here with a beer and my jeans tucked\nHe's tyin' cans on the bumper of a car (Bumper of a car)\nI'm tyin' one on, takin' it hard\nThinkin' 'bout him there with a white horse and carriage\nNearly three karats, he went to Jared\nI went to the bar\nYeah, I went to the bar\nYeah, I went to to the bar\nYeah, yeah, I went to the bar1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4241230",
+   "artist_names": "HARDY",
+   "full_title": "SIGNED, SOBER YOU by\u00a0HARDY",
+   "header_image_thumbnail_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.1000x1000x1.jpg",
+   "id": 4241230,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Hardy-signed-sober-you-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Hardy-signed-sober-you-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 32921
+   },
+   "title": "SIGNED, SOBER YOU",
+   "title_with_featured": "SIGNED, SOBER YOU",
+   "url": "https://genius.com/Hardy-signed-sober-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1677420",
+    "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "id": 1677420,
+    "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "HARDY",
+    "url": "https://genius.com/artists/Hardy",
+    "iq": 486
+   },
+   "apple_music_id": "1449502756",
+   "apple_music_player_url": "https://genius.com/songs/4241230/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4241230' class='rg_embed_link' data-song-id='4241230'>Read <a href='https://genius.com/Hardy-signed-sober-you-lyrics'>\u201cSIGNED, SOBER YOU\u201d by HARDY</a> on Genius</div> <script crossorigin src='//genius.com/songs/4241230/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/496915",
+    "cover_art_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.1000x1000x1.jpg",
+    "full_title": "WHERE TO FIND ME by HARDY",
+    "id": 496915,
+    "name": "WHERE TO FIND ME",
+    "release_date_for_display": "January 18, 2019",
+    "url": "https://genius.com/albums/Hardy/Where-to-find-me",
+    "artist": {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 104344,
+    "annotator_login": "streetlights",
+    "api_path": "/referents/16283334",
+    "classification": "needs_exegesis",
+    "fragment": "SIGNED, SOBER YOU",
+    "id": 16283334,
+    "is_description": true,
+    "path": "/16283334/Hardy-signed-sober-you/Signed-sober-you",
+    "range": {
+     "content": "SIGNED, SOBER YOU"
+    },
+    "song_id": 4241230,
+    "url": "https://genius.com/16283334/Hardy-signed-sober-you/Signed-sober-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4241230",
+     "client_timestamps": {
+      "updated_by_human_at": 1648612384,
+      "lyrics_updated_at": 1577381150
+     },
+     "context": "HARDY",
+     "id": 4241230,
+     "image_url": "https://images.genius.com/3d3f73e2daec66fe710bc7b19d0d2551.1000x1000x1.jpg",
+     "link_title": "SIGNED, SOBER YOU by\u00a0HARDY",
+     "title": "SIGNED, SOBER YOU",
+     "type": "Song",
+     "url": "https://genius.com/Hardy-signed-sober-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16283334",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16283334,
+      "pinned": false,
+      "share_url": "https://genius.com/16283334",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16283334/Hardy-signed-sober-you/Signed-sober-you",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 3065822,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065822,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=tRncJ-0XPhY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1003323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1003323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cohen",
+     "url": "https://genius.com/artists/Dave-cohen"
+    },
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    },
+    {
+     "api_path": "/artists/654614",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 654614,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jordan Schmidt",
+     "url": "https://genius.com/artists/Jordan-schmidt"
+    },
+    {
+     "api_path": "/artists/674484",
+     "header_image_url": "https://images.genius.com/aeb804175f3f91d853c0bb4805f23e11.563x1000x1.jpg",
+     "id": 674484,
+     "image_url": "https://images.genius.com/fb1b62679244dcfa487879e3616f9845.923x923x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ben Burgess",
+     "url": "https://genius.com/artists/Ben-burgess",
+     "iq": 700
+    }
+   ],
+   "artist": "HARDY",
+   "lyrics": "6 ContributorsSIGNED, SOBER YOU Lyrics[Verse 1]\nMy third shot down, I'm in trouble\nI'm a newly single man, seein' double\nFake a smile for all my friends\nThen go home alone around 2 AM\nAnd stumble through the front door, gone as it gets\nFlip the kitchen light on, there it is\nOn the fridge, just my luck\n\"Read this if you're drunk\"\n\n[Chorus]\nDon't think about it, mister\nDon't even touch your phone\nI know you think you miss her\nBut I promise you, you don't\nThere's healing in the lonely\nSit back, kick off your boots\nAnd you'll thank me in the morning\nLike you always do\nSigned, sober you\n[Verse 2]\nP.S., there's pizza in the freezer, Dumb and Dumber on the TV\nIt's so stupid, that's what you'd be\nTo go diggin' through her Instagram\nIf you're thinkin' 'bout that, read this again\n\n[Chorus]\nDon't think about it, mister\nDon't even touch your phone\nI know you think you miss her\nBut I promise you, you don't\nThere's healing in the lonely\nSit back, kick off your boots\nAnd you'll thank me in the morning\nLike you always do\nSigned, sober you\nSigned, sober you\n\n[Bridge]\nYeah, well remember last time that you hit her up\nYou heard some other guy, how much does that suck?\nThat set you back a month, yeah, trust me, old friend\nYou don't wanna go down that road again\n\n[Chorus]\nDon't think about it, mister\nDon't even touch your phone\nI know you wanna kiss her\nBut I promise you, you don't\nAnd there's healing in the lonely\nSit back, kick off your boots\nAnd you'll thank me in the morning\nLike you always do\nSigned, sober you, yeah, yeah\nSigned, sober youYou might also likeEmbed"
+  }
+ ]
+}

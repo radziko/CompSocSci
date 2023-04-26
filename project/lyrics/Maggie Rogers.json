@@ -1,0 +1,3627 @@
+{
+ "alternate_names": [
+  "Margaret D. Rogers",
+  "Margaret Rogers",
+  "Margaret Debay Rogers"
+ ],
+ "api_path": "/artists/683813",
+ "description": {
+  "plain": "Margaret Debay Rogers (born April 25, 1994), better known as Maggie Rogers, is an American musician, singer-songwriter, and producer from Easton, Maryland.\n\nHer first hit song \u201cAlaska\u201d went viral when Pharrell reviewed it. Rogers says in the song review video  that \u201cAlaska\u201d is the combination of her folk music background and a more recent love of dance music. She defines her genre as movement/feelings.\n\nAll I want to do is combine the folk imagery and harmony and natural samples that I\u2019ve been picking up while hiking over the last couple of years, with the backbone and energy of dance music\u2026"
+ },
+ "facebook_name": "maggierogers",
+ "followers_count": 210,
+ "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+ "id": 683813,
+ "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+ "instagram_name": "maggierogers",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Maggie Rogers",
+ "translation_artist": false,
+ "twitter_name": "maggierogers",
+ "url": "https://genius.com/artists/Maggie-rogers",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1619,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1091826,
+  "annotator_login": "Astroworld",
+  "api_path": "/referents/9309883",
+  "classification": "accepted",
+  "fragment": "Maggie Rogers",
+  "id": 9309883,
+  "is_description": true,
+  "path": "/9309883/Maggie-rogers/Maggie-rogers",
+  "range": {
+   "content": "Maggie Rogers"
+  },
+  "song_id": null,
+  "url": "https://genius.com/9309883/Maggie-rogers/Maggie-rogers",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/683813",
+   "context": null,
+   "id": 683813,
+   "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+   "link_title": "Maggie Rogers",
+   "title": "Maggie Rogers",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Maggie-rogers"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/9309883",
+    "body": {
+     "plain": "Margaret Debay Rogers (born April 25, 1994), better known as Maggie Rogers, is an American musician, singer-songwriter, and producer from Easton, Maryland.\n\nHer first hit song \u201cAlaska\u201d went viral when Pharrell reviewed it. Rogers says in the song review video  that \u201cAlaska\u201d is the combination of her folk music background and a more recent love of dance music. She defines her genre as movement/feelings.\n\nAll I want to do is combine the folk imagery and harmony and natural samples that I\u2019ve been picking up while hiking over the last couple of years, with the backbone and energy of dance music\u2026"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 9309883,
+    "pinned": false,
+    "share_url": "https://genius.com/9309883",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/9309883/Maggie-rogers/Maggie-rogers",
+    "verified": false,
+    "votes_total": 30,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.4554455445544554,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1091826",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8117ee4587623c87e710bee0383671be",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/0498ef540839b2fa22d8f9b2d3f7f5e4.480x196x38.gif",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1091826,
+       "iq": 277265,
+       "login": "Astroworld",
+       "name": "\ud83d\ude80\ud83d\udc51ASTROWORLD",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Astroworld",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3564356435643565,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3272791",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7e14c2a51bbaa5c9e1107f02102fb8d5",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5sFLucU4Td6RnIlt08iY_giphy.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 3272791,
+       "iq": 150139,
+       "login": "Madkol",
+       "name": "Madkol",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Madkol",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.17821782178217824,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1837201",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5aaca3dada7deba08627e6f87d6c683c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1837201,
+       "iq": 1760932,
+       "login": "Qatarsi",
+       "name": "Qatarsi",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Qatarsi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.009900990099009901,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5345628",
+       "avatar": {
+        "tiny": {
+         "url": "https://i.genius.com/9a20f30268779b167372a42264208c4ddbb1f979?url=https%3A%2F%2Flh3.googleusercontent.com%2F-7p9h-6Qi09g%2FAAAAAAAAAAI%2FAAAAAAAAAAc%2FsUZ1fhH_6d8%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://i.genius.com/9a20f30268779b167372a42264208c4ddbb1f979?url=https%3A%2F%2Flh3.googleusercontent.com%2F-7p9h-6Qi09g%2FAAAAAAAAAAI%2FAAAAAAAAAAc%2FsUZ1fhH_6d8%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://i.genius.com/9a20f30268779b167372a42264208c4ddbb1f979?url=https%3A%2F%2Flh3.googleusercontent.com%2F-7p9h-6Qi09g%2FAAAAAAAAAAI%2FAAAAAAAAAAc%2FsUZ1fhH_6d8%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://i.genius.com/9a20f30268779b167372a42264208c4ddbb1f979?url=https%3A%2F%2Flh3.googleusercontent.com%2F-7p9h-6Qi09g%2FAAAAAAAAAAI%2FAAAAAAAAAAc%2FsUZ1fhH_6d8%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5kshqpor0xn",
+       "human_readable_role_for_display": "Editor",
+       "id": 5345628,
+       "iq": 55793,
+       "login": "BlackSilverBlackSilver",
+       "name": "BlackSilverBlackSilver",
+       "role_for_display": "editor",
+       "url": "https://genius.com/BlackSilverBlackSilver",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3914128",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/efdd2e0842601fb3c49cea309318494c",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/efdd2e0842601fb3c49cea309318494c",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/efdd2e0842601fb3c49cea309318494c",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/efdd2e0842601fb3c49cea309318494c",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3914128,
+  "iq": 1619,
+  "login": "MaggieRogers",
+  "name": "Maggie Rogers",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/MaggieRogers",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/2531929",
+   "artist_names": "Maggie Rogers",
+   "full_title": "Alaska by\u00a0Maggie\u00a0Rogers",
+   "header_image_thumbnail_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.300x300x1.png",
+   "header_image_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.910x910x1.png",
+   "id": 2531929,
+   "language": "en",
+   "lyrics_owner_id": 2960844,
+   "lyrics_state": "complete",
+   "path": "/Maggie-rogers-alaska-lyrics",
+   "pyongs_count": 28,
+   "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 15
+   },
+   "release_date_for_display": "June 15, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 15, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/aed0ad9b43405509e9fd916ff0426716.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/aed0ad9b43405509e9fd916ff0426716.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 45,
+    "iq_earners": 44,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 4,
+    "hot": false,
+    "pageviews": 310423
+   },
+   "title": "Alaska",
+   "title_with_featured": "Alaska",
+   "url": "https://genius.com/Maggie-rogers-alaska-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/683813",
+    "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+    "id": 683813,
+    "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Maggie Rogers",
+    "url": "https://genius.com/artists/Maggie-rogers",
+    "iq": 1619
+   },
+   "apple_music_id": "1437448492",
+   "apple_music_player_url": "https://genius.com/songs/2531929/apple_music_player",
+   "description": {
+    "plain": "Following the viral video of her session in Pharrell Williams' master class at New York University\u2019s Clive Davis Institute of Recorded Music, the final version of Maggie Rogers' \u201cAlaska\u201d is a beautiful balance between folk and dance, with healthy, layered percussion, gorgeous instrumentation, and breathtaking vocals."
+   },
+   "embed_content": "<div id='rg_embed_link_2531929' class='rg_embed_link' data-song-id='2531929'>Read <a href='https://genius.com/Maggie-rogers-alaska-lyrics'>\u201cAlaska\u201d by Maggie\u00a0Rogers</a> on Genius</div> <script crossorigin src='//genius.com/songs/2531929/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-15",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/364166",
+    "cover_art_url": "https://images.genius.com/bffbbf55de0bc0c8d6f484bc82fc46b3.1000x1000x1.png",
+    "full_title": "Heard It in a Past Life by Maggie Rogers",
+    "id": 364166,
+    "name": "Heard It in a Past Life",
+    "release_date_for_display": "January 18, 2019",
+    "url": "https://genius.com/albums/Maggie-rogers/Heard-it-in-a-past-life",
+    "artist": {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/1043793",
+       "header_image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+       "id": 1043793,
+       "image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Doug Schadt",
+       "url": "https://genius.com/artists/Doug-schadt"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/638693",
+       "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+       "id": 638693,
+       "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ted Jensen",
+       "url": "https://genius.com/artists/Ted-jensen"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/640913",
+       "header_image_url": "https://images.genius.com/67c732a150246a8a533bbae0d634cae1.683x683x1.jpg",
+       "id": 640913,
+       "image_url": "https://images.genius.com/67c732a150246a8a533bbae0d634cae1.683x683x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tony Maserati",
+       "url": "https://genius.com/artists/Tony-maserati"
+      },
+      {
+       "api_path": "/artists/1157469",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1157469,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zach Hancock",
+       "url": "https://genius.com/artists/Zach-hancock"
+      },
+      {
+       "api_path": "/artists/661328",
+       "header_image_url": "https://images.genius.com/85f54673bc41aec6982cbe56b196f7dc.300x300x1.jpg",
+       "id": 661328,
+       "image_url": "https://images.genius.com/85f54673bc41aec6982cbe56b196f7dc.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tyler Scott",
+       "url": "https://genius.com/artists/Tyler-scott"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1157469",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1157469,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zach Hancock",
+       "url": "https://genius.com/artists/Zach-hancock"
+      },
+      {
+       "api_path": "/artists/1043793",
+       "header_image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+       "id": 1043793,
+       "image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Doug Schadt",
+       "url": "https://genius.com/artists/Doug-schadt"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/1018600",
+       "header_image_url": "https://images.genius.com/cfd0a9f564340f78402d2f9f6ea54895.750x497x1.jpg",
+       "id": 1018600,
+       "image_url": "https://images.genius.com/ab4bb10a7ee11e42c7d9be1e33e39863.273x273x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Zia Anger",
+       "url": "https://genius.com/artists/Zia-anger"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1567910,
+    "annotator_login": "Bohdi",
+    "api_path": "/referents/9423625",
+    "classification": "accepted",
+    "fragment": "Alaska",
+    "id": 9423625,
+    "is_description": true,
+    "path": "/9423625/Maggie-rogers-alaska/Alaska",
+    "range": {
+     "content": "Alaska"
+    },
+    "song_id": 2531929,
+    "url": "https://genius.com/9423625/Maggie-rogers-alaska/Alaska",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2531929",
+     "client_timestamps": {
+      "updated_by_human_at": 1636778414,
+      "lyrics_updated_at": 1555010657
+     },
+     "context": "Maggie Rogers",
+     "id": 2531929,
+     "image_url": "https://images.genius.com/aed0ad9b43405509e9fd916ff0426716.1000x1000x1.jpg",
+     "link_title": "Alaska by\u00a0Maggie\u00a0Rogers",
+     "title": "Alaska",
+     "type": "Song",
+     "url": "https://genius.com/Maggie-rogers-alaska-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9423625",
+      "body": {
+       "plain": "Following the viral video of her session in Pharrell Williams' master class at New York University\u2019s Clive Davis Institute of Recorded Music, the final version of Maggie Rogers' \u201cAlaska\u201d is a beautiful balance between folk and dance, with healthy, layered percussion, gorgeous instrumentation, and breathtaking vocals."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9423625,
+      "pinned": false,
+      "share_url": "https://genius.com/9423625",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9423625/Maggie-rogers-alaska/Alaska",
+      "verified": false,
+      "votes_total": 69,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1567910",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/20bd0925be848994fe9bb63719045ad2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/20bd0925be848994fe9bb63719045ad2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/20bd0925be848994fe9bb63719045ad2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/20bd0925be848994fe9bb63719045ad2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/20bd0925be848994fe9bb63719045ad2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1567910,
+         "iq": 2190,
+         "login": "Bohdi",
+         "name": "Bohdi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Bohdi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/2976672",
+    "avatar": {
+     "tiny": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l1pegbzlvms",
+    "human_readable_role_for_display": "Staff",
+    "id": 2976672,
+    "iq": 341546,
+    "login": "Gary",
+    "name": "Gary",
+    "role_for_display": "staff",
+    "url": "https://genius.com/Gary",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=PNWsW6c6t8g"
+    },
+    {
+     "native_uri": "spotify:track:4DyfJFTQb27adTDdhFeSgD",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4DyfJFTQb27adTDdhFeSgD"
+    },
+    {
+     "attribution": "maggierogers",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/maggierogers/alaska"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1043793",
+     "header_image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+     "id": 1043793,
+     "image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doug Schadt",
+     "url": "https://genius.com/artists/Doug-schadt"
+    },
+    {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Maggie-rogers-alaska-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7898356",
+       "artist_names": "Julia Cooper",
+       "full_title": "Alaska (cover) by\u00a0Julia\u00a0Cooper",
+       "header_image_thumbnail_url": "https://images.genius.com/0eef5378768a8bc1fec972f29037e4e6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0eef5378768a8bc1fec972f29037e4e6.640x640x1.jpg",
+       "id": 7898356,
+       "language": "en",
+       "lyrics_owner_id": 15431054,
+       "lyrics_state": "complete",
+       "path": "/Julia-cooper-alaska-cover-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Julia-cooper-alaska-cover-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 12
+       },
+       "release_date_for_display": "January 12, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 12, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0eef5378768a8bc1fec972f29037e4e6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0eef5378768a8bc1fec972f29037e4e6.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (cover)",
+       "title_with_featured": "Alaska (cover)",
+       "url": "https://genius.com/Julia-cooper-alaska-cover-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2998807",
+        "header_image_url": "https://images.genius.com/8d9e860a9c77ff487484313b617e7a32.191x191x1.jpg",
+        "id": 2998807,
+        "image_url": "https://images.genius.com/6d8863b6b905fdccc67f5b8cd5dcb1db.533x533x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Julia Cooper",
+        "url": "https://genius.com/artists/Julia-cooper"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6792659",
+       "artist_names": "Piano Dreamers",
+       "full_title": "Alaska by\u00a0Piano\u00a0Dreamers",
+       "header_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "id": 6792659,
+       "language": "en",
+       "lyrics_owner_id": 4390347,
+       "lyrics_state": "complete",
+       "path": "/Piano-dreamers-alaska-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Piano-dreamers-alaska-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 3,
+        "day": 29
+       },
+       "release_date_for_display": "March 29, 2019",
+       "release_date_with_abbreviated_month_for_display": "Mar. 29, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska",
+       "title_with_featured": "Alaska",
+       "url": "https://genius.com/Piano-dreamers-alaska-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1938825",
+        "header_image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "id": 1938825,
+        "image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Piano Dreamers",
+        "url": "https://genius.com/artists/Piano-dreamers"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3747646",
+       "artist_names": "SOFI TUKKER",
+       "full_title": "Alaska by\u00a0SOFI\u00a0TUKKER",
+       "header_image_thumbnail_url": "https://images.genius.com/535c6f590509086d9ae72bb21076ba08.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/535c6f590509086d9ae72bb21076ba08.770x770x1.jpg",
+       "id": 3747646,
+       "language": "en",
+       "lyrics_owner_id": 3324857,
+       "lyrics_state": "complete",
+       "path": "/Sofi-tukker-alaska-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sofi-tukker-alaska-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 2,
+        "day": 23
+       },
+       "release_date_for_display": "February 23, 2017",
+       "release_date_with_abbreviated_month_for_display": "Feb. 23, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/535c6f590509086d9ae72bb21076ba08.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/535c6f590509086d9ae72bb21076ba08.770x770x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska",
+       "title_with_featured": "Alaska",
+       "url": "https://genius.com/Sofi-tukker-alaska-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/968628",
+        "header_image_url": "https://images.genius.com/755f7ef259a276ac402b9e8f990ddfea.1000x563x1.jpg",
+        "id": 968628,
+        "image_url": "https://images.genius.com/f5f73a4c4023f00100be5606241cf4c3.999x999x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "SOFI TUKKER",
+        "url": "https://genius.com/artists/Sofi-tukker",
+        "iq": 308
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4886437",
+       "artist_names": "Good Scott",
+       "full_title": "Alaska by\u00a0Good\u00a0Scott",
+       "header_image_thumbnail_url": "https://images.genius.com/07c995258dd3bc32db1aab4f80aa7adb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/07c995258dd3bc32db1aab4f80aa7adb.640x640x1.jpg",
+       "id": 4886437,
+       "language": "en",
+       "lyrics_owner_id": 1093032,
+       "lyrics_state": "complete",
+       "path": "/Good-scott-alaska-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Good-scott-alaska-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 9,
+        "day": 19
+       },
+       "release_date_for_display": "September 19, 2019",
+       "release_date_with_abbreviated_month_for_display": "Sep. 19, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/07c995258dd3bc32db1aab4f80aa7adb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/07c995258dd3bc32db1aab4f80aa7adb.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska",
+       "title_with_featured": "Alaska",
+       "url": "https://genius.com/Good-scott-alaska-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1640751",
+        "header_image_url": "https://images.genius.com/ce69b23b0b7bfbf0396c395ce7cece4a.1000x210x1.jpg",
+        "id": 1640751,
+        "image_url": "https://images.genius.com/7b1b37afc36f8689160e61259bc7dda3.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Good Scott",
+        "url": "https://genius.com/artists/Good-scott",
+        "iq": 600
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3176717",
+       "artist_names": "Amber Run",
+       "full_title": "Alaska (Acoustic) by\u00a0Amber\u00a0Run",
+       "header_image_thumbnail_url": "https://images.genius.com/3011ff62f61fb9b62393f46402ceb852.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3011ff62f61fb9b62393f46402ceb852.1000x1000x1.jpg",
+       "id": 3176717,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Amber-run-alaska-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Amber-run-alaska-acoustic-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 7,
+        "day": 28
+       },
+       "release_date_for_display": "July 28, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jul. 28, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3011ff62f61fb9b62393f46402ceb852.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3011ff62f61fb9b62393f46402ceb852.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5334
+       },
+       "title": "Alaska (Acoustic)",
+       "title_with_featured": "Alaska (Acoustic)",
+       "url": "https://genius.com/Amber-run-alaska-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/325635",
+        "header_image_url": "https://images.genius.com/2b2d8574ef7ec943e3e2d58dea1a7eeb.1000x670x1.jpg",
+        "id": 325635,
+        "image_url": "https://images.genius.com/80d779ceda530564b98a14a37b68a6d7.794x794x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Amber Run",
+        "url": "https://genius.com/artists/Amber-run"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3093255",
+       "artist_names": "Maggie Rogers",
+       "full_title": "Alaska (Acoustic) by\u00a0Maggie\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/903e30797f4d6133b7b9686431876e7e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/903e30797f4d6133b7b9686431876e7e.1000x1000x1.jpg",
+       "id": 3093255,
+       "language": "en",
+       "lyrics_owner_id": 2567861,
+       "lyrics_state": "complete",
+       "path": "/Maggie-rogers-alaska-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-acoustic-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 5,
+        "day": 19
+       },
+       "release_date_for_display": "May 19, 2017",
+       "release_date_with_abbreviated_month_for_display": "May. 19, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/903e30797f4d6133b7b9686431876e7e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/903e30797f4d6133b7b9686431876e7e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (Acoustic)",
+       "title_with_featured": "Alaska (Acoustic)",
+       "url": "https://genius.com/Maggie-rogers-alaska-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/683813",
+        "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+        "id": 683813,
+        "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Maggie Rogers",
+        "url": "https://genius.com/artists/Maggie-rogers",
+        "iq": 1619
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Maggie-rogers-alaska-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3169676",
+       "artist_names": "Maggie Rogers",
+       "full_title": "Alaska (Tycho Remix) by\u00a0Maggie\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/a4f7cb91b1ef79d5fa5ef7d2cc322e53.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a4f7cb91b1ef79d5fa5ef7d2cc322e53.1000x1000x1.jpg",
+       "id": 3169676,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Maggie-rogers-alaska-tycho-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-tycho-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 6,
+        "day": 23
+       },
+       "release_date_for_display": "June 23, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jun. 23, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a4f7cb91b1ef79d5fa5ef7d2cc322e53.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a4f7cb91b1ef79d5fa5ef7d2cc322e53.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (Tycho Remix)",
+       "title_with_featured": "Alaska (Tycho Remix)",
+       "url": "https://genius.com/Maggie-rogers-alaska-tycho-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/683813",
+        "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+        "id": 683813,
+        "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Maggie Rogers",
+        "url": "https://genius.com/artists/Maggie-rogers",
+        "iq": 1619
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3169673",
+       "artist_names": "Maggie Rogers",
+       "full_title": "Alaska (Toby Green Remix) by\u00a0Maggie\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/80b40bb31ccc59d3bdd4144fa8c4c866.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/80b40bb31ccc59d3bdd4144fa8c4c866.1000x1000x1.jpg",
+       "id": 3169673,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Maggie-rogers-alaska-toby-green-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-toby-green-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 6,
+        "day": 30
+       },
+       "release_date_for_display": "June 30, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jun. 30, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/80b40bb31ccc59d3bdd4144fa8c4c866.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/80b40bb31ccc59d3bdd4144fa8c4c866.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (Toby Green Remix)",
+       "title_with_featured": "Alaska (Toby Green Remix)",
+       "url": "https://genius.com/Maggie-rogers-alaska-toby-green-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/683813",
+        "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+        "id": 683813,
+        "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Maggie Rogers",
+        "url": "https://genius.com/artists/Maggie-rogers",
+        "iq": 1619
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3169670",
+       "artist_names": "Maggie Rogers",
+       "full_title": "Alaska (Sofi Tukker Remix) by\u00a0Maggie\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/eaf952fdabec3f5bf03b677fb783fc59.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/eaf952fdabec3f5bf03b677fb783fc59.1000x1000x1.jpg",
+       "id": 3169670,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Maggie-rogers-alaska-sofi-tukker-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-sofi-tukker-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 7,
+        "day": 7
+       },
+       "release_date_for_display": "July 7, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jul. 7, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/eaf952fdabec3f5bf03b677fb783fc59.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/eaf952fdabec3f5bf03b677fb783fc59.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (Sofi Tukker Remix)",
+       "title_with_featured": "Alaska (Sofi Tukker Remix)",
+       "url": "https://genius.com/Maggie-rogers-alaska-sofi-tukker-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/683813",
+        "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+        "id": 683813,
+        "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Maggie Rogers",
+        "url": "https://genius.com/artists/Maggie-rogers",
+        "iq": 1619
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3100756",
+       "artist_names": "Maggie Rogers",
+       "full_title": "Alaska (SOHN Remix) by\u00a0Maggie\u00a0Rogers",
+       "header_image_thumbnail_url": "https://images.genius.com/1c149b76821579581979a45a05907021.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1c149b76821579581979a45a05907021.500x500x1.jpg",
+       "id": 3100756,
+       "language": "en",
+       "lyrics_owner_id": 1717255,
+       "lyrics_state": "complete",
+       "path": "/Maggie-rogers-alaska-sohn-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maggie-rogers-alaska-sohn-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 5,
+        "day": 26
+       },
+       "release_date_for_display": "May 26, 2017",
+       "release_date_with_abbreviated_month_for_display": "May. 26, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1c149b76821579581979a45a05907021.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1c149b76821579581979a45a05907021.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Alaska (SOHN Remix)",
+       "title_with_featured": "Alaska (SOHN Remix)",
+       "url": "https://genius.com/Maggie-rogers-alaska-sohn-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/683813",
+        "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+        "id": 683813,
+        "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Maggie Rogers",
+        "url": "https://genius.com/artists/Maggie-rogers",
+        "iq": 1619
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/3914128",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/efdd2e0842601fb3c49cea309318494c",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/efdd2e0842601fb3c49cea309318494c",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/efdd2e0842601fb3c49cea309318494c",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/efdd2e0842601fb3c49cea309318494c",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 3914128,
+     "iq": 1619,
+     "login": "MaggieRogers",
+     "name": "Maggie Rogers",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/MaggieRogers",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/683813",
+      "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+      "id": 683813,
+      "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Maggie Rogers",
+      "url": "https://genius.com/artists/Maggie-rogers",
+      "iq": 1619
+     },
+     "user": {
+      "api_path": "/users/3914128",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/efdd2e0842601fb3c49cea309318494c",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/efdd2e0842601fb3c49cea309318494c",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/efdd2e0842601fb3c49cea309318494c",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/efdd2e0842601fb3c49cea309318494c",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 3914128,
+      "iq": 1619,
+      "login": "MaggieRogers",
+      "name": "Maggie Rogers",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/MaggieRogers",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1043793",
+     "header_image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+     "id": 1043793,
+     "image_url": "https://images.genius.com/9ef4ddc761c46a758394febcc673ba4b.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doug Schadt",
+     "url": "https://genius.com/artists/Doug-schadt"
+    },
+    {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   ],
+   "artist": "Maggie Rogers",
+   "lyrics": "45 ContributorsAlaska Lyrics[Verse 1]\nI was walking through icy streams\nThat took my breath away\nMoving slowly through westward water\nOver glacial plains\n\n[Pre-Chorus]\nAnd I walked off you\nAnd I walked off an old me\nOh me, oh my, I thought it was a dream\nSo it seemed\n\n[Chorus]\nAnd now, breathe deep\nI'm inhaling\nYou and I, there's air in between\nLeave me be\nI'm exhaling\nYou and I, there's air in between\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\nYou and I, there's air in between\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\n\n[Verse 2]\nCut my hair so I could rock back and forth\nWithout thinking of you\nLearned to talk and say\nWhatever I wanted to\nYou might also like[Pre-Chorus]\nAnd I walked off you\nAnd I walked off an old me\nOh me, oh my, I thought it was a dream\nSo it seemed\n\n[Chorus]\nAnd now, breathe deep\nI'm inhaling\nYou and I, there's air in between\nLeave me be\nI'm exhaling\nYou and I, there's air in between\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\n\n[Outro]\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\nYou and I, there's air in between\nOoh-hoo, ooh-hoo, ooh-hoo-ooh\nOoh-hoo-ooh\nYou and I, there's air in between28Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/3741743",
+   "artist_names": "Maggie Rogers",
+   "full_title": "Light On by\u00a0Maggie\u00a0Rogers",
+   "header_image_thumbnail_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.300x300x1.png",
+   "header_image_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.910x910x1.png",
+   "id": 3741743,
+   "language": "en",
+   "lyrics_owner_id": 3560750,
+   "lyrics_state": "complete",
+   "path": "/Maggie-rogers-light-on-lyrics",
+   "pyongs_count": 13,
+   "relationships_index_url": "https://genius.com/Maggie-rogers-light-on-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 10,
+    "day": 10
+   },
+   "release_date_for_display": "October 10, 2018",
+   "release_date_with_abbreviated_month_for_display": "Oct. 10, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/22b5084da4e2c8accf5b476f7a35b91c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/22b5084da4e2c8accf5b476f7a35b91c.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 29,
+    "iq_earners": 29,
+    "transcribers": 3,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 187992
+   },
+   "title": "Light On",
+   "title_with_featured": "Light On",
+   "url": "https://genius.com/Maggie-rogers-light-on-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/683813",
+    "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+    "id": 683813,
+    "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Maggie Rogers",
+    "url": "https://genius.com/artists/Maggie-rogers",
+    "iq": 1619
+   },
+   "apple_music_id": "1437448494",
+   "apple_music_player_url": "https://genius.com/songs/3741743/apple_music_player",
+   "description": {
+    "plain": "As the last song written for Rogers' Heard It In A Past Life, \u201cLight On\u201d addresses the overwhelming transformation from private to public figure that comes with going viral. Following her sudden rise to fame, Maggie details emotions of feeling \u201cready to break\u201d, but ultimately finding strength in her fans and music allowing her to \u201cleave the light on\u201d for them if they \u201cleave the light on\u201d for her. In a Twitter post teasing the song\u2019s release, Maggie detailed the meaning behind the song: https://twitter.com/maggierogers/status/1049431440805556224"
+   },
+   "embed_content": "<div id='rg_embed_link_3741743' class='rg_embed_link' data-song-id='3741743'>Read <a href='https://genius.com/Maggie-rogers-light-on-lyrics'>\u201cLight On\u201d by Maggie\u00a0Rogers</a> on Genius</div> <script crossorigin src='//genius.com/songs/3741743/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-10-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/364166",
+    "cover_art_url": "https://images.genius.com/bffbbf55de0bc0c8d6f484bc82fc46b3.1000x1000x1.png",
+    "full_title": "Heard It in a Past Life by Maggie Rogers",
+    "id": 364166,
+    "name": "Heard It in a Past Life",
+    "release_date_for_display": "January 18, 2019",
+    "url": "https://genius.com/albums/Maggie-rogers/Heard-it-in-a-past-life",
+    "artist": {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      },
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      }
+     ]
+    },
+    {
+     "label": "Additional Production",
+     "artists": [
+      {
+       "api_path": "/artists/683813",
+       "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+       "id": 683813,
+       "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Maggie Rogers",
+       "url": "https://genius.com/artists/Maggie-rogers",
+       "iq": 1619
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      },
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      },
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/653787",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 653787,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Julian Burg",
+       "url": "https://genius.com/artists/Julian-burg"
+      },
+      {
+       "api_path": "/artists/653788",
+       "header_image_url": "https://images.genius.com/397acf3240bb807a28215abd91f66b29.421x421x1.jpg",
+       "id": 653788,
+       "image_url": "https://images.genius.com/397acf3240bb807a28215abd91f66b29.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Pasco",
+       "url": "https://genius.com/artists/Alex-pasco"
+      },
+      {
+       "api_path": "/artists/641348",
+       "header_image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+       "id": 641348,
+       "image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "John Hanes",
+       "url": "https://genius.com/artists/John-hanes"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Drum Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/993427",
+       "header_image_url": "https://images.genius.com/01f2ef14d877cadead315cee256b814a.400x400x1.jpg",
+       "id": 993427,
+       "image_url": "https://images.genius.com/01f2ef14d877cadead315cee256b814a.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Allgood",
+       "url": "https://genius.com/artists/Chris-allgood"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641907",
+       "header_image_url": "https://images.genius.com/3aeb924a38d59b17c5f944744a35846b.428x500x1.jpg",
+       "id": 641907,
+       "image_url": "https://images.genius.com/3aeb924a38d59b17c5f944744a35846b.428x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emily Lazar",
+       "url": "https://genius.com/artists/Emily-lazar"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/640944",
+       "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+       "id": 640944,
+       "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u0218erban Ghenea",
+       "url": "https://genius.com/artists/Serban-ghenea"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/683813",
+       "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+       "id": 683813,
+       "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Maggie Rogers",
+       "url": "https://genius.com/artists/Maggie-rogers",
+       "iq": 1619
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      },
+      {
+       "api_path": "/artists/46496",
+       "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+       "id": 46496,
+       "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kid Harpoon",
+       "url": "https://genius.com/artists/Kid-harpoon"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4784866,
+    "annotator_login": "writerinthedark",
+    "api_path": "/referents/14639146",
+    "classification": "accepted",
+    "fragment": "Light On",
+    "id": 14639146,
+    "is_description": true,
+    "path": "/14639146/Maggie-rogers-light-on/Light-on",
+    "range": {
+     "content": "Light On"
+    },
+    "song_id": 3741743,
+    "url": "https://genius.com/14639146/Maggie-rogers-light-on/Light-on",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3741743",
+     "client_timestamps": {
+      "updated_by_human_at": 1681109793,
+      "lyrics_updated_at": 1669675598
+     },
+     "context": "Maggie Rogers",
+     "id": 3741743,
+     "image_url": "https://images.genius.com/22b5084da4e2c8accf5b476f7a35b91c.1000x1000x1.jpg",
+     "link_title": "Light On by\u00a0Maggie\u00a0Rogers",
+     "title": "Light On",
+     "type": "Song",
+     "url": "https://genius.com/Maggie-rogers-light-on-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14639146",
+      "body": {
+       "plain": "As the last song written for Rogers' Heard It In A Past Life, \u201cLight On\u201d addresses the overwhelming transformation from private to public figure that comes with going viral. Following her sudden rise to fame, Maggie details emotions of feeling \u201cready to break\u201d, but ultimately finding strength in her fans and music allowing her to \u201cleave the light on\u201d for them if they \u201cleave the light on\u201d for her. In a Twitter post teasing the song\u2019s release, Maggie detailed the meaning behind the song: https://twitter.com/maggierogers/status/1049431440805556224"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14639146,
+      "pinned": false,
+      "share_url": "https://genius.com/14639146",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14639146/Maggie-rogers-light-on/Light-on",
+      "verified": false,
+      "votes_total": 29,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9912280701754387,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4784866",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/64901c12b7e9dbe3aefeb9cb6c4be57f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/64901c12b7e9dbe3aefeb9cb6c4be57f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/64901c12b7e9dbe3aefeb9cb6c4be57f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/64901c12b7e9dbe3aefeb9cb6c4be57f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/64901c12b7e9dbe3aefeb9cb6c4be57f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4784866,
+         "iq": 1774,
+         "login": "writerinthedark",
+         "name": "writerinthedark",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/writerinthedark",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.008771929824561403,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1427756",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/bec31b97689c5ff40d18f52f22e40143.900x900x1.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/b03c8c344744d3a77b9737da55e64af1.1000x669x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1427756,
+         "iq": 116754,
+         "login": "sereinik",
+         "name": "\u200bsereinik",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sereinik",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/6578",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a3ec1ff157b76a25b4ada9d2ea760d14.500x500x45.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 6578,
+    "iq": 1264343,
+    "login": "louiedro",
+    "name": "\u200blouiedro",
+    "role_for_display": "staff",
+    "url": "https://genius.com/louiedro",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:5AdnkoZJuRJCYqYBIzSqFb",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5AdnkoZJuRJCYqYBIzSqFb"
+    },
+    {
+     "attribution": "maggierogers",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/maggierogers/light-on"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=MSFjYe54uv4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55444",
+     "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+     "id": 55444,
+     "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Kurstin",
+     "url": "https://genius.com/artists/Greg-kurstin"
+    },
+    {
+     "api_path": "/artists/46496",
+     "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+     "id": 46496,
+     "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kid Harpoon",
+     "url": "https://genius.com/artists/Kid-harpoon"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6792653",
+       "artist_names": "Piano Dreamers",
+       "full_title": "Light On by\u00a0Piano\u00a0Dreamers",
+       "header_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "id": 6792653,
+       "language": "en",
+       "lyrics_owner_id": 4390347,
+       "lyrics_state": "complete",
+       "path": "/Piano-dreamers-light-on-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Piano-dreamers-light-on-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 3,
+        "day": 29
+       },
+       "release_date_for_display": "March 29, 2019",
+       "release_date_with_abbreviated_month_for_display": "Mar. 29, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Light On",
+       "title_with_featured": "Light On",
+       "url": "https://genius.com/Piano-dreamers-light-on-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1938825",
+        "header_image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "id": 1938825,
+        "image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Piano Dreamers",
+        "url": "https://genius.com/artists/Piano-dreamers"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4857152",
+       "artist_names": "Bailey Rushlow",
+       "full_title": "Light On by\u00a0Bailey\u00a0Rushlow",
+       "header_image_thumbnail_url": "https://images.genius.com/477e966319c67cb2b6ccc0afefe37539.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/477e966319c67cb2b6ccc0afefe37539.640x640x1.jpg",
+       "id": 4857152,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Bailey-rushlow-light-on-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bailey-rushlow-light-on-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/477e966319c67cb2b6ccc0afefe37539.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/477e966319c67cb2b6ccc0afefe37539.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Light On",
+       "title_with_featured": "Light On",
+       "url": "https://genius.com/Bailey-rushlow-light-on-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1836836",
+        "header_image_url": "https://images.genius.com/79ee9a31c5a83eb441cc48f3a5dccde6.1000x541x1.jpg",
+        "id": 1836836,
+        "image_url": "https://images.genius.com/935d2c223ea4a6286d1375f533eda0a8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Bailey Rushlow",
+        "url": "https://genius.com/artists/Bailey-rushlow",
+        "iq": 181
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/46496",
+     "header_image_url": "https://images.genius.com/d66d88586590bfbf538a10cc04892312.1000x667x1.jpg",
+     "id": 46496,
+     "image_url": "https://images.genius.com/ad77122fd2607c4c67234e9782b151e3.427x427x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kid Harpoon",
+     "url": "https://genius.com/artists/Kid-harpoon"
+    },
+    {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   ],
+   "artist": "Maggie Rogers",
+   "lyrics": "29 ContributorsLight On Lyrics[Verse 1]\nWould you believe me now if I told you I got caught up in a wave?\nAlmost gave it away\nWould you hear me out if I told you I was terrified for days?\nThought I was gonna break\n\n[Pre-Chorus 1]\nOh, I couldn't stop it\nTried to slow it all down\nCrying in the bathroom\nHad to figure it out\nWith everyone around me saying\n\"You must be so happy now\"\n\n[Chorus]\nOh, if you keep reaching out\nThen I'll keep coming back\nAnd if you're gone for good\nThen I'm okay with that\nIf you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\nAnd I am finding out\nThere's just no other way\nThat I'm still dancing at the end of the day\nIf you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\nYou might also like[Verse 2]\nAnd do you believe me now that I always had the best intentions, babe?\nAlways wanted to stay\nCan you feel me now that I'm vulnerable in oh-so-many ways?\nOh, and I'll never change\n\n[Pre-Chorus 2]\nOh, I couldn't stop it\nTried to figure it out\nBut everything kept moving\nAnd the noise got too loud\nWith everyone around me saying\n\"You should be so happy now\"\n\n[Chorus]\nOh, if you keep reaching out\nThen I'll keep coming back\nAnd if you're gone for good\nThen I'm okay with that\nAnd if you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\nAnd I am finding out\nThere's just no other way\nThat I'm still dancing at the end of the day\nIf you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\n[Bridge]\nOh, leave the light on\nOh, would you leave the light on?\n\n[Chorus]\nIf you keep reaching out\nThen I'll keep coming back\nBut if you're gone for good\nThen I'm okay with that\nIf you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\nAnd I am finding out\nThere's just no other way\nThat I'm still dancing at the end of the day\nIf you leave the light on\nThen I'll leave the light on (Light on, light on, light on)\n\n[Outro]\nOh, if you leave the light on\nThen I'll leave the light on\nOh, if you leave the light on13Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3733607",
+   "artist_names": "Maggie Rogers",
+   "full_title": "Fallingwater by\u00a0Maggie\u00a0Rogers",
+   "header_image_thumbnail_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.300x300x1.png",
+   "header_image_url": "https://images.genius.com/e66b5f504dc4778d5790e3a06d3babf4.910x910x1.png",
+   "id": 3733607,
+   "language": "en",
+   "lyrics_owner_id": 803357,
+   "lyrics_state": "complete",
+   "path": "/Maggie-rogers-fallingwater-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Maggie-rogers-fallingwater-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 5,
+    "day": 23
+   },
+   "release_date_for_display": "May 23, 2018",
+   "release_date_with_abbreviated_month_for_display": "May. 23, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a18b8b2c48f28666dc109120f21393fc.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a18b8b2c48f28666dc109120f21393fc.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 28,
+    "iq_earners": 28,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 124742
+   },
+   "title": "Fallingwater",
+   "title_with_featured": "Fallingwater",
+   "url": "https://genius.com/Maggie-rogers-fallingwater-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/683813",
+    "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+    "id": 683813,
+    "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Maggie Rogers",
+    "url": "https://genius.com/artists/Maggie-rogers",
+    "iq": 1619
+   },
+   "apple_music_id": "1437448510",
+   "apple_music_player_url": "https://genius.com/songs/3733607/apple_music_player",
+   "description": {
+    "plain": "\u201cFallingwater\u201d began as a demo written by Rogers in her Brooklyn apartment in November 2016. Months later, throughout 2017 and 2018, Maggie finished writing and producing the track in several sessions with former Vampire Weekend member Rostam Batmanglij.\n\nThe motif of water runs throughout the song as an earthly metaphor for Maggie\u2019s emotion, but the song structure also mirrors the flow of water. It starts gradually, slow and restrained as she pinpoints the moment where she started losing control in a doomed relationship. By the second verse the water is flowing a bit faster, mirrored by the fastened beat and increase in volume. But by the outro the water is falling suddenly \u2013 she is escaping from a collapse of emotions, but also flowing towards new things in a final release.\n\nThe song was eventually released as a single on May 23, 2018 along with a message from Rogers on Twitter:\n\nhttps://twitter.com/maggierogers/status/999313511867183104?ref_src=twsrc%5Etfw"
+   },
+   "embed_content": "<div id='rg_embed_link_3733607' class='rg_embed_link' data-song-id='3733607'>Read <a href='https://genius.com/Maggie-rogers-fallingwater-lyrics'>\u201cFallingwater\u201d by Maggie\u00a0Rogers</a> on Genius</div> <script crossorigin src='//genius.com/songs/3733607/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-05-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/364166",
+    "cover_art_url": "https://images.genius.com/bffbbf55de0bc0c8d6f484bc82fc46b3.1000x1000x1.png",
+    "full_title": "Heard It in a Past Life by Maggie Rogers",
+    "id": 364166,
+    "name": "Heard It in a Past Life",
+    "release_date_for_display": "January 18, 2019",
+    "url": "https://genius.com/albums/Maggie-rogers/Heard-it-in-a-past-life",
+    "artist": {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      },
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      },
+      {
+       "api_path": "/artists/1690632",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1690632,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Debay Sounds",
+       "url": "https://genius.com/artists/Debay-sounds"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      },
+      {
+       "api_path": "/artists/683813",
+       "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+       "id": 683813,
+       "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Maggie Rogers",
+       "url": "https://genius.com/artists/Maggie-rogers",
+       "iq": 1619
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Drum Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Shaker",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Claps",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/683813",
+       "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+       "id": 683813,
+       "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Maggie Rogers",
+       "url": "https://genius.com/artists/Maggie-rogers",
+       "iq": 1619
+      },
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/641907",
+       "header_image_url": "https://images.genius.com/3aeb924a38d59b17c5f944744a35846b.428x500x1.jpg",
+       "id": 641907,
+       "image_url": "https://images.genius.com/3aeb924a38d59b17c5f944744a35846b.428x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Emily Lazar",
+       "url": "https://genius.com/artists/Emily-lazar"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/683813",
+       "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+       "id": 683813,
+       "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Maggie Rogers",
+       "url": "https://genius.com/artists/Maggie-rogers",
+       "iq": 1619
+      },
+      {
+       "api_path": "/artists/491040",
+       "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "id": 491040,
+       "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Rostam",
+       "url": "https://genius.com/artists/Rostam",
+       "iq": 4216
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/993427",
+       "header_image_url": "https://images.genius.com/01f2ef14d877cadead315cee256b814a.400x400x1.jpg",
+       "id": 993427,
+       "image_url": "https://images.genius.com/01f2ef14d877cadead315cee256b814a.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Allgood",
+       "url": "https://genius.com/artists/Chris-allgood"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/664820",
+       "header_image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+       "id": 664820,
+       "image_url": "https://images.genius.com/da66509aa6dd6364360c18c71201d84b.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brandon Bost",
+       "url": "https://genius.com/artists/Brandon-bost"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1103738",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1103738,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rick Rowe",
+       "url": "https://genius.com/artists/Rick-rowe"
+      },
+      {
+       "api_path": "/artists/1496864",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1496864,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dalton Ricks",
+       "url": "https://genius.com/artists/Dalton-ricks"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4453737,
+    "annotator_login": "daviscollins",
+    "api_path": "/referents/14611840",
+    "classification": "accepted",
+    "fragment": "Fallingwater",
+    "id": 14611840,
+    "is_description": true,
+    "path": "/14611840/Maggie-rogers-fallingwater/Fallingwater",
+    "range": {
+     "content": "Fallingwater"
+    },
+    "song_id": 3733607,
+    "url": "https://genius.com/14611840/Maggie-rogers-fallingwater/Fallingwater",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3733607",
+     "client_timestamps": {
+      "updated_by_human_at": 1643149226,
+      "lyrics_updated_at": 1643149226
+     },
+     "context": "Maggie Rogers",
+     "id": 3733607,
+     "image_url": "https://images.genius.com/a18b8b2c48f28666dc109120f21393fc.1000x1000x1.jpg",
+     "link_title": "Fallingwater by\u00a0Maggie\u00a0Rogers",
+     "title": "Fallingwater",
+     "type": "Song",
+     "url": "https://genius.com/Maggie-rogers-fallingwater-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14611840",
+      "body": {
+       "plain": "\u201cFallingwater\u201d began as a demo written by Rogers in her Brooklyn apartment in November 2016. Months later, throughout 2017 and 2018, Maggie finished writing and producing the track in several sessions with former Vampire Weekend member Rostam Batmanglij.\n\nThe motif of water runs throughout the song as an earthly metaphor for Maggie\u2019s emotion, but the song structure also mirrors the flow of water. It starts gradually, slow and restrained as she pinpoints the moment where she started losing control in a doomed relationship. By the second verse the water is flowing a bit faster, mirrored by the fastened beat and increase in volume. But by the outro the water is falling suddenly \u2013 she is escaping from a collapse of emotions, but also flowing towards new things in a final release.\n\nThe song was eventually released as a single on May 23, 2018 along with a message from Rogers on Twitter:\n\nhttps://twitter.com/maggierogers/status/999313511867183104?ref_src=twsrc%5Etfw"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14611840,
+      "pinned": false,
+      "share_url": "https://genius.com/14611840",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14611840/Maggie-rogers-fallingwater/Fallingwater",
+      "verified": false,
+      "votes_total": 25,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.467005076142132,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5441470",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/263b0c1c0448e293cfbb6490735f924a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/263b0c1c0448e293cfbb6490735f924a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/263b0c1c0448e293cfbb6490735f924a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/263b0c1c0448e293cfbb6490735f924a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9yfj4ev35r",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5441470,
+         "iq": 943,
+         "login": "Thinkspoon",
+         "name": "Thinkspoon",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Thinkspoon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2690355329949239,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3409147",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/93d8bb7265364dffedebfbd22c0f8e96",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/93d8bb7265364dffedebfbd22c0f8e96",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/93d8bb7265364dffedebfbd22c0f8e96",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/93d8bb7265364dffedebfbd22c0f8e96",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/93d8bb7265364dffedebfbd22c0f8e96",
+         "human_readable_role_for_display": "Editor",
+         "id": 3409147,
+         "iq": 65417,
+         "login": "AndyBelt",
+         "name": "AndyBelt",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AndyBelt",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2639593908629442,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4453737",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bezvhj68n8u",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bezvhj68n8u",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bezvhj68n8u",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bezvhj68n8u",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/sbbnw1ib4yc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4453737,
+         "iq": 5013,
+         "login": "daviscollins",
+         "name": "daviscollins",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/daviscollins",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/6578",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a3ec1ff157b76a25b4ada9d2ea760d14.500x500x45.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 6578,
+    "iq": 1264343,
+    "login": "louiedro",
+    "name": "\u200blouiedro",
+    "role_for_display": "staff",
+    "url": "https://genius.com/louiedro",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bR1d8l92Q8Q"
+    },
+    {
+     "attribution": "maggierogers",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/maggierogers/fallingwater"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/491040",
+     "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+     "id": 491040,
+     "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Rostam",
+     "url": "https://genius.com/artists/Rostam",
+     "iq": 4216
+    },
+    {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6792663",
+       "artist_names": "Piano Dreamers",
+       "full_title": "Fallingwater by\u00a0Piano\u00a0Dreamers",
+       "header_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "id": 6792663,
+       "language": "en",
+       "lyrics_owner_id": 4390347,
+       "lyrics_state": "complete",
+       "path": "/Piano-dreamers-fallingwater-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Piano-dreamers-fallingwater-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 3,
+        "day": 29
+       },
+       "release_date_for_display": "March 29, 2019",
+       "release_date_with_abbreviated_month_for_display": "Mar. 29, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9a4aa5717239b9812ecc8989b578bdc9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fallingwater",
+       "title_with_featured": "Fallingwater",
+       "url": "https://genius.com/Piano-dreamers-fallingwater-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1938825",
+        "header_image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "id": 1938825,
+        "image_url": "https://images.genius.com/e4d6faabd21fe281642b719dfd2742ef.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Piano Dreamers",
+        "url": "https://genius.com/artists/Piano-dreamers"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4574523",
+       "artist_names": "Maelyn",
+       "full_title": "Fallingwater (The Voice Performance) by\u00a0Maelyn",
+       "header_image_thumbnail_url": "https://images.genius.com/24cc78c32a741d422a6fba06afbad2ba.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/24cc78c32a741d422a6fba06afbad2ba.600x600x1.jpg",
+       "id": 4574523,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Maelyn-fallingwater-the-voice-performance-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maelyn-fallingwater-the-voice-performance-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2019",
+       "release_date_with_abbreviated_month_for_display": "2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/24cc78c32a741d422a6fba06afbad2ba.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/24cc78c32a741d422a6fba06afbad2ba.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fallingwater (The Voice Performance)",
+       "title_with_featured": "Fallingwater (The Voice Performance)",
+       "url": "https://genius.com/Maelyn-fallingwater-the-voice-performance-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1829664",
+        "header_image_url": "https://images.genius.com/ed8c5e0324d75c771b0736b5c668739d.904x904x1.jpg",
+        "id": 1829664,
+        "image_url": "https://images.genius.com/ed8c5e0324d75c771b0736b5c668739d.904x904x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Maelyn",
+        "url": "https://genius.com/artists/Maelyn"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/491040",
+     "header_image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+     "id": 491040,
+     "image_url": "https://images.genius.com/f5a994af21ebbfc9f9e8c32f7fecb7df.640x865x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Rostam",
+     "url": "https://genius.com/artists/Rostam",
+     "iq": 4216
+    },
+    {
+     "api_path": "/artists/683813",
+     "header_image_url": "https://images.genius.com/6a80f794b8ab470cfe89a239456a5aa7.1000x333x1.jpg",
+     "id": 683813,
+     "image_url": "https://images.genius.com/1eec9d49dbff80d4706aa8ccac1f16a4.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Maggie Rogers",
+     "url": "https://genius.com/artists/Maggie-rogers",
+     "iq": 1619
+    }
+   ],
+   "artist": "Maggie Rogers",
+   "lyrics": "28 ContributorsFallingwater Lyrics[Verse 1]\nHold on, I thought that I could take it from here\nOh, I thought that I was calm in the clear\nNow it's getting harder\nHold on, I thought that I was doing so well\nOh, like everything was under a spell\nNow it's getting harder\n\n[Chorus]\nI never loved you fully in the way I could\nI fought the current running just the way you would\nAnd now I'm in the creek\nAnd it's getting harder\nI'm like falling water\n\n[Verse 2]\nGo on and tell me just what I'm supposed to say\nAs if it could be any other way\nOh, it's getting louder\nGo on and tell me just how I could allow\nAll that's light to end up somehow\nWhere it's getting darker\n\n[Chorus]\nI never loved you fully in the way I could\nI fought the current running just the way you would\nAnd now I'm stuck upstream\nAnd it's getting harder\nI'm like falling water, falling water, falling water\nYou might also like[Bridge]\nAnd I'm like falling water, set me free\nYou were like falling water coming down on me\n\n[Chorus]\nI never loved you fully in the way I could\nAnd I'm like falling water, set me free\nI fought the current running just the way you would\nYou were like falling water coming down on me\nAnd now I'm in the creek\nAnd I'm like falling water, set me free\nYou were like falling water coming down on me\n\n[Outro]\nI never gave you everything, I wish I could\nAnd it was coming down on me\nI should've seen it coming from where you stood\nAnd I was standing in the creek\nBut now I'm in the creek\nAnd I'm like falling water, set me free\nYou were like falling water coming down on me\nAnd I'm like falling water, set me free\nYou were like falling water coming down on me\nAnd it's getting harder\nAnd it was coming down on me\nAnd I was standing in the creek\nYou were like falling water\nI was like falling water in the creek12Embed"
+  }
+ ]
+}

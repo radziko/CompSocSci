@@ -1,0 +1,1409 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/482434",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "",
+ "followers_count": 3,
+ "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+ "id": 482434,
+ "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Tayler Buono",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Tayler-buono",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7128567",
+  "classification": "needs_exegesis",
+  "fragment": "Tayler Buono",
+  "id": 7128567,
+  "is_description": true,
+  "path": "/7128567/Tayler-buono/Tayler-buono",
+  "range": {
+   "content": "Tayler Buono"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7128567/Tayler-buono/Tayler-buono",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/482434",
+   "context": null,
+   "id": 482434,
+   "image_url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+   "link_title": "Tayler Buono",
+   "title": "Tayler Buono",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Tayler-buono"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7128567",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7128567,
+    "pinned": false,
+    "share_url": "https://genius.com/7128567",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7128567/Tayler-buono/Tayler-buono",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3464372",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3464372,
+  "iq": 100,
+  "login": "TaylerBuono",
+  "name": "Tayler Buono",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/TaylerBuono",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/2800330",
+   "artist_names": "Tayler Buono",
+   "full_title": "Technically Single by\u00a0Tayler\u00a0Buono",
+   "header_image_thumbnail_url": "https://images.genius.com/eb1fba26fbb0b859177bd1f4563cd1e1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/eb1fba26fbb0b859177bd1f4563cd1e1.1000x1000x1.jpg",
+   "id": 2800330,
+   "language": "en",
+   "lyrics_owner_id": 672397,
+   "lyrics_state": "complete",
+   "path": "/Tayler-buono-technically-single-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Tayler-buono-technically-single-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/eb1fba26fbb0b859177bd1f4563cd1e1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/eb1fba26fbb0b859177bd1f4563cd1e1.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 42355
+   },
+   "title": "Technically Single",
+   "title_with_featured": "Technically Single",
+   "url": "https://genius.com/Tayler-buono-technically-single-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/482434",
+    "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "id": 482434,
+    "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Tayler Buono",
+    "url": "https://genius.com/artists/Tayler-buono",
+    "iq": 100
+   },
+   "apple_music_id": "1196016036",
+   "apple_music_player_url": "https://genius.com/songs/2800330/apple_music_player",
+   "description": {
+    "plain": "\u201cTechnically Single\u201d is a song by American pop singer-songwriter Tayler Buono, released in 2017 as the non-album second single. It was released on June 29, 2016 by RCA Records. The Orlando based singer songwriter is hot on the scene with the release of her new track \u201cTechnically Single.\u201d Last year the siren went viral on YouTube with a gorgeous, piano-driven cover of Justin Bieber\u2019s \u201cSorry\u201d, and now she\u2019s following up with a relatable anthem for anyone who\u2019s ever been in an open relationship.\n\nBuono explained to Teen Vogue that her latest release was inspired by a relationship that was best described as complicated. \u201cIt\u2019s about being stuck in that gray, awkward stage of being more than friends but not really in a relationship\u201d she said.\n\nLetting our her frustration over a lush, synth-laden production, Buono\u2019s sweet vocals soar on the track. \u201cSick and tired of pretending / it\u2019s obvious we\u2019re more than friends / I\u2019m not cool with this / if you\u2019re not intending to be together don\u2019t be wasting my heart\u201d she coos across the track. There is a cathartic quality to her delivery, as though Tayler Buono is finally at ease after telling her potential lover how she feels."
+   },
+   "embed_content": "<div id='rg_embed_link_2800330' class='rg_embed_link' data-song-id='2800330'>Read <a href='https://genius.com/Tayler-buono-technically-single-lyrics'>\u201cTechnically Single\u201d by Tayler\u00a0Buono</a> on Genius</div> <script crossorigin src='//genius.com/songs/2800330/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/343520",
+    "cover_art_url": "https://images.genius.com/df295263fa8246c6b2f13aa8a1285591.1000x1000x1.jpg",
+    "full_title": "NOW That\u2019s What I Call Music! 62 [US] by NOW That's What I Call Music!",
+    "id": 343520,
+    "name": "NOW That\u2019s What I Call Music! 62 [US]",
+    "release_date_for_display": "May 5, 2017",
+    "url": "https://genius.com/albums/Now-thats-what-i-call-music/Now-thats-what-i-call-music-62-us",
+    "artist": {
+     "api_path": "/artists/578675",
+     "header_image_url": "https://images.genius.com/75dc2b1f96ca4962c7622043335e1b99.960x960x1.jpg",
+     "id": 578675,
+     "image_url": "https://images.genius.com/2ad71039250d907203f1e0c96d3996e6.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "NOW That\u2019s What I Call Music!",
+     "url": "https://genius.com/artists/Now-thats-what-i-call-music"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8273289,
+    "annotator_login": "TheoFeliciano",
+    "api_path": "/referents/10007015",
+    "classification": "unreviewed",
+    "fragment": "Technically Single",
+    "id": 10007015,
+    "is_description": true,
+    "path": "/10007015/Tayler-buono-technically-single/Technically-single",
+    "range": {
+     "content": "Technically Single"
+    },
+    "song_id": 2800330,
+    "url": "https://genius.com/10007015/Tayler-buono-technically-single/Technically-single",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2800330",
+     "client_timestamps": {
+      "updated_by_human_at": 1549395185,
+      "lyrics_updated_at": 1549395185
+     },
+     "context": "Tayler Buono",
+     "id": 2800330,
+     "image_url": "https://images.genius.com/eb1fba26fbb0b859177bd1f4563cd1e1.1000x1000x1.jpg",
+     "link_title": "Technically Single by\u00a0Tayler\u00a0Buono",
+     "title": "Technically Single",
+     "type": "Song",
+     "url": "https://genius.com/Tayler-buono-technically-single-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10007015",
+      "body": {
+       "plain": "\u201cTechnically Single\u201d is a song by American pop singer-songwriter Tayler Buono, released in 2017 as the non-album second single. It was released on June 29, 2016 by RCA Records. The Orlando based singer songwriter is hot on the scene with the release of her new track \u201cTechnically Single.\u201d Last year the siren went viral on YouTube with a gorgeous, piano-driven cover of Justin Bieber\u2019s \u201cSorry\u201d, and now she\u2019s following up with a relatable anthem for anyone who\u2019s ever been in an open relationship.\n\nBuono explained to Teen Vogue that her latest release was inspired by a relationship that was best described as complicated. \u201cIt\u2019s about being stuck in that gray, awkward stage of being more than friends but not really in a relationship\u201d she said.\n\nLetting our her frustration over a lush, synth-laden production, Buono\u2019s sweet vocals soar on the track. \u201cSick and tired of pretending / it\u2019s obvious we\u2019re more than friends / I\u2019m not cool with this / if you\u2019re not intending to be together don\u2019t be wasting my heart\u201d she coos across the track. There is a cathartic quality to her delivery, as though Tayler Buono is finally at ease after telling her potential lover how she feels."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10007015,
+      "pinned": false,
+      "share_url": "https://genius.com/10007015",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10007015/Tayler-buono-technically-single/Technically-single",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8273289",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/62c127ba6705cc2a1713734970bb4845",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8273289,
+         "iq": 3926,
+         "login": "TheoFeliciano",
+         "name": "TheoFeliciano",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/TheoFeliciano",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=_DWI7iJaXhk"
+    },
+    {
+     "native_uri": "spotify:track:6lDx96uizO7bKiytk0t6KU",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6lDx96uizO7bKiytk0t6KU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4260649",
+       "artist_names": "Tayler Buono",
+       "full_title": "Technically Single (Lenno Remix) by\u00a0Tayler\u00a0Buono",
+       "header_image_thumbnail_url": "https://images.genius.com/f4af9778f8b900668ef94d88b33ef72a.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/f4af9778f8b900668ef94d88b33ef72a.200x200x1.jpg",
+       "id": 4260649,
+       "language": "en",
+       "lyrics_owner_id": 5637607,
+       "lyrics_state": "complete",
+       "path": "/Tayler-buono-technically-single-lenno-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Tayler-buono-technically-single-lenno-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 2,
+        "day": 3
+       },
+       "release_date_for_display": "February 3, 2017",
+       "release_date_with_abbreviated_month_for_display": "Feb. 3, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f4af9778f8b900668ef94d88b33ef72a.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f4af9778f8b900668ef94d88b33ef72a.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Technically Single (Lenno Remix)",
+       "title_with_featured": "Technically Single (Lenno Remix)",
+       "url": "https://genius.com/Tayler-buono-technically-single-lenno-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/482434",
+        "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+        "id": 482434,
+        "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Tayler Buono",
+        "url": "https://genius.com/artists/Tayler-buono",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Tayler Buono",
+   "lyrics": "9 ContributorsTechnically Single Lyrics[Verse 1]\nHere's my ultimatum\nIt's time we had this conversation\nThe numbers don't add up in this equation\nYou got it good, no obligation, but what's in it for me?\nI got my heart out on my sleeve\nFor so long, I, I just let it bleed, let you walk all over\nHere\u2019s my ultimatum\nWe either give this a shot, or not\n\n[Pre-Chorus]\nYou keep me up in the night, I stay up wondering\nAm I yours? Are you mine? Are we more than a thing?\nYa want my love, want it all, but it's torturing me\nEmotionally, yeah\n\n[Chorus]\nIt's not even fair\nThat you don't have to feel this\nThat you don't have to care\nI\u2019m stuck in this confusion\n'Cause I'm technically single, emotionally unavailable\nTechnically single, emotionally unavailable\n\n[Verse 2]\nSick and tired of pretending\nIt's obvious we're more than friends\nI'm not cool with this if you're not intending\nTo be together, don\u2019t go wastin' my heart\nYou might also like[Pre-Chorus]\nDon't wanna lose me or see me with some other guy\nBut what am I supposed to do if I can't call you mine?\nGive me no choice but move on 'cause there's no you and I\nTechnically yeah\n\n[Chorus]\nIt's not even fair\nThat you don't have to feel this\nThat you don't have to care\nI\u2019m stuck in this confusion\n'Cause I'm technically single, emotionally unavailable\nTechnically single, emotionally unavailable\n\n[Interlude]\n\n[Chorus]\nIt's not even fair\nThat you don't have to feel this\nThat you don't have to care\nI\u2019m stuck in this confusion\n'Cause I'm technically single, emotionally unavailable\nTechnically single, emotionally unavailable1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2832823",
+   "artist_names": "Tayler Buono",
+   "full_title": "Something About You by\u00a0Tayler\u00a0Buono",
+   "header_image_thumbnail_url": "https://images.genius.com/39e9cee733574261afe9b9a2b4eb99de.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/39e9cee733574261afe9b9a2b4eb99de.1000x1000x1.jpg",
+   "id": 2832823,
+   "language": "en",
+   "lyrics_owner_id": 672397,
+   "lyrics_state": "complete",
+   "path": "/Tayler-buono-something-about-you-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Tayler-buono-something-about-you-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 8,
+    "day": 5
+   },
+   "release_date_for_display": "August 5, 2016",
+   "release_date_with_abbreviated_month_for_display": "Aug. 5, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/39e9cee733574261afe9b9a2b4eb99de.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/39e9cee733574261afe9b9a2b4eb99de.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9967
+   },
+   "title": "Something About You",
+   "title_with_featured": "Something About You",
+   "url": "https://genius.com/Tayler-buono-something-about-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/482434",
+    "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "id": 482434,
+    "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Tayler Buono",
+    "url": "https://genius.com/artists/Tayler-buono",
+    "iq": 100
+   },
+   "apple_music_id": "1196023169",
+   "apple_music_player_url": "https://genius.com/songs/2832823/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2832823' class='rg_embed_link' data-song-id='2832823'>Read <a href='https://genius.com/Tayler-buono-something-about-you-lyrics'>\u201cSomething About You\u201d by Tayler\u00a0Buono</a> on Genius</div> <script crossorigin src='//genius.com/songs/2832823/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-08-05",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 672397,
+    "annotator_login": "Freeus",
+    "api_path": "/referents/10201336",
+    "classification": "needs_exegesis",
+    "fragment": "Something About You",
+    "id": 10201336,
+    "is_description": true,
+    "path": "/10201336/Tayler-buono-something-about-you/Something-about-you",
+    "range": {
+     "content": "Something About You"
+    },
+    "song_id": 2832823,
+    "url": "https://genius.com/10201336/Tayler-buono-something-about-you/Something-about-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2832823",
+     "client_timestamps": {
+      "updated_by_human_at": 1474065715,
+      "lyrics_updated_at": 1474065715
+     },
+     "context": "Tayler Buono",
+     "id": 2832823,
+     "image_url": "https://images.genius.com/39e9cee733574261afe9b9a2b4eb99de.1000x1000x1.jpg",
+     "link_title": "Something About You by\u00a0Tayler\u00a0Buono",
+     "title": "Something About You",
+     "type": "Song",
+     "url": "https://genius.com/Tayler-buono-something-about-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10201336",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10201336,
+      "pinned": false,
+      "share_url": "https://genius.com/10201336",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10201336/Tayler-buono-something-about-you/Something-about-you",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/672397",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/78e75f2eaf392b087b9636bf18926805",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/78e75f2eaf392b087b9636bf18926805",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/78e75f2eaf392b087b9636bf18926805",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/78e75f2eaf392b087b9636bf18926805",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/78e75f2eaf392b087b9636bf18926805",
+         "human_readable_role_for_display": "Editor",
+         "id": 672397,
+         "iq": 499748,
+         "login": "Freeus",
+         "name": "\u15f4velyn",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Freeus",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Tayler Buono",
+   "lyrics": "1 ContributorSomething About You Lyrics[Verse 1]\nI got my head on your heart\nScattered back seat of your car\nOnly one dream that we got\nTo live it up, to live it up\nKnew you since I was fifteen\nWe both were caught in between\nBut now we're chasing our need\nTo get enough, to get enough\n\n[Chorus]\nJust something about you\nHolding on your love\nNever get enough\nJust something  about you\nJumping in the car\nDancing in the dark\nNobody else does it like you do\nThe way that I feel when I hold on you\nNot sure what I'm into\n\n[Post-Chorus]\nJust something about you\nJust something about\nJust something about you\nJust something about\nYou might also like[Verse 2]\nSo pick me up at moonlight\nYou lock your hand into mine\nWe drive out onto the edge\nWe're livin' on, we're livin' on\nWe've love through all of the rain\nSomehow we still feel the same\nWe may be lost but we're right\nWhere we belong, where we belong\n\n[Chorus]\nJust something about you\nHolding on your love\nNever get enough\nJust something about you\nJumping in the car\nDancing in the dark\nNobody else does it like you do\nThe way that I feel when I hold on you\nNot sure what I'm into\n\n[Post-Chorus]\nJust something about you\nJust something about\nJust something about you\nJust something about\n[Outro]\nJust something about you\nJust something about you\nJust something about you\nJust something about you\nNobody else does it like you do\nThe way that I feel when I hold on you\nNot sure what I'm into\nJust something about you\nJust something about\nNobody else does it like you do\nThe way that I feel when I hold on you\nJust something about\nJust something about you1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3123829",
+   "artist_names": "Tayler Buono",
+   "full_title": "Fine by\u00a0Tayler\u00a0Buono",
+   "header_image_thumbnail_url": "https://images.genius.com/ed80609535b6997c21ea20ed6176b6cd.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ed80609535b6997c21ea20ed6176b6cd.800x800x1.jpg",
+   "id": 3123829,
+   "language": "en",
+   "lyrics_owner_id": 320363,
+   "lyrics_state": "complete",
+   "path": "/Tayler-buono-fine-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Tayler-buono-fine-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 16
+   },
+   "release_date_for_display": "June 16, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/450681df92f3bb30f7f4f88db1f5d106.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/450681df92f3bb30f7f4f88db1f5d106.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Fine",
+   "title_with_featured": "Fine",
+   "url": "https://genius.com/Tayler-buono-fine-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/482434",
+    "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "id": 482434,
+    "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Tayler Buono",
+    "url": "https://genius.com/artists/Tayler-buono",
+    "iq": 100
+   },
+   "apple_music_id": "1247670840",
+   "apple_music_player_url": "https://genius.com/songs/3123829/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3123829' class='rg_embed_link' data-song-id='3123829'>Read <a href='https://genius.com/Tayler-buono-fine-lyrics'>\u201cFine\u201d by Tayler\u00a0Buono</a> on Genius</div> <script crossorigin src='//genius.com/songs/3123829/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-16",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Record Label",
+     "artists": [
+      {
+       "api_path": "/artists/154526",
+       "header_image_url": "https://images.genius.com/3d00beb981cd41e43d21afe219988a68.600x600x1.jpg",
+       "id": 154526,
+       "image_url": "https://images.genius.com/046fa426b49ab40f1bc84df6b6bf74ee.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RCA Records",
+       "url": "https://genius.com/artists/Rca-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 320363,
+    "annotator_login": "plutosaplanetdude",
+    "api_path": "/referents/12169426",
+    "classification": "needs_exegesis",
+    "fragment": "Fine",
+    "id": 12169426,
+    "is_description": true,
+    "path": "/12169426/Tayler-buono-fine/Fine",
+    "range": {
+     "content": "Fine"
+    },
+    "song_id": 3123829,
+    "url": "https://genius.com/12169426/Tayler-buono-fine/Fine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3123829",
+     "client_timestamps": {
+      "updated_by_human_at": 1594359206,
+      "lyrics_updated_at": 1497602364
+     },
+     "context": "Tayler Buono",
+     "id": 3123829,
+     "image_url": "https://images.genius.com/450681df92f3bb30f7f4f88db1f5d106.800x800x1.jpg",
+     "link_title": "Fine by\u00a0Tayler\u00a0Buono",
+     "title": "Fine",
+     "type": "Song",
+     "url": "https://genius.com/Tayler-buono-fine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12169426",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12169426,
+      "pinned": false,
+      "share_url": "https://genius.com/12169426",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12169426/Tayler-buono-fine/Fine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/320363",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/07033b7bb23a638fc1b2b7693b55d24f.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 320363,
+         "iq": 159175,
+         "login": "plutosaplanetdude",
+         "name": "Plutosaplanetdude",
+         "role_for_display": "editor",
+         "url": "https://genius.com/plutosaplanetdude",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=IHrWSEYD9dw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1550323",
+     "header_image_url": "https://images.genius.com/1866c1a04d7ff3e3cb99df4ae6c3b247.1000x333x1.jpg",
+     "id": 1550323,
+     "image_url": "https://images.genius.com/bf42e545c03c68a7a78ca9d9e6ad9842.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TheGifted",
+     "url": "https://genius.com/artists/Thegifted"
+    },
+    {
+     "api_path": "/artists/578815",
+     "header_image_url": "https://images.genius.com/3bab453f3d14238414fa7ae1adad3d4e.407x407x1.jpg",
+     "id": 578815,
+     "image_url": "https://images.genius.com/3bab453f3d14238414fa7ae1adad3d4e.407x407x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johan Lindbrandt",
+     "url": "https://genius.com/artists/Johan-lindbrandt"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/482434",
+     "header_image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+     "id": 482434,
+     "image_url": "https://images.genius.com/avatars/medium/2a6f6fe63ceb29833ca4bcadcabb5ea2",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Tayler Buono",
+     "url": "https://genius.com/artists/Tayler-buono",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/578815",
+     "header_image_url": "https://images.genius.com/3bab453f3d14238414fa7ae1adad3d4e.407x407x1.jpg",
+     "id": 578815,
+     "image_url": "https://images.genius.com/3bab453f3d14238414fa7ae1adad3d4e.407x407x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johan Lindbrandt",
+     "url": "https://genius.com/artists/Johan-lindbrandt"
+    },
+    {
+     "api_path": "/artists/662226",
+     "header_image_url": "https://images.genius.com/490ab9c3934f967f5c8ad2989e0d2134.781x960x1.jpg",
+     "id": 662226,
+     "image_url": "https://images.genius.com/3366cb118418f68d55795dc5f31d58af.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emily Weisband",
+     "url": "https://genius.com/artists/Emily-weisband"
+    }
+   ],
+   "artist": "Tayler Buono",
+   "lyrics": "3 ContributorsFine Lyrics[Verse 1]\nYou really made me so mad\nOh, did you mean to say that?\n'Cause it just rubbed me so bad\n\n[Pre-Chorus]\nI've been dropping hints, now I'm turning all the nights out\nTurning away without kissing you goodnight\nSlammed all seven doors and being kinda short\nCall me and ignore you, still, don't see the signs\n\nI want you to know me, I want you to notice\nBaby, when you hold me, do you even notice?\nWhen you ask me and I tell you, ask me and I tell you\n\n[Chorus]\nI'm fine, don't get up and leave 'cause I'm lying\nIt's obvious so open up your eyes\nDon't you know that me saying \"I'm fine\"\nMeans I'm not fine at all\n\n[Verse 2]\nOh, maybe it's a girl thing\nBut it should be a guy thing\nTo know that it's a girl thing\nYou might also like[Pre-Chorus]\nI've been dropping hints, now I'm turning all the nights out\nTurning away without kissing you goodnight\nSlammed all seven doors and being kinda short\nCall me and ignore you, still, don't see the signs\n\nI want you to know me, I want you to notice\nBaby, when you hold me, do you even notice?\nWhen you ask me and I tell you, ask me and I tell you\n\n[Chorus]\nI'm fine, don't get up and leave 'cause I'm lying\nIt's obvious so open up your eyes\nDon't you know that me saying \"I'm fine\"\nMeans I'm not fine at all\n\n[Pre-Chorus]\nI want you to know me, I want you to notice\nBaby, when you hold me, do you even notice?\nWhen you ask me and I tell you\nOh, you ask me and I tell you\n\n[Chorus]\nI'm fine, don't get up and leave 'cause I'm lying\nIt's obvious so open up your eyes\nDon't you know that me saying \"I'm fine\"\nMeans I'm not fine at all1Embed"
+  }
+ ]
+}

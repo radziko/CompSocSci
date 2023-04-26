@@ -1,0 +1,2808 @@
+{
+ "alternate_names": [
+  "Jack Johnson and Jack Gilinsky"
+ ],
+ "api_path": "/artists/216527",
+ "description": {
+  "plain": "Jack & Jack are a musical duo hailing from Omaha, Nebraska who got their claim to fame by posting 6-second videos on the popular social media app, Vine. Jack Gilinsky and Jack J have been friends since their first day of kindergarten.\n\nFollowing the collaborative tour of Magcon, Jack & Jack began to release music such as Tides \u2013 then moving onto better-produced tracks like Wild Life and Cold Hearted to name a few.\n\nIn July 2015, the duo released their first EP titled Calibraska, joining their state of origin and where they currently live along with the lead single California.\n\nIn May 2017, Jack & Jack released their second EP titled Gone.\n\nIn January 2019, Jack & Jack released their debut album titled A Good Friend Is Nice."
+ },
+ "facebook_name": "OfficialJackandJack",
+ "followers_count": 204,
+ "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+ "id": 216527,
+ "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+ "instagram_name": "jackandjack",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Jack & Jack",
+ "translation_artist": false,
+ "twitter_name": "jackandjack",
+ "url": "https://genius.com/artists/Jack-and-jack",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 543,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 126836,
+  "annotator_login": "ChloeConlon",
+  "api_path": "/referents/7034018",
+  "classification": "accepted",
+  "fragment": "Jack & Jack",
+  "id": 7034018,
+  "is_description": true,
+  "path": "/7034018/Jack-and-jack/Jack-and-jack",
+  "range": {
+   "content": "Jack & Jack"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7034018/Jack-and-jack/Jack-and-jack",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/216527",
+   "context": null,
+   "id": 216527,
+   "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+   "link_title": "Jack & Jack",
+   "title": "Jack & Jack",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jack-and-jack"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7034018",
+    "body": {
+     "plain": "Jack & Jack are a musical duo hailing from Omaha, Nebraska who got their claim to fame by posting 6-second videos on the popular social media app, Vine. Jack Gilinsky and Jack J have been friends since their first day of kindergarten.\n\nFollowing the collaborative tour of Magcon, Jack & Jack began to release music such as Tides \u2013 then moving onto better-produced tracks like Wild Life and Cold Hearted to name a few.\n\nIn July 2015, the duo released their first EP titled Calibraska, joining their state of origin and where they currently live along with the lead single California.\n\nIn May 2017, Jack & Jack released their second EP titled Gone.\n\nIn January 2019, Jack & Jack released their debut album titled A Good Friend Is Nice."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7034018,
+    "pinned": false,
+    "share_url": "https://genius.com/7034018",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7034018/Jack-and-jack/Jack-and-jack",
+    "verified": false,
+    "votes_total": 80,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.653225806451613,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/126836",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/2f4efbb8d2031e656696b1f2e029c742",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/2f4efbb8d2031e656696b1f2e029c742",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/2f4efbb8d2031e656696b1f2e029c742",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/2f4efbb8d2031e656696b1f2e029c742",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/27d4ff0a8726ba5d0d06dc681ee8d18e.480x270x23.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 126836,
+       "iq": 3431710,
+       "login": "ChloeConlon",
+       "name": "Chloe Conlon \u2618\ufe0f",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/ChloeConlon",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.13709677419354838,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7498925",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7b4eec2e962c96666fc3ebbe2149a959",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7b4eec2e962c96666fc3ebbe2149a959",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7b4eec2e962c96666fc3ebbe2149a959",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7b4eec2e962c96666fc3ebbe2149a959",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a4541645194321fc1d8024dca37b8538.800x450x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 7498925,
+       "iq": 166840,
+       "login": "blazifyy",
+       "name": "\u200baalrae",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/blazifyy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.11290322580645162,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4668155",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dytp6oi5xv",
+       "human_readable_role_for_display": "Editor",
+       "id": 4668155,
+       "iq": 56726,
+       "login": "rihanti",
+       "name": "rihanti",
+       "role_for_display": "editor",
+       "url": "https://genius.com/rihanti",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.08064516129032258,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4268467",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/04f35ea205f8e4412872f4c40c5d9fd8",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/04f35ea205f8e4412872f4c40c5d9fd8",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/04f35ea205f8e4412872f4c40c5d9fd8",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/04f35ea205f8e4412872f4c40c5d9fd8",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/e4q1753rbyt",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4268467,
+       "iq": 7115,
+       "login": "rosesonly",
+       "name": "rosesonly",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/rosesonly",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.008064516129032258,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1873201",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f87cf09959b1401ea9890cc6f5291188",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/dcac0ceaa601aa65e65c79c4fc17af29.640x213x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 1873201,
+       "iq": 1006672,
+       "login": "VinylZombie_MCR",
+       "name": "\u200bthebreakup",
+       "role_for_display": "editor",
+       "url": "https://genius.com/VinylZombie_MCR",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.008064516129032258,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3944448",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/757493b2f17df57a325d3dbc622c717c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/764rrrea5hx",
+       "human_readable_role_for_display": "Editor",
+       "id": 3944448,
+       "iq": 99623,
+       "login": "aaaaaick",
+       "name": "aaaaaick",
+       "role_for_display": "editor",
+       "url": "https://genius.com/aaaaaick",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/7676127",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/7a92d8de3f1d27a883f9a419d88a9ed3",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/7a92d8de3f1d27a883f9a419d88a9ed3",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/7a92d8de3f1d27a883f9a419d88a9ed3",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/7a92d8de3f1d27a883f9a419d88a9ed3",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 7676127,
+  "iq": 543,
+  "login": "jackandjackofficial",
+  "name": "Jack & Jack",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/jackandjackofficial",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3094222",
+   "artist_names": "Jack & Jack",
+   "full_title": "2 Cigarettes by\u00a0Jack\u00a0& Jack",
+   "header_image_thumbnail_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+   "id": 3094222,
+   "language": "en",
+   "lyrics_owner_id": 3344750,
+   "lyrics_state": "complete",
+   "path": "/Jack-and-jack-2-cigarettes-lyrics",
+   "pyongs_count": 14,
+   "relationships_index_url": "https://genius.com/Jack-and-jack-2-cigarettes-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 5,
+    "day": 26
+   },
+   "release_date_for_display": "May 26, 2017",
+   "release_date_with_abbreviated_month_for_display": "May. 26, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 23,
+    "iq_earners": 22,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 135144
+   },
+   "title": "2 Cigarettes",
+   "title_with_featured": "2 Cigarettes",
+   "url": "https://genius.com/Jack-and-jack-2-cigarettes-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/216527",
+    "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+    "id": 216527,
+    "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jack & Jack",
+    "url": "https://genius.com/artists/Jack-and-jack",
+    "iq": 543
+   },
+   "apple_music_id": "1440795441",
+   "apple_music_player_url": "https://genius.com/songs/3094222/apple_music_player",
+   "description": {
+    "plain": "In \u201c2 Cigarettes,\u201d Jack & Jack depict the failing relationship, which was described in the previous song off the EP, \u201cHurt People.\u201d The damage are so detrimental that it drives him to smoke two cigarettes even though he doesn\u2019t smoke, looking for anything to alleviate the pain.\n\nThis is Jack Johnson\u2019s favorite song off the project."
+   },
+   "embed_content": "<div id='rg_embed_link_3094222' class='rg_embed_link' data-song-id='3094222'>Read <a href='https://genius.com/Jack-and-jack-2-cigarettes-lyrics'>\u201c2 Cigarettes\u201d by Jack\u00a0& Jack</a> on Genius</div> <script crossorigin src='//genius.com/songs/3094222/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-05-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/468090",
+    "cover_art_url": "https://images.genius.com/f6d8f5f0771b92e610be66f43382e5f0.800x800x1.jpg",
+    "full_title": "A Good Friend Is Nice by Jack & Jack",
+    "id": 468090,
+    "name": "A Good Friend Is Nice",
+    "release_date_for_display": "January 25, 2019",
+    "url": "https://genius.com/albums/Jack-and-jack/A-good-friend-is-nice",
+    "artist": {
+     "api_path": "/artists/216527",
+     "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+     "id": 216527,
+     "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jack & Jack",
+     "url": "https://genius.com/artists/Jack-and-jack",
+     "iq": 543
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/577147",
+       "header_image_url": "https://images.genius.com/1d6fab23ee5a7d54ecca9acbd956e8da.1000x1000x1.jpg",
+       "id": 577147,
+       "image_url": "https://images.genius.com/475b00923aea53ffa73cfebe24888b17.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jack Gilinsky",
+       "url": "https://genius.com/artists/Jack-gilinsky"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Rapper",
+     "artists": [
+      {
+       "api_path": "/artists/492318",
+       "header_image_url": "https://images.genius.com/b016563375bea07973b6236b69f09aa6.1000x333x1.jpg",
+       "id": 492318,
+       "image_url": "https://images.genius.com/f1803a3db56889264d14224fa142c45f.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "JVCKJ",
+       "url": "https://genius.com/artists/Jvckj"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/664581",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h29kXBfQTQOpIaEZA9Ya_16789760_969971906471804_4126539264429129728_n.jpg",
+       "id": 664581,
+       "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/AYEfl2rkQNiB1p9JPStM_avatars-000001434415-a7z5ve-t500x500.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeff Halavacs",
+       "url": "https://genius.com/artists/Jeff-halavacs"
+      },
+      {
+       "api_path": "/artists/1779765",
+       "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+       "id": 1779765,
+       "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan OG",
+       "url": "https://genius.com/artists/Ryan-og"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1779765",
+       "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+       "id": 1779765,
+       "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan OG",
+       "url": "https://genius.com/artists/Ryan-og"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/664581",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h29kXBfQTQOpIaEZA9Ya_16789760_969971906471804_4126539264429129728_n.jpg",
+       "id": 664581,
+       "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/AYEfl2rkQNiB1p9JPStM_avatars-000001434415-a7z5ve-t500x500.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeff Halavacs",
+       "url": "https://genius.com/artists/Jeff-halavacs"
+      },
+      {
+       "api_path": "/artists/1779765",
+       "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+       "id": 1779765,
+       "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan OG",
+       "url": "https://genius.com/artists/Ryan-og"
+      }
+     ]
+    },
+    {
+     "label": "Programmed By",
+     "artists": [
+      {
+       "api_path": "/artists/664581",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h29kXBfQTQOpIaEZA9Ya_16789760_969971906471804_4126539264429129728_n.jpg",
+       "id": 664581,
+       "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/AYEfl2rkQNiB1p9JPStM_avatars-000001434415-a7z5ve-t500x500.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeff Halavacs",
+       "url": "https://genius.com/artists/Jeff-halavacs"
+      },
+      {
+       "api_path": "/artists/1779765",
+       "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+       "id": 1779765,
+       "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan OG",
+       "url": "https://genius.com/artists/Ryan-og"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/606741",
+       "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+       "id": 606741,
+       "image_url": "https://images.genius.com/414ab429ee8ea4c63bdf965e889c5499.331x331x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Gudwin",
+       "url": "https://genius.com/artists/Josh-gudwin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3344750,
+    "annotator_login": "AnanasMure",
+    "api_path": "/referents/11874364",
+    "classification": "accepted",
+    "fragment": "2 Cigarettes",
+    "id": 11874364,
+    "is_description": true,
+    "path": "/11874364/Jack-and-jack-2-cigarettes/2-cigarettes",
+    "range": {
+     "content": "2 Cigarettes"
+    },
+    "song_id": 3094222,
+    "url": "https://genius.com/11874364/Jack-and-jack-2-cigarettes/2-cigarettes",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3094222",
+     "client_timestamps": {
+      "updated_by_human_at": 1555935228,
+      "lyrics_updated_at": 1550904965
+     },
+     "context": "Jack & Jack",
+     "id": 3094222,
+     "image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+     "link_title": "2 Cigarettes by\u00a0Jack\u00a0& Jack",
+     "title": "2 Cigarettes",
+     "type": "Song",
+     "url": "https://genius.com/Jack-and-jack-2-cigarettes-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11874364",
+      "body": {
+       "plain": "In \u201c2 Cigarettes,\u201d Jack & Jack depict the failing relationship, which was described in the previous song off the EP, \u201cHurt People.\u201d The damage are so detrimental that it drives him to smoke two cigarettes even though he doesn\u2019t smoke, looking for anything to alleviate the pain.\n\nThis is Jack Johnson\u2019s favorite song off the project."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11874364,
+      "pinned": false,
+      "share_url": "https://genius.com/11874364",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/11874364/Jack-and-jack-2-cigarettes/2-cigarettes",
+      "verified": false,
+      "votes_total": 34,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6727272727272726,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3344750",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/eca2e4d4595574e7efd824481c9e89b8",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3344750,
+         "iq": 16204,
+         "login": "AnanasMure",
+         "name": "AnanasMure",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AnanasMure",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.16363636363636364,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4499513",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d24c7cb2723ede854d5c9af553a23406",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d24c7cb2723ede854d5c9af553a23406",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d24c7cb2723ede854d5c9af553a23406",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d24c7cb2723ede854d5c9af553a23406",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d24c7cb2723ede854d5c9af553a23406",
+         "human_readable_role_for_display": null,
+         "id": 4499513,
+         "iq": 157,
+         "login": "jaylajpg",
+         "name": "jaylajpg",
+         "role_for_display": null,
+         "url": "https://genius.com/jaylajpg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.16363636363636364,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2813390",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3ee9596506b087a5ac3922661ebb5c2b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3ee9596506b087a5ac3922661ebb5c2b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3ee9596506b087a5ac3922661ebb5c2b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3ee9596506b087a5ac3922661ebb5c2b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/dadd926789bc3772be4dfe97fd8ef3b3.1000x500x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 2813390,
+         "iq": 781308,
+         "login": "PlanNine",
+         "name": "PlanNine",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/PlanNine",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/6578",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a3ec1ff157b76a25b4ada9d2ea760d14.500x500x45.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 6578,
+    "iq": 1264355,
+    "login": "louiedro",
+    "name": "\u200blouiedro",
+    "role_for_display": "staff",
+    "url": "https://genius.com/louiedro",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=YUj2EjIQ8m8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/664581",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h29kXBfQTQOpIaEZA9Ya_16789760_969971906471804_4126539264429129728_n.jpg",
+     "id": 664581,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/AYEfl2rkQNiB1p9JPStM_avatars-000001434415-a7z5ve-t500x500.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeff Halavacs",
+     "url": "https://genius.com/artists/Jeff-halavacs"
+    },
+    {
+     "api_path": "/artists/1779765",
+     "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+     "id": 1779765,
+     "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan OG",
+     "url": "https://genius.com/artists/Ryan-og"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/577147",
+     "header_image_url": "https://images.genius.com/1d6fab23ee5a7d54ecca9acbd956e8da.1000x1000x1.jpg",
+     "id": 577147,
+     "image_url": "https://images.genius.com/475b00923aea53ffa73cfebe24888b17.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jack Gilinsky",
+     "url": "https://genius.com/artists/Jack-gilinsky"
+    },
+    {
+     "api_path": "/artists/492318",
+     "header_image_url": "https://images.genius.com/b016563375bea07973b6236b69f09aa6.1000x333x1.jpg",
+     "id": 492318,
+     "image_url": "https://images.genius.com/f1803a3db56889264d14224fa142c45f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JVCKJ",
+     "url": "https://genius.com/artists/Jvckj"
+    },
+    {
+     "api_path": "/artists/1779765",
+     "header_image_url": "https://images.genius.com/e88c9e14ebe0b2e845522eded6beb71f.1000x664x1.jpg",
+     "id": 1779765,
+     "image_url": "https://images.genius.com/df48a5ac64d64b27d8bba7c8e0f614b9.680x680x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan OG",
+     "url": "https://genius.com/artists/Ryan-og"
+    },
+    {
+     "api_path": "/artists/664581",
+     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h29kXBfQTQOpIaEZA9Ya_16789760_969971906471804_4126539264429129728_n.jpg",
+     "id": 664581,
+     "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/AYEfl2rkQNiB1p9JPStM_avatars-000001434415-a7z5ve-t500x500.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jeff Halavacs",
+     "url": "https://genius.com/artists/Jeff-halavacs"
+    }
+   ],
+   "artist": "Jack & Jack",
+   "lyrics": "23 Contributors2 Cigarettes Lyrics[Verse 1: Jack Gilinsky]\nLately I can feel us drifting\nBoth of us been acting different\nWe used to be so consistent\nIs there nothing left to say, say?\n\n[Pre-Chorus: Jack Gilinksy]\nNow I see your face and I just don't know you\nLike the picture's there but it's not quite focused\nAnd I know it won't, but I'm still here hoping\nThat it gets better now\nIt gets better now, yeah\n\n[Chorus: Jack Gilinsky]\nNo more late nights, us just talking\nUsed to FaceTime, now you just calling\nIt's no one's fault but some things just fall apart, yeah\nI smoke two cigarettes and I don't even smoke, no\nNow the sun's coming up and I'm halfway sober\nAnd I know it won't but I'm still here hoping\nThat it gets better now, whoa\n\n[Verse 2: Jack Gilinsky]\nHow'd it get so complicated?\nCan't even have no conversation\nPast the point of trying to save it\nBut we push it to another day, hey\nYou might also like[Pre-Chorus: Jack Gilinsky]\nNow I see your face and I just don't know you\nLike the picture's there but it's not quite focused\nAnd I know it won't but I'm still here hoping\nThat it gets better now, it gets better now\n\n[Chorus: Jack Gilinsky]\nNo more late nights, us just talking\nUsed to FaceTime, now you just calling\nIt's no one's fault but some things just fall apart (Oh they fall apart), yeah\nI smoke two cigarettes and I don't even smoke, no\nNow the sun's coming up and I'm halfway sober\nAnd I know it won't but I'm still here hoping\nThat it gets better now, whoa\n\n[Verse 3: Jack Johnson]\n(You got me fucked up, damn)\nI'm really tryin' to let go\nBut I can't delete the messages\nWhen you said you'd be my girl forever, shit\nNow it's been a week and it's really starting to settle in\nWe were movin' full speed, now we're just back-pedalin'\nAll those other couples that were fallin' out of love\nWe would always talk about how we were so far ahead of them\nEnergy between us, it was heaven sent\nThen it went straight from A+ to the negatives\nOutta control, that was after I got off of the road\nYou hadn't seen me in like, 45 days\nI could tell it in your face\nYes, something was up\nMy arms opened wide\nOpen, waiting for you to jump\nBut you just walked up slow\nNah, wait, this ain't the girl I know\nC'mon, where she at?\nGive her back\nJust makin' my jokes, didn't even crack a smile, damn\nThat's all it took for me to know there was another man\nIt's all downhill\n[Chorus: Jack Gilinsky]\nNo more late nights (Late nights), us just talking (Talkin' 'bout baby)\nUsed to FaceTime, now you just calling (Fallin')\nIt's no one's fault but some things just fall apart (Oh), yeah\nI smoke two cigarettes and I don't even smoke, no\nNow the suns coming up and I'm halfway sober\nAnd I know it won't but I'm still here hoping\nThat it gets better now, whoa14Embed"
+  },
+  {
+   "annotation_count": 11,
+   "api_path": "/songs/3998414",
+   "artist_names": "Jack & Jack",
+   "full_title": "No One Compares to You by\u00a0Jack\u00a0& Jack",
+   "header_image_thumbnail_url": "https://images.genius.com/e81c4a90ae7c9aab6add42fbc3c049ac.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e81c4a90ae7c9aab6add42fbc3c049ac.1000x1000x1.jpg",
+   "id": 3998414,
+   "language": "en",
+   "lyrics_owner_id": 2351323,
+   "lyrics_state": "complete",
+   "path": "/Jack-and-jack-no-one-compares-to-you-lyrics",
+   "pyongs_count": 9,
+   "relationships_index_url": "https://genius.com/Jack-and-jack-no-one-compares-to-you-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 10,
+    "day": 5
+   },
+   "release_date_for_display": "October 5, 2018",
+   "release_date_with_abbreviated_month_for_display": "Oct. 5, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e81c4a90ae7c9aab6add42fbc3c049ac.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e81c4a90ae7c9aab6add42fbc3c049ac.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 10,
+    "hot": false,
+    "pageviews": 101977
+   },
+   "title": "No One Compares to You",
+   "title_with_featured": "No One Compares to You",
+   "url": "https://genius.com/Jack-and-jack-no-one-compares-to-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/216527",
+    "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+    "id": 216527,
+    "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jack & Jack",
+    "url": "https://genius.com/artists/Jack-and-jack",
+    "iq": 543
+   },
+   "apple_music_id": "1440794867",
+   "apple_music_player_url": "https://genius.com/songs/3998414/apple_music_player",
+   "description": {
+    "plain": "\u201cNo One Compares to You\u201d is Jack & Jack\u2019s first release after achieving global acclaim featuring on Jonas Blue\u2019s summer smash hit \u201cRise\u201d. This track marks their third demo after \u201cRise\u201d and their 2017\u2019s \u201cBeg\u201d. Writer Jake Torrey approached them with the idea for this song and the trio went on to write the track \u201cBarcelona\u201d for their upcoming album.\n\nThey explained that \u201cRise\u201d was the first time a lot of people outside of their fanbase had heard their music, and they wanted to \u201cease them into the world of Jack & Jack\u201d by continuing the \u201ctropical vibe\u201d. \u201cNo One Compares to You\u201d was originally all-acoustic, so they provided DJ Khaled\u2019s sensation \u201cI\u2019m The One\u201d as a reference for it\u2019s reproduction. They felt its upbeat, feel-good nature would allow them to reach their goal of another radio hit.\n\nThe song details a subject who loves a girl but is unable to get her.  They try to replace her, but fail because they can\u2019t find anyone good enough."
+   },
+   "embed_content": "<div id='rg_embed_link_3998414' class='rg_embed_link' data-song-id='3998414'>Read <a href='https://genius.com/Jack-and-jack-no-one-compares-to-you-lyrics'>\u201cNo One Compares to You\u201d by Jack\u00a0& Jack</a> on Genius</div> <script crossorigin src='//genius.com/songs/3998414/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-10-05",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/468090",
+    "cover_art_url": "https://images.genius.com/f6d8f5f0771b92e610be66f43382e5f0.800x800x1.jpg",
+    "full_title": "A Good Friend Is Nice by Jack & Jack",
+    "id": 468090,
+    "name": "A Good Friend Is Nice",
+    "release_date_for_display": "January 25, 2019",
+    "url": "https://genius.com/albums/Jack-and-jack/A-good-friend-is-nice",
+    "artist": {
+     "api_path": "/artists/216527",
+     "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+     "id": 216527,
+     "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jack & Jack",
+     "url": "https://genius.com/artists/Jack-and-jack",
+     "iq": 543
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/467161",
+       "header_image_url": "https://images.genius.com/fa1fd6d759cf3fec4074a81b41a8bae5.1000x563x1.jpg",
+       "id": 467161,
+       "image_url": "https://images.genius.com/1a6d7aa569fb4dc827aadd85a58d2c93.618x618x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Maury",
+       "url": "https://genius.com/artists/Andrew-maury"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1020961",
+       "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+       "id": 1020961,
+       "image_url": "https://images.genius.com/f493dd5aa8d761956dc5274d43f2f258.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jake Torrey",
+       "url": "https://genius.com/artists/Jake-torrey"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1020961",
+       "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+       "id": 1020961,
+       "image_url": "https://images.genius.com/f493dd5aa8d761956dc5274d43f2f258.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jake Torrey",
+       "url": "https://genius.com/artists/Jake-torrey"
+      },
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1084341",
+       "header_image_url": "https://images.genius.com/10255e1fd21258054a3594d17882cb03.663x663x1.jpg",
+       "id": 1084341,
+       "image_url": "https://images.genius.com/10255e1fd21258054a3594d17882cb03.663x663x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sam Klempner",
+       "url": "https://genius.com/artists/Sam-klempner"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/34892",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 34892,
+       "image_url": "https://images.genius.com/a23810a5edc53428db4e256dedb11254.1000x665x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TMS",
+       "url": "https://genius.com/artists/Tms"
+      }
+     ]
+    },
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      },
+      {
+       "api_path": "/artists/398492",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398492,
+       "image_url": "https://images.genius.com/5eb7a4fe3ef04e44cfef19c20946da18.361x361x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Kelleher",
+       "url": "https://genius.com/artists/Pete-kelleher"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      },
+      {
+       "api_path": "/artists/398492",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398492,
+       "image_url": "https://images.genius.com/5eb7a4fe3ef04e44cfef19c20946da18.361x361x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Kelleher",
+       "url": "https://genius.com/artists/Pete-kelleher"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      },
+      {
+       "api_path": "/artists/398490",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398490,
+       "image_url": "https://images.genius.com/707a8413f983cf6df8d072fa40f166f4.729x729x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Barnes",
+       "url": "https://genius.com/artists/Tom-barnes",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      },
+      {
+       "api_path": "/artists/398490",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398490,
+       "image_url": "https://images.genius.com/707a8413f983cf6df8d072fa40f166f4.729x729x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Barnes",
+       "url": "https://genius.com/artists/Tom-barnes",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/398491",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398491,
+       "image_url": "https://images.genius.com/5d0db89af910865a926dc7ca6096f545.334x334x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ben Kohn",
+       "url": "https://genius.com/artists/Ben-kohn"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/1015850",
+       "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+       "id": 1015850,
+       "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jussifer",
+       "url": "https://genius.com/artists/Jussifer"
+      },
+      {
+       "api_path": "/artists/398491",
+       "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+       "id": 398491,
+       "image_url": "https://images.genius.com/5d0db89af910865a926dc7ca6096f545.334x334x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ben Kohn",
+       "url": "https://genius.com/artists/Ben-kohn"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7105993,
+    "annotator_login": "dxmbwdw",
+    "api_path": "/referents/15510195",
+    "classification": "accepted",
+    "fragment": "No One Compares to You",
+    "id": 15510195,
+    "is_description": true,
+    "path": "/15510195/Jack-and-jack-no-one-compares-to-you/No-one-compares-to-you",
+    "range": {
+     "content": "No One Compares to You"
+    },
+    "song_id": 3998414,
+    "url": "https://genius.com/15510195/Jack-and-jack-no-one-compares-to-you/No-one-compares-to-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3998414",
+     "client_timestamps": {
+      "updated_by_human_at": 1635216330,
+      "lyrics_updated_at": 1547182616
+     },
+     "context": "Jack & Jack",
+     "id": 3998414,
+     "image_url": "https://images.genius.com/e81c4a90ae7c9aab6add42fbc3c049ac.1000x1000x1.jpg",
+     "link_title": "No One Compares to You by\u00a0Jack\u00a0& Jack",
+     "title": "No One Compares to You",
+     "type": "Song",
+     "url": "https://genius.com/Jack-and-jack-no-one-compares-to-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15510195",
+      "body": {
+       "plain": "\u201cNo One Compares to You\u201d is Jack & Jack\u2019s first release after achieving global acclaim featuring on Jonas Blue\u2019s summer smash hit \u201cRise\u201d. This track marks their third demo after \u201cRise\u201d and their 2017\u2019s \u201cBeg\u201d. Writer Jake Torrey approached them with the idea for this song and the trio went on to write the track \u201cBarcelona\u201d for their upcoming album.\n\nThey explained that \u201cRise\u201d was the first time a lot of people outside of their fanbase had heard their music, and they wanted to \u201cease them into the world of Jack & Jack\u201d by continuing the \u201ctropical vibe\u201d. \u201cNo One Compares to You\u201d was originally all-acoustic, so they provided DJ Khaled\u2019s sensation \u201cI\u2019m The One\u201d as a reference for it\u2019s reproduction. They felt its upbeat, feel-good nature would allow them to reach their goal of another radio hit.\n\nThe song details a subject who loves a girl but is unable to get her.  They try to replace her, but fail because they can\u2019t find anyone good enough."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 15510195,
+      "pinned": false,
+      "share_url": "https://genius.com/15510195",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/15510195/Jack-and-jack-no-one-compares-to-you/No-one-compares-to-you",
+      "verified": false,
+      "votes_total": 23,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.890909090909091,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4668155",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7ce04d6ab3de9ea30aaa86ff6dd3146b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dytp6oi5xv",
+         "human_readable_role_for_display": "Editor",
+         "id": 4668155,
+         "iq": 56726,
+         "login": "rihanti",
+         "name": "rihanti",
+         "role_for_display": "editor",
+         "url": "https://genius.com/rihanti",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.10909090909090909,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7105993",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/c9f0485ab5464f0d7cf7dc93c6afeed9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/c9f0485ab5464f0d7cf7dc93c6afeed9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/c9f0485ab5464f0d7cf7dc93c6afeed9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/c9f0485ab5464f0d7cf7dc93c6afeed9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uuhd4r7t5x",
+         "human_readable_role_for_display": null,
+         "id": 7105993,
+         "iq": 136,
+         "login": "dxmbwdw",
+         "name": "dxmbwdw",
+         "role_for_display": null,
+         "url": "https://genius.com/dxmbwdw",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/2976672",
+    "avatar": {
+     "tiny": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/kg9nfdupoq",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l1pegbzlvms",
+    "human_readable_role_for_display": "Staff",
+    "id": 2976672,
+    "iq": 341546,
+    "login": "Gary",
+    "name": "Gary",
+    "role_for_display": "staff",
+    "url": "https://genius.com/Gary",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:2jZIfoe48eUeOEnP9Ho4h2",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2jZIfoe48eUeOEnP9Ho4h2"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=eUJA5I5lG6E"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1015850",
+     "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+     "id": 1015850,
+     "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jussifer",
+     "url": "https://genius.com/artists/Jussifer"
+    },
+    {
+     "api_path": "/artists/34892",
+     "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+     "id": 34892,
+     "image_url": "https://images.genius.com/a23810a5edc53428db4e256dedb11254.1000x665x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TMS",
+     "url": "https://genius.com/artists/Tms"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/7676127",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7676127,
+     "iq": 543,
+     "login": "jackandjackofficial",
+     "name": "Jack & Jack",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/jackandjackofficial",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "lyrics",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/216527",
+      "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+      "id": 216527,
+      "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Jack & Jack",
+      "url": "https://genius.com/artists/Jack-and-jack",
+      "iq": 543
+     },
+     "user": {
+      "api_path": "/users/7676127",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/7a92d8de3f1d27a883f9a419d88a9ed3",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/7a92d8de3f1d27a883f9a419d88a9ed3",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/7a92d8de3f1d27a883f9a419d88a9ed3",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/7a92d8de3f1d27a883f9a419d88a9ed3",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 7676127,
+      "iq": 543,
+      "login": "jackandjackofficial",
+      "name": "Jack & Jack",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/jackandjackofficial",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [
+    {
+     "api_path": "/users/7676127",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/7a92d8de3f1d27a883f9a419d88a9ed3",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 7676127,
+     "iq": 543,
+     "login": "jackandjackofficial",
+     "name": "Jack & Jack",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/jackandjackofficial",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1015850",
+     "header_image_url": "https://images.genius.com/afcfe0e6136a46b0d409e564c857eca1.1000x667x1.jpg",
+     "id": 1015850,
+     "image_url": "https://images.genius.com/173f6d494dd9a2bc15eaadeddb3d0c50.667x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jussifer",
+     "url": "https://genius.com/artists/Jussifer"
+    },
+    {
+     "api_path": "/artists/398490",
+     "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+     "id": 398490,
+     "image_url": "https://images.genius.com/707a8413f983cf6df8d072fa40f166f4.729x729x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tom Barnes",
+     "url": "https://genius.com/artists/Tom-barnes",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/398492",
+     "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+     "id": 398492,
+     "image_url": "https://images.genius.com/5eb7a4fe3ef04e44cfef19c20946da18.361x361x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pete Kelleher",
+     "url": "https://genius.com/artists/Pete-kelleher"
+    },
+    {
+     "api_path": "/artists/1019487",
+     "header_image_url": "https://images.genius.com/a6a559ae4edf0250c00eafb8fffe1474.512x512x1.jpg",
+     "id": 1019487,
+     "image_url": "https://images.genius.com/a6a559ae4edf0250c00eafb8fffe1474.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Matosic",
+     "url": "https://genius.com/artists/Michael-matosic"
+    },
+    {
+     "api_path": "/artists/1020961",
+     "header_image_url": "https://images.genius.com/d90653ce4da1b6fb006ff40f01eeec1f.1000x226x1.png",
+     "id": 1020961,
+     "image_url": "https://images.genius.com/f493dd5aa8d761956dc5274d43f2f258.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Torrey",
+     "url": "https://genius.com/artists/Jake-torrey"
+    },
+    {
+     "api_path": "/artists/398491",
+     "header_image_url": "https://images.genius.com/6817722220fb2ef92badfb7c0e267038.1000x174x1.png",
+     "id": 398491,
+     "image_url": "https://images.genius.com/5d0db89af910865a926dc7ca6096f545.334x334x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ben Kohn",
+     "url": "https://genius.com/artists/Ben-kohn"
+    }
+   ],
+   "artist": "Jack & Jack",
+   "lyrics": "24 ContributorsNo One Compares to You Lyrics[Verse 1: Jack G]\nThoughts of you and me keep passing by\nLike ships in the night, we never collide (Never collide)\nNeed you here but after all this time\nYou can't be replaced even if I try\n\n[Pre-Chorus: Jack J]\nI'm looking at her face but I'm seeing you\nShe's sleeping on your side, what can I do?\nWe should be heart to heart, my mind is on you\nI try, I really do\n\n[Chorus: Jack G]\nEvery time I think I've found somebody\nI just wish that somebody was you\nThere's no way that someone else could make me ever\nFeel the same way that you do\nNo one compares to you\n\n[Post-Chorus: Jack G]\n(No one compares to you)\n(No one compares to you)\n\n[Verse 2: Jack G]\nMake it hard for me to love again\nOh, where do I start and when do you end?\nEven if I tell myself I can\nI know that I'll break (I'll break) before I can bend, yeah\nYou might also like[Pre-Chorus: Jack J & Jack G]\nI'm looking at her face but I'm seeing you (But I'm seeing you)\nShe's sleeping on your side (Yeah), what can I do? (What can I do?)\nWe should be heart to heart, my mind is on you\nI (Oh, I), try, I really (Try) do\n\n[Chorus: Jack G]\nEvery time I think I've found somebody\nI just wish that somebody was you\nThere's no way that someone else could make me ever\nFeel the same way that you do\nNo one compares to you\n\n[Post-Chorus: Jack G]\nNo\nNobody compares to you\n(No one compares to you) No\n(No one compares to you)\n\n[Bridge: Jack G]\nEvery time I think I've found somebody\nI just wish that somebody was you\nOoh, there's no way that someone else could make me ever\nFeel the same way that you do\nNo, no one compares to you\n[Chorus: Jack G]\nNobody, nobody, no\nNobody, no, no one compares to you\nNobody, nobody, no\nNobody, no, no one compares to you9Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/3092705",
+   "artist_names": "Jack & Jack",
+   "full_title": "Hurt People by\u00a0Jack\u00a0& Jack",
+   "header_image_thumbnail_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+   "id": 3092705,
+   "language": "en",
+   "lyrics_owner_id": 3344750,
+   "lyrics_state": "complete",
+   "path": "/Jack-and-jack-hurt-people-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Jack-and-jack-hurt-people-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 5,
+    "day": 26
+   },
+   "release_date_for_display": "May 26, 2017",
+   "release_date_with_abbreviated_month_for_display": "May. 26, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 20,
+    "iq_earners": 20,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 85655
+   },
+   "title": "Hurt People",
+   "title_with_featured": "Hurt People",
+   "url": "https://genius.com/Jack-and-jack-hurt-people-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/216527",
+    "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+    "id": 216527,
+    "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jack & Jack",
+    "url": "https://genius.com/artists/Jack-and-jack",
+    "iq": 543
+   },
+   "apple_music_id": "1241374851",
+   "apple_music_player_url": "https://genius.com/songs/3092705/apple_music_player",
+   "description": {
+    "plain": "The relationship between the two  lovers is fading. The girl who was hurt by the man she was in love with before, is now hurting her new boyfriend. She reproducing what she experienced before : it\u2019s a vicious circle. The lover is also going to hurt someone after being hurt by the girl, etc.\nThe boy was previously becoming crazy because he was deeply in love with the girl but now he is crazy as she can\u2019t make up her mind and make him suffer."
+   },
+   "embed_content": "<div id='rg_embed_link_3092705' class='rg_embed_link' data-song-id='3092705'>Read <a href='https://genius.com/Jack-and-jack-hurt-people-lyrics'>\u201cHurt People\u201d by Jack\u00a0& Jack</a> on Genius</div> <script crossorigin src='//genius.com/songs/3092705/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-05-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/345520",
+    "cover_art_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+    "full_title": "GONE - EP by Jack & Jack",
+    "id": 345520,
+    "name": "GONE - EP",
+    "release_date_for_display": "May 26, 2017",
+    "url": "https://genius.com/albums/Jack-and-jack/Gone-ep",
+    "artist": {
+     "api_path": "/artists/216527",
+     "header_image_url": "https://images.genius.com/df1462758f5bbdab7e09e3f011f2174c.492x602x1.png",
+     "id": 216527,
+     "image_url": "https://images.genius.com/9da17305f5b720cbac31828259bde421.492x492x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jack & Jack",
+     "url": "https://genius.com/artists/Jack-and-jack",
+     "iq": 543
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/577147",
+       "header_image_url": "https://images.genius.com/1d6fab23ee5a7d54ecca9acbd956e8da.1000x1000x1.jpg",
+       "id": 577147,
+       "image_url": "https://images.genius.com/475b00923aea53ffa73cfebe24888b17.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jack Gilinsky",
+       "url": "https://genius.com/artists/Jack-gilinsky"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Rapper",
+     "artists": [
+      {
+       "api_path": "/artists/492318",
+       "header_image_url": "https://images.genius.com/b016563375bea07973b6236b69f09aa6.1000x333x1.jpg",
+       "id": 492318,
+       "image_url": "https://images.genius.com/f1803a3db56889264d14224fa142c45f.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "JVCKJ",
+       "url": "https://genius.com/artists/Jvckj"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1117802",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1117802,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Charles \u201cChuck\u201d Dickson",
+       "url": "https://genius.com/artists/Charles-chuck-dickson"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/672783",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 672783,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jose Cardoza",
+       "url": "https://genius.com/artists/Jose-cardoza"
+      }
+     ]
+    },
+    {
+     "label": "Programmed By",
+     "artists": [
+      {
+       "api_path": "/artists/46085",
+       "header_image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+       "id": 46085,
+       "image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Harmony Samuels",
+       "url": "https://genius.com/artists/Harmony-samuels"
+      },
+      {
+       "api_path": "/artists/686994",
+       "header_image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+       "id": 686994,
+       "image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "JV (USA)",
+       "url": "https://genius.com/artists/Jv-usa"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/606741",
+       "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+       "id": 606741,
+       "image_url": "https://images.genius.com/414ab429ee8ea4c63bdf965e889c5499.331x331x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Gudwin",
+       "url": "https://genius.com/artists/Josh-gudwin"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3344750,
+    "annotator_login": "AnanasMure",
+    "api_path": "/referents/11867371",
+    "classification": "unreviewed",
+    "fragment": "Hurt People",
+    "id": 11867371,
+    "is_description": true,
+    "path": "/11867371/Jack-and-jack-hurt-people/Hurt-people",
+    "range": {
+     "content": "Hurt People"
+    },
+    "song_id": 3092705,
+    "url": "https://genius.com/11867371/Jack-and-jack-hurt-people/Hurt-people",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3092705",
+     "client_timestamps": {
+      "updated_by_human_at": 1555935291,
+      "lyrics_updated_at": 1555467694
+     },
+     "context": "Jack & Jack",
+     "id": 3092705,
+     "image_url": "https://images.genius.com/979c8cd23d9ec3c3270568914bf31bc6.804x804x1.jpg",
+     "link_title": "Hurt People by\u00a0Jack\u00a0& Jack",
+     "title": "Hurt People",
+     "type": "Song",
+     "url": "https://genius.com/Jack-and-jack-hurt-people-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11867371",
+      "body": {
+       "plain": "The relationship between the two  lovers is fading. The girl who was hurt by the man she was in love with before, is now hurting her new boyfriend. She reproducing what she experienced before : it\u2019s a vicious circle. The lover is also going to hurt someone after being hurt by the girl, etc.\nThe boy was previously becoming crazy because he was deeply in love with the girl but now he is crazy as she can\u2019t make up her mind and make him suffer."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 11867371,
+      "pinned": false,
+      "share_url": "https://genius.com/11867371",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/11867371/Jack-and-jack-hurt-people/Hurt-people",
+      "verified": false,
+      "votes_total": 20,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3344750",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/eca2e4d4595574e7efd824481c9e89b8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/eca2e4d4595574e7efd824481c9e89b8",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3344750,
+         "iq": 16204,
+         "login": "AnanasMure",
+         "name": "AnanasMure",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AnanasMure",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=w4R75TA48Rc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/46085",
+     "header_image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+     "id": 46085,
+     "image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Harmony Samuels",
+     "url": "https://genius.com/artists/Harmony-samuels"
+    },
+    {
+     "api_path": "/artists/686994",
+     "header_image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+     "id": 686994,
+     "image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JV (USA)",
+     "url": "https://genius.com/artists/Jv-usa"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/577147",
+     "header_image_url": "https://images.genius.com/1d6fab23ee5a7d54ecca9acbd956e8da.1000x1000x1.jpg",
+     "id": 577147,
+     "image_url": "https://images.genius.com/475b00923aea53ffa73cfebe24888b17.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jack Gilinsky",
+     "url": "https://genius.com/artists/Jack-gilinsky"
+    },
+    {
+     "api_path": "/artists/492318",
+     "header_image_url": "https://images.genius.com/b016563375bea07973b6236b69f09aa6.1000x333x1.jpg",
+     "id": 492318,
+     "image_url": "https://images.genius.com/f1803a3db56889264d14224fa142c45f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JVCKJ",
+     "url": "https://genius.com/artists/Jvckj"
+    },
+    {
+     "api_path": "/artists/1046692",
+     "header_image_url": "https://images.genius.com/7209f7acec7836c11ee3a4f96a7daafc.300x300x1.jpg",
+     "id": 1046692,
+     "image_url": "https://images.genius.com/7209f7acec7836c11ee3a4f96a7daafc.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kameron Glasper",
+     "url": "https://genius.com/artists/Kameron-glasper"
+    },
+    {
+     "api_path": "/artists/557240",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 557240,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marlin \u201cHookman\u201d Bonds",
+     "url": "https://genius.com/artists/Marlin-hookman-bonds"
+    },
+    {
+     "api_path": "/artists/46085",
+     "header_image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+     "id": 46085,
+     "image_url": "https://images.genius.com/207737391791004babc69dbba2319f17.667x602x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Harmony Samuels",
+     "url": "https://genius.com/artists/Harmony-samuels"
+    },
+    {
+     "api_path": "/artists/686994",
+     "header_image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+     "id": 686994,
+     "image_url": "https://images.genius.com/6954996a73274a4c94379bc6fecc60f2.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JV (USA)",
+     "url": "https://genius.com/artists/Jv-usa"
+    }
+   ],
+   "artist": "Jack & Jack",
+   "lyrics": "20 ContributorsHurt People Lyrics[Verse 1: Jack Gilinsky]\nI'm a better man 'cause of you\nThought we had a chance\nThat's true\nBut you have weapons\nDidn't know you have weapons\nNow I'm insecure and stressed out\nWhen someone gets close, I shut down\nAlways we second-guessin'\nGot so many questions\n\n[Pre-Chorus: Jack Gilinsky]\nYou did it to me, 'cause he did it to you\nAnd now I'm gonna turn around\nAnd do it to my new girl\nI do it to her, she do it to him\nThis cycle won't ever end 'cause\n\n[Chorus: Jack Gilinsky]\nHurt people hurt people\nHurt people, so lethal\nAround and around we go\nGuess we're used to the pain\nEverybody heart breaking\nHungover, love wasted\nIt's too much we can't take it\nYeah, we all feel the pain\nHurt people hurt people\nHurt people hurt people\nYou might also like[Verse 2: Jack Johnson & Jack Gilinsky]\nOkay, I'm sick of the games\nI'm sick and I feel like I'm wastin' my time\nI don't see how you're so good at doin' your make up\nBut can't seem to make up your mind\nYou drive me crazy disobeyin' the signs\nI know that you took an emotional bullet\nBut now you're the one with the gun and it's loaded\nAnd pointed right at me, you hurt people\nAnd you don't even know it\nGirl you turn me into a poet\nEvery time you get me in my emotions\nBaby the love that we had was explosive\nWe had to blow it\nIt's just how it goes when you're young\nAnd you're easily broken\nMan, it's pretty easy to notice\nHurt people hurt people\n\n[Chorus: Jack Gilinsky]\nHurt people hurt people\nHurt people, so lethal\nAround and around we go\nGuess we're used to the pain\nEverybody heart breaking\nHungover, love wasted\nIt's too much we can't take it\nYeah, we all feel the pain\nHurt people hurt people\n[Bridge: Jack Gilinsky & Jack Johnson]\nI don't wanna hurt you\nBaby, I deserve you\nI been waitin' for a long, long, long, long time\nIf we could learn to stab each other in the back a little bit less\nThen we could last a long, long\nLong, long, long time\nIf we could learn to stab each other in the back a little bit less\nThen we could last a long, long, long, long time\nLong, long, long time\n\n[Chorus: Jack Gilinsky]\nHurt people hurt people\nHurt people, so lethal\nAround and around we go\nGuess we're used to the pain\nEverybody heart breaking\nHungover, love wasted\nIt's too much we can't take it\nYeah, we all feel the pain\nHurt people hurt people12Embed"
+  }
+ ]
+}

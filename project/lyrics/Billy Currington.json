@@ -1,0 +1,1485 @@
+{
+ "alternate_names": [
+  "William Currington",
+  "William Matthew Currington"
+ ],
+ "api_path": "/artists/187635",
+ "description": {
+  "plain": "William Matthew \u201cBilly\u201d Currington is an American country music singer and songwriter, signed to Mercury Nashville Records in 2003"
+ },
+ "facebook_name": "BillyCurrington",
+ "followers_count": 23,
+ "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+ "id": 187635,
+ "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+ "instagram_name": "bccoconutman",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Billy Currington",
+ "translation_artist": false,
+ "twitter_name": "billycurrington",
+ "url": "https://genius.com/artists/Billy-currington",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2076200,
+  "annotator_login": "zoheralhariri",
+  "api_path": "/referents/7022423",
+  "classification": "accepted",
+  "fragment": "Billy Currington",
+  "id": 7022423,
+  "is_description": true,
+  "path": "/7022423/Billy-currington/Billy-currington",
+  "range": {
+   "content": "Billy Currington"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7022423/Billy-currington/Billy-currington",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/187635",
+   "context": null,
+   "id": 187635,
+   "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+   "link_title": "Billy Currington",
+   "title": "Billy Currington",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Billy-currington"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7022423",
+    "body": {
+     "plain": "William Matthew \u201cBilly\u201d Currington is an American country music singer and songwriter, signed to Mercury Nashville Records in 2003"
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7022423,
+    "pinned": false,
+    "share_url": "https://genius.com/7022423",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7022423/Billy-currington/Billy-currington",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2076200",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f1673a9d349313d42b4f832a323ffafa",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f1673a9d349313d42b4f832a323ffafa",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f1673a9d349313d42b4f832a323ffafa",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f1673a9d349313d42b4f832a323ffafa",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f1673a9d349313d42b4f832a323ffafa",
+       "human_readable_role_for_display": null,
+       "id": 2076200,
+       "iq": 259,
+       "login": "zoheralhariri",
+       "name": "zoheralhariri",
+       "role_for_display": null,
+       "url": "https://genius.com/zoheralhariri",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/446312",
+   "artist_names": "Billy Currington",
+   "full_title": "Must Be Doin' Somethin' Right by\u00a0Billy\u00a0Currington",
+   "header_image_thumbnail_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+   "id": 446312,
+   "language": "en",
+   "lyrics_owner_id": 4733728,
+   "lyrics_state": "complete",
+   "path": "/Billy-currington-must-be-doin-somethin-right-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Billy-currington-must-be-doin-somethin-right-sample",
+   "release_date_components": {
+    "year": 2005,
+    "month": 10,
+    "day": 18
+   },
+   "release_date_for_display": "October 18, 2005",
+   "release_date_with_abbreviated_month_for_display": "Oct. 18, 2005",
+   "song_art_image_thumbnail_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 50837
+   },
+   "title": "Must Be Doin\u2019 Somethin\u2019 Right",
+   "title_with_featured": "Must Be Doin' Somethin' Right",
+   "url": "https://genius.com/Billy-currington-must-be-doin-somethin-right-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/187635",
+    "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+    "id": 187635,
+    "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Billy Currington",
+    "url": "https://genius.com/artists/Billy-currington"
+   },
+   "apple_music_id": "81777495",
+   "apple_music_player_url": "https://genius.com/songs/446312/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_446312' class='rg_embed_link' data-song-id='446312'>Read <a href='https://genius.com/Billy-currington-must-be-doin-somethin-right-lyrics'>\u201cMust Be Doin' Somethin' Right\u201d by Billy\u00a0Currington</a> on Genius</div> <script crossorigin src='//genius.com/songs/446312/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2005-10-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/105032",
+    "cover_art_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+    "full_title": "Doin' Somethin' Right by Billy Currington",
+    "id": 105032,
+    "name": "Doin\u2019 Somethin\u2019 Right",
+    "release_date_for_display": "June 11, 2005",
+    "url": "https://genius.com/albums/Billy-currington/Doin-somethin-right",
+    "artist": {
+     "api_path": "/artists/187635",
+     "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+     "id": 187635,
+     "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Currington",
+     "url": "https://genius.com/artists/Billy-currington"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 902040,
+    "annotator_login": "DaniloLalic",
+    "api_path": "/referents/3727573",
+    "classification": "needs_exegesis",
+    "fragment": "Must Be Doin\u2019 Somethin\u2019 Right",
+    "id": 3727573,
+    "is_description": true,
+    "path": "/3727573/Billy-currington-must-be-doin-somethin-right/Must-be-doin-somethin-right",
+    "range": {
+     "content": "Must Be Doin' Somethin' Right"
+    },
+    "song_id": 446312,
+    "url": "https://genius.com/3727573/Billy-currington-must-be-doin-somethin-right/Must-be-doin-somethin-right",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/446312",
+     "client_timestamps": {
+      "updated_by_human_at": 1658198149,
+      "lyrics_updated_at": 1533747624
+     },
+     "context": "Billy Currington",
+     "id": 446312,
+     "image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+     "link_title": "Must Be Doin\u2019 Somethin\u2019 Right by\u00a0Billy\u00a0Currington",
+     "title": "Must Be Doin' Somethin' Right",
+     "type": "Song",
+     "url": "https://genius.com/Billy-currington-must-be-doin-somethin-right-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3727573",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3727573,
+      "pinned": false,
+      "share_url": "https://genius.com/3727573",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3727573/Billy-currington-must-be-doin-somethin-right/Must-be-doin-somethin-right",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/902040",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/2868afacae92f0db22e73bdb90537a3a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/2868afacae92f0db22e73bdb90537a3a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/2868afacae92f0db22e73bdb90537a3a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/2868afacae92f0db22e73bdb90537a3a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/2868afacae92f0db22e73bdb90537a3a",
+         "human_readable_role_for_display": null,
+         "id": 902040,
+         "iq": 0,
+         "login": "DaniloLalic",
+         "name": "DaniloLalic",
+         "role_for_display": null,
+         "url": "https://genius.com/DaniloLalic",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=FbQfE2Oi6Wo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/461447",
+     "header_image_url": "https://images.genius.com/6e6f9efa25bba58292b49911bf3508f6.240x240x1.png",
+     "id": 461447,
+     "image_url": "https://images.genius.com/6e6f9efa25bba58292b49911bf3508f6.240x240x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carson Chamberlain",
+     "url": "https://genius.com/artists/Carson-chamberlain"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1011710",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1011710,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Jason Matthews",
+     "url": "https://genius.com/artists/Patrick-jason-matthews"
+    },
+    {
+     "api_path": "/artists/451362",
+     "header_image_url": "https://images.genius.com/6a8fbe1623d5631864d7fc5e921ba664.239x239x1.png",
+     "id": 451362,
+     "image_url": "https://images.genius.com/6a8fbe1623d5631864d7fc5e921ba664.239x239x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marty Dodson",
+     "url": "https://genius.com/artists/Marty-dodson"
+    }
+   ],
+   "artist": "Billy Currington",
+   "lyrics": "3 ContributorsMust Be Doin\u2019 Somethin\u2019 Right Lyrics[Verse 1]\nA woman is mystery\nA man just can't understand\nSometimes all it takes to please her\nIs the touch of your hand\nAnd other times you got to take it slow\nAnd hold her all night long\nHeaven knows there's so many ways\nA man can go wrong\n\n[Chorus]\nMust be doing something right\nI just heard you sigh\nYou leaned into my kiss\nAnd closed those deep blue need you eyes\nDon't know what I did\nTo earn a love like this, but baby, I\nMust be doing something right\n\n[Verse 2]\nAnywhere you want to go\nBaby, show me the way\nI'm open to suggestions\nMmm, whatever you say\nTonight's about giving you\nWhat you want, whatever it takes\nGirl, I hope I'm on the right road\nAnd judging by the smile on your face\nYou might also like[Chorus]\nMust be doing something right\nI just heard you sigh\nYou leaned into my kiss\nAnd closed those deep blue need you eyes\nDon't know what I did\nTo earn a love like this, but baby, I\nMust be doing something right\n\n[Bridge]\nAh, Baby\nMmm\n\n[Outro]\nI don't know what I did\nTo earn a love like this, but baby, I\nMust be doin' something right\nMust be doin' something right7Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/446309",
+   "artist_names": "Billy Currington",
+   "full_title": "Good Directions by\u00a0Billy\u00a0Currington",
+   "header_image_thumbnail_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+   "id": 446309,
+   "language": "en",
+   "lyrics_owner_id": 4733728,
+   "lyrics_state": "complete",
+   "path": "/Billy-currington-good-directions-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Billy-currington-good-directions-sample",
+   "release_date_components": {
+    "year": 2005,
+    "month": 10,
+    "day": 18
+   },
+   "release_date_for_display": "October 18, 2005",
+   "release_date_with_abbreviated_month_for_display": "Oct. 18, 2005",
+   "song_art_image_thumbnail_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 46636
+   },
+   "title": "Good Directions",
+   "title_with_featured": "Good Directions",
+   "url": "https://genius.com/Billy-currington-good-directions-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/187635",
+    "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+    "id": 187635,
+    "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Billy Currington",
+    "url": "https://genius.com/artists/Billy-currington"
+   },
+   "apple_music_id": "81777485",
+   "apple_music_player_url": "https://genius.com/songs/446309/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_446309' class='rg_embed_link' data-song-id='446309'>Read <a href='https://genius.com/Billy-currington-good-directions-lyrics'>\u201cGood Directions\u201d by Billy\u00a0Currington</a> on Genius</div> <script crossorigin src='//genius.com/songs/446309/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2005-10-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/105032",
+    "cover_art_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+    "full_title": "Doin' Somethin' Right by Billy Currington",
+    "id": 105032,
+    "name": "Doin\u2019 Somethin\u2019 Right",
+    "release_date_for_display": "June 11, 2005",
+    "url": "https://genius.com/albums/Billy-currington/Doin-somethin-right",
+    "artist": {
+     "api_path": "/artists/187635",
+     "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+     "id": 187635,
+     "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Currington",
+     "url": "https://genius.com/artists/Billy-currington"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18341152",
+    "classification": "needs_exegesis",
+    "fragment": "Good Directions",
+    "id": 18341152,
+    "is_description": true,
+    "path": "/18341152/Billy-currington-good-directions/Good-directions",
+    "range": {
+     "content": "Good Directions"
+    },
+    "song_id": 446309,
+    "url": "https://genius.com/18341152/Billy-currington-good-directions/Good-directions",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/446309",
+     "client_timestamps": {
+      "updated_by_human_at": 1655584256,
+      "lyrics_updated_at": 1655584256
+     },
+     "context": "Billy Currington",
+     "id": 446309,
+     "image_url": "https://images.genius.com/36afab46ab88e772613abbecd25e50c8.500x500x1.jpg",
+     "link_title": "Good Directions by\u00a0Billy\u00a0Currington",
+     "title": "Good Directions",
+     "type": "Song",
+     "url": "https://genius.com/Billy-currington-good-directions-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18341152",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18341152,
+      "pinned": false,
+      "share_url": "https://genius.com/18341152",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18341152/Billy-currington-good-directions/Good-directions",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 630083,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=myr5JxC4b_I"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/187752",
+       "artist_names": "Luke Bryan",
+       "full_title": "Good Directions by\u00a0Luke\u00a0Bryan",
+       "header_image_thumbnail_url": "https://images.genius.com/7db78869b1522afd6c84bd6cd773bd07.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7db78869b1522afd6c84bd6cd773bd07.1000x1000x1.jpg",
+       "id": 187752,
+       "language": "en",
+       "lyrics_owner_id": 250962,
+       "lyrics_state": "complete",
+       "path": "/Luke-bryan-good-directions-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Luke-bryan-good-directions-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2007",
+       "release_date_with_abbreviated_month_for_display": "2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7db78869b1522afd6c84bd6cd773bd07.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7db78869b1522afd6c84bd6cd773bd07.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 16760
+       },
+       "title": "Good Directions",
+       "title_with_featured": "Good Directions",
+       "url": "https://genius.com/Luke-bryan-good-directions-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/22764",
+        "header_image_url": "https://images.genius.com/38ad1f4d795dcbd52f7a678e9498c78e.1000x333x1.png",
+        "id": 22764,
+        "image_url": "https://images.genius.com/be99e3c37ac632f17b4348d2334a5b5a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Luke Bryan",
+        "url": "https://genius.com/artists/Luke-bryan"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/661559",
+     "header_image_url": "https://images.genius.com/469f9005fba9fced010e1448b2c74d43.299x168x1.jpg",
+     "id": 661559,
+     "image_url": "https://images.genius.com/0fd034862c9d4419e4b93794c98c6f7f.225x225x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rachel Thibodeau",
+     "url": "https://genius.com/artists/Rachel-thibodeau"
+    },
+    {
+     "api_path": "/artists/22764",
+     "header_image_url": "https://images.genius.com/38ad1f4d795dcbd52f7a678e9498c78e.1000x333x1.png",
+     "id": 22764,
+     "image_url": "https://images.genius.com/be99e3c37ac632f17b4348d2334a5b5a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Luke Bryan",
+     "url": "https://genius.com/artists/Luke-bryan"
+    }
+   ],
+   "artist": "Billy Currington",
+   "lyrics": "8 ContributorsGood Directions Lyrics[Verse 1]\nI was sitting there, selling turnips on a flatbed truck\nCrunching on a pork rind when she pulled up\nShe had to be thinking, \"This is where rednecks come from\"\nShe had Hollywood written on her license plate\nShe was lost and looking for the Interstate\nNeeding directions, and I was the man for the job\n\n[Chorus]\nI told her, \"Way up yonder past the caution light\nThere's a little country store with an old Coke sign\nYou got to stop in and ask Miss Bell for some of her sweet tea\nThen a left will take you to the interstate\nBut a right will bring you right back here to me\"\n\n[Verse 2]\nI was sitting there, thinking about her pretty face\nKicking myself for not catching her name\nI threw my hat, and thought, \"You fool, it could have been love\"\nI knew my old Ford couldn't run her down\nShe probably didn't like me anyhow\nSo I watched her disappear into a cloud of dust\n\n[Chorus]\nI told her, \"Way up yonder past the caution light\nThere's a little country store with an old Coke sign\nYou got to stop in and ask Miss Bell for some of her sweet tea\nThen a left will take you to the interstate\nBut a right will bring you right back here to me\"\nYou might also like\n[Bridge]\nIs this Georgia heat playing tricks on me?\nOr am I really seeing what I think I see?\nThe woman of my dreams coming back to me\n\n[Instrumental Break]\n\n[Chorus]\nShe went way up yonder past the caution light\nDon't know why, but something felt right\nWhen she stopped in and asked Miss Bell\nFor some of her sweet tea\nMama gave her a big old glass\nAnd sent her right back here to me\n\n[Outro]\nThank God for good directions, and turnip greens6Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/446381",
+   "artist_names": "Billy Currington",
+   "full_title": "Pretty Good At Drinkin' Beer by\u00a0Billy\u00a0Currington",
+   "header_image_thumbnail_url": "https://images.genius.com/933094c53dc961878f78087c138806d9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/933094c53dc961878f78087c138806d9.1000x1000x1.jpg",
+   "id": 446381,
+   "language": "en",
+   "lyrics_owner_id": 354383,
+   "lyrics_state": "complete",
+   "path": "/Billy-currington-pretty-good-at-drinkin-beer-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Billy-currington-pretty-good-at-drinkin-beer-sample",
+   "release_date_components": {
+    "year": 2010,
+    "month": 9,
+    "day": 21
+   },
+   "release_date_for_display": "September 21, 2010",
+   "release_date_with_abbreviated_month_for_display": "Sep. 21, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ecb6cdd4e2b547284efa6eb621bf209.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ecb6cdd4e2b547284efa6eb621bf209.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 8,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 22183
+   },
+   "title": "Pretty Good At Drinkin\u2019 Beer",
+   "title_with_featured": "Pretty Good At Drinkin' Beer",
+   "url": "https://genius.com/Billy-currington-pretty-good-at-drinkin-beer-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/187635",
+    "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+    "id": 187635,
+    "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Billy Currington",
+    "url": "https://genius.com/artists/Billy-currington"
+   },
+   "apple_music_id": "388783818",
+   "apple_music_player_url": "https://genius.com/songs/446381/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_446381' class='rg_embed_link' data-song-id='446381'>Read <a href='https://genius.com/Billy-currington-pretty-good-at-drinkin-beer-lyrics'>\u201cPretty Good At Drinkin' Beer\u201d by Billy\u00a0Currington</a> on Genius</div> <script crossorigin src='//genius.com/songs/446381/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2010-09-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/105037",
+    "cover_art_url": "https://images.genius.com/d4cb1b7e9dc98aea771f6dd8e48bf2b4.1000x1000x1.jpg",
+    "full_title": "Enjoy Yourself by Billy Currington",
+    "id": 105037,
+    "name": "Enjoy Yourself",
+    "release_date_for_display": "September 21, 2010",
+    "url": "https://genius.com/albums/Billy-currington/Enjoy-yourself",
+    "artist": {
+     "api_path": "/artists/187635",
+     "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+     "id": 187635,
+     "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Currington",
+     "url": "https://genius.com/artists/Billy-currington"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1438045",
+       "header_image_url": "https://images.genius.com/d7e7c1decc382908d44bcd9fff44c1da.600x265x1.jpg",
+       "id": 1438045,
+       "image_url": "https://images.genius.com/d7e7c1decc382908d44bcd9fff44c1da.600x265x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mercury Nashville Records",
+       "url": "https://genius.com/artists/Mercury-nashville-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1939756,
+    "annotator_login": "GoodApolloIV",
+    "api_path": "/referents/14325461",
+    "classification": "needs_exegesis",
+    "fragment": "Pretty Good At Drinkin\u2019 Beer",
+    "id": 14325461,
+    "is_description": true,
+    "path": "/14325461/Billy-currington-pretty-good-at-drinkin-beer/Pretty-good-at-drinkin-beer",
+    "range": {
+     "content": "Pretty Good At Drinkin' Beer"
+    },
+    "song_id": 446381,
+    "url": "https://genius.com/14325461/Billy-currington-pretty-good-at-drinkin-beer/Pretty-good-at-drinkin-beer",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/446381",
+     "client_timestamps": {
+      "updated_by_human_at": 1662511145,
+      "lyrics_updated_at": 1595153430
+     },
+     "context": "Billy Currington",
+     "id": 446381,
+     "image_url": "https://images.genius.com/5ecb6cdd4e2b547284efa6eb621bf209.500x500x1.jpg",
+     "link_title": "Pretty Good At Drinkin\u2019 Beer by\u00a0Billy\u00a0Currington",
+     "title": "Pretty Good At Drinkin' Beer",
+     "type": "Song",
+     "url": "https://genius.com/Billy-currington-pretty-good-at-drinkin-beer-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14325461",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14325461,
+      "pinned": false,
+      "share_url": "https://genius.com/14325461",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14325461/Billy-currington-pretty-good-at-drinkin-beer/Pretty-good-at-drinkin-beer",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1939756",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/78bd8996afc779c63505e4d608a758dd.1000x195x128.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1939756,
+         "iq": 142094,
+         "login": "GoodApolloIV",
+         "name": "GoodApolloIV",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/GoodApolloIV",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XtMy5IBmX7E"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/461447",
+     "header_image_url": "https://images.genius.com/6e6f9efa25bba58292b49911bf3508f6.240x240x1.png",
+     "id": 461447,
+     "image_url": "https://images.genius.com/6e6f9efa25bba58292b49911bf3508f6.240x240x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Carson Chamberlain",
+     "url": "https://genius.com/artists/Carson-chamberlain"
+    },
+    {
+     "api_path": "/artists/187635",
+     "header_image_url": "https://images.genius.com/dc702db8d5a9f3873b7504cb594a1345.768x768x1.jpg",
+     "id": 187635,
+     "image_url": "https://images.genius.com/a87b5cc61b94d786b3052dcf54efcd21.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Currington",
+     "url": "https://genius.com/artists/Billy-currington"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/448546",
+       "artist_names": "Das W",
+       "full_title": "Drinkin Beer (Skit) by\u00a0Das\u00a0W",
+       "header_image_thumbnail_url": "https://images.genius.com/71d8ddf5dded1b4d5716ad047fd2a7d3.300x300x1.png",
+       "header_image_url": "https://images.genius.com/71d8ddf5dded1b4d5716ad047fd2a7d3.401x401x1.png",
+       "id": 448546,
+       "language": "en",
+       "lyrics_owner_id": 415839,
+       "lyrics_state": "complete",
+       "path": "/Das-w-drinkin-beer-skit-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Das-w-drinkin-beer-skit-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2012",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/71d8ddf5dded1b4d5716ad047fd2a7d3.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/71d8ddf5dded1b4d5716ad047fd2a7d3.401x401x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drinkin Beer (Skit)",
+       "title_with_featured": "Drinkin Beer (Skit)",
+       "url": "https://genius.com/Das-w-drinkin-beer-skit-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/29404",
+        "header_image_url": "https://images.genius.com/03e91171aafc9429d5ebfbd0c43d7bdc.959x960x1.jpg",
+        "id": 29404,
+        "image_url": "https://images.genius.com/03e91171aafc9429d5ebfbd0c43d7bdc.959x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Das W",
+        "url": "https://genius.com/artists/Das-w",
+        "iq": 340
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/13269",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 13269,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Troy Jones",
+     "url": "https://genius.com/artists/Troy-jones"
+    }
+   ],
+   "artist": "Billy Currington",
+   "lyrics": "9 ContributorsPretty Good At Drinkin\u2019 Beer Lyrics[Verse 1]\nI wasn't born for diggin' deep holes\nI'm not made for pavin' long roads\nI ain't cut out to climb high line poles\nBut I'm pretty good at drinkin' beer\n\n[Verse 2]\nI'm not the type to work in a bank\nI'm no good at slapping on paint\nDon't have a knack for making motors crank, no\nBut I'm pretty good at drinkin' beer\n\n[Chorus]\nSo hand me one more\nThat's what I'm here for\nI'm built for having a ball\nI love the nightlife\nI love my Bud Light\nI like 'em cold and tall\n\n[Verse 3]\nI ain't much for mowin' thick grass\nI'm too slow for workin' too fast\nI don't do windows so honey don't ask\nBut I'm pretty good at drinkin' beer\nYou might also like[Verse 4]\nA go-getter\nWell, maybe I'm not\nI'm not known for doin' a lot\nBut I do my best work when the weather's hot\nBut I'm pretty good at drinkin' beer\n\n[Chorus]\nSo hand me one more\nThat's what I'm here for\nI'm built for having a ball\nI love the nightlife\nI love my Bud Light\nI like 'em cold and tall\n\n[Verse 1]\nI wasn't born for diggin' deep holes\nI'm not made for pavin' long roads\nI ain't cut out to climb high line poles\nBut I'm pretty good at drinkin' beer\nI'm pretty good at drinkin' beer\n\n[Outro] [Spoken]\nOh, hand me one more boys\nThat's what I'm here forEmbed"
+  }
+ ]
+}
