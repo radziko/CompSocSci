@@ -114,28 +114,28 @@
        "api_path": "/users/14815241",
        "avatar": {
         "tiny": {
-         "url": "https://images.genius.com/avatars/tiny/3bf30fae723685752f23f94511d54302",
+         "url": "https://images.genius.com/avatars/tiny/bae9853b2ade2ad2504ac46ac630a948",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://images.genius.com/avatars/thumb/3bf30fae723685752f23f94511d54302",
+         "url": "https://images.genius.com/avatars/thumb/bae9853b2ade2ad2504ac46ac630a948",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://images.genius.com/avatars/small/3bf30fae723685752f23f94511d54302",
+         "url": "https://images.genius.com/avatars/small/bae9853b2ade2ad2504ac46ac630a948",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://images.genius.com/avatars/medium/3bf30fae723685752f23f94511d54302",
+         "url": "https://images.genius.com/avatars/medium/bae9853b2ade2ad2504ac46ac630a948",
          "bounding_box": {
           "width": 300,
           "height": 400
@@ -145,7 +145,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5q7vg18fht8",
        "human_readable_role_for_display": "Contributor",
        "id": 14815241,
-       "iq": 3100,
+       "iq": 3117,
        "login": "TylerJune",
        "name": "TylerJune",
        "role_for_display": "contributor",
@@ -201,7 +201,7 @@
     "unreviewed_annotations": 5,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 595481
+    "pageviews": 595941
    },
    "title": "We Don\u2019t Talk About Bruno",
    "title_with_featured": "We Don't Talk About Bruno",
@@ -414,7 +414,7 @@
        "is_verified": true,
        "name": "Lin-Manuel Miranda",
        "url": "https://genius.com/artists/Lin-manuel-miranda",
-       "iq": 30116
+       "iq": 30118
       }
      ]
     },
@@ -430,7 +430,7 @@
        "is_verified": true,
        "name": "Lin-Manuel Miranda",
        "url": "https://genius.com/artists/Lin-manuel-miranda",
-       "iq": 30116
+       "iq": 30118
       }
      ]
     }
@@ -656,11 +656,11 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/dgpwb50jpul",
          "human_readable_role_for_display": "Contributor",
          "id": 8832245,
-         "iq": 12950,
-         "login": "MusicalMan2",
-         "name": "MusicalMan2",
+         "iq": 16568,
+         "login": "MusicalMayhem2",
+         "name": "MusicalMayhem2",
          "role_for_display": "contributor",
-         "url": "https://genius.com/MusicalMan2",
+         "url": "https://genius.com/MusicalMayhem2",
          "current_user_metadata": {
           "permissions": [],
           "excluded_permissions": [
@@ -719,7 +719,7 @@
      "is_verified": true,
      "name": "Lin-Manuel Miranda",
      "url": "https://genius.com/artists/Lin-manuel-miranda",
-     "iq": 30116
+     "iq": 30118
     }
    ],
    "song_relationships": [
@@ -1093,9 +1093,9 @@
         },
         {
          "api_path": "/artists/3068352",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068352,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Camilo Cfaytda",
@@ -1113,9 +1113,9 @@
         },
         {
          "api_path": "/artists/3068392",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068392,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Pepa Prytaisa",
@@ -1123,9 +1123,9 @@
         },
         {
          "api_path": "/artists/3068380",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068380,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Felix Frjsida",
@@ -1133,9 +1133,9 @@
         },
         {
          "api_path": "/artists/3068390",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068390,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Alma Madirja",
@@ -1143,9 +1143,9 @@
         },
         {
          "api_path": "/artists/3068339",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068339,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Mirabel Madrihja",
@@ -1154,9 +1154,9 @@
        ],
        "primary_artist": {
         "api_path": "/artists/3068273",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3068273,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Encantrat Cast",
@@ -1245,7 +1245,7 @@
         "is_verified": false,
         "name": "\u200b\u200b\u200bvespodd",
         "url": "https://genius.com/artists/Vespodd",
-        "iq": 135592
+        "iq": 136327
        }
       }
      ]
@@ -1281,7 +1281,7 @@
        "stats": {
         "unreviewed_annotations": 20,
         "hot": false,
-        "pageviews": 158230
+        "pageviews": 158413
        },
        "title": "What Else Can I Do?",
        "title_with_featured": "What Else Can I Do?",
@@ -1518,7 +1518,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 129118
+        "pageviews": 129167
        },
        "title": "No se habla de Bruno",
        "title_with_featured": "No se habla de Bruno",
@@ -1526,9 +1526,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3002660",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3002660,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Carolina Gait\u00e1n, Mauro Castillo, Daniela Sierra, Juanse Diez, Isabel Garc\u00e9s & Olga Luc\u00eda Vives",
@@ -1578,9 +1578,9 @@
         },
         {
          "api_path": "/artists/3068352",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068352,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Camilo Cfaytda",
@@ -1598,9 +1598,9 @@
         },
         {
          "api_path": "/artists/3068392",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068392,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Pepa Prytaisa",
@@ -1608,9 +1608,9 @@
         },
         {
          "api_path": "/artists/3068380",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068380,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Felix Frjsida",
@@ -1618,9 +1618,9 @@
         },
         {
          "api_path": "/artists/3068390",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068390,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Alma Madirja",
@@ -1628,9 +1628,9 @@
         },
         {
          "api_path": "/artists/3068339",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3068339,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Mirabel Madrihja",
@@ -1639,9 +1639,9 @@
        ],
        "primary_artist": {
         "api_path": "/artists/3068273",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3068273,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Encantrat Cast",
@@ -1688,7 +1688,7 @@
         "is_verified": true,
         "name": "Lin-Manuel Miranda",
         "url": "https://genius.com/artists/Lin-manuel-miranda",
-        "iq": 30116
+        "iq": 30118
        }
       },
       {
@@ -1717,7 +1717,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 219998
+        "pageviews": 220230
        },
        "title": "The Family Madrigal",
        "title_with_featured": "The Family Madrigal",
@@ -1725,9 +1725,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2946098",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2946098,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Stephanie Beatriz, Olga Merediz & Encanto - Cast",
@@ -1760,7 +1760,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 87431
+        "pageviews": 87542
        },
        "title": "All Of You",
        "title_with_featured": "All Of You",
@@ -1768,9 +1768,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3004412",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3004412,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto - Cast",
@@ -1903,9 +1903,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/3315120",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3315120,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "IHaveToBlink",
@@ -1923,9 +1923,9 @@
         },
         {
          "api_path": "/artists/3315121",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3315121,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Imakesongcovers",
@@ -2053,7 +2053,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 18045
+        "pageviews": 18158
        },
        "title": "We Don\u2019t Talk About Bruno (Encanto)",
        "title_with_featured": "We Don't Talk About Bruno (Encanto)",
@@ -2224,7 +2224,7 @@
          "is_verified": true,
          "name": "AmaLee",
          "url": "https://genius.com/artists/Amalee",
-         "iq": 3811
+         "iq": 3836
         },
         {
          "api_path": "/artists/1140651",
@@ -2284,7 +2284,7 @@
        "stats": {
         "unreviewed_annotations": 13,
         "hot": false,
-        "pageviews": 7008
+        "pageviews": 7045
        },
        "title": "We Don\u2019t Talk About Pluto",
        "title_with_featured": "We Don't Talk About Pluto",
@@ -2433,7 +2433,7 @@
        "stats": {
         "unreviewed_annotations": 10,
         "hot": false,
-        "pageviews": 7276
+        "pageviews": 7289
        },
        "title": "\u200bwe don\u2019t talk about rats but it\u2019s the full song",
        "title_with_featured": "\u200bwe don't talk about rats but it's the full song",
@@ -2518,7 +2518,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 5431
+        "pageviews": 5433
        },
        "title": "We Don\u2019t Talk About Apple Bottom Jeans",
        "title_with_featured": "We Don't Talk About Apple Bottom Jeans",
@@ -2581,9 +2581,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3416683",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3416683,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Otesla & Disney Lofi",
@@ -2743,7 +2743,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6182
+        "pageviews": 6194
        },
        "title": "We Don\u2019t Talk About Bruno (Oscars Cover)",
        "title_with_featured": "We Don't Talk About Bruno (Oscars Cover) (Ft.\u00a0Adassa, Becky\u00a0G., Carolina\u00a0Gait\u00e1n, Diane\u00a0Guerrero, Luis\u00a0Fonsi, Mauro\u00a0Castillo, Megan\u00a0Thee Stallion & Stephanie\u00a0Beatriz)",
@@ -2758,7 +2758,7 @@
          "is_verified": true,
          "name": "Megan Thee Stallion",
          "url": "https://genius.com/artists/Megan-thee-stallion",
-         "iq": 1379
+         "iq": 1381
         },
         {
          "api_path": "/artists/344497",
@@ -2769,7 +2769,7 @@
          "is_verified": true,
          "name": "Luis Fonsi",
          "url": "https://genius.com/artists/Luis-fonsi",
-         "iq": 4248
+         "iq": 4264
         },
         {
          "api_path": "/artists/30426",
@@ -2870,7 +2870,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 14175
+        "pageviews": 14208
        },
        "title": "[YTP] We Talked About Bruno",
        "title_with_featured": "[YTP] We Talked About Bruno",
@@ -2920,9 +2920,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3035501",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3035501,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Veridiana Benassi, Claudio Galvan, Jeniffer Nascimento, Filipe Bragan\u00e7a, Larissa Cardoso, Mari Evangelista & Encanto - Cast",
@@ -2968,7 +2968,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6182
+        "pageviews": 6194
        },
        "title": "We Don\u2019t Talk About Bruno (Oscars Cover)",
        "title_with_featured": "We Don't Talk About Bruno (Oscars Cover) (Ft.\u00a0Adassa, Becky\u00a0G., Carolina\u00a0Gait\u00e1n, Diane\u00a0Guerrero, Luis\u00a0Fonsi, Mauro\u00a0Castillo, Megan\u00a0Thee Stallion & Stephanie\u00a0Beatriz)",
@@ -2983,7 +2983,7 @@
          "is_verified": true,
          "name": "Megan Thee Stallion",
          "url": "https://genius.com/artists/Megan-thee-stallion",
-         "iq": 1379
+         "iq": 1381
         },
         {
          "api_path": "/artists/344497",
@@ -2994,7 +2994,7 @@
          "is_verified": true,
          "name": "Luis Fonsi",
          "url": "https://genius.com/artists/Luis-fonsi",
-         "iq": 4248
+         "iq": 4264
         },
         {
          "api_path": "/artists/30426",
@@ -3108,7 +3108,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 38758
+        "pageviews": 38764
        },
        "title": "\u041d\u0435 \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u0439 \u0411\u0440\u0443\u043d\u043e (Don\u2019t Mention Bruno)",
        "title_with_featured": "\u041d\u0435 \u0443\u043f\u043e\u043c\u0438\u043d\u0430\u0439 \u0411\u0440\u0443\u043d\u043e (Don't Mention Bruno)",
@@ -3116,9 +3116,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3389146",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3389146,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Julia Churakova, Mikhail Khrustalev, Kseniya Rassomakhina, Nikita Lelyavin, Elizaveta Sheykh & Regina Todorenko",
@@ -3158,9 +3158,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3362099",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3362099,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Owen Caling, Cornelius Bascara, Kenz Ancero, Andrei Ayson, Leia, Chi Datu Bocobo & Encanto - Cast",
@@ -3170,8 +3170,8 @@
       {
        "annotation_count": 0,
        "api_path": "/songs/7710886",
-       "artist_names": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) (Ft. Gilan Shachaf - \u05d2\u05d9\u05dc\u05df \u05e9\u05d7\u05e3, Miki Kam - \u05de\u05d9\u05e7\u05d9 \u05e7\u05dd & Roytal Zaltzman - \u05e8\u05d5\u05d9\u05d8\u05dc \u05d6\u05dc\u05e6\u05de\u05df)",
-       "full_title": "Encanto Cast - We Don't Talk About Bruno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) (Ft.\u00a0Gilan\u00a0Shachaf - \u05d2\u05d9\u05dc\u05df \u05e9\u05d7\u05e3, Miki\u00a0Kam - \u05de\u05d9\u05e7\u05d9 \u05e7\u05dd & Roytal\u00a0Zaltzman - \u05e8\u05d5\u05d9\u05d8\u05dc \u05d6\u05dc\u05e6\u05de\u05df)",
+       "artist_names": "Genius Hebrew Translations - \u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea (Ft. Gilan Shachaf - \u05d2\u05d9\u05dc\u05df \u05e9\u05d7\u05e3, Miki Kam - \u05de\u05d9\u05e7\u05d9 \u05e7\u05dd & Roytal Zaltzman - \u05e8\u05d5\u05d9\u05d8\u05dc \u05d6\u05dc\u05e6\u05de\u05df)",
+       "full_title": "Encanto Cast - We Don't Talk About Bruno (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea) by\u00a0Genius\u00a0Hebrew Translations - \u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea (Ft.\u00a0Gilan\u00a0Shachaf - \u05d2\u05d9\u05dc\u05df \u05e9\u05d7\u05e3, Miki\u00a0Kam - \u05de\u05d9\u05e7\u05d9 \u05e7\u05dd & Roytal\u00a0Zaltzman - \u05e8\u05d5\u05d9\u05d8\u05dc \u05d6\u05dc\u05e6\u05de\u05df)",
        "header_image_thumbnail_url": "https://www.google.com/url?sa=i&url=https://www.thejc.com/lets-talk/all/encanto-is-a-very-jewish-disney-film-5gQSNcfI0TFH3UpXqSdDMZ&psig=AOvVaw2Ot31zu-nkWZksSmxuNiPc&ust=1645139178946000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC-kZWrhfYCFQAAAAAdAAAAABAI",
        "header_image_url": "https://www.google.com/url?sa=i&url=https://www.thejc.com/lets-talk/all/encanto-is-a-very-jewish-disney-film-5gQSNcfI0TFH3UpXqSdDMZ&psig=AOvVaw2Ot31zu-nkWZksSmxuNiPc&ust=1645139178946000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIC-kZWrhfYCFQAAAAAdAAAAABAI",
        "id": 7710886,
@@ -3200,9 +3200,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/1978833",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 1978833,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Roytal Zaltzman - \u05e8\u05d5\u05d9\u05d8\u05dc \u05d6\u05dc\u05e6\u05de\u05df",
@@ -3210,9 +3210,9 @@
         },
         {
          "api_path": "/artists/1849317",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 1849317,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Gilan Shachaf - \u05d2\u05d9\u05dc\u05df \u05e9\u05d7\u05e3",
@@ -3236,7 +3236,7 @@
         "image_url": "https://images.genius.com/fddcff0ce25fe99531f4a12e9a1452e7.1000x1000x1.jpg",
         "is_meme_verified": false,
         "is_verified": false,
-        "name": "Genius Hebrew Translations (\u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea)",
+        "name": "Genius Hebrew Translations - \u05ea\u05e8\u05d2\u05d5\u05dd \u05dc\u05e2\u05d1\u05e8\u05d9\u05ea",
         "url": "https://genius.com/artists/Genius-hebrew-translations"
        }
       }
@@ -3285,7 +3285,7 @@
      "is_verified": true,
      "name": "Lin-Manuel Miranda",
      "url": "https://genius.com/artists/Lin-manuel-miranda",
-     "iq": 30116
+     "iq": 30118
     }
    ],
    "artist": "Carolina Gait\u00e1n, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero & Stephanie Beatriz",

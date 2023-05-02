@@ -146,7 +146,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
        "human_readable_role_for_display": "Contributor",
        "id": 116340,
-       "iq": 369268,
+       "iq": 369588,
        "login": "palacelight",
        "name": "Reuben Tasker",
        "role_for_display": "contributor",
@@ -223,35 +223,35 @@
        "api_path": "/users/7384164",
        "avatar": {
         "tiny": {
-         "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "human_readable_role_for_display": "Contributor",
        "id": 7384164,
        "iq": 414,
@@ -359,7 +359,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 326686
+    "pageviews": 327372
    },
    "title": "Little Lion Man",
    "title_with_featured": "Little Lion Man",
@@ -729,7 +729,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hnd8iq4eh3q",
          "human_readable_role_for_display": "Contributor",
          "id": 909862,
-         "iq": 23333,
+         "iq": 23375,
          "login": "Liampjuh",
          "name": "Liampjuh",
          "role_for_display": "contributor",
@@ -837,7 +837,7 @@
          "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
          "human_readable_role_for_display": "Moderator",
          "id": 458792,
-         "iq": 421698,
+         "iq": 421984,
          "login": "Skhills",
          "name": "Skhills",
          "role_for_display": "moderator",
@@ -953,9 +953,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1684042",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1684042,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Kenny and the Swordfish",
@@ -1291,7 +1291,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 313857
+    "pageviews": 315311
    },
    "title": "The Cave",
    "title_with_featured": "The Cave",
@@ -1527,7 +1527,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288561_32090_426447_10150541544631275_177486166274_9361633_1131272641_n.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 32090,
-         "iq": 38777,
+         "iq": 38790,
          "login": "DoomShroom",
          "name": "DoomShroom",
          "role_for_display": "contributor",
@@ -1911,7 +1911,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 278295
+    "pageviews": 278395
    },
    "title": "There Will Be Time",
    "title_with_featured": "There Will Be Time (Ft.\u00a0Baaba\u00a0Maal)",
@@ -2205,9 +2205,9 @@
     },
     {
      "api_path": "/artists/90125",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 90125,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "Johan Hugo",

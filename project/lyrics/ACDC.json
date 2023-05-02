@@ -145,7 +145,7 @@
        "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289693_89007_241465_2161977289506_1248783307_32728223_3717083_o.jpg",
        "human_readable_role_for_display": "Contributor",
        "id": 89007,
-       "iq": 4231,
+       "iq": 4232,
        "login": "MCMo91",
        "name": "MCMo91",
        "role_for_display": "contributor",
@@ -199,7 +199,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
        "human_readable_role_for_display": "Contributor",
        "id": 269182,
-       "iq": 421486,
+       "iq": 421666,
        "login": "igordebraga",
        "name": "\u200bigordebraga",
        "role_for_display": "contributor",
@@ -307,7 +307,7 @@
        "header_image_url": "https://images.genius.com/00ef2cbcbe3dd06ae936dc753a362f3a.1000x563x1.jpg",
        "human_readable_role_for_display": "Editor",
        "id": 538022,
-       "iq": 276716,
+       "iq": 276795,
        "login": "FGV",
        "name": "Federico Garcia V",
        "role_for_display": "editor",
@@ -361,7 +361,7 @@
        "header_image_url": "https://images.genius.com/d8c4727c568093ee9e0377761356d48b.1000x662x1.jpg",
        "human_readable_role_for_display": "Editor",
        "id": 5077322,
-       "iq": 130575,
+       "iq": 130584,
        "login": "sitzpinkler",
        "name": "Shashwat Bansal",
        "role_for_display": "editor",
@@ -415,7 +415,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ygj80z60ecs",
        "human_readable_role_for_display": "Contributor",
        "id": 5585647,
-       "iq": 65001,
+       "iq": 65805,
        "login": "DreamSora100",
        "name": "DreamSora100",
        "role_for_display": "contributor",
@@ -523,7 +523,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/84a17c128fc03545f6d5fef070c9b0f9",
        "human_readable_role_for_display": "Contributor",
        "id": 294663,
-       "iq": 14587,
+       "iq": 14597,
        "login": "CleverPseudonym",
        "name": "CleverPseudonym",
        "role_for_display": "contributor",
@@ -578,8 +578,9 @@
     "transcribers": 4,
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
+    "concurrents": 3,
     "hot": false,
-    "pageviews": 471043
+    "pageviews": 471835
    },
    "title": "Back in Black",
    "title_with_featured": "Back in Black",
@@ -845,9 +846,9 @@
      "artists": [
       {
        "api_path": "/artists/1210544",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1210544,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Benji Armbrister",
@@ -855,9 +856,9 @@
       },
       {
        "api_path": "/artists/1154994",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1154994,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Jack Nuber",
@@ -885,9 +886,9 @@
      "artists": [
       {
        "api_path": "/artists/1210547",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1210547,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Brad Samuelsohn",
@@ -915,9 +916,9 @@
      "artists": [
       {
        "api_path": "/artists/1156341",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1156341,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "J. Albert and Son",
@@ -925,9 +926,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -950,9 +951,9 @@
      "artists": [
       {
        "api_path": "/artists/1156341",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1156341,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "J. Albert and Son",
@@ -960,9 +961,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -1150,7 +1151,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/b262e731q9j",
          "human_readable_role_for_display": "Contributor",
          "id": 1107494,
-         "iq": 18859,
+         "iq": 18866,
          "login": "wanderingfern",
          "name": "wanderingfern",
          "role_for_display": "contributor",
@@ -1204,7 +1205,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 269182,
-         "iq": 421486,
+         "iq": 421666,
          "login": "igordebraga",
          "name": "\u200bigordebraga",
          "role_for_display": "contributor",
@@ -1258,7 +1259,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/eM4MQGEISUGa5YyqrcwW_american%20psycho%20huey%20lewis%20and%20the%20news%201.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 721779,
-         "iq": 115309,
+         "iq": 115442,
          "login": "m4ths",
          "name": "m4ths",
          "role_for_display": "editor",
@@ -1312,7 +1313,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288548_48951_the-dirty-south6.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 48951,
-         "iq": 62021,
+         "iq": 62133,
          "login": "RayneMan",
          "name": "RayneMan",
          "role_for_display": "editor",
@@ -1366,7 +1367,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/iscDx7TSPmmhrk0YBkGN_Royal-Enfield-The-Himalayan-motorcycle-testing-videos-5.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 4082303,
-         "iq": 1354,
+         "iq": 1355,
          "login": "mulaymandar",
          "name": "mulaymandar",
          "role_for_display": "contributor",
@@ -1420,7 +1421,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288163_1850_coolmtv.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 1850,
-         "iq": 186657,
+         "iq": 186750,
          "login": "Alex_Koenig",
          "name": "Alex Koenig",
          "role_for_display": "contributor",
@@ -1474,7 +1475,7 @@
          "header_image_url": "https://images.genius.com/f45814fd26ee32464af77c72e7e0e3d0.1000x750x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 1931244,
-         "iq": 337737,
+         "iq": 337936,
          "login": "eatthemooncake",
          "name": "\u200beatthemooncake",
          "role_for_display": "editor",
@@ -1532,7 +1533,7 @@
     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/x5ybqm551e",
     "human_readable_role_for_display": "Staff",
     "id": 1730456,
-    "iq": 58078,
+    "iq": 58255,
     "login": "Samuelmay",
     "name": "Samuelmay",
     "role_for_display": "staff",
@@ -1699,9 +1700,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/3286189",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 3286189,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "MingLings",
@@ -2155,7 +2156,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6071
+        "pageviews": 6073
        },
        "title": "AC/VC",
        "title_with_featured": "AC/VC",
@@ -2240,7 +2241,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 10604
+        "pageviews": 10613
        },
        "title": "Dope Beat",
        "title_with_featured": "Dope Beat",
@@ -2346,9 +2347,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/1662967",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 1662967,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Enrico Mentana",
@@ -2507,9 +2508,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1575655",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1575655,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Pigface vs. Sheep on Drugs",
@@ -2549,9 +2550,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1322830",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1322830,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Ryoji Ikeda",
@@ -2699,8 +2700,8 @@
        "api_path": "/songs/1440811",
        "artist_names": "Hydrogyn",
        "full_title": "Back In Black (Bonus) by\u00a0Hydrogyn",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 1440811,
        "language": "en",
        "lyrics_owner_id": 1549345,
@@ -2711,8 +2712,8 @@
        "release_date_components": null,
        "release_date_for_display": null,
        "release_date_with_abbreviated_month_for_display": null,
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false
@@ -2723,9 +2724,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/372334",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 372334,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Hydrogyn",
@@ -3008,7 +3009,7 @@
          "is_verified": true,
          "name": "Nas",
          "url": "https://genius.com/artists/Nas",
-         "iq": 41056
+         "iq": 41070
         }
        ],
        "primary_artist": {
@@ -3194,7 +3195,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 5325
+        "pageviews": 5330
        },
        "title": "On vient g\u00e2cher tes classiques n*4",
        "title_with_featured": "On vient g\u00e2cher tes classiques n*4",
@@ -3413,7 +3414,7 @@
     }
    ],
    "artist": "AC/DC",
-   "lyrics": "67 ContributorsTranslationsPortugu\u00easBack in Black Lyrics[Verse 1]\nBack in black, I hit the sack\nI've been too long, I'm glad to be back\nYes, I'm let loose from the noose\nThat's kept me hanging about\nI'm just looking at the sky 'cause it's getting me high\nForget the hearse, 'cause I'll never die\nI got nine lives, cat's eyes\nAbusing every one of them and running wild\n\n[Chorus]\n'Cause I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black\n\n[Verse 2]\nBack in the back of a Cadillac\nNumber one with a bullet, I'm a power pack\nYes, I'm in a bang with a gang\nThey've got to catch me if they want me to hang\n'Cause I'm back on the track and I'm beatin' the flack\nNobody's gonna get me on another rap\nSo, look at me now, I'm just making my play\nDon't try to push your luck, just get out of my way\nYou might also like[Chorus]\n'Cause I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black\n\n[Guitar Solo]\n\n[Chorus]\nWell, I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black, yow\n\n[Bridge]\nAh, yeah\nOh, yeah\nTake my love\nYeah, yeah\nYeah\nAh, hey yeah\nOoh, yeah\n[Chorus]\nWell, I'm back (I'm back)\nBack (Well, I'm back)\nBack (I'm back)\nBack (I'm back)\nBack (I'm back)\nBack, back in black\nYes, I'm back in black\n\n[Outro]\nI've hit the sack\n\n[Guitar Solo]100Embed"
+   "lyrics": "67 ContributorsTranslationsPortugu\u00easBack in Black Lyrics[Verse 1]\nBack in black, I hit the sack\nI've been too long, I'm glad to be back\nYes, I'm let loose from the noose\nThat's kept me hanging about\nI'm just looking at the sky 'cause it's getting me high\nForget the hearse, 'cause I'll never die\nI got nine lives, cat's eyes\nAbusing every one of them and running wild\n\n[Chorus]\n'Cause I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black\n[Verse 2]\nBack in the back of a Cadillac\nNumber one with a bullet, I'm a power pack\nYes, I'm in a bang with a gang\nThey've got to catch me if they want me to hang\n'Cause I'm back on the track and I'm beatin' the flack\nNobody's gonna get me on another rap\nSo, look at me now, I'm just making my play\nDon't try to push your luck, just get out of my way\n\n[Chorus]\n'Cause I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black\n\n[Guitar Solo]\n\n[Chorus]\nWell, I'm back\nYes, I'm back\nWell, I'm back\nYes, I'm back\nWell, I'm back, back\nWell, I'm back in black\nYes, I'm back in black, yow\nYou might also like[Bridge]\nAh, yeah\nOh, yeah\nTake my love\nYeah, yeah\nYeah\nAh, hey yeah\nOoh, yeah\n\n[Chorus]\nWell, I'm back (I'm back)\nBack (Well, I'm back)\nBack (I'm back)\nBack (I'm back)\nBack (I'm back)\nBack, back in black\nYes, I'm back in black\n\n[Outro]\nI've hit the sack\n\n[Guitar Solo]100Embed"
   },
   {
    "annotation_count": 8,
@@ -3445,8 +3446,9 @@
     "transcribers": 4,
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
+    "concurrents": 2,
     "hot": false,
-    "pageviews": 412888
+    "pageviews": 415209
    },
    "title": "T.N.T.",
    "title_with_featured": "T.N.T.",
@@ -3737,9 +3739,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -3752,9 +3754,9 @@
      "artists": [
       {
        "api_path": "/artists/1156341",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1156341,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "J. Albert and Son",
@@ -3762,9 +3764,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -3996,7 +3998,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 269182,
-         "iq": 421486,
+         "iq": 421666,
          "login": "igordebraga",
          "name": "\u200bigordebraga",
          "role_for_display": "contributor",
@@ -4050,7 +4052,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/eM4MQGEISUGa5YyqrcwW_american%20psycho%20huey%20lewis%20and%20the%20news%201.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 721779,
-         "iq": 115309,
+         "iq": 115442,
          "login": "m4ths",
          "name": "m4ths",
          "role_for_display": "editor",
@@ -4417,9 +4419,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1468194",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1468194,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Big N",
@@ -4912,7 +4914,7 @@
     }
    ],
    "artist": "AC/DC",
-   "lyrics": "41 ContributorsT.N.T. Lyrics[Intro]\nOi! Oi! Oi! Oi! Oi! Oi!\nOi! Oi! Oi! Oi! Oi! Oi!\nOi! Oi! Oi!\n\n[Verse 1]\nSee me ride out of the sunset\nOn your color TV screen\nOut for all that I can get\nIf you know what I mean\nWomen to the left of me\nAnd women to the right\n\n[Pre-Chorus]\nAin't got no gun\nAin't got no knife\nDon't you start no fight\n\n[Chorus]\n'Cause I'm T.N.T., I'm dynamite\nT.N.T., and I'll win the fight\nT.N.T., I'm a power load\nT.N.T., watch me explode\n\n[Verse 2]\nI'm dirty, mean, I'm mighty unclean\nI'm a wanted man\nPublic enemy number one\nUnderstand?\nYou might also like[Pre-Chorus]\nSo lock up your daughter\nLock up your wife\nLock up your back door\nRun for your life\nThe man is back in town\nSo don't you mess me 'round\n\n[Chorus]\n'Cause I'm T.N.T., I'm dynamite\nT.N.T., and I'll win the fight\nT.N.T., I'm a power load\nT.N.T., watch me explode\n\n[Guitar Solo]\n\n[Bridge]\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\n[Chorus]\nI'm dynamite\nT.N.T\nOi! Oi! Oi!\nAnd I'll win the fight\nT.N.T\nOi! Oi! Oi!\nI'm a power load\nT.N.T., watch me explode!32Embed"
+   "lyrics": "41 ContributorsT.N.T. Lyrics[Intro]\nOi! Oi! Oi! Oi! Oi! Oi!\nOi! Oi! Oi! Oi! Oi! Oi!\nOi! Oi! Oi!\n\n[Verse 1]\nSee me ride out of the sunset\nOn your color TV screen\nOut for all that I can get\nIf you know what I mean\nWomen to the left of me\nAnd women to the right\n[Pre-Chorus]\nAin't got no gun\nAin't got no knife\nDon't you start no fight\n\n[Chorus]\n'Cause I'm T.N.T., I'm dynamite\nT.N.T., and I'll win the fight\nT.N.T., I'm a power load\nT.N.T., watch me explode\n\n[Verse 2]\nI'm dirty, mean, I'm mighty unclean\nI'm a wanted man\nPublic enemy number one\nUnderstand?\n\n[Pre-Chorus]\nSo lock up your daughter\nLock up your wife\nLock up your back door\nRun for your life\nThe man is back in town\nSo don't you mess me 'round\n\n[Chorus]\n'Cause I'm T.N.T., I'm dynamite\nT.N.T., and I'll win the fight\nT.N.T., I'm a power load\nT.N.T., watch me explode\nYou might also like[Guitar Solo]\n\n[Bridge]\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\nT.N.T\nOi! Oi! Oi!\n\n[Chorus]\nI'm dynamite\nT.N.T\nOi! Oi! Oi!\nAnd I'll win the fight\nT.N.T\nOi! Oi! Oi!\nI'm a power load\nT.N.T., watch me explode!32Embed"
   },
   {
    "annotation_count": 12,
@@ -4945,7 +4947,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 386095
+    "pageviews": 386924
    },
    "title": "Highway to Hell",
    "title_with_featured": "Highway to Hell",
@@ -5141,9 +5143,9 @@
      "artists": [
       {
        "api_path": "/artists/1124314",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1124314,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "George Piros",
@@ -5192,9 +5194,9 @@
      "artists": [
       {
        "api_path": "/artists/1156341",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1156341,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "J. Albert and Son",
@@ -5202,9 +5204,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -5227,9 +5229,9 @@
      "artists": [
       {
        "api_path": "/artists/3072301",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 3072301,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "\u200bMark Dearney",
@@ -5252,9 +5254,9 @@
      "artists": [
       {
        "api_path": "/artists/3072302",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 3072302,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "\u200bKevin Dallimor",
@@ -5262,9 +5264,9 @@
       },
       {
        "api_path": "/artists/2626087",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2626087,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Kevin Dallimore",
@@ -5377,9 +5379,9 @@
      "artists": [
       {
        "api_path": "/artists/1156341",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1156341,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "J. Albert and Son",
@@ -5387,9 +5389,9 @@
       },
       {
        "api_path": "/artists/2424435",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2424435,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Leidseplein Presse",
@@ -5541,7 +5543,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/eM4MQGEISUGa5YyqrcwW_american%20psycho%20huey%20lewis%20and%20the%20news%201.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 721779,
-         "iq": 115309,
+         "iq": 115442,
          "login": "m4ths",
          "name": "m4ths",
          "role_for_display": "editor",
@@ -5595,7 +5597,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3GmrMEUaTVW5V3WEham0_Foto0079.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 269182,
-         "iq": 421486,
+         "iq": 421666,
          "login": "igordebraga",
          "name": "\u200bigordebraga",
          "role_for_display": "contributor",
@@ -5649,7 +5651,7 @@
          "header_image_url": "https://images.genius.com/fc34bc5659f8dfa608220dbe7a5d9648.1000x667x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 1553875,
-         "iq": 24439,
+         "iq": 24455,
          "login": "The_Flanman",
          "name": "Dusty C. Flanarooskie",
          "role_for_display": "editor",
@@ -5877,7 +5879,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5905
+        "pageviews": 6255
        },
        "title": "Heaven Was Full (I\u2019m Headed Straight to Hell)",
        "title_with_featured": "Heaven Was Full (I'm Headed Straight to Hell)",
@@ -5920,7 +5922,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 17052
+        "pageviews": 17065
        },
        "title": "I\u2019m A Swing It",
        "title_with_featured": "I\u2019m A Swing It (Ft.\u00a0DJ\u00a0Muggs)",
@@ -6017,7 +6019,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 282584
+        "pageviews": 282704
        },
        "title": "F*CK YOU, GOODBYE",
        "title_with_featured": "F*CK YOU, GOODBYE (Ft.\u00a0Machine\u00a0Gun Kelly)",
@@ -6032,7 +6034,7 @@
          "is_verified": true,
          "name": "Machine Gun Kelly",
          "url": "https://genius.com/artists/Machine-gun-kelly",
-         "iq": 28586
+         "iq": 28596
         }
        ],
        "primary_artist": {
@@ -6044,7 +6046,7 @@
         "is_verified": true,
         "name": "The Kid LAROI",
         "url": "https://genius.com/artists/The-kid-laroi",
-        "iq": 1306
+        "iq": 1310
        }
       },
       {
@@ -6292,8 +6294,8 @@
        "api_path": "/songs/5686526",
        "artist_names": "Lupe Villar",
        "full_title": "Ruta a l'infern by\u00a0Lupe\u00a0Villar",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 5686526,
        "language": "ca",
        "lyrics_owner_id": 10492963,
@@ -6308,8 +6310,8 @@
        },
        "release_date_for_display": "January 1, 2008",
        "release_date_with_abbreviated_month_for_display": "Jan. 1, 2008",
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false
@@ -6320,9 +6322,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2289142",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2289142,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Lupe Villar",
@@ -6556,8 +6558,8 @@
        "api_path": "/songs/3173802",
        "artist_names": "Phil x & the drills",
        "full_title": "Highway to Hell by\u00a0Phil\u00a0x & the drills",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 3173802,
        "language": "en",
        "lyrics_owner_id": 269182,
@@ -6568,8 +6570,8 @@
        "release_date_components": null,
        "release_date_for_display": null,
        "release_date_with_abbreviated_month_for_display": null,
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false
@@ -6580,9 +6582,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/479841",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 479841,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Phil x & the drills",
@@ -6594,8 +6596,8 @@
        "api_path": "/songs/2144353",
        "artist_names": "Charlie Parra Del Riego (Ft. Brian \"Head\" Welch, Didier Wampas, Joey O'keefe & Max Cavalera)",
        "full_title": "Highway to Hell by\u00a0Charlie\u00a0Parra Del Riego (Ft.\u00a0Brian\u00a0\"Head\" Welch, Didier\u00a0Wampas, Joey\u00a0O'keefe & Max\u00a0Cavalera)",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 2144353,
        "language": "en",
        "lyrics_owner_id": 269182,
@@ -6606,8 +6608,8 @@
        "release_date_components": null,
        "release_date_for_display": null,
        "release_date_with_abbreviated_month_for_display": null,
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false
@@ -6638,9 +6640,9 @@
         },
         {
          "api_path": "/artists/932876",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 932876,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Joey O\u2019keefe",
@@ -6659,9 +6661,9 @@
        ],
        "primary_artist": {
         "api_path": "/artists/1044471",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1044471,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Charlie Parra Del Riego",
@@ -6846,8 +6848,8 @@
        "api_path": "/songs/2420908",
        "artist_names": "Evol Walks",
        "full_title": "Highway to Hell by\u00a0Evol\u00a0Walks",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 2420908,
        "language": "en",
        "lyrics_owner_id": 269182,
@@ -6858,8 +6860,8 @@
        "release_date_components": null,
        "release_date_for_display": null,
        "release_date_with_abbreviated_month_for_display": null,
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false
@@ -6870,9 +6872,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/23191",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 23191,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Evol Walks",
@@ -7295,7 +7297,7 @@
     }
    ],
    "artist": "AC/DC",
-   "lyrics": "95 ContributorsHighway to Hell Lyrics[Instrumental Intro]\n\n[Verse 1]\nLivin' easy\nLovin' free\nSeason ticket on a one way ride\nAskin' nothin'\nLeave me be\nTakin' everythin' in my stride\nDon't need reason\nDon't need rhyme\nAin't nothin' I\u2019d rather do\nGoin' down\nParty time\nMy friends are gonna be there too, yeah\n[Chorus]\nI'm on the highway to hell\nOn the highway to hell\nHighway to hell\nI'm on the highway to hell\n\n[Verse 2]\nNo stop signs\nSpeed limit\nNobody's gonna slow me down\nLike a wheel\nGonna spin it\nNobody's gonna mess me around\nHey Satan\nPayin' my dues\nPlayin' in a rocking band\nHey mama\nLook at me\nI'm on the way to the promised land\nWoo!\nYou might also like[Chorus]\nI'm on the highway to hell\nHighway to hell\nI'm on the highway to hell\nHighway to hell\n\n[Bridge]\nMmm, don't stop me\nEhh, ehh, oww!\n\n[Instrumental Break]\n[Guitar Solo]\n\n[Chorus]\nI'm on the highway to hell\nOn the highway to hell\nI'm on the highway to hell\nOn the highway to\nHell\nHighway to hell (I'm on the highway to hell)\nHighway to hell (highway to hell)\nHighway to hell (I'm on the highway to hell)\nHighway to hell\n\n[Outro]\nAnd I'm goin' down\nAll the way, wow\nOn the highway to hell51Embed"
+   "lyrics": "95 ContributorsHighway to Hell Lyrics[Instrumental Intro]\n\n[Verse 1]\nLivin' easy\nLovin' free\nSeason ticket on a one way ride\nAskin' nothin'\nLeave me be\nTakin' everythin' in my stride\nDon't need reason\nDon't need rhyme\nAin't nothin' I\u2019d rather do\nGoin' down\nParty time\nMy friends are gonna be there too, yeah\n[Chorus]\nI'm on the highway to hell\nOn the highway to hell\nHighway to hell\nI'm on the highway to hell\n\n[Verse 2]\nNo stop signs\nSpeed limit\nNobody's gonna slow me down\nLike a wheel\nGonna spin it\nNobody's gonna mess me around\nHey Satan\nPayin' my dues\nPlayin' in a rocking band\nHey mama\nLook at me\nI'm on the way to the promised land\nWoo!\n\n[Chorus]\nI'm on the highway to hell\nHighway to hell\nI'm on the highway to hell\nHighway to hell\nYou might also like[Bridge]\nMmm, don't stop me\nEhh, ehh, oww!\n\n[Instrumental Break]\n[Guitar Solo]\n\n[Chorus]\nI'm on the highway to hell\nOn the highway to hell\nI'm on the highway to hell\nOn the highway to\nHell\nHighway to hell (I'm on the highway to hell)\nHighway to hell (highway to hell)\nHighway to hell (I'm on the highway to hell)\nHighway to hell\n\n[Outro]\nAnd I'm goin' down\nAll the way, wow\nOn the highway to hell51Embed"
   }
  ]
 }

@@ -38,7 +38,7 @@
    "following": false
   }
  },
- "iq": 2402,
+ "iq": 2404,
  "description_annotation": {
   "_type": "referent",
   "annotator_id": 2544233,
@@ -148,7 +148,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/BktfWRQ8ax4LXDgOfPEw_bg.png",
        "human_readable_role_for_display": "Contributor",
        "id": 1821078,
-       "iq": 140525,
+       "iq": 140421,
        "login": "partyfear",
        "name": "partyfear",
        "role_for_display": "contributor",
@@ -171,35 +171,35 @@
        "api_path": "/users/2544233",
        "avatar": {
         "tiny": {
-         "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "human_readable_role_for_display": null,
        "id": 2544233,
        "iq": 28,
@@ -260,7 +260,7 @@
   "header_image_url": "https://images.genius.com/76f8c220fa9230855d9a8bc1cbc7a073.1000x1000x1.jpg",
   "human_readable_role_for_display": "Verified Artist",
   "id": 2954431,
-  "iq": 2402,
+  "iq": 2404,
   "login": "ruthb",
   "name": "Ruth B.",
   "role_for_display": "verified_artist",
@@ -306,8 +306,9 @@
     "transcribers": 1,
     "unreviewed_annotations": 0,
     "verified_annotations": 3,
+    "concurrents": 2,
     "hot": false,
-    "pageviews": 895284
+    "pageviews": 896291
    },
    "title": "Lost Boy",
    "title_with_featured": "Lost Boy",
@@ -322,7 +323,7 @@
     "is_verified": true,
     "name": "Ruth B.",
     "url": "https://genius.com/artists/Ruth-b",
-    "iq": 2402
+    "iq": 2404
    },
    "apple_music_id": "1219506533",
    "apple_music_player_url": "https://genius.com/songs/697785/apple_music_player",
@@ -426,7 +427,7 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    },
    "custom_performances": [
@@ -450,9 +451,9 @@
      "artists": [
       {
        "api_path": "/artists/1581276",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1581276,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Rob Niederpruem",
@@ -460,9 +461,9 @@
       },
       {
        "api_path": "/artists/1221844",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1221844,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Jonathan Benedict",
@@ -475,9 +476,9 @@
      "artists": [
       {
        "api_path": "/artists/1221844",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1221844,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Jonathan Benedict",
@@ -485,9 +486,9 @@
       },
       {
        "api_path": "/artists/1581276",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1581276,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Rob Niederpruem",
@@ -507,7 +508,7 @@
        "is_verified": true,
        "name": "Ruth B.",
        "url": "https://genius.com/artists/Ruth-b",
-       "iq": 2402
+       "iq": 2404
       }
      ]
     }
@@ -625,7 +626,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/fd29396ffdc54c11d855f3378124aa66",
          "human_readable_role_for_display": "Editor",
          "id": 2197748,
-         "iq": 25457,
+         "iq": 25483,
          "login": "sam_satomi",
          "name": "sam_satomi",
          "role_for_display": "editor",
@@ -679,7 +680,7 @@
          "header_image_url": "https://images.genius.com/83b350b1086f836e5f14ee1f8d466682.660x360x1.png",
          "human_readable_role_for_display": "Editor",
          "id": 53993,
-         "iq": 363098,
+         "iq": 363104,
          "login": "ZacharyMahabir",
          "name": "1999 NBA All-Star Zachary Mahabir",
          "role_for_display": "editor",
@@ -836,7 +837,7 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    ],
    "song_relationships": [
@@ -972,7 +973,7 @@
        "stats": {
         "unreviewed_annotations": 27,
         "hot": false,
-        "pageviews": 6454
+        "pageviews": 6681
        },
        "title": "Dyin 2 Live \u201cEdot Baby Tribute\u201d",
        "title_with_featured": "Dyin 2 Live \u201cEdot Baby Tribute\u201d",
@@ -1099,7 +1100,7 @@
        "stats": {
         "unreviewed_annotations": 13,
         "hot": false,
-        "pageviews": 5844
+        "pageviews": 5909
        },
        "title": "Peter Pan",
        "title_with_featured": "Peter Pan (Ft.\u00a0DD\u00a0Osama & Sugarhill\u00a0Dede)",
@@ -1109,7 +1110,7 @@
          "api_path": "/artists/3230884",
          "header_image_url": "https://images.genius.com/470e6afe047a2fb0b02e6bc5a184704c.640x640x1.jpg",
          "id": 3230884,
-         "image_url": "https://images.genius.com/51987604064448058f129984fed559ea.500x500x1.jpg",
+         "image_url": "https://images.genius.com/1b53283d12e1360f46bb788a959d7ae2.736x736x1.jpg",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "DD Osama",
@@ -1130,7 +1131,7 @@
         "api_path": "/artists/3228680",
         "header_image_url": "https://images.genius.com/a38a113ca6c616b4d35221728b72e3b6.256x144x49.gif",
         "id": 3228680,
-        "image_url": "https://images.genius.com/b50e39ebbfd24e6f81f78c5d0cb567c5.736x736x1.jpg",
+        "image_url": "https://images.genius.com/92f9a319dbeeef6968c7e02ce3cebe6b.498x498x1.jpg",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Notti Osama",
@@ -1163,7 +1164,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 5718
+        "pageviews": 5774
        },
        "title": "Lost Boy",
        "title_with_featured": "Lost Boy",
@@ -1202,7 +1203,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 8678
+        "pageviews": 8782
        },
        "title": "K1 - HB Freestyle (Season 4)",
        "title_with_featured": "K1 - HB Freestyle (Season 4)",
@@ -1210,9 +1211,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3285428",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3285428,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "K1 & Hardest Bars",
@@ -1245,7 +1246,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 10413
+        "pageviews": 10538
        },
        "title": "Peter Pan",
        "title_with_featured": "Peter Pan (Ft.\u00a0Liilz)",
@@ -1397,7 +1398,7 @@
          "is_verified": true,
          "name": "Ruth B.",
          "url": "https://genius.com/artists/Ruth-b",
-         "iq": 2402
+         "iq": 2404
         }
        ],
        "primary_artist": {
@@ -1409,7 +1410,7 @@
         "is_verified": false,
         "name": "K-Odd-ik",
         "url": "https://genius.com/artists/K-odd-ik",
-        "iq": 11395
+        "iq": 11457
        }
       },
       {
@@ -1481,7 +1482,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 609274
+        "pageviews": 609314
        },
        "title": "Neverland",
        "title_with_featured": "Neverland",
@@ -1610,7 +1611,7 @@
        "stats": {
         "unreviewed_annotations": 13,
         "hot": false,
-        "pageviews": 33401
+        "pageviews": 33432
        },
        "title": "Amen",
        "title_with_featured": "Amen",
@@ -1653,7 +1654,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10839
+        "pageviews": 10840
        },
        "title": "Neverland",
        "title_with_featured": "Neverland (Ft.\u00a0Ruth\u00a0B.)",
@@ -1668,7 +1669,7 @@
          "is_verified": true,
          "name": "Ruth B.",
          "url": "https://genius.com/artists/Ruth-b",
-         "iq": 2402
+         "iq": 2404
         }
        ],
        "primary_artist": {
@@ -1680,7 +1681,7 @@
         "is_verified": false,
         "name": "Bure",
         "url": "https://genius.com/artists/Bure",
-        "iq": 92805
+        "iq": 92808
        }
       }
      ]
@@ -2033,7 +2034,7 @@
      "header_image_url": "https://images.genius.com/76f8c220fa9230855d9a8bc1cbc7a073.1000x1000x1.jpg",
      "human_readable_role_for_display": "Verified Artist",
      "id": 2954431,
-     "iq": 2402,
+     "iq": 2404,
      "login": "ruthb",
      "name": "Ruth B.",
      "role_for_display": "verified_artist",
@@ -2063,7 +2064,7 @@
       "is_verified": true,
       "name": "Ruth B.",
       "url": "https://genius.com/artists/Ruth-b",
-      "iq": 2402
+      "iq": 2404
      },
      "user": {
       "api_path": "/users/2954431",
@@ -2100,7 +2101,7 @@
       "header_image_url": "https://images.genius.com/76f8c220fa9230855d9a8bc1cbc7a073.1000x1000x1.jpg",
       "human_readable_role_for_display": "Verified Artist",
       "id": 2954431,
-      "iq": 2402,
+      "iq": 2404,
       "login": "ruthb",
       "name": "Ruth B.",
       "role_for_display": "verified_artist",
@@ -2128,11 +2129,11 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    ],
    "artist": "Ruth B.",
-   "lyrics": "229 ContributorsLost Boy Lyrics[Verse 1]\nThere was a time when I was alone\nNowhere to go and no place to call home\nMy only friend was the man in the Moon\nAnd even sometimes he would go away too\nThen one night, as I closed my eyes\nI saw a shadow flying high\nHe came to me with the sweetest smile\nTold me he wanted to talk for a while\nHe said, \"Peter Pan, that's what they call me\nI promise that you'll never be lonely\"\nAnd ever since that day\n\n[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\n\n[Verse 2]\nHe sprinkled me in pixie dust and told me to believe\nBelieve in him and believe in me\nTogether we will fly away in a cloud of green\nTo your beautiful destiny\nAs we soared above the town that never loved me\nI realized I finally had a family\nSoon enough we reached Neverland\nPeacefully my feet hit the sand\nAnd ever since that day...\nYou might also like[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\n\n[Bridge]\nPeter Pan, Tinker Bell, Wendy Darling\nEven Captain Hook, you are my perfect storybook\nNeverland, I love you so, you are now my home sweet home\nForever a Lost Boy at last\n\nAnd for always I will say...\n\n[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the Woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free148Embed"
+   "lyrics": "229 ContributorsLost Boy Lyrics[Verse 1]\nThere was a time when I was alone\nNowhere to go and no place to call home\nMy only friend was the man in the Moon\nAnd even sometimes he would go away too\nThen one night, as I closed my eyes\nI saw a shadow flying high\nHe came to me with the sweetest smile\nTold me he wanted to talk for a while\nHe said, \"Peter Pan, that's what they call me\nI promise that you'll never be lonely\"\nAnd ever since that day\n[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\n\n[Verse 2]\nHe sprinkled me in pixie dust and told me to believe\nBelieve in him and believe in me\nTogether we will fly away in a cloud of green\nTo your beautiful destiny\nAs we soared above the town that never loved me\nI realized I finally had a family\nSoon enough we reached Neverland\nPeacefully my feet hit the sand\nAnd ever since that day...\n\n[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nYou might also like[Bridge]\nPeter Pan, Tinker Bell, Wendy Darling\nEven Captain Hook, you are my perfect storybook\nNeverland, I love you so, you are now my home sweet home\nForever a Lost Boy at last\n\nAnd for always I will say...\n\n[Chorus]\nI am a Lost Boy from Neverland\nUsually hanging out with Peter Pan\nAnd when we're bored we play in the Woods\nAlways on the run from Captain Hook\n\"Run, run Lost Boy,\" they say to me\nAway from all of reality\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free\nNeverland is home to Lost Boys like me\nAnd Lost Boys like me are free148Embed"
   },
   {
    "annotation_count": 5,
@@ -2164,9 +2165,8 @@
     "transcribers": 4,
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
-    "concurrents": 3,
     "hot": false,
-    "pageviews": 362012
+    "pageviews": 363883
    },
    "title": "Dandelions",
    "title_with_featured": "Dandelions",
@@ -2181,7 +2181,7 @@
     "is_verified": true,
     "name": "Ruth B.",
     "url": "https://genius.com/artists/Ruth-b",
-    "iq": 2402
+    "iq": 2404
    },
    "apple_music_id": "1219506529",
    "apple_music_player_url": "https://genius.com/songs/3041363/apple_music_player",
@@ -2285,7 +2285,7 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    },
    "custom_performances": [
@@ -2391,7 +2391,7 @@
        "is_verified": true,
        "name": "Ruth B.",
        "url": "https://genius.com/artists/Ruth-b",
-       "iq": 2402
+       "iq": 2404
       }
      ]
     },
@@ -2407,7 +2407,7 @@
        "is_verified": true,
        "name": "Ruth B.",
        "url": "https://genius.com/artists/Ruth-b",
-       "iq": 2402
+       "iq": 2404
       }
      ]
     },
@@ -2540,7 +2540,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/BktfWRQ8ax4LXDgOfPEw_bg.png",
          "human_readable_role_for_display": "Contributor",
          "id": 1821078,
-         "iq": 140525,
+         "iq": 140421,
          "login": "partyfear",
          "name": "partyfear",
          "role_for_display": "contributor",
@@ -2598,7 +2598,7 @@
     "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mg8osc9dhll",
     "human_readable_role_for_display": "Transcriber",
     "id": 7387836,
-    "iq": 112017,
+    "iq": 114413,
     "login": "kenzo",
     "name": "kenzo",
     "role_for_display": "transcriber",
@@ -2763,7 +2763,7 @@
         "is_verified": true,
         "name": "Ruth B.",
         "url": "https://genius.com/artists/Ruth-b",
-        "iq": 2402
+        "iq": 2404
        }
       }
      ]
@@ -2817,7 +2817,7 @@
         "is_verified": true,
         "name": "Ruth B.",
         "url": "https://genius.com/artists/Ruth-b",
-        "iq": 2402
+        "iq": 2404
        }
       }
      ]
@@ -2900,11 +2900,11 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    ],
    "artist": "Ruth B.",
-   "lyrics": "38 ContributorsTranslationsFran\u00e7aisDandelions Lyrics[Verse 1]\nMaybe it's the way you say my name\nMaybe it's the way you play your game\nBut it's so good, I've never known anybody like you\nBut it's so good, I've never dreamed of nobody like you\n\n[Pre-Chorus]\nAnd I've heard of a love that comes once in a lifetime\nAnd I'm pretty sure that you are that love of mine\n\n[Chorus]\n'Cause I'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\n\n[Verse 2]\nI think that you are the one for me\n'Cause it gets so hard to breathe\nWhen you're looking at me, I've never felt so alive and free\nWhen you're looking at me, I've never felt so happy\nYou might also like[Pre-Chorus]\nAnd I've heard of a love that comes once in a lifetime\nAnd I'm pretty sure that you are that love of mine\n\n[Chorus]\n'Cause I'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\n\n[Bridge]\nDandelion into the wind you go\nWon't you let my darling know?\nDandelion into the wind you go\nWon't you let my darling know that\n\n[Chorus]\nI'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\n\n[Outro]\nI'm in a field of dandelions\nWishin' on every one that you'd be mine, mine18Embed"
+   "lyrics": "38 ContributorsTranslationsFran\u00e7aisDandelions Lyrics[Verse 1]\nMaybe it's the way you say my name\nMaybe it's the way you play your game\nBut it's so good, I've never known anybody like you\nBut it's so good, I've never dreamed of nobody like you\n\n[Pre-Chorus]\nAnd I've heard of a love that comes once in a lifetime\nAnd I'm pretty sure that you are that love of mine\n\n[Chorus]\n'Cause I'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\n\n[Verse 2]\nI think that you are the one for me\n'Cause it gets so hard to breathe\nWhen you're looking at me, I've never felt so alive and free\nWhen you're looking at me, I've never felt so happy\n\n[Pre-Chorus]\nAnd I've heard of a love that comes once in a lifetime\nAnd I'm pretty sure that you are that love of mine\n\n[Chorus]\n'Cause I'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\nYou might also like[Bridge]\nDandelion into the wind you go\nWon't you let my darling know?\nDandelion into the wind you go\nWon't you let my darling know that\n\n[Chorus]\nI'm in a field of dandelions\nWishin' on every one that you'd be mine, mine\nAnd I see forever in your eyes\nI feel okay when I see you smile, smile\n\n[Post-Chorus]\nWishin' on dandelions all of the time\nPrayin' to God that one day you'll be mine\nWishin' on dandelions all of the time, all of the time\n\n[Outro]\nI'm in a field of dandelions\nWishin' on every one that you'd be mine, mine18Embed"
   },
   {
    "annotation_count": 5,
@@ -2937,7 +2937,7 @@
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 122199
+    "pageviews": 122410
    },
    "title": "Mixed Signals",
    "title_with_featured": "Mixed Signals",
@@ -2952,7 +2952,7 @@
     "is_verified": true,
     "name": "Ruth B.",
     "url": "https://genius.com/artists/Ruth-b",
-    "iq": 2402
+    "iq": 2404
    },
    "apple_music_id": "1219506528",
    "apple_music_player_url": "https://genius.com/songs/3041356/apple_music_player",
@@ -3056,7 +3056,7 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    },
    "custom_performances": [
@@ -3102,7 +3102,7 @@
        "is_verified": true,
        "name": "Ruth B.",
        "url": "https://genius.com/artists/Ruth-b",
-       "iq": 2402
+       "iq": 2404
       }
      ]
     },
@@ -3118,7 +3118,7 @@
        "is_verified": true,
        "name": "Ruth B.",
        "url": "https://genius.com/artists/Ruth-b",
-       "iq": 2402
+       "iq": 2404
       }
      ]
     },
@@ -3266,7 +3266,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/BktfWRQ8ax4LXDgOfPEw_bg.png",
          "human_readable_role_for_display": "Contributor",
          "id": 1821078,
-         "iq": 140525,
+         "iq": 140421,
          "login": "partyfear",
          "name": "partyfear",
          "role_for_display": "contributor",
@@ -3404,9 +3404,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/667428",
-        "header_image_url": "https://images.genius.com/244d1562934d4ce24d22b49e30255fdf.1000x1000x1.jpg",
+        "header_image_url": "https://images.genius.com/f8db04ac6b1d9cff989a39b3a1238bf2.1000x999x1.jpg",
         "id": 667428,
-        "image_url": "https://images.genius.com/32e77d1ac8c21a4cebdc6d85050ca5d1.1000x1000x1.jpg",
+        "image_url": "https://images.genius.com/f8db04ac6b1d9cff989a39b3a1238bf2.1000x999x1.jpg",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Shiva",
@@ -3439,7 +3439,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 355031
+        "pageviews": 355972
        },
        "title": "Street Runner",
        "title_with_featured": "Street Runner",
@@ -3534,11 +3534,11 @@
      "is_verified": true,
      "name": "Ruth B.",
      "url": "https://genius.com/artists/Ruth-b",
-     "iq": 2402
+     "iq": 2404
     }
    ],
    "artist": "Ruth B.",
-   "lyrics": "17 ContributorsMixed Signals Lyrics[Verse 1]\nI don't know what road we're on\nI don't know what we're heading towards\nBut I know my heart is all yours\nAll my friends tell me I'd be better off on my own\nAnd sometimes I believe 'em\nBut I know, I can never leave him\n\n[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\n\n[Verse 2]\nYou tell me to get lost and that you're done\nI see it in your eyes, you wanna run\nBut I know, you know, that I'm the only one\nI can find someone who'd never make me cry\nSomeone who'd never tell me goodbye\nBut I know that I would never survive\nYou might also like[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\n\n[Bridge]\nI don't know why I love you\nI don't know why I stay\nI don't know if its worth the pain\nBut even when you slam the door and drive away\nI still set the table for two\nBabe, you know I'm waiting on you\nTo buy me a bouquet, tell me we're okay\nAnd that you're so so sorry\nAnd I believe you every time\nBut I can't lie, these\n\n[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\nLoving you is my greatest sin\nLoving you is my greatest sin3Embed"
+   "lyrics": "17 ContributorsMixed Signals Lyrics[Verse 1]\nI don't know what road we're on\nI don't know what we're heading towards\nBut I know my heart is all yours\nAll my friends tell me I'd be better off on my own\nAnd sometimes I believe 'em\nBut I know, I can never leave him\n\n[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\n\n[Verse 2]\nYou tell me to get lost and that you're done\nI see it in your eyes, you wanna run\nBut I know, you know, that I'm the only one\nI can find someone who'd never make me cry\nSomeone who'd never tell me goodbye\nBut I know that I would never survive\n\n[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\nYou might also like[Bridge]\nI don't know why I love you\nI don't know why I stay\nI don't know if its worth the pain\nBut even when you slam the door and drive away\nI still set the table for two\nBabe, you know I'm waiting on you\nTo buy me a bouquet, tell me we're okay\nAnd that you're so so sorry\nAnd I believe you every time\nBut I can't lie, these\n\n[Chorus]\nMixed signals, mixed signals\nThey're killing me\nI don't know what you want\nBut I know what I need\n\n[Post-Chorus]\nThe 'goodbyes', the 'hellos', the 'I need you' 'no I don't'\nEvery time I start to close the door\nYou knock and I let you in\nLoving you is my greatest sin\nLoving you is my greatest sin\nLoving you is my greatest sin3Embed"
   }
  ]
 }

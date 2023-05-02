@@ -148,7 +148,7 @@
        "header_image_url": "https://images.genius.com/e8a303ab79861711fb6aa79f1e231f90.960x617x1.jpg",
        "human_readable_role_for_display": "Moderator",
        "id": 458792,
-       "iq": 421698,
+       "iq": 421984,
        "login": "Skhills",
        "name": "Skhills",
        "role_for_display": "moderator",
@@ -202,7 +202,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/b56083cf231cfc2b957c304f4ac5ef30",
        "human_readable_role_for_display": "Contributor",
        "id": 17,
-       "iq": 127060,
+       "iq": 127134,
        "login": "DLizzle",
        "name": "DLizzle",
        "role_for_display": "contributor",
@@ -310,7 +310,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
        "human_readable_role_for_display": "Staff",
        "id": 54639,
-       "iq": 2709665,
+       "iq": 2716294,
        "login": "WriteNProppa",
        "name": "WriteNProppa",
        "role_for_display": "staff",
@@ -333,28 +333,28 @@
        "api_path": "/users/3499648",
        "avatar": {
         "tiny": {
-         "url": "https://images.genius.com/avatars/tiny/8f90836aa8f074aed33d47df84796d76",
+         "url": "https://images.genius.com/avatars/tiny/7828d21b44b2c469045de00ddbbfb327",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://images.genius.com/avatars/thumb/8f90836aa8f074aed33d47df84796d76",
+         "url": "https://images.genius.com/avatars/thumb/7828d21b44b2c469045de00ddbbfb327",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://images.genius.com/avatars/small/8f90836aa8f074aed33d47df84796d76",
+         "url": "https://images.genius.com/avatars/small/7828d21b44b2c469045de00ddbbfb327",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://images.genius.com/avatars/medium/8f90836aa8f074aed33d47df84796d76",
+         "url": "https://images.genius.com/avatars/medium/7828d21b44b2c469045de00ddbbfb327",
          "bounding_box": {
           "width": 300,
           "height": 400
@@ -364,7 +364,7 @@
        "header_image_url": "https://images.genius.com/5409e988fe3af98ed4c12f0c8d8b5375.1000x750x1.jpg",
        "human_readable_role_for_display": "Editor",
        "id": 3499648,
-       "iq": 1406233,
+       "iq": 1411365,
        "login": "AlexanderJamesM",
        "name": "AlexanderJamesM",
        "role_for_display": "editor",
@@ -420,7 +420,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 833100
+    "pageviews": 833225
    },
    "title": "Headband",
    "title_with_featured": "Headband (Ft.\u00a02\u00a0Chainz)",
@@ -585,7 +585,7 @@
        "api_path": "/artists/198492",
        "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
        "id": 198492,
-       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "image_url": "https://images.genius.com/dddf2653f0094ec440ed585c9e4e2920.320x320x1.jpg",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Chris Gehringer",
@@ -639,9 +639,9 @@
      "artists": [
       {
        "api_path": "/artists/674989",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 674989,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Kory Aaron",
@@ -654,9 +654,9 @@
      "artists": [
       {
        "api_path": "/artists/823335",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 823335,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "AJ Clark",
@@ -664,9 +664,9 @@
       },
       {
        "api_path": "/artists/658380",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 658380,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Adam Catania",
@@ -699,9 +699,9 @@
       },
       {
        "api_path": "/artists/989726",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 989726,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Rebel Rock Entertainment",
@@ -823,7 +823,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/d0a370d019ba39d10ea6d64aabc63530",
          "human_readable_role_for_display": "Contributor",
          "id": 234873,
-         "iq": 21490,
+         "iq": 21491,
          "login": "HolyPecanHen",
          "name": "HolyPecanHen",
          "role_for_display": "contributor",
@@ -931,7 +931,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/YtWCJ4pUQoac8C6rVXHc.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 127329,
-         "iq": 10795,
+         "iq": 10800,
          "login": "KJones77",
          "name": "KJones77",
          "role_for_display": "contributor",
@@ -1039,7 +1039,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/887a9b583c2cc582acd4510eddd912ad",
          "human_readable_role_for_display": "Contributor",
          "id": 1512078,
-         "iq": 18237,
+         "iq": 18242,
          "login": "NewWorldStarz",
          "name": "Shooter Starz",
          "role_for_display": "contributor",
@@ -1136,9 +1136,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/1248159",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 1248159,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "DJ Wojtu$",
@@ -1183,7 +1183,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 12675
+        "pageviews": 12678
        },
        "title": "X-Man (Freeverse #2)",
        "title_with_featured": "X-Man (Freeverse #2)",
@@ -1421,9 +1421,9 @@
     },
     {
      "api_path": "/artists/2609309",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 2609309,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "Stanley Cox",
@@ -1475,7 +1475,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 590474
+    "pageviews": 591434
    },
    "title": "Airplanes",
    "title_with_featured": "Airplanes (Ft.\u00a0Hayley\u00a0Williams)",
@@ -1628,9 +1628,9 @@
      "artists": [
       {
        "api_path": "/artists/642022",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 642022,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Christian Plata",
@@ -1655,7 +1655,7 @@
        "api_path": "/artists/198492",
        "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
        "id": 198492,
-       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "image_url": "https://images.genius.com/dddf2653f0094ec440ed585c9e4e2920.320x320x1.jpg",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Chris Gehringer",
@@ -1683,9 +1683,9 @@
      "artists": [
       {
        "api_path": "/artists/2282253",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2282253,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Paul Ian Bailey",
@@ -1759,9 +1759,9 @@
      "artists": [
       {
        "api_path": "/artists/670740",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 670740,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Johnny Browz",
@@ -1769,9 +1769,9 @@
       },
       {
        "api_path": "/artists/668685",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 668685,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Joshua Lopez",
@@ -1893,7 +1893,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/b56083cf231cfc2b957c304f4ac5ef30",
          "human_readable_role_for_display": "Contributor",
          "id": 17,
-         "iq": 127060,
+         "iq": 127134,
          "login": "DLizzle",
          "name": "DLizzle",
          "role_for_display": "contributor",
@@ -1947,7 +1947,7 @@
          "header_image_url": "https://images.genius.com/c225a16891464a0eb5f6cbc4575607e8.550x458x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 3857024,
-         "iq": 40341,
+         "iq": 40348,
          "login": "igotmoneyinthebank",
          "name": "Igotmoneyinthebank",
          "role_for_display": "editor",
@@ -2099,7 +2099,7 @@
         "is_verified": true,
         "name": "Rojuu",
         "url": "https://genius.com/artists/Rojuu",
-        "iq": 9962
+        "iq": 9964
        }
       },
       {
@@ -2263,7 +2263,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 12809
+        "pageviews": 12812
        },
        "title": "Airplanes (Freestyle)",
        "title_with_featured": "Airplanes (Freestyle)",
@@ -2278,7 +2278,7 @@
         "is_verified": true,
         "name": "Royce da 5'9\"",
         "url": "https://genius.com/artists/Royce-da-59",
-        "iq": 16284
+        "iq": 16286
        }
       },
       {
@@ -2364,7 +2364,7 @@
         "is_verified": true,
         "name": "Lil Soda Boi",
         "url": "https://genius.com/artists/Lil-soda-boi",
-        "iq": 5878
+        "iq": 5933
        }
       },
       {
@@ -2400,9 +2400,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2288212",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2288212,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Cubbie & headless_DATA",
@@ -2526,9 +2526,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2523195",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2523195,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "YamiNoBahamut",
@@ -2653,9 +2653,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2715042",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2715042,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Jay Drew (USA)",
@@ -2731,7 +2731,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 39518
+        "pageviews": 39562
        },
        "title": "Luis Fonsi & Daddy Yankee - Despacito Remix ft. Justin Bieber (SING OFF vs. Pixie Lott)",
        "title_with_featured": "Luis Fonsi & Daddy Yankee - Despacito Remix ft. Justin Bieber (SING OFF vs. Pixie Lott) (Ft.\u00a0Pixie\u00a0Lott)",
@@ -2786,7 +2786,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 226970
+        "pageviews": 227018
        },
        "title": "Dusk Till Dawn (Sing Off)",
        "title_with_featured": "Dusk Till Dawn (Sing Off) (Ft.\u00a0Madison\u00a0Beer)",
@@ -2801,7 +2801,7 @@
          "is_verified": true,
          "name": "Madison Beer",
          "url": "https://genius.com/artists/Madison-beer",
-         "iq": 1682
+         "iq": 1690
         }
        ],
        "primary_artist": {
@@ -2821,8 +2821,8 @@
        "api_path": "/songs/2901811",
        "artist_names": "Trap House Rave",
        "full_title": "Story of a Bitch by\u00a0Trap\u00a0House Rave",
-       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "id": 2901811,
        "language": "en",
        "lyrics_owner_id": 830988,
@@ -2837,8 +2837,8 @@
        },
        "release_date_for_display": "August 31, 2011",
        "release_date_with_abbreviated_month_for_display": "Aug. 31, 2011",
-       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
-       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682970440",
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false
@@ -2849,9 +2849,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1027600",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1027600,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Trap House Rave",
@@ -2911,7 +2911,7 @@
     {
      "relationship_type": "interpolated_by",
      "type": "interpolated_by",
-     "url": null,
+     "url": "https://genius.com/Bob-airplanes-sample/interpolations",
      "songs": [
       {
        "annotation_count": 6,
@@ -2953,7 +2953,7 @@
         "is_verified": false,
         "name": "\u200bnigel na\u00efve",
         "url": "https://genius.com/artists/Nigel-naive",
-        "iq": 51730
+        "iq": 51740
        }
       },
       {
@@ -2982,7 +2982,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 25849
+        "pageviews": 25882
        },
        "title": "Story of a Snitch",
        "title_with_featured": "Story of a Snitch",
@@ -3025,7 +3025,7 @@
        "stats": {
         "unreviewed_annotations": 8,
         "hot": false,
-        "pageviews": 325679
+        "pageviews": 326010
        },
        "title": "Out of My Mind",
        "title_with_featured": "Out of My Mind (Ft.\u00a0Nicki\u00a0Minaj)",
@@ -3040,7 +3040,7 @@
          "is_verified": true,
          "name": "Nicki Minaj",
          "url": "https://genius.com/artists/Nicki-minaj",
-         "iq": 3742
+         "iq": 3746
         }
        ],
        "primary_artist": {
@@ -3309,7 +3309,7 @@
         "is_verified": false,
         "name": "Monolyth & Beanpole Records",
         "url": "https://genius.com/artists/Monolyth-and-beanpole-records",
-        "iq": 20928
+        "iq": 20929
        }
       },
       {
@@ -3519,7 +3519,7 @@
        "stats": {
         "unreviewed_annotations": 108,
         "hot": false,
-        "pageviews": 7556
+        "pageviews": 7581
        },
        "title": "Decade of Pop: The 2010s (100 Song Mashup)",
        "title_with_featured": "Decade of Pop: The 2010s (100 Song Mashup)",
@@ -3737,9 +3737,9 @@
        "featured_artists": [
         {
          "api_path": "/artists/2615200",
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "id": 2615200,
-         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "is_meme_verified": false,
          "is_verified": false,
          "name": "Big Barry Brown",
@@ -3755,7 +3755,7 @@
         "is_verified": false,
         "name": "Chazer Wazer",
         "url": "https://genius.com/artists/Chazer-wazer",
-        "iq": 8099
+        "iq": 8100
        }
       },
       {
@@ -3784,7 +3784,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 11803
+        "pageviews": 11807
        },
        "title": "Airplanes",
        "title_with_featured": "Airplanes (Ft.\u00a0Hayley\u00a0Williams)",
@@ -3894,7 +3894,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 415313
+        "pageviews": 415613
        },
        "title": "Airplanes, Pt. 2",
        "title_with_featured": "Airplanes, Pt. 2 (Ft.\u00a0Eminem & Hayley\u00a0Williams)",
@@ -3909,7 +3909,7 @@
          "is_verified": true,
          "name": "Eminem",
          "url": "https://genius.com/artists/Eminem",
-         "iq": 257995
+         "iq": 258181
         },
         {
          "api_path": "/artists/298",
@@ -4106,7 +4106,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 415313
+    "pageviews": 415613
    },
    "title": "Airplanes, Pt. 2",
    "title_with_featured": "Airplanes, Pt. 2 (Ft.\u00a0Eminem & Hayley\u00a0Williams)",
@@ -4121,7 +4121,7 @@
      "is_verified": true,
      "name": "Eminem",
      "url": "https://genius.com/artists/Eminem",
-     "iq": 257995
+     "iq": 258181
     },
     {
      "api_path": "/artists/298",
@@ -4302,7 +4302,7 @@
        "is_verified": true,
        "name": "Eminem",
        "url": "https://genius.com/artists/Eminem",
-       "iq": 257995
+       "iq": 258181
       }
      ]
     },
@@ -4313,7 +4313,7 @@
        "api_path": "/artists/198492",
        "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
        "id": 198492,
-       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "image_url": "https://images.genius.com/dddf2653f0094ec440ed585c9e4e2920.320x320x1.jpg",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Chris Gehringer",
@@ -4388,7 +4388,7 @@
        "is_verified": true,
        "name": "Eminem",
        "url": "https://genius.com/artists/Eminem",
-       "iq": 257995
+       "iq": 258181
       }
      ]
     },
@@ -4397,9 +4397,9 @@
      "artists": [
       {
        "api_path": "/artists/670740",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 670740,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Johnny Browz",
@@ -4521,7 +4521,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/b56083cf231cfc2b957c304f4ac5ef30",
          "human_readable_role_for_display": "Contributor",
          "id": 17,
-         "iq": 127060,
+         "iq": 127134,
          "login": "DLizzle",
          "name": "DLizzle",
          "role_for_display": "contributor",
@@ -4575,7 +4575,7 @@
          "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288252_642_rap%20meme.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 642,
-         "iq": 5036,
+         "iq": 5037,
          "login": "KRuudster",
          "name": "KRuudster",
          "role_for_display": "contributor",
@@ -4668,9 +4668,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/2715042",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 2715042,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Jay Drew (USA)",
@@ -4777,7 +4777,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 590474
+        "pageviews": 591434
        },
        "title": "Airplanes",
        "title_with_featured": "Airplanes (Ft.\u00a0Hayley\u00a0Williams)",
@@ -4839,7 +4839,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 6179
+        "pageviews": 6181
        },
        "title": "2pac & Eminem - Airplanes ft. B.O.B, Hayley Williams (Remix)",
        "title_with_featured": "2pac & Eminem - Airplanes ft. B.O.B, Hayley Williams (Remix)",
@@ -5023,7 +5023,7 @@
      "is_verified": true,
      "name": "Eminem",
      "url": "https://genius.com/artists/Eminem",
-     "iq": 257995
+     "iq": 258181
     },
     {
      "api_path": "/artists/2348681",

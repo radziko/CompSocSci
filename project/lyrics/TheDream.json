@@ -40,7 +40,7 @@
    "following": false
   }
  },
- "iq": 13173,
+ "iq": 13183,
  "description_annotation": {
   "_type": "referent",
   "annotator_id": 116,
@@ -150,7 +150,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/73c9ellj2f7",
        "human_readable_role_for_display": "Contributor",
        "id": 993805,
-       "iq": 82577,
+       "iq": 82614,
        "login": "StayInTheHouse",
        "name": "StayInTheHouse",
        "role_for_display": "contributor",
@@ -208,7 +208,7 @@
   "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
   "human_readable_role_for_display": "Verified Artist",
   "id": 27144,
-  "iq": 13173,
+  "iq": 13183,
   "login": "the_dream",
   "name": "The-Dream",
   "role_for_display": "verified_artist",
@@ -255,7 +255,7 @@
     "unreviewed_annotations": 3,
     "verified_annotations": 9,
     "hot": false,
-    "pageviews": 122985
+    "pageviews": 123082
    },
    "title": "Shawty Is Da Shit",
    "title_with_featured": "Shawty Is Da Shit (Ft.\u00a0Fabolous)",
@@ -282,7 +282,7 @@
     "is_verified": true,
     "name": "The-Dream",
     "url": "https://genius.com/artists/The-dream",
-    "iq": 13173
+    "iq": 13183
    },
    "apple_music_id": "1440742910",
    "apple_music_player_url": "https://genius.com/songs/5629/apple_music_player",
@@ -386,7 +386,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     }
    },
    "custom_performances": [
@@ -395,9 +395,9 @@
      "artists": [
       {
        "api_path": "/artists/1673798",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1673798,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Selina Murrell",
@@ -410,9 +410,9 @@
      "artists": [
       {
        "api_path": "/artists/1237063",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1237063,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Radio Killa Records",
@@ -442,7 +442,7 @@
        "is_verified": true,
        "name": "The-Dream",
        "url": "https://genius.com/artists/The-dream",
-       "iq": 13173
+       "iq": 13183
       }
      ]
     },
@@ -451,9 +451,9 @@
      "artists": [
       {
        "api_path": "/artists/1031633",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1031633,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Christy Hall",
@@ -476,9 +476,9 @@
       },
       {
        "api_path": "/artists/672878",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 672878,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Scott Naughton",
@@ -689,7 +689,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     }
    ],
    "song_relationships": [
@@ -742,7 +742,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 380784
+        "pageviews": 380932
        },
        "title": "In Too Deep",
        "title_with_featured": "In Too Deep",
@@ -757,7 +757,7 @@
         "is_verified": true,
         "name": "Eminem",
         "url": "https://genius.com/artists/Eminem",
-        "iq": 257995
+        "iq": 258181
        }
       },
       {
@@ -786,7 +786,7 @@
        "stats": {
         "unreviewed_annotations": 8,
         "hot": false,
-        "pageviews": 266688
+        "pageviews": 266761
        },
        "title": "July",
        "title_with_featured": "July (Ft.\u00a0Drake)",
@@ -812,7 +812,7 @@
         "is_verified": true,
         "name": "Jhen\u00e9 Aiko",
         "url": "https://genius.com/artists/Jhene-aiko",
-        "iq": 11376
+        "iq": 11380
        }
       },
       {
@@ -841,7 +841,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 10387
+        "pageviews": 10399
        },
        "title": "Soulja Girl",
        "title_with_featured": "Soulja Girl (Ft.\u00a0I-15)",
@@ -896,7 +896,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 124066
+        "pageviews": 124192
        },
        "title": "No Hook",
        "title_with_featured": "No Hook",
@@ -979,7 +979,7 @@
          "is_verified": true,
          "name": "R. Kelly",
          "url": "https://genius.com/artists/R-kelly",
-         "iq": 1943
+         "iq": 1945
         }
        ],
        "primary_artist": {
@@ -991,7 +991,7 @@
         "is_verified": true,
         "name": "The-Dream",
         "url": "https://genius.com/artists/The-dream",
-        "iq": 13173
+        "iq": 13183
        }
       }
      ]
@@ -1058,7 +1058,7 @@
      "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
      "human_readable_role_for_display": "Verified Artist",
      "id": 27144,
-     "iq": 13173,
+     "iq": 13183,
      "login": "the_dream",
      "name": "The-Dream",
      "role_for_display": "verified_artist",
@@ -1089,7 +1089,7 @@
       "is_verified": true,
       "name": "The-Dream",
       "url": "https://genius.com/artists/The-dream",
-      "iq": 13173
+      "iq": 13183
      },
      "user": {
       "api_path": "/users/27144",
@@ -1126,7 +1126,7 @@
       "header_image_url": "https://images.genius.com/b9700cfad845412f16e9bca4c51e0811.480x782x1.png",
       "human_readable_role_for_display": "Verified Artist",
       "id": 27144,
-      "iq": 13173,
+      "iq": 13183,
       "login": "the_dream",
       "name": "The-Dream",
       "role_for_display": "verified_artist",
@@ -1154,7 +1154,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     },
     {
      "api_path": "/artists/3",
@@ -1169,7 +1169,7 @@
     }
    ],
    "artist": "The-Dream",
-   "lyrics": "25 ContributorsShawty Is Da Shit Lyrics[Written, produced and composed by Terius \"The-Dream\" Nash]\n\n[Intro: The-Dream]\nShawty rock to the beat for yo boy\nShaw-ty, doooo it\nShawty rock to the beat for yo boy\nRadio killa, killa...\n\n[Fabolous overlaps intro]\nAy, it's Loso in case you ain't know so\nAy, Dream lemme tell you bout shawty..\n(AYE)\n\n[Verse 1: Fabolous]\nShawty is the sh-sh-sh-sh\nSugar honey iced tea\nPrettiest one I see\nLittle mama icy\nThey say she a Pisces\nI heard they are feisty...\nYou know how to treat her, she'll be sweeter than a Hi-C\nClean up very nicely, shoes a kinda pricey\nMatch 'em up precisely, good jeans nice tee...\nLike her food spicy\nAnd she is the same\nHotter than a flame, but I do not know her name...\nIs it Keisha? Is it Tisha?\nMaybe Lisa? Or Teresa?\nCould it be Tia?Maybe Aaliyah?\nI guess I'll find out one day, for now I'mma say\nYou might also like[Verse 2: The-Dream]\nShawty fly (ay), shawty tight (ay)\nShoulda stayed there, all night (ay)\nWith you...\nWith you...\nI missed ya (ay), picked ya (ay)\nNow it's time I (ay), get back up\nWith you...\nGirl, with you...\nOh yeah! We used to kick it up at the park\nNow she's all grown up... (UP, UP, UP)\nRockin them stilettos\nJumpin' up out that Mercedes truck (TRUCK)\nOooh...\n\n[Pre-Hook 1]\nIt was Keisha (ohh-ooh), it was Sonia (ohh-ooh)\nIt was Tanya (ohh-ooh), it was Monique (ohh-ho)\nIt was Niecy (ohh-ooh), it was Keke (ohh-ooh)\nAy, now that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)\n[Verse 3: The-Dream]\nDior jeans, her walk so mean\nBurberry fragrance on my shirt from when she hugged me\nHard as rock when she touched me\nThinkin' now if she would've loved me\nWhat it is, what it ain't, tell me what to do (ay)\nI know I'm late, but destiny bought me back to you (ay)\nTime went by, turned you into a butterfly\nI'm here to say, hello, tell yo nigga, good-bye...\n\n[Pre-Hook 1]\nIt was Keisha (ohh-ooh), it was Sonia (ohh-ooh)\nIt was Tanya (ohh-ooh), it was Monique (ohh-ho)\nIt was Niecy (ohh-ooh), it was Keke (ohh-ooh)\nAy, now that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)\n[Bridge: The-Dream]\nIf she fine, if shawty a dime...\nYou should tip her... you should tip her...\nIf she go, and you love her...\nYou should tip her... you should tip her...\nIf she fix you eggs and grits in the morning...\nMan you should tip her... you should tip her...\nPancakes with the bacon on the side\n(You should tip me, you should tip me)\n\n[Pre-Hook 2]\nShawty rock to the beat for yo' boy... (AYE)\n(Ohh-ooh, ohh-ho)\nYeah, yeah, yeah... rock to the beat for yo boy\nNow that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)9Embed"
+   "lyrics": "25 ContributorsShawty Is Da Shit Lyrics[Written, produced and composed by Terius \"The-Dream\" Nash]\n\n[Intro: The-Dream]\nShawty rock to the beat for yo boy\nShaw-ty, doooo it\nShawty rock to the beat for yo boy\nRadio killa, killa...\n\n[Fabolous overlaps intro]\nAy, it's Loso in case you ain't know so\nAy, Dream lemme tell you bout shawty..\n(AYE)\n[Verse 1: Fabolous]\nShawty is the sh-sh-sh-sh\nSugar honey iced tea\nPrettiest one I see\nLittle mama icy\nThey say she a Pisces\nI heard they are feisty...\nYou know how to treat her, she'll be sweeter than a Hi-C\nClean up very nicely, shoes a kinda pricey\nMatch 'em up precisely, good jeans nice tee...\nLike her food spicy\nAnd she is the same\nHotter than a flame, but I do not know her name...\nIs it Keisha? Is it Tisha?\nMaybe Lisa? Or Teresa?\nCould it be Tia?Maybe Aaliyah?\nI guess I'll find out one day, for now I'mma say\n\n[Verse 2: The-Dream]\nShawty fly (ay), shawty tight (ay)\nShoulda stayed there, all night (ay)\nWith you...\nWith you...\nI missed ya (ay), picked ya (ay)\nNow it's time I (ay), get back up\nWith you...\nGirl, with you...\nOh yeah! We used to kick it up at the park\nNow she's all grown up... (UP, UP, UP)\nRockin them stilettos\nJumpin' up out that Mercedes truck (TRUCK)\nOooh...\nYou might also like[Pre-Hook 1]\nIt was Keisha (ohh-ooh), it was Sonia (ohh-ooh)\nIt was Tanya (ohh-ooh), it was Monique (ohh-ho)\nIt was Niecy (ohh-ooh), it was Keke (ohh-ooh)\nAy, now that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)\n\n[Verse 3: The-Dream]\nDior jeans, her walk so mean\nBurberry fragrance on my shirt from when she hugged me\nHard as rock when she touched me\nThinkin' now if she would've loved me\nWhat it is, what it ain't, tell me what to do (ay)\nI know I'm late, but destiny bought me back to you (ay)\nTime went by, turned you into a butterfly\nI'm here to say, hello, tell yo nigga, good-bye...\n[Pre-Hook 1]\nIt was Keisha (ohh-ooh), it was Sonia (ohh-ooh)\nIt was Tanya (ohh-ooh), it was Monique (ohh-ho)\nIt was Niecy (ohh-ooh), it was Keke (ohh-ooh)\nAy, now that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)\n\n[Bridge: The-Dream]\nIf she fine, if shawty a dime...\nYou should tip her... you should tip her...\nIf she go, and you love her...\nYou should tip her... you should tip her...\nIf she fix you eggs and grits in the morning...\nMan you should tip her... you should tip her...\nPancakes with the bacon on the side\n(You should tip me, you should tip me)\n\n[Pre-Hook 2]\nShawty rock to the beat for yo' boy... (AYE)\n(Ohh-ooh, ohh-ho)\nYeah, yeah, yeah... rock to the beat for yo boy\nNow that I see you at twenty-three, all I can say is...\n\n[Hook]\nOooh... Oooh...\nMan, I don't need no hook for this shit...\nOooh... Oooh...\n'Cause shawty right there is the shit!\nThe shit! shawty is the shit!\nThe shit! yeah, shawty is the shit!\nTthe shit! shawty you the shit!\nYou the shit!, oh yeah... (oh yeah...)9Embed"
   },
   {
    "annotation_count": 2,
@@ -1202,7 +1202,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 89313
+    "pageviews": 89323
    },
    "title": "Code Blue",
    "title_with_featured": "Code Blue",
@@ -1217,7 +1217,7 @@
     "is_verified": true,
     "name": "The-Dream",
     "url": "https://genius.com/artists/The-dream",
-    "iq": 13173
+    "iq": 13183
    },
    "apple_music_id": "1193844079",
    "apple_music_player_url": "https://genius.com/songs/2954207/apple_music_player",
@@ -1437,7 +1437,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/r2vzrqgbryg",
          "human_readable_role_for_display": "Editor",
          "id": 5844559,
-         "iq": 50296,
+         "iq": 50410,
          "login": "KXC",
          "name": "KXC",
          "role_for_display": "editor",
@@ -1570,11 +1570,11 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     }
    ],
    "artist": "The-Dream",
-   "lyrics": "14 ContributorsCode Blue Lyrics[Verse 1]\nThe closer I get to you\nThe more I feel like crying\nThe further I get from you\nThe more I feel like dying\n\n[Pre-Chorus]\nYou said you'll be\nRight here forever baby\nI know someday\nThere's no forever baby\nI'm just looking for a little favour\nAnd you're just trying to save a little time\nBaby let me give you a piece of mine\n\n[Chorus]\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\n\n[Verse 2]\nTake whatever's left, baby\nIf you go without your heart you will never know\nYou, me\nAs we walk into those doors\nIn the shadows of the unknown\nYou might also like[Pre-Chorus 2]\nI think of you daily\nLoving every day about you\nAnd I hope that you\nYou love everything about me too\nBut don't you leave like that\nDon't leave right here, oh no\nStay with me just a couple minutes more\n\n[Chorus]\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\n\nThat's what I get for loving you\n(That's what I get for loving you) code blue\nThat's what I get for loving you\n(All I do, all I do) code blue\nThat's what I give for loving you, code blue\n\n[Outro]\nThat's what I get for love\nThat's what I get for love\nThat's what I get from you2Embed"
+   "lyrics": "14 ContributorsCode Blue Lyrics[Verse 1]\nThe closer I get to you\nThe more I feel like crying\nThe further I get from you\nThe more I feel like dying\n\n[Pre-Chorus]\nYou said you'll be\nRight here forever baby\nI know someday\nThere's no forever baby\nI'm just looking for a little favour\nAnd you're just trying to save a little time\nBaby let me give you a piece of mine\n[Chorus]\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\n\n[Verse 2]\nTake whatever's left, baby\nIf you go without your heart you will never know\nYou, me\nAs we walk into those doors\nIn the shadows of the unknown\n\n[Pre-Chorus 2]\nI think of you daily\nLoving every day about you\nAnd I hope that you\nYou love everything about me too\nBut don't you leave like that\nDon't leave right here, oh no\nStay with me just a couple minutes more\n\n[Chorus]\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nThat's what I get for loving you, code blue\nYou might also likeThat's what I get for loving you\n(That's what I get for loving you) code blue\nThat's what I get for loving you\n(All I do, all I do) code blue\nThat's what I give for loving you, code blue\n\n[Outro]\nThat's what I get for love\nThat's what I get for love\nThat's what I get from you2Embed"
   },
   {
    "annotation_count": 3,
@@ -1607,7 +1607,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 70140
+    "pageviews": 70347
    },
    "title": "I Luv Your Girl",
    "title_with_featured": "I Luv Your Girl",
@@ -1622,7 +1622,7 @@
     "is_verified": true,
     "name": "The-Dream",
     "url": "https://genius.com/artists/The-dream",
-    "iq": 13173
+    "iq": 13183
    },
    "apple_music_id": "269651148",
    "apple_music_player_url": "https://genius.com/songs/80583/apple_music_player",
@@ -1726,7 +1726,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     }
    },
    "custom_performances": [
@@ -1742,7 +1742,7 @@
        "is_verified": true,
        "name": "The-Dream",
        "url": "https://genius.com/artists/The-dream",
-       "iq": 13173
+       "iq": 13183
       }
      ]
     },
@@ -1751,9 +1751,9 @@
      "artists": [
       {
        "api_path": "/artists/1031633",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1031633,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Christy Hall",
@@ -1821,9 +1821,9 @@
      "artists": [
       {
        "api_path": "/artists/1090209",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1090209,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Justin Pinter",
@@ -1831,9 +1831,9 @@
       },
       {
        "api_path": "/artists/649192",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 649192,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Andrew Wuepper",
@@ -1876,8 +1876,8 @@
     "annotatable": {
      "api_path": "/songs/80583",
      "client_timestamps": {
-      "updated_by_human_at": 1668992474,
-      "lyrics_updated_at": 1668992474
+      "updated_by_human_at": 1682921067,
+      "lyrics_updated_at": 1682921067
      },
      "context": "The-Dream",
      "id": 80583,
@@ -1970,7 +1970,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/m1rywo2r738",
          "human_readable_role_for_display": "Editor",
          "id": 7461491,
-         "iq": 220937,
+         "iq": 221379,
          "login": "FairExchange",
          "name": "FairExchange",
          "role_for_display": "editor",
@@ -2019,7 +2019,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     },
     {
      "api_path": "/artists/27603",
@@ -2291,7 +2291,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 34408
+        "pageviews": 34416
        },
        "title": "Insecure",
        "title_with_featured": "Insecure",
@@ -2335,7 +2335,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 63116
+        "pageviews": 63142
        },
        "title": "Luv Ya Gyal // Love Sounds",
        "title_with_featured": "Luv Ya Gyal // Love Sounds (Ft.\u00a0The-Dream)",
@@ -2350,7 +2350,7 @@
          "is_verified": true,
          "name": "The-Dream",
          "url": "https://genius.com/artists/The-dream",
-         "iq": 13173
+         "iq": 13183
         }
        ],
        "primary_artist": {
@@ -2362,7 +2362,7 @@
         "is_verified": true,
         "name": "Tory Lanez",
         "url": "https://genius.com/artists/Tory-lanez",
-        "iq": 9893
+        "iq": 9903
        }
       },
       {
@@ -2391,7 +2391,7 @@
        "stats": {
         "unreviewed_annotations": 14,
         "hot": false,
-        "pageviews": 43484
+        "pageviews": 43491
        },
        "title": "Been Wavey",
        "title_with_featured": "Been Wavey",
@@ -2435,7 +2435,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 136075
+        "pageviews": 136396
        },
        "title": "Blame It",
        "title_with_featured": "Blame It (Ft.\u00a0T-Pain & T-Pain)",
@@ -2558,7 +2558,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 7118
+        "pageviews": 7122
        },
        "title": "End of Story",
        "title_with_featured": "End of Story",
@@ -2602,7 +2602,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 136075
+        "pageviews": 136396
        },
        "title": "Blame It",
        "title_with_featured": "Blame It (Ft.\u00a0T-Pain & T-Pain)",
@@ -2668,7 +2668,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 10336
+        "pageviews": 10339
        },
        "title": "How to Rob \u201909",
        "title_with_featured": "How to Rob '09 (Ft.\u00a0Ab-Soul)",
@@ -2695,7 +2695,7 @@
         "is_verified": true,
         "name": "Jay Rock",
         "url": "https://genius.com/artists/Jay-rock",
-        "iq": 14100
+        "iq": 14102
        }
       }
      ]
@@ -2775,7 +2775,7 @@
         "is_verified": true,
         "name": "The-Dream",
         "url": "https://genius.com/artists/The-dream",
-        "iq": 13173
+        "iq": 13183
        }
       },
       {
@@ -2804,7 +2804,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6832
+        "pageviews": 6855
        },
        "title": "I Fucked Your Girl",
        "title_with_featured": "I Fucked Your Girl (Ft.\u00a050\u00a0Cent, Lloyd\u00a0Banks, Tony\u00a0Yayo & Young\u00a0Buck)",
@@ -2889,7 +2889,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 20604
+        "pageviews": 20642
        },
        "title": "I Luv Your Girl (Remix)",
        "title_with_featured": "I Luv Your Girl (Remix) (Ft.\u00a0Jeezy)",
@@ -2916,7 +2916,7 @@
         "is_verified": true,
         "name": "The-Dream",
         "url": "https://genius.com/artists/The-dream",
-        "iq": 13173
+        "iq": 13183
        }
       }
      ]
@@ -2960,7 +2960,7 @@
      "is_verified": true,
      "name": "The-Dream",
      "url": "https://genius.com/artists/The-dream",
-     "iq": 13173
+     "iq": 13183
     },
     {
      "api_path": "/artists/27603",
@@ -2975,7 +2975,7 @@
     }
    ],
    "artist": "The-Dream",
-   "lyrics": "17 ContributorsI Luv Your Girl Lyrics[Intro]\nMmm mmm\nThe American Dream, mmm mmm\nAnd you know what I mean ahh, baam baam\nRadio Killa (Ahh)\nTrick beat the track up like gorillas (Ahh)\nI, I, I, I (Yeah)\n\n[Verse 1]\nWe up in the club (Club), I see her do her thang (Thang)\nYou might wanna rap, but she'll make you sing (Sing)\nSee I was on her, but she was on him\nShe all up on ma thang, I got my thang on her hip\nShe ATL pop, don't know how to act\nShe left for one song, and came right back\nGrindin on me, the rest of the night\nHer man started muggin', he could see it in my eyes\n\n[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shawty roll (I love your girl)\nMan, look at shawty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\nYou might also like[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Verse 2]\nMe and lil' shawty in the back\nTalkin' bout this, talkin' bout that\nGot her on the 'Tron, she actin' all bad\nYour girl chose me, don't be mad\nKelly told y'all don't bring 'em in the club\nThe way she rock that, got the boy in love\nAnd I pray that y'all ain't serious\nCause seriously she's on my dick\n\n[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shorty roll (I love your girl)\nMan, look at shorty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\n[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Bridge]\nAyy, oh I (Ayy)\nOh I\nAyy, oh I\nThe American Dream (Ayy)\n\n[Verse 3]\nUsually, you won't\nSee me hate on another dude\nMy heart got me up in here willing to\nSeparate you from ya boo\nBut she on me, and I'm on her\nWe walking out the club, shawty what's up\nMmm I want her in the worst way, plus I\nJust found out that it's her birthday\n[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shorty roll (I love your girl)\nMan, look at shorty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\n\n[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Outro]\nPart of me feels so bad, but, ooh\nNot that bad\nSituation got you mad, I would be\nToo, cause damn she bad, damn she\nBad, bad\nBad, bad\nDamn she bad, bad\nBad, bad20Embed"
+   "lyrics": "17 ContributorsI Luv Your Girl Lyrics[Intro]\nMmm mmm\nThe American Dream, mmm mmm\nAnd you know what I mean ahh, baam baam\nRadio Killa (Ahh)\nTrick beat the track up like gorillas (Ahh)\nI, I, I, I (Yeah)\n\n[Verse 1]\nWe up in the club (Club), I see her do her thang (Thang)\nYou might wanna rap, but she'll make you sing (Sing)\nSee I was on her, but she was on him\nShe all up on ma thang, I got my thang on her hip\nShe ATL pop, don't know how to act\nShe left for one song, and came right back\nGrindin on me, the rest of the night\nHer man started muggin', he could see it in my eyes\n[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shawty roll (I love your girl)\nMan, look at shawty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\n\n[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Verse 2]\nMe and lil' shawty in the back\nTalkin' bout this, talkin' bout that\nGot her on the 'Tron, she actin' all bad\nYour girl chose me, don't be mad\nKelly told y'all don't bring 'em in the club\nThe way she rock that, got the boy in love\nAnd I pray that y'all ain't serious\nCause seriously she's on my dick\nYou might also like[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shorty roll (I love your girl)\nMan, look at shorty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\n\n[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Bridge]\nAyy, oh I (Ayy)\nOh I\nAyy, oh I\nThe American Dream (Ayy)\n[Verse 3]\nUsually, you won't\nSee me hate on another dude\nMy heart got me up in here willing to\nSeparate you from ya boo\nBut she on me, and I'm on her\nWe walking out the club, shawty what's up\nMmm I want her in the worst way, plus I\nJust found out that it's her birthday\n\n[Chorus]\nLil' mama so hood (I love your girl)\nLil' mama stay fly (I love your girl)\nWife beater with the denim (I love your girl)\nShe keeps them heels on high (I love your girl)\nMan look at shorty roll (I love your girl)\nMan, look at shorty go (I love your girl)\nI'm sorry I got it in for your girl, girlfriend\n\n[Post-Chorus]\nNow she run her fingers through her hair\nHe tryna call her over there\nBut she like, \"Fuck that nigga\"\nShe drop it down to the floor\nI'm like shorty you should go\nBut she like, \"Fuck that nigga\"\nCall it envy, I want her on me\nAll up in my head, now she in my bed\nI, I, I, I\n\n[Outro]\nPart of me feels so bad, but, ooh\nNot that bad\nSituation got you mad, I would be\nToo, cause damn she bad, damn she\nBad, bad\nBad, bad\nDamn she bad, bad\nBad, bad20Embed"
   }
  ]
 }

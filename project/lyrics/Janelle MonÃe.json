@@ -40,7 +40,7 @@
    "following": false
   }
  },
- "iq": 2251,
+ "iq": 2253,
  "description_annotation": {
   "_type": "referent",
   "annotator_id": 1948252,
@@ -150,7 +150,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/faf59dceed9ae3d6c29cd8462980bc14",
        "human_readable_role_for_display": "Editor",
        "id": 1948252,
-       "iq": 8839,
+       "iq": 8847,
        "login": "MichaelBrian",
        "name": "MichaelBrian",
        "role_for_display": "editor",
@@ -208,7 +208,7 @@
   "header_image_url": "https://images.genius.com/f781a30745fb7850afa5c5034694e5e8.1000x666x1.jpg",
   "human_readable_role_for_display": "Verified Artist",
   "id": 6255377,
-  "iq": 2251,
+  "iq": 2253,
   "login": "JanelleMonae",
   "name": "Janelle Mon\u00e1e",
   "role_for_display": "verified_artist",
@@ -255,7 +255,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 331036
+    "pageviews": 331187
    },
    "title": "Q.U.E.E.N.",
    "title_with_featured": "Q.U.E.E.N. (Ft.\u00a0Erykah\u00a0Badu)",
@@ -281,7 +281,7 @@
     "is_verified": true,
     "name": "Janelle Mon\u00e1e",
     "url": "https://genius.com/artists/Janelle-monae",
-    "iq": 2251
+    "iq": 2253
    },
    "apple_music_id": "665514254",
    "apple_music_player_url": "https://genius.com/songs/143598/apple_music_player",
@@ -385,7 +385,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     }
    },
    "custom_performances": [
@@ -419,9 +419,9 @@
      "artists": [
       {
        "api_path": "/artists/1124149",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1124149,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Patchwerk Recordings",
@@ -434,9 +434,9 @@
      "artists": [
       {
        "api_path": "/artists/1623754",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1623754,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Jane Lle Publishing",
@@ -444,9 +444,9 @@
       },
       {
        "api_path": "/artists/1623756",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1623756,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Tang Nivri Publishing",
@@ -454,9 +454,9 @@
       },
       {
        "api_path": "/artists/1623757",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1623757,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Ink Is An Instrument Publishing",
@@ -464,9 +464,9 @@
       },
       {
        "api_path": "/artists/2498217",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2498217,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Daddy Kellis Publishing",
@@ -474,9 +474,9 @@
       },
       {
        "api_path": "/artists/2498236",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2498236,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Apodictic Arts Music",
@@ -624,9 +624,9 @@
      "artists": [
       {
        "api_path": "/artists/658657",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 658657,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Grace Shim",
@@ -649,9 +649,9 @@
       },
       {
        "api_path": "/artists/1105818",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1105818,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Terrence Brown",
@@ -704,9 +704,9 @@
      "artists": [
       {
        "api_path": "/artists/17915",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 17915,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Lance Powlis",
@@ -719,9 +719,9 @@
      "artists": [
       {
        "api_path": "/artists/1117753",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1117753,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Alexander Page",
@@ -734,9 +734,9 @@
      "artists": [
       {
        "api_path": "/artists/1003572",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1003572,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "The Wondaland ArchOrchestra",
@@ -769,9 +769,9 @@
       },
       {
        "api_path": "/artists/17915",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 17915,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Lance Powlis",
@@ -791,7 +791,7 @@
        "is_verified": true,
        "name": "Janelle Mon\u00e1e",
        "url": "https://genius.com/artists/Janelle-monae",
-       "iq": 2251
+       "iq": 2253
       },
       {
        "api_path": "/artists/330698",
@@ -840,9 +840,9 @@
       },
       {
        "api_path": "/artists/1117751",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1117751,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Kenneth Richmond",
@@ -855,9 +855,9 @@
      "artists": [
       {
        "api_path": "/artists/1003570",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1003570,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Larry Anthony",
@@ -1033,7 +1033,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/6299f21c220a3e6c5dbfe0140aa26c3d",
          "human_readable_role_for_display": "Contributor",
          "id": 478016,
-         "iq": 22058,
+         "iq": 22055,
          "login": "QLilyLunaPotter331Q",
          "name": "Jess MaQswell",
          "role_for_display": "contributor",
@@ -1102,7 +1102,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     }
    ],
    "song_relationships": [
@@ -1196,7 +1196,7 @@
         "is_verified": true,
         "name": "Janelle Mon\u00e1e",
         "url": "https://genius.com/artists/Janelle-monae",
-        "iq": 2251
+        "iq": 2253
        }
       }
      ]
@@ -1276,11 +1276,11 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     }
    ],
    "artist": "Janelle Mon\u00e1e",
-   "lyrics": "111 ContributorsQ.U.E.E.N. Lyrics[Intro: Janelle Mon\u00e1e]\nGirl, this is crazy, let me tell you\n\n[Verse 1: Janelle Mon\u00e1e]\nI can't believe all of the things they say about me ('Bout me)\nWalk in the room they throwing shade left to right\nThey be like, \"Ooh, she serving face\"\nAnd I just tell 'em cut me up and get down\nThey call us dirty 'cause we break all yo' rules down (Yeah)\nAnd we just came to act a fool, is that all right? (Girl, that's alright)\nThey be like, \"Ooh, let them eat cake\"\nBut we eat wings and throw them bones on the ground\n\n[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around? (Am I a freak?)\nAm I a freak for getting down?\nI'm cutting up, don't cut me down (Don't cut me, no)\nYeah, I wanna be, wanna be Queen (I just wanna be)\n\n[Verse 2: Janelle Mon\u00e1e]\nIs it peculiar that she twerk in the mirror?\nAnd am I weird to dance alone late at night? (Nah)\nAnd is it true we're all insane? (Yeah)\nAnd I just tell 'em, \"No we ain't,\" and get down\nI heard this life is just a play with no rehearsal\nI wonder will this be my final act tonight\nAnd tell me what's the price of fame?\nAm I a sinner wit' my skirt on the ground?\nYou might also like[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around? (But am I a freak, hey)\nAm I a freak for getting down? (Don't judge me)\nI'm cutting up, don't cut me down (Judge me now)\nYeah, I wanna be, wanna be Queen\n\n[Verse 3: Janelle Mon\u00e1e]\nHey brother, can you save my soul from the devil?\nSay is it weird to like the way she wear her tights? (But I like it)\nAnd is it rude to wear my shades?\nAm I a freak because I love watchin' Mary? (Maybe)\nHey sister, am I good enough for your heaven?\nSay will your God accept me in my black and white?\nWill he approve the way I'm made?\nOr should I reprogram, deprogram and get down?\n\n[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around?\nAm I a freak for getting down? (Hey)\nI'm cutting up, don't cut me down (Even when he cut you down you got to carry on)\nYeah, I wanna be, wanna be Queen\n\n[Post-Chorus: Janelle Mon\u00e1e]\nEven if it makes others uncomfortable\nI will love who I am\nEven if it makes others uncomfortable\nI will love who I am\n[Verse 4: Erykah Badu]\nOoh, shake 'til the break of dawn\nDon't mean to sing so tough, I can't take it no more\nBaby, me and tuxedo groove\nPharaohs and E. Badu\nCrazy in the black and white\nWe got the drums so tight\nBaby, here comes your freedom song\nToo strong, we movin' on\nBaby, this melody will show you another way\nBeen 'droids for far too long\nCome home and sing yo' song\nBut you gotta testify, because the booty don't lie\nNo, no, the booty don't lie, oh no, the booty don't lie\n[Bridge: Janelle Mon\u00e1e]\nYeah, yeah, let's flip it\nI don't think they understand what I'm trying to say\nHaha, yeah, uh, I asked a question like this\n\n[Outro: Janelle Mon\u00e1e]\nAre we a lost generation of our people?\nAdd us to equations but they'll never make us equal\nShe who writes the movie owns the script and the sequel\nSo why ain't the stealing of my rights made illegal?\nThey keep us underground workin' hard for the greedy\nBut when it's time pay they turn around and call us needy\nMy crown too heavy like the Queen Nefertiti\nGimme back my pyramid, I'm trying to free Kansas City\nMixing masterminds like your name Bernie Grundman\nWell I'ma keep leadin' like a young Harriet Tubman\nYou can take my wings but I'm still gonna fly\nAnd even when you edit me the booty don't lie\nYeah, I'ma keep sangin', I'ma keep writin' songs\nI'm tired of Marvin askin' me \"What's Going On?\"\nMarch through the streets 'cause I'm willin' and I'm able\nCategorize me, I defy every label\nAnd while you're sellin' dope, we're gonna keep sellin' hope\nWe rising up now, you gotta deal you gotta cope\nWill you be electric sheep? Electric ladies, will you sleep?\nOr will you preach?24Embed"
+   "lyrics": "111 ContributorsQ.U.E.E.N. Lyrics[Intro: Janelle Mon\u00e1e]\nGirl, this is crazy, let me tell you\n\n[Verse 1: Janelle Mon\u00e1e]\nI can't believe all of the things they say about me ('Bout me)\nWalk in the room they throwing shade left to right\nThey be like, \"Ooh, she serving face\"\nAnd I just tell 'em cut me up and get down\nThey call us dirty 'cause we break all yo' rules down (Yeah)\nAnd we just came to act a fool, is that all right? (Girl, that's alright)\nThey be like, \"Ooh, let them eat cake\"\nBut we eat wings and throw them bones on the ground\n[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around? (Am I a freak?)\nAm I a freak for getting down?\nI'm cutting up, don't cut me down (Don't cut me, no)\nYeah, I wanna be, wanna be Queen (I just wanna be)\n\n[Verse 2: Janelle Mon\u00e1e]\nIs it peculiar that she twerk in the mirror?\nAnd am I weird to dance alone late at night? (Nah)\nAnd is it true we're all insane? (Yeah)\nAnd I just tell 'em, \"No we ain't,\" and get down\nI heard this life is just a play with no rehearsal\nI wonder will this be my final act tonight\nAnd tell me what's the price of fame?\nAm I a sinner wit' my skirt on the ground?\n\n[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around? (But am I a freak, hey)\nAm I a freak for getting down? (Don't judge me)\nI'm cutting up, don't cut me down (Judge me now)\nYeah, I wanna be, wanna be Queen\n\n[Verse 3: Janelle Mon\u00e1e]\nHey brother, can you save my soul from the devil?\nSay is it weird to like the way she wear her tights? (But I like it)\nAnd is it rude to wear my shades?\nAm I a freak because I love watchin' Mary? (Maybe)\nHey sister, am I good enough for your heaven?\nSay will your God accept me in my black and white?\nWill he approve the way I'm made?\nOr should I reprogram, deprogram and get down?\nYou might also like[Chorus: Janelle Mon\u00e1e]\nAm I a freak for dancing around?\nAm I a freak for getting down? (Hey)\nI'm cutting up, don't cut me down (Even when he cut you down you got to carry on)\nYeah, I wanna be, wanna be Queen\n\n[Post-Chorus: Janelle Mon\u00e1e]\nEven if it makes others uncomfortable\nI will love who I am\nEven if it makes others uncomfortable\nI will love who I am\n[Verse 4: Erykah Badu]\nOoh, shake 'til the break of dawn\nDon't mean to sing so tough, I can't take it no more\nBaby, me and tuxedo groove\nPharaohs and E. Badu\nCrazy in the black and white\nWe got the drums so tight\nBaby, here comes your freedom song\nToo strong, we movin' on\nBaby, this melody will show you another way\nBeen 'droids for far too long\nCome home and sing yo' song\nBut you gotta testify, because the booty don't lie\nNo, no, the booty don't lie, oh no, the booty don't lie\n[Bridge: Janelle Mon\u00e1e]\nYeah, yeah, let's flip it\nI don't think they understand what I'm trying to say\nHaha, yeah, uh, I asked a question like this\n\n[Outro: Janelle Mon\u00e1e]\nAre we a lost generation of our people?\nAdd us to equations but they'll never make us equal\nShe who writes the movie owns the script and the sequel\nSo why ain't the stealing of my rights made illegal?\nThey keep us underground workin' hard for the greedy\nBut when it's time pay they turn around and call us needy\nMy crown too heavy like the Queen Nefertiti\nGimme back my pyramid, I'm trying to free Kansas City\nMixing masterminds like your name Bernie Grundman\nWell I'ma keep leadin' like a young Harriet Tubman\nYou can take my wings but I'm still gonna fly\nAnd even when you edit me the booty don't lie\nYeah, I'ma keep sangin', I'ma keep writin' songs\nI'm tired of Marvin askin' me \"What's Going On?\"\nMarch through the streets 'cause I'm willin' and I'm able\nCategorize me, I defy every label\nAnd while you're sellin' dope, we're gonna keep sellin' hope\nWe rising up now, you gotta deal you gotta cope\nWill you be electric sheep? Electric ladies, will you sleep?\nOr will you preach?24Embed"
   },
   {
    "annotation_count": 6,
@@ -1313,7 +1313,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 303188
+    "pageviews": 303308
    },
    "title": "PYNK",
    "title_with_featured": "PYNK (Ft.\u00a0Grimes)",
@@ -1340,7 +1340,7 @@
     "is_verified": true,
     "name": "Janelle Mon\u00e1e",
     "url": "https://genius.com/artists/Janelle-monae",
-    "iq": 2251
+    "iq": 2253
    },
    "apple_music_id": "1350021466",
    "apple_music_player_url": "https://genius.com/songs/3601060/apple_music_player",
@@ -1444,7 +1444,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     }
    },
    "custom_performances": [
@@ -1520,7 +1520,7 @@
        "is_verified": true,
        "name": "Janelle Mon\u00e1e",
        "url": "https://genius.com/artists/Janelle-monae",
-       "iq": 2251
+       "iq": 2253
       }
      ]
     },
@@ -1631,7 +1631,7 @@
        "is_verified": true,
        "name": "Janelle Mon\u00e1e",
        "url": "https://genius.com/artists/Janelle-monae",
-       "iq": 2251
+       "iq": 2253
       },
       {
        "api_path": "/artists/1444588",
@@ -1860,7 +1860,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/93d8bb7265364dffedebfbd22c0f8e96",
          "human_readable_role_for_display": "Editor",
          "id": 3409147,
-         "iq": 65417,
+         "iq": 65442,
          "login": "AndyBelt",
          "name": "AndyBelt",
          "role_for_display": "editor",
@@ -1914,7 +1914,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/t8r0a81qkf",
          "human_readable_role_for_display": "Editor",
          "id": 2292980,
-         "iq": 8516,
+         "iq": 8517,
          "login": "eldweebo",
          "name": "eldweebo",
          "role_for_display": "editor",
@@ -1968,7 +1968,7 @@
          "header_image_url": "https://images.genius.com/b03c8c344744d3a77b9737da55e64af1.1000x669x1.jpg",
          "human_readable_role_for_display": "Editor",
          "id": 1427756,
-         "iq": 116754,
+         "iq": 116808,
          "login": "sereinik",
          "name": "\u200bsereinik",
          "role_for_display": "editor",
@@ -2026,7 +2026,7 @@
     "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
     "human_readable_role_for_display": "Staff",
     "id": 93685,
-    "iq": 1232052,
+    "iq": 1235139,
     "login": "killersnowtiger",
     "name": "\u200bKST",
     "role_for_display": "staff",
@@ -2076,7 +2076,7 @@
     "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
     "human_readable_role_for_display": "Staff",
     "id": 93685,
-    "iq": 1232052,
+    "iq": 1235139,
     "login": "killersnowtiger",
     "name": "\u200bKST",
     "role_for_display": "staff",
@@ -2172,7 +2172,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 60493
+        "pageviews": 60665
        },
        "title": "Pink",
        "title_with_featured": "Pink",
@@ -2310,7 +2310,7 @@
         "is_verified": true,
         "name": "Janelle Mon\u00e1e",
         "url": "https://genius.com/artists/Janelle-monae",
-        "iq": 2251
+        "iq": 2253
        }
       }
      ]
@@ -2360,7 +2360,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     },
     {
      "api_path": "/artists/1444588",
@@ -2436,7 +2436,7 @@
     }
    ],
    "artist": "Janelle Mon\u00e1e",
-   "lyrics": "75 ContributorsPYNK Lyrics[Verse 1: Janelle Mon\u00e1e]\nPynk like the inside of your, baby\nPynk behind all of the doors, crazy\nPynk like the tongue that goes down, maybe\nPynk like the paradise found\nPynk when you're blushing inside, baby\nPynk is the truth you can't hide, maybe\nPynk like the folds of your brain, crazy\nPynk as we all go insane\n\n[Pre-Chorus: Janelle Mon\u00e1e]\nSo here we are in the car\nLeavin' traces of us down the boulevard\nI wanna fall through the stars\nGettin' lost in the dark is my favorite part\nLet's count the ways we could make this last forever\nSunny, money, keep it funky\nTouch yo' top and let it down\n\n[Chorus: Janelle Mon\u00e1e]\n(Uh) Yeah, somethin' like that\n(Uh) Ah, somethin' like that\n(Uh) Yeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\nYou might also like[Verse 2: Janelle Mon\u00e1e]\nPynk like the lips around your, maybe\nPynk like the skin that's under, baby\nPynk where it's deepest inside, crazy\nPynk beyond forest and thighs\nPynk like the secrets you hide, maybe\nPynk like the lid of your eye, baby\nPynk is where all of it starts, crazy\nPynk like the holes of your heart\n\n[Pre-Chorus: Janelle Mon\u00e1e & Grimes, Janelle Mon\u00e1e]\nSo here we are in the car\nLeavin' traces of us down the boulevard\nI wanna fall through the stars\nGettin' lost in the dark is my favorite part\nLet's count the ways we could make this last forever\nSunny, money, keep it funky\nTouch yo' top and let it down, huh\n\n[Chorus: Janelle Mon\u00e1e & Grimes, Janelle Mon\u00e1e]\n(Huh) Yeah, somethin' like that, uh (Somethin' like that)\n(Uh) Ah, somethin' like that (Somethin' like that)\n(Ooh) Yeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\n(Huh) Yeah, somethin' like that (Like that)\nAh, somethin' like that (Like that)\nYeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\n[Outro: Janelle Mon\u00e1e]\nPynk like the inside of your, baby (We're all just pink)\nPynk like the walls and the doors, maybe (Deep inside, we're all just pynk)\nPynk like your fingers in my, maybe\nPynk is the truth you can't hide\nPynk like your tongue going 'round, baby\nPynk like the sun going down, maybe\nPynk like the holes in your heart, baby\nPynk is my favorite part29Embed"
+   "lyrics": "75 ContributorsPYNK Lyrics[Verse 1: Janelle Mon\u00e1e]\nPynk like the inside of your, baby\nPynk behind all of the doors, crazy\nPynk like the tongue that goes down, maybe\nPynk like the paradise found\nPynk when you're blushing inside, baby\nPynk is the truth you can't hide, maybe\nPynk like the folds of your brain, crazy\nPynk as we all go insane\n\n[Pre-Chorus: Janelle Mon\u00e1e]\nSo here we are in the car\nLeavin' traces of us down the boulevard\nI wanna fall through the stars\nGettin' lost in the dark is my favorite part\nLet's count the ways we could make this last forever\nSunny, money, keep it funky\nTouch yo' top and let it down\n[Chorus: Janelle Mon\u00e1e]\n(Uh) Yeah, somethin' like that\n(Uh) Ah, somethin' like that\n(Uh) Yeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\n\n[Verse 2: Janelle Mon\u00e1e]\nPynk like the lips around your, maybe\nPynk like the skin that's under, baby\nPynk where it's deepest inside, crazy\nPynk beyond forest and thighs\nPynk like the secrets you hide, maybe\nPynk like the lid of your eye, baby\nPynk is where all of it starts, crazy\nPynk like the holes of your heart\n\n[Pre-Chorus: Janelle Mon\u00e1e & Grimes, Janelle Mon\u00e1e]\nSo here we are in the car\nLeavin' traces of us down the boulevard\nI wanna fall through the stars\nGettin' lost in the dark is my favorite part\nLet's count the ways we could make this last forever\nSunny, money, keep it funky\nTouch yo' top and let it down, huh\nYou might also like[Chorus: Janelle Mon\u00e1e & Grimes, Janelle Mon\u00e1e]\n(Huh) Yeah, somethin' like that, uh (Somethin' like that)\n(Uh) Ah, somethin' like that (Somethin' like that)\n(Ooh) Yeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\n(Huh) Yeah, somethin' like that (Like that)\nAh, somethin' like that (Like that)\nYeah, somethin' like that\n'Cause, boy, it's cool if you got blue\nWe got the pynk\n\n[Outro: Janelle Mon\u00e1e]\nPynk like the inside of your, baby (We're all just pink)\nPynk like the walls and the doors, maybe (Deep inside, we're all just pynk)\nPynk like your fingers in my, maybe\nPynk is the truth you can't hide\nPynk like your tongue going 'round, baby\nPynk like the sun going down, maybe\nPynk like the holes in your heart, baby\nPynk is my favorite part29Embed"
   },
   {
    "annotation_count": 8,
@@ -2469,7 +2469,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 285648
+    "pageviews": 285760
    },
    "title": "Make Me Feel",
    "title_with_featured": "Make Me Feel",
@@ -2484,7 +2484,7 @@
     "is_verified": true,
     "name": "Janelle Mon\u00e1e",
     "url": "https://genius.com/artists/Janelle-monae",
-    "iq": 2251
+    "iq": 2253
    },
    "apple_music_id": "1350021467",
    "apple_music_player_url": "https://genius.com/songs/3541822/apple_music_player",
@@ -2588,7 +2588,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     }
    },
    "custom_performances": [
@@ -2622,9 +2622,9 @@
      "artists": [
       {
        "api_path": "/artists/992221",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 992221,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Justin\u2019s School For Girls",
@@ -2632,9 +2632,9 @@
       },
       {
        "api_path": "/artists/992220",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 992220,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Thanks For The Songs Richard",
@@ -2662,9 +2662,9 @@
       },
       {
        "api_path": "/artists/992223",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 992223,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Ma-Jay Publishing",
@@ -2672,9 +2672,9 @@
       },
       {
        "api_path": "/artists/1202071",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1202071,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Warner Chappell Music Scandinavia (STIM)",
@@ -3062,7 +3062,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/93d8bb7265364dffedebfbd22c0f8e96",
          "human_readable_role_for_display": "Editor",
          "id": 3409147,
-         "iq": 65417,
+         "iq": 65442,
          "login": "AndyBelt",
          "name": "AndyBelt",
          "role_for_display": "editor",
@@ -3116,7 +3116,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/3ec9c16110be135c3f6549576470c048",
          "human_readable_role_for_display": "Editor",
          "id": 337771,
-         "iq": 209825,
+         "iq": 209880,
          "login": "Souldier77",
          "name": "Souldier77",
          "role_for_display": "editor",
@@ -3170,7 +3170,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/d1834b0a1ea22de8fa6e96ac59bf61b5",
          "human_readable_role_for_display": "Editor",
          "id": 1973584,
-         "iq": 422879,
+         "iq": 423172,
          "login": "bnhslr",
          "name": "bnhslr",
          "role_for_display": "editor",
@@ -3193,35 +3193,35 @@
          "api_path": "/users/2212458",
          "avatar": {
           "tiny": {
-           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
            "bounding_box": {
             "width": 16,
             "height": 16
            }
           },
           "thumb": {
-           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
            "bounding_box": {
             "width": 32,
             "height": 32
            }
           },
           "small": {
-           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
            "bounding_box": {
             "width": 100,
             "height": 100
            }
           },
           "medium": {
-           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
            "bounding_box": {
             "width": 300,
             "height": 400
            }
           }
          },
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "human_readable_role_for_display": "Contributor",
          "id": 2212458,
          "iq": 338,
@@ -3278,7 +3278,7 @@
          "header_image_url": "https://images.genius.com/c2b40adcd330e571c281f3e7ad678f2e.1000x563x1.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 325189,
-         "iq": 90581,
+         "iq": 90624,
          "login": "Incilin",
          "name": "Insanul Ahmed",
          "role_for_display": "contributor",
@@ -3301,38 +3301,38 @@
          "api_path": "/users/5316266",
          "avatar": {
           "tiny": {
-           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
            "bounding_box": {
             "width": 16,
             "height": 16
            }
           },
           "thumb": {
-           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
            "bounding_box": {
             "width": 32,
             "height": 32
            }
           },
           "small": {
-           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
            "bounding_box": {
             "width": 100,
             "height": 100
            }
           },
           "medium": {
-           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
            "bounding_box": {
             "width": 300,
             "height": 400
            }
           }
          },
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "human_readable_role_for_display": "Contributor",
          "id": 5316266,
-         "iq": 20674,
+         "iq": 20677,
          "login": "gone_35y22_4697",
          "name": "gone_35y22_4697",
          "role_for_display": "contributor",
@@ -3390,7 +3390,7 @@
     "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
     "human_readable_role_for_display": "Staff",
     "id": 93685,
-    "iq": 1232052,
+    "iq": 1235139,
     "login": "killersnowtiger",
     "name": "\u200bKST",
     "role_for_display": "staff",
@@ -3440,7 +3440,7 @@
     "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
     "human_readable_role_for_display": "Staff",
     "id": 93685,
-    "iq": 1232052,
+    "iq": 1235139,
     "login": "killersnowtiger",
     "name": "\u200bKST",
     "role_for_display": "staff",
@@ -3571,7 +3571,7 @@
         "is_verified": true,
         "name": "Janelle Mon\u00e1e",
         "url": "https://genius.com/artists/Janelle-monae",
-        "iq": 2251
+        "iq": 2253
        }
       },
       {
@@ -3614,7 +3614,7 @@
         "is_verified": true,
         "name": "Janelle Mon\u00e1e",
         "url": "https://genius.com/artists/Janelle-monae",
-        "iq": 2251
+        "iq": 2253
        }
       },
       {
@@ -3657,7 +3657,7 @@
         "is_verified": true,
         "name": "Janelle Mon\u00e1e",
         "url": "https://genius.com/artists/Janelle-monae",
-        "iq": 2251
+        "iq": 2253
        }
       }
      ]
@@ -3697,7 +3697,7 @@
      "is_verified": true,
      "name": "Janelle Mon\u00e1e",
      "url": "https://genius.com/artists/Janelle-monae",
-     "iq": 2251
+     "iq": 2253
     },
     {
      "api_path": "/artists/409643",
@@ -3753,7 +3753,7 @@
     }
    ],
    "artist": "Janelle Mon\u00e1e",
-   "lyrics": "81 ContributorsMake Me Feel Lyrics[Intro]\nYeah\n\n[Verse 1]\nBaby, don't make me spell it out for you\nAll of the feelings that I've got for you\nCan't be explained, but I can try for you\nYeah, baby, don't make me spell it out for you\nYou keep on askin' me the same questions (Why?)\nAnd second-guessin' all my intentions\nShould know by the way I use my compression\nThat you got the answers to my confessions\n\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional sexual bender\nMess me up, yeah, but no one does it better\nThere's nothin' better\n\n[Chorus]\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel, uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real, uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel\nYou might also like[Verse 2]\nYou know I love it, so please don't stop it\nYou got me right here in your jean pocket (Right now)\nLaying your body on a shag carpet, ooh\nYou know I love it so please don't stop it (Ah, ah)\n\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional sexual bender\nMess me up, yeah, but no one does it better\nThere's nothin' better (Oh)\n\n[Chorus]\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel, uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real, uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel\n\n[Bridge]\nOh, that's just the way that I feel now, baby\nGood God, I can't help it, ah\nHey, that's just the way that I feel, yeah\nPlease, I can't help it\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional, sexual bender\nMess me up, yeah, but no one does it better (Oh)\nThere's nothin' better (Better)\nDamn\n\n[Chorus]\nThat's just the way you make me feel (Ooh)\n(That's just the way you make me feel)\nThat's just the way you make me feel (Ooh), uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real (So fuckin' good, yeah), uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel (Woo)\n(That's just the way you make me feel)\nThat's just the way you make me feel (Ooh)\n\n[Outro]\nThat's just the way you make me feel, uh-huh (You make me feel)\nSo good, so good, so fuckin' real, uh-huh (So good, so good, yeah)\nThat's just the way you make me feel (So uh, so, so, so good)\nThat's just the way you make me feel33Embed"
+   "lyrics": "81 ContributorsMake Me Feel Lyrics[Intro]\nYeah\n\n[Verse 1]\nBaby, don't make me spell it out for you\nAll of the feelings that I've got for you\nCan't be explained, but I can try for you\nYeah, baby, don't make me spell it out for you\nYou keep on askin' me the same questions (Why?)\nAnd second-guessin' all my intentions\nShould know by the way I use my compression\nThat you got the answers to my confessions\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional sexual bender\nMess me up, yeah, but no one does it better\nThere's nothin' better\n\n[Chorus]\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel, uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real, uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel\n\n[Verse 2]\nYou know I love it, so please don't stop it\nYou got me right here in your jean pocket (Right now)\nLaying your body on a shag carpet, ooh\nYou know I love it so please don't stop it (Ah, ah)\n\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional sexual bender\nMess me up, yeah, but no one does it better\nThere's nothin' better (Oh)\nYou might also like[Chorus]\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel, uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real, uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel\n(That's just the way you make me feel)\nThat's just the way you make me feel\n\n[Bridge]\nOh, that's just the way that I feel now, baby\nGood God, I can't help it, ah\nHey, that's just the way that I feel, yeah\nPlease, I can't help it\n\n[Pre-Chorus]\nIt's like I'm powerful with a little bit of tender\nAn emotional, sexual bender\nMess me up, yeah, but no one does it better (Oh)\nThere's nothin' better (Better)\nDamn\n\n[Chorus]\nThat's just the way you make me feel (Ooh)\n(That's just the way you make me feel)\nThat's just the way you make me feel (Ooh), uh-huh\n(That's just the way you make me feel)\nSo good, so good, so fuckin' real (So fuckin' good, yeah), uh-huh\n(So good, so good, so fuckin' real)\nThat's just the way you make me feel (Woo)\n(That's just the way you make me feel)\nThat's just the way you make me feel (Ooh)\n[Outro]\nThat's just the way you make me feel, uh-huh (You make me feel)\nSo good, so good, so fuckin' real, uh-huh (So good, so good, yeah)\nThat's just the way you make me feel (So uh, so, so, so good)\nThat's just the way you make me feel33Embed"
   }
  ]
 }

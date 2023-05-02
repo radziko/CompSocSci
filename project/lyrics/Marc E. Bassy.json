@@ -38,7 +38,7 @@
    "following": false
   }
  },
- "iq": 1725,
+ "iq": 1729,
  "description_annotation": {
   "_type": "referent",
   "annotator_id": 333116,
@@ -148,7 +148,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pimmw47peyd",
        "human_readable_role_for_display": "Editor",
        "id": 5713170,
-       "iq": 17722,
+       "iq": 17732,
        "login": "introspection",
        "name": "introspection",
        "role_for_display": "editor",
@@ -202,7 +202,7 @@
        "header_image_url": "https://images.rapgenius.com/avatars/medium/34fe10c1179a1f45a8b898b8e976b397",
        "human_readable_role_for_display": "Editor",
        "id": 333116,
-       "iq": 8076,
+       "iq": 8082,
        "login": "DSlaught",
        "name": "DSlaught",
        "role_for_display": "editor",
@@ -225,35 +225,35 @@
        "api_path": "/users/5807721",
        "avatar": {
         "tiny": {
-         "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
          "bounding_box": {
           "width": 16,
           "height": 16
          }
         },
         "thumb": {
-         "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
          "bounding_box": {
           "width": 32,
           "height": 32
          }
         },
         "small": {
-         "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
          "bounding_box": {
           "width": 100,
           "height": 100
          }
         },
         "medium": {
-         "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "bounding_box": {
           "width": 300,
           "height": 400
          }
         }
        },
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "human_readable_role_for_display": null,
        "id": 5807721,
        "iq": 9,
@@ -422,7 +422,7 @@
   "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
   "human_readable_role_for_display": "Verified Artist",
   "id": 3211931,
-  "iq": 1725,
+  "iq": 1729,
   "login": "MARCEBASSY",
   "name": "Marc E. Bassy",
   "role_for_display": "verified_artist",
@@ -469,7 +469,7 @@
     "unreviewed_annotations": 2,
     "verified_annotations": 5,
     "hot": false,
-    "pageviews": 484477
+    "pageviews": 484509
    },
    "title": "You & Me",
    "title_with_featured": "You & Me (Ft.\u00a0G-Eazy)",
@@ -496,7 +496,7 @@
     "is_verified": true,
     "name": "Marc E. Bassy",
     "url": "https://genius.com/artists/Marc-e-bassy",
-    "iq": 1725
+    "iq": 1729
    },
    "apple_music_id": "1291077876",
    "apple_music_player_url": "https://genius.com/songs/2464403/apple_music_player",
@@ -600,7 +600,7 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    },
    "custom_performances": [
@@ -620,9 +620,9 @@
       },
       {
        "api_path": "/artists/665458",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 665458,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "NGHTxNGHT",
@@ -672,7 +672,7 @@
        "is_verified": true,
        "name": "Marc E. Bassy",
        "url": "https://genius.com/artists/Marc-e-bassy",
-       "iq": 1725
+       "iq": 1729
       }
      ]
     },
@@ -696,9 +696,9 @@
      "artists": [
       {
        "api_path": "/artists/186096",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 186096,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Count Bassy",
@@ -711,9 +711,9 @@
      "artists": [
       {
        "api_path": "/artists/665467",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 665467,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Steven Felix",
@@ -744,7 +744,7 @@
        "is_verified": true,
        "name": "Marc E. Bassy",
        "url": "https://genius.com/artists/Marc-e-bassy",
-       "iq": 1725
+       "iq": 1729
       },
       {
        "api_path": "/artists/993951",
@@ -872,7 +872,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/7b752e8cd8ade54f3ca5cc724b7c50f8",
          "human_readable_role_for_display": "Contributor",
          "id": 272373,
-         "iq": 193847,
+         "iq": 193869,
          "login": "Slickk",
          "name": "Slickk",
          "role_for_display": "contributor",
@@ -926,7 +926,7 @@
          "header_image_url": "https://images.genius.com/c2b40adcd330e571c281f3e7ad678f2e.1000x563x1.jpg",
          "human_readable_role_for_display": "Contributor",
          "id": 325189,
-         "iq": 90581,
+         "iq": 90624,
          "login": "Incilin",
          "name": "Insanul Ahmed",
          "role_for_display": "contributor",
@@ -984,9 +984,9 @@
     },
     {
      "api_path": "/artists/665465",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665465,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "William Mosgrove",
@@ -1004,9 +1004,9 @@
     },
     {
      "api_path": "/artists/665463",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665463,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "James Alex Hau",
@@ -1112,7 +1112,7 @@
      "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
      "human_readable_role_for_display": "Verified Artist",
      "id": 3211931,
-     "iq": 1725,
+     "iq": 1729,
      "login": "MARCEBASSY",
      "name": "Marc E. Bassy",
      "role_for_display": "verified_artist",
@@ -1143,7 +1143,7 @@
       "is_verified": true,
       "name": "Marc E. Bassy",
       "url": "https://genius.com/artists/Marc-e-bassy",
-      "iq": 1725
+      "iq": 1729
      },
      "user": {
       "api_path": "/users/3211931",
@@ -1180,7 +1180,7 @@
       "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
       "human_readable_role_for_display": "Verified Artist",
       "id": 3211931,
-      "iq": 1725,
+      "iq": 1729,
       "login": "MARCEBASSY",
       "name": "Marc E. Bassy",
       "role_for_display": "verified_artist",
@@ -1299,7 +1299,7 @@
      "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
      "human_readable_role_for_display": "Verified Artist",
      "id": 3211931,
-     "iq": 1725,
+     "iq": 1729,
      "login": "MARCEBASSY",
      "name": "Marc E. Bassy",
      "role_for_display": "verified_artist",
@@ -1328,9 +1328,9 @@
     },
     {
      "api_path": "/artists/665463",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665463,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "James Alex Hau",
@@ -1348,9 +1348,9 @@
     },
     {
      "api_path": "/artists/665465",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665465,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "William Mosgrove",
@@ -1376,11 +1376,11 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    ],
    "artist": "Marc E. Bassy",
-   "lyrics": "33 ContributorsYou & Me Lyrics[Verse 1: Marc E. Bassy]\nGirl you party all the time\nDon't let me stay on your mind\nAdderall and cheap wine\nJust to stay awake in conversation\nWe were always so damn insecure\nSo how could we ever know for sure\nAnd disregard the way I know we feel\nThat would make this city way too real\n\n[Chorus: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more\nIt\u2019s just you and me\n\n[Verse 2: Marc E. Bassy]\nThe shirt on my back with the rips\nGems in my golden necklace\nYou didn't give me none of this\nThere's nothing for me to miss\nWe were too young on the day we met\nHow could we say we would not forget\nAnd in the shadows there's a place for us\nSomewhere hidden they can't find our love\nDon't let 'em know\nYou might also like[Chorus: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more\nIt\u2019s just you and me\n[Verse 3: G-Eazy]\nEazy, and these days it's just you and me\nThis shit is dead and gone, it's not what it used to be\nSomeone give a eulogy\nKnow I'm hard headed and I might of acted foolishly\nBut you the one to hold us down usually\nWe was in a limbo\nBut of all people you ain't have to fuck with him though\nThat was my homie I had gave y'all the intro\nSome things fall apart and some get thrown out the window\nRemember when we first met we might've been too young\nBut we was from The Bay so we both was going too dumb\nI used to be the one for you now you got a new one\nSo till the next lifetime, maybe we can do some'n\nEazy\n\n[Hook: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more It\u2019s just you and me\n[Outro: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt's not us no more23Embed"
+   "lyrics": "33 ContributorsYou & Me Lyrics[Verse 1: Marc E. Bassy]\nGirl you party all the time\nDon't let me stay on your mind\nAdderall and cheap wine\nJust to stay awake in conversation\nWe were always so damn insecure\nSo how could we ever know for sure\nAnd disregard the way I know we feel\nThat would make this city way too real\n\n[Chorus: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more\nIt\u2019s just you and me\n[Verse 2: Marc E. Bassy]\nThe shirt on my back with the rips\nGems in my golden necklace\nYou didn't give me none of this\nThere's nothing for me to miss\nWe were too young on the day we met\nHow could we say we would not forget\nAnd in the shadows there's a place for us\nSomewhere hidden they can't find our love\nDon't let 'em know\n\n[Chorus: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more\nIt\u2019s just you and me\n[Verse 3: G-Eazy]\nEazy, and these days it's just you and me\nThis shit is dead and gone, it's not what it used to be\nSomeone give a eulogy\nKnow I'm hard headed and I might of acted foolishly\nBut you the one to hold us down usually\nWe was in a limbo\nBut of all people you ain't have to fuck with him though\nThat was my homie I had gave y'all the intro\nSome things fall apart and some get thrown out the window\nRemember when we first met we might've been too young\nBut we was from The Bay so we both was going too dumb\nI used to be the one for you now you got a new one\nSo till the next lifetime, maybe we can do some'n\nEazy\nYou might also like[Hook: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt\u2019s not us no more\nIt\u2019s just you and me\nWe\u2019re just strangers in passing casually\nIt\u2019s not us no more It\u2019s just you and me\n\n[Outro: Marc E. Bassy]\nIf we bump into each other\nOn a crowded street\nIt's not us no more23Embed"
   },
   {
    "annotation_count": 3,
@@ -1413,7 +1413,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 2,
     "hot": false,
-    "pageviews": 117575
+    "pageviews": 117597
    },
    "title": "Morning",
    "title_with_featured": "Morning",
@@ -1428,7 +1428,7 @@
     "is_verified": true,
     "name": "Marc E. Bassy",
     "url": "https://genius.com/artists/Marc-e-bassy",
-    "iq": 1725
+    "iq": 1729
    },
    "apple_music_id": "1182127327",
    "apple_music_player_url": "https://genius.com/songs/2828698/apple_music_player",
@@ -1532,7 +1532,7 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    },
    "custom_performances": [],
@@ -1697,9 +1697,9 @@
    "producer_artists": [
     {
      "api_path": "/artists/665463",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665463,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "James Alex Hau",
@@ -1727,9 +1727,9 @@
     },
     {
      "api_path": "/artists/665465",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665465,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "William Mosgrove",
@@ -1835,7 +1835,7 @@
      "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
      "human_readable_role_for_display": "Verified Artist",
      "id": 3211931,
-     "iq": 1725,
+     "iq": 1729,
      "login": "MARCEBASSY",
      "name": "Marc E. Bassy",
      "role_for_display": "verified_artist",
@@ -1866,7 +1866,7 @@
       "is_verified": true,
       "name": "Marc E. Bassy",
       "url": "https://genius.com/artists/Marc-e-bassy",
-      "iq": 1725
+      "iq": 1729
      },
      "user": {
       "api_path": "/users/3211931",
@@ -1903,7 +1903,7 @@
       "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
       "human_readable_role_for_display": "Verified Artist",
       "id": 3211931,
-      "iq": 1725,
+      "iq": 1729,
       "login": "MARCEBASSY",
       "name": "Marc E. Bassy",
       "role_for_display": "verified_artist",
@@ -1956,7 +1956,7 @@
      "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
      "human_readable_role_for_display": "Verified Artist",
      "id": 3211931,
-     "iq": 1725,
+     "iq": 1729,
      "login": "MARCEBASSY",
      "name": "Marc E. Bassy",
      "role_for_display": "verified_artist",
@@ -1975,9 +1975,9 @@
    "writer_artists": [
     {
      "api_path": "/artists/665465",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665465,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "William Mosgrove",
@@ -1994,20 +1994,20 @@
      "url": "https://genius.com/artists/Rami-dawod"
     },
     {
-     "api_path": "/artists/1374369",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
-     "id": 1374369,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "api_path": "/artists/14298",
+     "header_image_url": "https://images.genius.com/f3412b5b7eb2ea7501ff8ea9ecc560fb.1000x563x1.jpg",
+     "id": 14298,
+     "image_url": "https://images.genius.com/c550113d71dff7d83324da6c6eb2f2bf.500x500x1.jpg",
      "is_meme_verified": false,
      "is_verified": false,
-     "name": "Jerry Afemata",
-     "url": "https://genius.com/artists/Jerry-afemata"
+     "name": "J Boog",
+     "url": "https://genius.com/artists/J-boog"
     },
     {
      "api_path": "/artists/665463",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 665463,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "James Alex Hau",
@@ -2025,9 +2025,9 @@
     },
     {
      "api_path": "/artists/1374368",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 1374368,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "Durante Deshawn Cook",
@@ -2053,11 +2053,11 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    ],
    "artist": "Marc E. Bassy",
-   "lyrics": "19 ContributorsMorning Lyrics[Verse 1]\nWith no makeup on and your eyelash hanging\nI would still love you\nIf you came home late and you kept me waiting\nI would still trust you\nIf the richer man was looking at you\nWould you stay cold as a statue?\nWould my love still be good for you?\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'\n\n[Verse 2]\nIf I pass out drunk and you check my message\nAnd see my exes\nWould you still believe that it's only just us\nAnd I'm not reckless?\nWould you know if I ever laid with another lover?\nWe was on a break, babe and I wore a rubber\nWould you forgive me?\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'\nYou might also like[Verse 3]\nAnd last night, last night\nI dreamed of a woman\nDark brown eyes\nDaddy told her all she knows\nShe brought me to life\nShe set my soul in motion\nAnd there's only one thing that I gotta know\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'10Embed"
+   "lyrics": "19 ContributorsMorning Lyrics[Verse 1]\nWith no makeup on and your eyelash hanging\nI would still love you\nIf you came home late and you kept me waiting\nI would still trust you\nIf the richer man was looking at you\nWould you stay cold as a statue?\nWould my love still be good for you?\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'\n[Verse 2]\nIf I pass out drunk and you check my message\nAnd see my exes\nWould you still believe that it's only just us\nAnd I'm not reckless?\nWould you know if I ever laid with another lover?\nWe was on a break, babe and I wore a rubber\nWould you forgive me?\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'\n\n[Verse 3]\nAnd last night, last night\nI dreamed of a woman\nDark brown eyes\nDaddy told her all she knows\nShe brought me to life\nShe set my soul in motion\nAnd there's only one thing that I gotta know\n\n[Chorus]\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you be there in the mornin', mornin', mornin' , mornin'?\nWould you stay here from the sunset to the sunrise?\nWhen I open up both eyes\nBe there in the mornin', mornin', mornin'You might also like10Embed"
   },
   {
    "annotation_count": 6,
@@ -2090,7 +2090,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 115677
+    "pageviews": 115700
    },
    "title": "Lock It Up",
    "title_with_featured": "Lock It Up (Ft.\u00a0Kehlani)",
@@ -2117,7 +2117,7 @@
     "is_verified": true,
     "name": "Marc E. Bassy",
     "url": "https://genius.com/artists/Marc-e-bassy",
-    "iq": 1725
+    "iq": 1729
    },
    "apple_music_id": "907986860",
    "apple_music_player_url": "https://genius.com/songs/489020/apple_music_player",
@@ -2221,7 +2221,7 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    },
    "custom_performances": [],
@@ -2307,35 +2307,35 @@
          "api_path": "/users/1276539",
          "avatar": {
           "tiny": {
-           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
            "bounding_box": {
             "width": 16,
             "height": 16
            }
           },
           "thumb": {
-           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
            "bounding_box": {
             "width": 32,
             "height": 32
            }
           },
           "small": {
-           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
            "bounding_box": {
             "width": 100,
             "height": 100
            }
           },
           "medium": {
-           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
            "bounding_box": {
             "width": 300,
             "height": 400
            }
           }
          },
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "human_readable_role_for_display": "Contributor",
          "id": 1276539,
          "iq": 517,
@@ -2404,7 +2404,7 @@
         "header_image_url": "https://images.genius.com/75ca4e089e8bde79c4804d02a67b7fa8.500x250x1.png",
         "human_readable_role_for_display": "Moderator",
         "id": 21564,
-        "iq": 561239,
+        "iq": 561650,
         "login": "Dyazz",
         "name": "Dyazz",
         "role_for_display": "moderator",
@@ -2486,7 +2486,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6862
+        "pageviews": 6872
        },
        "title": "Bumpy\u2019s Lament",
        "title_with_featured": "Bumpy's Lament",
@@ -2494,9 +2494,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/1039768",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 1039768,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "Soul Mann & The Brothers",
@@ -2529,7 +2529,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 143736
+        "pageviews": 144006
        },
        "title": "Bag Lady",
        "title_with_featured": "Bag Lady",
@@ -2631,7 +2631,7 @@
       "is_verified": true,
       "name": "Marc E. Bassy",
       "url": "https://genius.com/artists/Marc-e-bassy",
-      "iq": 1725
+      "iq": 1729
      },
      "user": {
       "api_path": "/users/3211931",
@@ -2668,7 +2668,7 @@
       "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
       "human_readable_role_for_display": "Verified Artist",
       "id": 3211931,
-      "iq": 1725,
+      "iq": 1729,
       "login": "MARCEBASSY",
       "name": "Marc E. Bassy",
       "role_for_display": "verified_artist",
@@ -2721,7 +2721,7 @@
      "header_image_url": "https://images.genius.com/avatars/medium/85117de0753602164b3a8b69ce347457",
      "human_readable_role_for_display": "Verified Artist",
      "id": 3211931,
-     "iq": 1725,
+     "iq": 1729,
      "login": "MARCEBASSY",
      "name": "Marc E. Bassy",
      "role_for_display": "verified_artist",
@@ -2758,11 +2758,11 @@
      "is_verified": true,
      "name": "Marc E. Bassy",
      "url": "https://genius.com/artists/Marc-e-bassy",
-     "iq": 1725
+     "iq": 1729
     }
    ],
    "artist": "Marc E. Bassy",
-   "lyrics": "24 ContributorsLock It Up Lyrics[Intro: Marc E. Bassy]\nFour in the morning, liquor pouring\nYou know that shit cool with me\nHigh than whatever, pop whatever\nIt's gon' be what it's gon' be?\nAs long as you're here, as long as your down\nRoll it up in your lap, put it in your mouth\nI think it's time to lock it up, lock it up\nI think it's time to lock it up, lock it up\n\n[Verse 1: Marc E. Bassy]\nWoooo\nLeave it all behind\nHope that I still linger in your mind\nGirl you left them marks up on my spine\nYeah I think it's time\nI'm your territory, you're my diamond shine\nWhen the going get rough, you go and get tough\nPut it on that line for me\nPicking my fights for me\nThen we go to battle in that saddle\nDo it like ooh nah nah nah\nYou tell your friends that he don't look like Trey\nBut I give that thing so good, you gotta stay for it\nExhale, blow that smoke in the sky\nThat stand that we take is for life\nYou might also like[Chorus: Kehlani]\nI don't care about what you're saying, stop the playing\nCause you know I'm not the one for games\nDon't hide your intentions, don't be scared to mention\nThat you want to hear me scream your name\n\nI can take you high, I can take you low\nI can speed it up, I can take it real slow\nI just wanna lock it up, lock it up\nBaby I'm just trying to lock it up, lock it up\nNah, nah, nah, hey\n\n[Verse 2: Kehlani]\nAnd I'm saying this one last time\nAnd I promise this is the last time, nah\nI'm not into rushing shit but can we move faster, nah\nWith some of that uh, uh\nWith some of that nah, nah\nThat good, good, that thug love\nAnd my past baby, fuck it, it's whatever\nNot into moving on and looking back, it just ain't clever\nNowadays I learned to never ever say \"I never\"\nCause I didn't think I'd ever move on something better\nSo I locked up and I threw away the key\nNever want to relieve those painful memories\nJust want to forget him while you all up under me\nPromise to keep doing those things and make me weak\n[Chorus: Kehlani]11Embed"
+   "lyrics": "24 ContributorsLock It Up Lyrics[Intro: Marc E. Bassy]\nFour in the morning, liquor pouring\nYou know that shit cool with me\nHigh than whatever, pop whatever\nIt's gon' be what it's gon' be?\nAs long as you're here, as long as your down\nRoll it up in your lap, put it in your mouth\nI think it's time to lock it up, lock it up\nI think it's time to lock it up, lock it up\n\n[Verse 1: Marc E. Bassy]\nWoooo\nLeave it all behind\nHope that I still linger in your mind\nGirl you left them marks up on my spine\nYeah I think it's time\nI'm your territory, you're my diamond shine\nWhen the going get rough, you go and get tough\nPut it on that line for me\nPicking my fights for me\nThen we go to battle in that saddle\nDo it like ooh nah nah nah\nYou tell your friends that he don't look like Trey\nBut I give that thing so good, you gotta stay for it\nExhale, blow that smoke in the sky\nThat stand that we take is for life\n[Chorus: Kehlani]\nI don't care about what you're saying, stop the playing\nCause you know I'm not the one for games\nDon't hide your intentions, don't be scared to mention\nThat you want to hear me scream your name\n\nI can take you high, I can take you low\nI can speed it up, I can take it real slow\nI just wanna lock it up, lock it up\nBaby I'm just trying to lock it up, lock it up\nNah, nah, nah, hey\n\n[Verse 2: Kehlani]\nAnd I'm saying this one last time\nAnd I promise this is the last time, nah\nI'm not into rushing shit but can we move faster, nah\nWith some of that uh, uh\nWith some of that nah, nah\nThat good, good, that thug love\nAnd my past baby, fuck it, it's whatever\nNot into moving on and looking back, it just ain't clever\nNowadays I learned to never ever say \"I never\"\nCause I didn't think I'd ever move on something better\nSo I locked up and I threw away the key\nNever want to relieve those painful memories\nJust want to forget him while you all up under me\nPromise to keep doing those things and make me weak\nYou might also like[Chorus: Kehlani]11Embed"
   }
  ]
 }

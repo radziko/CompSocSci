@@ -148,7 +148,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
        "human_readable_role_for_display": "Moderator",
        "id": 4335922,
-       "iq": 1027228,
+       "iq": 1027653,
        "login": "Chancelorr",
        "name": "\u200bchancelorr",
        "role_for_display": "moderator",
@@ -202,7 +202,7 @@
        "header_image_url": "https://images.genius.com/a2de78d05fd8fa811212cc63f9344b5a.700x652x1.png",
        "human_readable_role_for_display": "Contributor",
        "id": 4469304,
-       "iq": 744087,
+       "iq": 744264,
        "login": "blustery",
        "name": "blustery",
        "role_for_display": "contributor",
@@ -307,7 +307,7 @@
     "unreviewed_annotations": 5,
     "verified_annotations": 12,
     "hot": false,
-    "pageviews": 1654221
+    "pageviews": 1654680
    },
    "title": "Chill Bill",
    "title_with_featured": "Chill Bill (Ft.\u00a0J.\u00a0Davi$ & Spooks)",
@@ -456,9 +456,9 @@
      "artists": [
       {
        "api_path": "/artists/1171666",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1171666,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Alex Vibe",
@@ -580,7 +580,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/61f70ff83dc8499558f1539c19341e04",
          "human_readable_role_for_display": "Moderator",
          "id": 171793,
-         "iq": 160537,
+         "iq": 160636,
          "login": "stephen_j_p",
          "name": "Stephen Pringle",
          "role_for_display": "moderator",
@@ -634,7 +634,7 @@
          "header_image_url": "https://images.rapgenius.com/avatars/medium/565d2298db901f18260ca21fec4660d0",
          "human_readable_role_for_display": "Editor",
          "id": 1545969,
-         "iq": 28427,
+         "iq": 28444,
          "login": "wiz_teresa",
          "name": "Teresa Fardella",
          "role_for_display": "editor",
@@ -657,35 +657,35 @@
          "api_path": "/users/2471242",
          "avatar": {
           "tiny": {
-           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
            "bounding_box": {
             "width": 16,
             "height": 16
            }
           },
           "thumb": {
-           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
            "bounding_box": {
             "width": 32,
             "height": 32
            }
           },
           "small": {
-           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
            "bounding_box": {
             "width": 100,
             "height": 100
            }
           },
           "medium": {
-           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
            "bounding_box": {
             "width": 300,
             "height": 400
            }
           }
          },
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "human_readable_role_for_display": null,
          "id": 2471242,
          "iq": 219,
@@ -832,7 +832,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 5453
+        "pageviews": 5464
        },
        "title": "Twisted Nerve",
        "title_with_featured": "Twisted Nerve",
@@ -924,7 +924,7 @@
        "stats": {
         "unreviewed_annotations": 9,
         "hot": false,
-        "pageviews": 9401
+        "pageviews": 9412
        },
        "title": "Soft",
        "title_with_featured": "Soft",
@@ -1255,7 +1255,7 @@
        "stats": {
         "unreviewed_annotations": 6,
         "hot": false,
-        "pageviews": 17827
+        "pageviews": 17835
        },
        "title": "Chill Bill Rmx",
        "title_with_featured": "Chill Bill Rmx",
@@ -1298,7 +1298,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 22038
+        "pageviews": 22049
        },
        "title": "Chill Bill (remiXX)",
        "title_with_featured": "Chill Bill (remiXX) (Ft.\u00a0Dub-O & Tezo)",
@@ -1334,7 +1334,7 @@
         "is_verified": true,
         "name": "Machine Gun Kelly",
         "url": "https://genius.com/artists/Machine-gun-kelly",
-        "iq": 28586
+        "iq": 28596
        }
       },
       {
@@ -1363,7 +1363,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 191939
+        "pageviews": 191991
        },
        "title": "Chill Bill (Remix)",
        "title_with_featured": "Chill Bill (Remix) (Ft.\u00a0Cousin\u00a0Stizz, Denzel\u00a0Curry & DRAM)",
@@ -1389,7 +1389,7 @@
          "is_verified": true,
          "name": "Denzel Curry",
          "url": "https://genius.com/artists/Denzel-curry",
-         "iq": 20426
+         "iq": 20458
         },
         {
          "api_path": "/artists/241761",
@@ -1588,9 +1588,9 @@
     },
     {
      "api_path": "/artists/2184908",
-     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "id": 2184908,
-     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
      "is_meme_verified": false,
      "is_verified": false,
      "name": "Antonio Carrillo",
@@ -1619,7 +1619,7 @@
     }
    ],
    "artist": "Rob $tone",
-   "lyrics": "122 ContributorsChill Bill Lyrics[Intro: Rob $tone]\nDun, dun, da-da-dun\nWater, ah, uh\nMwah!\n\n[Verse 1: Rob $tone]\nRob $tone, two damn phones, Babylons can't crack the code (No)\nUsed to sip out styrofoam but figured I should stick to dro (Weed!)\nBackwoods overload, don't like to smoke them Swishers, ho (Yup)\nIf you hit my liquor store, it's fifty cents for single Ports\n\n[Chorus: Rob $tone]\nSaid she wanna roll with me, and smoke up all my weed (What?)\nI said, \"Baby, just buy Dutches 'cause you can't smoke for free (More than Woods)\nI got some loud but no money, babe, buy me a Fiji\" (Water)\nShe said, \"You need a job\", bitch, fuck a job, I still get cheese\n[Verse 2: J. Davi$]\nTwo cell phones, Mr. Motherfuck A Thot (A Thot)\nMr. I Be On That Block (That Block)\n1207, fuck a opp (A opp)\nThey hear my name, they see my squad (Squad)\nRollin' dope up on the spot (Spot)\nI'm with your bitch, she on my jock\nAin't got no time to love a thot (Time)\nGot niggas mad my flow so hot (Hot)\nGot niggas mad my squad won't stop\nWe in the game, won't take no loss (Loss)\nI'm sippin' water out the Voss (Voss)\nGot lean all in my fuckin' Sprite (Ooh)\nTurnin' up on fuckin' sight\nMr. Kenny Powers 'bout to take your girlfriend home tonight, bitch\nYou might also like[Verse 3: Spooks]\nAnd I'm smokin' on that widow when you see it out the window (Yeah)\nGot a dusty old tee, lookin' bummy, leave it simple (Ayy)\nGrowin' up, I was always in the middle\nSo I gotta hold it down for my older and my little\nAnd my brothers besides me, so fuck it, we mobbin' deep\nAlways grimy, no findin' me, but I be in LG (Bitch)\nIf your lil' fuckboy lame ass wanna creep (Ho)\nI live by the lemon 'cause that fucker chose me (Ayy)\n\n[Chorus: Rob $tone]\nSaid she wanna roll with me, and smoke up all my weed\nI said, \"Baby, just buy Dutches 'cause you can't smoke for free\nI got some loud but no money, babe, buy me a Fiji\"\nShe said, \"You need a job\", bitch, fuck a job, I still get cheese, cheese\n\n[Outro: Rob $tone & Spooks]\nYeah, got 1207 in this bitch, God\nShoutout to that nigga Burgers\nHe don't be flipping them burgers though\nThat nigga Andy\nWe don't know where the fuck Andy's at but that's my nigga (Squad)\n1207, bitch\nWater, coming up\nWater\nWater65Embed"
+   "lyrics": "122 ContributorsChill Bill Lyrics[Intro: Rob $tone]\nDun, dun, da-da-dun\nWater, ah, uh\nMwah!\n\n[Verse 1: Rob $tone]\nRob $tone, two damn phones, Babylons can't crack the code (No)\nUsed to sip out styrofoam but figured I should stick to dro (Weed!)\nBackwoods overload, don't like to smoke them Swishers, ho (Yup)\nIf you hit my liquor store, it's fifty cents for single Ports\n[Chorus: Rob $tone]\nSaid she wanna roll with me, and smoke up all my weed (What?)\nI said, \"Baby, just buy Dutches 'cause you can't smoke for free (More than Woods)\nI got some loud but no money, babe, buy me a Fiji\" (Water)\nShe said, \"You need a job\", bitch, fuck a job, I still get cheese\n[Verse 2: J. Davi$]\nTwo cell phones, Mr. Motherfuck A Thot (A Thot)\nMr. I Be On That Block (That Block)\n1207, fuck a opp (A opp)\nThey hear my name, they see my squad (Squad)\nRollin' dope up on the spot (Spot)\nI'm with your bitch, she on my jock\nAin't got no time to love a thot (Time)\nGot niggas mad my flow so hot (Hot)\nGot niggas mad my squad won't stop\nWe in the game, won't take no loss (Loss)\nI'm sippin' water out the Voss (Voss)\nGot lean all in my fuckin' Sprite (Ooh)\nTurnin' up on fuckin' sight\nMr. Kenny Powers 'bout to take your girlfriend home tonight, bitch\n[Verse 3: Spooks]\nAnd I'm smokin' on that widow when you see it out the window (Yeah)\nGot a dusty old tee, lookin' bummy, leave it simple (Ayy)\nGrowin' up, I was always in the middle\nSo I gotta hold it down for my older and my little\nAnd my brothers besides me, so fuck it, we mobbin' deep\nAlways grimy, no findin' me, but I be in LG (Bitch)\nIf your lil' fuckboy lame ass wanna creep (Ho)\nI live by the lemon 'cause that fucker chose me (Ayy)\nYou might also like[Chorus: Rob $tone]\nSaid she wanna roll with me, and smoke up all my weed\nI said, \"Baby, just buy Dutches 'cause you can't smoke for free\nI got some loud but no money, babe, buy me a Fiji\"\nShe said, \"You need a job\", bitch, fuck a job, I still get cheese, cheese\n\n[Outro: Rob $tone & Spooks]\nYeah, got 1207 in this bitch, God\nShoutout to that nigga Burgers\nHe don't be flipping them burgers though\nThat nigga Andy\nWe don't know where the fuck Andy's at but that's my nigga (Squad)\n1207, bitch\nWater, coming up\nWater\nWater65Embed"
   },
   {
    "annotation_count": 13,
@@ -1652,7 +1652,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 191939
+    "pageviews": 191991
    },
    "title": "Chill Bill (Remix)",
    "title_with_featured": "Chill Bill (Remix) (Ft.\u00a0Cousin\u00a0Stizz, Denzel\u00a0Curry & DRAM)",
@@ -1678,7 +1678,7 @@
      "is_verified": true,
      "name": "Denzel Curry",
      "url": "https://genius.com/artists/Denzel-curry",
-     "iq": 20426
+     "iq": 20458
     },
     {
      "api_path": "/artists/241761",
@@ -1957,7 +1957,7 @@
          "header_image_url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
          "human_readable_role_for_display": "Moderator",
          "id": 4335922,
-         "iq": 1027228,
+         "iq": 1027653,
          "login": "Chancelorr",
          "name": "\u200bchancelorr",
          "role_for_display": "moderator",
@@ -2050,7 +2050,7 @@
        "stats": {
         "unreviewed_annotations": 3,
         "hot": false,
-        "pageviews": 83366
+        "pageviews": 83435
        },
        "title": "I\u2019ll Still Kill",
        "title_with_featured": "I'll Still Kill (Ft.\u00a0Akon)",
@@ -2105,7 +2105,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 82027
+        "pageviews": 82029
        },
        "title": "Fresh Prince",
        "title_with_featured": "Fresh Prince",
@@ -2170,7 +2170,7 @@
        "stats": {
         "unreviewed_annotations": 5,
         "hot": false,
-        "pageviews": 1654221
+        "pageviews": 1654680
        },
        "title": "Chill Bill",
        "title_with_featured": "Chill Bill (Ft.\u00a0J.\u00a0Davi$ & Spooks)",
@@ -2305,7 +2305,7 @@
      "is_verified": true,
      "name": "Denzel Curry",
      "url": "https://genius.com/artists/Denzel-curry",
-     "iq": 20426
+     "iq": 20458
     },
     {
      "api_path": "/artists/241761",
@@ -2331,7 +2331,7 @@
     }
    ],
    "artist": "Rob $tone",
-   "lyrics": "50 ContributorsChill Bill (Remix) Lyrics[Verse 1: Rob $tone]\nRob $tone, two damn phones\nBabylons can't crack the code\nUsed to sip out styrofoam\nBut figured I should stick to dro (Weed!)\nBackwoods overload\nDon't like to smoke them Swishers, hoe (Yup!)\nIf you hit my liquor store\nIt's 50 cents for single Ports\n[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch, fuck a job, I still get cheese\n\n[Verse 2: D.R.A.M.]\nYeah, yeah, Big Baby\nShe all on me cause my dick crazy\nBlack, dark Patrick Swayze\nFeel like I am in the mid-80s\nCause I am a real rockstar\nReally did a song with Neil Young\nDay ones hit the block hard\nThe block is where I get these pills from, yah, yeah\nI don't even know just how I ended up here\nI mean I got here from the grind, but how I get in this chair?\nI mean I only popped a Xan and drank some liquor and beer\nYou say you couldn't understand me cause I'm not speakin' clear\nI be gettin' pussy in zombie mode (Mode)\nThe reason is because I don't recall it, yo (Yo)\nI woke up wishing that she'd call me though (Yo)\nOnly thing that I remember is she slide me slow\nYou might also like[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch fuck a job I still get cheese\n\n[Verse 3: Denzel Curry]\nSuper high, you just might need a receiver\nSativa, two liters, I might need a re-up\nI'm dorky, I'm geeked up, 3 phones and a beeper, bust it\nStill couldn't reach me without the antenna\nEyes open wide, that is my panorama\nPanoramic view, and the scene is so beautiful\nBlowin' Os, that's a hula hoop, beat the pussy like Fruity Loops\nI'm the realest nigga ever, it's a fact cause I'm livin' proof\nNow I'm high, I'm really high, I feel my face is numbing\nFeeling that I'm born again, I am the second coming\nSimon says get out my head\nThat's what my thoughts would tell me\nNow the mockingbird is dead, my memories would tell me\n\n[Verse 4: Cousin Stizz]\nI'm the fuckin' Fresh Prince, yeah\nBut right now I'm Ill Bill (Yeah)\nAkon, I still kill\nBurnin' these hundreds like lil' bills (Yeah)\nMy life is cold\nI think about it and feel chills\nMy dogs is hungry for big meals (My dogs is hungry)\nI just count money and peel seals (Yeah)\nPour up a pint\nRoll me one nice cause I'm wavy, no gills here (Ayy!)\nWhat it look like? (What it look like?)\nI'm gettin' love from the hood cause I'm still there (Yeah)\nWhen I get right on the charts like I live there\nNiggas be old news and act like we still care\nShe wanna ride me like steerin' wheel (Yeah)\nGirl, it's the morning, you still here?\nI thought I told you I'm good on these hoes (I thought I told you)\nI just need money to get me some more\nCallin' my plug like, \"Ayy what it hit for?\"\nBeen on my grind even when I was broke (Yeah, yeah)\nFrom the corners, hell yeah that's for sure (Yeah that's for sure)\nWe up, niggas, never been here before\nAin't no limits when you kick in the door (Kick in the door)\nDamn, she said I'm chill, yeah I know\n[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch, fuck a job, I still get cheese10Embed"
+   "lyrics": "50 ContributorsChill Bill (Remix) Lyrics[Verse 1: Rob $tone]\nRob $tone, two damn phones\nBabylons can't crack the code\nUsed to sip out styrofoam\nBut figured I should stick to dro (Weed!)\nBackwoods overload\nDon't like to smoke them Swishers, hoe (Yup!)\nIf you hit my liquor store\nIt's 50 cents for single Ports\n[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch, fuck a job, I still get cheese\n[Verse 2: D.R.A.M.]\nYeah, yeah, Big Baby\nShe all on me cause my dick crazy\nBlack, dark Patrick Swayze\nFeel like I am in the mid-80s\nCause I am a real rockstar\nReally did a song with Neil Young\nDay ones hit the block hard\nThe block is where I get these pills from, yah, yeah\nI don't even know just how I ended up here\nI mean I got here from the grind, but how I get in this chair?\nI mean I only popped a Xan and drank some liquor and beer\nYou say you couldn't understand me cause I'm not speakin' clear\nI be gettin' pussy in zombie mode (Mode)\nThe reason is because I don't recall it, yo (Yo)\nI woke up wishing that she'd call me though (Yo)\nOnly thing that I remember is she slide me slow\n[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch fuck a job I still get cheese\n\n[Verse 3: Denzel Curry]\nSuper high, you just might need a receiver\nSativa, two liters, I might need a re-up\nI'm dorky, I'm geeked up, 3 phones and a beeper, bust it\nStill couldn't reach me without the antenna\nEyes open wide, that is my panorama\nPanoramic view, and the scene is so beautiful\nBlowin' Os, that's a hula hoop, beat the pussy like Fruity Loops\nI'm the realest nigga ever, it's a fact cause I'm livin' proof\nNow I'm high, I'm really high, I feel my face is numbing\nFeeling that I'm born again, I am the second coming\nSimon says get out my head\nThat's what my thoughts would tell me\nNow the mockingbird is dead, my memories would tell me\nYou might also like[Verse 4: Cousin Stizz]\nI'm the fuckin' Fresh Prince, yeah\nBut right now I'm Ill Bill (Yeah)\nAkon, I still kill\nBurnin' these hundreds like lil' bills (Yeah)\nMy life is cold\nI think about it and feel chills\nMy dogs is hungry for big meals (My dogs is hungry)\nI just count money and peel seals (Yeah)\nPour up a pint\nRoll me one nice cause I'm wavy, no gills here (Ayy!)\nWhat it look like? (What it look like?)\nI'm gettin' love from the hood cause I'm still there (Yeah)\nWhen I get right on the charts like I live there\nNiggas be old news and act like we still care\nShe wanna ride me like steerin' wheel (Yeah)\nGirl, it's the morning, you still here?\nI thought I told you I'm good on these hoes (I thought I told you)\nI just need money to get me some more\nCallin' my plug like, \"Ayy what it hit for?\"\nBeen on my grind even when I was broke (Yeah, yeah)\nFrom the corners, hell yeah that's for sure (Yeah that's for sure)\nWe up, niggas, never been here before\nAin't no limits when you kick in the door (Kick in the door)\nDamn, she said I'm chill, yeah I know\n[Chorus: Rob $tone]\nSaid she wanna roll with me and smoke up all my weed (What?)\nI said, \"Baby, just buy dutches cause you can't smoke for free\"\nI got some loud but no money, babe, buy me a Fiji\nShe said you need a job, bitch, fuck a job, I still get cheese10Embed"
   },
   {
    "annotation_count": 1,
@@ -2364,7 +2364,7 @@
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 23960
+    "pageviews": 23966
    },
    "title": "Rolling $tone",
    "title_with_featured": "Rolling $tone",
@@ -2665,8 +2665,9 @@
        "song_art_image_url": "https://images.genius.com/28d03f64b4595babf96a84bbefacb788.299x299x1.jpg",
        "stats": {
         "unreviewed_annotations": 1,
+        "concurrents": 3,
         "hot": false,
-        "pageviews": 749626
+        "pageviews": 750977
        },
        "title": "Paint It, Black",
        "title_with_featured": "Paint It, Black",
@@ -2758,7 +2759,7 @@
    "verified_lyrics_by": [],
    "writer_artists": [],
    "artist": "Rob $tone",
-   "lyrics": "10 ContributorsRolling $tone Lyrics[Intro]\nUhm-hmm, yeah\n\n[Verse 1]\nBack up, ho back up\nI fuck a check up then stack up\nI'm bout my money, no answers\nFor all these questions they askin'\nI see these cameras, they flashin'\nI fucked your bitch cause I'm handsome\nI check ya later, I'm dashin'\nIn alligators, I pass up\nI get my cash up, my cash up\nNow runnin' bands up them bands\nAnd my chain just glisten on camera\nI still ain't picked up the fat one\nWhen I need these people to back up\nGo make a nigga just act up\nI cheese for cameras to gather\nI kick my feet up in traffic\nGive me all my space, just give me room bitch\nAnd if you niggas got a problem make a move bitch\nSee how the copy make copies\nThese paparazzi keep watchin'\nI'm off the chain, I keep flossin'\nMake people want me, they haunt me\nWatch me keep tauntin', go walkin'\nStill take a bitch like it's nothin'\nI think they want me, they want me\nStill ain't got me, still plottin'\nPlease keep the leeches up off me\nPlease keep the trees in your pockets\nPlease keep your knees, know you want me\nBut I do me so keep walkin', yeah\nYou might also like[Interlude]\nKeep goin'? Yeah, yeah, yeah, yeah\nGive me room, bitch\nGive me room, bitch\nGive me room, bitch\nGive me room, bitch\nMake a move bitch\nMake a move bitch\n\n[Verse 2]\nStack up, I stack up\nYeah I just rack up and rack up\nI told my new bitch don't act up\nJust keep it cool and don't act up\nI'm with a new bitch\nShe think she cool shit\nMan she just lackin' the answers\nTo how to deal with demand up\nTo get them grams up to average\nAll up in a different tax bracket\nI need my mama so happy\nWhen she see me, she start dancin'\nI'm making static ecstatic\nTo get the cash, yeah I'm rappin'\nI let 'em have it, I'm at it\nI'm like an addict for cabbage\nHow do I watch the cream when I got pussy around me?\nI see you in the mirror, need to stop looking behind me\nI'm faster, go faster\nI pick my speed up, I gas it\nThe damage done so demand it\nPlease put this beat in the casket\nPlease don't leave me in my (?)\nPlease don't get greedy for ransom\nPlease don't be needy, no askin'\nPlease don't you see me just graspin'\nJust leave the peace in my castle\nI leave the grove as a statue\nI'm in my zone let 'em have it\nBitch I'm the gold and the cancer\nGod damn7Embed"
+   "lyrics": "10 ContributorsRolling $tone Lyrics[Intro]\nUhm-hmm, yeah\n\n[Verse 1]\nBack up, ho back up\nI fuck a check up then stack up\nI'm bout my money, no answers\nFor all these questions they askin'\nI see these cameras, they flashin'\nI fucked your bitch cause I'm handsome\nI check ya later, I'm dashin'\nIn alligators, I pass up\nI get my cash up, my cash up\nNow runnin' bands up them bands\nAnd my chain just glisten on camera\nI still ain't picked up the fat one\nWhen I need these people to back up\nGo make a nigga just act up\nI cheese for cameras to gather\nI kick my feet up in traffic\nGive me all my space, just give me room bitch\nAnd if you niggas got a problem make a move bitch\nSee how the copy make copies\nThese paparazzi keep watchin'\nI'm off the chain, I keep flossin'\nMake people want me, they haunt me\nWatch me keep tauntin', go walkin'\nStill take a bitch like it's nothin'\nI think they want me, they want me\nStill ain't got me, still plottin'\nPlease keep the leeches up off me\nPlease keep the trees in your pockets\nPlease keep your knees, know you want me\nBut I do me so keep walkin', yeah\n[Interlude]\nKeep goin'? Yeah, yeah, yeah, yeah\nGive me room, bitch\nGive me room, bitch\nGive me room, bitch\nGive me room, bitch\nMake a move bitch\nMake a move bitch\n\n[Verse 2]\nStack up, I stack up\nYeah I just rack up and rack up\nI told my new bitch don't act up\nJust keep it cool and don't act up\nI'm with a new bitch\nShe think she cool shit\nMan she just lackin' the answers\nTo how to deal with demand up\nTo get them grams up to average\nAll up in a different tax bracket\nI need my mama so happy\nWhen she see me, she start dancin'\nI'm making static ecstatic\nTo get the cash, yeah I'm rappin'\nI let 'em have it, I'm at it\nI'm like an addict for cabbage\nHow do I watch the cream when I got pussy around me?\nI see you in the mirror, need to stop looking behind me\nI'm faster, go faster\nI pick my speed up, I gas it\nThe damage done so demand it\nPlease put this beat in the casket\nPlease don't leave me in my (?)\nPlease don't get greedy for ransom\nPlease don't be needy, no askin'\nPlease don't you see me just graspin'\nJust leave the peace in my castle\nI leave the grove as a statue\nI'm in my zone let 'em have it\nBitch I'm the gold and the cancer\nGod damnYou might also like7Embed"
   }
  ]
 }

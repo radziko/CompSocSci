@@ -152,7 +152,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/b012b5dd2441f3edc0c72b14bf2da0c4",
        "human_readable_role_for_display": "Contributor",
        "id": 1221815,
-       "iq": 12357,
+       "iq": 12359,
        "login": "GniwrY14",
        "name": "GniwrY14",
        "role_for_display": "contributor",
@@ -206,7 +206,7 @@
        "header_image_url": "https://images.genius.com/e52efcacb09c227d8b7c3e20b155813a.400x225x80.gif",
        "human_readable_role_for_display": "Verified Artist",
        "id": 6109810,
-       "iq": 326285,
+       "iq": 326510,
        "login": "javybell",
        "name": "Javy Bell",
        "role_for_display": "verified_artist",
@@ -262,7 +262,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 121729
+    "pageviews": 121782
    },
    "title": "Me Acostumbr\u00e9",
    "title_with_featured": "Me Acostumbr\u00e9 (Ft.\u00a0Bad\u00a0Bunny)",
@@ -396,9 +396,9 @@
      "artists": [
       {
        "api_path": "/artists/2275429",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2275429,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Sony/ATV Discos",
@@ -406,9 +406,9 @@
       },
       {
        "api_path": "/artists/2293567",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2293567,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "La Maravilla Music Publishing",
@@ -615,7 +615,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fezo3shymx",
          "human_readable_role_for_display": "Editor",
          "id": 4243223,
-         "iq": 65414,
+         "iq": 65446,
          "login": "Saaanto",
          "name": "Saaanto",
          "role_for_display": "editor",
@@ -673,7 +673,7 @@
     "header_image_url": "https://images.genius.com/43b4c573d21b3f32d93a70bfc49ee0a4.640x480x78.gif",
     "human_readable_role_for_display": "Editor",
     "id": 5233128,
-    "iq": 651912,
+    "iq": 654453,
     "login": "Juandi",
     "name": "Juandi",
     "role_for_display": "editor",
@@ -973,7 +973,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 79615
+    "pageviews": 79623
    },
    "title": "El Granjero",
    "title_with_featured": "El Granjero",
@@ -1099,9 +1099,9 @@
      "artists": [
       {
        "api_path": "/artists/2436443",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2436443,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Altoons Designs",
@@ -1129,9 +1129,9 @@
      "artists": [
       {
        "api_path": "/artists/2510974",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2510974,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Nelson Nicolas Paulino",
@@ -1308,7 +1308,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/vpxu831z6t",
          "human_readable_role_for_display": "Editor",
          "id": 4156247,
-         "iq": 129525,
+         "iq": 129548,
          "login": "Jamz",
          "name": "Jamz",
          "role_for_display": "editor",
@@ -1464,8 +1464,9 @@
     "transcribers": 5,
     "unreviewed_annotations": 1,
     "verified_annotations": 0,
+    "concurrents": 2,
     "hot": false,
-    "pageviews": 43958
+    "pageviews": 43977
    },
    "title": "Po\u2019 encima",
    "title_with_featured": "Po\u2019 encima (Ft.\u00a0Bryant\u00a0Myers)",
@@ -1584,9 +1585,9 @@
      "artists": [
       {
        "api_path": "/artists/2436443",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2436443,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Altoons Designs",
@@ -1644,9 +1645,9 @@
       },
       {
        "api_path": "/artists/2240670",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2240670,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "AdShare for a Third Party",
@@ -1828,7 +1829,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fezo3shymx",
          "human_readable_role_for_display": "Editor",
          "id": 4243223,
-         "iq": 65414,
+         "iq": 65446,
          "login": "Saaanto",
          "name": "Saaanto",
          "role_for_display": "editor",
@@ -1911,7 +1912,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 13316
+        "pageviews": 13322
        },
        "title": "Ropa Cara",
        "title_with_featured": "Ropa Cara",
@@ -1961,7 +1962,7 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 261100
+        "pageviews": 261769
        },
        "title": "Who Am I? (Sim Simma)",
        "title_with_featured": "Who Am I? (Sim Simma)",
@@ -2023,7 +2024,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 12460
+        "pageviews": 12466
        },
        "title": "Po\u2019 Encima",
        "title_with_featured": "Po' Encima",

@@ -145,7 +145,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yxqam8z1uj",
        "human_readable_role_for_display": "Contributor",
        "id": 6793337,
-       "iq": 28565,
+       "iq": 28591,
        "login": "tbreadboy",
        "name": "tbreadboy",
        "role_for_display": "contributor",
@@ -199,7 +199,7 @@
        "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
        "human_readable_role_for_display": "Moderator",
        "id": 1837201,
-       "iq": 1760938,
+       "iq": 1765462,
        "login": "Qatarsi",
        "name": "Qatarsi",
        "role_for_display": "moderator",
@@ -253,7 +253,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/aqkq9ybyuic",
        "human_readable_role_for_display": "Contributor",
        "id": 4875438,
-       "iq": 76593,
+       "iq": 76942,
        "login": "FoxWalker",
        "name": "FoxWalker",
        "role_for_display": "contributor",
@@ -307,7 +307,7 @@
        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3wzxsr8cweu",
        "human_readable_role_for_display": "Editor",
        "id": 1668382,
-       "iq": 414640,
+       "iq": 414693,
        "login": "Leotardo",
        "name": "Leotardo",
        "role_for_display": "editor",
@@ -415,7 +415,7 @@
        "header_image_url": "https://images.genius.com/avatars/medium/55d355d270186e66fc8104e7b2a9a71b",
        "human_readable_role_for_display": "Contributor",
        "id": 9723153,
-       "iq": 15741,
+       "iq": 15746,
        "login": "StayGoldd",
        "name": "StayGoldd",
        "role_for_display": "contributor",
@@ -469,7 +469,7 @@
        "header_image_url": "https://images.genius.com/6d31c7019bc8b7322abe2a715d20650e.300x215x18.gif",
        "human_readable_role_for_display": "Moderator",
        "id": 10233948,
-       "iq": 72045,
+       "iq": 72114,
        "login": "Uri6",
        "name": "Uri Sivani",
        "role_for_display": "moderator",
@@ -524,9 +524,8 @@
     "transcribers": 8,
     "unreviewed_annotations": 4,
     "verified_annotations": 0,
-    "concurrents": 2,
     "hot": false,
-    "pageviews": 530702
+    "pageviews": 531796
    },
    "title": "Beggin\u2019",
    "title_with_featured": "Beggin'",
@@ -760,38 +759,38 @@
          "api_path": "/users/5007714",
          "avatar": {
           "tiny": {
-           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682970440",
            "bounding_box": {
             "width": 16,
             "height": 16
            }
           },
           "thumb": {
-           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682970440",
            "bounding_box": {
             "width": 32,
             "height": 32
            }
           },
           "small": {
-           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682970440",
            "bounding_box": {
             "width": 100,
             "height": 100
            }
           },
           "medium": {
-           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
            "bounding_box": {
             "width": 300,
             "height": 400
            }
           }
          },
-         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
          "human_readable_role_for_display": "Editor",
          "id": 5007714,
-         "iq": 112247,
+         "iq": 112293,
          "login": "Iuserneim",
          "name": "Iuserneim",
          "role_for_display": "editor",
@@ -1107,7 +1106,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 9700
+        "pageviews": 9705
        },
        "title": "Lotta & Sanna",
        "title_with_featured": "Lotta & Sanna",
@@ -1157,7 +1156,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 339308
+        "pageviews": 339552
        },
        "title": "Beggin\u2019",
        "title_with_featured": "Beggin'",
@@ -1200,7 +1199,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 63070
+        "pageviews": 63208
        },
        "title": "Beggin\u2019",
        "title_with_featured": "Beggin'",
@@ -1438,9 +1437,9 @@
        "featured_artists": [],
        "primary_artist": {
         "api_path": "/artists/3132245",
-        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "id": 3132245,
-        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
         "is_meme_verified": false,
         "is_verified": false,
         "name": "The Tech Thieves, Besomage & Meric Again",
@@ -1730,8 +1729,9 @@
     "transcribers": 3,
     "unreviewed_annotations": 6,
     "verified_annotations": 0,
+    "concurrents": 2,
     "hot": false,
-    "pageviews": 500956
+    "pageviews": 501612
    },
    "title": "I WANNA BE YOUR SLAVE",
    "title_with_featured": "I WANNA BE YOUR SLAVE",
@@ -1887,9 +1887,9 @@
      "artists": [
       {
        "api_path": "/artists/1736959",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1736959,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Enrico La Falce",
@@ -1912,9 +1912,9 @@
       },
       {
        "api_path": "/artists/1736959",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1736959,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Enrico La Falce",
@@ -1927,9 +1927,9 @@
      "artists": [
       {
        "api_path": "/artists/2653566",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2653566,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Luca Pellegrini",
@@ -1937,9 +1937,9 @@
       },
       {
        "api_path": "/artists/1736959",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1736959,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Enrico La Falce",
@@ -1952,9 +1952,9 @@
      "artists": [
       {
        "api_path": "/artists/2653566",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 2653566,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Luca Pellegrini",
@@ -1962,9 +1962,9 @@
       },
       {
        "api_path": "/artists/1736959",
-       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "id": 1736959,
-       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
        "is_meme_verified": false,
        "is_verified": false,
        "name": "Enrico La Falce",
@@ -2086,7 +2086,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7yxqepmt0kc",
          "human_readable_role_for_display": "Contributor",
          "id": 8208312,
-         "iq": 512,
+         "iq": 514,
          "login": "mathildephr",
          "name": "mathildephr",
          "role_for_display": "contributor",
@@ -2140,7 +2140,7 @@
          "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
          "human_readable_role_for_display": "Moderator",
          "id": 1837201,
-         "iq": 1760938,
+         "iq": 1765462,
          "login": "Qatarsi",
          "name": "Qatarsi",
          "role_for_display": "moderator",
@@ -2194,7 +2194,7 @@
          "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6rdoi2hbt5n",
          "human_readable_role_for_display": "Contributor",
          "id": 12339216,
-         "iq": 317,
+         "iq": 319,
          "login": "Astubudustu",
          "name": "Astubudustu",
          "role_for_display": "contributor",
@@ -2365,7 +2365,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 6292
+        "pageviews": 6309
        },
        "title": "I WANNA BE YOUR SLAVE (Remix)",
        "title_with_featured": "I WANNA BE YOUR SLAVE (Remix)",
@@ -2475,7 +2475,7 @@
        "stats": {
         "unreviewed_annotations": 2,
         "hot": false,
-        "pageviews": 12644
+        "pageviews": 12916
        },
        "title": "M\u00e5neskin - I WANNA BE YOUR SLAVE (T\u00fcrk\u00e7e \u00c7eviri)",
        "title_with_featured": "M\u00e5neskin - I WANNA BE YOUR SLAVE (T\u00fcrk\u00e7e \u00c7eviri)",
@@ -2518,7 +2518,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 5083
+        "pageviews": 5094
        },
        "title": "M\u00e5neskin - I WANNA BE YOUR SLAVE (Srpski Prevod)",
        "title_with_featured": "M\u00e5neskin - I WANNA BE YOUR SLAVE (Srpski Prevod)",
@@ -2897,7 +2897,7 @@
     "unreviewed_annotations": 0,
     "verified_annotations": 0,
     "hot": false,
-    "pageviews": 255089
+    "pageviews": 255454
    },
    "title": "ZITTI E BUONI",
    "title_with_featured": "ZITTI E BUONI",
@@ -3261,7 +3261,7 @@
          "header_image_url": "https://images.genius.com/6523700df9e6dfe25c1d09cb9efe8788.600x600x25.gif",
          "human_readable_role_for_display": "Moderator",
          "id": 1837201,
-         "iq": 1760938,
+         "iq": 1765462,
          "login": "Qatarsi",
          "name": "Qatarsi",
          "role_for_display": "moderator",
@@ -3343,8 +3343,8 @@
       {
        "annotation_count": 7,
        "api_path": "/songs/7891811",
-       "artist_names": "Sillyelly (Ft. LILTAGLIAGOLE, Narcolessia & \u200bnatimernero)",
-       "full_title": "#FREEBOSSETTI by\u00a0Sillyelly (Ft.\u00a0LILTAGLIAGOLE, Narcolessia & \u200bnatimernero)",
+       "artist_names": "Sillyelly (Ft. Liltagliagole, Narcolessia & \u200bnatimernero)",
+       "full_title": "#FREEBOSSETTI by\u00a0Sillyelly (Ft.\u00a0Liltagliagole, Narcolessia & \u200bnatimernero)",
        "header_image_thumbnail_url": "https://images.genius.com/ec55e1727022b2b25875250f2b0a1761.300x300x1.jpg",
        "header_image_url": "https://images.genius.com/ec55e1727022b2b25875250f2b0a1761.1000x1000x1.jpg",
        "id": 7891811,
@@ -3366,10 +3366,10 @@
        "stats": {
         "unreviewed_annotations": 7,
         "hot": false,
-        "pageviews": 6428
+        "pageviews": 6456
        },
        "title": "#FREEBOSSETTI",
-       "title_with_featured": "#FREEBOSSETTI (Ft.\u00a0LILTAGLIAGOLE, Narcolessia & \u200bnatimernero)",
+       "title_with_featured": "#FREEBOSSETTI (Ft.\u00a0Liltagliagole, Narcolessia & \u200bnatimernero)",
        "url": "https://genius.com/Sillyelly-freebossetti-lyrics",
        "featured_artists": [
         {
@@ -3389,7 +3389,7 @@
          "image_url": "https://images.genius.com/a82ccec7617fec42884a63ad2ff4d42b.535x535x1.jpg",
          "is_meme_verified": false,
          "is_verified": false,
-         "name": "LILTAGLIAGOLE",
+         "name": "Liltagliagole",
          "url": "https://genius.com/artists/Liltagliagole"
         },
         {
@@ -3466,7 +3466,7 @@
        "stats": {
         "unreviewed_annotations": 1,
         "hot": false,
-        "pageviews": 10040
+        "pageviews": 10049
        },
        "title": "ZITTI E BUONI (Eurovision Version)",
        "title_with_featured": "ZITTI E BUONI (Eurovision Version)",
@@ -3576,7 +3576,7 @@
        "stats": {
         "unreviewed_annotations": 0,
         "hot": false,
-        "pageviews": 64834
+        "pageviews": 64855
        },
        "title": "M\u00e5neskin - ZITTI E BUONI (Srpski Prevod)",
        "title_with_featured": "M\u00e5neskin - ZITTI E BUONI (Srpski Prevod)",
@@ -3661,7 +3661,7 @@
        "stats": {
         "unreviewed_annotations": 4,
         "hot": false,
-        "pageviews": 474502
+        "pageviews": 475951
        },
        "title": "ZITTI E BUONI (English Translation)",
        "title_with_featured": "ZITTI E BUONI (English Translation)",
