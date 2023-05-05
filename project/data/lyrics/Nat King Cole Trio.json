@@ -1,0 +1,1467 @@
+{
+ "alternate_names": [
+  "The King Cole Trio"
+ ],
+ "api_path": "/artists/343963",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+ "id": 343963,
+ "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "The Nat \u201cKing\u201d Cole Trio",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/The-nat-king-cole-trio",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7064134",
+  "classification": "needs_exegesis",
+  "fragment": "The Nat \u201cKing\u201d Cole Trio",
+  "id": 7064134,
+  "is_description": true,
+  "path": "/7064134/The-nat-king-cole-trio/The-nat-king-cole-trio",
+  "range": {
+   "content": "The Nat \u201cKing\u201d Cole Trio"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7064134/The-nat-king-cole-trio/The-nat-king-cole-trio",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/343963",
+   "context": null,
+   "id": 343963,
+   "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+   "link_title": "The Nat \u201cKing\u201d Cole Trio",
+   "title": "The Nat \u201cKing\u201d Cole Trio",
+   "type": "Artist",
+   "url": "https://genius.com/artists/The-nat-king-cole-trio"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7064134",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7064134,
+    "pinned": false,
+    "share_url": "https://genius.com/7064134",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7064134/The-nat-king-cole-trio/The-nat-king-cole-trio",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1717793",
+   "artist_names": "The Nat \u201cKing\u201d Cole Trio",
+   "full_title": "The Christmas Song (Merry Christmas to You) (Original 1946 Version) by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+   "header_image_thumbnail_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.464x464x1.jpg",
+   "id": 1717793,
+   "language": "en",
+   "lyrics_owner_id": 2457824,
+   "lyrics_state": "complete",
+   "path": "/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version-sample",
+   "release_date_components": {
+    "year": 1946,
+    "month": 6,
+    "day": null
+   },
+   "release_date_for_display": "June 1946",
+   "release_date_with_abbreviated_month_for_display": "Jun. 1946",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.464x464x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11101
+   },
+   "title": "The Christmas Song (Merry Christmas to You) (Original 1946 Version)",
+   "title_with_featured": "The Christmas Song (Merry Christmas to You) (Original 1946 Version)",
+   "url": "https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/343963",
+    "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "id": 343963,
+    "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Nat \u201cKing\u201d Cole Trio",
+    "url": "https://genius.com/artists/The-nat-king-cole-trio"
+   },
+   "apple_music_id": "264323184",
+   "apple_music_player_url": "https://genius.com/songs/1717793/apple_music_player",
+   "description": {
+    "plain": "This is the original version of \u201cThe Christmas Song (Merry Christmas to You).\u201d With only piano, bass, and guitar as backing for Nat King Cole, it creates an intimate atmosphere.\n\nIt\u2019s also the only version of the song to include the phrase \u201creindeers,\u201d as Cole fixed the grammatical error to \u201creindeer\u201d in all subsequent releases of the song. The Nat King Cole Trio would go on to rerecord the song and rerelease it within the same year with additional musical backing. They would rerelease it in [1953] (https://genius.com/Nat-king-cole-the-christmas-song-1953-version-lyrics) and 1961 as well."
+   },
+   "embed_content": "<div id='rg_embed_link_1717793' class='rg_embed_link' data-song-id='1717793'>Read <a href='https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version-lyrics'>\u201cThe Christmas Song (Merry Christmas to You) (Original 1946 Version)\u201d by The\u00a0Nat \u201cKing\u201d Cole Trio</a> on Genius</div> <script crossorigin src='//genius.com/songs/1717793/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/720715",
+    "cover_art_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.464x464x1.jpg",
+    "full_title": "The Complete Capitol Recordings of The Nat King Cole Trio by The Nat \u201cKing\u201d Cole Trio",
+    "id": 720715,
+    "name": "The Complete Capitol Recordings of The Nat King Cole Trio",
+    "release_date_for_display": "1993",
+    "url": "https://genius.com/albums/The-nat-king-cole-trio/The-complete-capitol-recordings-of-the-nat-king-cole-trio",
+    "artist": {
+     "api_path": "/artists/343963",
+     "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+     "id": 343963,
+     "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Nat \u201cKing\u201d Cole Trio",
+     "url": "https://genius.com/artists/The-nat-king-cole-trio"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/32622",
+       "header_image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+       "id": 32622,
+       "image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nat King Cole",
+       "url": "https://genius.com/artists/Nat-king-cole"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1108222",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1108222,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Oscar Moore",
+       "url": "https://genius.com/artists/Oscar-moore"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/1765471",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1765471,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Johnny Miller",
+       "url": "https://genius.com/artists/Johnny-miller"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2457824,
+    "annotator_login": "DreUpdate",
+    "api_path": "/referents/6233064",
+    "classification": "unreviewed",
+    "fragment": "The Christmas Song (Merry Christmas to You) (Original 1946 Version)",
+    "id": 6233064,
+    "is_description": true,
+    "path": "/6233064/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version/The-christmas-song-merry-christmas-to-you-original-1946-version",
+    "range": {
+     "content": "The Christmas Song (Merry Christmas to You) (Original 1946 Version)"
+    },
+    "song_id": 1717793,
+    "url": "https://genius.com/6233064/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version/The-christmas-song-merry-christmas-to-you-original-1946-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1717793",
+     "client_timestamps": {
+      "updated_by_human_at": 1670818790,
+      "lyrics_updated_at": 1670816571
+     },
+     "context": "The Nat \u201cKing\u201d Cole Trio",
+     "id": 1717793,
+     "image_url": "https://images.genius.com/1c4091e95f69e0dd919fa7eed93a3f42.464x464x1.jpg",
+     "link_title": "The Christmas Song (Merry Christmas to You) (Original 1946 Version) by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+     "title": "The Christmas Song (Merry Christmas to You) (Original 1946 Version)",
+     "type": "Song",
+     "url": "https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6233064",
+      "body": {
+       "plain": "This is the original version of \u201cThe Christmas Song (Merry Christmas to You).\u201d With only piano, bass, and guitar as backing for Nat King Cole, it creates an intimate atmosphere.\n\nIt\u2019s also the only version of the song to include the phrase \u201creindeers,\u201d as Cole fixed the grammatical error to \u201creindeer\u201d in all subsequent releases of the song. The Nat King Cole Trio would go on to rerecord the song and rerelease it within the same year with additional musical backing. They would rerelease it in [1953] (https://genius.com/Nat-king-cole-the-christmas-song-1953-version-lyrics) and 1961 as well."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6233064,
+      "pinned": false,
+      "share_url": "https://genius.com/6233064",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/6233064/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-original-1946-version/The-christmas-song-merry-christmas-to-you-original-1946-version",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2457824",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f96c073b0bd60c3917b2adbea110f7df.1000x563x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2457824,
+         "iq": 225760,
+         "login": "DreUpdate",
+         "name": "DreUpdate",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DreUpdate",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Isf42hchmD4"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/104685",
+       "artist_names": "Nat King Cole",
+       "full_title": "The Christmas Song by\u00a0Nat\u00a0King Cole",
+       "header_image_thumbnail_url": "https://images.genius.com/be39281155b94acdaac21040ce330388.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/be39281155b94acdaac21040ce330388.1000x1000x1.jpg",
+       "id": 104685,
+       "language": "en",
+       "lyrics_owner_id": 1850,
+       "lyrics_state": "complete",
+       "path": "/Nat-king-cole-the-christmas-song-lyrics",
+       "pyongs_count": 8,
+       "relationships_index_url": "https://genius.com/Nat-king-cole-the-christmas-song-sample",
+       "release_date_components": {
+        "year": 1961,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1961",
+       "release_date_with_abbreviated_month_for_display": "1961",
+       "song_art_image_thumbnail_url": "https://images.genius.com/be39281155b94acdaac21040ce330388.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/be39281155b94acdaac21040ce330388.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 318838
+       },
+       "title": "The Christmas Song",
+       "title_with_featured": "The Christmas Song",
+       "url": "https://genius.com/Nat-king-cole-the-christmas-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32622",
+        "header_image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+        "id": 32622,
+        "image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nat King Cole",
+        "url": "https://genius.com/artists/Nat-king-cole"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1805166",
+       "artist_names": "The Nat \u201cKing\u201d Cole Trio",
+       "full_title": "The Christmas Song (Merry Christmas To You) (1946 ReRelease Version) by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+       "header_image_thumbnail_url": "https://images.genius.com/e429fee76eee04e58b8ae16c1f7e86b5.300x303x1.jpg",
+       "header_image_url": "https://images.genius.com/e429fee76eee04e58b8ae16c1f7e86b5.791x800x1.jpg",
+       "id": 1805166,
+       "language": "en",
+       "lyrics_owner_id": 2457824,
+       "lyrics_state": "complete",
+       "path": "/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-1946-rerelease-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-1946-rerelease-version-sample",
+       "release_date_components": {
+        "year": 1946,
+        "month": 10,
+        "day": 14
+       },
+       "release_date_for_display": "October 14, 1946",
+       "release_date_with_abbreviated_month_for_display": "Oct. 14, 1946",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e429fee76eee04e58b8ae16c1f7e86b5.300x303x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e429fee76eee04e58b8ae16c1f7e86b5.791x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Christmas Song (Merry Christmas To You) (1946 ReRelease Version)",
+       "title_with_featured": "The Christmas Song (Merry Christmas To You) (1946 ReRelease Version)",
+       "url": "https://genius.com/The-nat-king-cole-trio-the-christmas-song-merry-christmas-to-you-1946-rerelease-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/343963",
+        "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+        "id": 343963,
+        "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Nat \u201cKing\u201d Cole Trio",
+        "url": "https://genius.com/artists/The-nat-king-cole-trio"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1628265",
+       "artist_names": "Nat King Cole",
+       "full_title": "The Christmas Song (1953 Version) by\u00a0Nat\u00a0King Cole",
+       "header_image_thumbnail_url": "https://images.genius.com/b0080a67f623d119a0d75b30009573f1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b0080a67f623d119a0d75b30009573f1.497x497x1.jpg",
+       "id": 1628265,
+       "language": "en",
+       "lyrics_owner_id": 3492882,
+       "lyrics_state": "complete",
+       "path": "/Nat-king-cole-the-christmas-song-1953-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Nat-king-cole-the-christmas-song-1953-version-sample",
+       "release_date_components": {
+        "year": 1953,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1953",
+       "release_date_with_abbreviated_month_for_display": "1953",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b0080a67f623d119a0d75b30009573f1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b0080a67f623d119a0d75b30009573f1.497x497x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "The Christmas Song (1953 Version)",
+       "title_with_featured": "The Christmas Song (1953 Version)",
+       "url": "https://genius.com/Nat-king-cole-the-christmas-song-1953-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32622",
+        "header_image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+        "id": 32622,
+        "image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Nat King Cole",
+        "url": "https://genius.com/artists/Nat-king-cole"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1364742",
+     "header_image_url": "https://images.genius.com/be92ebb30777142da65735b4606ea0ca.150x150x1.jpg",
+     "id": 1364742,
+     "image_url": "https://images.genius.com/be92ebb30777142da65735b4606ea0ca.150x150x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Robert Wells",
+     "url": "https://genius.com/artists/Robert-wells"
+    },
+    {
+     "api_path": "/artists/350503",
+     "header_image_url": "https://images.genius.com/52c2ef8d6f7f37daec2778470ed3b1a3.1000x750x1.jpg",
+     "id": 350503,
+     "image_url": "https://images.genius.com/adfc84088331398d74942c74fa4f7652.560x560x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mel Torm\u00e9",
+     "url": "https://genius.com/artists/Mel-torme"
+    }
+   ],
+   "artist": "The Nat \u201cKing\u201d Cole Trio",
+   "lyrics": "6 ContributorsThe Christmas Song (Merry Christmas to You) (Original 1946 Version) Lyrics[Verse]\nChestnuts roasting on an open fire\nJack frost nipping at your nose\nYuletide carols being sung by a choir\nAnd folks dressed up like Eskimos\n\nEverybody knows a turkey and some mistletoe\nHelp to make the season bright\nTiny tots with their eyes all aglow\nWill find it hard to sleep tonight\nThey know that Santa's on his way\nHe's loaded lots of toys and goodies on his sleigh\nAnd every mother's child is gonna spy\nTo see if reindeers really know how to fly\n\nAnd so I'm offering this simple phrase\nTo kids from one to ninety-two\nAlthough its been said many times\nMany ways, merry Christmas to you\n\n[Instrumental break]\n\n[Outro]\nAnd so I'm offering this simple phrase\nTo kids from one to ninety-two\nAlthough its been said many times\nMany ways, merry Christmas to youYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1829850",
+   "artist_names": "The Nat \u201cKing\u201d Cole Trio",
+   "full_title": "Nature Boy by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+   "header_image_thumbnail_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.1000x1000x1.jpg",
+   "id": 1829850,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-nat-king-cole-trio-nature-boy-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/The-nat-king-cole-trio-nature-boy-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Nature Boy",
+   "title_with_featured": "Nature Boy",
+   "url": "https://genius.com/The-nat-king-cole-trio-nature-boy-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/343963",
+    "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "id": 343963,
+    "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Nat \u201cKing\u201d Cole Trio",
+    "url": "https://genius.com/artists/The-nat-king-cole-trio"
+   },
+   "apple_music_id": "724417173",
+   "apple_music_player_url": "https://genius.com/songs/1829850/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1829850' class='rg_embed_link' data-song-id='1829850'>Read <a href='https://genius.com/The-nat-king-cole-trio-nature-boy-lyrics'>\u201cNature Boy\u201d by The\u00a0Nat \u201cKing\u201d Cole Trio</a> on Genius</div> <script crossorigin src='//genius.com/songs/1829850/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/944099",
+    "cover_art_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.1000x1000x1.jpg",
+    "full_title": "Nat King Cole by Nat King Cole",
+    "id": 944099,
+    "name": "Nat King Cole",
+    "release_date_for_display": "November 2, 1992",
+    "url": "https://genius.com/albums/Nat-king-cole/Nat-king-cole",
+    "artist": {
+     "api_path": "/artists/32622",
+     "header_image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+     "id": 32622,
+     "image_url": "https://images.genius.com/e605b4bd368059b58b3f1b7e34cfcc51.904x944x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nat King Cole",
+     "url": "https://genius.com/artists/Nat-king-cole"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6443138",
+    "classification": "needs_exegesis",
+    "fragment": "Nature Boy",
+    "id": 6443138,
+    "is_description": true,
+    "path": "/6443138/The-nat-king-cole-trio-nature-boy/Nature-boy",
+    "range": {
+     "content": "Nature Boy"
+    },
+    "song_id": 1829850,
+    "url": "https://genius.com/6443138/The-nat-king-cole-trio-nature-boy/Nature-boy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1829850",
+     "client_timestamps": {
+      "updated_by_human_at": 1445442571,
+      "lyrics_updated_at": 1431624028
+     },
+     "context": "The Nat \u201cKing\u201d Cole Trio",
+     "id": 1829850,
+     "image_url": "https://images.genius.com/b0c952143690426332c2c22b0726618a.1000x1000x1.jpg",
+     "link_title": "Nature Boy by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+     "title": "Nature Boy",
+     "type": "Song",
+     "url": "https://genius.com/The-nat-king-cole-trio-nature-boy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6443138",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6443138,
+      "pinned": false,
+      "share_url": "https://genius.com/6443138",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6443138/The-nat-king-cole-trio-nature-boy/Nature-boy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Nat \u201cKing\u201d Cole Trio",
+   "lyrics": "2 ContributorsNature Boy LyricsThere was a boy\nA very strange enchanted boy\nThey say he wandered very far\nVery far\nOver land and sea\nA little shy and sad of eye\nBut very wise was he\n\nAnd then one day\nA magic day he passed my way\nAnd while we spoke of many things\nFools and kings\nThis he said to me\n\"The greatest thing you'll ever learn\nIs just to love and be loved in return\"\n\"The greatest thing you'll ever learn\nIs just to love and be loved in return\"You might also like1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1204169",
+   "artist_names": "The Nat \u201cKing\u201d Cole Trio",
+   "full_title": "It's Only a Paper Moon by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+   "header_image_thumbnail_url": "https://images.genius.com/8c4b9217794d8b274c06305ab77bbee0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8c4b9217794d8b274c06305ab77bbee0.1000x1000x1.jpg",
+   "id": 1204169,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/The-nat-king-cole-trio-its-only-a-paper-moon-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/The-nat-king-cole-trio-its-only-a-paper-moon-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/8c4b9217794d8b274c06305ab77bbee0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8c4b9217794d8b274c06305ab77bbee0.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "It\u2019s Only a Paper Moon",
+   "title_with_featured": "It's Only a Paper Moon",
+   "url": "https://genius.com/The-nat-king-cole-trio-its-only-a-paper-moon-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/343963",
+    "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "id": 343963,
+    "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "The Nat \u201cKing\u201d Cole Trio",
+    "url": "https://genius.com/artists/The-nat-king-cole-trio"
+   },
+   "apple_music_id": "889225465",
+   "apple_music_player_url": "https://genius.com/songs/1204169/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1204169' class='rg_embed_link' data-song-id='1204169'>Read <a href='https://genius.com/The-nat-king-cole-trio-its-only-a-paper-moon-lyrics'>\u201cIt's Only a Paper Moon\u201d by The\u00a0Nat \u201cKing\u201d Cole Trio</a> on Genius</div> <script crossorigin src='//genius.com/songs/1204169/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/284882",
+    "cover_art_url": "https://images.genius.com/7968f73cc63d78eda59eb0dd650d6a6c.540x540x1.jpg",
+    "full_title": "The King Cole Trio by The Nat \u201cKing\u201d Cole Trio",
+    "id": 284882,
+    "name": "The King Cole Trio",
+    "release_date_for_display": "1944",
+    "url": "https://genius.com/albums/The-nat-king-cole-trio/The-king-cole-trio",
+    "artist": {
+     "api_path": "/artists/343963",
+     "header_image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+     "id": 343963,
+     "image_url": "https://images.genius.com/fa291bbbcf39d22f9b27ce5faf206812.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "The Nat \u201cKing\u201d Cole Trio",
+     "url": "https://genius.com/artists/The-nat-king-cole-trio"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5706563",
+    "classification": "needs_exegesis",
+    "fragment": "It\u2019s Only a Paper Moon",
+    "id": 5706563,
+    "is_description": true,
+    "path": "/5706563/The-nat-king-cole-trio-its-only-a-paper-moon/Its-only-a-paper-moon",
+    "range": {
+     "content": "It's Only a Paper Moon"
+    },
+    "song_id": 1204169,
+    "url": "https://genius.com/5706563/The-nat-king-cole-trio-its-only-a-paper-moon/Its-only-a-paper-moon",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1204169",
+     "client_timestamps": {
+      "updated_by_human_at": 1575675374,
+      "lyrics_updated_at": 1429693947
+     },
+     "context": "The Nat \u201cKing\u201d Cole Trio",
+     "id": 1204169,
+     "image_url": "https://images.genius.com/8c4b9217794d8b274c06305ab77bbee0.1000x1000x1.jpg",
+     "link_title": "It\u2019s Only a Paper Moon by\u00a0The\u00a0Nat \u201cKing\u201d Cole Trio",
+     "title": "It's Only a Paper Moon",
+     "type": "Song",
+     "url": "https://genius.com/The-nat-king-cole-trio-its-only-a-paper-moon-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5706563",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5706563,
+      "pinned": false,
+      "share_url": "https://genius.com/5706563",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5706563/The-nat-king-cole-trio-its-only-a-paper-moon/Its-only-a-paper-moon",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "natkingcole",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/natkingcole/its-only-a-paper-moon-1995"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=VY6FzegKzJQ"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "The Nat \u201cKing\u201d Cole Trio",
+   "lyrics": "4 ContributorsIt\u2019s Only a Paper Moon LyricsIt is only a paper moon\nSailing over a cardboard sea\nBut it wouldn't be make-believe\nIf you believe in me\n\nIt is only a canvas sky\nHanging over a muslin tree\nBut it wouldn't be make-believe\nIf you believe in me\n\nWithout your love\nIt's a honky-tonk parade\nWithout your love\nIt's a melody played\nIn a penny arcade\nIt's a Barnum and Bailey world\nJust as phony as it can be\nBut it wouldn't be make-believe\nIf you believe in me\n\nWithout your love\nIt's a honky-tonk parade\nWithout your love\nIt's a melody played\nIn a penny arcade\n\nIt's a Barnum and Bailey world\nJust as phony as it can be\nBut it wouldn't be make-believe\nIf you believe in meYou might also likeEmbed"
+  }
+ ]
+}

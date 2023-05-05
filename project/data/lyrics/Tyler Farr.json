@@ -1,0 +1,1859 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/123915",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "tylerfarrofficial",
+ "followers_count": 13,
+ "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+ "id": 123915,
+ "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+ "instagram_name": "",
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "Tyler Farr",
+ "translation_artist": false,
+ "twitter_name": "tylerfarr",
+ "url": "https://genius.com/artists/Tyler-farr",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 2271,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4733728,
+  "annotator_login": "JJEvans",
+  "api_path": "/referents/19888239",
+  "classification": "needs_exegesis",
+  "fragment": "Tyler Farr",
+  "id": 19888239,
+  "is_description": true,
+  "path": "/19888239/Tyler-farr/Tyler-farr",
+  "range": {
+   "content": "Tyler Farr"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19888239/Tyler-farr/Tyler-farr",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/123915",
+   "context": null,
+   "id": 123915,
+   "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+   "link_title": "Tyler Farr",
+   "title": "Tyler Farr",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Tyler-farr"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19888239",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19888239,
+    "pinned": false,
+    "share_url": "https://genius.com/19888239",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19888239/Tyler-farr/Tyler-farr",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4733728",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 4733728,
+       "iq": 630083,
+       "login": "JJEvans",
+       "name": "Jay Evans",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JJEvans",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/1667687",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.rapgenius.com/avatars/tiny/f2d555c8cc126007ac60b6e5308d7f2d",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.rapgenius.com/avatars/thumb/f2d555c8cc126007ac60b6e5308d7f2d",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.rapgenius.com/avatars/small/f2d555c8cc126007ac60b6e5308d7f2d",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 1667687,
+  "iq": 2271,
+  "login": "TylerFarr",
+  "name": "Tyler Farr",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/TylerFarr",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/735060",
+   "artist_names": "Tyler Farr",
+   "full_title": "Withdrawals by\u00a0Tyler\u00a0Farr",
+   "header_image_thumbnail_url": "https://images.genius.com/7325948752049c2d4bb8f918b5f519a7.300x169x1.jpg",
+   "header_image_url": "https://images.genius.com/7325948752049c2d4bb8f918b5f519a7.1000x563x1.jpg",
+   "id": 735060,
+   "language": "en",
+   "lyrics_owner_id": 190012,
+   "lyrics_state": "complete",
+   "path": "/Tyler-farr-withdrawals-lyrics",
+   "pyongs_count": 27,
+   "relationships_index_url": "https://genius.com/Tyler-farr-withdrawals-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/3b8e894e3e95e7e681a88f3cc449cda9.220x220x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3b8e894e3e95e7e681a88f3cc449cda9.220x220x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 3,
+    "hot": false,
+    "pageviews": 44486
+   },
+   "title": "Withdrawals",
+   "title_with_featured": "Withdrawals",
+   "url": "https://genius.com/Tyler-farr-withdrawals-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/123915",
+    "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "id": 123915,
+    "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Tyler Farr",
+    "url": "https://genius.com/artists/Tyler-farr",
+    "iq": 2271
+   },
+   "apple_music_id": "977746856",
+   "apple_music_player_url": "https://genius.com/songs/735060/apple_music_player",
+   "description": {
+    "plain": "Co-written by Josh Kear, Gordie Sampson, and Hillary Lindsey, \u201cWithdrawals\u201d is the second single off Farr\u2019s upcoming second studio album, Suffer in Peace.\n\nAs hinted at in the title, the song puns on the physiological and psychological consequence of leaving an ex-lover by comparing the situation to the difficulties encountered in the singer\u2019s renunciation of an addictive substance like alcohol.\n\nhttp://vevo.ly/6vPPnK"
+   },
+   "embed_content": "<div id='rg_embed_link_735060' class='rg_embed_link' data-song-id='735060'>Read <a href='https://genius.com/Tyler-farr-withdrawals-lyrics'>\u201cWithdrawals\u201d by Tyler\u00a0Farr</a> on Genius</div> <script crossorigin src='//genius.com/songs/735060/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122362",
+    "cover_art_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+    "full_title": "Suffer in Peace by Tyler Farr",
+    "id": 122362,
+    "name": "Suffer in Peace",
+    "release_date_for_display": "April 28, 2015",
+    "url": "https://genius.com/albums/Tyler-farr/Suffer-in-peace",
+    "artist": {
+     "api_path": "/artists/123915",
+     "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "id": 123915,
+     "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tyler Farr",
+     "url": "https://genius.com/artists/Tyler-farr",
+     "iq": 2271
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 190012,
+    "annotator_login": "XenaWarriorPrincess",
+    "api_path": "/referents/5121854",
+    "classification": "accepted",
+    "fragment": "Withdrawals",
+    "id": 5121854,
+    "is_description": true,
+    "path": "/5121854/Tyler-farr-withdrawals/Withdrawals",
+    "range": {
+     "content": "Withdrawals"
+    },
+    "song_id": 735060,
+    "url": "https://genius.com/5121854/Tyler-farr-withdrawals/Withdrawals",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/735060",
+     "client_timestamps": {
+      "updated_by_human_at": 1557630471,
+      "lyrics_updated_at": 1535159709
+     },
+     "context": "Tyler Farr",
+     "id": 735060,
+     "image_url": "https://images.genius.com/3b8e894e3e95e7e681a88f3cc449cda9.220x220x1.jpg",
+     "link_title": "Withdrawals by\u00a0Tyler\u00a0Farr",
+     "title": "Withdrawals",
+     "type": "Song",
+     "url": "https://genius.com/Tyler-farr-withdrawals-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5121854",
+      "body": {
+       "plain": "Co-written by Josh Kear, Gordie Sampson, and Hillary Lindsey, \u201cWithdrawals\u201d is the second single off Farr\u2019s upcoming second studio album, Suffer in Peace.\n\nAs hinted at in the title, the song puns on the physiological and psychological consequence of leaving an ex-lover by comparing the situation to the difficulties encountered in the singer\u2019s renunciation of an addictive substance like alcohol.\n\nhttp://vevo.ly/6vPPnK"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5121854,
+      "pinned": false,
+      "share_url": "https://genius.com/5121854",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5121854/Tyler-farr-withdrawals/Withdrawals",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9777777777777777,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/190012",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 190012,
+         "iq": 85349,
+         "login": "XenaWarriorPrincess",
+         "name": "Peter Nowogrodzki",
+         "role_for_display": "editor",
+         "url": "https://genius.com/XenaWarriorPrincess",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.022222222222222223,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/140605",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/d0eca2a1247d282f31bd85c32af7d561",
+         "human_readable_role_for_display": "Moderator",
+         "id": 140605,
+         "iq": 333180,
+         "login": "MrXercules",
+         "name": "MrXercules",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/MrXercules",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1gRh1UnU44zyiOvZgMD4qR",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1gRh1UnU44zyiOvZgMD4qR"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=SFjsNoCEN-E"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2253365",
+       "artist_names": "MiindGame",
+       "full_title": "Heartbreak by\u00a0MiindGame",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/538f62d1c13337d5b376ec8b46dbb975.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/538f62d1c13337d5b376ec8b46dbb975.500x500x1.jpg",
+       "id": 2253365,
+       "language": "en",
+       "lyrics_owner_id": 1769136,
+       "lyrics_state": "complete",
+       "path": "/Miindgame-heartbreak-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Miindgame-heartbreak-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 8,
+        "day": 29
+       },
+       "release_date_for_display": "August 29, 2015",
+       "release_date_with_abbreviated_month_for_display": "Aug. 29, 2015",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/538f62d1c13337d5b376ec8b46dbb975.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/538f62d1c13337d5b376ec8b46dbb975.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Heartbreak",
+       "title_with_featured": "Heartbreak",
+       "url": "https://genius.com/Miindgame-heartbreak-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/446404",
+        "header_image_url": "https://images.genius.com/ef4be033b5fc02ae861de98ba59e00bb.1000x1000x1.png",
+        "id": 446404,
+        "image_url": "https://images.genius.com/f0c9faf2a6c609e025184eec38879047.307x307x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "MiindGame",
+        "url": "https://genius.com/artists/Miindgame",
+        "iq": 1061
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/1667687",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.rapgenius.com/avatars/tiny/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.rapgenius.com/avatars/thumb/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.rapgenius.com/avatars/small/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 1667687,
+     "iq": 2271,
+     "login": "TylerFarr",
+     "name": "Tyler Farr",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TylerFarr",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/123915",
+      "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+      "id": 123915,
+      "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Tyler Farr",
+      "url": "https://genius.com/artists/Tyler-farr",
+      "iq": 2271
+     },
+     "user": {
+      "api_path": "/users/1667687",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.rapgenius.com/avatars/tiny/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.rapgenius.com/avatars/thumb/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.rapgenius.com/avatars/small/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 1667687,
+      "iq": 2271,
+      "login": "TylerFarr",
+      "name": "Tyler Farr",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TylerFarr",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Tyler Farr",
+   "lyrics": "10 ContributorsWithdrawals Lyrics[Verse]\nYou were that whiskey running through my veins\nYou were that first sweet taste of Mary Jane\nAll alone in the darkness watching my hands shake\nBut they don\u2019t have a rehab for heartbreak\n\nIt\u2019s your blue sundress with the strap falling off of your shoulder\nIt\u2019s that all night moonlight drive, you saying baby pull over, pull over\nIt\u2019s that long kiss barely coming up for air\nHad to have you anytime and everywhere\nSo hooked on you probably never get clean and sober\n\nWhoa, I bang my head against the moon\nI bang my fist against the wall\nYou always used to get me high\nNow all I do is crash and fall\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nYeah you got me going through \u2018em\n\nIt\u2019s the rain on the window with your body wrapped tight around me\nIt's that lightning flash in your eyes make me want you so badly, madly\nYou\u2019re the ghost that\u2019s still sleeping in my bed\nA song I can\u2019t turn off in my head\nYou\u2019re the perfect storm, yeah baby, and I\u2019m still drowning\nYou might also likeWhoa, I bang my head against the moon\nI bang my fist against the wall\nYou always used to get me high\nNow all I do is crash and fall\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nYeah you got me going through \u2018em\n\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals, yeah\n\nI bang my head against the moon\nI bang my fist against the wall\nYou always used to get me high\nNow all I do is crash and fall\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nI\u2019m going through withdrawals\nYeah you got me going through \u2018em27Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/736309",
+   "artist_names": "Tyler Farr (Ft. Jason Aldean)",
+   "full_title": "Damn Good Friends by\u00a0Tyler\u00a0Farr (Ft.\u00a0Jason\u00a0Aldean)",
+   "header_image_thumbnail_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+   "id": 736309,
+   "language": "en",
+   "lyrics_owner_id": 190012,
+   "lyrics_state": "complete",
+   "path": "/Tyler-farr-damn-good-friends-lyrics",
+   "pyongs_count": 13,
+   "relationships_index_url": "https://genius.com/Tyler-farr-damn-good-friends-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 4,
+    "day": 28
+   },
+   "release_date_for_display": "April 28, 2015",
+   "release_date_with_abbreviated_month_for_display": "Apr. 28, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9856
+   },
+   "title": "Damn Good Friends",
+   "title_with_featured": "Damn Good Friends (Ft.\u00a0Jason\u00a0Aldean)",
+   "url": "https://genius.com/Tyler-farr-damn-good-friends-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/17949",
+     "header_image_url": "https://images.genius.com/f9731d31c2ddec16a459c344d45e21d0.1000x450x1.jpg",
+     "id": 17949,
+     "image_url": "https://images.genius.com/7adf78456c9817b742817a212aa4e571.885x885x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Aldean",
+     "url": "https://genius.com/artists/Jason-aldean"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/123915",
+    "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "id": 123915,
+    "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Tyler Farr",
+    "url": "https://genius.com/artists/Tyler-farr",
+    "iq": 2271
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/736309/apple_music_player",
+   "description": {
+    "plain": "Co-written by Brent Anderson, Chris DuBois, and Neil Medley, \u201cDamn Good Friends\u201d is the fourth track from Tyler Farr\u2019s second album, Suffer In Peace. It\u2019s an ode to those friends you have, but they aren\u2019t just buddies, or even friends\u2026they\u2019re damn good friends.\n\nThe song features Jason Aldean, who is the only other artist to appear on the album. I guess they\u2019re damn good friends?"
+   },
+   "embed_content": "<div id='rg_embed_link_736309' class='rg_embed_link' data-song-id='736309'>Read <a href='https://genius.com/Tyler-farr-damn-good-friends-lyrics'>\u201cDamn Good Friends\u201d by Tyler\u00a0Farr</a> on Genius</div> <script crossorigin src='//genius.com/songs/736309/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-04-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122362",
+    "cover_art_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+    "full_title": "Suffer in Peace by Tyler Farr",
+    "id": 122362,
+    "name": "Suffer in Peace",
+    "release_date_for_display": "April 28, 2015",
+    "url": "https://genius.com/albums/Tyler-farr/Suffer-in-peace",
+    "artist": {
+     "api_path": "/artists/123915",
+     "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "id": 123915,
+     "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tyler Farr",
+     "url": "https://genius.com/artists/Tyler-farr",
+     "iq": 2271
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1448826,
+    "annotator_login": "babuc",
+    "api_path": "/referents/5128740",
+    "classification": "accepted",
+    "fragment": "Damn Good Friends",
+    "id": 5128740,
+    "is_description": true,
+    "path": "/5128740/Tyler-farr-damn-good-friends/Damn-good-friends",
+    "range": {
+     "content": "Damn Good Friends"
+    },
+    "song_id": 736309,
+    "url": "https://genius.com/5128740/Tyler-farr-damn-good-friends/Damn-good-friends",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/736309",
+     "client_timestamps": {
+      "updated_by_human_at": 1535948267,
+      "lyrics_updated_at": 1535948267
+     },
+     "context": "Tyler Farr",
+     "id": 736309,
+     "image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+     "link_title": "Damn Good Friends by\u00a0Tyler\u00a0Farr (Ft.\u00a0Jason\u00a0Aldean)",
+     "title": "Damn Good Friends",
+     "type": "Song",
+     "url": "https://genius.com/Tyler-farr-damn-good-friends-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5128740",
+      "body": {
+       "plain": "Co-written by Brent Anderson, Chris DuBois, and Neil Medley, \u201cDamn Good Friends\u201d is the fourth track from Tyler Farr\u2019s second album, Suffer In Peace. It\u2019s an ode to those friends you have, but they aren\u2019t just buddies, or even friends\u2026they\u2019re damn good friends.\n\nThe song features Jason Aldean, who is the only other artist to appear on the album. I guess they\u2019re damn good friends?"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5128740,
+      "pinned": false,
+      "share_url": "https://genius.com/5128740",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5128740/Tyler-farr-damn-good-friends/Damn-good-friends",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8636363636363636,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1448826",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/744bc3b7bd77206b4c768fadc9911a25",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/427478c68f285fc5e038b6995aabbbb9.600x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1448826,
+         "iq": 192804,
+         "login": "babuc",
+         "name": "Babu Chatterjee",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/babuc",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.13636363636363635,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/190012",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 190012,
+         "iq": 85349,
+         "login": "XenaWarriorPrincess",
+         "name": "Peter Nowogrodzki",
+         "role_for_display": "editor",
+         "url": "https://genius.com/XenaWarriorPrincess",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:7p7Htw2r4UavqvWv1O6omI",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7p7Htw2r4UavqvWv1O6omI"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=VGI6VZ8osww"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/635599",
+     "header_image_url": "https://images.genius.com/cbae9908f37f8c299319871b5a1553d5.263x263x1.jpg",
+     "id": 635599,
+     "image_url": "https://images.genius.com/cbae9908f37f8c299319871b5a1553d5.263x263x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Julian King",
+     "url": "https://genius.com/artists/Julian-king"
+    },
+    {
+     "api_path": "/artists/498529",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 498529,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jim Catino",
+     "url": "https://genius.com/artists/Jim-catino"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5412303",
+       "artist_names": "Lee Kernaghan (Ft. The Wolfe Brothers)",
+       "full_title": "Damn Good Mates by\u00a0Lee\u00a0Kernaghan (Ft.\u00a0The\u00a0Wolfe Brothers)",
+       "header_image_thumbnail_url": "https://images.genius.com/6feec3d4a09b3145dcbe2d9bce0d9998.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6feec3d4a09b3145dcbe2d9bce0d9998.500x500x1.jpg",
+       "id": 5412303,
+       "language": "en",
+       "lyrics_owner_id": 10116960,
+       "lyrics_state": "complete",
+       "path": "/Lee-kernaghan-damn-good-mates-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lee-kernaghan-damn-good-mates-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 3,
+        "day": 24
+       },
+       "release_date_for_display": "March 24, 2017",
+       "release_date_with_abbreviated_month_for_display": "Mar. 24, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6feec3d4a09b3145dcbe2d9bce0d9998.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6feec3d4a09b3145dcbe2d9bce0d9998.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Damn Good Mates",
+       "title_with_featured": "Damn Good Mates (Ft.\u00a0The\u00a0Wolfe Brothers)",
+       "url": "https://genius.com/Lee-kernaghan-damn-good-mates-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1723286",
+         "header_image_url": "https://images.genius.com/f6f10e000bba52d0519b98b3af92c835.1000x165x1.jpg",
+         "id": 1723286,
+         "image_url": "https://images.genius.com/515439c1fc48e693c0d6aa07a2caa70a.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "The Wolfe Brothers",
+         "url": "https://genius.com/artists/The-wolfe-brothers",
+         "iq": 659
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/360981",
+        "header_image_url": "https://images.genius.com/7e92779cd7d935119621aad9b26319ef.275x183x1.jpg",
+        "id": 360981,
+        "image_url": "https://images.genius.com/1fcb14b5787f84eef286bdd0ef45cebc.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lee Kernaghan",
+        "url": "https://genius.com/artists/Lee-kernaghan"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/672206",
+     "header_image_url": "https://images.genius.com/caf90d4f56dfd7d71ce598e985386e01.400x400x1.jpg",
+     "id": 672206,
+     "image_url": "https://images.genius.com/85b99dde7acae09e6adf93eff1d8f20f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Neil Medley",
+     "url": "https://genius.com/artists/Neil-medley"
+    },
+    {
+     "api_path": "/artists/490531",
+     "header_image_url": "https://images.genius.com/733331c725c91cbf5bbe33973409c186.1000x1000x1.jpg",
+     "id": 490531,
+     "image_url": "https://images.genius.com/733331c725c91cbf5bbe33973409c186.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris DuBois",
+     "url": "https://genius.com/artists/Chris-dubois"
+    },
+    {
+     "api_path": "/artists/350803",
+     "header_image_url": "https://images.genius.com/fa51ae833c996732f7690c65d2c872a3.922x922x1.jpg",
+     "id": 350803,
+     "image_url": "https://images.genius.com/fa51ae833c996732f7690c65d2c872a3.922x922x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brent Anderson",
+     "url": "https://genius.com/artists/Brent-anderson"
+    }
+   ],
+   "artist": "Tyler Farr",
+   "lyrics": "9 ContributorsDamn Good Friends Lyrics[Verse 1: Tyler Farr]\nYou're drivin' back home down 246\nYou almost hit a deer and you end up in a ditch\nYou can\u2019t pull forward and you can't back out\nYou're sittin' there thinkin' whatcha gonna do now\nYou'd be a little nervous if the cop showed up\n'Cause you drank a little maybe just a little too much\nWaitin\u2019 on a tow truck takes too long\nIt\u2019s two in the mornin', who you gonna call\n\n[Chorus: Tyler Farr]\nFriends, damn good friends\nSeven minutes later they're pullin' you out\nYou know the ones I'm talkin' about\nFriends, damn good friends\nYou can count 'em all on one of your hands\nYou got a hundred buddies\nA couple of damn good friends\n\n[Verse 2: Jason Aldean & Tyler Farr]\nSo you're all shootin' pool on a Saturday night\nThis little brunette keeps givin' you the eye\nSo you buy her a drink, before too long\nYou\u2019re out on the floor in the middle of a song\nAbout that time her ex shows up\nHe's starin' you down getting' all bowed up\nHe's a big ol' jacked up S.O.B\nThat\u2019s alright he\u2019s about to meet your\nYou might also like[Chorus 2: Tyler Farr & Both]\nFriends, damn good friends\nA few seconds later he's startin' to see\nIt ain't one on one, it's one on three\nFriends, damn good friends\nThey do it for you 'cause you'd do it for them\nYou got a hundred buddies\nBut a couple of damn good friends\n\n[Bridge: Tyler Farr]\nThey're there even when you don't see 'em as much\nCause you moved away or you fell in love\nBut they're wearin' a tux when you're sayin' your vows\nAnd if you crash and burn you can crash on their couch\n\n[Chorus 3: Tyler Farr & Both]\nFriends, damn good friends\nThey love you like a brother there ain't no doubt\nYou know the ones I'm talkin' about\nFriends, damn good friends\nYou can count 'em all on one of your hands\nYou got a hundred buddies\nAnd a couple of damn good friends\nOh damn good friends13Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/735063",
+   "artist_names": "Tyler Farr",
+   "full_title": "Suffer in Peace by\u00a0Tyler\u00a0Farr",
+   "header_image_thumbnail_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+   "id": 735063,
+   "language": "en",
+   "lyrics_owner_id": 190012,
+   "lyrics_state": "complete",
+   "path": "/Tyler-farr-suffer-in-peace-lyrics",
+   "pyongs_count": 22,
+   "relationships_index_url": "https://genius.com/Tyler-farr-suffer-in-peace-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 6,
+    "hot": false,
+    "pageviews": 7015
+   },
+   "title": "Suffer in Peace",
+   "title_with_featured": "Suffer in Peace",
+   "url": "https://genius.com/Tyler-farr-suffer-in-peace-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/123915",
+    "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "id": 123915,
+    "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Tyler Farr",
+    "url": "https://genius.com/artists/Tyler-farr",
+    "iq": 2271
+   },
+   "apple_music_id": "977746860",
+   "apple_music_player_url": "https://genius.com/songs/735063/apple_music_player",
+   "description": {
+    "plain": "Written by Aaron G. Barker Sr. and Phil O'Donnell, \u201cSuffer in Peace\u201d is the title track off Farr\u2019s April, 2015 studio album."
+   },
+   "embed_content": "<div id='rg_embed_link_735063' class='rg_embed_link' data-song-id='735063'>Read <a href='https://genius.com/Tyler-farr-suffer-in-peace-lyrics'>\u201cSuffer in Peace\u201d by Tyler\u00a0Farr</a> on Genius</div> <script crossorigin src='//genius.com/songs/735063/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122362",
+    "cover_art_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+    "full_title": "Suffer in Peace by Tyler Farr",
+    "id": 122362,
+    "name": "Suffer in Peace",
+    "release_date_for_display": "April 28, 2015",
+    "url": "https://genius.com/albums/Tyler-farr/Suffer-in-peace",
+    "artist": {
+     "api_path": "/artists/123915",
+     "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "id": 123915,
+     "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tyler Farr",
+     "url": "https://genius.com/artists/Tyler-farr",
+     "iq": 2271
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 190012,
+    "annotator_login": "XenaWarriorPrincess",
+    "api_path": "/referents/5121892",
+    "classification": "accepted",
+    "fragment": "Suffer in Peace",
+    "id": 5121892,
+    "is_description": true,
+    "path": "/5121892/Tyler-farr-suffer-in-peace/Suffer-in-peace",
+    "range": {
+     "content": "Suffer in Peace"
+    },
+    "song_id": 735063,
+    "url": "https://genius.com/5121892/Tyler-farr-suffer-in-peace/Suffer-in-peace",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/735063",
+     "client_timestamps": {
+      "updated_by_human_at": 1465380366,
+      "lyrics_updated_at": 1465380366
+     },
+     "context": "Tyler Farr",
+     "id": 735063,
+     "image_url": "https://images.genius.com/1ff094b662832beffb24ff493381c411.640x640x1.jpg",
+     "link_title": "Suffer in Peace by\u00a0Tyler\u00a0Farr",
+     "title": "Suffer in Peace",
+     "type": "Song",
+     "url": "https://genius.com/Tyler-farr-suffer-in-peace-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5121892",
+      "body": {
+       "plain": "Written by Aaron G. Barker Sr. and Phil O'Donnell, \u201cSuffer in Peace\u201d is the title track off Farr\u2019s April, 2015 studio album."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5121892,
+      "pinned": false,
+      "share_url": "https://genius.com/5121892",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5121892/Tyler-farr-suffer-in-peace/Suffer-in-peace",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/190012",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 190012,
+         "iq": 85349,
+         "login": "XenaWarriorPrincess",
+         "name": "Peter Nowogrodzki",
+         "role_for_display": "editor",
+         "url": "https://genius.com/XenaWarriorPrincess",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1RLT391KHFFJwbDb7y3eyd",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1RLT391KHFFJwbDb7y3eyd"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/1667687",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.rapgenius.com/avatars/tiny/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.rapgenius.com/avatars/thumb/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.rapgenius.com/avatars/small/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 1667687,
+     "iq": 2271,
+     "login": "TylerFarr",
+     "name": "Tyler Farr",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/TylerFarr",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/123915",
+      "header_image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+      "id": 123915,
+      "image_url": "https://images.genius.com/174328154542427245d9f4b8a1b29168.300x300x1.gif",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Tyler Farr",
+      "url": "https://genius.com/artists/Tyler-farr",
+      "iq": 2271
+     },
+     "user": {
+      "api_path": "/users/1667687",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.rapgenius.com/avatars/tiny/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.rapgenius.com/avatars/thumb/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.rapgenius.com/avatars/small/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.rapgenius.com/avatars/medium/f2d555c8cc126007ac60b6e5308d7f2d",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 1667687,
+      "iq": 2271,
+      "login": "TylerFarr",
+      "name": "Tyler Farr",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/TylerFarr",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Tyler Farr",
+   "lyrics": "5 ContributorsSuffer in Peace Lyrics[Verse]\nGirl you know I love this town, lived here all my life\nRight up \u2018til you left me, figured this would be where I\u2019d die\nNow I\u2019m thinkin\u2019 \u2018bout a U-Haul, selling everything I can\u2019t haul\nGet a load of you off my chest move out west, maybe Utah\n\n[Chorus]\nFind a little cabin in the hills, in the middle of Nowhereville\nIrish setter, my old guitar, 22 rifle, and a rod and reel\nRead that Bible Mama gave me\nMaybe stumble on some words to save me\nThink I\u2019d really like the sound of a mountain breeze\nAnd being somewhere where I can suffer in peace\n\n[Verse]\nSaw you last Saturday and I just about lost my cool\nYou were sittin\u2019 in his car at the Tiger Mart by our old high school\nBack to square one again, gettin\u2019 over you over again\nGirl I need to be somewhere else, \u2018cause I don\u2019t trust myself around you and him\n\n[Chorus]\nI\u2019m thinkin\u2019 cabin in the hills, in the middle of Nowhereville\nAn Irish setter, my old guitar, a 22 rifle, and a rod and reel\nThumb through that Bible Mama gave me\nMaybe stumble on some words to save me\nYou know I\u2019d really like the sound of a mountain breeze\nAnd being somewhere where I can suffer in peace\nYou might also like[Bridge]\nNo TV, no telephone\nHang this heartache on a rainbow\n\n[Final Chorus]\nAnd find a little cabin in the hills, in the middle of Nowhereville\nMy Irish setter, an old guitar, 22 rifle, and a rod and reel\nThumb through that Bible Mama gave me\nMaybe stumble on some words to save me\nYou know I\u2019d really like the sound of a mountain breeze\nAnd being somewhere where I can suffer in peace\nI can suffer in peace\nSuffer in peace22Embed"
+  }
+ ]
+}

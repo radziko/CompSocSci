@@ -1,0 +1,1385 @@
+{
+ "alternate_names": [
+  "The Stan Kenton Orchestra",
+  "Stan Kenton and His Orchestra"
+ ],
+ "api_path": "/artists/368059",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 2,
+ "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+ "id": 368059,
+ "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Stan Kenton",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Stan-kenton",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7086260",
+  "classification": "needs_exegesis",
+  "fragment": "Stan Kenton",
+  "id": 7086260,
+  "is_description": true,
+  "path": "/7086260/Stan-kenton/Stan-kenton",
+  "range": {
+   "content": "Stan Kenton"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7086260/Stan-kenton/Stan-kenton",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/368059",
+   "context": null,
+   "id": 368059,
+   "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+   "link_title": "Stan Kenton",
+   "title": "Stan Kenton",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Stan-kenton"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7086260",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7086260,
+    "pinned": false,
+    "share_url": "https://genius.com/7086260",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7086260/Stan-kenton/Stan-kenton",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1514460",
+   "artist_names": "Stan Kenton (Ft. Anita O'Day)",
+   "full_title": "And Her Tears Flowed Like Wine by\u00a0Stan\u00a0Kenton (Ft.\u00a0Anita\u00a0O'Day)",
+   "header_image_thumbnail_url": "https://images.genius.com/77b648d81772bb7fa759022dbf89a4cb.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/77b648d81772bb7fa759022dbf89a4cb.546x546x1.jpg",
+   "id": 1514460,
+   "language": "en",
+   "lyrics_owner_id": 13517274,
+   "lyrics_state": "complete",
+   "path": "/Stan-kenton-and-her-tears-flowed-like-wine-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stan-kenton-and-her-tears-flowed-like-wine-sample",
+   "release_date_components": {
+    "year": 1944,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1944",
+   "release_date_with_abbreviated_month_for_display": "1944",
+   "song_art_image_thumbnail_url": "https://images.genius.com/77b648d81772bb7fa759022dbf89a4cb.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/77b648d81772bb7fa759022dbf89a4cb.546x546x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "And Her Tears Flowed Like Wine",
+   "title_with_featured": "And Her Tears Flowed Like Wine (Ft.\u00a0Anita\u00a0O'Day)",
+   "url": "https://genius.com/Stan-kenton-and-her-tears-flowed-like-wine-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/362647",
+     "header_image_url": "https://images.genius.com/665aa11f9fb4ac9b312949a5558dfcf9.620x349x1.jpg",
+     "id": 362647,
+     "image_url": "https://images.genius.com/4f56cb249f5f40f0b718dad16bb363f1.838x838x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Anita O\u2019Day",
+     "url": "https://genius.com/artists/Anita-oday"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/368059",
+    "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "id": 368059,
+    "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stan Kenton",
+    "url": "https://genius.com/artists/Stan-kenton"
+   },
+   "apple_music_id": "956812031",
+   "apple_music_player_url": "https://genius.com/songs/1514460/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1514460' class='rg_embed_link' data-song-id='1514460'>Read <a href='https://genius.com/Stan-kenton-and-her-tears-flowed-like-wine-lyrics'>\u201cAnd Her Tears Flowed Like Wine\u201d by Stan\u00a0Kenton</a> on Genius</div> <script crossorigin src='//genius.com/songs/1514460/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/939405",
+    "cover_art_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.600x600x1.jpg",
+    "full_title": "Stan Kenton Classics by Stan Kenton",
+    "id": 939405,
+    "name": "Stan Kenton Classics",
+    "release_date_for_display": "1952",
+    "url": "https://genius.com/albums/Stan-kenton/Stan-kenton-classics",
+    "artist": {
+     "api_path": "/artists/368059",
+     "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "id": 368059,
+     "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stan Kenton",
+     "url": "https://genius.com/artists/Stan-kenton"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/6028865",
+    "classification": "needs_exegesis",
+    "fragment": "And Her Tears Flowed Like Wine",
+    "id": 6028865,
+    "is_description": true,
+    "path": "/6028865/Stan-kenton-and-her-tears-flowed-like-wine/And-her-tears-flowed-like-wine",
+    "range": {
+     "content": "And Her Tears Flowed Like Wine"
+    },
+    "song_id": 1514460,
+    "url": "https://genius.com/6028865/Stan-kenton-and-her-tears-flowed-like-wine/And-her-tears-flowed-like-wine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1514460",
+     "client_timestamps": {
+      "updated_by_human_at": 1660434523,
+      "lyrics_updated_at": 1660434382
+     },
+     "context": "Stan Kenton",
+     "id": 1514460,
+     "image_url": "https://images.genius.com/77b648d81772bb7fa759022dbf89a4cb.546x546x1.jpg",
+     "link_title": "And Her Tears Flowed Like Wine by\u00a0Stan\u00a0Kenton (Ft.\u00a0Anita\u00a0O\u2019Day)",
+     "title": "And Her Tears Flowed Like Wine",
+     "type": "Song",
+     "url": "https://genius.com/Stan-kenton-and-her-tears-flowed-like-wine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6028865",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6028865,
+      "pinned": false,
+      "share_url": "https://genius.com/6028865",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6028865/Stan-kenton-and-her-tears-flowed-like-wine/And-her-tears-flowed-like-wine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5739938",
+       "artist_names": "Lavay Smith & Her Red Hot Skillet Lickers",
+       "full_title": "And Her Tears Flowed Like Wine by\u00a0Lavay\u00a0Smith & Her Red Hot Skillet Lickers",
+       "header_image_thumbnail_url": "https://images.genius.com/b704a99fdbcf7da1394d1b99288ac013.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b704a99fdbcf7da1394d1b99288ac013.355x355x1.jpg",
+       "id": 5739938,
+       "language": "en",
+       "lyrics_owner_id": 5921728,
+       "lyrics_state": "complete",
+       "path": "/Lavay-smith-and-her-red-hot-skillet-lickers-and-her-tears-flowed-like-wine-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lavay-smith-and-her-red-hot-skillet-lickers-and-her-tears-flowed-like-wine-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b704a99fdbcf7da1394d1b99288ac013.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b704a99fdbcf7da1394d1b99288ac013.355x355x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "And Her Tears Flowed Like Wine",
+       "title_with_featured": "And Her Tears Flowed Like Wine",
+       "url": "https://genius.com/Lavay-smith-and-her-red-hot-skillet-lickers-and-her-tears-flowed-like-wine-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/390580",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 390580,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lavay Smith & Her Red Hot Skillet Lickers",
+        "url": "https://genius.com/artists/Lavay-smith-and-her-red-hot-skillet-lickers"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/368059",
+     "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "id": 368059,
+     "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stan Kenton",
+     "url": "https://genius.com/artists/Stan-kenton"
+    },
+    {
+     "api_path": "/artists/2310554",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2310554,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charles Lawrence",
+     "url": "https://genius.com/artists/Charles-lawrence"
+    },
+    {
+     "api_path": "/artists/998232",
+     "header_image_url": "https://images.genius.com/3cf3b3a57ca634eca93e23b8336b7e18.136x136x1.jpg",
+     "id": 998232,
+     "image_url": "https://images.genius.com/3cf3b3a57ca634eca93e23b8336b7e18.136x136x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joe Greene",
+     "url": "https://genius.com/artists/Joe-greene"
+    }
+   ],
+   "artist": "Stan Kenton",
+   "lyrics": "1 ContributorAnd Her Tears Flowed Like Wine Lyrics[Verse 1]\nHe would spend it on the ponies\nHe would spend it on the girls\nBuy his mother gin and roses\nFor her poor old hennaed curls\nBut when his wife said, \"Hey now\nWhat did you get for me?\"\nHe socked her in the chopper\nSuch a sweet, sweet guy was he\n\n[Chorus]\nAnd her tears flowed like wine\nYes, her tears flowed like wine\nShe's a real sad tomato\nShe's a busted valentine\nKnows her mama done told her\nThat her man is darned unkind\n\n[Verse 2]\nHow he loved the old race horses\nHe would bet them every day\nOne day he caught a winner\nAnd the cabbage wasn't hay\nHe indulged in fancy spending\nOrdered rings, cars and furs\nBut alas, alack, like a stab in the back\nShe found out they were not hers\nYou might also like[Chorus]\nAnd her tears flowed like wine\nYes, her tears flowed like wine\nShe's a real sad tomato\nShe's a busted valentine\nKnows her mama done told her\nThat her man is darned unkind\n\n[Verse 3]\nHe got mixed up with a Maisie\nHe got mixed up with a Flo\nSo Flo shoved him in the river\nHe'll not get mixed up no more\nHis wife then draped herself in black\nThat showed her figure fine\nThen she cussed him out, the two-faced guy\nNo insurance could she find\n\n[Chorus]\nAnd her tears flowed like wine\nYes, her tears flowed like wine\nShe's a real sad tomato\nShe's a busted valentine\nKnows her mama done told her\nThat her man is darned unkindEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1327683",
+   "artist_names": "Stan Kenton (Ft. June Christy)",
+   "full_title": "Tampico by\u00a0Stan\u00a0Kenton (Ft.\u00a0June\u00a0Christy)",
+   "header_image_thumbnail_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.600x600x1.jpg",
+   "id": 1327683,
+   "language": "en",
+   "lyrics_owner_id": 13517274,
+   "lyrics_state": "complete",
+   "path": "/Stan-kenton-tampico-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stan-kenton-tampico-sample",
+   "release_date_components": {
+    "year": 1945,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1945",
+   "release_date_with_abbreviated_month_for_display": "1945",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tampico",
+   "title_with_featured": "Tampico (Ft.\u00a0June\u00a0Christy)",
+   "url": "https://genius.com/Stan-kenton-tampico-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/141785",
+     "header_image_url": "https://images.genius.com/14c70ec8e88a0f975b3cfedda2fef13b.1000x1000x1.jpg",
+     "id": 141785,
+     "image_url": "https://images.genius.com/14c70ec8e88a0f975b3cfedda2fef13b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "June Christy",
+     "url": "https://genius.com/artists/June-christy"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/368059",
+    "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "id": 368059,
+    "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stan Kenton",
+    "url": "https://genius.com/artists/Stan-kenton"
+   },
+   "apple_music_id": "716455923",
+   "apple_music_player_url": "https://genius.com/songs/1327683/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1327683' class='rg_embed_link' data-song-id='1327683'>Read <a href='https://genius.com/Stan-kenton-tampico-lyrics'>\u201cTampico\u201d by Stan\u00a0Kenton</a> on Genius</div> <script crossorigin src='//genius.com/songs/1327683/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/939405",
+    "cover_art_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.600x600x1.jpg",
+    "full_title": "Stan Kenton Classics by Stan Kenton",
+    "id": 939405,
+    "name": "Stan Kenton Classics",
+    "release_date_for_display": "1952",
+    "url": "https://genius.com/albums/Stan-kenton/Stan-kenton-classics",
+    "artist": {
+     "api_path": "/artists/368059",
+     "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "id": 368059,
+     "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stan Kenton",
+     "url": "https://genius.com/artists/Stan-kenton"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/141785",
+       "header_image_url": "https://images.genius.com/14c70ec8e88a0f975b3cfedda2fef13b.1000x1000x1.jpg",
+       "id": 141785,
+       "image_url": "https://images.genius.com/14c70ec8e88a0f975b3cfedda2fef13b.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "June Christy",
+       "url": "https://genius.com/artists/June-christy"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5834800",
+    "classification": "needs_exegesis",
+    "fragment": "Tampico",
+    "id": 5834800,
+    "is_description": true,
+    "path": "/5834800/Stan-kenton-tampico/Tampico",
+    "range": {
+     "content": "Tampico"
+    },
+    "song_id": 1327683,
+    "url": "https://genius.com/5834800/Stan-kenton-tampico/Tampico",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1327683",
+     "client_timestamps": {
+      "updated_by_human_at": 1660433382,
+      "lyrics_updated_at": 1660433331
+     },
+     "context": "Stan Kenton",
+     "id": 1327683,
+     "image_url": "https://images.genius.com/f910e2604b1814e7c452779afa5394fd.600x600x1.jpg",
+     "link_title": "Tampico by\u00a0Stan\u00a0Kenton (Ft.\u00a0June\u00a0Christy)",
+     "title": "Tampico",
+     "type": "Song",
+     "url": "https://genius.com/Stan-kenton-tampico-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5834800",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5834800,
+      "pinned": false,
+      "share_url": "https://genius.com/5834800",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5834800/Stan-kenton-tampico/Tampico",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-JAkl97Wsc8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/368059",
+     "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "id": 368059,
+     "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stan Kenton",
+     "url": "https://genius.com/artists/Stan-kenton"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1101949",
+     "header_image_url": "https://images.genius.com/063e49d50983d9ff694076dececa5974.333x333x1.jpg",
+     "id": 1101949,
+     "image_url": "https://images.genius.com/063e49d50983d9ff694076dececa5974.333x333x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Allan Roberts",
+     "url": "https://genius.com/artists/Allan-roberts"
+    },
+    {
+     "api_path": "/artists/1101950",
+     "header_image_url": "https://images.genius.com/b964dbdf4c2e5bbc5eab751653f92573.1000x262x1.png",
+     "id": 1101950,
+     "image_url": "https://images.genius.com/e350ab35482b1bf62ce1cbe28ec71db7.198x198x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Doris Fisher",
+     "url": "https://genius.com/artists/Doris-fisher"
+    }
+   ],
+   "artist": "Stan Kenton",
+   "lyrics": "2 ContributorsTampico Lyrics[Chorus]\nAy, Tampico, Tampico\nOn the Gulf of Mexico\nTampico, Tampico\nDown in Mexico\n\n[Verse 1]\nYou buy a beautiful shawl\nA souvenir for Aunt Flo\nAuthentic Mexican yarn\nMade in Idaho\n\n[Chorus]\nAy, Tampico, Tampico\nOn the Gulf of Mexico\nTampico, Tampico\nDown in Mexico\n\n[Verse 2]\nThe se\u00f1oritas they wave\nWhen you arrive at the dock\nThe native costumes they wear\nAre slacks and bobby socks\n\n[Chorus]\nAy, Tampico, Tampico\nOn the Gulf of Mexico\nTampico, Tampico\nDown in Mexico\nYou might also like[Verse 3]\nYou buy some pottery there\nTo beat the luxury tax\nYou find that when you get home\nThey sell it cheaper at Saks\n\n[Chorus]\nAy, Tampico, Tampico\nOn the Gulf of Mexico\nTampico, Tampico\nDown in Mexico\n\n[Verse 4]\nYou ask a Mexican band\nTo play a rhumba down there\nHe turns and says to the boys\n\"Hey, fellas, dig that square\"\n\n[Chorus]\nAy, Tampico, Tampico\nOn the Gulf of Mexico\nTampico, Tampico\nDown in Mexico\n\n[Outro]\nDown in MexicoEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1463408",
+   "artist_names": "Stan Kenton",
+   "full_title": "I Told Ya I Love You, Now Get Out by\u00a0Stan\u00a0Kenton",
+   "header_image_thumbnail_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.300x313x1.jpg",
+   "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+   "id": 1463408,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Stan-kenton-i-told-ya-i-love-you-now-get-out-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Stan-kenton-i-told-ya-i-love-you-now-get-out-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.300x313x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 0,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "I Told Ya I Love You, Now Get Out",
+   "title_with_featured": "I Told Ya I Love You, Now Get Out",
+   "url": "https://genius.com/Stan-kenton-i-told-ya-i-love-you-now-get-out-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/368059",
+    "header_image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "id": 368059,
+    "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Stan Kenton",
+    "url": "https://genius.com/artists/Stan-kenton"
+   },
+   "apple_music_id": "935432339",
+   "apple_music_player_url": "https://genius.com/songs/1463408/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1463408' class='rg_embed_link' data-song-id='1463408'>Read <a href='https://genius.com/Stan-kenton-i-told-ya-i-love-you-now-get-out-lyrics'>\u201cI Told Ya I Love You, Now Get Out\u201d by Stan\u00a0Kenton</a> on Genius</div> <script crossorigin src='//genius.com/songs/1463408/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5975755",
+    "classification": "needs_exegesis",
+    "fragment": "I Told Ya I Love You, Now Get Out",
+    "id": 5975755,
+    "is_description": true,
+    "path": "/5975755/Stan-kenton-i-told-ya-i-love-you-now-get-out/I-told-ya-i-love-you-now-get-out",
+    "range": {
+     "content": "I Told Ya I Love You, Now Get Out"
+    },
+    "song_id": 1463408,
+    "url": "https://genius.com/5975755/Stan-kenton-i-told-ya-i-love-you-now-get-out/I-told-ya-i-love-you-now-get-out",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1463408",
+     "client_timestamps": {
+      "updated_by_human_at": 1443118765,
+      "lyrics_updated_at": 1429856096
+     },
+     "context": "Stan Kenton",
+     "id": 1463408,
+     "image_url": "https://images.genius.com/cff04e0e93f4ed10541e3cb7feb2091d.897x936x1.jpg",
+     "link_title": "I Told Ya I Love You, Now Get Out by\u00a0Stan\u00a0Kenton",
+     "title": "I Told Ya I Love You, Now Get Out",
+     "type": "Song",
+     "url": "https://genius.com/Stan-kenton-i-told-ya-i-love-you-now-get-out-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5975755",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5975755,
+      "pinned": false,
+      "share_url": "https://genius.com/5975755",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5975755/Stan-kenton-i-told-ya-i-love-you-now-get-out/I-told-ya-i-love-you-now-get-out",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Stan Kenton",
+   "lyrics": "1 ContributorI Told Ya I Love You, Now Get Out LyricsI've told ya I love ya, now get out!\nI've told ya I love ya, now get out!\nEverything's rosy and everything's Jake\nBut just how much can a good girl take?\nI told ya I love ya, now get out!\n\nThere may be times I need ya, there's no doubt;\nBaby, now you're somethin' I can do without!\nLeave your number and go on home\nThe doorway was there, which is by the phone!\nI've told ya I love ya, now get out!\n\nBaby, please leave me be\nYou want a puppet and there's no strings on me!\nGet hep, you can leave on the five eighteen\nNow don't go 'way sayin' I've been mean;\nLike any gal I can change my ways\nA round trip ticket good for sixty days!\nI've told ya I love ya, now get out!\n\nBaby, please leave me be\nYou want a puppet and there's no strings on me!\nGet hep, you can leave on the five eighteen\nNow don't go 'way sayin' I've been mean;\nLike any gal I can change my ways\nA round trip ticket good for sixty days!\nI've told ya I love ya, now get out!\nMan, get lost, for now!You might also likeEmbed"
+  }
+ ]
+}

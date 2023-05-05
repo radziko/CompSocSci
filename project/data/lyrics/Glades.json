@@ -1,0 +1,1705 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/577332",
+ "description": {
+  "plain": "GLADES is an Australian indie-pop trio whose electronic style is closely aligned with the chillstep genre. The group debuted in 2015 with their single, \u201cFalling Away\u201d and have been gaining momentum ever since."
+ },
+ "facebook_name": "gladesmusicau",
+ "followers_count": 23,
+ "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+ "id": 577332,
+ "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+ "instagram_name": "gladesmusic",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "GLADES",
+ "translation_artist": false,
+ "twitter_name": "gladesmusic",
+ "url": "https://genius.com/artists/Glades",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2807469,
+  "annotator_login": "Conradaxx",
+  "api_path": "/referents/7954951",
+  "classification": "accepted",
+  "fragment": "GLADES",
+  "id": 7954951,
+  "is_description": true,
+  "path": "/7954951/Glades/Glades",
+  "range": {
+   "content": "GLADES"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7954951/Glades/Glades",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/577332",
+   "context": null,
+   "id": 577332,
+   "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+   "link_title": "GLADES",
+   "title": "GLADES",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Glades"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7954951",
+    "body": {
+     "plain": "GLADES is an Australian indie-pop trio whose electronic style is closely aligned with the chillstep genre. The group debuted in 2015 with their single, \u201cFalling Away\u201d and have been gaining momentum ever since."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7954951,
+    "pinned": false,
+    "share_url": "https://genius.com/7954951",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7954951/Glades/Glades",
+    "verified": false,
+    "votes_total": 11,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2807469",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/5c5853f8f9a546b71ba9dcf60f7ccbfd",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/5c5853f8f9a546b71ba9dcf60f7ccbfd",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/5c5853f8f9a546b71ba9dcf60f7ccbfd",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/5c5853f8f9a546b71ba9dcf60f7ccbfd",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/06600522f1cad862757ff066f98b4534.640x480x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 2807469,
+       "iq": 299439,
+       "login": "Conradaxx",
+       "name": "Conradaxx",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Conradaxx",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2410270",
+   "artist_names": "GLADES",
+   "full_title": "Drive by\u00a0GLADES",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/9a8224b71648580ce4149f2a575b4437.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/9a8224b71648580ce4149f2a575b4437.1000x1000x1.jpg",
+   "id": 2410270,
+   "language": "en",
+   "lyrics_owner_id": 1717255,
+   "lyrics_state": "complete",
+   "path": "/Glades-drive-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Glades-drive-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 1,
+    "day": 21
+   },
+   "release_date_for_display": "January 21, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jan. 21, 2016",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/9a8224b71648580ce4149f2a575b4437.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/9a8224b71648580ce4149f2a575b4437.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 12,
+    "iq_earners": 12,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 72959
+   },
+   "title": "Drive",
+   "title_with_featured": "Drive",
+   "url": "https://genius.com/Glades-drive-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/577332",
+    "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+    "id": 577332,
+    "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "GLADES",
+    "url": "https://genius.com/artists/Glades"
+   },
+   "apple_music_id": "1165285223",
+   "apple_music_player_url": "https://genius.com/songs/2410270/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2410270' class='rg_embed_link' data-song-id='2410270'>Read <a href='https://genius.com/Glades-drive-lyrics'>\u201cDrive\u201d by GLADES</a> on Genius</div> <script crossorigin src='//genius.com/songs/2410270/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-01-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/256704",
+    "cover_art_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.750x750x1.jpg",
+    "full_title": "This Is What It's Like - EP by GLADES",
+    "id": 256704,
+    "name": "This Is What It\u2019s Like - EP",
+    "release_date_for_display": "October 21, 2016",
+    "url": "https://genius.com/albums/Glades/This-is-what-it-s-like-ep",
+    "artist": {
+     "api_path": "/artists/577332",
+     "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+     "id": 577332,
+     "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GLADES",
+     "url": "https://genius.com/artists/Glades"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Programming",
+     "artists": [
+      {
+       "api_path": "/artists/649765",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 649765,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joey Wenceslao",
+       "url": "https://genius.com/artists/Joey-wenceslao"
+      },
+      {
+       "api_path": "/artists/649764",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 649764,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cam Robertson",
+       "url": "https://genius.com/artists/Cam-robertson"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/642030",
+       "header_image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+       "id": 642030,
+       "image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Karina Wykes",
+       "url": "https://genius.com/artists/Karina-wykes"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1717255,
+    "annotator_login": "TeuntjeVDW",
+    "api_path": "/referents/8548834",
+    "classification": "needs_exegesis",
+    "fragment": "Drive",
+    "id": 8548834,
+    "is_description": true,
+    "path": "/8548834/Glades-drive/Drive",
+    "range": {
+     "content": "Drive"
+    },
+    "song_id": 2410270,
+    "url": "https://genius.com/8548834/Glades-drive/Drive",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2410270",
+     "client_timestamps": {
+      "updated_by_human_at": 1541544317,
+      "lyrics_updated_at": 1541544317
+     },
+     "context": "GLADES",
+     "id": 2410270,
+     "image_url": "https://images.rapgenius.com/9a8224b71648580ce4149f2a575b4437.1000x1000x1.jpg",
+     "link_title": "Drive by\u00a0GLADES",
+     "title": "Drive",
+     "type": "Song",
+     "url": "https://genius.com/Glades-drive-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/8548834",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 8548834,
+      "pinned": false,
+      "share_url": "https://genius.com/8548834",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/8548834/Glades-drive/Drive",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1717255",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/4c3bfe34cace4572d35b111985c915b2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/4c3bfe34cace4572d35b111985c915b2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/4c3bfe34cace4572d35b111985c915b2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/4c3bfe34cace4572d35b111985c915b2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/4c3bfe34cace4572d35b111985c915b2",
+         "human_readable_role_for_display": "Editor",
+         "id": 1717255,
+         "iq": 312431,
+         "login": "TeuntjeVDW",
+         "name": "TeuntjeVDW",
+         "role_for_display": "editor",
+         "url": "https://genius.com/TeuntjeVDW",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/389740",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+    "human_readable_role_for_display": "Moderator",
+    "id": 389740,
+    "iq": 1400475,
+    "login": "ewokABdevito",
+    "name": "EwokABdevito",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/ewokABdevito",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=FPbqQZdFz1I"
+    },
+    {
+     "native_uri": "spotify:track:7GWaGnbGZEg1Pquhr07cVz",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7GWaGnbGZEg1Pquhr07cVz"
+    },
+    {
+     "attribution": "gladesmusicau",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gladesmusicau/drive"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/649764",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649764,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Robertson",
+     "url": "https://genius.com/artists/Cam-robertson"
+    },
+    {
+     "api_path": "/artists/649765",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649765,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Wenceslao",
+     "url": "https://genius.com/artists/Joey-wenceslao"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2893222",
+       "artist_names": "GLADES",
+       "full_title": "Drive (Stripped) by\u00a0GLADES",
+       "header_image_thumbnail_url": "https://images.genius.com/4334d623fda209a3513dc8ad5ab3207f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4334d623fda209a3513dc8ad5ab3207f.640x640x1.jpg",
+       "id": 2893222,
+       "language": "en",
+       "lyrics_owner_id": 1717255,
+       "lyrics_state": "complete",
+       "path": "/Glades-drive-stripped-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glades-drive-stripped-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 10,
+        "day": 7
+       },
+       "release_date_for_display": "October 7, 2016",
+       "release_date_with_abbreviated_month_for_display": "Oct. 7, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4334d623fda209a3513dc8ad5ab3207f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4334d623fda209a3513dc8ad5ab3207f.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Drive (Stripped)",
+       "title_with_featured": "Drive (Stripped)",
+       "url": "https://genius.com/Glades-drive-stripped-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/577332",
+        "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+        "id": 577332,
+        "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "GLADES",
+        "url": "https://genius.com/artists/Glades"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2469402",
+       "artist_names": "GLADES",
+       "full_title": "Drive (Mt. Eden Remix) by\u00a0GLADES",
+       "header_image_thumbnail_url": "https://images.genius.com/f1bbf41bb4b8a8a1bb6d0835a01c4c2f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f1bbf41bb4b8a8a1bb6d0835a01c4c2f.640x640x1.jpg",
+       "id": 2469402,
+       "language": "en",
+       "lyrics_owner_id": 3237733,
+       "lyrics_state": "complete",
+       "path": "/Glades-drive-mt-eden-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glades-drive-mt-eden-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f1bbf41bb4b8a8a1bb6d0835a01c4c2f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f1bbf41bb4b8a8a1bb6d0835a01c4c2f.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drive (Mt. Eden Remix)",
+       "title_with_featured": "Drive (Mt. Eden Remix)",
+       "url": "https://genius.com/Glades-drive-mt-eden-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/577332",
+        "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+        "id": 577332,
+        "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "GLADES",
+        "url": "https://genius.com/artists/Glades"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/649765",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649765,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Wenceslao",
+     "url": "https://genius.com/artists/Joey-wenceslao"
+    },
+    {
+     "api_path": "/artists/649764",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649764,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Robertson",
+     "url": "https://genius.com/artists/Cam-robertson"
+    },
+    {
+     "api_path": "/artists/642030",
+     "header_image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+     "id": 642030,
+     "image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Karina Wykes",
+     "url": "https://genius.com/artists/Karina-wykes"
+    }
+   ],
+   "artist": "GLADES",
+   "lyrics": "12 ContributorsDrive Lyrics[Verse 1]\nI'm caught up when you look at me\nYou let my heart breathe with ease\nChasing stars in our galaxy\nMaking our own make-believe\nI want you when the sun goes low\nYour body warmth wants me close\nYou say you're always by my side\n'Til my blood runs dry\n\n[Pre-Chorus]\nAnd I know that I won't be the same without you\nDon't let this moment slip away\n[Chorus]\nI'll take you for a drive\nKiss me on the corner with your hand in mine\nOoh, say you love me too\nI'll give it to you\n\n[Verse 2]\nFreeze time when we align\nOur love won't be confined\nNo way that the eye can hide\n'Til my blood runs dry\n\n[Pre-Chorus]\nAnd I know that I won't be the same without you\nDon't let this moment slip away\n\n[Chorus]\nI'll take you for a drive\nKiss me on the corner with your hand in mine\nOoh, say you love me too\nHere to stay, you and I\nDancing in the colour of the golden light\nOoh, say you love me too\nI'll give it to you\n\n[Bridge]\nI close my eyes\nI don't wanna escape\nLet the tides rise in my heart\nYou might also like[Chorus]\nI'll take you for a drive\nKiss me on the corner with your hand in mine\nOoh, say you love me too\nHere to stay, you and I\nDancing in the colour of the golden light\nOoh, say you love me too\nI'll give it to you2Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3371110",
+   "artist_names": "GLADES",
+   "full_title": "Do Right by\u00a0GLADES",
+   "header_image_thumbnail_url": "https://images.genius.com/5a13468d8df3486fa93b2ec085624b76.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5a13468d8df3486fa93b2ec085624b76.900x900x1.jpg",
+   "id": 3371110,
+   "language": "en",
+   "lyrics_owner_id": 1717255,
+   "lyrics_state": "complete",
+   "path": "/Glades-do-right-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Glades-do-right-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 12,
+    "day": 14
+   },
+   "release_date_for_display": "December 14, 2017",
+   "release_date_with_abbreviated_month_for_display": "Dec. 14, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5a13468d8df3486fa93b2ec085624b76.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5a13468d8df3486fa93b2ec085624b76.900x900x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 21813
+   },
+   "title": "Do Right",
+   "title_with_featured": "Do Right",
+   "url": "https://genius.com/Glades-do-right-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/577332",
+    "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+    "id": 577332,
+    "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "GLADES",
+    "url": "https://genius.com/artists/Glades"
+   },
+   "apple_music_id": "1439593813",
+   "apple_music_player_url": "https://genius.com/songs/3371110/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3371110' class='rg_embed_link' data-song-id='3371110'>Read <a href='https://genius.com/Glades-do-right-lyrics'>\u201cDo Right\u201d by GLADES</a> on Genius</div> <script crossorigin src='//genius.com/songs/3371110/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-12-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/472156",
+    "cover_art_url": "https://images.genius.com/cde48c0168e0ed7dab5099a1d20e7cdb.1000x1000x1.jpg",
+    "full_title": "To Love You by GLADES",
+    "id": 472156,
+    "name": "To Love You",
+    "release_date_for_display": "November 2, 2018",
+    "url": "https://genius.com/albums/Glades/To-love-you",
+    "artist": {
+     "api_path": "/artists/577332",
+     "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+     "id": 577332,
+     "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GLADES",
+     "url": "https://genius.com/artists/Glades"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Arranged By",
+     "artists": [
+      {
+       "api_path": "/artists/577332",
+       "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+       "id": 577332,
+       "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GLADES",
+       "url": "https://genius.com/artists/Glades"
+      }
+     ]
+    },
+    {
+     "label": "Mastered  By",
+     "artists": [
+      {
+       "api_path": "/artists/577332",
+       "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+       "id": 577332,
+       "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GLADES",
+       "url": "https://genius.com/artists/Glades"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright (C)",
+     "artists": [
+      {
+       "api_path": "/artists/577332",
+       "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+       "id": 577332,
+       "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GLADES",
+       "url": "https://genius.com/artists/Glades"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1524554,
+    "annotator_login": "itsbekenotbecky",
+    "api_path": "/referents/28123201",
+    "classification": "needs_exegesis",
+    "fragment": "Do Right",
+    "id": 28123201,
+    "is_description": true,
+    "path": "/28123201/Glades-do-right/Do-right",
+    "range": {
+     "content": "Do Right"
+    },
+    "song_id": 3371110,
+    "url": "https://genius.com/28123201/Glades-do-right/Do-right",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3371110",
+     "client_timestamps": {
+      "updated_by_human_at": 1569930075,
+      "lyrics_updated_at": 1541095204
+     },
+     "context": "GLADES",
+     "id": 3371110,
+     "image_url": "https://images.genius.com/5a13468d8df3486fa93b2ec085624b76.900x900x1.jpg",
+     "link_title": "Do Right by\u00a0GLADES",
+     "title": "Do Right",
+     "type": "Song",
+     "url": "https://genius.com/Glades-do-right-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/28123201",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 28123201,
+      "pinned": false,
+      "share_url": "https://genius.com/28123201",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/28123201/Glades-do-right/Do-right",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1524554",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dc92a918edb0056ad39a9216721209ec",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dc92a918edb0056ad39a9216721209ec",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dc92a918edb0056ad39a9216721209ec",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dc92a918edb0056ad39a9216721209ec",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/980928dd33fbc196024d7f17005c4561.1000x244x1.png",
+         "human_readable_role_for_display": "Editor",
+         "id": 1524554,
+         "iq": 113540,
+         "login": "itsbekenotbecky",
+         "name": "Matthew Beke",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itsbekenotbecky",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/389740",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+    "human_readable_role_for_display": "Moderator",
+    "id": 389740,
+    "iq": 1400475,
+    "login": "ewokABdevito",
+    "name": "EwokABdevito",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/ewokABdevito",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:45w70aQhNwke1yrQZO0ffm",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/45w70aQhNwke1yrQZO0ffm"
+    },
+    {
+     "attribution": "gladesmusicau",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gladesmusicau/do-right"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=kGA-bTRdYUs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/577332",
+     "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+     "id": 577332,
+     "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GLADES",
+     "url": "https://genius.com/artists/Glades"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1256784",
+     "header_image_url": "https://images.genius.com/77a95500bb47b42d3e8674ca22ede8b4.1000x333x1.jpg",
+     "id": 1256784,
+     "image_url": "https://images.genius.com/f97f4df3715d6971adafa8b1d7b56c5a.781x781x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amy Allen",
+     "url": "https://genius.com/artists/Amy-allen"
+    },
+    {
+     "api_path": "/artists/577332",
+     "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+     "id": 577332,
+     "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GLADES",
+     "url": "https://genius.com/artists/Glades"
+    }
+   ],
+   "artist": "GLADES",
+   "lyrics": "10 ContributorsDo Right Lyrics[Verse 1]\nTake me back to when\nI picked a fight with you\nRight out of the blue\nI wish we made amends\nI didn't mean to lose\nAll the good times that I had with you\n\n[Pre-Chorus]\nI'm sorry, I'm sorry\nIf it doesn't mean too much right now\nI know that you've probably forgotten\nBut these things still weigh me down\nTake me back to when\nI picked a fight with you, ooh\n[Chorus]\nI miss the way my mama knew what to do\nShe said to do right by your neighbour\nAnd they'll do right by you\nWhen we get older we can forget the truth\nThat if you do right by your neighbour\nThen they'll do right by you\n\n[Verse 2]\nWe play this like a game\nWhy do we pretend\nThat we were never friends?\nWhen we both haven't changed\nEnough to just forget\nThe windows we broke with another\nThe secrets we spoke\n\n[Pre-Chorus]\nI'm sorry, I'm sorry\nIf it doesn't mean too much right now\nI know that you've probably forgotten\nBut these things still weigh me down\n\n[Chorus]\nI miss the way my mama knew what to do\nShe said to do right by your neighbour\nAnd they'll do right by you\nWhen we get older we can forget the truth\nThat if you do right by your neighbour\nThen they'll do right by you\nYou might also like[Pre-Chorus]\nI'm sorry, I'm sorry\nIf it doesn't mean too much right now\nI know that you've probably forgotten\nBut these things still weigh me down\n\n[Chorus]\nI miss the way my mama knew what to do\nShe said to do right by your neighbour\nAnd they'll do right by you\nWhen we get older we can forget the truth\nThat if you do right by your neighbour\nThen they'll do right by you3Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2893219",
+   "artist_names": "GLADES",
+   "full_title": "I Want You So Bad by\u00a0GLADES",
+   "header_image_thumbnail_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.750x750x1.jpg",
+   "id": 2893219,
+   "language": "en",
+   "lyrics_owner_id": 1717255,
+   "lyrics_state": "complete",
+   "path": "/Glades-i-want-you-so-bad-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Glades-i-want-you-so-bad-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 10,
+    "day": 21
+   },
+   "release_date_for_display": "October 21, 2016",
+   "release_date_with_abbreviated_month_for_display": "Oct. 21, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.750x750x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 17671
+   },
+   "title": "I Want You So Bad",
+   "title_with_featured": "I Want You So Bad",
+   "url": "https://genius.com/Glades-i-want-you-so-bad-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/577332",
+    "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+    "id": 577332,
+    "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "GLADES",
+    "url": "https://genius.com/artists/Glades"
+   },
+   "apple_music_id": "1165285225",
+   "apple_music_player_url": "https://genius.com/songs/2893219/apple_music_player",
+   "description": {
+    "plain": "A very straightforward song, both lyrically and musically. Interestingly, the entire melody is sung by both the male and female voices.\n\nThe chorus contains a play on words, where the term \u201cbad\u201d is used to describe the singer\u2019s intense desire, simultaneously putting herself in a negative light, juxtaposed with how \u201cgood\u201d she perceives her lover to be, to the point where she feels unworthy of this person.\n\nThis is a very different kind of love song because it walks such a fine line between humbleness and insecurity. You don\u2019t really get songs these days that speak to that kind of feeling. From what I can gather, \u201cI Want You So Bad\u201d sends a message of genuine reverence and adoration, while honestly admitting to human imperfection. Fear, anxiety, self-esteem, devotion, passion, yearning. It\u2019s all there, and all very raw."
+   },
+   "embed_content": "<div id='rg_embed_link_2893219' class='rg_embed_link' data-song-id='2893219'>Read <a href='https://genius.com/Glades-i-want-you-so-bad-lyrics'>\u201cI Want You So Bad\u201d by GLADES</a> on Genius</div> <script crossorigin src='//genius.com/songs/2893219/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-10-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/256704",
+    "cover_art_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.750x750x1.jpg",
+    "full_title": "This Is What It's Like - EP by GLADES",
+    "id": 256704,
+    "name": "This Is What It\u2019s Like - EP",
+    "release_date_for_display": "October 21, 2016",
+    "url": "https://genius.com/albums/Glades/This-is-what-it-s-like-ep",
+    "artist": {
+     "api_path": "/artists/577332",
+     "header_image_url": "https://images.genius.com/4efb57b62f58e29eb4b90ec619337fbb.960x960x1.jpg",
+     "id": 577332,
+     "image_url": "https://images.genius.com/9b52bc364e387f99275e04505f576da7.768x768x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "GLADES",
+     "url": "https://genius.com/artists/Glades"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5878464,
+    "annotator_login": "imnotemo",
+    "api_path": "/referents/10728700",
+    "classification": "unreviewed",
+    "fragment": "I Want You So Bad",
+    "id": 10728700,
+    "is_description": true,
+    "path": "/10728700/Glades-i-want-you-so-bad/I-want-you-so-bad",
+    "range": {
+     "content": "I Want You So Bad"
+    },
+    "song_id": 2893219,
+    "url": "https://genius.com/10728700/Glades-i-want-you-so-bad/I-want-you-so-bad",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2893219",
+     "client_timestamps": {
+      "updated_by_human_at": 1558552490,
+      "lyrics_updated_at": 1491136644
+     },
+     "context": "GLADES",
+     "id": 2893219,
+     "image_url": "https://images.genius.com/8d915d513249a5e9c91b8b64c5ac28fa.750x750x1.jpg",
+     "link_title": "I Want You So Bad by\u00a0GLADES",
+     "title": "I Want You So Bad",
+     "type": "Song",
+     "url": "https://genius.com/Glades-i-want-you-so-bad-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10728700",
+      "body": {
+       "plain": "A very straightforward song, both lyrically and musically. Interestingly, the entire melody is sung by both the male and female voices.\n\nThe chorus contains a play on words, where the term \u201cbad\u201d is used to describe the singer\u2019s intense desire, simultaneously putting herself in a negative light, juxtaposed with how \u201cgood\u201d she perceives her lover to be, to the point where she feels unworthy of this person.\n\nThis is a very different kind of love song because it walks such a fine line between humbleness and insecurity. You don\u2019t really get songs these days that speak to that kind of feeling. From what I can gather, \u201cI Want You So Bad\u201d sends a message of genuine reverence and adoration, while honestly admitting to human imperfection. Fear, anxiety, self-esteem, devotion, passion, yearning. It\u2019s all there, and all very raw."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 10728700,
+      "pinned": false,
+      "share_url": "https://genius.com/10728700",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/10728700/Glades-i-want-you-so-bad/I-want-you-so-bad",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5878464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8166cab9c928a3bea7b5ce004ce6c9ec",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8166cab9c928a3bea7b5ce004ce6c9ec",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8166cab9c928a3bea7b5ce004ce6c9ec",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8166cab9c928a3bea7b5ce004ce6c9ec",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ohefcvxyxf",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5878464,
+         "iq": 675,
+         "login": "imnotemo",
+         "name": "imnotemo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/imnotemo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/649765",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649765,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Wenceslao",
+     "url": "https://genius.com/artists/Joey-wenceslao"
+    },
+    {
+     "api_path": "/artists/649764",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649764,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Robertson",
+     "url": "https://genius.com/artists/Cam-robertson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/642030",
+     "header_image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+     "id": 642030,
+     "image_url": "https://images.genius.com/8f07c4e49fb59e919b2ff2c7f1829de7.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Karina Wykes",
+     "url": "https://genius.com/artists/Karina-wykes"
+    },
+    {
+     "api_path": "/artists/649765",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649765,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Wenceslao",
+     "url": "https://genius.com/artists/Joey-wenceslao"
+    },
+    {
+     "api_path": "/artists/649764",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 649764,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cam Robertson",
+     "url": "https://genius.com/artists/Cam-robertson"
+    }
+   ],
+   "artist": "GLADES",
+   "lyrics": "5 ContributorsI Want You So Bad Lyrics[Verse 1]\nI won't let my intuition cause you just stay in the dark\nI know that I'm slowly wasting away, I'm keeping you from going down\nI'm so scared of what will happen to you if I bring you closer\nI wish it all cause your scared of the grave and yet it's trapped here lingering\nI'm waiting patient, I wanna be back into your arms\n\n[Chorus]\nI just want you so bad, so bad\nBut I know you're too good for me\nI just want so bad, so bad\nBut I know you're too good for me, yeah\n[Verse 2]\nI know you said I just want you to go but I can't take your word\nYou left me with a connection with you that I can't just forget about\nI slowly realize that I wasn't as part as I thought I was\n\n[Chorus]\nI just want you so bad, so bad\nBut I know you're too good for me\nI just want so bad, so bad\nAnd I know you're too good for me, yeah\nEven when I'm so low, so low\nYou give me the high that I need\nI just want so bad, so bad\nBut I know you're too good for me, yeah\n\n[Bridge]\nTell me, tell me maybe\nWhy you're letting me go, why you're letting me go\nI've been trying lately\nWhy won't you let me show cause I want you to know\n\n[Chorus]\nI just want you so bad, so bad\nBut I know you're too good for me\nI just want so bad, so bad\nAnd I know you're too good for me, yeah\nEven when I'm so low, so low\nYou give me the high that I need\nI just want so bad, so bad\nBut I know you're too good for me, yeahYou might also likeEmbed"
+  }
+ ]
+}

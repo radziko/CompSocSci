@@ -1,0 +1,1869 @@
+{
+ "alternate_names": [
+  "Jonathan Pardi",
+  "Jonathan Ryan Pardi"
+ ],
+ "api_path": "/artists/268932",
+ "description": {
+  "plain": "Jonathan Ryan Pardi (born May 20, 1985) is an American country music singer, songwriter, and record producer known for his neotraditional style. Signed to Capitol Nashville, he has released three studio albums, one extended play, and ten singles, nine of which have charted on the Hot Country Songs and Country Airplay charts."
+ },
+ "facebook_name": "jonpardi",
+ "followers_count": 19,
+ "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+ "id": 268932,
+ "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+ "instagram_name": "jonpardi",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Jon Pardi",
+ "translation_artist": false,
+ "twitter_name": "JonPardi",
+ "url": "https://genius.com/artists/Jon-pardi",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3587152,
+  "annotator_login": "CedricDominguez",
+  "api_path": "/referents/17685739",
+  "classification": "unreviewed",
+  "fragment": "Jon Pardi",
+  "id": 17685739,
+  "is_description": true,
+  "path": "/17685739/Jon-pardi/Jon-pardi",
+  "range": {
+   "content": "Jon Pardi"
+  },
+  "song_id": null,
+  "url": "https://genius.com/17685739/Jon-pardi/Jon-pardi",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/268932",
+   "context": null,
+   "id": 268932,
+   "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+   "link_title": "Jon Pardi",
+   "title": "Jon Pardi",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jon-pardi"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/17685739",
+    "body": {
+     "plain": "Jonathan Ryan Pardi (born May 20, 1985) is an American country music singer, songwriter, and record producer known for his neotraditional style. Signed to Capitol Nashville, he has released three studio albums, one extended play, and ten singles, nine of which have charted on the Hot Country Songs and Country Airplay charts."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 17685739,
+    "pinned": false,
+    "share_url": "https://genius.com/17685739",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/17685739/Jon-pardi/Jon-pardi",
+    "verified": false,
+    "votes_total": 5,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3587152",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/6b0b195ed9d700fd456380b13725c8a9",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/6b0b195ed9d700fd456380b13725c8a9",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/6b0b195ed9d700fd456380b13725c8a9",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/6b0b195ed9d700fd456380b13725c8a9",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/6b0b195ed9d700fd456380b13725c8a9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3587152,
+       "iq": 14574,
+       "login": "CedricDominguez",
+       "name": "CedricDominguez",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/CedricDominguez",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3464368",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/9920211ac76f75329c4ad754a206973b",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/9920211ac76f75329c4ad754a206973b",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/9920211ac76f75329c4ad754a206973b",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/9920211ac76f75329c4ad754a206973b",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/9920211ac76f75329c4ad754a206973b",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3464368,
+  "iq": 100,
+  "login": "JonPardi",
+  "name": "Jon Pardi",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/JonPardi",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2579705",
+   "artist_names": "Jon Pardi",
+   "full_title": "Night Shift by\u00a0Jon\u00a0Pardi",
+   "header_image_thumbnail_url": "https://images.genius.com/9570abe1cf6f5f589a67fab8851af34f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9570abe1cf6f5f589a67fab8851af34f.1000x1000x1.jpg",
+   "id": 2579705,
+   "language": "en",
+   "lyrics_owner_id": 320363,
+   "lyrics_state": "complete",
+   "path": "/Jon-pardi-night-shift-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Jon-pardi-night-shift-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 17
+   },
+   "release_date_for_display": "June 17, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 17, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e4d055aca104a2641bcbabdbc6b78508.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e4d055aca104a2641bcbabdbc6b78508.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 16,
+    "iq_earners": 16,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 45897
+   },
+   "title": "Night Shift",
+   "title_with_featured": "Night Shift",
+   "url": "https://genius.com/Jon-pardi-night-shift-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/268932",
+    "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "id": 268932,
+    "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jon Pardi",
+    "url": "https://genius.com/artists/Jon-pardi",
+    "iq": 100
+   },
+   "apple_music_id": "1116233236",
+   "apple_music_player_url": "https://genius.com/songs/2579705/apple_music_player",
+   "description": {
+    "plain": "Referred to by country music critics as \u201cThe Working Man\u2019s Love Song,\u201d \u201cNight Shift\u201d describes a blue-collar man who claims that he only gets through what he has to do all day because of what he looks forward to with his lover at night, which he refers to as his \u201cnight shift.\u201d The song has similarities to one of his previous singles, \u201cDirt on my Boots,\u201d but this song has more sexiness and more of an R&B feel to it. It served as the fifth single on his Platinum album, California Sunrise. It peaked at 8 on the Billboard Hot Country Songs chart."
+   },
+   "embed_content": "<div id='rg_embed_link_2579705' class='rg_embed_link' data-song-id='2579705'>Read <a href='https://genius.com/Jon-pardi-night-shift-lyrics'>\u201cNight Shift\u201d by Jon\u00a0Pardi</a> on Genius</div> <script crossorigin src='//genius.com/songs/2579705/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/146401",
+    "cover_art_url": "https://images.genius.com/231e9dc4e22638f0e232d7b2f7af709a.1000x1000x1.jpg",
+    "full_title": "California Sunrise by Jon Pardi",
+    "id": 146401,
+    "name": "California Sunrise",
+    "release_date_for_display": "June 17, 2016",
+    "url": "https://genius.com/albums/Jon-pardi/California-sunrise",
+    "artist": {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1006099",
+       "header_image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "id": 1006099,
+       "image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records Nashville",
+       "url": "https://genius.com/artists/Capitol-records-nashville"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8664184,
+    "annotator_login": "Paul_ToMy_Linda",
+    "api_path": "/referents/9525391",
+    "classification": "accepted",
+    "fragment": "Night Shift",
+    "id": 9525391,
+    "is_description": true,
+    "path": "/9525391/Jon-pardi-night-shift/Night-shift",
+    "range": {
+     "content": "Night Shift"
+    },
+    "song_id": 2579705,
+    "url": "https://genius.com/9525391/Jon-pardi-night-shift/Night-shift",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2579705",
+     "client_timestamps": {
+      "updated_by_human_at": 1620104763,
+      "lyrics_updated_at": 1569048559
+     },
+     "context": "Jon Pardi",
+     "id": 2579705,
+     "image_url": "https://images.genius.com/e4d055aca104a2641bcbabdbc6b78508.1000x1000x1.jpg",
+     "link_title": "Night Shift by\u00a0Jon\u00a0Pardi",
+     "title": "Night Shift",
+     "type": "Song",
+     "url": "https://genius.com/Jon-pardi-night-shift-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9525391",
+      "body": {
+       "plain": "Referred to by country music critics as \u201cThe Working Man\u2019s Love Song,\u201d \u201cNight Shift\u201d describes a blue-collar man who claims that he only gets through what he has to do all day because of what he looks forward to with his lover at night, which he refers to as his \u201cnight shift.\u201d The song has similarities to one of his previous singles, \u201cDirt on my Boots,\u201d but this song has more sexiness and more of an R&B feel to it. It served as the fifth single on his Platinum album, California Sunrise. It peaked at 8 on the Billboard Hot Country Songs chart."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9525391,
+      "pinned": false,
+      "share_url": "https://genius.com/9525391",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/9525391/Jon-pardi-night-shift/Night-shift",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8664184",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/b6e9baffab6b0aeb015c6bd55c516975.1000x563x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8664184,
+         "iq": 376797,
+         "login": "Paul_ToMy_Linda",
+         "name": "Mommy_Dahmer",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Paul_ToMy_Linda",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/6578",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/f1c233ebfabf43f52a083c852773e352",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/a3ec1ff157b76a25b4ada9d2ea760d14.500x500x45.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 6578,
+    "iq": 1264343,
+    "login": "louiedro",
+    "name": "\u200blouiedro",
+    "role_for_display": "staff",
+    "url": "https://genius.com/louiedro",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=5qSembkIRB0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/654884",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 654884,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bart Butler",
+     "url": "https://genius.com/artists/Bart-butler"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/630807",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 630807,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Billy Montana",
+     "url": "https://genius.com/artists/Billy-montana"
+    },
+    {
+     "api_path": "/artists/386496",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/f6bca16d06380564e84eedac784e4865",
+     "id": 386496,
+     "image_url": "https://images.rapgenius.com/avatars/medium/f6bca16d06380564e84eedac784e4865",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Phillip LaRue",
+     "url": "https://genius.com/artists/Phillip-larue",
+     "iq": 2474
+    },
+    {
+     "api_path": "/artists/635460",
+     "header_image_url": "https://images.genius.com/96a27a1ada2afa08ceb5dbe3e79087f4.786x786x1.jpg",
+     "id": 635460,
+     "image_url": "https://images.genius.com/96a27a1ada2afa08ceb5dbe3e79087f4.786x786x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tofer Brown",
+     "url": "https://genius.com/artists/Tofer-brown"
+    }
+   ],
+   "artist": "Jon Pardi",
+   "lyrics": "16 ContributorsNight Shift Lyrics[Verse 1]\nIt's been a wreck me week\nSixty plus from dawn to dusk\nIn the red dirt heat\nBusting it up for a couple of bucks\nBut it ain't no thing\nJust another day 'til I'm on my way\nTo them cool, cool sheets and you and me\n\n[Chorus]\nWorking on the night shift, baby\nDying for your touch like crazy\nRacking up the overtime hours\nLoving how we're working on the night shift, baby\n[Verse 2]\nGonna rock it right\nNo need to talk, I know what you want\nAnd what you like\n'Cause I do too, yeah\nI love how you leave on the lights\nNot a thing between you and me\nAnd it feels so nice when you and I are\n\n[Chorus]\nWorking on the night shift, baby\nDying for your touch like crazy\nRacking up the overtime hours\nLoving how we're working on the night shift, baby\n\n[Bridge]\nYeah, yeah\nIt's been a wreck me week\nOh, but who needs sleep?\n\n[Chorus]\nWhen you're working on the night shift, baby\nDying for your touch like crazy\nRacking up the overtime hours\nLoving how we're working on the night shift, baby\nLoving how we're working on the night shift\nLoving how we're working on the night shift\nWorking on the night shift, babyYou might also like1Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/2597008",
+   "artist_names": "Jon Pardi",
+   "full_title": "Dirt On My Boots by\u00a0Jon\u00a0Pardi",
+   "header_image_thumbnail_url": "https://images.genius.com/072ba78fd693c2a93874b88132cdffda.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/072ba78fd693c2a93874b88132cdffda.1000x1000x1.jpg",
+   "id": 2597008,
+   "language": "en",
+   "lyrics_owner_id": 320363,
+   "lyrics_state": "complete",
+   "path": "/Jon-pardi-dirt-on-my-boots-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Jon-pardi-dirt-on-my-boots-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 17
+   },
+   "release_date_for_display": "June 17, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 17, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cdb444c7985743aec71d9bc53058dae6.220x220x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cdb444c7985743aec71d9bc53058dae6.220x220x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 13,
+    "transcribers": 3,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 29531
+   },
+   "title": "Dirt On My Boots",
+   "title_with_featured": "Dirt On My Boots",
+   "url": "https://genius.com/Jon-pardi-dirt-on-my-boots-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/268932",
+    "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "id": 268932,
+    "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jon Pardi",
+    "url": "https://genius.com/artists/Jon-pardi",
+    "iq": 100
+   },
+   "apple_music_id": "1116233238",
+   "apple_music_player_url": "https://genius.com/songs/2597008/apple_music_player",
+   "description": {
+    "plain": "\u201cDirt on My Boots\u201d is a song recorded by American country music artist Jon Pardi. It was released to radio on September 19, 2016 as the second single to his second studio album California Sunrise. The song was written by Rhett Akins, Jesse Frasure and Ashley Gorley.[1][2]"
+   },
+   "embed_content": "<div id='rg_embed_link_2597008' class='rg_embed_link' data-song-id='2597008'>Read <a href='https://genius.com/Jon-pardi-dirt-on-my-boots-lyrics'>\u201cDirt On My Boots\u201d by Jon\u00a0Pardi</a> on Genius</div> <script crossorigin src='//genius.com/songs/2597008/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/146401",
+    "cover_art_url": "https://images.genius.com/231e9dc4e22638f0e232d7b2f7af709a.1000x1000x1.jpg",
+    "full_title": "California Sunrise by Jon Pardi",
+    "id": 146401,
+    "name": "California Sunrise",
+    "release_date_for_display": "June 17, 2016",
+    "url": "https://genius.com/albums/Jon-pardi/California-sunrise",
+    "artist": {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1006099",
+       "header_image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "id": 1006099,
+       "image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records Nashville",
+       "url": "https://genius.com/artists/Capitol-records-nashville"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 12039696,
+    "annotator_login": "PaulFord777",
+    "api_path": "/referents/17686902",
+    "classification": "unreviewed",
+    "fragment": "Dirt On My Boots",
+    "id": 17686902,
+    "is_description": true,
+    "path": "/17686902/Jon-pardi-dirt-on-my-boots/Dirt-on-my-boots",
+    "range": {
+     "content": "Dirt On My Boots"
+    },
+    "song_id": 2597008,
+    "url": "https://genius.com/17686902/Jon-pardi-dirt-on-my-boots/Dirt-on-my-boots",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2597008",
+     "client_timestamps": {
+      "updated_by_human_at": 1654195182,
+      "lyrics_updated_at": 1654195182
+     },
+     "context": "Jon Pardi",
+     "id": 2597008,
+     "image_url": "https://images.genius.com/cdb444c7985743aec71d9bc53058dae6.220x220x1.jpg",
+     "link_title": "Dirt On My Boots by\u00a0Jon\u00a0Pardi",
+     "title": "Dirt On My Boots",
+     "type": "Song",
+     "url": "https://genius.com/Jon-pardi-dirt-on-my-boots-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17686902",
+      "body": {
+       "plain": "\u201cDirt on My Boots\u201d is a song recorded by American country music artist Jon Pardi. It was released to radio on September 19, 2016 as the second single to his second studio album California Sunrise. The song was written by Rhett Akins, Jesse Frasure and Ashley Gorley.[1][2]"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17686902,
+      "pinned": false,
+      "share_url": "https://genius.com/17686902",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17686902/Jon-pardi-dirt-on-my-boots/Dirt-on-my-boots",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/12039696",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/55514a36eebf476f3103237caf960f1d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/55514a36eebf476f3103237caf960f1d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/55514a36eebf476f3103237caf960f1d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/55514a36eebf476f3103237caf960f1d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/55514a36eebf476f3103237caf960f1d",
+         "human_readable_role_for_display": null,
+         "id": 12039696,
+         "iq": 127,
+         "login": "PaulFord777",
+         "name": "PaulFord777",
+         "role_for_display": null,
+         "url": "https://genius.com/PaulFord777",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lheKC1iC0CM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/654884",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 654884,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bart Butler",
+     "url": "https://genius.com/artists/Bart-butler"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5509380",
+       "artist_names": "Homegrown Kids",
+       "full_title": "Dirt On My Boots by\u00a0Homegrown\u00a0Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/1f0c0bdb6bf3f5598b5eb5905757bcda.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1f0c0bdb6bf3f5598b5eb5905757bcda.1000x1000x1.jpg",
+       "id": 5509380,
+       "language": "en",
+       "lyrics_owner_id": 9921177,
+       "lyrics_state": "complete",
+       "path": "/Homegrown-kids-dirt-on-my-boots-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Homegrown-kids-dirt-on-my-boots-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 9
+       },
+       "release_date_for_display": "November 9, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1f0c0bdb6bf3f5598b5eb5905757bcda.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1f0c0bdb6bf3f5598b5eb5905757bcda.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dirt On My Boots",
+       "title_with_featured": "Dirt On My Boots",
+       "url": "https://genius.com/Homegrown-kids-dirt-on-my-boots-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2212036",
+        "header_image_url": "https://images.genius.com/0d4f879f265da49e9b02dfc93fe33e06.640x640x1.jpg",
+        "id": 2212036,
+        "image_url": "https://images.genius.com/4dca85698b4d7c70dd89b3c010175284.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Homegrown Kids",
+        "url": "https://genius.com/artists/Homegrown-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4995802",
+       "artist_names": "Sean Stemaly",
+       "full_title": "Dirt On My Boots by\u00a0Sean\u00a0Stemaly",
+       "header_image_thumbnail_url": "https://images.genius.com/84870dc1677e4538f47304b8134b7467.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/84870dc1677e4538f47304b8134b7467.1000x1000x1.jpg",
+       "id": 4995802,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Sean-stemaly-dirt-on-my-boots-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sean-stemaly-dirt-on-my-boots-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 3,
+        "day": 26
+       },
+       "release_date_for_display": "March 26, 2017",
+       "release_date_with_abbreviated_month_for_display": "Mar. 26, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/84870dc1677e4538f47304b8134b7467.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/84870dc1677e4538f47304b8134b7467.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dirt On My Boots",
+       "title_with_featured": "Dirt On My Boots",
+       "url": "https://genius.com/Sean-stemaly-dirt-on-my-boots-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1786478",
+        "header_image_url": "https://images.genius.com/6452c9712596c8d005309dbde191450b.1000x242x1.jpg",
+        "id": 1786478,
+        "image_url": "https://images.genius.com/84870dc1677e4538f47304b8134b7467.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sean Stemaly",
+        "url": "https://genius.com/artists/Sean-stemaly"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2954455",
+       "artist_names": "Outlaw",
+       "full_title": "Sag In Her Boobs by\u00a0Outlaw",
+       "header_image_thumbnail_url": "https://images.genius.com/fe96e2d7e9cc85ed322cf17e66fcaf74.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fe96e2d7e9cc85ed322cf17e66fcaf74.1000x1000x1.jpg",
+       "id": 2954455,
+       "language": "en",
+       "lyrics_owner_id": 1786000,
+       "lyrics_state": "complete",
+       "path": "/Outlaw-sag-in-her-boobs-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Outlaw-sag-in-her-boobs-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 11,
+        "day": 24
+       },
+       "release_date_for_display": "November 24, 2016",
+       "release_date_with_abbreviated_month_for_display": "Nov. 24, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fe96e2d7e9cc85ed322cf17e66fcaf74.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fe96e2d7e9cc85ed322cf17e66fcaf74.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 14686
+       },
+       "title": "Sag In Her Boobs",
+       "title_with_featured": "Sag In Her Boobs",
+       "url": "https://genius.com/Outlaw-sag-in-her-boobs-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/21690",
+        "header_image_url": "https://images.genius.com/007828692b3213bce037955e4de4e3af.369x136x1.png",
+        "id": 21690,
+        "image_url": "https://images.genius.com/26e832c7ef51cac8f9e3d670257fabf5.959x959x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Outlaw",
+        "url": "https://genius.com/artists/Outlaw"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7380808",
+       "artist_names": "Jon Pardi",
+       "full_title": "Dirt On My Boots (Live At Stagecoach 2017) by\u00a0Jon\u00a0Pardi",
+       "header_image_thumbnail_url": "https://images.genius.com/8e4110287f375a6a60f88c18abd24323.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8e4110287f375a6a60f88c18abd24323.500x500x1.jpg",
+       "id": 7380808,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Jon-pardi-dirt-on-my-boots-live-at-stagecoach-2017-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jon-pardi-dirt-on-my-boots-live-at-stagecoach-2017-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8e4110287f375a6a60f88c18abd24323.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8e4110287f375a6a60f88c18abd24323.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Dirt On My Boots (Live At Stagecoach 2017)",
+       "title_with_featured": "Dirt On My Boots (Live At Stagecoach 2017)",
+       "url": "https://genius.com/Jon-pardi-dirt-on-my-boots-live-at-stagecoach-2017-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/268932",
+        "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+        "id": 268932,
+        "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jon Pardi",
+        "url": "https://genius.com/artists/Jon-pardi",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/411978",
+     "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "id": 411978,
+     "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ashley Gorley",
+     "url": "https://genius.com/artists/Ashley-gorley"
+    },
+    {
+     "api_path": "/artists/451598",
+     "header_image_url": "https://images.genius.com/682dab23c11656da43aa829a99992c8b.396x396x1.png",
+     "id": 451598,
+     "image_url": "https://images.genius.com/682dab23c11656da43aa829a99992c8b.396x396x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jesse Frasure",
+     "url": "https://genius.com/artists/Jesse-frasure"
+    },
+    {
+     "api_path": "/artists/333845",
+     "header_image_url": "https://images.genius.com/db12b290828e9fae94ea5a2ca728fb2e.300x300x1.jpg",
+     "id": 333845,
+     "image_url": "https://images.genius.com/db12b290828e9fae94ea5a2ca728fb2e.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rhett Akins",
+     "url": "https://genius.com/artists/Rhett-akins"
+    }
+   ],
+   "artist": "Jon Pardi",
+   "lyrics": "14 ContributorsDirt On My Boots Lyrics[Verse 1]\nBeen up since the crack of dawn\nJust trying to get paid\nBeen hotter than a hundred suns\nI can't find no shade\nJust two more rows and I'm good to go\nYeah, I'm shutting this tractor down\nGive me a half an hour for a shave and a shower\nAnd I'll be outside your house\n\n[Chorus]\nMight have a little dirt on my boots\nBut I'm takin' you uptown tonight\nMight have a little mud on my wheels\nBut they're gonna shine with you up inside\nGonna hit the club, gonna cut a rug\nBurn it up like neon lights\nMight have a little dirt on my boots\nBut we're gonna dance the dust right off them tonight, yeah girl\nGot a little dirt on my boots\n[Verse 2]\nHard as I worked all day\nI'm gonna work harder loving on you\nSpin you all over that dance floor\nRight out of them high heel shoes\nAnd when you're ready to quit\nBaby, we can slip right out of that barroom door\nAnd when I take you home, don't worry babe\nI'm gonna kick them off on the porch\n\n[Chorus]\nMight have a little dirt on my boots\nBut I'm taking you uptown tonight\nMight have a little mud on my wheels\nBut they're gonna shine with you up inside\nGonna hit the club, gonna cut a rug\nBurn it up like neon lights\nMight have a little dirt on my boots\nBut we're gonna dance the dust right off them tonight, yeah girl\nGot a little dirt on my boots\n\n[Bridge]\nA little dirty dancing, blue collar romancing\nI can get cleaned up if you ask me\nBut I can only get so fancy\nYou might also like[Chorus]\nGot a little dirt on my boots\nBut I'm taking you uptown tonight\nMight have a little mud on my wheels\nBut they're gonna shine with you up inside\nGonna hit the club, gonna cut a rug\nBurn it up like neon lights\nMight have a little dirt on my boots\nBut we're gonna dance the dust right off them tonight, yeah girl\nGot a little dirt on my boots\nGot a little dirt on my boots\nGot a little dirt on my boots2Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4569430",
+   "artist_names": "Jon Pardi",
+   "full_title": "Heartache Medication by\u00a0Jon\u00a0Pardi",
+   "header_image_thumbnail_url": "https://images.genius.com/a5c316b65067eabef2ba5f44d9b96fb3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a5c316b65067eabef2ba5f44d9b96fb3.1000x1000x1.jpg",
+   "id": 4569430,
+   "language": "en",
+   "lyrics_owner_id": 1668469,
+   "lyrics_state": "complete",
+   "path": "/Jon-pardi-heartache-medication-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jon-pardi-heartache-medication-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 5,
+    "day": 20
+   },
+   "release_date_for_display": "May 20, 2019",
+   "release_date_with_abbreviated_month_for_display": "May. 20, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a294e70f62e450ca56ef64d6347c52ad.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a294e70f62e450ca56ef64d6347c52ad.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 27972
+   },
+   "title": "Heartache Medication",
+   "title_with_featured": "Heartache Medication",
+   "url": "https://genius.com/Jon-pardi-heartache-medication-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/268932",
+    "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "id": 268932,
+    "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Jon Pardi",
+    "url": "https://genius.com/artists/Jon-pardi",
+    "iq": 100
+   },
+   "apple_music_id": "1468373430",
+   "apple_music_player_url": "https://genius.com/songs/4569430/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4569430' class='rg_embed_link' data-song-id='4569430'>Read <a href='https://genius.com/Jon-pardi-heartache-medication-lyrics'>\u201cHeartache Medication\u201d by Jon\u00a0Pardi</a> on Genius</div> <script crossorigin src='//genius.com/songs/4569430/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-05-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/531526",
+    "cover_art_url": "https://images.genius.com/afcaa8420dee9234b97d6b064407e9a3.1000x1000x1.jpg",
+    "full_title": "Heartache Medication by Jon Pardi",
+    "id": 531526,
+    "name": "Heartache Medication",
+    "release_date_for_display": "September 27, 2019",
+    "url": "https://genius.com/albums/Jon-pardi/Heartache-medication",
+    "artist": {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1006099",
+       "header_image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "id": 1006099,
+       "image_url": "https://images.genius.com/676582be8ca9d793ee998464bf00d082.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records Nashville",
+       "url": "https://genius.com/artists/Capitol-records-nashville"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5156306,
+    "annotator_login": "Bismvth",
+    "api_path": "/referents/19439280",
+    "classification": "needs_exegesis",
+    "fragment": "Heartache Medication",
+    "id": 19439280,
+    "is_description": true,
+    "path": "/19439280/Jon-pardi-heartache-medication/Heartache-medication",
+    "range": {
+     "content": "Heartache Medication"
+    },
+    "song_id": 4569430,
+    "url": "https://genius.com/19439280/Jon-pardi-heartache-medication/Heartache-medication",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4569430",
+     "client_timestamps": {
+      "updated_by_human_at": 1679019608,
+      "lyrics_updated_at": 1679019608
+     },
+     "context": "Jon Pardi",
+     "id": 4569430,
+     "image_url": "https://images.genius.com/a294e70f62e450ca56ef64d6347c52ad.1000x1000x1.jpg",
+     "link_title": "Heartache Medication by\u00a0Jon\u00a0Pardi",
+     "title": "Heartache Medication",
+     "type": "Song",
+     "url": "https://genius.com/Jon-pardi-heartache-medication-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19439280",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19439280,
+      "pinned": false,
+      "share_url": "https://genius.com/19439280",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19439280/Jon-pardi-heartache-medication/Heartache-medication",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5156306",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7d0ed1364071c1b904e115e63b721103",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7d0ed1364071c1b904e115e63b721103",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7d0ed1364071c1b904e115e63b721103",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7d0ed1364071c1b904e115e63b721103",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5d176b04f86dfbf09cc304063bd90ae5.1000x738x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 5156306,
+         "iq": 37508,
+         "login": "Bismvth",
+         "name": "Bismvth",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Bismvth",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/93685",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 93685,
+    "iq": 1232027,
+    "login": "killersnowtiger",
+    "name": "\u200bKST",
+    "role_for_display": "staff",
+    "url": "https://genius.com/killersnowtiger",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NQFhnvJ9tsk"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/654884",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 654884,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bart Butler",
+     "url": "https://genius.com/artists/Bart-butler"
+    },
+    {
+     "api_path": "/artists/1002623",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1002623,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ryan Gore",
+     "url": "https://genius.com/artists/Ryan-gore"
+    },
+    {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8925906",
+       "artist_names": "Luke Laird, Lori McKenna & Barry Dean",
+       "full_title": "Heartache Medication by\u00a0Luke\u00a0Laird, Lori McKenna & Barry Dean",
+       "header_image_thumbnail_url": "https://images.genius.com/deba11b6d2293c575bcc4fc2a43c5c75.300x300x1.png",
+       "header_image_url": "https://images.genius.com/deba11b6d2293c575bcc4fc2a43c5c75.1000x1000x1.png",
+       "id": 8925906,
+       "language": "en",
+       "lyrics_owner_id": 93685,
+       "lyrics_state": "complete",
+       "path": "/Luke-laird-lori-mckenna-and-barry-dean-heartache-medication-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Luke-laird-lori-mckenna-and-barry-dean-heartache-medication-sample",
+       "release_date_components": {
+        "year": 2023,
+        "month": 3,
+        "day": 17
+       },
+       "release_date_for_display": "March 17, 2023",
+       "release_date_with_abbreviated_month_for_display": "Mar. 17, 2023",
+       "song_art_image_thumbnail_url": "https://images.genius.com/deba11b6d2293c575bcc4fc2a43c5c75.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/deba11b6d2293c575bcc4fc2a43c5c75.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Heartache Medication",
+       "title_with_featured": "Heartache Medication",
+       "url": "https://genius.com/Luke-laird-lori-mckenna-and-barry-dean-heartache-medication-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3473641",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3473641,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Luke Laird, Lori McKenna & Barry Dean",
+        "url": "https://genius.com/artists/Luke-laird-lori-mckenna-and-barry-dean"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/397903",
+     "header_image_url": "https://images.genius.com/4c2d9984ae08abf06083d035b9bdef84.300x450x1.jpg",
+     "id": 397903,
+     "image_url": "https://images.genius.com/4c2d9984ae08abf06083d035b9bdef84.300x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barry Dean",
+     "url": "https://genius.com/artists/Barry-dean"
+    },
+    {
+     "api_path": "/artists/648576",
+     "header_image_url": "https://images.genius.com/d70fede10109f028383e1b4be3aa9848.1000x1000x1.jpg",
+     "id": 648576,
+     "image_url": "https://images.genius.com/d70fede10109f028383e1b4be3aa9848.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Natalie Hemby",
+     "url": "https://genius.com/artists/Natalie-hemby"
+    },
+    {
+     "api_path": "/artists/268932",
+     "header_image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "id": 268932,
+     "image_url": "https://images.genius.com/9e8b3c52321bd24b601f360618a0fc4c.750x714x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jon Pardi",
+     "url": "https://genius.com/artists/Jon-pardi",
+     "iq": 100
+    }
+   ],
+   "artist": "Jon Pardi",
+   "lyrics": "10 ContributorsHeartache Medication Lyrics[Verse 1]\nSame old dive\nSame old end-of-the-work-week drink\nBartender knows my name, but I don't mind\nShe kicks 'em up strong, serves me up right\n\n[Chorus]\nAnd here I go again, I'm drinkin' one, I'm drinkin' two\nI got my heartache medication, a strong dedication\nTo gettin' over you, turnin' me loose\nOn that hardwood jukebox lost in neon time\nMy heartache medication, well, it suits me fine\nAnd I'm drinkin' enough to take you off my mind\nI got my heartache medication\n[Verse 2]\nAnother girl\nAnother dance to a country song\nTurnin' me on\nHere's to a good time and halfway to feelin' alright\n\n[Chorus]\nAnd here I go again, I'm drinkin' one, I'm drinkin' two\nI got my heartache medication, a strong dedication\nTo gettin' over you, turnin' me loose\nOn that hardwood jukebox lost in neon time\nMy heartache medication, well it suits me fine\nAnd I'm drinkin' enough to take you off my mind\nI got my heartache medication\n\n[Bridge]\nSingle, drinkin' doubles\nTeardrops turnin' into bubbles\nYeah, a little later on\nI'll probably find me some trouble\n\n[Chorus]\nAnd here I go again, I'm drinkin' one, I'm drinkin' two\nI got my heartache medication, a strong dedication\nTo gettin' over you, turnin' me loose\nOn that hardwood jukebox lost in neon time\nMy heartache medication, well it suits me fine\nAnd I'm drinkin' enough to take you off my mind\nI got my heartache medication\nYou might also like[Outro]\nHeartache medication takin' me away\nOh whoaEmbed"
+  }
+ ]
+}

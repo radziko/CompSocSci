@@ -1,0 +1,1671 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/655710",
+ "description": {
+  "plain": "Kream, is a Norwegian DJ duo consisting of brothers Daniel and Markus Slettebakken, from Bergen."
+ },
+ "facebook_name": null,
+ "followers_count": 9,
+ "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+ "id": 655710,
+ "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "KREAM",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Kream",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1694312,
+  "annotator_login": "rezzza",
+  "api_path": "/referents/8940548",
+  "classification": "accepted",
+  "fragment": "KREAM",
+  "id": 8940548,
+  "is_description": true,
+  "path": "/8940548/Kream/Kream",
+  "range": {
+   "content": "KREAM"
+  },
+  "song_id": null,
+  "url": "https://genius.com/8940548/Kream/Kream",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/655710",
+   "context": null,
+   "id": 655710,
+   "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+   "link_title": "KREAM",
+   "title": "KREAM",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kream"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/8940548",
+    "body": {
+     "plain": "Kream, is a Norwegian DJ duo consisting of brothers Daniel and Markus Slettebakken, from Bergen."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 8940548,
+    "pinned": false,
+    "share_url": "https://genius.com/8940548",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/8940548/Kream/Kream",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1694312",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f1bjeu6w4j4",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f1bjeu6w4j4",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f1bjeu6w4j4",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f1bjeu6w4j4",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/deaagncd61u",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1694312,
+       "iq": 56136,
+       "login": "rezzza",
+       "name": "rezzza",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/rezzza",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/2882202",
+   "artist_names": "KREAM (Ft. Clara Mae)",
+   "full_title": "Taped Up Heart by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+   "header_image_thumbnail_url": "https://images.genius.com/1060861fa4eb12bd8042a093132aef7a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1060861fa4eb12bd8042a093132aef7a.1000x1000x1.jpg",
+   "id": 2882202,
+   "language": "en",
+   "lyrics_owner_id": 3643689,
+   "lyrics_state": "complete",
+   "path": "/Kream-taped-up-heart-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Kream-taped-up-heart-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 10,
+    "day": 14
+   },
+   "release_date_for_display": "October 14, 2016",
+   "release_date_with_abbreviated_month_for_display": "Oct. 14, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1060861fa4eb12bd8042a093132aef7a.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1060861fa4eb12bd8042a093132aef7a.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 17,
+    "iq_earners": 15,
+    "transcribers": 3,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 47797
+   },
+   "title": "Taped Up Heart",
+   "title_with_featured": "Taped Up Heart (Ft.\u00a0Clara\u00a0Mae)",
+   "url": "https://genius.com/Kream-taped-up-heart-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/685056",
+     "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+     "id": 685056,
+     "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clara Mae",
+     "url": "https://genius.com/artists/Clara-mae"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/655710",
+    "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+    "id": 655710,
+    "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "KREAM",
+    "url": "https://genius.com/artists/Kream"
+   },
+   "apple_music_id": "1162311970",
+   "apple_music_player_url": "https://genius.com/songs/2882202/apple_music_player",
+   "description": {
+    "plain": "Norwegian duo KREAM enlist Swedish singer Clara Mae for the harrowing \u201cTaped Up Heart.\u201d Over a sunny trop-house backing, Mae weathers an emotional superstorm. Clara Mae is perhaps best known for her three-year stint\u2014from 2009 to 2012\u2014in Swedish pop foursome Ace of Base.  KREAM said of this song in a press release:\n\nWe like getting to explore darker concepts while still keeping the track upbeat. Clara was the perfect fit for this one. So good to share \u201cTaped Up Heart\u201d with everyone today."
+   },
+   "embed_content": "<div id='rg_embed_link_2882202' class='rg_embed_link' data-song-id='2882202'>Read <a href='https://genius.com/Kream-taped-up-heart-lyrics'>\u201cTaped Up Heart\u201d by KREAM</a> on Genius</div> <script crossorigin src='//genius.com/songs/2882202/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-10-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2384027,
+    "annotator_login": "KPartridge",
+    "api_path": "/referents/10617774",
+    "classification": "accepted",
+    "fragment": "Taped Up Heart",
+    "id": 10617774,
+    "is_description": true,
+    "path": "/10617774/Kream-taped-up-heart/Taped-up-heart",
+    "range": {
+     "content": "Taped Up Heart"
+    },
+    "song_id": 2882202,
+    "url": "https://genius.com/10617774/Kream-taped-up-heart/Taped-up-heart",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2882202",
+     "client_timestamps": {
+      "updated_by_human_at": 1672266434,
+      "lyrics_updated_at": 1672266433
+     },
+     "context": "KREAM",
+     "id": 2882202,
+     "image_url": "https://images.genius.com/1060861fa4eb12bd8042a093132aef7a.1000x1000x1.jpg",
+     "link_title": "Taped Up Heart by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+     "title": "Taped Up Heart",
+     "type": "Song",
+     "url": "https://genius.com/Kream-taped-up-heart-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10617774",
+      "body": {
+       "plain": "Norwegian duo KREAM enlist Swedish singer Clara Mae for the harrowing \u201cTaped Up Heart.\u201d Over a sunny trop-house backing, Mae weathers an emotional superstorm. Clara Mae is perhaps best known for her three-year stint\u2014from 2009 to 2012\u2014in Swedish pop foursome Ace of Base.  KREAM said of this song in a press release:\n\nWe like getting to explore darker concepts while still keeping the track upbeat. Clara was the perfect fit for this one. So good to share \u201cTaped Up Heart\u201d with everyone today."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 10617774,
+      "pinned": false,
+      "share_url": "https://genius.com/10617774",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/10617774/Kream-taped-up-heart/Taped-up-heart",
+      "verified": false,
+      "votes_total": 12,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2384027",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4f02be6ae2f4a9011324c44550f013e4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4f02be6ae2f4a9011324c44550f013e4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4f02be6ae2f4a9011324c44550f013e4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4f02be6ae2f4a9011324c44550f013e4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4f02be6ae2f4a9011324c44550f013e4",
+         "human_readable_role_for_display": "Staff",
+         "id": 2384027,
+         "iq": 33180,
+         "login": "KPartridge",
+         "name": "Ken Partridge",
+         "role_for_display": "staff",
+         "url": "https://genius.com/KPartridge",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:26hcyzSE154xMZCbFdtInA",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/26hcyzSE154xMZCbFdtInA"
+    },
+    {
+     "attribution": "kreamofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kreamofficial/kream-taped-up-heart-ft-clara-mae"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=XikZDwqOhuA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/655710",
+     "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+     "id": 655710,
+     "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KREAM",
+     "url": "https://genius.com/artists/Kream"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/655710",
+     "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+     "id": 655710,
+     "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KREAM",
+     "url": "https://genius.com/artists/Kream"
+    },
+    {
+     "api_path": "/artists/685056",
+     "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+     "id": 685056,
+     "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clara Mae",
+     "url": "https://genius.com/artists/Clara-mae"
+    },
+    {
+     "api_path": "/artists/660556",
+     "header_image_url": "https://images.genius.com/04dc52cc0891ace128c100a3083c7e09.640x640x1.jpg",
+     "id": 660556,
+     "image_url": "https://images.genius.com/04dc52cc0891ace128c100a3083c7e09.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "SHY Nodi",
+     "url": "https://genius.com/artists/Shy-nodi"
+    },
+    {
+     "api_path": "/artists/876840",
+     "header_image_url": "https://images.genius.com/c25e2d691e5f33131cebeb5ed677ed76.1000x674x1.png",
+     "id": 876840,
+     "image_url": "https://images.genius.com/9c76e8d16bcd127a5038da103994264d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "SHY Martin",
+     "url": "https://genius.com/artists/Shy-martin",
+     "iq": 869
+    }
+   ],
+   "artist": "KREAM",
+   "lyrics": "17 ContributorsTaped Up Heart Lyrics[Verse 1: Clara Hagman]\nThere is no place I can hide\nCause wherever I go it's you I find\nI got a can of bright blue pills\nSupposed to get rid of them heavy feels, yeah\n\n[Verse 2: Clara Hagman]\nI bet that she's beautiful and there is no doubt\nShe's all that you wanted, the queen of the crowd\nI bet your friends love her, cause she's always so fun, yeah\nAnd the worst thing of all is I used to be that one\n\n[Chorus: Clara Hagman]\nNow it's only just me and my sheets\nGot your hands on me on repeat\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\nMe and my sheets\nYou should know that we're done with your shit\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\n\n[Bassline: Kream]\nHold up\n\n[Chorus: Clara Hagman]\nNow it's only just me and my sheets\nGot your hands on me on repeat\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\nMe and my sheets\nYou should know that we're done with your shit\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\nYou might also like[Bridge]\nWhen I fall, I fall deeper, yeah, I'm still falling\nCan't get rid of the feeling, the feeling haunt me\nSo I fall, I fall deeper, deeper, deeper\nSo I fall, I fall deeper, deeper, deeper\n\n[Chorus: Clara Hagman]\nNow it's only just me and my sheets\nGot your hands on me on repeat\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\nMe and my sheets\nYou should know that we're done with your shit\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\n\n[Bassline: Kream]\nHold up\n\n[Chorus: Clara Hagman]\nNow it's only just me and my sheets\nGot your hands on me on repeat\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\nMe and my sheets\nYou should know that we're done with your shit\nAll I wanna do is go to sleep\nWith my taped up heart and my open bottle\n[Bassline: Kream]4Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3166071",
+   "artist_names": "KREAM (Ft. Clara Mae)",
+   "full_title": "Drowning by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+   "header_image_thumbnail_url": "https://images.genius.com/06a8ef496fb59dccf93fc32f3f6bf33c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/06a8ef496fb59dccf93fc32f3f6bf33c.1000x1000x1.jpg",
+   "id": 3166071,
+   "language": "en",
+   "lyrics_owner_id": 320363,
+   "lyrics_state": "complete",
+   "path": "/Kream-drowning-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Kream-drowning-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 7,
+    "day": 21
+   },
+   "release_date_for_display": "July 21, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jul. 21, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/06a8ef496fb59dccf93fc32f3f6bf33c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/06a8ef496fb59dccf93fc32f3f6bf33c.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11546
+   },
+   "title": "Drowning",
+   "title_with_featured": "Drowning (Ft.\u00a0Clara\u00a0Mae)",
+   "url": "https://genius.com/Kream-drowning-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/685056",
+     "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+     "id": 685056,
+     "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clara Mae",
+     "url": "https://genius.com/artists/Clara-mae"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/655710",
+    "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+    "id": 655710,
+    "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "KREAM",
+    "url": "https://genius.com/artists/Kream"
+   },
+   "apple_music_id": "1259901049",
+   "apple_music_player_url": "https://genius.com/songs/3166071/apple_music_player",
+   "description": {
+    "plain": "\u201cDrowning\u201d was released on July 21, 2017, and is the second song where KREAM, the brother duo from Bergen, Sweden, collaborated with the vocalist Clara Mae on a dance pop track. Previously KREAM and Clara Mae also worked together on the hit \u201cTaped Up Heart.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3166071' class='rg_embed_link' data-song-id='3166071'>Read <a href='https://genius.com/Kream-drowning-lyrics'>\u201cDrowning\u201d by KREAM</a> on Genius</div> <script crossorigin src='//genius.com/songs/3166071/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-07-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4877894,
+    "annotator_login": "AnonymouSaiga",
+    "api_path": "/referents/12373777",
+    "classification": "accepted",
+    "fragment": "Drowning",
+    "id": 12373777,
+    "is_description": true,
+    "path": "/12373777/Kream-drowning/Drowning",
+    "range": {
+     "content": "Drowning"
+    },
+    "song_id": 3166071,
+    "url": "https://genius.com/12373777/Kream-drowning/Drowning",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3166071",
+     "client_timestamps": {
+      "updated_by_human_at": 1588932867,
+      "lyrics_updated_at": 1588932867
+     },
+     "context": "KREAM",
+     "id": 3166071,
+     "image_url": "https://images.genius.com/06a8ef496fb59dccf93fc32f3f6bf33c.1000x1000x1.jpg",
+     "link_title": "Drowning by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+     "title": "Drowning",
+     "type": "Song",
+     "url": "https://genius.com/Kream-drowning-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12373777",
+      "body": {
+       "plain": "\u201cDrowning\u201d was released on July 21, 2017, and is the second song where KREAM, the brother duo from Bergen, Sweden, collaborated with the vocalist Clara Mae on a dance pop track. Previously KREAM and Clara Mae also worked together on the hit \u201cTaped Up Heart.\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 12373777,
+      "pinned": false,
+      "share_url": "https://genius.com/12373777",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/12373777/Kream-drowning/Drowning",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4877894",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/99514d1bcb599cf9a4359f166e16017a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/99514d1bcb599cf9a4359f166e16017a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/99514d1bcb599cf9a4359f166e16017a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/99514d1bcb599cf9a4359f166e16017a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/99514d1bcb599cf9a4359f166e16017a",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4877894,
+         "iq": 1324,
+         "login": "AnonymouSaiga",
+         "name": "AnonymouSaiga",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AnonymouSaiga",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "kreamofficial",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kreamofficial/kream-clara-mae-drowning1"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dzwN81liLzc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/655710",
+     "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+     "id": 655710,
+     "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KREAM",
+     "url": "https://genius.com/artists/Kream"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Kream-drowning-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4389643",
+       "artist_names": "KREAM (Ft. Clara Mae)",
+       "full_title": "Drowning (Keeno Remix) by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+       "header_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "id": 4389643,
+       "language": "en",
+       "lyrics_owner_id": 10553321,
+       "lyrics_state": "complete",
+       "path": "/Kream-drowning-keeno-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kream-drowning-keeno-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 9,
+        "day": 29
+       },
+       "release_date_for_display": "September 29, 2017",
+       "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drowning (Keeno Remix)",
+       "title_with_featured": "Drowning (Keeno Remix) (Ft.\u00a0Clara\u00a0Mae)",
+       "url": "https://genius.com/Kream-drowning-keeno-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/685056",
+         "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+         "id": 685056,
+         "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Clara Mae",
+         "url": "https://genius.com/artists/Clara-mae"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/655710",
+        "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+        "id": 655710,
+        "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KREAM",
+        "url": "https://genius.com/artists/Kream"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4389642",
+       "artist_names": "KREAM (Ft. Clara Mae)",
+       "full_title": "Drowning (Kuur Remix) by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+       "header_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "id": 4389642,
+       "language": "en",
+       "lyrics_owner_id": 10553321,
+       "lyrics_state": "complete",
+       "path": "/Kream-drowning-kuur-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Kream-drowning-kuur-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 9,
+        "day": 29
+       },
+       "release_date_for_display": "September 29, 2017",
+       "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drowning (Kuur Remix)",
+       "title_with_featured": "Drowning (Kuur Remix) (Ft.\u00a0Clara\u00a0Mae)",
+       "url": "https://genius.com/Kream-drowning-kuur-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/685056",
+         "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+         "id": 685056,
+         "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Clara Mae",
+         "url": "https://genius.com/artists/Clara-mae"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/655710",
+        "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+        "id": 655710,
+        "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KREAM",
+        "url": "https://genius.com/artists/Kream"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4389641",
+       "artist_names": "KREAM (Ft. Clara Mae)",
+       "full_title": "Drowning (MVJESTY Remix) by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+       "header_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "id": 4389641,
+       "language": "en",
+       "lyrics_owner_id": 10553321,
+       "lyrics_state": "complete",
+       "path": "/Kream-drowning-mvjesty-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Kream-drowning-mvjesty-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 27
+       },
+       "release_date_for_display": "October 27, 2017",
+       "release_date_with_abbreviated_month_for_display": "Oct. 27, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/22aa1a1f14d76691bc45ec4b9118631b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drowning (MVJESTY Remix)",
+       "title_with_featured": "Drowning (MVJESTY Remix) (Ft.\u00a0Clara\u00a0Mae)",
+       "url": "https://genius.com/Kream-drowning-mvjesty-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/685056",
+         "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+         "id": 685056,
+         "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Clara Mae",
+         "url": "https://genius.com/artists/Clara-mae"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/655710",
+        "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+        "id": 655710,
+        "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KREAM",
+        "url": "https://genius.com/artists/Kream"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4389638",
+       "artist_names": "KREAM (Ft. Clara Mae)",
+       "full_title": "Drowning (BROHUG Remix) by\u00a0KREAM (Ft.\u00a0Clara\u00a0Mae)",
+       "header_image_thumbnail_url": "https://images.genius.com/d21b0503a77abc096884c8baf6cbd301.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d21b0503a77abc096884c8baf6cbd301.500x500x1.jpg",
+       "id": 4389638,
+       "language": "en",
+       "lyrics_owner_id": 5544387,
+       "lyrics_state": "complete",
+       "path": "/Kream-drowning-brohug-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kream-drowning-brohug-remix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 27
+       },
+       "release_date_for_display": "October 27, 2017",
+       "release_date_with_abbreviated_month_for_display": "Oct. 27, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d21b0503a77abc096884c8baf6cbd301.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d21b0503a77abc096884c8baf6cbd301.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Drowning (BROHUG Remix)",
+       "title_with_featured": "Drowning (BROHUG Remix) (Ft.\u00a0Clara\u00a0Mae)",
+       "url": "https://genius.com/Kream-drowning-brohug-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/685056",
+         "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+         "id": 685056,
+         "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Clara Mae",
+         "url": "https://genius.com/artists/Clara-mae"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/655710",
+        "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+        "id": 655710,
+        "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KREAM",
+        "url": "https://genius.com/artists/Kream"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/685056",
+     "header_image_url": "https://images.genius.com/2170566ea7723df3c6823915f5309f80.1000x667x1.jpg",
+     "id": 685056,
+     "image_url": "https://images.genius.com/b58e9f8dfa0a0de5cd283baa37241e58.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Clara Mae",
+     "url": "https://genius.com/artists/Clara-mae"
+    },
+    {
+     "api_path": "/artists/655710",
+     "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+     "id": 655710,
+     "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KREAM",
+     "url": "https://genius.com/artists/Kream"
+    }
+   ],
+   "artist": "KREAM",
+   "lyrics": "4 ContributorsDrowning Lyrics[Verse 1]\nWe found our hearts on lockdown\nYou faded in the background\nAny other day I'd dry my tears away\nI'd keep it all inside my heavy mind\nWe found our hearts on lockdown\n\n[Pre-Chorus]\nLiving in the desert of us\nWhile the city go, city go wild\nAnd I know you'd kill for a drop\nAlways waiting for rain\n\n[Chorus]\nWe're drowning out\nAnd you know I've been thirsty for a while now\nDrowning out\nBut you won't taste a drop with your mouth\nWon't you just drink the water, need you to try it first\nWe're drowning out, now\nYeah\nWe're drowning out, now\n\n[Verse 2]\nSo now you're acting stone cold\nAnd you think it would work\nIf you're the one in control\nAny other day I'd dry my tears away\nBut now we're out of water, you and me\nSo no point in acting stone cold\nYou might also like[Pre-Chorus]\nLiving in the desert of us\nWhile the city go, city go wild\nAnd I know you'd kill for a drop\nAlways waiting for rain\n\n[Chorus]\nWe're drowning out\nAnd you know I've been thirsty for a while now\nDrowning out\nBut you won't taste a drop with your mouth\nWon't you just drink the water, need you to try it first\nWe're drowning out, now\nYeah\nWe're drowning out, now\n\nWe're drowning out\nAnd you know I've been thirsty for a while now\nDrowning out\nBut you won't taste a drop with your mouth\nWon't you just drink the water, need you to try it first\nWe're drowning out now, oh\nWe're drowning out now, now, yeah, yeah\nOh, no\nYeah, yeah, uh\nWe're drowning out, now2Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3739939",
+   "artist_names": "KREAM (Ft. JHart)",
+   "full_title": "Deep End by\u00a0KREAM (Ft.\u00a0JHart)",
+   "header_image_thumbnail_url": "https://images.genius.com/81a40d805502f6b1f8b59521766fda52.300x300x1.png",
+   "header_image_url": "https://images.genius.com/81a40d805502f6b1f8b59521766fda52.800x800x1.png",
+   "id": 3739939,
+   "language": "en",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Kream-deep-end-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Kream-deep-end-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 5,
+    "day": 25
+   },
+   "release_date_for_display": "May 25, 2018",
+   "release_date_with_abbreviated_month_for_display": "May. 25, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/81a40d805502f6b1f8b59521766fda52.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/81a40d805502f6b1f8b59521766fda52.800x800x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 9315
+   },
+   "title": "Deep End",
+   "title_with_featured": "Deep End (Ft.\u00a0JHart)",
+   "url": "https://genius.com/Kream-deep-end-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/124752",
+     "header_image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+     "id": 124752,
+     "image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JHart",
+     "url": "https://genius.com/artists/Jhart"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/655710",
+    "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+    "id": 655710,
+    "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "KREAM",
+    "url": "https://genius.com/artists/Kream"
+   },
+   "apple_music_id": "1385713178",
+   "apple_music_player_url": "https://genius.com/songs/3739939/apple_music_player",
+   "description": {
+    "plain": "KREAM says,\n\n\u201cDeep End was born in LA during a writing session where we discussed the idea of asking for help. It\u2019s not always easy, but sometimes you need that support from the people around you to get through the darkness. We collaborated with Slime Sunday once again, creating a new art direction that focuses on fluidity and form.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_3739939' class='rg_embed_link' data-song-id='3739939'>Read <a href='https://genius.com/Kream-deep-end-lyrics'>\u201cDeep End\u201d by KREAM</a> on Genius</div> <script crossorigin src='//genius.com/songs/3739939/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-05-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Vocals By",
+     "artists": [
+      {
+       "api_path": "/artists/124752",
+       "header_image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+       "id": 124752,
+       "image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "JHart",
+       "url": "https://genius.com/artists/Jhart"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1037682",
+       "header_image_url": "https://images.genius.com/07e65751131d21221d4c0a66df1cfee3.800x800x1.jpg",
+       "id": 1037682,
+       "image_url": "https://images.genius.com/07e65751131d21221d4c0a66df1cfee3.800x800x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Beat Records",
+       "url": "https://genius.com/artists/Big-beat-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6535342,
+    "annotator_login": "AlasComeToMe",
+    "api_path": "/referents/14633083",
+    "classification": "unreviewed",
+    "fragment": "Deep End",
+    "id": 14633083,
+    "is_description": true,
+    "path": "/14633083/Kream-deep-end/Deep-end",
+    "range": {
+     "content": "Deep End"
+    },
+    "song_id": 3739939,
+    "url": "https://genius.com/14633083/Kream-deep-end/Deep-end",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3739939",
+     "client_timestamps": {
+      "updated_by_human_at": 1565875758,
+      "lyrics_updated_at": 1527161086
+     },
+     "context": "KREAM",
+     "id": 3739939,
+     "image_url": "https://images.genius.com/81a40d805502f6b1f8b59521766fda52.800x800x1.png",
+     "link_title": "Deep End by\u00a0KREAM (Ft.\u00a0JHart)",
+     "title": "Deep End",
+     "type": "Song",
+     "url": "https://genius.com/Kream-deep-end-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14633083",
+      "body": {
+       "plain": "KREAM says,\n\n\u201cDeep End was born in LA during a writing session where we discussed the idea of asking for help. It\u2019s not always easy, but sometimes you need that support from the people around you to get through the darkness. We collaborated with Slime Sunday once again, creating a new art direction that focuses on fluidity and form.\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14633083,
+      "pinned": false,
+      "share_url": "https://genius.com/14633083",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/14633083/Kream-deep-end/Deep-end",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6535342",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/89e2bbbbb5e7a4ade8a064a8fc5823ea",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/89e2bbbbb5e7a4ade8a064a8fc5823ea",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/89e2bbbbb5e7a4ade8a064a8fc5823ea",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/89e2bbbbb5e7a4ade8a064a8fc5823ea",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/4natgio3pge",
+         "human_readable_role_for_display": null,
+         "id": 6535342,
+         "iq": 175,
+         "login": "AlasComeToMe",
+         "name": "AlasComeToMe",
+         "role_for_display": null,
+         "url": "https://genius.com/AlasComeToMe",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GEW2xkHxZkQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/655710",
+     "header_image_url": "https://images.genius.com/1b25ebaed757fbf6975fae4e6a5cb501.1000x333x1.jpg",
+     "id": 655710,
+     "image_url": "https://images.genius.com/159019c47c98190f7cf6f611f5520c83.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "KREAM",
+     "url": "https://genius.com/artists/Kream"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1758030",
+     "header_image_url": "https://images.genius.com/d23cd88decc1dffb368b4b167334efcd.700x700x1.png",
+     "id": 1758030,
+     "image_url": "https://images.genius.com/d23cd88decc1dffb368b4b167334efcd.700x700x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Markus Slettebakken",
+     "url": "https://genius.com/artists/Markus-slettebakken"
+    },
+    {
+     "api_path": "/artists/1758029",
+     "header_image_url": "https://images.genius.com/7341a141ed14f7414656f8649804e99c.700x700x1.png",
+     "id": 1758029,
+     "image_url": "https://images.genius.com/7341a141ed14f7414656f8649804e99c.700x700x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Daniel Slettebakken",
+     "url": "https://genius.com/artists/Daniel-slettebakken"
+    },
+    {
+     "api_path": "/artists/124752",
+     "header_image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+     "id": 124752,
+     "image_url": "https://images.genius.com/027084aa6437b41a562827b45a816199.421x421x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "JHart",
+     "url": "https://genius.com/artists/Jhart"
+    },
+    {
+     "api_path": "/artists/19016",
+     "header_image_url": "https://images.genius.com/135a1d929ea23340618e530334145aee.400x400x1.jpg",
+     "id": 19016,
+     "image_url": "https://images.genius.com/135a1d929ea23340618e530334145aee.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jim Lavigne",
+     "url": "https://genius.com/artists/Jim-lavigne"
+    }
+   ],
+   "artist": "KREAM",
+   "lyrics": "5 ContributorsDeep End Lyrics[Verse 1]\nHow long, how long\nHow long has it been since we talked?\nHow long, how long\nHow long has it been since we forgot the world for an evening?\nI'm not the only one who's feeling what I'm feeling\nBoth of us could use a little bit of healing\n\n[Chorus]\nFeels like I'm falling in the deep end\nSo reach out your hand to mine\n'Cause I just need a little solace\nIn these crazy times\nPull me up a little bit further\n'Cause I can't get through it without you\nFeels like I'm falling in the deep end\nSo put your hand in mine\n\n[Post-Chorus]\nYeah\nYeah\nPull me up a little bit further\n'Cause I can't get through it without you\nFeels like I'm falling in the deep end\nSo put your hand in mine\nYou might also like[Verse 2]\nHello, hello\nKnow it's been a while since I called\nRight now, right now\nI can feel my mind spinning like the fan on the ceiling\nI'm not the only one who's feeling what I'm feeling\nBoth of us could use a little bit of healing\n\n[Chorus]\nFeels like I'm falling in the deep end\nSo reach out your hand to mine\n'Cause I just need a little solace\nIn these crazy times\nPull me up a little bit further\n'Cause I can't get through it without you\nFeels like I'm falling in the deep end\nSo put your hand in mine\n\n[Post-Chorus]\nYeah\nYeah\nPull me up a little bit further\n'Cause I can't get through it without you\nFeels like I'm falling in the deep end\nSo put your hand in mine3Embed"
+  }
+ ]
+}

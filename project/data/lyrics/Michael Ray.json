@@ -1,0 +1,1689 @@
+{
+ "alternate_names": [
+  "Michael Ray Roach"
+ ],
+ "api_path": "/artists/451737",
+ "description": {
+  "plain": "Michael Ray Roach (born April 29, 1988) is an American country music singer and songwriter. He is signed to Warner Music Nashville. He has released two albums for the label: Michael Ray and Amos."
+ },
+ "facebook_name": "MusicMichaelRay",
+ "followers_count": 10,
+ "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+ "id": 451737,
+ "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+ "instagram_name": "michaelraymusic",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Michael Ray",
+ "translation_artist": false,
+ "twitter_name": "Michaelraymusic",
+ "url": "https://genius.com/artists/Michael-ray",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1343,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 8831251,
+  "annotator_login": "Tyler_Denning",
+  "api_path": "/referents/15238952",
+  "classification": "unreviewed",
+  "fragment": "Michael Ray",
+  "id": 15238952,
+  "is_description": true,
+  "path": "/15238952/Michael-ray/Michael-ray",
+  "range": {
+   "content": "Michael Ray"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15238952/Michael-ray/Michael-ray",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/451737",
+   "context": null,
+   "id": 451737,
+   "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+   "link_title": "Michael Ray",
+   "title": "Michael Ray",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Michael-ray"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15238952",
+    "body": {
+     "plain": "Michael Ray Roach (born April 29, 1988) is an American country music singer and songwriter. He is signed to Warner Music Nashville. He has released two albums for the label: Michael Ray and Amos."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 15238952,
+    "pinned": false,
+    "share_url": "https://genius.com/15238952",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/15238952/Michael-ray/Michael-ray",
+    "verified": false,
+    "votes_total": 4,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8831251",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/21645fa1dff60c799d06a606930d1f14",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/21645fa1dff60c799d06a606930d1f14",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/21645fa1dff60c799d06a606930d1f14",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/21645fa1dff60c799d06a606930d1f14",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/21645fa1dff60c799d06a606930d1f14",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8831251,
+       "iq": 311,
+       "login": "Tyler_Denning",
+       "name": "Tyler_Denning",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Tyler_Denning",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/2065820",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.rapgenius.com/avatars/tiny/421deca82e83bd58d471cdb1f9401e4a",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.rapgenius.com/avatars/thumb/421deca82e83bd58d471cdb1f9401e4a",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.rapgenius.com/avatars/small/421deca82e83bd58d471cdb1f9401e4a",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.rapgenius.com/avatars/medium/421deca82e83bd58d471cdb1f9401e4a",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.rapgenius.com/avatars/medium/421deca82e83bd58d471cdb1f9401e4a",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 2065820,
+  "iq": 1343,
+  "login": "MichaelRay",
+  "name": "Michael Ray",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/MichaelRay",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3124158",
+   "artist_names": "Michael Ray",
+   "full_title": "Get to You by\u00a0Michael\u00a0Ray",
+   "header_image_thumbnail_url": "https://images.genius.com/967511300ad73b30124179f9d798b629.300x300x1.png",
+   "header_image_url": "https://images.genius.com/967511300ad73b30124179f9d798b629.600x600x1.png",
+   "id": 3124158,
+   "language": "en",
+   "lyrics_owner_id": 73946,
+   "lyrics_state": "complete",
+   "path": "/Michael-ray-get-to-you-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Michael-ray-get-to-you-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 16
+   },
+   "release_date_for_display": "June 16, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 16, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f105e17fdd1e9c2a904f2f418f2a8c75.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f105e17fdd1e9c2a904f2f418f2a8c75.630x630x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 52444
+   },
+   "title": "Get to You",
+   "title_with_featured": "Get to You",
+   "url": "https://genius.com/Michael-ray-get-to-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/451737",
+    "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "id": 451737,
+    "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Michael Ray",
+    "url": "https://genius.com/artists/Michael-ray",
+    "iq": 1343
+   },
+   "apple_music_id": "1372719128",
+   "apple_music_player_url": "https://genius.com/songs/3124158/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3124158' class='rg_embed_link' data-song-id='3124158'>Read <a href='https://genius.com/Michael-ray-get-to-you-lyrics'>\u201cGet to You\u201d by Michael\u00a0Ray</a> on Genius</div> <script crossorigin src='//genius.com/songs/3124158/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/423079",
+    "cover_art_url": "https://images.genius.com/877b62f5aa8fc28475dceaace60af43b.1000x1000x1.jpg",
+    "full_title": "Amos by Michael Ray",
+    "id": 423079,
+    "name": "Amos",
+    "release_date_for_display": "June 1, 2018",
+    "url": "https://genius.com/albums/Michael-ray/Amos",
+    "artist": {
+     "api_path": "/artists/451737",
+     "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "id": 451737,
+     "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Michael Ray",
+     "url": "https://genius.com/artists/Michael-ray",
+     "iq": 1343
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/15238953",
+    "classification": "needs_exegesis",
+    "fragment": "Get to You",
+    "id": 15238953,
+    "is_description": true,
+    "path": "/15238953/Michael-ray-get-to-you/Get-to-you",
+    "range": {
+     "content": "Get to You"
+    },
+    "song_id": 3124158,
+    "url": "https://genius.com/15238953/Michael-ray-get-to-you/Get-to-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3124158",
+     "client_timestamps": {
+      "updated_by_human_at": 1621226882,
+      "lyrics_updated_at": 1497626812
+     },
+     "context": "Michael Ray",
+     "id": 3124158,
+     "image_url": "https://images.genius.com/f105e17fdd1e9c2a904f2f418f2a8c75.630x630x1.jpg",
+     "link_title": "Get to You by\u00a0Michael\u00a0Ray",
+     "title": "Get to You",
+     "type": "Song",
+     "url": "https://genius.com/Michael-ray-get-to-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15238953",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15238953,
+      "pinned": false,
+      "share_url": "https://genius.com/15238953",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15238953/Michael-ray-get-to-you/Get-to-you",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 630083,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "michaelray",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/michaelray/get-to-you"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DMc1uiutcWA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/128104",
+     "header_image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "id": 128104,
+     "image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Hendricks",
+     "url": "https://genius.com/artists/Scott-hendricks"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1159085",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1159085,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Pavel Dovgalyuk",
+     "url": "https://genius.com/artists/Pavel-dovgalyuk"
+    },
+    {
+     "api_path": "/artists/616735",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 616735,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Abe Stoklasa",
+     "url": "https://genius.com/artists/Abe-stoklasa"
+    }
+   ],
+   "artist": "Michael Ray",
+   "lyrics": "5 ContributorsGet to You Lyrics[Verse 1]\nSomebody had to hurt you bad\nFor you to give up like that\nSomebody had to break your heart in two\nBut that ain't me and you\nSo tell me why, tell me why, tell me why\nYou can't look me in the eye\nWhat am I supposed to do?\nWhen you say we're through\nWhy do you?\n\n[Chorus]\nRun away, run away from love\nWhat the hell are you so scared of?\nYou walk away when you've had enough\nOf trying, of trying\nGirl there's always gonna be some pain\nA little sunshine, a little rain\nIt doesn't mean it ain't worth it babe\nI'm trying, I'm trying to get to you\nTo you\n\n[Verse 2]\nOne day you're gonna love again\nMess up and let somebody in\nTo every part of your whole world\nYou think it's unthinkable girl\nBut somebody's gonna break those walls\nSomebody's gonna watch you fall\nGonna give it your all and I hope that I'm around\nWhen you finally find out why you\nYou might also like[Chorus]\nRun away, run away from love\nWhat the hell are you so scared of?\nYou walk away when you've had enough\nOf trying, of trying\nGirl there's always gonna be some pain\nA little sunshine, a little rain\nIt doesn't mean it ain't worth it babe\nI'm trying, I'm trying to get to you\nTo you\n\n[Bridge]\nSo tell me why, tell me why, tell me why\nYou can't look me in the eye\nWhat am I supposed to do?\nWhen you say we're through\nWhy do you?\n\n[Chorus]\nRun away, run away from love\nWhat the hell are you so scared of?\nYou walk away when you've had enough\nOf trying, of trying\nGirl there's always gonna be some pain\nA little sunshine, a little rain\nIt doesn't mean it ain't worth it babe\nI'm trying, I'm trying to get to you\nTo you\n[Outro]\nSomebody had to hurt you bad\nFor you to give up like that\nSomebody had to break your heart in two\nBut that ain't me and youEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3674449",
+   "artist_names": "Michael Ray",
+   "full_title": "One That Got Away by\u00a0Michael\u00a0Ray",
+   "header_image_thumbnail_url": "https://images.genius.com/22b545141ca031fb4144f7b31523930b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/22b545141ca031fb4144f7b31523930b.1000x1000x1.jpg",
+   "id": 3674449,
+   "language": "en",
+   "lyrics_owner_id": 1548623,
+   "lyrics_state": "complete",
+   "path": "/Michael-ray-one-that-got-away-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Michael-ray-one-that-got-away-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 1
+   },
+   "release_date_for_display": "June 1, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 1, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f7818942b43f32014f1bab7e55f193cb.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f7818942b43f32014f1bab7e55f193cb.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 34776
+   },
+   "title": "One That Got Away",
+   "title_with_featured": "One That Got Away",
+   "url": "https://genius.com/Michael-ray-one-that-got-away-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/451737",
+    "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "id": 451737,
+    "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Michael Ray",
+    "url": "https://genius.com/artists/Michael-ray",
+    "iq": 1343
+   },
+   "apple_music_id": "1372719120",
+   "apple_music_player_url": "https://genius.com/songs/3674449/apple_music_player",
+   "description": {
+    "plain": "Michael Ray\u2019s upbeat hit, \u201cOne That Got Away\u201d describes a man embarking on a relationship that the knows is bound to end, which makes it sound like a \u201cbreak-up ballad,\u201d but it is none of the sort. Of the song\u2019s mood, Ray shared with The Boot,\n\nIn the studio, we wanted to create a kind of loose feel \u2013 just something fun where the crowd could sing back to us.\n\nThough Ray didn\u2019t take part in writing the song, he also told about how great song he thought it was, explaining,\n\nI\u2019d had it for a little while, and it was just one of those songs I kept coming back to and thinking, \u2018Fuck, man, that\u2019s such a great song.\u2019 It was what I needed right now in my career: a feel-good summer song. It\u2019s about the thought of, \u2018I don\u2019t know why this person\u2019s into me, because they shouldn\u2019t be, but I\u2019m gonna ride it out, and if it ends, well, then it\u2019s gonna be one hell of a story.\u2019\n\nHe compared the sound of it to his debut single, \u201cKiss You in The Morning.\u201d\n\nIt peaked at number three on the Country Airplay chart, and at number ten on the Billboard Hot Country Songs chart."
+   },
+   "embed_content": "<div id='rg_embed_link_3674449' class='rg_embed_link' data-song-id='3674449'>Read <a href='https://genius.com/Michael-ray-one-that-got-away-lyrics'>\u201cOne That Got Away\u201d by Michael\u00a0Ray</a> on Genius</div> <script crossorigin src='//genius.com/songs/3674449/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/423079",
+    "cover_art_url": "https://images.genius.com/877b62f5aa8fc28475dceaace60af43b.1000x1000x1.jpg",
+    "full_title": "Amos by Michael Ray",
+    "id": 423079,
+    "name": "Amos",
+    "release_date_for_display": "June 1, 2018",
+    "url": "https://genius.com/albums/Michael-ray/Amos",
+    "artist": {
+     "api_path": "/artists/451737",
+     "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "id": 451737,
+     "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Michael Ray",
+     "url": "https://genius.com/artists/Michael-ray",
+     "iq": 1343
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8664184,
+    "annotator_login": "Paul_ToMy_Linda",
+    "api_path": "/referents/14407532",
+    "classification": "accepted",
+    "fragment": "One That Got Away",
+    "id": 14407532,
+    "is_description": true,
+    "path": "/14407532/Michael-ray-one-that-got-away/One-that-got-away",
+    "range": {
+     "content": "One That Got Away"
+    },
+    "song_id": 3674449,
+    "url": "https://genius.com/14407532/Michael-ray-one-that-got-away/One-that-got-away",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3674449",
+     "client_timestamps": {
+      "updated_by_human_at": 1636428314,
+      "lyrics_updated_at": 1636428314
+     },
+     "context": "Michael Ray",
+     "id": 3674449,
+     "image_url": "https://images.genius.com/f7818942b43f32014f1bab7e55f193cb.500x500x1.jpg",
+     "link_title": "One That Got Away by\u00a0Michael\u00a0Ray",
+     "title": "One That Got Away",
+     "type": "Song",
+     "url": "https://genius.com/Michael-ray-one-that-got-away-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14407532",
+      "body": {
+       "plain": "Michael Ray\u2019s upbeat hit, \u201cOne That Got Away\u201d describes a man embarking on a relationship that the knows is bound to end, which makes it sound like a \u201cbreak-up ballad,\u201d but it is none of the sort. Of the song\u2019s mood, Ray shared with The Boot,\n\nIn the studio, we wanted to create a kind of loose feel \u2013 just something fun where the crowd could sing back to us.\n\nThough Ray didn\u2019t take part in writing the song, he also told about how great song he thought it was, explaining,\n\nI\u2019d had it for a little while, and it was just one of those songs I kept coming back to and thinking, \u2018Fuck, man, that\u2019s such a great song.\u2019 It was what I needed right now in my career: a feel-good summer song. It\u2019s about the thought of, \u2018I don\u2019t know why this person\u2019s into me, because they shouldn\u2019t be, but I\u2019m gonna ride it out, and if it ends, well, then it\u2019s gonna be one hell of a story.\u2019\n\nHe compared the sound of it to his debut single, \u201cKiss You in The Morning.\u201d\n\nIt peaked at number three on the Country Airplay chart, and at number ten on the Billboard Hot Country Songs chart."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14407532,
+      "pinned": false,
+      "share_url": "https://genius.com/14407532",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14407532/Michael-ray-one-that-got-away/One-that-got-away",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9663461538461539,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8664184",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/b6e9baffab6b0aeb015c6bd55c516975.1000x563x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8664184,
+         "iq": 376797,
+         "login": "Paul_ToMy_Linda",
+         "name": "Mommy_Dahmer",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Paul_ToMy_Linda",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03365384615384615,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7019421",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a2aed5532440c6220e7229d3b5bdc419",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a2aed5532440c6220e7229d3b5bdc419",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a2aed5532440c6220e7229d3b5bdc419",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a2aed5532440c6220e7229d3b5bdc419",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/8ff58c471f8a2d96c31e7f557cb4d983.1000x236x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 7019421,
+         "iq": 61613,
+         "login": "wizard",
+         "name": "wizard",
+         "role_for_display": "editor",
+         "url": "https://genius.com/wizard",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "michaelray",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/michaelray/one-that-got-away"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lyyfWV27X8w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/128104",
+     "header_image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "id": 128104,
+     "image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Hendricks",
+     "url": "https://genius.com/artists/Scott-hendricks"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4777682",
+       "artist_names": "Michael Ray",
+       "full_title": "One That Got Away (Acoustic) by\u00a0Michael\u00a0Ray",
+       "header_image_thumbnail_url": "https://images.genius.com/f8442c76ebb9efd2171d3902d867a458.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f8442c76ebb9efd2171d3902d867a458.1000x1000x1.jpg",
+       "id": 4777682,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Michael-ray-one-that-got-away-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Michael-ray-one-that-got-away-acoustic-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+       },
+       "release_date_for_display": "November 30, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f8442c76ebb9efd2171d3902d867a458.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f8442c76ebb9efd2171d3902d867a458.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "One That Got Away (Acoustic)",
+       "title_with_featured": "One That Got Away (Acoustic)",
+       "url": "https://genius.com/Michael-ray-one-that-got-away-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/451737",
+        "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+        "id": 451737,
+        "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Michael Ray",
+        "url": "https://genius.com/artists/Michael-ray",
+        "iq": 1343
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/527951",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 527951,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Matthew Thomas Ramsey",
+     "url": "https://genius.com/artists/Matthew-thomas-ramsey"
+    },
+    {
+     "api_path": "/artists/1165748",
+     "header_image_url": "https://images.genius.com/85e0df086f3020859abff55dff4708f1.300x300x1.jpg",
+     "id": 1165748,
+     "image_url": "https://images.genius.com/85e0df086f3020859abff55dff4708f1.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trevor Rosen",
+     "url": "https://genius.com/artists/Trevor-rosen"
+    },
+    {
+     "api_path": "/artists/464694",
+     "header_image_url": "https://images.genius.com/f7efdb83beb615071dd2c3f915f26799.190x190x1.png",
+     "id": 464694,
+     "image_url": "https://images.genius.com/f7efdb83beb615071dd2c3f915f26799.190x190x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Osborne",
+     "url": "https://genius.com/artists/Josh-osborne"
+    },
+    {
+     "api_path": "/artists/451598",
+     "header_image_url": "https://images.genius.com/682dab23c11656da43aa829a99992c8b.396x396x1.png",
+     "id": 451598,
+     "image_url": "https://images.genius.com/682dab23c11656da43aa829a99992c8b.396x396x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jesse Frasure",
+     "url": "https://genius.com/artists/Jesse-frasure"
+    }
+   ],
+   "artist": "Michael Ray",
+   "lyrics": "9 ContributorsOne That Got Away Lyrics[Intro]\nYeah, yeah, yeah (Ha, ha)\nYeah, yeah, yeah\n\n[Verse 1]\nShe's like a picture from an airplane window\nIt's always sunny up above the clouds\nShe's got a mouth full of innuendo\nBut she makes it sound innocent somehow\nThose hungry eyes can't be denied\nTake me to church, show me the light\nStraight masterpiece, way out of my league\nYeah but I'm gonna hold her like a trophy tonight\n\n[Chorus]\nShe's decoratin' my car\nSoon she'll be breakin' my heart\nShe's too Wild Horses to be all mine\nI'll be your Beast of Burden on borrowed time\nShe's gonna rip off any kind of label\nShe's into leavin' those strings untied\nKeepin' it tax free, under the table\nShe might only be mine tonight\nBut that's alright, that's okay\nShe's gonna be one hell of a one that got away\nThat's alright, might hurt, but hey\nShe's gonna be one hell of a one that got away\nYou might also like[Verse 2]\nYeah, yeah, yeah\nYeah, yeah, yeah\nI ain't gonna sit here and overthink it\nI got a tiger by the tail\nI'll just smile when she sinks her teeth in\nShe'll leave a scar and a story to tell\n\n[Chorus]\nShe's decoratin' my car\nSoon she'll be breakin' my heart\nShe's too Wild Horses to be all mine\nI'll be your Beast of Burden on borrowed time\nShe's gonna rip off any kind of label\nShe's into leavin' those strings untied\nKeepin' it tax free, under the table\nShe might only be mine tonight\nBut that's alright, that's okay\nShe's gonna be one hell of a one that got away\nThat's alright, might hurt, but hey\nShe's gonna be one hell of a one that got away\n\n[Bridge]\nHey hey, hey hey\nShe's gonna sting me but damn it I want it\nHey hey, hey hey\nHoney's so sweet in that moment\n[Chorus]\nShe's decoratin' my car\nSoon she'll be breakin' my heart\nShe's too Wild Horses to be all mine\nI'll be your Beast of Burden on borrowed time\nShe's gonna rip off any kind of label\nShe's into leavin' those strings untied\nKeepin' it tax free, under the table\nShe might only be mine tonight\nBut that's alright, that's okay\nShe's gonna be one hell of a one that got away\nThat's alright, might hurt, but hey\nShe's gonna be one hell of a one that got away\n\n[Outro]\nYeah, yeah, yeah\nYeah, yeah, yeah\nShe's gonna be one hell of a one that got away\nHey hey, yeah\nHey hey, yeah\nHey hey, yeah\nHey hey, yeah, yeahEmbed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3674452",
+   "artist_names": "Michael Ray",
+   "full_title": "Her World or Mine by\u00a0Michael\u00a0Ray",
+   "header_image_thumbnail_url": "https://images.genius.com/877b62f5aa8fc28475dceaace60af43b.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/877b62f5aa8fc28475dceaace60af43b.1000x1000x1.jpg",
+   "id": 3674452,
+   "language": "en",
+   "lyrics_owner_id": 1548623,
+   "lyrics_state": "complete",
+   "path": "/Michael-ray-her-world-or-mine-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Michael-ray-her-world-or-mine-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 1
+   },
+   "release_date_for_display": "June 1, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 1, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1a6ade51cae8f450b92e2c3df8533038.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1a6ade51cae8f450b92e2c3df8533038.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 20651
+   },
+   "title": "Her World or Mine",
+   "title_with_featured": "Her World or Mine",
+   "url": "https://genius.com/Michael-ray-her-world-or-mine-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/451737",
+    "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "id": 451737,
+    "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Michael Ray",
+    "url": "https://genius.com/artists/Michael-ray",
+    "iq": 1343
+   },
+   "apple_music_id": "1372719544",
+   "apple_music_player_url": "https://genius.com/songs/3674452/apple_music_player",
+   "description": {
+    "plain": "In \u201cHer World or Mine,\u201d Michael Ray describes a breakup. The song describes how during a breakup, one of the people get\u2019s over it faster than the other, one person takes it harder than the other.\n\nRay released the song as a single on April 22, 2019, the third single from his second album Amos."
+   },
+   "embed_content": "<div id='rg_embed_link_3674452' class='rg_embed_link' data-song-id='3674452'>Read <a href='https://genius.com/Michael-ray-her-world-or-mine-lyrics'>\u201cHer World or Mine\u201d by Michael\u00a0Ray</a> on Genius</div> <script crossorigin src='//genius.com/songs/3674452/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/423079",
+    "cover_art_url": "https://images.genius.com/877b62f5aa8fc28475dceaace60af43b.1000x1000x1.jpg",
+    "full_title": "Amos by Michael Ray",
+    "id": 423079,
+    "name": "Amos",
+    "release_date_for_display": "June 1, 2018",
+    "url": "https://genius.com/albums/Michael-ray/Amos",
+    "artist": {
+     "api_path": "/artists/451737",
+     "header_image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "id": 451737,
+     "image_url": "https://images.genius.com/0f550273e9521cae7908d7c96bfeee14.640x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Michael Ray",
+     "url": "https://genius.com/artists/Michael-ray",
+     "iq": 1343
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8664184,
+    "annotator_login": "Paul_ToMy_Linda",
+    "api_path": "/referents/14407535",
+    "classification": "accepted",
+    "fragment": "Her World or Mine",
+    "id": 14407535,
+    "is_description": true,
+    "path": "/14407535/Michael-ray-her-world-or-mine/Her-world-or-mine",
+    "range": {
+     "content": "Her World or Mine"
+    },
+    "song_id": 3674452,
+    "url": "https://genius.com/14407535/Michael-ray-her-world-or-mine/Her-world-or-mine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3674452",
+     "client_timestamps": {
+      "updated_by_human_at": 1636429120,
+      "lyrics_updated_at": 1617064023
+     },
+     "context": "Michael Ray",
+     "id": 3674452,
+     "image_url": "https://images.genius.com/1a6ade51cae8f450b92e2c3df8533038.1000x1000x1.jpg",
+     "link_title": "Her World or Mine by\u00a0Michael\u00a0Ray",
+     "title": "Her World or Mine",
+     "type": "Song",
+     "url": "https://genius.com/Michael-ray-her-world-or-mine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14407535",
+      "body": {
+       "plain": "In \u201cHer World or Mine,\u201d Michael Ray describes a breakup. The song describes how during a breakup, one of the people get\u2019s over it faster than the other, one person takes it harder than the other.\n\nRay released the song as a single on April 22, 2019, the third single from his second album Amos."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14407535,
+      "pinned": false,
+      "share_url": "https://genius.com/14407535",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14407535/Michael-ray-her-world-or-mine/Her-world-or-mine",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9454545454545454,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8664184",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/e6b3c8aff4bd5870ac49f529d9ea6ced",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/b6e9baffab6b0aeb015c6bd55c516975.1000x563x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8664184,
+         "iq": 376797,
+         "login": "Paul_ToMy_Linda",
+         "name": "Mommy_Dahmer",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Paul_ToMy_Linda",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.05454545454545454,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4472469",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d430c0ae79acf5586e80a7207e8de3dd",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d430c0ae79acf5586e80a7207e8de3dd",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d430c0ae79acf5586e80a7207e8de3dd",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d430c0ae79acf5586e80a7207e8de3dd",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/966af8b489b529d8406d5ec5c72e537d.432x550x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4472469,
+         "iq": 53187,
+         "login": "DemetriusAKAMasterSplintersNephew",
+         "name": "DemetriusAKAMasterSplintersNephew",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/DemetriusAKAMasterSplintersNephew",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3cFWIhrapYb2VoNOUbo9Re",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3cFWIhrapYb2VoNOUbo9Re"
+    },
+    {
+     "attribution": "michaelray",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/michaelray/her-world-or-mine"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=GQNc511JPUo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/128104",
+     "header_image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "id": 128104,
+     "image_url": "https://images.genius.com/62fe59fd6a631eab760ad39d62953a56.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Hendricks",
+     "url": "https://genius.com/artists/Scott-hendricks"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1420992",
+     "header_image_url": "https://images.genius.com/fa3620474c74da41dba7a772b8e9aa4c.980x653x1.jpg",
+     "id": 1420992,
+     "image_url": "https://images.genius.com/3744c8c639a81649b914fecf51f43d5d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Travis Denning",
+     "url": "https://genius.com/artists/Travis-denning"
+    },
+    {
+     "api_path": "/artists/658700",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 658700,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie Paulin",
+     "url": "https://genius.com/artists/Jamie-paulin"
+    },
+    {
+     "api_path": "/artists/451365",
+     "header_image_url": "https://images.genius.com/546509d5ae613045b2d20f584d6afb7f.1000x1000x1.jpg",
+     "id": 451365,
+     "image_url": "https://images.genius.com/546509d5ae613045b2d20f584d6afb7f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brett Beavers",
+     "url": "https://genius.com/artists/Brett-beavers"
+    }
+   ],
+   "artist": "Michael Ray",
+   "lyrics": "10 ContributorsHer World or Mine Lyrics[Verse 1]\nOne of us still has our picture taped up on the dash\nOne of us took that one from Mexico, threw it in the trash\nOne of us don't even notice when the radio plays that song\nOne of us breaks down and has to pull over whenever it comes on\nNah there ain't no in between, when it comes to her and me\n\n[Chorus]\nOne of us moved on, one of us got stuck\nOne of us is drinkin' just for fun, one of us drinkin' to get drunk\nOne of us sleeps good, and one of us hates to face the night\nJust depends if you're talkin' about her world or mine\n\n[Verse 2]\nThere's a number on a phone that one of us erased\nThere's a \"late-night can we try again?\" call one of us wants to make\n'Cause one of us can't even think about bein' in another's arms\nAnd there's a car in the drive that stayed all night, where one of us used to park\n\n[Chorus]\nOne of us moved on, one of us got stuck\nOne of us is drinkin' just for fun, one of us drinkin' to get drunk\nOne of us sleeps good, and one of us hates to face the night\nJust depends if you're talkin' about her world or mine\n\n[Bridge]\nFor a while we had forever in our hands\nThat's why one of us can't understand\nYou might also like[Chorus]\nHow one of us moved on, one of us got stuck\nOne of us is drinkin' just for fun, one of us drinkin' to get drunk\nOne of us sleeps good, one of us hates to face the night\nJust depends if you're talkin' about her world or mine\n\n[Outro]\nYeah that's the difference between her world or mineEmbed"
+  }
+ ]
+}

@@ -1,0 +1,2883 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/17656",
+ "description": {
+  "plain": "Neon Trees is an American pop-rock band from Provo, Utah. They were created in 2004 and still consist of the same original lineup of Chris Allen, Elaine Bradley, Branden Campbell, and Tyler Glenn. Known for their energetic live performances, the band received nationwide exposure in late 2008 when they opened several North American tour dates for the band The Killers. The band hit their peak popularity in 2012 when their single \u201cEverybody Talks\u201d hit #6 on the US Billboard Hot 100. As of 2019, they have three studio albums and a fourth coming in 2020."
+ },
+ "facebook_name": "neon.trees",
+ "followers_count": 50,
+ "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+ "id": 17656,
+ "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+ "instagram_name": "official_neontrees",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Neon Trees",
+ "translation_artist": false,
+ "twitter_name": "neontrees",
+ "url": "https://genius.com/artists/Neon-trees",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3575095,
+  "annotator_login": "AndieBrown",
+  "api_path": "/referents/6939575",
+  "classification": "accepted",
+  "fragment": "Neon Trees",
+  "id": 6939575,
+  "is_description": true,
+  "path": "/6939575/Neon-trees/Neon-trees",
+  "range": {
+   "content": "Neon Trees"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6939575/Neon-trees/Neon-trees",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/17656",
+   "context": null,
+   "id": 17656,
+   "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+   "link_title": "Neon Trees",
+   "title": "Neon Trees",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Neon-trees"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6939575",
+    "body": {
+     "plain": "Neon Trees is an American pop-rock band from Provo, Utah. They were created in 2004 and still consist of the same original lineup of Chris Allen, Elaine Bradley, Branden Campbell, and Tyler Glenn. Known for their energetic live performances, the band received nationwide exposure in late 2008 when they opened several North American tour dates for the band The Killers. The band hit their peak popularity in 2012 when their single \u201cEverybody Talks\u201d hit #6 on the US Billboard Hot 100. As of 2019, they have three studio albums and a fourth coming in 2020."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6939575,
+    "pinned": false,
+    "share_url": "https://genius.com/6939575",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6939575/Neon-trees/Neon-trees",
+    "verified": false,
+    "votes_total": 11,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.6210526315789474,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/8074813",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2siia0b8zq3",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2siia0b8zq3",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2siia0b8zq3",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/2siia0b8zq3",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/c40dphfhjin",
+       "human_readable_role_for_display": "Contributor",
+       "id": 8074813,
+       "iq": 8989,
+       "login": "ApolloStardust",
+       "name": "ApolloStardust",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/ApolloStardust",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.3789473684210526,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3575095",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/de9f99a094201f67c63d0ed04e997c0b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/de9f99a094201f67c63d0ed04e997c0b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/de9f99a094201f67c63d0ed04e997c0b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/de9f99a094201f67c63d0ed04e997c0b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/de9f99a094201f67c63d0ed04e997c0b",
+       "human_readable_role_for_display": null,
+       "id": 3575095,
+       "iq": 154,
+       "login": "AndieBrown",
+       "name": "AndieBrown",
+       "role_for_display": null,
+       "url": "https://genius.com/AndieBrown",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/9892762",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/ba9b021ea5d07d8f23dd93de68c87f24",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/ba9b021ea5d07d8f23dd93de68c87f24",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/ba9b021ea5d07d8f23dd93de68c87f24",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/ba9b021ea5d07d8f23dd93de68c87f24",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/ba9b021ea5d07d8f23dd93de68c87f24",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 9892762,
+  "iq": 100,
+  "login": "NeonTrees",
+  "name": "Neon Trees",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/NeonTrees",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/116505",
+   "artist_names": "Neon Trees",
+   "full_title": "Everybody Talks by\u00a0Neon\u00a0Trees",
+   "header_image_thumbnail_url": "https://images.genius.com/9b3a7ce2434736e2c8e1fb6d14ba0403.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9b3a7ce2434736e2c8e1fb6d14ba0403.750x750x1.jpg",
+   "id": 116505,
+   "language": "en",
+   "lyrics_owner_id": 161539,
+   "lyrics_state": "complete",
+   "path": "/Neon-trees-everybody-talks-lyrics",
+   "pyongs_count": 43,
+   "relationships_index_url": "https://genius.com/Neon-trees-everybody-talks-sample",
+   "release_date_components": {
+    "year": 2011,
+    "month": 12,
+    "day": 20
+   },
+   "release_date_for_display": "December 20, 2011",
+   "release_date_with_abbreviated_month_for_display": "Dec. 20, 2011",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9b3a7ce2434736e2c8e1fb6d14ba0403.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9b3a7ce2434736e2c8e1fb6d14ba0403.750x750x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 53,
+    "iq_earners": 49,
+    "transcribers": 5,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 212918
+   },
+   "title": "Everybody Talks",
+   "title_with_featured": "Everybody Talks",
+   "url": "https://genius.com/Neon-trees-everybody-talks-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/17656",
+    "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "id": 17656,
+    "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Neon Trees",
+    "url": "https://genius.com/artists/Neon-trees",
+    "iq": 100
+   },
+   "apple_music_id": "513803062",
+   "apple_music_player_url": "https://genius.com/songs/116505/apple_music_player",
+   "description": {
+    "plain": "\u201cEverybody Talks\u201d is the lead single from Neon Trees' second studio album Picture Show. The song became their highest-charting single and their first top 10 hit, peaking at #6 on the Billboard Hot 100. To date, it remains their most popular song.\n\nAccording to an interview with Rolling Stone, frontman Tyler Glenn says he was inspired by \u201cRoy Orbison and the Motown music that my dad listens to.\u201d\n\nIn an October 2020 tweet, Tyler Glenn stated \u201cThe first 3 Neon Trees albums I wrote in the closet but I hid queer messages in songs. \u2018Everybody Talks\u2019 was about my ex girlfriend spreading rumors that I was gay (Surprise girl) I came out 6 years ago & it was the BEST move for my health & happiness\u201d."
+   },
+   "embed_content": "<div id='rg_embed_link_116505' class='rg_embed_link' data-song-id='116505'>Read <a href='https://genius.com/Neon-trees-everybody-talks-lyrics'>\u201cEverybody Talks\u201d by Neon\u00a0Trees</a> on Genius</div> <script crossorigin src='//genius.com/songs/116505/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2011-12-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/993646",
+    "cover_art_url": "https://images.genius.com/697a8b69e84d1ee1814e6b24b5c838f5.1000x1000x1.jpg",
+    "full_title": "Picture Show (Deluxe Edition) by Neon Trees",
+    "id": 993646,
+    "name": "Picture Show (Deluxe Edition)",
+    "release_date_for_display": "April 17, 2012",
+    "url": "https://genius.com/albums/Neon-trees/Picture-show-deluxe-edition",
+    "artist": {
+     "api_path": "/artists/17656",
+     "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "id": 17656,
+     "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Neon Trees",
+     "url": "https://genius.com/artists/Neon-trees",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1003238",
+       "header_image_url": "https://images.genius.com/9d1dffdbde96c807ab640b5f455305e4.1000x1000x1.jpg",
+       "id": 1003238,
+       "image_url": "https://images.genius.com/9d1dffdbde96c807ab640b5f455305e4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mercury Records",
+       "url": "https://genius.com/artists/Mercury-records"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/670109",
+       "header_image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "id": 670109,
+       "image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elaine Bradley",
+       "url": "https://genius.com/artists/Elaine-bradley"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/670110",
+       "header_image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "id": 670110,
+       "image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Branden Campbell",
+       "url": "https://genius.com/artists/Branden-campbell"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/272223",
+       "header_image_url": "https://images.genius.com/335c1ec9cd0fd7c77416ef847a4e4c93.600x600x1.jpg",
+       "id": 272223,
+       "image_url": "https://images.genius.com/3f5637feae45db66d5fd32ee43d36c06.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Allen",
+       "url": "https://genius.com/artists/Chris-allen"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/322820",
+       "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "id": 322820,
+       "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tyler Glenn",
+       "url": "https://genius.com/artists/Tyler-glenn"
+      }
+     ]
+    },
+    {
+     "label": "Covered by",
+     "artists": [
+      {
+       "api_path": "/artists/34008",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 34008,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Whisper",
+       "url": "https://genius.com/artists/Whisper"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 697184,
+    "annotator_login": "AsterismAlex",
+    "api_path": "/referents/3696068",
+    "classification": "accepted",
+    "fragment": "Everybody Talks",
+    "id": 3696068,
+    "is_description": true,
+    "path": "/3696068/Neon-trees-everybody-talks/Everybody-talks",
+    "range": {
+     "content": "Everybody Talks"
+    },
+    "song_id": 116505,
+    "url": "https://genius.com/3696068/Neon-trees-everybody-talks/Everybody-talks",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/116505",
+     "client_timestamps": {
+      "updated_by_human_at": 1654491468,
+      "lyrics_updated_at": 1639154519
+     },
+     "context": "Neon Trees",
+     "id": 116505,
+     "image_url": "https://images.genius.com/9b3a7ce2434736e2c8e1fb6d14ba0403.750x750x1.jpg",
+     "link_title": "Everybody Talks by\u00a0Neon\u00a0Trees",
+     "title": "Everybody Talks",
+     "type": "Song",
+     "url": "https://genius.com/Neon-trees-everybody-talks-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3696068",
+      "body": {
+       "plain": "\u201cEverybody Talks\u201d is the lead single from Neon Trees' second studio album Picture Show. The song became their highest-charting single and their first top 10 hit, peaking at #6 on the Billboard Hot 100. To date, it remains their most popular song.\n\nAccording to an interview with Rolling Stone, frontman Tyler Glenn says he was inspired by \u201cRoy Orbison and the Motown music that my dad listens to.\u201d\n\nIn an October 2020 tweet, Tyler Glenn stated \u201cThe first 3 Neon Trees albums I wrote in the closet but I hid queer messages in songs. \u2018Everybody Talks\u2019 was about my ex girlfriend spreading rumors that I was gay (Surprise girl) I came out 6 years ago & it was the BEST move for my health & happiness\u201d."
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3696068,
+      "pinned": false,
+      "share_url": "https://genius.com/3696068",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3696068/Neon-trees-everybody-talks/Everybody-talks",
+      "verified": false,
+      "votes_total": 35,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.4516129032258065,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2480634",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/egcr2ppinhe",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/egcr2ppinhe",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/egcr2ppinhe",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/egcr2ppinhe",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/nkd74dm74v",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2480634,
+         "iq": 6614,
+         "login": "behss",
+         "name": "behss",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/behss",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.33064516129032256,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/930466",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9fa6c2fb22fbd3b2e74ab0633abb9730",
+         "human_readable_role_for_display": "Editor",
+         "id": 930466,
+         "iq": 1178099,
+         "login": "MCSMeister",
+         "name": "MCSMeister",
+         "role_for_display": "editor",
+         "url": "https://genius.com/MCSMeister",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.21774193548387097,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/697184",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/f0a3654ef23911451e6e7e6ab6d38c61",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/f0a3654ef23911451e6e7e6ab6d38c61",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/f0a3654ef23911451e6e7e6ab6d38c61",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/f0a3654ef23911451e6e7e6ab6d38c61",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/f0a3654ef23911451e6e7e6ab6d38c61",
+         "human_readable_role_for_display": "Contributor",
+         "id": 697184,
+         "iq": 6041,
+         "login": "AsterismAlex",
+         "name": "AsterismAlex",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/AsterismAlex",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5JGxJFdgOQdJZdmyEzDtTj",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5JGxJFdgOQdJZdmyEzDtTj"
+    },
+    {
+     "attribution": "neon trees",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "http://soundcloud.com/neon-trees/everybody-talks"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=X5G9tIe84lE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/45646",
+     "header_image_url": "https://images.genius.com/0ecfd5018c90296857a969439d5e43e2.1000x667x1.jpg",
+     "id": 45646,
+     "image_url": "https://images.genius.com/03efd6e53aa062e0ce2a1b08547b9e46.381x381x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Meldal-Johnsen",
+     "url": "https://genius.com/artists/Justin-meldal-johnsen"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Neon-trees-everybody-talks-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7735264",
+       "artist_names": "Mr. Parr",
+       "full_title": "Types of Rocks Song by\u00a0Mr.\u00a0Parr",
+       "header_image_thumbnail_url": "https://images.genius.com/c4f08b9808775b16bc4d489d2c9fa94c.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/c4f08b9808775b16bc4d489d2c9fa94c.320x180x1.jpg",
+       "id": 7735264,
+       "language": "en",
+       "lyrics_owner_id": 8376068,
+       "lyrics_state": "complete",
+       "path": "/Mr-parr-types-of-rocks-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mr-parr-types-of-rocks-song-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 3,
+        "day": 18
+       },
+       "release_date_for_display": "March 18, 2012",
+       "release_date_with_abbreviated_month_for_display": "Mar. 18, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c4f08b9808775b16bc4d489d2c9fa94c.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c4f08b9808775b16bc4d489d2c9fa94c.320x180x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Types of Rocks Song",
+       "title_with_featured": "Types of Rocks Song",
+       "url": "https://genius.com/Mr-parr-types-of-rocks-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1458288",
+        "header_image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "id": 1458288,
+        "image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mr. Parr",
+        "url": "https://genius.com/artists/Mr-parr"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2188198",
+       "artist_names": "Vitamin String Quartet",
+       "full_title": "Everybody Talks by\u00a0Vitamin\u00a0String Quartet",
+       "header_image_thumbnail_url": "https://images.genius.com/8f66a7452134f90a4bc8bf2beeb3ee7b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8f66a7452134f90a4bc8bf2beeb3ee7b.640x640x1.jpg",
+       "id": 2188198,
+       "language": null,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Vitamin-string-quartet-everybody-talks-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Vitamin-string-quartet-everybody-talks-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 4,
+        "day": 10
+       },
+       "release_date_for_display": "April 10, 2012",
+       "release_date_with_abbreviated_month_for_display": "Apr. 10, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8f66a7452134f90a4bc8bf2beeb3ee7b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8f66a7452134f90a4bc8bf2beeb3ee7b.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Everybody Talks",
+       "title_with_featured": "Everybody Talks",
+       "url": "https://genius.com/Vitamin-string-quartet-everybody-talks-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/454633",
+        "header_image_url": "https://images.genius.com/e0452090389fab739c46e708eaffba75.1000x429x1.jpg",
+        "id": 454633,
+        "image_url": "https://images.genius.com/3c992a4813c7fa30a59164a2d4bc419e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Vitamin String Quartet",
+        "url": "https://genius.com/artists/Vitamin-string-quartet",
+        "iq": 104
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1969408",
+       "artist_names": "Brandon Ray",
+       "full_title": "Everybody talks by\u00a0Brandon\u00a0Ray",
+       "header_image_thumbnail_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.400x400x1.jpg",
+       "id": 1969408,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Brandon-ray-everybody-talks-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Brandon-ray-everybody-talks-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Everybody talks",
+       "title_with_featured": "Everybody talks",
+       "url": "https://genius.com/Brandon-ray-everybody-talks-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1230290",
+        "header_image_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.400x400x1.jpg",
+        "id": 1230290,
+        "image_url": "https://images.genius.com/aa0bb3de713ffb270c48fd904e5fc095.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brandon Ray",
+        "url": "https://genius.com/artists/Brandon-ray"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2091125",
+       "artist_names": "Scott Bradlee's Postmodern Jukebox (Ft. Michaela Paige)",
+       "full_title": "Everybody Talks by\u00a0Scott\u00a0Bradlee's Postmodern Jukebox (Ft.\u00a0Michaela\u00a0Paige)",
+       "header_image_thumbnail_url": "https://images.genius.com/ce123ad103d4d3c9c68fa40d43845e2b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ce123ad103d4d3c9c68fa40d43845e2b.800x800x1.jpg",
+       "id": 2091125,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Scott-bradlees-postmodern-jukebox-everybody-talks-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Scott-bradlees-postmodern-jukebox-everybody-talks-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/ce123ad103d4d3c9c68fa40d43845e2b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ce123ad103d4d3c9c68fa40d43845e2b.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Everybody Talks",
+       "title_with_featured": "Everybody Talks (Ft.\u00a0Michaela\u00a0Paige)",
+       "url": "https://genius.com/Scott-bradlees-postmodern-jukebox-everybody-talks-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/484135",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 484135,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Michaela Paige",
+         "url": "https://genius.com/artists/Michaela-paige"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/523216",
+        "header_image_url": "https://images.genius.com/cba9980f0a6387fdc88b1d74386f5881.1000x653x1.jpg",
+        "id": 523216,
+        "image_url": "https://images.genius.com/2d424bf3c3c7a60294829949e341cf7f.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Scott Bradlee\u2019s Postmodern Jukebox",
+        "url": "https://genius.com/artists/Scott-bradlees-postmodern-jukebox"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/877324",
+       "artist_names": "Glee Cast",
+       "full_title": "Everybody Talks by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/093c6aa752dffed9ae8376118d228aed.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/093c6aa752dffed9ae8376118d228aed.1000x1000x1.jpg",
+       "id": 877324,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-everybody-talks-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glee-cast-everybody-talks-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 11,
+        "day": 27
+       },
+       "release_date_for_display": "November 27, 2012",
+       "release_date_with_abbreviated_month_for_display": "Nov. 27, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/093c6aa752dffed9ae8376118d228aed.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/093c6aa752dffed9ae8376118d228aed.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7316
+       },
+       "title": "Everybody Talks",
+       "title_with_featured": "Everybody Talks",
+       "url": "https://genius.com/Glee-cast-everybody-talks-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7473543",
+       "artist_names": "Neon Trees",
+       "full_title": "Everybody talks (revisited version) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "id": 7473543,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-everybody-talks-revisited-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-everybody-talks-revisited-version-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+       },
+       "release_date_for_display": "December 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Everybody talks (revisited version)",
+       "title_with_featured": "Everybody talks (revisited version)",
+       "url": "https://genius.com/Neon-trees-everybody-talks-revisited-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/55090",
+     "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "id": 55090,
+     "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Pagnotta",
+     "url": "https://genius.com/artists/Tim-pagnotta"
+    },
+    {
+     "api_path": "/artists/322820",
+     "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "id": 322820,
+     "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Glenn",
+     "url": "https://genius.com/artists/Tyler-glenn"
+    }
+   ],
+   "artist": "Neon Trees",
+   "lyrics": "53 ContributorsEverybody Talks Lyrics[Intro]\nAh-ah-ah-ah\nAhem, ahem\n\n[Verse 1]\nHey, baby, won't you look my way?\nI can be your new addiction\nHey, baby, what you got to say?\nAll you're giving me is fiction\nI'm a sorry sucker and this happens all the time\n[Pre-Chorus]\nI find out that everybody talks\nEverybody talks, everybody talks\n\n[Chorus]\nIt started with a whisper\nAnd that was when I kissed her\nAnd then she made my lips hurt\nI can hear the chit-chat\nTake me to your love shack\nMama's always gotta backtrack\nWhen everybody talks back\n\n[Verse 2]\nHey, honey, you could be my drug\nYou could be my new prescription\nToo much could be an overdose\nAll this trash-talk make me itchin'\n\n[Pre-Chorus]\nOh my, my, shit, everybody talks\nEverybody talks, everybody talks\nEverybody talks too much\n\n[Chorus]\nIt started with a whisper\nAnd that was when I kissed her\nAnd then she made my lips hurt\nI can hear the chit-chat\nTake me to your love shack\nMama's always got a backtrack\nWhen everybody talks back\nYou might also like[Bridge]\nNever thought I'd live to see the day (Ah-ah)\nWhen everybody's words got in the way, oh\n\n[Instrumental Break]\n\n[Verse 3]\nHey, sugar, show me all your love\nAll you're giving me is friction\nHey, sugar, what you gotta say?\n\n[Chorus]\nIt started with a whisper\nAnd that was when I kissed her\nAnd then she made my lips hurt\nI can hear the chit-chat\nTake me to your love shack\nMama's always got a backtrack\nWhen everybody talks back\n\n[Post-Chorus]\nEverybody talks, everybody talks\nEverybody talks, everybody talks\nEverybody talks, everybody talks back\n\n[Outro]\nIt started with a whisper\n(Everybody talks, everybody talks)\nAnd that was when I kissed her\n(Everybody talks, everybody talks)\nEverybody talks, everybody talks back, uh43Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/66489",
+   "artist_names": "Neon Trees",
+   "full_title": "Animal by\u00a0Neon\u00a0Trees",
+   "header_image_thumbnail_url": "https://images.genius.com/47fee81005018617ebab64e29cab3d72.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/47fee81005018617ebab64e29cab3d72.1000x1000x1.jpg",
+   "id": 66489,
+   "language": "en",
+   "lyrics_owner_id": 74226,
+   "lyrics_state": "complete",
+   "path": "/Neon-trees-animal-lyrics",
+   "pyongs_count": 17,
+   "relationships_index_url": "https://genius.com/Neon-trees-animal-sample",
+   "release_date_components": {
+    "year": 2010,
+    "month": 3,
+    "day": 16
+   },
+   "release_date_for_display": "March 16, 2010",
+   "release_date_with_abbreviated_month_for_display": "Mar. 16, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d1d23cef3d06d8c5ceb0ba663b8a856a.300x299x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d1d23cef3d06d8c5ceb0ba663b8a856a.768x766x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 36,
+    "iq_earners": 34,
+    "transcribers": 5,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 135340
+   },
+   "title": "Animal",
+   "title_with_featured": "Animal",
+   "url": "https://genius.com/Neon-trees-animal-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/17656",
+    "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "id": 17656,
+    "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Neon Trees",
+    "url": "https://genius.com/artists/Neon-trees",
+    "iq": 100
+   },
+   "apple_music_id": "360314421",
+   "apple_music_player_url": "https://genius.com/songs/66489/apple_music_player",
+   "description": {
+    "plain": "Animal is the most popular song off of Neon Tree\u2019s debut album habits, peaking at #13 on the Billboard Hot 100 chart"
+   },
+   "embed_content": "<div id='rg_embed_link_66489' class='rg_embed_link' data-song-id='66489'>Read <a href='https://genius.com/Neon-trees-animal-lyrics'>\u201cAnimal\u201d by Neon\u00a0Trees</a> on Genius</div> <script crossorigin src='//genius.com/songs/66489/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2010-03-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/92335",
+    "cover_art_url": "https://images.genius.com/0d9dd2d98337f2259cedd24426b5bd4d.1000x1000x1.jpg",
+    "full_title": "Habits by Neon Trees",
+    "id": 92335,
+    "name": "Habits",
+    "release_date_for_display": "March 16, 2010",
+    "url": "https://genius.com/albums/Neon-trees/Habits",
+    "artist": {
+     "api_path": "/artists/17656",
+     "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "id": 17656,
+     "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Neon Trees",
+     "url": "https://genius.com/artists/Neon-trees",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1003238",
+       "header_image_url": "https://images.genius.com/9d1dffdbde96c807ab640b5f455305e4.1000x1000x1.jpg",
+       "id": 1003238,
+       "image_url": "https://images.genius.com/9d1dffdbde96c807ab640b5f455305e4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mercury Records",
+       "url": "https://genius.com/artists/Mercury-records"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/670109",
+       "header_image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "id": 670109,
+       "image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elaine Bradley",
+       "url": "https://genius.com/artists/Elaine-bradley"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/272223",
+       "header_image_url": "https://images.genius.com/335c1ec9cd0fd7c77416ef847a4e4c93.600x600x1.jpg",
+       "id": 272223,
+       "image_url": "https://images.genius.com/3f5637feae45db66d5fd32ee43d36c06.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Allen",
+       "url": "https://genius.com/artists/Chris-allen"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/670110",
+       "header_image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "id": 670110,
+       "image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Branden Campbell",
+       "url": "https://genius.com/artists/Branden-campbell"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/322820",
+       "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "id": 322820,
+       "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tyler Glenn",
+       "url": "https://genius.com/artists/Tyler-glenn"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/670742",
+       "header_image_url": "https://images.genius.com/bbdc46761580ad69d45cd73ec1b850ae.1000x667x1.jpg",
+       "id": 670742,
+       "image_url": "https://images.genius.com/7218db235647054d8ddb7acdf99471e6.700x700x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mark Needham",
+       "url": "https://genius.com/artists/Mark-needham"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/55090",
+       "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+       "id": 55090,
+       "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tim Pagnotta",
+       "url": "https://genius.com/artists/Tim-pagnotta"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15251111,
+    "annotator_login": "MckennaGrace_Expert",
+    "api_path": "/referents/3557100",
+    "classification": "unreviewed",
+    "fragment": "Animal",
+    "id": 3557100,
+    "is_description": true,
+    "path": "/3557100/Neon-trees-animal/Animal",
+    "range": {
+     "content": "Animal"
+    },
+    "song_id": 66489,
+    "url": "https://genius.com/3557100/Neon-trees-animal/Animal",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/66489",
+     "client_timestamps": {
+      "updated_by_human_at": 1660858920,
+      "lyrics_updated_at": 1660858920
+     },
+     "context": "Neon Trees",
+     "id": 66489,
+     "image_url": "https://images.genius.com/d1d23cef3d06d8c5ceb0ba663b8a856a.768x766x1.jpg",
+     "link_title": "Animal by\u00a0Neon\u00a0Trees",
+     "title": "Animal",
+     "type": "Song",
+     "url": "https://genius.com/Neon-trees-animal-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3557100",
+      "body": {
+       "plain": "Animal is the most popular song off of Neon Tree\u2019s debut album habits, peaking at #13 on the Billboard Hot 100 chart"
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3557100,
+      "pinned": false,
+      "share_url": "https://genius.com/3557100",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/3557100/Neon-trees-animal/Animal",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15251111",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/958f2a2cda4359d51b187a7c76ac2b1f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/958f2a2cda4359d51b187a7c76ac2b1f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/958f2a2cda4359d51b187a7c76ac2b1f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/958f2a2cda4359d51b187a7c76ac2b1f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/958f2a2cda4359d51b187a7c76ac2b1f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 15251111,
+         "iq": 400,
+         "login": "MckennaGrace_Expert",
+         "name": "MckennaGrace_Expert",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MckennaGrace_Expert",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1fBl642IhJOE5U319Gy2Go",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1fBl642IhJOE5U319Gy2Go"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gM7Hlg75Mlo"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55090",
+     "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "id": 55090,
+     "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Pagnotta",
+     "url": "https://genius.com/artists/Tim-pagnotta"
+    },
+    {
+     "api_path": "/artists/165764",
+     "header_image_url": "https://images.genius.com/be9408ab56130038ad6ace08ac8cee67.1000x1000x1.jpg",
+     "id": 165764,
+     "image_url": "https://images.genius.com/be9408ab56130038ad6ace08ac8cee67.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ian Kirkpatrick",
+     "url": "https://genius.com/artists/Ian-kirkpatrick"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Neon-trees-animal-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2240302",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Animal by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/5b999a2cc2315e483806cd5e1bfecf89.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5b999a2cc2315e483806cd5e1bfecf89.500x500x1.jpg",
+       "id": 2240302,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-animal-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-animal-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 1,
+        "day": 18
+       },
+       "release_date_for_display": "January 18, 2011",
+       "release_date_with_abbreviated_month_for_display": "Jan. 18, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5b999a2cc2315e483806cd5e1bfecf89.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5b999a2cc2315e483806cd5e1bfecf89.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Animal",
+       "title_with_featured": "Animal",
+       "url": "https://genius.com/Kidz-bop-kids-animal-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7734952",
+       "artist_names": "Mr. Parr",
+       "full_title": "Animal (Classification) Song by\u00a0Mr.\u00a0Parr",
+       "header_image_thumbnail_url": "https://images.genius.com/05aa039dfeb221488c5fc771dead16e5.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/05aa039dfeb221488c5fc771dead16e5.200x200x1.jpg",
+       "id": 7734952,
+       "language": "en",
+       "lyrics_owner_id": 8376068,
+       "lyrics_state": "complete",
+       "path": "/Mr-parr-animal-classification-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mr-parr-animal-classification-song-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 3,
+        "day": 18
+       },
+       "release_date_for_display": "March 18, 2011",
+       "release_date_with_abbreviated_month_for_display": "Mar. 18, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/05aa039dfeb221488c5fc771dead16e5.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/05aa039dfeb221488c5fc771dead16e5.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Animal (Classification) Song",
+       "title_with_featured": "Animal (Classification) Song",
+       "url": "https://genius.com/Mr-parr-animal-classification-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1458288",
+        "header_image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "id": 1458288,
+        "image_url": "https://images.genius.com/4a9c9fb6208cb56cc0482f67458108e8.176x176x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mr. Parr",
+        "url": "https://genius.com/artists/Mr-parr"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5496198",
+       "artist_names": "First to Eleven",
+       "full_title": "Animal by\u00a0First\u00a0to Eleven",
+       "header_image_thumbnail_url": "https://images.genius.com/85d96e90c1818cc64f1dcec7b3958ff8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/85d96e90c1818cc64f1dcec7b3958ff8.1000x1000x1.jpg",
+       "id": 5496198,
+       "language": "en",
+       "lyrics_owner_id": 9803605,
+       "lyrics_state": "complete",
+       "path": "/First-to-eleven-animal-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/First-to-eleven-animal-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 4,
+        "day": 16
+       },
+       "release_date_for_display": "April 16, 2020",
+       "release_date_with_abbreviated_month_for_display": "Apr. 16, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9795a1e7b9c513f7f378253717398369.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9795a1e7b9c513f7f378253717398369.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Animal",
+       "title_with_featured": "Animal",
+       "url": "https://genius.com/First-to-eleven-animal-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/670219",
+        "header_image_url": "https://images.genius.com/73a7e51017d87225b626adee184cadd4.1000x667x1.png",
+        "id": 670219,
+        "image_url": "https://images.genius.com/a02d4dec7ace726dbe8e92ed5d267ea4.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "First to Eleven",
+        "url": "https://genius.com/artists/First-to-eleven"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3038185",
+       "artist_names": "Chase Holfelder",
+       "full_title": "Animal by\u00a0Chase\u00a0Holfelder",
+       "header_image_thumbnail_url": "https://images.genius.com/e2362be9cc32c4c717e6bae9e63fa12d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e2362be9cc32c4c717e6bae9e63fa12d.400x400x1.jpg",
+       "id": 3038185,
+       "language": "en",
+       "lyrics_owner_id": 4337705,
+       "lyrics_state": "complete",
+       "path": "/Chase-holfelder-animal-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Chase-holfelder-animal-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 2,
+        "day": 1
+       },
+       "release_date_for_display": "February 1, 2015",
+       "release_date_with_abbreviated_month_for_display": "Feb. 1, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e2362be9cc32c4c717e6bae9e63fa12d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e2362be9cc32c4c717e6bae9e63fa12d.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 18563
+       },
+       "title": "Animal",
+       "title_with_featured": "Animal",
+       "url": "https://genius.com/Chase-holfelder-animal-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/455088",
+        "header_image_url": "https://images.genius.com/46df0557cb3cbd506c06abe47bfbee28.1000x256x1.png",
+        "id": 455088,
+        "image_url": "https://images.genius.com/5e0dd42cc1bec0fb0eb2479124e89cbe.800x800x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chase Holfelder",
+        "url": "https://genius.com/artists/Chase-holfelder"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/3026420",
+       "artist_names": "Taylor Swift",
+       "full_title": "Animal by\u00a0Taylor\u00a0Swift",
+       "header_image_thumbnail_url": "https://images.genius.com/866d31e6a0fb376d0117018b5913369f.300x300x1.png",
+       "header_image_url": "https://images.genius.com/866d31e6a0fb376d0117018b5913369f.1000x1000x1.png",
+       "id": 3026420,
+       "language": "en",
+       "lyrics_owner_id": 1873201,
+       "lyrics_state": "complete",
+       "path": "/Taylor-swift-animal-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Taylor-swift-animal-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2011",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/866d31e6a0fb376d0117018b5913369f.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/866d31e6a0fb376d0117018b5913369f.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Animal",
+       "title_with_featured": "Animal",
+       "url": "https://genius.com/Taylor-swift-animal-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1177",
+        "header_image_url": "https://images.genius.com/a74ab9ea8f7314b6e015133c5bd0314a.1000x333x1.jpg",
+        "id": 1177,
+        "image_url": "https://images.genius.com/866d31e6a0fb376d0117018b5913369f.1000x1000x1.png",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Taylor Swift",
+        "url": "https://genius.com/artists/Taylor-swift",
+        "iq": 1544
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/942554",
+       "artist_names": "Glee Cast",
+       "full_title": "Animal by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/c95e0daad05283e23e40b39054fa8b39.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c95e0daad05283e23e40b39054fa8b39.500x500x1.jpg",
+       "id": 942554,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-animal-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glee-cast-animal-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 4,
+        "day": 19
+       },
+       "release_date_for_display": "April 19, 2011",
+       "release_date_with_abbreviated_month_for_display": "Apr. 19, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c95e0daad05283e23e40b39054fa8b39.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c95e0daad05283e23e40b39054fa8b39.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5213
+       },
+       "title": "Animal",
+       "title_with_featured": "Animal",
+       "url": "https://genius.com/Glee-cast-animal-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7645455",
+       "artist_names": "Neon Trees",
+       "full_title": "Animal (Simlish Version) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+       "id": 7645455,
+       "language": "en",
+       "lyrics_owner_id": 4212581,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-animal-simlish-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-animal-simlish-version-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2013",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Animal (Simlish Version)",
+       "title_with_featured": "Animal (Simlish Version)",
+       "url": "https://genius.com/Neon-trees-animal-simlish-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7473548",
+       "artist_names": "Neon Trees",
+       "full_title": "Animal (revisited version) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "id": 7473548,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-animal-revisited-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-animal-revisited-version-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+       },
+       "release_date_for_display": "December 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Animal (revisited version)",
+       "title_with_featured": "Animal (revisited version)",
+       "url": "https://genius.com/Neon-trees-animal-revisited-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7646571",
+       "artist_names": "Genius Brasil Tradu\u00e7\u00f5es",
+       "full_title": "Neon Trees - Animal (Tradu\u00e7\u00e3o em Portugu\u00eas) by\u00a0Genius\u00a0Brasil Tradu\u00e7\u00f5es",
+       "header_image_thumbnail_url": "https://images.genius.com/47fee81005018617ebab64e29cab3d72.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/47fee81005018617ebab64e29cab3d72.1000x1000x1.jpg",
+       "id": 7646571,
+       "language": "pt",
+       "lyrics_owner_id": 4212581,
+       "lyrics_state": "complete",
+       "path": "/Genius-brasil-traducoes-neon-trees-animal-traducao-em-portugues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-brasil-traducoes-neon-trees-animal-traducao-em-portugues-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 3,
+        "day": 16
+       },
+       "release_date_for_display": "March 16, 2010",
+       "release_date_with_abbreviated_month_for_display": "Mar. 16, 2010",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d1d23cef3d06d8c5ceb0ba663b8a856a.300x299x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d1d23cef3d06d8c5ceb0ba663b8a856a.768x766x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Neon Trees - Animal (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "title_with_featured": "Neon Trees - Animal (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+       "url": "https://genius.com/Genius-brasil-traducoes-neon-trees-animal-traducao-em-portugues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/210448",
+        "header_image_url": "https://images.genius.com/887be16f52b0dec817adc23304662df0.900x176x1.jpg",
+        "id": 210448,
+        "image_url": "https://images.genius.com/3a0be3346223ddde1f4b5c1d315cb9db.750x750x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Brasil Tradu\u00e7\u00f5es",
+        "url": "https://genius.com/artists/Genius-brasil-traducoes"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/7646571",
+     "id": 7646571,
+     "language": "pt",
+     "lyrics_state": "complete",
+     "path": "/Genius-brasil-traducoes-neon-trees-animal-traducao-em-portugues-lyrics",
+     "title": "Neon Trees - Animal (Tradu\u00e7\u00e3o em Portugu\u00eas)",
+     "url": "https://genius.com/Genius-brasil-traducoes-neon-trees-animal-traducao-em-portugues-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/55090",
+     "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "id": 55090,
+     "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Pagnotta",
+     "url": "https://genius.com/artists/Tim-pagnotta"
+    },
+    {
+     "api_path": "/artists/322820",
+     "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "id": 322820,
+     "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Glenn",
+     "url": "https://genius.com/artists/Tyler-glenn"
+    },
+    {
+     "api_path": "/artists/670109",
+     "header_image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+     "id": 670109,
+     "image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elaine Bradley",
+     "url": "https://genius.com/artists/Elaine-bradley"
+    },
+    {
+     "api_path": "/artists/670110",
+     "header_image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+     "id": 670110,
+     "image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Branden Campbell",
+     "url": "https://genius.com/artists/Branden-campbell"
+    },
+    {
+     "api_path": "/artists/272223",
+     "header_image_url": "https://images.genius.com/335c1ec9cd0fd7c77416ef847a4e4c93.600x600x1.jpg",
+     "id": 272223,
+     "image_url": "https://images.genius.com/3f5637feae45db66d5fd32ee43d36c06.399x399x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Allen",
+     "url": "https://genius.com/artists/Chris-allen"
+    }
+   ],
+   "artist": "Neon Trees",
+   "lyrics": "36 ContributorsTranslationsPortugu\u00easAnimal Lyrics[Verse 1]\nHere we go again\nI kinda wanna be more than friends\nSo take it easy on me\nI'm afraid you're never satisfied\n\n[Verse 2]\nHere we go again\nWe're sick like animals, we play pretend\nYou're just a cannibal\nAnd I'm afraid I won't get out alive\nNo, I won't sleep tonight\n[Chorus]\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nTake a bite of my heart tonight\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nWhat are you waiting for?\nSay goodbye to my heart tonight\n\n[Verse 2]\nHere we are again\nI feel the chemicals kickin' in\nIt's getting heavy and I wanna run and hide\nI wanna run and hide\nI do it every time\nYou're killin' me now\nAnd I won't be denied by you\nThe animal inside of you\n\n[Chorus]\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nTake a bite of my heart tonight\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nWhat are you waiting for?\nSay goodbye to my heart tonight\nYou might also like[Bridge]\nHush, hush, the world is quiet\nHush, hush, we both can't fight it\nIt's us that made this mess\nWhy can't you understand?\nWoah, I won't sleep tonight\n(I won't sleep tonight)\n\n[Pre-Chorus]\nHere we go again (Here we go again)\nHere we go again\n\n[Chorus]\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nTake a bite of my heart tonight\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nWhat are you waiting for?\nWhat are you waiting\u2014\nHere we go again (Oh-oh)\nHere we go again (Oh-oh)\nHere we go again (Oh-oh)\nSay goodbye to my heart tonight\n\n[Outro]\nOh-oh, I want some more\nOh-oh, what are you waiting for?\nWhat are you waiting for?\nSay goodbye to my heart tonight17Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/365375",
+   "artist_names": "Neon Trees",
+   "full_title": "Sleeping with a Friend by\u00a0Neon\u00a0Trees",
+   "header_image_thumbnail_url": "https://i.genius.com/961db44e1d9b518d413dfef044d168f9d09acd02?url=https%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol15%2F690%2F690996%2F2540249-big%2FSleeping-With-A-Friend-Single-cover.jpg",
+   "header_image_url": "https://i.genius.com/961db44e1d9b518d413dfef044d168f9d09acd02?url=https%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol15%2F690%2F690996%2F2540249-big%2FSleeping-With-A-Friend-Single-cover.jpg",
+   "id": 365375,
+   "language": "en",
+   "lyrics_owner_id": 342006,
+   "lyrics_state": "complete",
+   "path": "/Neon-trees-sleeping-with-a-friend-lyrics",
+   "pyongs_count": 16,
+   "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 1,
+    "day": 11
+   },
+   "release_date_for_display": "January 11, 2014",
+   "release_date_with_abbreviated_month_for_display": "Jan. 11, 2014",
+   "song_art_image_thumbnail_url": "https://i.genius.com/961db44e1d9b518d413dfef044d168f9d09acd02?url=https%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol15%2F690%2F690996%2F2540249-big%2FSleeping-With-A-Friend-Single-cover.jpg",
+   "song_art_image_url": "https://i.genius.com/961db44e1d9b518d413dfef044d168f9d09acd02?url=https%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol15%2F690%2F690996%2F2540249-big%2FSleeping-With-A-Friend-Single-cover.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 28,
+    "iq_earners": 28,
+    "transcribers": 3,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 24094
+   },
+   "title": "Sleeping with a Friend",
+   "title_with_featured": "Sleeping with a Friend",
+   "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/17656",
+    "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "id": 17656,
+    "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Neon Trees",
+    "url": "https://genius.com/artists/Neon-trees",
+    "iq": 100
+   },
+   "apple_music_id": "840293832",
+   "apple_music_player_url": "https://genius.com/songs/365375/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_365375' class='rg_embed_link' data-song-id='365375'>Read <a href='https://genius.com/Neon-trees-sleeping-with-a-friend-lyrics'>\u201cSleeping with a Friend\u201d by Neon\u00a0Trees</a> on Genius</div> <script crossorigin src='//genius.com/songs/365375/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-01-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/83544",
+    "cover_art_url": "https://images.genius.com/5344ca1d183c42883b463b04cc489edd.600x600x1.jpg",
+    "full_title": "Pop Psychology by Neon Trees",
+    "id": 83544,
+    "name": "Pop Psychology",
+    "release_date_for_display": "May 22, 2014",
+    "url": "https://genius.com/albums/Neon-trees/Pop-psychology",
+    "artist": {
+     "api_path": "/artists/17656",
+     "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "id": 17656,
+     "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Neon Trees",
+     "url": "https://genius.com/artists/Neon-trees",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/670109",
+       "header_image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "id": 670109,
+       "image_url": "https://images.genius.com/2fac68662ae96a703dce354f47f613c1.253x253x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Elaine Bradley",
+       "url": "https://genius.com/artists/Elaine-bradley"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/670110",
+       "header_image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "id": 670110,
+       "image_url": "https://images.genius.com/4ea9765289ea1b2adad563017b5959ac.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Branden Campbell",
+       "url": "https://genius.com/artists/Branden-campbell"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/272223",
+       "header_image_url": "https://images.genius.com/335c1ec9cd0fd7c77416ef847a4e4c93.600x600x1.jpg",
+       "id": 272223,
+       "image_url": "https://images.genius.com/3f5637feae45db66d5fd32ee43d36c06.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Allen",
+       "url": "https://genius.com/artists/Chris-allen"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/322820",
+       "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "id": 322820,
+       "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tyler Glenn",
+       "url": "https://genius.com/artists/Tyler-glenn"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 342006,
+    "annotator_login": "swolfe2911",
+    "api_path": "/referents/3746827",
+    "classification": "needs_exegesis",
+    "fragment": "Sleeping with a Friend",
+    "id": 3746827,
+    "is_description": true,
+    "path": "/3746827/Neon-trees-sleeping-with-a-friend/Sleeping-with-a-friend",
+    "range": {
+     "content": "Sleeping with a Friend"
+    },
+    "song_id": 365375,
+    "url": "https://genius.com/3746827/Neon-trees-sleeping-with-a-friend/Sleeping-with-a-friend",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/365375",
+     "client_timestamps": {
+      "updated_by_human_at": 1654492090,
+      "lyrics_updated_at": 1639121193
+     },
+     "context": "Neon Trees",
+     "id": 365375,
+     "image_url": "https://i.genius.com/961db44e1d9b518d413dfef044d168f9d09acd02?url=https%3A%2F%2Fwww.music-bazaar.com%2Falbum-images%2Fvol15%2F690%2F690996%2F2540249-big%2FSleeping-With-A-Friend-Single-cover.jpg",
+     "link_title": "Sleeping with a Friend by\u00a0Neon\u00a0Trees",
+     "title": "Sleeping with a Friend",
+     "type": "Song",
+     "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3746827",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3746827,
+      "pinned": false,
+      "share_url": "https://genius.com/3746827",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3746827/Neon-trees-sleeping-with-a-friend/Sleeping-with-a-friend",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/342006",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/a7b429a8064fdac4e07d03e2ec12a6a8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/a7b429a8064fdac4e07d03e2ec12a6a8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/a7b429a8064fdac4e07d03e2ec12a6a8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/a7b429a8064fdac4e07d03e2ec12a6a8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/a7b429a8064fdac4e07d03e2ec12a6a8",
+         "human_readable_role_for_display": "Contributor",
+         "id": 342006,
+         "iq": 401,
+         "login": "swolfe2911",
+         "name": "swolfe2911",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/swolfe2911",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0m9VLhVMyNSwRdSrtv7wxj",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0m9VLhVMyNSwRdSrtv7wxj"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BB7R0ZY9w94"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55090",
+     "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "id": 55090,
+     "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Pagnotta",
+     "url": "https://genius.com/artists/Tim-pagnotta"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7473549",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping with a friend (revisited version) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "id": 7473549,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-revisited-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-revisited-version-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 10
+       },
+       "release_date_for_display": "December 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0ca5ad74ebba2c17b5304ac71dff3f5b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping with a friend (revisited version)",
+       "title_with_featured": "Sleeping with a friend (revisited version)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-revisited-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3142064",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping With a Friend (Ra Ra Riot Remix) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "id": 3142064,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-ra-ra-riot-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-ra-ra-riot-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2014",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping With a Friend (Ra Ra Riot Remix)",
+       "title_with_featured": "Sleeping With a Friend (Ra Ra Riot Remix)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-ra-ra-riot-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3142032",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping With a Friend (ASTR Remix) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "id": 3142032,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-astr-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-astr-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2014",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping With a Friend (ASTR Remix)",
+       "title_with_featured": "Sleeping With a Friend (ASTR Remix)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-astr-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3141989",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping With a Friend (The Chainsmokers Remix) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/5de8cd3646fbc2b93b834071aa59d128.300x288x1.jpg",
+       "header_image_url": "https://images.genius.com/5de8cd3646fbc2b93b834071aa59d128.1000x960x1.jpg",
+       "id": 3141989,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-the-chainsmokers-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-the-chainsmokers-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2014",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5de8cd3646fbc2b93b834071aa59d128.300x288x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5de8cd3646fbc2b93b834071aa59d128.1000x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping With a Friend (The Chainsmokers Remix)",
+       "title_with_featured": "Sleeping With a Friend (The Chainsmokers Remix)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-the-chainsmokers-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2258538",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping With a Friend (Kat Krazy Radio Mix) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "id": 2258538,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-kat-krazy-radio-mix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-kat-krazy-radio-mix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 4,
+        "day": 29
+       },
+       "release_date_for_display": "April 29, 2014",
+       "release_date_with_abbreviated_month_for_display": "Apr. 29, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/38f6ea521e98def37216faa2fc785dce.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping With a Friend (Kat Krazy Radio Mix)",
+       "title_with_featured": "Sleeping With a Friend (Kat Krazy Radio Mix)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-kat-krazy-radio-mix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3141801",
+       "artist_names": "Neon Trees",
+       "full_title": "Sleeping With a Friend (Hyperbits Remix) by\u00a0Neon\u00a0Trees",
+       "header_image_thumbnail_url": "https://images.genius.com/fcc9b788b3a192012c3e5b38fcc72b89.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fcc9b788b3a192012c3e5b38fcc72b89.500x500x1.jpg",
+       "id": 3141801,
+       "language": "en",
+       "lyrics_owner_id": 2034060,
+       "lyrics_state": "complete",
+       "path": "/Neon-trees-sleeping-with-a-friend-hyperbits-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neon-trees-sleeping-with-a-friend-hyperbits-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 4,
+        "day": 27
+       },
+       "release_date_for_display": "April 27, 2014",
+       "release_date_with_abbreviated_month_for_display": "Apr. 27, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fcc9b788b3a192012c3e5b38fcc72b89.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fcc9b788b3a192012c3e5b38fcc72b89.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleeping With a Friend (Hyperbits Remix)",
+       "title_with_featured": "Sleeping With a Friend (Hyperbits Remix)",
+       "url": "https://genius.com/Neon-trees-sleeping-with-a-friend-hyperbits-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/17656",
+        "header_image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "id": 17656,
+        "image_url": "https://images.genius.com/c5446213c349cb845e937a09212e82b9.581x581x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Neon Trees",
+        "url": "https://genius.com/artists/Neon-trees",
+        "iq": 100
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/55090",
+     "header_image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "id": 55090,
+     "image_url": "https://images.genius.com/60ef935dc9b49f7c986034d742cf9e00.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tim Pagnotta",
+     "url": "https://genius.com/artists/Tim-pagnotta"
+    },
+    {
+     "api_path": "/artists/322820",
+     "header_image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "id": 322820,
+     "image_url": "https://images.genius.com/11bd912d035c18b7cadea92613848b1a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Glenn",
+     "url": "https://genius.com/artists/Tyler-glenn"
+    }
+   ],
+   "artist": "Neon Trees",
+   "lyrics": "28 ContributorsSleeping with a Friend Lyrics[Verse 1]\nAll my friends, they\u2019re different people\nAnxious like the ocean in a storm\nWhen we go out, yeah, we\u2019re electric\nCoursing through our bodies 'til we\u2019re one\n\n[Pre-Chorus]\nAnd why mess up a good thing, baby?\nIt\u2019s a risk to even fall in love\nSo, when you give that look to me\nI better look back carefully\n\u2018Cause this is trouble, yeah, this is trouble\n[Chorus]\nI said ooh, ooh\nYou got me in the mood, mood\nI\u2019m scared, but if my heart's gonna break\nBefore the night will end\nI said, ooh, ooh, we\u2019re in danger\nSleeping with a friend\nSleeping with a friend\n\n[Verse 2]\nAll my friends, stay up past midnight\nLooking for the thing to fill the void\nI don\u2019t go out much like I used to\nSomething 'bout the strangers and the noise\n\n[Pre-Chorus 2]\nAnd why leave when I got you, baby?\nIt's a risk, but babe, I need the thrill\nI never said you'd be easy\nBut if it was all up to me\nI\u2019d be no trouble\nHey, we\u2019re in trouble\n\n[Chorus]\nI said ooh, ooh\nYou got me in the mood, mood\nI\u2019m scared, but if my heart's gonna break\nBefore the night will end\nI said, ooh, ooh we\u2019re in danger\nSleeping with a friend\nSleeping with a friend\nYou might also like[Bridge]\nWe are both young, hot-blooded people\nWe don\u2019t wanna die alone\nTwo become one, it could be lethal\nSleeping with a friend\n\n[Break]\nAll my friends\nAll my friends\nAll my friends\nAll my friends (Oh)\n\n[Chorus]\nI said, ooh, ooh (Ooh)\nYou got me in the mood, mood (Mood)\nI'm scared, if my heart's gonna break (Heart's gonna break)\nBefore the night will end\nI said, ooh, ooh, we're in danger\nSleeping with a friend (All my friends)\nSleeping with a friend (All my friends)\nIf my heart's gonna break (Heart's gonna break)\nBefore the night will end\nI said, ooh, ooh, we're in danger\nSleeping with a friend16Embed"
+  }
+ ]
+}

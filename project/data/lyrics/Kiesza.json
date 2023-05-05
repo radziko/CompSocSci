@@ -1,0 +1,2188 @@
+{
+ "alternate_names": [
+  "Kiesa Ellestad",
+  "Kiesa Rae Ellestad"
+ ],
+ "api_path": "/artists/168212",
+ "description": {
+  "plain": "Kiesa Rae Ellestad, born 16 January 1989, is better known as Kiesza. She\u2019s a Canadian singer and multi-instrumentalist from Calgary.\n\nKiesza took part in the Young Canadians, performing tap and jazz dancing, as well as theatre. She\u2019s also trained as a ballerina, however, a knee injury at age 15 ended her ballet career. When Ellestad was 18, she says that her parents' divorce caused her to write her first song, as a way of expressing her feelings. The same year, she heard a song of hers played on the radio."
+ },
+ "facebook_name": "Kiesza",
+ "followers_count": 35,
+ "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+ "id": 168212,
+ "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Kiesza",
+ "translation_artist": false,
+ "twitter_name": "Kiesza",
+ "url": "https://genius.com/artists/Kiesza",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1717255,
+  "annotator_login": "TeuntjeVDW",
+  "api_path": "/referents/7017346",
+  "classification": "accepted",
+  "fragment": "Kiesza",
+  "id": 7017346,
+  "is_description": true,
+  "path": "/7017346/Kiesza/Kiesza",
+  "range": {
+   "content": "Kiesza"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7017346/Kiesza/Kiesza",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/168212",
+   "context": null,
+   "id": 168212,
+   "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+   "link_title": "Kiesza",
+   "title": "Kiesza",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kiesza"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7017346",
+    "body": {
+     "plain": "Kiesa Rae Ellestad, born 16 January 1989, is better known as Kiesza. She\u2019s a Canadian singer and multi-instrumentalist from Calgary.\n\nKiesza took part in the Young Canadians, performing tap and jazz dancing, as well as theatre. She\u2019s also trained as a ballerina, however, a knee injury at age 15 ended her ballet career. When Ellestad was 18, she says that her parents' divorce caused her to write her first song, as a way of expressing her feelings. The same year, she heard a song of hers played on the radio."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7017346,
+    "pinned": false,
+    "share_url": "https://genius.com/7017346",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7017346/Kiesza/Kiesza",
+    "verified": false,
+    "votes_total": 5,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1717255",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4c3bfe34cace4572d35b111985c915b2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4c3bfe34cace4572d35b111985c915b2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4c3bfe34cace4572d35b111985c915b2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4c3bfe34cace4572d35b111985c915b2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4c3bfe34cace4572d35b111985c915b2",
+       "human_readable_role_for_display": "Editor",
+       "id": 1717255,
+       "iq": 312431,
+       "login": "TeuntjeVDW",
+       "name": "TeuntjeVDW",
+       "role_for_display": "editor",
+       "url": "https://genius.com/TeuntjeVDW",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/408141",
+   "artist_names": "Kiesza",
+   "full_title": "Hideaway by\u00a0Kiesza",
+   "header_image_thumbnail_url": "https://images.genius.com/3bb1772b909651a90c9cd528aefd7560.300x300x1.png",
+   "header_image_url": "https://images.genius.com/3bb1772b909651a90c9cd528aefd7560.1000x1000x1.png",
+   "id": 408141,
+   "language": "en",
+   "lyrics_owner_id": 256152,
+   "lyrics_state": "complete",
+   "path": "/Kiesza-hideaway-lyrics",
+   "pyongs_count": 49,
+   "relationships_index_url": "https://genius.com/Kiesza-hideaway-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 4,
+    "day": 11
+   },
+   "release_date_for_display": "April 11, 2014",
+   "release_date_with_abbreviated_month_for_display": "Apr. 11, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/90bc07281d1dee5325a11bf60307038d.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/90bc07281d1dee5325a11bf60307038d.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 33,
+    "iq_earners": 31,
+    "transcribers": 6,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 90037
+   },
+   "title": "Hideaway",
+   "title_with_featured": "Hideaway",
+   "url": "https://genius.com/Kiesza-hideaway-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/168212",
+    "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+    "id": 168212,
+    "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kiesza",
+    "url": "https://genius.com/artists/Kiesza"
+   },
+   "apple_music_id": "919277978",
+   "apple_music_player_url": "https://genius.com/songs/408141/apple_music_player",
+   "description": {
+    "plain": "\u201cHideaway\u201d is the first single of Canadian artist Kiesza. It has charted at #1 in the UK.\n\nhttp://www.youtube.com/watch?v=ESXgJ9-H-2U"
+   },
+   "embed_content": "<div id='rg_embed_link_408141' class='rg_embed_link' data-song-id='408141'>Read <a href='https://genius.com/Kiesza-hideaway-lyrics'>\u201cHideaway\u201d by Kiesza</a> on Genius</div> <script crossorigin src='//genius.com/songs/408141/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Lokal Legends Studios, NYC",
+   "release_date": "2014-04-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/112583",
+    "cover_art_url": "https://images.genius.com/3bb1772b909651a90c9cd528aefd7560.1000x1000x1.png",
+    "full_title": "Sound of a Woman by Kiesza",
+    "id": 112583,
+    "name": "Sound of a Woman",
+    "release_date_for_display": "October 13, 2014",
+    "url": "https://genius.com/albums/Kiesza/Sound-of-a-woman",
+    "artist": {
+     "api_path": "/artists/168212",
+     "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+     "id": 168212,
+     "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiesza",
+     "url": "https://genius.com/artists/Kiesza"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1055228",
+       "header_image_url": "https://images.genius.com/b030fc370a2af9083a4859eefe172f5f.440x440x1.jpg",
+       "id": 1055228,
+       "image_url": "https://images.genius.com/b030fc370a2af9083a4859eefe172f5f.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Espen Berg",
+       "url": "https://genius.com/artists/Espen-berg"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/187887",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 187887,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rami Samir Afuni",
+       "url": "https://genius.com/artists/Rami-samir-afuni"
+      }
+     ]
+    },
+    {
+     "label": "Mixing At",
+     "artists": [
+      {
+       "api_path": "/artists/1055229",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055229,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lokal Legends Studios",
+       "url": "https://genius.com/artists/Lokal-legends-studios"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/187887",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 187887,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rami Samir Afuni",
+       "url": "https://genius.com/artists/Rami-samir-afuni"
+      }
+     ]
+    },
+    {
+     "label": "Presser",
+     "artists": [
+      {
+       "api_path": "/artists/1110054",
+       "header_image_url": "https://images.genius.com/796ad8d46935868a3603325f3c860b7d.595x93x1.jpg",
+       "id": 1110054,
+       "image_url": "https://images.genius.com/dea16e00e63893fdedfdb805b2b5682d.239x239x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Sony DADC",
+       "url": "https://genius.com/artists/Sony-dadc"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      },
+      {
+       "api_path": "/artists/1055231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lokal Legend",
+       "url": "https://genius.com/artists/Lokal-legend"
+      }
+     ]
+    },
+    {
+     "label": "Engineered At",
+     "artists": [
+      {
+       "api_path": "/artists/1411527",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1411527,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "StadiumRED Studios",
+       "url": "https://genius.com/artists/Stadiumred-studios"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/2462458",
+       "header_image_url": "https://images.genius.com/e580f34060ea99d9905af7996fbc8612.895x597x1.jpg",
+       "id": 2462458,
+       "image_url": "https://images.genius.com/815bd27e58f83ddbe905bafb5e10e6d2.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BIEM",
+       "url": "https://genius.com/artists/Biem"
+      },
+      {
+       "api_path": "/artists/2549288",
+       "header_image_url": "https://images.genius.com/ef55feaa2f2e19ac5e5978bb43d822bc.750x1000x1.jpg",
+       "id": 2549288,
+       "image_url": "https://images.genius.com/72ae6a559ecb21e92cc9f1e3c6a3fbe2.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SDRM (PRO)",
+       "url": "https://genius.com/artists/Sdrm-pro"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1209162",
+       "header_image_url": "https://images.genius.com/159ffe1bdbffeaf422f56a9a648f8b21.1000x485x1.png",
+       "id": 1209162,
+       "image_url": "https://images.genius.com/fd149dde35fbbd337e610fa4b159fd33.224x224x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Music Publishing Group",
+       "url": "https://genius.com/artists/Emi-music-publishing-group"
+      },
+      {
+       "api_path": "/artists/1148840",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1148840,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stellar Songs",
+       "url": "https://genius.com/artists/Stellar-songs"
+      },
+      {
+       "api_path": "/artists/569149",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 569149,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMI Blackwood Music",
+       "url": "https://genius.com/artists/Emi-blackwood-music"
+      },
+      {
+       "api_path": "/artists/3000768",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3000768,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Afuni Music",
+       "url": "https://genius.com/artists/Afuni-music"
+      },
+      {
+       "api_path": "/artists/1633116",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1633116,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liberal Arts Publishing",
+       "url": "https://genius.com/artists/Liberal-arts-publishing"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1055231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lokal Legend",
+       "url": "https://genius.com/artists/Lokal-legend"
+      },
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Recorded At",
+     "artists": [
+      {
+       "api_path": "/artists/1055229",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055229,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lokal Legends Studios",
+       "url": "https://genius.com/artists/Lokal-legends-studios"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      },
+      {
+       "api_path": "/artists/1055231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Lokal Legend",
+       "url": "https://genius.com/artists/Lokal-legend"
+      }
+     ]
+    },
+    {
+     "label": "Management",
+     "artists": [
+      {
+       "api_path": "/artists/1055232",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055232,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mark Sudack",
+       "url": "https://genius.com/artists/Mark-sudack"
+      }
+     ]
+    },
+    {
+     "label": "Mastered at",
+     "artists": [
+      {
+       "api_path": "/artists/1055230",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1055230,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Livingroom Studios",
+       "url": "https://genius.com/artists/Livingroom-studios"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 70148,
+    "annotator_login": "chihuahua0",
+    "api_path": "/referents/3594908",
+    "classification": "accepted",
+    "fragment": "Hideaway",
+    "id": 3594908,
+    "is_description": true,
+    "path": "/3594908/Kiesza-hideaway/Hideaway",
+    "range": {
+     "content": "Hideaway"
+    },
+    "song_id": 408141,
+    "url": "https://genius.com/3594908/Kiesza-hideaway/Hideaway",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/408141",
+     "client_timestamps": {
+      "updated_by_human_at": 1663068007,
+      "lyrics_updated_at": 1640619515
+     },
+     "context": "Kiesza",
+     "id": 408141,
+     "image_url": "https://images.genius.com/90bc07281d1dee5325a11bf60307038d.1000x1000x1.png",
+     "link_title": "Hideaway by\u00a0Kiesza",
+     "title": "Hideaway",
+     "type": "Song",
+     "url": "https://genius.com/Kiesza-hideaway-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3594908",
+      "body": {
+       "plain": "\u201cHideaway\u201d is the first single of Canadian artist Kiesza. It has charted at #1 in the UK.\n\nhttp://www.youtube.com/watch?v=ESXgJ9-H-2U"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3594908,
+      "pinned": false,
+      "share_url": "https://genius.com/3594908",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3594908/Kiesza-hideaway/Hideaway",
+      "verified": false,
+      "votes_total": 11,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6382978723404256,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 3065824,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.36170212765957444,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/70148",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/794efa2bc6c5b7b400f6362854b28f4d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 70148,
+         "iq": 187094,
+         "login": "chihuahua0",
+         "name": "Chihuahua0",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/chihuahua0",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ESXgJ9-H-2U"
+    },
+    {
+     "native_uri": "spotify:track:0c6xIDDpzE81m2q797ordA",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0c6xIDDpzE81m2q797ordA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/187887",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 187887,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Samir Afuni",
+     "url": "https://genius.com/artists/Rami-samir-afuni"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4819152",
+       "artist_names": "Acrylo",
+       "full_title": "If Lil Pump Was a White Girl by\u00a0Acrylo",
+       "header_image_thumbnail_url": "https://images.genius.com/3815f66c1978d46fe6a231c5f197d2e3.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/3815f66c1978d46fe6a231c5f197d2e3.1000x563x1.jpg",
+       "id": 4819152,
+       "language": "en",
+       "lyrics_owner_id": 9149913,
+       "lyrics_state": "complete",
+       "path": "/Acrylo-if-lil-pump-was-a-white-girl-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Acrylo-if-lil-pump-was-a-white-girl-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 12,
+        "day": 13
+       },
+       "release_date_for_display": "December 13, 2017",
+       "release_date_with_abbreviated_month_for_display": "Dec. 13, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3815f66c1978d46fe6a231c5f197d2e3.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3815f66c1978d46fe6a231c5f197d2e3.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "If Lil Pump Was a White Girl",
+       "title_with_featured": "If Lil Pump Was a White Girl",
+       "url": "https://genius.com/Acrylo-if-lil-pump-was-a-white-girl-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1505008",
+        "header_image_url": "https://images.genius.com/23fcb0032f15834d9ef7bf4b7423939e.1000x333x1.jpg",
+        "id": 1505008,
+        "image_url": "https://images.genius.com/90452ade68f3ecd7b9937285ca3286be.288x288x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Acrylo",
+        "url": "https://genius.com/artists/Acrylo"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2259008",
+       "artist_names": "Kiesza",
+       "full_title": "Hideaway (Mitch Murder Remix) by\u00a0Kiesza",
+       "header_image_thumbnail_url": "https://images.genius.com/c428b851889f700956e6779a00fa1fb9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c428b851889f700956e6779a00fa1fb9.1000x1000x1.jpg",
+       "id": 2259008,
+       "language": "en",
+       "lyrics_owner_id": 6924593,
+       "lyrics_state": "complete",
+       "path": "/Kiesza-hideaway-mitch-murder-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kiesza-hideaway-mitch-murder-remix-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 5,
+        "day": 7
+       },
+       "release_date_for_display": "May 7, 2015",
+       "release_date_with_abbreviated_month_for_display": "May. 7, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c428b851889f700956e6779a00fa1fb9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c428b851889f700956e6779a00fa1fb9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Hideaway (Mitch Murder Remix)",
+       "title_with_featured": "Hideaway (Mitch Murder Remix)",
+       "url": "https://genius.com/Kiesza-hideaway-mitch-murder-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/168212",
+        "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+        "id": 168212,
+        "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kiesza",
+        "url": "https://genius.com/artists/Kiesza"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2049899",
+       "artist_names": "Kiesza (Ft. Zac Samuel)",
+       "full_title": "Hideaway (Zac Samuel Remix) by\u00a0Kiesza (Ft.\u00a0Zac\u00a0Samuel)",
+       "header_image_thumbnail_url": "https://images.genius.com/76a428f2dc987426c27a2cc33d448c5c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/76a428f2dc987426c27a2cc33d448c5c.500x500x1.jpg",
+       "id": 2049899,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Kiesza-hideaway-zac-samuel-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kiesza-hideaway-zac-samuel-remix-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2014",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/76a428f2dc987426c27a2cc33d448c5c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/76a428f2dc987426c27a2cc33d448c5c.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Hideaway (Zac Samuel Remix)",
+       "title_with_featured": "Hideaway (Zac Samuel Remix) (Ft.\u00a0Zac\u00a0Samuel)",
+       "url": "https://genius.com/Kiesza-hideaway-zac-samuel-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/530557",
+         "header_image_url": "https://images.genius.com/a00745be10180551dd1dcbe99d36f9eb.1000x676x1.jpg",
+         "id": 530557,
+         "image_url": "https://images.genius.com/fe88ce50a850e06e12825400d5ae18a1.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Zac Samuel",
+         "url": "https://genius.com/artists/Zac-samuel"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/168212",
+        "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+        "id": 168212,
+        "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kiesza",
+        "url": "https://genius.com/artists/Kiesza"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/168212",
+     "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+     "id": 168212,
+     "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiesza",
+     "url": "https://genius.com/artists/Kiesza"
+    },
+    {
+     "api_path": "/artists/187887",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 187887,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Samir Afuni",
+     "url": "https://genius.com/artists/Rami-samir-afuni"
+    }
+   ],
+   "artist": "Kiesza",
+   "lyrics": "33 ContributorsHideaway Lyrics[Produced by Kiesza and Rami Samir Afuni]\n[Directed by Kiesza, Ljuba Castot and Rami Samir Afuni]\n\n[Verse 1]\nTaking me higher than I've ever been before\nI'm holding it back, just want to shout out, give me more\nYou're just a hideaway, you're just a feeling\nYou let my heart escape beyond the meaning\nNot even I can find a way to stop the storm\nOh, baby, it's out of my control, what's going on?\nBut you're just a chance I take to keep on dreaming\nYou're just another day that keeps me breathing\n[Pre-Chorus]\nBaby, I love the way that there's nothing sure\nBaby, don't stop me, hideaway with me some more\n\n[Drop]\nMash it\n\n[Chorus]\nOoh, aah, aah, ooh\nOoh, aah, aah, ooh\nOoh, aah, aah, ooh\nOoh, aah, aah, ooh\n\n[Verse 2]\nYou send me the shiver and the spine, might overflow\nYou're bringing me closer to the edge, I'm letting go\nOh-oh, you're just a hideaway, you're just a feeling\nYou let my heart escape beyond the meaning\nPulling my head into the clouds, I'm floating off\nWhen you can be going, I can't find a way to stop\nOh-oh, you're just a chance I take to keep on dreaming\nYou're just another day that keeps me breathing\n\n[Chorus]\nOoh, aah, aah, ooh\nOoh, aah, aah, ooh\nBaby, I love the way that there's nothing sure (Ooh, aah)\nBaby, don't stop me, hideaway with me some more (Aah, ooh)\nAah, aah, aah (Ooh, aah)\nAah, aah, hideaway with me some more (Aah, ooh)\nYou might also like[Bridge]\nBringing me higher than I've ever been before\nI'm holding it back, just want to shout out, give me more\nBut you're just a hideaway, you're just a feeling\nYou let my heart escape beyond the meaning\nNot even I can find a way to stop the storm\nOh, baby, it's out of my control, what's going on?\nYou're just a chance I take to keep on dreaming\nYou're just another day that keeps me breathing\nAah, aah\nAah, yeah, you're a day that keeps me dreaming\n\n[Drop]\nMash it\n\n[Chorus]\nOoh, aah, aah, ooh\nOoh, aah, aah, ooh\nBaby, I love the way that there's nothing sure (Ooh, aah)\nBaby, don't stop me, hideaway with me some more (Aah, ooh)\nAah, aah, aah (Ooh, aah)\nAah, aah, hideaway with me some more (Aah, ooh)49Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/729847",
+   "artist_names": "Kiesza",
+   "full_title": "Cannonball by\u00a0Kiesza",
+   "header_image_thumbnail_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.300x300x1.png",
+   "header_image_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.1000x1000x1.png",
+   "id": 729847,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Kiesza-cannonball-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Kiesza-cannonball-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 3,
+    "day": 20
+   },
+   "release_date_for_display": "March 20, 2015",
+   "release_date_with_abbreviated_month_for_display": "Mar. 20, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 1,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 26873
+   },
+   "title": "Cannonball",
+   "title_with_featured": "Cannonball",
+   "url": "https://genius.com/Kiesza-cannonball-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/168212",
+    "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+    "id": 168212,
+    "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kiesza",
+    "url": "https://genius.com/artists/Kiesza"
+   },
+   "apple_music_id": "973709581",
+   "apple_music_player_url": "https://genius.com/songs/729847/apple_music_player",
+   "description": {
+    "plain": "CANNONBALL BY KIESZA"
+   },
+   "embed_content": "<div id='rg_embed_link_729847' class='rg_embed_link' data-song-id='729847'>Read <a href='https://genius.com/Kiesza-cannonball-lyrics'>\u201cCannonball\u201d by Kiesza</a> on Genius</div> <script crossorigin src='//genius.com/songs/729847/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2015-03-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/121964",
+    "cover_art_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.1000x1000x1.png",
+    "full_title": "Home (Original Motion Picture Soundtrack) by DreamWorks",
+    "id": 121964,
+    "name": "Home (Original Motion Picture Soundtrack)",
+    "release_date_for_display": "March 23, 2015",
+    "url": "https://genius.com/albums/Dreamworks/Home-original-motion-picture-soundtrack",
+    "artist": {
+     "api_path": "/artists/2201511",
+     "header_image_url": "https://images.genius.com/cf1fad92d5cc5bc5a3d01ac251d1111c.919x334x1.jpg",
+     "id": 2201511,
+     "image_url": "https://images.genius.com/62ac8d135ab0683a958167c096eda2b2.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DreamWorks",
+     "url": "https://genius.com/artists/Dreamworks"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/2201511",
+       "header_image_url": "https://images.genius.com/cf1fad92d5cc5bc5a3d01ac251d1111c.919x334x1.jpg",
+       "id": 2201511,
+       "image_url": "https://images.genius.com/62ac8d135ab0683a958167c096eda2b2.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "DreamWorks",
+       "url": "https://genius.com/artists/Dreamworks"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/57118",
+       "header_image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "id": 57118,
+       "image_url": "https://images.genius.com/733a9682cded0888d3b42ac279cd1e53.660x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roc Nation",
+       "url": "https://genius.com/artists/Roc-nation"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/647073",
+       "header_image_url": "https://images.genius.com/1c60abffcc70c71e0894dbec003639e2.420x280x1.jpg",
+       "id": 647073,
+       "image_url": "https://images.genius.com/2193c11f72c527a794c34dfb521fb5ab.453x453x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Tan",
+       "url": "https://genius.com/artists/Phil-tan"
+      }
+     ]
+    },
+    {
+     "label": "Additional Engineering",
+     "artists": [
+      {
+       "api_path": "/artists/647074",
+       "header_image_url": "https://images.genius.com/161d0ca5661751cf8ac593a97be45080.450x450x1.jpg",
+       "id": 647074,
+       "image_url": "https://images.genius.com/161d0ca5661751cf8ac593a97be45080.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Daniela Rivera",
+       "url": "https://genius.com/artists/Daniela-rivera"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5142151,
+    "annotator_login": "coachofdefence",
+    "api_path": "/referents/5084214",
+    "classification": "unreviewed",
+    "fragment": "Cannonball",
+    "id": 5084214,
+    "is_description": true,
+    "path": "/5084214/Kiesza-cannonball/Cannonball",
+    "range": {
+     "content": "Cannonball"
+    },
+    "song_id": 729847,
+    "url": "https://genius.com/5084214/Kiesza-cannonball/Cannonball",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/729847",
+     "client_timestamps": {
+      "updated_by_human_at": 1618016525,
+      "lyrics_updated_at": 1465729832
+     },
+     "context": "Kiesza",
+     "id": 729847,
+     "image_url": "https://images.genius.com/95e57df0f3ccb84949a93d4b873baa6a.1000x1000x1.png",
+     "link_title": "Cannonball by\u00a0Kiesza",
+     "title": "Cannonball",
+     "type": "Song",
+     "url": "https://genius.com/Kiesza-cannonball-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5084214",
+      "body": {
+       "plain": "CANNONBALL BY KIESZA"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5084214,
+      "pinned": false,
+      "share_url": "https://genius.com/5084214",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5084214/Kiesza-cannonball/Cannonball",
+      "verified": false,
+      "votes_total": 2,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5142151",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/704e986cf4f029288c52734311ba0ddf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/704e986cf4f029288c52734311ba0ddf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/704e986cf4f029288c52734311ba0ddf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/704e986cf4f029288c52734311ba0ddf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/704e986cf4f029288c52734311ba0ddf",
+         "human_readable_role_for_display": null,
+         "id": 5142151,
+         "iq": 119,
+         "login": "coachofdefence",
+         "name": "coachofdefence",
+         "role_for_display": null,
+         "url": "https://genius.com/coachofdefence",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5RRJt45qoOyJSvfVfOde92",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5RRJt45qoOyJSvfVfOde92"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=MLM7BPw8zms"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27453",
+     "header_image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+     "id": 27453,
+     "image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emile Haynie",
+     "url": "https://genius.com/artists/Emile-haynie"
+    },
+    {
+     "api_path": "/artists/27578",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 27578,
+     "image_url": "https://images.genius.com/cde817afd31cef5140dade9b1387eeac.1000x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "StarGate",
+     "url": "https://genius.com/artists/Stargate"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/27453",
+     "header_image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+     "id": 27453,
+     "image_url": "https://images.genius.com/5bbf61d5c1190802e70b8bd9aabde87b.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emile Haynie",
+     "url": "https://genius.com/artists/Emile-haynie"
+    },
+    {
+     "api_path": "/artists/624550",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 624550,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Benjamin Eli Hanna",
+     "url": "https://genius.com/artists/Benjamin-eli-hanna"
+    },
+    {
+     "api_path": "/artists/168212",
+     "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+     "id": 168212,
+     "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiesza",
+     "url": "https://genius.com/artists/Kiesza"
+    },
+    {
+     "api_path": "/artists/1021143",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 1021143,
+     "image_url": "https://images.genius.com/1dc765341b09c358ff8d4c84d5de4d10.239x239x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mikkel Storleer Eriksen",
+     "url": "https://genius.com/artists/Mikkel-storleer-eriksen"
+    },
+    {
+     "api_path": "/artists/401419",
+     "header_image_url": "https://images.genius.com/39fc3149c59c4763afbd3392ec523f20.796x420x1.jpg",
+     "id": 401419,
+     "image_url": "https://images.genius.com/05ba928b80a20b096ebb463c31bb4998.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tor Erik Hermansen",
+     "url": "https://genius.com/artists/Tor-erik-hermansen"
+    }
+   ],
+   "artist": "Kiesza",
+   "lyrics": "8 ContributorsCannonball Lyrics[Chorus]\nI keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nI keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\n\n[Verse 1]\nI was trying to take your heart\nKeep it in a cardboard box\nSo when it gets hard\nYou'll never be far\nAnd your love won't be lost\nAs the bridges fall apart\nI still find a way to cross\nAnd even if you are lost among the stars\nYour love won't go off\n[Refrain]\nFor me me me me it's in this\nBut I need need need more of this\nCan't turn away, feel it push me\n\n[Chorus]\nAnd I keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nI keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nOooh, ooh, ooh, ooh\nLike a cannonball\n\n[Verse 2]\nI can feel you take my love\nAnd tangle it above the ground\nAnd if the strings are cut\nNothing holds me up\nNothing takes me down\n\n[Refrain]\nFor me me me me it's in this\nBut I need need need more of this\nCan't turn away, feel it push me\nYou might also like[Chorus]\nAnd I keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nI keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nOooh, ooh, ooh, ooh\nLike a cannonball\n\n[Bridge]\nWhen I try to fall from your candlelight\nI get lost in your maybe maybe\nI'm just falling\nWhen I try to hide from your love I can't deny it, oh baby maybe\nIt's just my calling\n\n[Chorus]\nBut I keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\nI keep falling\nI keep falling for you\nLike the rain fall\nLike a cannonball\n[Outro]\nOooh, ooh, ooh, ooh\nLike the rain fall\nLike a cannonball\nOooh, ooh, ooh, ooh\nLike the rain fall\nLike a cannonball7Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/523189",
+   "artist_names": "Kiesza (Ft. Joey Bada$$)",
+   "full_title": "Bad Thing by\u00a0Kiesza (Ft.\u00a0Joey\u00a0Bada$$)",
+   "header_image_thumbnail_url": "https://images.genius.com/cf641c770d34811c63b757bea6128a2c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cf641c770d34811c63b757bea6128a2c.600x600x1.jpg",
+   "id": 523189,
+   "language": "en",
+   "lyrics_owner_id": 172030,
+   "lyrics_state": "complete",
+   "path": "/Kiesza-bad-thing-lyrics",
+   "pyongs_count": 12,
+   "relationships_index_url": "https://genius.com/Kiesza-bad-thing-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 10,
+    "day": 17
+   },
+   "release_date_for_display": "October 17, 2014",
+   "release_date_with_abbreviated_month_for_display": "Oct. 17, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cf641c770d34811c63b757bea6128a2c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cf641c770d34811c63b757bea6128a2c.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 10,
+    "iq_earners": 9,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 6086
+   },
+   "title": "Bad Thing",
+   "title_with_featured": "Bad Thing (Ft.\u00a0Joey\u00a0Bada$$)",
+   "url": "https://genius.com/Kiesza-bad-thing-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/18047",
+     "header_image_url": "https://images.genius.com/41507e756fcad49ca69e63616f7af005.1000x1000x1.jpg",
+     "id": 18047,
+     "image_url": "https://images.genius.com/5d14793c3b0bdcb10c9a02ef9907cf7a.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Joey Bada$$",
+     "url": "https://genius.com/artists/Joey-bada",
+     "iq": 28032
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/168212",
+    "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+    "id": 168212,
+    "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kiesza",
+    "url": "https://genius.com/artists/Kiesza"
+   },
+   "apple_music_id": "919278003",
+   "apple_music_player_url": "https://genius.com/songs/523189/apple_music_player",
+   "description": {
+    "plain": "Kiesza steps away from the house style she has become synonymous to so far in her career, and delivers a more smooth sounding Pop/R&b track with the assistance of the Beast Coast\u2019s finest, Joey BADA$$. The record is grimy, and a taste of her debut album Sound of a Woman, out on October 21st with one other feature from Mick Jenkins."
+   },
+   "embed_content": "<div id='rg_embed_link_523189' class='rg_embed_link' data-song-id='523189'>Read <a href='https://genius.com/Kiesza-bad-thing-lyrics'>\u201cBad Thing\u201d by Kiesza</a> on Genius</div> <script crossorigin src='//genius.com/songs/523189/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-10-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/112583",
+    "cover_art_url": "https://images.genius.com/3bb1772b909651a90c9cd528aefd7560.1000x1000x1.png",
+    "full_title": "Sound of a Woman by Kiesza",
+    "id": 112583,
+    "name": "Sound of a Woman",
+    "release_date_for_display": "October 13, 2014",
+    "url": "https://genius.com/albums/Kiesza/Sound-of-a-woman",
+    "artist": {
+     "api_path": "/artists/168212",
+     "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+     "id": 168212,
+     "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiesza",
+     "url": "https://genius.com/artists/Kiesza"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright (p)",
+     "artists": [
+      {
+       "api_path": "/artists/41673",
+       "header_image_url": "https://images.genius.com/e1566a9a7ffa0898e4b332bafd2199b9.734x324x1.jpg",
+       "id": 41673,
+       "image_url": "https://images.genius.com/e3edd59fd14e725d4323cb5d0e4acc52.370x370x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Island Records",
+       "url": "https://genius.com/artists/Island-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 172030,
+    "annotator_login": "zk123",
+    "api_path": "/referents/4082059",
+    "classification": "accepted",
+    "fragment": "Bad Thing",
+    "id": 4082059,
+    "is_description": true,
+    "path": "/4082059/Kiesza-bad-thing/Bad-thing",
+    "range": {
+     "content": "Bad Thing"
+    },
+    "song_id": 523189,
+    "url": "https://genius.com/4082059/Kiesza-bad-thing/Bad-thing",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/523189",
+     "client_timestamps": {
+      "updated_by_human_at": 1583650353,
+      "lyrics_updated_at": 1583650352
+     },
+     "context": "Kiesza",
+     "id": 523189,
+     "image_url": "https://images.genius.com/cf641c770d34811c63b757bea6128a2c.600x600x1.jpg",
+     "link_title": "Bad Thing by\u00a0Kiesza (Ft.\u00a0Joey\u00a0Bada$$)",
+     "title": "Bad Thing",
+     "type": "Song",
+     "url": "https://genius.com/Kiesza-bad-thing-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4082059",
+      "body": {
+       "plain": "Kiesza steps away from the house style she has become synonymous to so far in her career, and delivers a more smooth sounding Pop/R&b track with the assistance of the Beast Coast\u2019s finest, Joey BADA$$. The record is grimy, and a taste of her debut album Sound of a Woman, out on October 21st with one other feature from Mick Jenkins."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4082059,
+      "pinned": false,
+      "share_url": "https://genius.com/4082059",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4082059/Kiesza-bad-thing/Bad-thing",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.7096774193548387,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/172030",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/da3c5431b3fb000ec91bfb3dbb370112",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/da3c5431b3fb000ec91bfb3dbb370112",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/da3c5431b3fb000ec91bfb3dbb370112",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/da3c5431b3fb000ec91bfb3dbb370112",
+         "human_readable_role_for_display": "Editor",
+         "id": 172030,
+         "iq": 274714,
+         "login": "zk123",
+         "name": "Zk123",
+         "role_for_display": "editor",
+         "url": "https://genius.com/zk123",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.27956989247311825,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/329429",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/0bdf7710f0a36d065f9648f590d6aa2d.jpeg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/0bdf7710f0a36d065f9648f590d6aa2d.jpeg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/0bdf7710f0a36d065f9648f590d6aa2d.jpeg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/0bdf7710f0a36d065f9648f590d6aa2d.jpeg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/0bdf7710f0a36d065f9648f590d6aa2d.jpeg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 329429,
+         "iq": 2951,
+         "login": "meekMeL",
+         "name": "MeekMeL",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/meekMeL",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.01075268817204301,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/343483",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/fae65fdb981acb4255e2a7c9e9f4202e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/fae65fdb981acb4255e2a7c9e9f4202e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/fae65fdb981acb4255e2a7c9e9f4202e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/fae65fdb981acb4255e2a7c9e9f4202e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/fae65fdb981acb4255e2a7c9e9f4202e",
+         "human_readable_role_for_display": "Contributor",
+         "id": 343483,
+         "iq": 28792,
+         "login": "oppi",
+         "name": "Oppi",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/oppi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:51SfkzdK53bds20skhW6Sg",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/51SfkzdK53bds20skhW6Sg"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4GKAWAQZjWw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/187887",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 187887,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Samir Afuni",
+     "url": "https://genius.com/artists/Rami-samir-afuni"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2317",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 2317,
+     "image_url": "https://images.genius.com/45742cc8bfd705e9225dea5d3e696827.510x510x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Latif",
+     "url": "https://genius.com/artists/Latif"
+    },
+    {
+     "api_path": "/artists/987736",
+     "header_image_url": "https://images.genius.com/ab8fc808d4c85564fc30c052db6760a4.1000x667x1.jpg",
+     "id": 987736,
+     "image_url": "https://images.genius.com/516a977b87a661e9f035d18937a40e75.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "SAINt JHN",
+     "url": "https://genius.com/artists/Saint-jhn",
+     "iq": 758
+    },
+    {
+     "api_path": "/artists/187887",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 187887,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Samir Afuni",
+     "url": "https://genius.com/artists/Rami-samir-afuni"
+    },
+    {
+     "api_path": "/artists/18047",
+     "header_image_url": "https://images.genius.com/41507e756fcad49ca69e63616f7af005.1000x1000x1.jpg",
+     "id": 18047,
+     "image_url": "https://images.genius.com/5d14793c3b0bdcb10c9a02ef9907cf7a.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Joey Bada$$",
+     "url": "https://genius.com/artists/Joey-bada",
+     "iq": 28032
+    },
+    {
+     "api_path": "/artists/168212",
+     "header_image_url": "https://images.genius.com/7b5e774f87c7ceb39d4f2db29aabd34d.1000x1000x1.jpg",
+     "id": 168212,
+     "image_url": "https://images.genius.com/ea237ae42856209597f1d805f98c5634.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kiesza",
+     "url": "https://genius.com/artists/Kiesza"
+    }
+   ],
+   "artist": "Kiesza",
+   "lyrics": "10 ContributorsBad Thing Lyrics[Intro: Joey Bada$$]\nYo, yo, yo, yo\nCome fuck with a pro\nBad thing, bad thing\nWhat you saying mama\n\n[Verse 1: Kiesza]\nTougher than a leather goose\nI wanna say your last name\nYou ain't playin' by the rules\nBut you gon\u2019 change the whole game\nI don\u2019t wanna suit and shade that cool\nWhile until the love again\nDanger when you make me ooh\nBut I think that\u2019s a good thing\n[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh\n\n[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh\n\n[Verse 2: Kiesza]\nI don\u2019t want to ever choose\nKeep it jumpin' like a trampoline\nNo matter what you put me through\nYou always make it worth it\nWe go together me and you\nReebok's and a hoop chain\nEnough to make me say I do\nAnd I think that\u2019s a good thing\n\n[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh\nYou might also like[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh\n\n\n[Verse 3: Joey Bada$$]\nBut in conclusion, it's only time we losing\nWe get deluded by these illusions, constant confusions\nAnd every movin', any time that we doin'\nWhat could be a great duet\nGets neglected, feel my solar plexus tryna get you back babe\nTell me where it's at, where it's at, at, at\nGotta pack of that yack, yack, yack\nThat'll probably snap that back\nHit the cat till it's cataracts\nBut you like the sound of that\nNow bring it back, we the perfect match to start a culture, might start it happen\nDon't get too attached, cause I adapt to change quick see\nMy way of livin' fast, be on my switchin' lanes shit\nYou're sick of all that anguish, cause you know how that game get\nIf you ain't speaking that dollar bill, then you ain't speaking that language\nI'm, dancin' with this little devil\nI, condescend when usually I'm on a higher level\nSip a little Red Bull\nNow we growing wings, she's the girl of my dreams\nI could, give her my last name but that's a bad thing\n[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh\n\n[Hook: Kiesza & Joey Bada$$]\nMaybe that\u2019s a bad thing, bad thing\nMaybe that\u2019s a bad thing, bad thing\nI\u2019mma fiend for that thing, that thing\nOooh12Embed"
+  }
+ ]
+}

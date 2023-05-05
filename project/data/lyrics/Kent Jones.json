@@ -1,0 +1,2809 @@
+{
+ "alternate_names": [
+  "Ken Jones"
+ ],
+ "api_path": "/artists/34532",
+ "description": {
+  "plain": "Daryl \u201cKent\u201d Jones is a Tallahase-bred singer, rapper and record producer who signed to DJ Khaled\u2019s We The Best record label in 2015. Best known for the single \u201cDon\u2019t Mind\u201d. Works closely with Cool & Dre, Illa and other Miami based artists."
+ },
+ "facebook_name": "",
+ "followers_count": 49,
+ "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+ "id": 34532,
+ "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Kent Jones",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Kent-jones",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 1591,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4135929,
+  "annotator_login": "whatscoolerthanbeingcool",
+  "api_path": "/referents/10574545",
+  "classification": "accepted",
+  "fragment": "Kent Jones",
+  "id": 10574545,
+  "is_description": true,
+  "path": "/10574545/Kent-jones/Kent-jones",
+  "range": {
+   "content": "Kent Jones"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10574545/Kent-jones/Kent-jones",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/34532",
+   "context": null,
+   "id": 34532,
+   "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+   "link_title": "Kent Jones",
+   "title": "Kent Jones",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kent-jones"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10574545",
+    "body": {
+     "plain": "Daryl \u201cKent\u201d Jones is a Tallahase-bred singer, rapper and record producer who signed to DJ Khaled\u2019s We The Best record label in 2015. Best known for the single \u201cDon\u2019t Mind\u201d. Works closely with Cool & Dre, Illa and other Miami based artists."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 10574545,
+    "pinned": false,
+    "share_url": "https://genius.com/10574545",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/10574545/Kent-jones/Kent-jones",
+    "verified": false,
+    "votes_total": 2,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4135929",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/4eb2be053719296c7a6a969a4e4f9ef7",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/4eb2be053719296c7a6a969a4e4f9ef7",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/4eb2be053719296c7a6a969a4e4f9ef7",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/4eb2be053719296c7a6a969a4e4f9ef7",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/4eb2be053719296c7a6a969a4e4f9ef7",
+       "human_readable_role_for_display": "Contributor",
+       "id": 4135929,
+       "iq": 26795,
+       "login": "whatscoolerthanbeingcool",
+       "name": "whatscoolerthanbeingcool",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/whatscoolerthanbeingcool",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/3213280",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/bfbb87e8b247da88c74515a48f7ab677",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/bfbb87e8b247da88c74515a48f7ab677",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/bfbb87e8b247da88c74515a48f7ab677",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/bfbb87e8b247da88c74515a48f7ab677",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 3213280,
+  "iq": 1591,
+  "login": "KentJones",
+  "name": "Kent Jones",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/KentJones",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 17,
+   "api_path": "/songs/2332450",
+   "artist_names": "Kent Jones",
+   "full_title": "Don't Mind by\u00a0Kent\u00a0Jones",
+   "header_image_thumbnail_url": "https://images.genius.com/41f9c9e98f9a83f73e3c30e6e2d59e07.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/41f9c9e98f9a83f73e3c30e6e2d59e07.800x800x1.jpg",
+   "id": 2332450,
+   "language": "en",
+   "lyrics_owner_id": 2370963,
+   "lyrics_state": "complete",
+   "path": "/Kent-jones-dont-mind-lyrics",
+   "pyongs_count": 34,
+   "relationships_index_url": "https://genius.com/Kent-jones-dont-mind-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 4,
+    "day": 18
+   },
+   "release_date_for_display": "April 18, 2016",
+   "release_date_with_abbreviated_month_for_display": "Apr. 18, 2016",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/46f1ee74bc12fec739b86fc9829ed431.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/46f1ee74bc12fec739b86fc9829ed431.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 108,
+    "iq_earners": 107,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 9,
+    "hot": false,
+    "pageviews": 1262129
+   },
+   "title": "Don\u2019t Mind",
+   "title_with_featured": "Don't Mind",
+   "url": "https://genius.com/Kent-jones-dont-mind-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/34532",
+    "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+    "id": 34532,
+    "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Kent Jones",
+    "url": "https://genius.com/artists/Kent-jones",
+    "iq": 1591
+   },
+   "apple_music_id": "1132379469",
+   "apple_music_player_url": "https://genius.com/songs/2332450/apple_music_player",
+   "description": {
+    "plain": "DJ Khaled prot\u00e9g\u00e9 Kent Jones released \u201cDon\u2019t Mind\u201d in the summer of 2015 as part of his Tours mixtape.\n\nThe Florida-native started out as a producer. He has worked with Fat Joe and Cool & Dre before signing with Khaled\u2019s We The Best label in 2014.\n\nJones is a trained jazz pianist and learned music theory and composition at school, as he told an interviewer in early 2016:\n\nI\u2019m very musically inclined. I have perfect pitch. I was gonna go to college to become a jazz professor.\n\nThe track interpolates some of the lyrics and melody from legendary R&B/soul singer Barry White\u2019s 1994 hit \u201cPractice What You Preach.\u201d It also uses greetings in English, French, Japanese, Spanish, and Haitian Creole, but Jones says he doesn\u2019t speak any language other than English."
+   },
+   "embed_content": "<div id='rg_embed_link_2332450' class='rg_embed_link' data-song-id='2332450'>Read <a href='https://genius.com/Kent-jones-dont-mind-lyrics'>\u201cDon't Mind\u201d by Kent\u00a0Jones</a> on Genius</div> <script crossorigin src='//genius.com/songs/2332450/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-04-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/150899",
+    "cover_art_url": "https://images.genius.com/7825e59390dbc37d02a3bd0442e10082.1000x1000x1.jpg",
+    "full_title": "Tours by Kent Jones",
+    "id": 150899,
+    "name": "Tours",
+    "release_date_for_display": "July 27, 2015",
+    "url": "https://genius.com/albums/Kent-jones/Tours",
+    "artist": {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Released by",
+     "artists": [
+      {
+       "api_path": "/artists/1239315",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1239315,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Epidemic Records",
+       "url": "https://genius.com/artists/Epidemic-records"
+      },
+      {
+       "api_path": "/artists/1015065",
+       "header_image_url": "https://images.genius.com/72a90e876d4648e321eb51c3014d4fad.1000x210x1.png",
+       "id": 1015065,
+       "image_url": "https://images.genius.com/2ae58bc438de3376626cf98fab611008.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "We The Best Music",
+       "url": "https://genius.com/artists/We-the-best-music"
+      },
+      {
+       "api_path": "/artists/49879",
+       "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+       "id": 49879,
+       "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Epic Records",
+       "url": "https://genius.com/artists/Epic-records",
+       "iq": 100
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 32097,
+    "annotator_login": "Lynn",
+    "api_path": "/referents/7996620",
+    "classification": "accepted",
+    "fragment": "Don\u2019t Mind",
+    "id": 7996620,
+    "is_description": true,
+    "path": "/7996620/Kent-jones-dont-mind/Dont-mind",
+    "range": {
+     "content": "Don't Mind"
+    },
+    "song_id": 2332450,
+    "url": "https://genius.com/7996620/Kent-jones-dont-mind/Dont-mind",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2332450",
+     "client_timestamps": {
+      "updated_by_human_at": 1619049977,
+      "lyrics_updated_at": 1619049892
+     },
+     "context": "Kent Jones",
+     "id": 2332450,
+     "image_url": "https://images.rapgenius.com/46f1ee74bc12fec739b86fc9829ed431.1000x1000x1.jpg",
+     "link_title": "Don\u2019t Mind by\u00a0Kent\u00a0Jones",
+     "title": "Don't Mind",
+     "type": "Song",
+     "url": "https://genius.com/Kent-jones-dont-mind-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7996620",
+      "body": {
+       "plain": "DJ Khaled prot\u00e9g\u00e9 Kent Jones released \u201cDon\u2019t Mind\u201d in the summer of 2015 as part of his Tours mixtape.\n\nThe Florida-native started out as a producer. He has worked with Fat Joe and Cool & Dre before signing with Khaled\u2019s We The Best label in 2014.\n\nJones is a trained jazz pianist and learned music theory and composition at school, as he told an interviewer in early 2016:\n\nI\u2019m very musically inclined. I have perfect pitch. I was gonna go to college to become a jazz professor.\n\nThe track interpolates some of the lyrics and melody from legendary R&B/soul singer Barry White\u2019s 1994 hit \u201cPractice What You Preach.\u201d It also uses greetings in English, French, Japanese, Spanish, and Haitian Creole, but Jones says he doesn\u2019t speak any language other than English."
+      },
+      "comment_count": 3,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 7996620,
+      "pinned": false,
+      "share_url": "https://genius.com/7996620",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/7996620/Kent-jones-dont-mind/Dont-mind",
+      "verified": false,
+      "votes_total": 67,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6347305389221557,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2290096",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/029689c21eddf633a6b12524dd4b1cf7.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/029689c21eddf633a6b12524dd4b1cf7.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/029689c21eddf633a6b12524dd4b1cf7.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/029689c21eddf633a6b12524dd4b1cf7.1000x1000x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7baf8b71a6344900d7028eb82ba9c8a4.851x315x1.png",
+         "human_readable_role_for_display": "Verified Artist",
+         "id": 2290096,
+         "iq": 4129,
+         "login": "swissspy",
+         "name": "Sam Himself",
+         "role_for_display": "verified_artist",
+         "url": "https://genius.com/swissspy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.17964071856287425,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/32097",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 32097,
+         "iq": 240,
+         "login": "Lynn",
+         "name": "Lynn",
+         "role_for_display": null,
+         "url": "https://genius.com/Lynn",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1437125748502994,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1545969",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/565d2298db901f18260ca21fec4660d0",
+         "human_readable_role_for_display": "Editor",
+         "id": 1545969,
+         "iq": 28427,
+         "login": "wiz_teresa",
+         "name": "Teresa Fardella",
+         "role_for_display": "editor",
+         "url": "https://genius.com/wiz_teresa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03592814371257485,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3065183",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/64a7ceee95fdc5fcfe36769dcd17839f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/64a7ceee95fdc5fcfe36769dcd17839f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/64a7ceee95fdc5fcfe36769dcd17839f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/64a7ceee95fdc5fcfe36769dcd17839f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/64a7ceee95fdc5fcfe36769dcd17839f",
+         "human_readable_role_for_display": null,
+         "id": 3065183,
+         "iq": 123,
+         "login": "frankedher0cean",
+         "name": "frankedher0cean",
+         "role_for_display": null,
+         "url": "https://genius.com/frankedher0cean",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.005988023952095808,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1931244",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/3655b7947c455ad9378be8cd9dc63f62",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/3655b7947c455ad9378be8cd9dc63f62",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/3655b7947c455ad9378be8cd9dc63f62",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/3655b7947c455ad9378be8cd9dc63f62",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f45814fd26ee32464af77c72e7e0e3d0.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1931244,
+         "iq": 337717,
+         "login": "eatthemooncake",
+         "name": "\u200beatthemooncake",
+         "role_for_display": "editor",
+         "url": "https://genius.com/eatthemooncake",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=n49qi-dU9IE"
+    },
+    {
+     "native_uri": "spotify:track:27PmvZoffODNFW2p7ehZTQ",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/27PmvZoffODNFW2p7ehZTQ"
+    },
+    {
+     "attribution": "kentjones",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kentjones/05-dont-mind-prod-by-kent"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/932957",
+     "header_image_url": "https://images.genius.com/785d06c68da4b6b69c578e9af3dc3a05.300x300x1.jpg",
+     "id": 932957,
+     "image_url": "https://images.genius.com/3f88d95ec08dedcf86a3d21fedb1f06f.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool N Dre",
+     "url": "https://genius.com/artists/Cool-n-dre"
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/837376",
+       "artist_names": "Barry White",
+       "full_title": "Practice What You Preach by\u00a0Barry\u00a0White",
+       "header_image_thumbnail_url": "https://images.genius.com/bac4af54d66990f5ec53a3c9379c5762.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bac4af54d66990f5ec53a3c9379c5762.997x997x1.jpg",
+       "id": 837376,
+       "language": "en",
+       "lyrics_owner_id": 3492882,
+       "lyrics_state": "complete",
+       "path": "/Barry-white-practice-what-you-preach-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Barry-white-practice-what-you-preach-sample",
+       "release_date_components": {
+        "year": 1994,
+        "month": 10,
+        "day": 4
+       },
+       "release_date_for_display": "October 4, 1994",
+       "release_date_with_abbreviated_month_for_display": "Oct. 4, 1994",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bac4af54d66990f5ec53a3c9379c5762.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bac4af54d66990f5ec53a3c9379c5762.997x997x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 93621
+       },
+       "title": "Practice What You Preach",
+       "title_with_featured": "Practice What You Preach",
+       "url": "https://genius.com/Barry-white-practice-what-you-preach-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3719",
+        "header_image_url": "https://images.genius.com/8137bd2e4bcb1d843dc287fb887c221c.1000x962x1.jpg",
+        "id": 3719,
+        "image_url": "https://images.genius.com/1e97de0c57d484cdbd654d1e8cc3fa13.825x825x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Barry White",
+        "url": "https://genius.com/artists/Barry-white"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2467818",
+       "artist_names": "DOMONIK CARTER (Ft. DOMONIK CARTER)",
+       "full_title": "My girl by\u00a0DOMONIK\u00a0CARTER (Ft.\u00a0DOMONIK\u00a0CARTER)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "id": 2467818,
+       "language": "en",
+       "lyrics_owner_id": 3178683,
+       "lyrics_state": "complete",
+       "path": "/Domonik-carter-my-girl-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Domonik-carter-my-girl-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 5,
+        "day": 5
+       },
+       "release_date_for_display": "May 5, 2016",
+       "release_date_with_abbreviated_month_for_display": "May. 5, 2016",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "My girl",
+       "title_with_featured": "My girl (Ft.\u00a0DOMONIK\u00a0CARTER)",
+       "url": "https://genius.com/Domonik-carter-my-girl-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/661579",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 661579,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "DOMONIK CARTER",
+         "url": "https://genius.com/artists/Domonik-carter"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/661579",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 661579,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DOMONIK CARTER",
+        "url": "https://genius.com/artists/Domonik-carter"
+       }
+      },
+      {
+       "annotation_count": 9,
+       "api_path": "/songs/3254112",
+       "artist_names": "DRAM (Ft. Trippie Redd)",
+       "full_title": "ILL NANA by\u00a0DRAM (Ft.\u00a0Trippie\u00a0Redd)",
+       "header_image_thumbnail_url": "https://images.genius.com/847c64de4142a63c5abd2579afa1be42.300x300x1.png",
+       "header_image_url": "https://images.genius.com/847c64de4142a63c5abd2579afa1be42.1000x1000x1.png",
+       "id": 3254112,
+       "language": "en",
+       "lyrics_owner_id": 1849231,
+       "lyrics_state": "complete",
+       "path": "/Dram-ill-nana-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Dram-ill-nana-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 9,
+        "day": 29
+       },
+       "release_date_for_display": "September 29, 2017",
+       "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/847c64de4142a63c5abd2579afa1be42.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/847c64de4142a63c5abd2579afa1be42.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 49122
+       },
+       "title": "ILL NANA",
+       "title_with_featured": "ILL NANA (Ft.\u00a0Trippie\u00a0Redd)",
+       "url": "https://genius.com/Dram-ill-nana-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1086436",
+         "header_image_url": "https://images.genius.com/cb8862d96235af8750677d64e92fee5a.1000x667x1.jpg",
+         "id": 1086436,
+         "image_url": "https://images.genius.com/1f0fcb626715f7bb0d47c9c2e01b7473.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Trippie Redd",
+         "url": "https://genius.com/artists/Trippie-redd",
+         "iq": 7274
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/241761",
+        "header_image_url": "https://images.genius.com/6356cb78f83b5bd8c293e6eb87909206.1000x750x1.jpg",
+        "id": 241761,
+        "image_url": "https://images.genius.com/6356cb78f83b5bd8c293e6eb87909206.1000x750x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "DRAM",
+        "url": "https://genius.com/artists/Dram",
+        "iq": 10211
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Kent-jones-dont-mind-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5176413",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Don't Mind by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/7ed53c10db5504558c982458d353bc84.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7ed53c10db5504558c982458d353bc84.1000x1000x1.jpg",
+       "id": 5176413,
+       "language": "en",
+       "lyrics_owner_id": 9921177,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-dont-mind-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-dont-mind-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 10,
+        "day": 14
+       },
+       "release_date_for_display": "October 14, 2016",
+       "release_date_with_abbreviated_month_for_display": "Oct. 14, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7ed53c10db5504558c982458d353bc84.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7ed53c10db5504558c982458d353bc84.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Don\u2019t Mind",
+       "title_with_featured": "Don't Mind",
+       "url": "https://genius.com/Kidz-bop-kids-dont-mind-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6905875",
+       "artist_names": "Fvck Vibez",
+       "full_title": "H 0 L 4! M A by\u00a0Fvck\u00a0Vibez",
+       "header_image_thumbnail_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.500x500x1.jpg",
+       "id": 6905875,
+       "language": "es",
+       "lyrics_owner_id": 7003325,
+       "lyrics_state": "complete",
+       "path": "/Fvck-vibez-h-0-l-4-m-a-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fvck-vibez-h-0-l-4-m-a-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 2,
+        "day": 12
+       },
+       "release_date_for_display": "February 12, 2017",
+       "release_date_with_abbreviated_month_for_display": "Feb. 12, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "H 0 L 4! M A",
+       "title_with_featured": "H 0 L 4! M A",
+       "url": "https://genius.com/Fvck-vibez-h-0-l-4-m-a-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2337502",
+        "header_image_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.500x500x1.jpg",
+        "id": 2337502,
+        "image_url": "https://images.genius.com/8ac9c4c46f78b999c5a8829b1e34884d.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fvck Vibez",
+        "url": "https://genius.com/artists/Fvck-vibez"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5565192",
+       "artist_names": "Eric Bellinger",
+       "full_title": "Don't Mind (E-Mix) by\u00a0Eric\u00a0Bellinger",
+       "header_image_thumbnail_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.499x499x1.jpg",
+       "id": 5565192,
+       "language": "en",
+       "lyrics_owner_id": 4124339,
+       "lyrics_state": "complete",
+       "path": "/Eric-bellinger-dont-mind-e-mix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Eric-bellinger-dont-mind-e-mix-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 11,
+        "day": 1
+       },
+       "release_date_for_display": "November 1, 2017",
+       "release_date_with_abbreviated_month_for_display": "Nov. 1, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1f468d11dc83ea8bc1156dc4a4003940.499x499x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Don\u2019t Mind (E-Mix)",
+       "title_with_featured": "Don't Mind (E-Mix)",
+       "url": "https://genius.com/Eric-bellinger-dont-mind-e-mix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/19233",
+        "header_image_url": "https://images.genius.com/52650bb3c8129f42ce36e49b924dda9c.722x474x1.png",
+        "id": 19233,
+        "image_url": "https://images.genius.com/981ba212b47b48ec9ca0611dd5de7c72.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Eric Bellinger",
+        "url": "https://genius.com/artists/Eric-bellinger",
+        "iq": 410
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3809156",
+       "artist_names": "Kent Jones",
+       "full_title": "Don't Mind (Sickick Remix) by\u00a0Kent\u00a0Jones",
+       "header_image_thumbnail_url": "https://images.genius.com/96adc818667c15ee6b9555ce1928d979.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/96adc818667c15ee6b9555ce1928d979.500x500x1.jpg",
+       "id": 3809156,
+       "language": "en",
+       "lyrics_owner_id": 2828575,
+       "lyrics_state": "complete",
+       "path": "/Kent-jones-dont-mind-sickick-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kent-jones-dont-mind-sickick-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 1
+       },
+       "release_date_for_display": "September 1, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 1, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/96adc818667c15ee6b9555ce1928d979.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/96adc818667c15ee6b9555ce1928d979.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 14585
+       },
+       "title": "Don\u2019t Mind (Sickick Remix)",
+       "title_with_featured": "Don't Mind (Sickick Remix)",
+       "url": "https://genius.com/Kent-jones-dont-mind-sickick-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/34532",
+        "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+        "id": 34532,
+        "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Kent Jones",
+        "url": "https://genius.com/artists/Kent-jones",
+        "iq": 1591
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2828036",
+       "artist_names": "HYESOS BLYA (Ft. 3 Unique)",
+       "full_title": "Don't mind by\u00a0HYESOS\u00a0BLYA (Ft.\u00a03\u00a0Unique)",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "id": 2828036,
+       "language": "en",
+       "lyrics_owner_id": 3333275,
+       "lyrics_state": "complete",
+       "path": "/Hyesos-blya-dont-mind-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Hyesos-blya-dont-mind-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 7,
+        "day": 7
+       },
+       "release_date_for_display": "July 7, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jul. 7, 2016",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Don\u2019t mind",
+       "title_with_featured": "Don't mind (Ft.\u00a03\u00a0Unique)",
+       "url": "https://genius.com/Hyesos-blya-dont-mind-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/983847",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 983847,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "3 Unique",
+         "url": "https://genius.com/artists/3-unique"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2778980",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2778980,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "HYESOS BLYA",
+        "url": "https://genius.com/artists/Hyesos-blya"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Kent-jones-dont-mind-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/2494651",
+       "artist_names": "Devvon Terrell",
+       "full_title": "Don't Mind (Remix) by\u00a0Devvon\u00a0Terrell",
+       "header_image_thumbnail_url": "https://images.genius.com/d766ec576ccb16932c8fa57ef873ced2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d766ec576ccb16932c8fa57ef873ced2.1000x1000x1.jpg",
+       "id": 2494651,
+       "language": "en",
+       "lyrics_owner_id": 3251451,
+       "lyrics_state": "complete",
+       "path": "/Devvon-terrell-dont-mind-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Devvon-terrell-dont-mind-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 6,
+        "day": 6
+       },
+       "release_date_for_display": "June 6, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jun. 6, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d766ec576ccb16932c8fa57ef873ced2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d766ec576ccb16932c8fa57ef873ced2.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 15538
+       },
+       "title": "Don\u2019t Mind (Remix)",
+       "title_with_featured": "Don't Mind (Remix)",
+       "url": "https://genius.com/Devvon-terrell-dont-mind-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43582",
+        "header_image_url": "https://images.genius.com/dca40185de86cbac43b7637f827731b5.1000x667x1.jpg",
+        "id": 43582,
+        "image_url": "https://images.genius.com/383aef6b1feee98feb689ff8f1d95dfe.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Devvon Terrell",
+        "url": "https://genius.com/artists/Devvon-terrell",
+        "iq": 2810
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2929190",
+       "artist_names": "Ram's 94",
+       "full_title": "Quand elle passe (Remix Don't Mind) by\u00a0Ram's\u00a094",
+       "header_image_thumbnail_url": "https://images.genius.com/92a7c75fc1666ccc2f09ef52584b43dd.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/92a7c75fc1666ccc2f09ef52584b43dd.469x469x1.jpg",
+       "id": 2929190,
+       "language": "fr",
+       "lyrics_owner_id": 3792370,
+       "lyrics_state": "complete",
+       "path": "/Rams-94-quand-elle-passe-remix-dont-mind-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Rams-94-quand-elle-passe-remix-dont-mind-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 11,
+        "day": 21
+       },
+       "release_date_for_display": "November 21, 2016",
+       "release_date_with_abbreviated_month_for_display": "Nov. 21, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/92a7c75fc1666ccc2f09ef52584b43dd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/92a7c75fc1666ccc2f09ef52584b43dd.469x469x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 5955
+       },
+       "title": "Quand elle passe (Remix Don\u2019t Mind)",
+       "title_with_featured": "Quand elle passe (Remix Don't Mind)",
+       "url": "https://genius.com/Rams-94-quand-elle-passe-remix-dont-mind-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/238281",
+        "header_image_url": "https://images.genius.com/753c2ab8e9fd0939b504b804b63d0a39.960x719x1.jpg",
+        "id": 238281,
+        "image_url": "https://images.genius.com/92a7c75fc1666ccc2f09ef52584b43dd.469x469x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ram\u2019s 94",
+        "url": "https://genius.com/artists/Rams-94"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2496061",
+       "artist_names": "Eric Bellinger",
+       "full_title": "Don\u2019t Mind by\u00a0Eric\u00a0Bellinger",
+       "header_image_thumbnail_url": "https://images.genius.com/5586102e32c35c182bb7ca1492d85c44.275x275x1.jpg",
+       "header_image_url": "https://images.genius.com/5586102e32c35c182bb7ca1492d85c44.275x275x1.jpg",
+       "id": 2496061,
+       "language": "en",
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/Eric-bellinger-dont-mind-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Eric-bellinger-dont-mind-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 6,
+        "day": 10
+       },
+       "release_date_for_display": "June 10, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jun. 10, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5586102e32c35c182bb7ca1492d85c44.275x275x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5586102e32c35c182bb7ca1492d85c44.275x275x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Don\u2019t Mind",
+       "title_with_featured": "Don\u2019t Mind",
+       "url": "https://genius.com/Eric-bellinger-dont-mind-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/19233",
+        "header_image_url": "https://images.genius.com/52650bb3c8129f42ce36e49b924dda9c.722x474x1.png",
+        "id": 19233,
+        "image_url": "https://images.genius.com/981ba212b47b48ec9ca0611dd5de7c72.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Eric Bellinger",
+        "url": "https://genius.com/artists/Eric-bellinger",
+        "iq": 410
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2819852",
+       "artist_names": "Kent Jones (Ft. Lil Wayne & Pitbull)",
+       "full_title": "Don't Mind (Remix) by\u00a0Kent\u00a0Jones (Ft.\u00a0Lil\u00a0Wayne & Pitbull)",
+       "header_image_thumbnail_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.1000x1000x1.jpg",
+       "id": 2819852,
+       "language": "en",
+       "lyrics_owner_id": 1130219,
+       "lyrics_state": "complete",
+       "path": "/Kent-jones-dont-mind-remix-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Kent-jones-dont-mind-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 7,
+        "day": 12
+       },
+       "release_date_for_display": "July 12, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jul. 12, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 31493
+       },
+       "title": "Don\u2019t Mind (Remix)",
+       "title_with_featured": "Don't Mind (Remix) (Ft.\u00a0Lil\u00a0Wayne & Pitbull)",
+       "url": "https://genius.com/Kent-jones-dont-mind-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/628",
+         "header_image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+         "id": 628,
+         "image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Pitbull",
+         "url": "https://genius.com/artists/Pitbull",
+         "iq": 280
+        },
+        {
+         "api_path": "/artists/4",
+         "header_image_url": "https://images.genius.com/3b3485a28f2eb47c5ff3d7691e71bcba.1000x333x1.jpg",
+         "id": 4,
+         "image_url": "https://images.genius.com/aa8b9dce2492fe413c23f77b643788fd.914x914x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Lil Wayne",
+         "url": "https://genius.com/artists/Lil-wayne",
+         "iq": 4697
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/34532",
+        "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+        "id": 34532,
+        "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Kent Jones",
+        "url": "https://genius.com/artists/Kent-jones",
+        "iq": 1591
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8303300",
+       "artist_names": "Anne-Marie",
+       "full_title": "In Common/Don't Mind (BCC 1Xtra Live Lounge) by\u00a0Anne-Marie",
+       "header_image_thumbnail_url": "https://images.genius.com/c25b5becb938dd8db85317f77431c9f0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c25b5becb938dd8db85317f77431c9f0.399x399x1.jpg",
+       "id": 8303300,
+       "language": "en",
+       "lyrics_owner_id": 16141318,
+       "lyrics_state": "complete",
+       "path": "/Anne-marie-in-common-dont-mind-bcc-1xtra-live-lounge-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Anne-marie-in-common-dont-mind-bcc-1xtra-live-lounge-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 7,
+        "day": 20
+       },
+       "release_date_for_display": "July 20, 2016",
+       "release_date_with_abbreviated_month_for_display": "Jul. 20, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c25b5becb938dd8db85317f77431c9f0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c25b5becb938dd8db85317f77431c9f0.399x399x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "In Common/Don\u2019t Mind (BCC 1Xtra Live Lounge)",
+       "title_with_featured": "In Common/Don't Mind (BCC 1Xtra Live Lounge)",
+       "url": "https://genius.com/Anne-marie-in-common-dont-mind-bcc-1xtra-live-lounge-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/296675",
+        "header_image_url": "https://images.genius.com/924446021b762a8044f4243b63031e5a.1000x333x1.jpg",
+        "id": 296675,
+        "image_url": "https://images.genius.com/c25b5becb938dd8db85317f77431c9f0.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Anne-Marie",
+        "url": "https://genius.com/artists/Anne-marie",
+        "iq": 3810
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/3213280",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/bfbb87e8b247da88c74515a48f7ab677",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/bfbb87e8b247da88c74515a48f7ab677",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/bfbb87e8b247da88c74515a48f7ab677",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/bfbb87e8b247da88c74515a48f7ab677",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 3213280,
+     "iq": 1591,
+     "login": "KentJones",
+     "name": "Kent Jones",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/KentJones",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/34532",
+      "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+      "id": 34532,
+      "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Kent Jones",
+      "url": "https://genius.com/artists/Kent-jones",
+      "iq": 1591
+     },
+     "user": {
+      "api_path": "/users/3213280",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/bfbb87e8b247da88c74515a48f7ab677",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/bfbb87e8b247da88c74515a48f7ab677",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/bfbb87e8b247da88c74515a48f7ab677",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/bfbb87e8b247da88c74515a48f7ab677",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 3213280,
+      "iq": 1591,
+      "login": "KentJones",
+      "name": "Kent Jones",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/KentJones",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/158",
+     "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "id": 158,
+     "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Khaled",
+     "url": "https://genius.com/artists/Dj-khaled",
+     "iq": 5228
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   ],
+   "artist": "Kent Jones",
+   "lyrics": "108 ContributorsDon\u2019t Mind Lyrics[Intro]\nHola, holana\n\n[Pre-Chorus]\nKeep telling me this and telling me that\nYou said once you take me with you, I\u2019ll never go back\nNow I got a lesson, that I want to teach\nI'ma show you that where you from don\u2019t matter to me\n\n[Chorus]\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?\", she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?\", she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\n[Verse 1]\nAfrican American for sho\nI told her, \"Baby come and ride the rodeo\"\nEvery time I come around man, I go for broke\nShe gives me desktop til' I overload\nNow baby you gon' go where you pos to go\n'Cause I ain't got time for you every day\nShe said she got a man keep it on the low\nI said he don\u2019t speak English, fuck he gon' say (aye)\n[Pre-Chorus]\nTelling me this and telling me that\nYou said once you take me with you, I\u2019ll never go back\nNow I got a lesson that I want to teach ya\nIma show you that where you from don\u2019t matter to me\n\n[Chorus]\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nYou might also like[Verse 2]\nShe from Africa but she fuck me like she Haitian\nAss black, but the eyes looking Asian\nI give her the can in Kansas\nI got it on tape, she on Candid Camera\nOkay see, I forgot we met in Oklahoma\nI use to smoke Regina, she from Arizona\nThen I met a girl in Cali I never disowned her\nShe got that high grade, her weed come with diplomas\nI want her but she keep\n[Pre-Chorus]\nTelling me this and telling me that\nYou said once you take me with you, I\u2019ll never go back\nNow I got a lesson that I want to teach ya\nI'ma show you that where you from don\u2019t matter to me\n\n[Chorus]\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\n[Produced by Kent Jones & We The Best]34Embed"
+  },
+  {
+   "annotation_count": 19,
+   "api_path": "/songs/2860155",
+   "artist_names": "Kent Jones (Ft. E-40, Lil Dicky & Ty Dolla $ign)",
+   "full_title": "Sit Down by\u00a0Kent\u00a0Jones (Ft.\u00a0E-40, Lil\u00a0Dicky & Ty\u00a0Dolla $ign)",
+   "header_image_thumbnail_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.1000x1000x1.jpg",
+   "id": 2860155,
+   "language": "en",
+   "lyrics_owner_id": 672397,
+   "lyrics_state": "complete",
+   "path": "/Kent-jones-sit-down-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Kent-jones-sit-down-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 9,
+    "day": 17
+   },
+   "release_date_for_display": "September 17, 2016",
+   "release_date_with_abbreviated_month_for_display": "Sep. 17, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 9,
+    "contributors": 36,
+    "iq_earners": 35,
+    "transcribers": 2,
+    "unreviewed_annotations": 9,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 32655
+   },
+   "title": "Sit Down",
+   "title_with_featured": "Sit Down (Ft.\u00a0E-40, Lil\u00a0Dicky & Ty\u00a0Dolla $ign)",
+   "url": "https://genius.com/Kent-jones-sit-down-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/25005",
+     "header_image_url": "https://images.genius.com/db1ca72e0ec8456a55e0e30e238733ae.1000x733x1.jpg",
+     "id": 25005,
+     "image_url": "https://images.genius.com/9aed3a065cd3c47086392e48a72ecd73.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ty Dolla $ign",
+     "url": "https://genius.com/artists/Ty-dolla-sign",
+     "iq": 2153
+    },
+    {
+     "api_path": "/artists/47589",
+     "header_image_url": "https://images.genius.com/9986d639ab80e64599062b2d07954b7c.1000x414x1.jpg",
+     "id": 47589,
+     "image_url": "https://images.genius.com/a3d25d0210e13494897cca2f0441ba4c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Dicky",
+     "url": "https://genius.com/artists/Lil-dicky",
+     "iq": 5683
+    },
+    {
+     "api_path": "/artists/405",
+     "header_image_url": "https://images.genius.com/0d449cdcd71f97b47b8cdff2a992666b.1000x563x1.jpg",
+     "id": 405,
+     "image_url": "https://s3.amazonaws.com/rapgenius/429360_10150592533032050_1732757056_n.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "E-40",
+     "url": "https://genius.com/artists/E-40",
+     "iq": 2552
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/34532",
+    "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+    "id": 34532,
+    "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Kent Jones",
+    "url": "https://genius.com/artists/Kent-jones",
+    "iq": 1591
+   },
+   "apple_music_id": "1207471959",
+   "apple_music_player_url": "https://genius.com/songs/2860155/apple_music_player",
+   "description": {
+    "plain": "Kent Jones' single \u201cSit Down\u201d was released on February 21, 2017 and features Lil Dicky, Ty Dolla $ign, and E-40.\n\nThis song is from the We The Best Music artist\u2019s mixtape Too Much Too Soon, which was released on September 16, 2016."
+   },
+   "embed_content": "<div id='rg_embed_link_2860155' class='rg_embed_link' data-song-id='2860155'>Read <a href='https://genius.com/Kent-jones-sit-down-lyrics'>\u201cSit Down\u201d by Kent\u00a0Jones</a> on Genius</div> <script crossorigin src='//genius.com/songs/2860155/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-09-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/221246",
+    "cover_art_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.1000x1000x1.jpg",
+    "full_title": "Too Much Too Soon by Kent Jones",
+    "id": 221246,
+    "name": "Too Much Too Soon",
+    "release_date_for_display": "September 16, 2016",
+    "url": "https://genius.com/albums/Kent-jones/Too-much-too-soon",
+    "artist": {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 539850,
+    "annotator_login": "aydenmorrisNC",
+    "api_path": "/referents/10453010",
+    "classification": "accepted",
+    "fragment": "Sit Down",
+    "id": 10453010,
+    "is_description": true,
+    "path": "/10453010/Kent-jones-sit-down/Sit-down",
+    "range": {
+     "content": "Sit Down"
+    },
+    "song_id": 2860155,
+    "url": "https://genius.com/10453010/Kent-jones-sit-down/Sit-down",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2860155",
+     "client_timestamps": {
+      "updated_by_human_at": 1611944812,
+      "lyrics_updated_at": 1611944812
+     },
+     "context": "Kent Jones",
+     "id": 2860155,
+     "image_url": "https://images.genius.com/1091d04cdf3371959e44d5abb6c40556.1000x1000x1.jpg",
+     "link_title": "Sit Down by\u00a0Kent\u00a0Jones (Ft.\u00a0E-40, Lil\u00a0Dicky & Ty\u00a0Dolla $ign)",
+     "title": "Sit Down",
+     "type": "Song",
+     "url": "https://genius.com/Kent-jones-sit-down-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10453010",
+      "body": {
+       "plain": "Kent Jones' single \u201cSit Down\u201d was released on February 21, 2017 and features Lil Dicky, Ty Dolla $ign, and E-40.\n\nThis song is from the We The Best Music artist\u2019s mixtape Too Much Too Soon, which was released on September 16, 2016."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 10453010,
+      "pinned": false,
+      "share_url": "https://genius.com/10453010",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/10453010/Kent-jones-sit-down/Sit-down",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9523809523809524,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/539850",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1d87baf701cc400ff4c5f971eca77d2e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1d87baf701cc400ff4c5f971eca77d2e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1d87baf701cc400ff4c5f971eca77d2e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1d87baf701cc400ff4c5f971eca77d2e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/52e219ebf75850f14a2e146adf74f845.630x1000x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 539850,
+         "iq": 373762,
+         "login": "aydenmorrisNC",
+         "name": "Ayden Morris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/aydenmorrisNC",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.047619047619047616,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1939756",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/1359db7e579e2b1ff2e513859156bc68",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/78bd8996afc779c63505e4d608a758dd.1000x195x128.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 1939756,
+         "iq": 142094,
+         "login": "GoodApolloIV",
+         "name": "GoodApolloIV",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/GoodApolloIV",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=MAEL9KsvZ2U"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1309939",
+     "header_image_url": "https://images.genius.com/6c6d5d7170b472c5838e484021ec79bd.1000x709x1.jpg",
+     "id": 1309939,
+     "image_url": "https://images.genius.com/e3e56b30f8c2ff9e0d4597b748b39eb8.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IllaDaProducer",
+     "url": "https://genius.com/artists/Illadaproducer"
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/523",
+     "header_image_url": "https://images.genius.com/f5183545ca5ac47286efad036d10d4eb.480x601x1.png",
+     "id": 523,
+     "image_url": "https://images.genius.com/29e3cb9c13cadc94638bb264b7dec611.241x241x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dre",
+     "url": "https://genius.com/artists/Dre"
+    },
+    {
+     "api_path": "/artists/49606",
+     "header_image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "id": 49606,
+     "image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool",
+     "url": "https://genius.com/artists/Cool"
+    },
+    {
+     "api_path": "/artists/1309939",
+     "header_image_url": "https://images.genius.com/6c6d5d7170b472c5838e484021ec79bd.1000x709x1.jpg",
+     "id": 1309939,
+     "image_url": "https://images.genius.com/e3e56b30f8c2ff9e0d4597b748b39eb8.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "IllaDaProducer",
+     "url": "https://genius.com/artists/Illadaproducer"
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    },
+    {
+     "api_path": "/artists/25005",
+     "header_image_url": "https://images.genius.com/db1ca72e0ec8456a55e0e30e238733ae.1000x733x1.jpg",
+     "id": 25005,
+     "image_url": "https://images.genius.com/9aed3a065cd3c47086392e48a72ecd73.800x800x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ty Dolla $ign",
+     "url": "https://genius.com/artists/Ty-dolla-sign",
+     "iq": 2153
+    },
+    {
+     "api_path": "/artists/47589",
+     "header_image_url": "https://images.genius.com/9986d639ab80e64599062b2d07954b7c.1000x414x1.jpg",
+     "id": 47589,
+     "image_url": "https://images.genius.com/a3d25d0210e13494897cca2f0441ba4c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Lil Dicky",
+     "url": "https://genius.com/artists/Lil-dicky",
+     "iq": 5683
+    },
+    {
+     "api_path": "/artists/405",
+     "header_image_url": "https://images.genius.com/0d449cdcd71f97b47b8cdff2a992666b.1000x563x1.jpg",
+     "id": 405,
+     "image_url": "https://s3.amazonaws.com/rapgenius/429360_10150592533032050_1732757056_n.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "E-40",
+     "url": "https://genius.com/artists/E-40",
+     "iq": 2552
+    }
+   ],
+   "artist": "Kent Jones",
+   "lyrics": "36 ContributorsSit Down Lyrics[Intro: Kent Jones]\nGet up, get up\nWalked up in the building, seen too many bitches on the wall\nNiggas on the wall\n\n[Hook: Kent Jones]\nHey, baby, you there\nLight skin, thick with the blue hair\nRed 'Lenciagas, got a new pair\nEvery real hood bitch do hair\nHey, won't you come here?\nGet down, you know how I get down\nTell your hatin' home girls, sit down\nTake a seat, sit down\n[Post-Hook: Kent Jones]\nOh my God, oh my God\nI don't really know her huh? Know her huh?\nShe wanna come over huh? Over huh?\nI'm already over her, over her\n\n[Verse 1: Kent Jones]\nWhen I'm in town she make sure that she see me, you understand?\nI don't  know just how you niggas perceive me, you understand?\nThrowing stones but you just wanna be me, you understand?\nAin't them guys that you see on the TV, you understand?\n\n[Hook: Kent Jones]\nHey, baby, you there\nLight skin, thick with the blue hair\nRed 'Lenciagas, got a new pair\nEvery real hood bitch do hair\nHey, won't you come here?\nGet down, you know how I get down\nTell your hatin' home girls, sit down\nTake a seat, sit down\n\n[Verse 2: Ty Dolla Sign]\nHey lil mama, you know you fuckin' with a motherfuckin' superstar\nYou know I pick your ass up in the foreign car\nAnd fuck you right there in it like a porn star, yeah, yeah\nHey, why you so nasty?\nShe say \"Dolla why you gotta be so nasty?\"\nShe said \"Dolla $ign, why you always stay high\"\nI say, \"You ain't ever lied, you ain't ever lie\"\nI pull up on her, I got her choosin\nHer man a loser, she in a real nigga presence\nShe want Dolla, she fuck with Dolla\nShe came for Dolla, pull up in that 'Rari\nShe said \"Hey Dolla, Dolla, hey Dolla, Dolla\nWhy you spendin' all your money on these bottles?\"\nHey Dolla, Dolla, hey Dolla, Dolla\nNo more ratchets for me, only models\nYou might also like[Hook: Kent Jones]\nHey, baby, you there\nLight skin, thick with the blue hair\nRed 'Lenciagas, got a new pair\nEvery real hood bitch do hair\nHey, won't you come here?\nGet down, you know how I get down\nTell your hatin' home girls, sit down\nTake a seat, sit down\n\n[Verse 3: Lil Dicky]\nOff top I was getting ready, white boy like my mom Betty\nI'm too nice for this game ese, I walked in, it was con-fetti\nGirls took to me already\nLil hoe with them dreads wanna go make whoopie\nGo ball Eddie, Heartbreaker, y'all all petty\nThese bitches wanna get it off the strength\nPay a ton, I'm jamming like I'm Kemp\nY'all all a bunch of fucking Detlef Schrempf's\nShowstopper, got flow poppin'\nThese hoes knockin' down doors\nJockin' my stones, moccasin flows\nStay on your toes\nI'm better than better\nI'll get it on top like a header, that's word\nLittle mama lookin' at me, nine o'clock\nAnd from the look of it that bitch need a vagina mop\nAnd you mistook if you think we that gon' designer shop\nI'ma pull up like a bull up in the china shop, break you down\nChicken parmesan, how you want it, I'm cookin'\nI got a nose for these hoes, I'm the Piglet of pussy\nI gotta know if you pro, going down on my tooshie\nCause if you are then you're probably too aggressive for Dicky\n[Verse 4: E-40]\nWhen I was a teen I scored a half a meal ticket\nMy team moved mean and they'll smoke you like a brisket\nRaised in the slums, in the sewer, in the gutter\nWhere shit ain't sweet like unsalted butter\nMake more paper than your daddy and your mother\nPulled up European, started with a fixer-upper\nThrowing up signs like a third base coach\nBaby she a dime, got a rump like a roast\n\n[Hook: Kent Jones]\nHey, baby, you there\nLight skin, thick with the blue hair\nRed 'Lenciagas, got a new pair\nEvery real hood bitch do hair\nHey, won't you come here?\nGet down, you know how I get down\nTell your hatin' home girls, sit down\nTake a seat, sit down\nSit down, take a seat, sit down\nSit down, take a seat, sit down\nSit down, take a seat, sit down\nSit down, take a seat, sit down\nSit down, take a seat, sit downEmbed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/2819852",
+   "artist_names": "Kent Jones (Ft. Lil Wayne & Pitbull)",
+   "full_title": "Don't Mind (Remix) by\u00a0Kent\u00a0Jones (Ft.\u00a0Lil\u00a0Wayne & Pitbull)",
+   "header_image_thumbnail_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.1000x1000x1.jpg",
+   "id": 2819852,
+   "language": "en",
+   "lyrics_owner_id": 1130219,
+   "lyrics_state": "complete",
+   "path": "/Kent-jones-dont-mind-remix-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Kent-jones-dont-mind-remix-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 7,
+    "day": 12
+   },
+   "release_date_for_display": "July 12, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jul. 12, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 23,
+    "iq_earners": 22,
+    "transcribers": 4,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 31493
+   },
+   "title": "Don\u2019t Mind (Remix)",
+   "title_with_featured": "Don't Mind (Remix) (Ft.\u00a0Lil\u00a0Wayne & Pitbull)",
+   "url": "https://genius.com/Kent-jones-dont-mind-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/628",
+     "header_image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+     "id": 628,
+     "image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Pitbull",
+     "url": "https://genius.com/artists/Pitbull",
+     "iq": 280
+    },
+    {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/3b3485a28f2eb47c5ff3d7691e71bcba.1000x333x1.jpg",
+     "id": 4,
+     "image_url": "https://images.genius.com/aa8b9dce2492fe413c23f77b643788fd.914x914x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4697
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/34532",
+    "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+    "id": 34532,
+    "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Kent Jones",
+    "url": "https://genius.com/artists/Kent-jones",
+    "iq": 1591
+   },
+   "apple_music_id": "1133864956",
+   "apple_music_player_url": "https://genius.com/songs/2819852/apple_music_player",
+   "description": {
+    "plain": "The remix to Kent Jones' smash summer hit \u201cDon\u2019t Mind\u201d features Pitbull and Lil Wayne.\n\nYou can listen to the track here."
+   },
+   "embed_content": "<div id='rg_embed_link_2819852' class='rg_embed_link' data-song-id='2819852'>Read <a href='https://genius.com/Kent-jones-dont-mind-remix-lyrics'>\u201cDon't Mind (Remix)\u201d by Kent\u00a0Jones</a> on Genius</div> <script crossorigin src='//genius.com/songs/2819852/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-07-12",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/49879",
+       "header_image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+       "id": 49879,
+       "image_url": "https://images.genius.com/405873004060edf45eda607c8a57e90f.700x700x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Epic Records",
+       "url": "https://genius.com/artists/Epic-records",
+       "iq": 100
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1160638",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1160638,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Darwin Sanchez",
+       "url": "https://genius.com/artists/Darwin-sanchez"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/49606",
+       "header_image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+       "id": 49606,
+       "image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cool",
+       "url": "https://genius.com/artists/Cool"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1545969,
+    "annotator_login": "wiz_teresa",
+    "api_path": "/referents/10087523",
+    "classification": "accepted",
+    "fragment": "Don\u2019t Mind (Remix)",
+    "id": 10087523,
+    "is_description": true,
+    "path": "/10087523/Kent-jones-dont-mind-remix/Dont-mind-remix",
+    "range": {
+     "content": "Don't Mind (Remix)"
+    },
+    "song_id": 2819852,
+    "url": "https://genius.com/10087523/Kent-jones-dont-mind-remix/Dont-mind-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2819852",
+     "client_timestamps": {
+      "updated_by_human_at": 1642133209,
+      "lyrics_updated_at": 1642133209
+     },
+     "context": "Kent Jones",
+     "id": 2819852,
+     "image_url": "https://images.genius.com/89747f51a2ea47b1e099b29af353d1e0.1000x1000x1.jpg",
+     "link_title": "Don\u2019t Mind (Remix) by\u00a0Kent\u00a0Jones (Ft.\u00a0Lil\u00a0Wayne & Pitbull)",
+     "title": "Don't Mind (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Kent-jones-dont-mind-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10087523",
+      "body": {
+       "plain": "The remix to Kent Jones' smash summer hit \u201cDon\u2019t Mind\u201d features Pitbull and Lil Wayne.\n\nYou can listen to the track here."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 10087523,
+      "pinned": false,
+      "share_url": "https://genius.com/10087523",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/10087523/Kent-jones-dont-mind-remix/Dont-mind-remix",
+      "verified": false,
+      "votes_total": 8,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1545969",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/565d2298db901f18260ca21fec4660d0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/565d2298db901f18260ca21fec4660d0",
+         "human_readable_role_for_display": "Editor",
+         "id": 1545969,
+         "iq": 28427,
+         "login": "wiz_teresa",
+         "name": "Teresa Fardella",
+         "role_for_display": "editor",
+         "url": "https://genius.com/wiz_teresa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=KSIU4ZDhLAc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/932957",
+     "header_image_url": "https://images.genius.com/785d06c68da4b6b69c578e9af3dc3a05.300x300x1.jpg",
+     "id": 932957,
+     "image_url": "https://images.genius.com/3f88d95ec08dedcf86a3d21fedb1f06f.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool N Dre",
+     "url": "https://genius.com/artists/Cool-n-dre"
+    },
+    {
+     "api_path": "/artists/158",
+     "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "id": 158,
+     "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Khaled",
+     "url": "https://genius.com/artists/Dj-khaled",
+     "iq": 5228
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 17,
+       "api_path": "/songs/2332450",
+       "artist_names": "Kent Jones",
+       "full_title": "Don't Mind by\u00a0Kent\u00a0Jones",
+       "header_image_thumbnail_url": "https://images.genius.com/41f9c9e98f9a83f73e3c30e6e2d59e07.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/41f9c9e98f9a83f73e3c30e6e2d59e07.800x800x1.jpg",
+       "id": 2332450,
+       "language": "en",
+       "lyrics_owner_id": 2370963,
+       "lyrics_state": "complete",
+       "path": "/Kent-jones-dont-mind-lyrics",
+       "pyongs_count": 34,
+       "relationships_index_url": "https://genius.com/Kent-jones-dont-mind-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 18
+       },
+       "release_date_for_display": "April 18, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 18, 2016",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/46f1ee74bc12fec739b86fc9829ed431.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/46f1ee74bc12fec739b86fc9829ed431.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 1262129
+       },
+       "title": "Don\u2019t Mind",
+       "title_with_featured": "Don't Mind",
+       "url": "https://genius.com/Kent-jones-dont-mind-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/34532",
+        "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+        "id": 34532,
+        "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Kent Jones",
+        "url": "https://genius.com/artists/Kent-jones",
+        "iq": 1591
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/49606",
+     "header_image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "id": 49606,
+     "image_url": "https://images.genius.com/c02381f3d7655b0efff6ca698d50a511.206x206x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cool",
+     "url": "https://genius.com/artists/Cool"
+    },
+    {
+     "api_path": "/artists/4538",
+     "header_image_url": "https://images.genius.com/b9db0d70668938496ef9eb327ebfd0da.450x450x1.jpg",
+     "id": 4538,
+     "image_url": "https://images.genius.com/b9db0d70668938496ef9eb327ebfd0da.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gerald Levert",
+     "url": "https://genius.com/artists/Gerald-levert"
+    },
+    {
+     "api_path": "/artists/194976",
+     "header_image_url": "https://images.genius.com/745481992b18c064a2bbb102861d6dbe.250x250x1.jpg",
+     "id": 194976,
+     "image_url": "https://images.genius.com/745481992b18c064a2bbb102861d6dbe.250x250x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Edwin \u201cTony\u201d Nicholas",
+     "url": "https://genius.com/artists/Edwin-tony-nicholas"
+    },
+    {
+     "api_path": "/artists/3719",
+     "header_image_url": "https://images.genius.com/8137bd2e4bcb1d843dc287fb887c221c.1000x962x1.jpg",
+     "id": 3719,
+     "image_url": "https://images.genius.com/1e97de0c57d484cdbd654d1e8cc3fa13.825x825x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Barry White",
+     "url": "https://genius.com/artists/Barry-white"
+    },
+    {
+     "api_path": "/artists/523",
+     "header_image_url": "https://images.genius.com/f5183545ca5ac47286efad036d10d4eb.480x601x1.png",
+     "id": 523,
+     "image_url": "https://images.genius.com/29e3cb9c13cadc94638bb264b7dec611.241x241x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dre",
+     "url": "https://genius.com/artists/Dre"
+    },
+    {
+     "api_path": "/artists/158",
+     "header_image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "id": 158,
+     "image_url": "https://images.genius.com/ab6d177ad39383915733cf37ca1fb301.999x999x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "DJ Khaled",
+     "url": "https://genius.com/artists/Dj-khaled",
+     "iq": 5228
+    },
+    {
+     "api_path": "/artists/4",
+     "header_image_url": "https://images.genius.com/3b3485a28f2eb47c5ff3d7691e71bcba.1000x333x1.jpg",
+     "id": 4,
+     "image_url": "https://images.genius.com/aa8b9dce2492fe413c23f77b643788fd.914x914x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Lil Wayne",
+     "url": "https://genius.com/artists/Lil-wayne",
+     "iq": 4697
+    },
+    {
+     "api_path": "/artists/628",
+     "header_image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+     "id": 628,
+     "image_url": "https://images.genius.com/019c3e4f1239bc5e1c870ad8a780d793.860x860x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Pitbull",
+     "url": "https://genius.com/artists/Pitbull",
+     "iq": 280
+    },
+    {
+     "api_path": "/artists/34532",
+     "header_image_url": "https://images.genius.com/23920b30cd2f61076b0938fc2ec91e4b.1000x500x1.jpg",
+     "id": 34532,
+     "image_url": "https://images.genius.com/25d88a26fb6d3c538f9d783d95f3f27d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Kent Jones",
+     "url": "https://genius.com/artists/Kent-jones",
+     "iq": 1591
+    }
+   ],
+   "artist": "Kent Jones",
+   "lyrics": "23 ContributorsDon\u2019t Mind (Remix) Lyrics[Intro: Pitbull & DJ Khaled]\nMr. 305 checking in\nIt's the remix\nKent Jones\nMust feel good to have a worldwide hit, huh papito?\nThis is, another one!\nWelcome to the club\nWe The Best Music!\n\n[Chorus: Kent Jones & Lil Wayne]\nKeep telling me this\nAnd telling me that (Yes, Lord)\nYou said once you take me with you, I\u2019ll never go back (Moolah baby)\nNow I got a lesson that I want to teach ya (And this is)\nI'ma show you that where you from don\u2019t matter to me (This is the remix, baby, yeah)\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\" (This is the remix, baby)\nShe said \"Pardon my French\", I said \"Bonjour Madame\" (This is the remix, baby, yeah)\nThen she said \"Sak pase\" and I said \"N'ap boule\" (This is the remix, baby, yeah)\nNo matter where I go, you know I love 'em all\n[Verse 1: Pitbull]\nI'm surrounded by Caribbean queens\nI'm talkin' Cubans, Puerto Ricans and Dominican things\nI got Jamaicans and them Haitians, no un poco santi\nI got them Trini's and them Bajans and they all for me\nLet's not talk about the woman down in Mexico\nYeah they pretty but they could be cartel on the low\nSo ten cuidado, down in Brazil, they got booties for real\nThose Colombians are stunners, they got looks that could kill\nShe told me, \u201cAy papacito, ay mi rey\"\nShe said \"De d\u00f3nde tu eres? I wanna stay\"\nI got my money for sure, got my passport for sure\nAs soon as she hit the bathroom, I hit the door\nI'm gone (Woo)\n\n[Chorus: Kent Jones & Lil Wayne, Kent Jones]\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go, you know I love 'em all\n\n[Verse 2: Lil Wayne]\nBonjour mademoiselle, je m'appelle Lil Tunechi\nMight want cover your ears, cause Young Moolah, we boomin'\nI'm a savage, I'm a beast, I have sex on the beach\nAnd my ho speak foreign, and my plug speak foreign\nI pull up in something foreign, my bitch light orange\nI'm rockin' Ralph Lauren and some Chucks like Norris\nAnd these other ducks boring, and my bucks foreign\nCodeine in my urine so I'm snoring and ignoring\nWhen she\u2013\nYou might also like[Chorus: Kent Jones, Lil Wayne, Kent Jones & Lil Wayne]\nTelling me this\nAnd telling me that (Yes, Lord)\nYou said once you take me with you, I\u2019ll never go back (Moolah baby)\nNow I got a lesson that I want to teach ya (And this is)\nI'ma show you that where you from don\u2019t matter to me (This is the remix, baby, yeah)\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\" (This is the remix, baby)\nShe said \"Pardon my French\", I said \"Bonjour Madame\" (This is the remix, baby, yeah)\nThen she said \"Sak pase\" and I said \"N'ap boule\" (This is the remix, baby, yeah)\nNo matter where I go, you know I love 'em all\nShe said \"Hola, \u00bfC\u00f3mo est\u00e1s?, she said \"Konnichiwa\"\nShe said \"Pardon my French\", I said \"Bonjour Madame\"\nThen she said \"Sak pase\" and I said \"N'ap boule\"\nNo matter where I go\n\n[Verse 3: Kent Jones]\nLord have mercy, I can't help but keep it G\nGrab your girls if you with them\nIf you ain't take the keys and go and get them\nWhile you at it get your mom so I can thank her for your courage\n'Cause you got them family genes and I love the way you fit 'em\nShe don't wanna leave, why? 'Cause I'm a true religion\nTell your friend to be my guest, and if she smart she know the rest\nI had way too much Belaire, and I'm quiet sure you can tell it\nTo be real I forgot your name, so I'm askin' how you spell it, you keep\n[Outro: DJ Khaled, Pitbull & Lil Wayne]\nFelicidades\nThis the remix\nAnd this is the remix babe\nIt's We The Best epidemic, epic! (This the remix babe, yeah)\nAnother one\nGone4Embed"
+  }
+ ]
+}

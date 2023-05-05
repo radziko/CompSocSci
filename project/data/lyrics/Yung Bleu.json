@@ -1,0 +1,2511 @@
+{
+ "alternate_names": [
+  "BLEU",
+  "Young Blue",
+  "Yung Blue",
+  "Young Bleu",
+  "Jeremy Biddle"
+ ],
+ "api_path": "/artists/1152503",
+ "description": {
+  "plain": "Mobile, Alabama rapper Yung Bleu (oftentimes stylized as BLEU) has grown a steady buzz thanks to his Investments mixtape series. After developing a working relationship with Boosie Badazz, Bleu landed a deal on Boosie\u2019s Columbia Records imprint, Badazz Music Syndicate."
+ },
+ "facebook_name": null,
+ "followers_count": 94,
+ "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+ "id": 1152503,
+ "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+ "instagram_name": "bleuvandross",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Yung Bleu",
+ "translation_artist": false,
+ "twitter_name": "_yungbleu",
+ "url": "https://genius.com/artists/Yung-bleu",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 609,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 421153,
+  "annotator_login": "eddiefu",
+  "api_path": "/referents/14222289",
+  "classification": "accepted",
+  "fragment": "Yung Bleu",
+  "id": 14222289,
+  "is_description": true,
+  "path": "/14222289/Yung-bleu/Yung-bleu",
+  "range": {
+   "content": "Yung Bleu"
+  },
+  "song_id": null,
+  "url": "https://genius.com/14222289/Yung-bleu/Yung-bleu",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1152503",
+   "context": null,
+   "id": 1152503,
+   "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+   "link_title": "Yung Bleu",
+   "title": "Yung Bleu",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Yung-bleu"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/14222289",
+    "body": {
+     "plain": "Mobile, Alabama rapper Yung Bleu (oftentimes stylized as BLEU) has grown a steady buzz thanks to his Investments mixtape series. After developing a working relationship with Boosie Badazz, Bleu landed a deal on Boosie\u2019s Columbia Records imprint, Badazz Music Syndicate."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 14222289,
+    "pinned": false,
+    "share_url": "https://genius.com/14222289",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/14222289/Yung-bleu/Yung-bleu",
+    "verified": false,
+    "votes_total": 21,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.875,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/421153",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/830bbca3c81318874172511e93fed5cc.696x696x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/3fdd66b9a30bf7c4c4174279779c0f25.960x770x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 421153,
+       "iq": 16862,
+       "login": "eddiefu",
+       "name": "Eddie Fu",
+       "role_for_display": "editor",
+       "url": "https://genius.com/eddiefu",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.075,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9387139",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/be58b6f561937f293dc564e318e1cdcc",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/be58b6f561937f293dc564e318e1cdcc",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/be58b6f561937f293dc564e318e1cdcc",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/be58b6f561937f293dc564e318e1cdcc",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/a0e8cfa669c2e47e688b96d1da4a6841.750x657x1.jpg",
+       "human_readable_role_for_display": "Staff",
+       "id": 9387139,
+       "iq": 350266,
+       "login": "yessirre",
+       "name": "Yessirre",
+       "role_for_display": "staff",
+       "url": "https://genius.com/yessirre",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.05,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/54639",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+       "human_readable_role_for_display": "Staff",
+       "id": 54639,
+       "iq": 2709645,
+       "login": "WriteNProppa",
+       "name": "WriteNProppa",
+       "role_for_display": "staff",
+       "url": "https://genius.com/WriteNProppa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/6548245",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/2824a86cdb7e9e7f1145712948843c66",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/2824a86cdb7e9e7f1145712948843c66",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/2824a86cdb7e9e7f1145712948843c66",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/2824a86cdb7e9e7f1145712948843c66",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 6548245,
+  "iq": 609,
+  "login": "yungbleu",
+  "name": "Yung Bleu",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/yungbleu",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/6054088",
+   "artist_names": "Yung Bleu (Ft. Drake)",
+   "full_title": "You're Mines Still (Remix) by\u00a0Yung\u00a0Bleu (Ft.\u00a0Drake)",
+   "header_image_thumbnail_url": "https://images.genius.com/9cf1c62a786860a028cf21770b4aa52d.300x300x1.png",
+   "header_image_url": "https://images.genius.com/9cf1c62a786860a028cf21770b4aa52d.1000x1000x1.png",
+   "id": 6054088,
+   "language": "en",
+   "lyrics_owner_id": 5748418,
+   "lyrics_state": "complete",
+   "path": "/Yung-bleu-youre-mines-still-remix-lyrics",
+   "pyongs_count": 20,
+   "relationships_index_url": "https://genius.com/Yung-bleu-youre-mines-still-remix-sample",
+   "release_date_components": {
+    "year": 2020,
+    "month": 10,
+    "day": 15
+   },
+   "release_date_for_display": "October 15, 2020",
+   "release_date_with_abbreviated_month_for_display": "Oct. 15, 2020",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9cf1c62a786860a028cf21770b4aa52d.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/9cf1c62a786860a028cf21770b4aa52d.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 65,
+    "iq_earners": 65,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 590332
+   },
+   "title": "You\u2019re Mines Still (Remix)",
+   "title_with_featured": "You're Mines Still (Remix) (Ft.\u00a0Drake)",
+   "url": "https://genius.com/Yung-bleu-youre-mines-still-remix-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/50b41d1da8dfd60548a6c9f2afa9b1b1.480x270x54.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/4e793216ac5eb88b8e8b7fc11b2e6521.548x548x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1152503",
+    "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+    "id": 1152503,
+    "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Yung Bleu",
+    "url": "https://genius.com/artists/Yung-bleu",
+    "iq": 609
+   },
+   "apple_music_id": "1535951144",
+   "apple_music_player_url": "https://genius.com/songs/6054088/apple_music_player",
+   "description": {
+    "plain": "The remix to Yung Bleu\u2019s melodic song \u201cYou\u2019re Mines Still\u201d was first teased on October 13, 2020 when Yung Bleu shared a now-deleted screenshot of his text conversation with Drake discussing the remix and Drake recording his verse.\n\nTwo days later, on October 15, 2020, the remix was leaked online. Therefore, Yung Bleu decided to release it on streaming platforms at 11:30pm the same day, thirty minutes before the rest of the deluxe for his October 2020 EP Love Scars: The 5 Stages of Emotions was released.\n\nKeeping the theme of the original song, Bleu and Drake delve into their feelings for their ex-girlfriends."
+   },
+   "embed_content": "<div id='rg_embed_link_6054088' class='rg_embed_link' data-song-id='6054088'>Read <a href='https://genius.com/Yung-bleu-youre-mines-still-remix-lyrics'>\u201cYou're Mines Still (Remix)\u201d by Yung\u00a0Bleu</a> on Genius</div> <script crossorigin src='//genius.com/songs/6054088/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2020-10-15",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/689019",
+    "cover_art_url": "https://images.genius.com/2c8d808b2d9996fd707fc19a3b6ad2e9.1000x1000x1.png",
+    "full_title": "Love Scars: The 5 Stages of Emotions (Deluxe) by Yung Bleu",
+    "id": 689019,
+    "name": "Love Scars: The 5 Stages of Emotions (Deluxe)",
+    "release_date_for_display": "October 16, 2020",
+    "url": "https://genius.com/albums/Yung-bleu/Love-scars-the-5-stages-of-emotions-deluxe",
+    "artist": {
+     "api_path": "/artists/1152503",
+     "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+     "id": 1152503,
+     "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Yung Bleu",
+     "url": "https://genius.com/artists/Yung-bleu",
+     "iq": 609
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1067746",
+       "header_image_url": "https://images.genius.com/e62acbeb4aa74d1838a1a12d37651f7b.636x421x1.jpg",
+       "id": 1067746,
+       "image_url": "https://images.genius.com/18e44ea127feb2a8bf7c37529aee8df7.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "EMPIRE",
+       "url": "https://genius.com/artists/Empire"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rigths",
+     "artists": [
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      },
+      {
+       "api_path": "/artists/1148777",
+       "header_image_url": "https://images.genius.com/0e5174366cfce663596c57d34c925e6d.1000x563x1.jpg",
+       "id": 1148777,
+       "image_url": "https://images.genius.com/b4aba1e6d323461735b291be342cc225.225x225x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Global Music Rights",
+       "url": "https://genius.com/artists/Global-music-rights"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/648244",
+       "header_image_url": "https://images.genius.com/a74508bdf5e1bf26f8263837990882ec.980x320x1.jpg",
+       "id": 648244,
+       "image_url": "https://images.genius.com/12d02c504d55a59a1bdb85fcf0bcb64a.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Athens",
+       "url": "https://genius.com/artists/Chris-athens"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2164376",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2164376,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Keylan Laxton",
+       "url": "https://genius.com/artists/Keylan-laxton"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/27612",
+       "header_image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "id": 27612,
+       "image_url": "https://images.genius.com/c999dd154986a45b8981323a2ea53f98.620x380x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "40",
+       "url": "https://genius.com/artists/40",
+       "iq": 606
+      },
+      {
+       "api_path": "/artists/1247260",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1247260,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Daigrepont",
+       "url": "https://genius.com/artists/Josh-daigrepont"
+      },
+      {
+       "api_path": "/artists/2642877",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2642877,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan Avinger",
+       "url": "https://genius.com/artists/Ryan-avinger"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/202579",
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/b5965c74f539a910053c1950db02c73c",
+       "id": 202579,
+       "image_url": "https://images.rapgenius.com/avatars/medium/b5965c74f539a910053c1950db02c73c",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "ALLBLCK",
+       "url": "https://genius.com/artists/Allblck",
+       "iq": 298
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4160922,
+    "annotator_login": "NYLLOCK",
+    "api_path": "/referents/21048520",
+    "classification": "accepted",
+    "fragment": "You\u2019re Mines Still (Remix)",
+    "id": 21048520,
+    "is_description": true,
+    "path": "/21048520/Yung-bleu-youre-mines-still-remix/Youre-mines-still-remix",
+    "range": {
+     "content": "You're Mines Still (Remix)"
+    },
+    "song_id": 6054088,
+    "url": "https://genius.com/21048520/Yung-bleu-youre-mines-still-remix/Youre-mines-still-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/6054088",
+     "client_timestamps": {
+      "updated_by_human_at": 1674844536,
+      "lyrics_updated_at": 1669116365
+     },
+     "context": "Yung Bleu",
+     "id": 6054088,
+     "image_url": "https://images.genius.com/9cf1c62a786860a028cf21770b4aa52d.1000x1000x1.png",
+     "link_title": "You\u2019re Mines Still (Remix) by\u00a0Yung\u00a0Bleu (Ft.\u00a0Drake)",
+     "title": "You're Mines Still (Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Yung-bleu-youre-mines-still-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21048520",
+      "body": {
+       "plain": "The remix to Yung Bleu\u2019s melodic song \u201cYou\u2019re Mines Still\u201d was first teased on October 13, 2020 when Yung Bleu shared a now-deleted screenshot of his text conversation with Drake discussing the remix and Drake recording his verse.\n\nTwo days later, on October 15, 2020, the remix was leaked online. Therefore, Yung Bleu decided to release it on streaming platforms at 11:30pm the same day, thirty minutes before the rest of the deluxe for his October 2020 EP Love Scars: The 5 Stages of Emotions was released.\n\nKeeping the theme of the original song, Bleu and Drake delve into their feelings for their ex-girlfriends."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 21048520,
+      "pinned": false,
+      "share_url": "https://genius.com/21048520",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/21048520/Yung-bleu-youre-mines-still-remix/Youre-mines-still-remix",
+      "verified": false,
+      "votes_total": 71,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5904761904761905,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4160922",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/377c87fff213bea5fcc13ea6f7da5229",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/7d67a0a1d84780e53572fb0b9a10ef84.640x360x23.gif",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4160922,
+         "iq": 217945,
+         "login": "NYLLOCK",
+         "name": "NYLLOCK!",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/NYLLOCK",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.4095238095238095,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4335922",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/19235db3955f307e1b767a599e1e1715",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/19235db3955f307e1b767a599e1e1715",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/19235db3955f307e1b767a599e1e1715",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/19235db3955f307e1b767a599e1e1715",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4335922,
+         "iq": 1027228,
+         "login": "Chancelorr",
+         "name": "\u200bchancelorr",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Chancelorr",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/8141915",
+    "avatar": {
+     "tiny": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yqhzm2vsw9",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yqhzm2vsw9",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yqhzm2vsw9",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yqhzm2vsw9",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/k7w9sgmtvp",
+    "human_readable_role_for_display": "Moderator",
+    "id": 8141915,
+    "iq": 91832,
+    "login": "sarinacarr",
+    "name": "sarinacarr",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/sarinacarr",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "octobersveryown",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/octobersveryown/yung-bleu-feat-drake-youre-mines-still"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=_bptrMV3zHE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/325280",
+     "header_image_url": "https://images.genius.com/f226ed69b24c48fb5356d9687147d99f.400x400x1.jpg",
+     "id": 325280,
+     "image_url": "https://images.genius.com/f226ed69b24c48fb5356d9687147d99f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nate Rhoads",
+     "url": "https://genius.com/artists/Nate-rhoads"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Yung-bleu-youre-mines-still-remix-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/6016797",
+       "artist_names": "Yung Bleu",
+       "full_title": "You're Mines Still by\u00a0Yung\u00a0Bleu",
+       "header_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "header_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "id": 6016797,
+       "language": "en",
+       "lyrics_owner_id": 2120684,
+       "lyrics_state": "complete",
+       "path": "/Yung-bleu-youre-mines-still-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Yung-bleu-youre-mines-still-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 2
+       },
+       "release_date_for_display": "October 2, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 2, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 105343
+       },
+       "title": "You\u2019re Mines Still",
+       "title_with_featured": "You're Mines Still",
+       "url": "https://genius.com/Yung-bleu-youre-mines-still-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1152503",
+        "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+        "id": 1152503,
+        "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Yung Bleu",
+        "url": "https://genius.com/artists/Yung-bleu",
+        "iq": 609
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/3723200",
+       "artist_names": "Juice WRLD (Ft. Lil Uzi Vert)",
+       "full_title": "Lucid Dreams (Remix) by\u00a0Juice\u00a0WRLD (Ft.\u00a0Lil\u00a0Uzi Vert)",
+       "header_image_thumbnail_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.640x640x1.jpg",
+       "id": 3723200,
+       "language": "en",
+       "lyrics_owner_id": 1211266,
+       "lyrics_state": "complete",
+       "path": "/Juice-wrld-lucid-dreams-remix-lyrics",
+       "pyongs_count": 77,
+       "relationships_index_url": "https://genius.com/Juice-wrld-lucid-dreams-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 5,
+        "day": 28
+       },
+       "release_date_for_display": "May 28, 2021",
+       "release_date_with_abbreviated_month_for_display": "May. 28, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 255706
+       },
+       "title": "Lucid Dreams (Remix)",
+       "title_with_featured": "Lucid Dreams (Remix) (Ft.\u00a0Lil\u00a0Uzi Vert)",
+       "url": "https://genius.com/Juice-wrld-lucid-dreams-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/217208",
+         "header_image_url": "https://images.genius.com/fc90b951e209e3e896cd3dc913bccf71.1000x333x1.jpg",
+         "id": 217208,
+         "image_url": "https://images.genius.com/3619e57354afa7dd5e65b9c261982ccc.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Lil Uzi Vert",
+         "url": "https://genius.com/artists/Lil-uzi-vert",
+         "iq": 5875
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1237094",
+        "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+        "id": 1237094,
+        "image_url": "https://images.genius.com/42b0e9b115b685c8dd7e7f32e3f1ce9c.999x999x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Juice WRLD",
+        "url": "https://genius.com/artists/Juice-wrld",
+        "iq": 15877
+       }
+      },
+      {
+       "annotation_count": 17,
+       "api_path": "/songs/3359190",
+       "artist_names": "Juice WRLD",
+       "full_title": "Lucid Dreams by\u00a0Juice\u00a0WRLD",
+       "header_image_thumbnail_url": "https://images.genius.com/3946557bbac9568b3b5d8bb4d9ef29f7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3946557bbac9568b3b5d8bb4d9ef29f7.1000x1000x1.jpg",
+       "id": 3359190,
+       "language": "en",
+       "lyrics_owner_id": 4438121,
+       "lyrics_state": "complete",
+       "path": "/Juice-wrld-lucid-dreams-lyrics",
+       "pyongs_count": 521,
+       "relationships_index_url": "https://genius.com/Juice-wrld-lucid-dreams-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 7,
+        "day": 1
+       },
+       "release_date_for_display": "July 1, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jul. 1, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/821652408e7ff83dc5fb0f411d535171.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/821652408e7ff83dc5fb0f411d535171.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "concurrents": 3,
+        "hot": false,
+        "pageviews": 4881078
+       },
+       "title": "Lucid Dreams",
+       "title_with_featured": "Lucid Dreams",
+       "url": "https://genius.com/Juice-wrld-lucid-dreams-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1237094",
+        "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+        "id": 1237094,
+        "image_url": "https://images.genius.com/42b0e9b115b685c8dd7e7f32e3f1ce9c.999x999x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Juice WRLD",
+        "url": "https://genius.com/artists/Juice-wrld",
+        "iq": 15877
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/162955",
+       "artist_names": "Sting",
+       "full_title": "Shape of My Heart by\u00a0Sting",
+       "header_image_thumbnail_url": "https://images.genius.com/0974b45496e159a317022674024c3864.300x150x1.jpg",
+       "header_image_url": "https://images.genius.com/0974b45496e159a317022674024c3864.1000x500x1.jpg",
+       "id": 162955,
+       "language": "en",
+       "lyrics_owner_id": 205320,
+       "lyrics_state": "complete",
+       "path": "/Sting-shape-of-my-heart-lyrics",
+       "pyongs_count": 50,
+       "relationships_index_url": "https://genius.com/Sting-shape-of-my-heart-sample",
+       "release_date_components": {
+        "year": 1993,
+        "month": 3,
+        "day": 9
+       },
+       "release_date_for_display": "March 9, 1993",
+       "release_date_with_abbreviated_month_for_display": "Mar. 9, 1993",
+       "song_art_image_thumbnail_url": "https://images.genius.com/86bca22d668b42b5aff7c49499502935.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/86bca22d668b42b5aff7c49499502935.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 438750
+       },
+       "title": "Shape of My Heart",
+       "title_with_featured": "Shape of My Heart",
+       "url": "https://genius.com/Sting-shape-of-my-heart-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/679",
+        "header_image_url": "https://images.genius.com/f9577feb5bb957d38ddc776274c3c743.336x425x1.jpg",
+        "id": 679,
+        "image_url": "https://images.genius.com/f9577feb5bb957d38ddc776274c3c743.336x425x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Sting",
+        "url": "https://genius.com/artists/Sting",
+        "iq": 270
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Yung-bleu-youre-mines-still-remix-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8034953",
+       "artist_names": "Fred again..",
+       "full_title": "Bleu (better with time) by\u00a0Fred\u00a0again..",
+       "header_image_thumbnail_url": "https://images.genius.com/7130bbad742a92871fbce093811b3852.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7130bbad742a92871fbce093811b3852.1000x1000x1.jpg",
+       "id": 8034953,
+       "language": "en",
+       "lyrics_owner_id": 203885,
+       "lyrics_state": "complete",
+       "path": "/Fred-again-bleu-better-with-time-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fred-again-bleu-better-with-time-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 23
+       },
+       "release_date_for_display": "September 23, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 23, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7130bbad742a92871fbce093811b3852.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7130bbad742a92871fbce093811b3852.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 8672
+       },
+       "title": "Bleu (better with time)",
+       "title_with_featured": "Bleu (better with time)",
+       "url": "https://genius.com/Fred-again-bleu-better-with-time-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2051921",
+        "header_image_url": "https://images.genius.com/1ad59d0af18ba1ca7aa01f19af91d22a.1000x448x1.png",
+        "id": 2051921,
+        "image_url": "https://images.genius.com/97f56705f89d2a8d9d8fdb2c51d1255f.828x828x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fred again..",
+        "url": "https://genius.com/artists/Fred-again"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8848128",
+       "artist_names": "Quelly Woo (Ft. Fr33Bandit)",
+       "full_title": "Wavy* by\u00a0Quelly\u00a0Woo (Ft.\u00a0Fr33Bandit)",
+       "header_image_thumbnail_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.1000x1000x1.jpg",
+       "id": 8848128,
+       "language": "en",
+       "lyrics_owner_id": 5771820,
+       "lyrics_state": "complete",
+       "path": "/Quelly-woo-wavy-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Quelly-woo-wavy-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Wavy*",
+       "title_with_featured": "Wavy* (Ft.\u00a0Fr33Bandit)",
+       "url": "https://genius.com/Quelly-woo-wavy-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3117934",
+         "header_image_url": "https://images.genius.com/a3d92c18468448393a4aad94711fcfdb.1000x442x35.gif",
+         "id": 3117934,
+         "image_url": "https://images.genius.com/a793497fe3f93f1efc602538d1f8f3c5.531x531x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Fr33Bandit",
+         "url": "https://genius.com/artists/Fr33bandit"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2426010",
+        "header_image_url": "https://images.genius.com/a478566c5e562a7454d13ed5ed8c26e2.480x270x97.gif",
+        "id": 2426010,
+        "image_url": "https://images.genius.com/d9648ead161f49fbbd3e6a2e14575873.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Quelly Woo",
+        "url": "https://genius.com/artists/Quelly-woo"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": "https://genius.com/Yung-bleu-youre-mines-still-remix-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/6016797",
+       "artist_names": "Yung Bleu",
+       "full_title": "You're Mines Still by\u00a0Yung\u00a0Bleu",
+       "header_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "header_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "id": 6016797,
+       "language": "en",
+       "lyrics_owner_id": 2120684,
+       "lyrics_state": "complete",
+       "path": "/Yung-bleu-youre-mines-still-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Yung-bleu-youre-mines-still-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 2
+       },
+       "release_date_for_display": "October 2, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 2, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 105343
+       },
+       "title": "You\u2019re Mines Still",
+       "title_with_featured": "You're Mines Still",
+       "url": "https://genius.com/Yung-bleu-youre-mines-still-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1152503",
+        "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+        "id": 1152503,
+        "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Yung Bleu",
+        "url": "https://genius.com/artists/Yung-bleu",
+        "iq": 609
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/3723200",
+       "artist_names": "Juice WRLD (Ft. Lil Uzi Vert)",
+       "full_title": "Lucid Dreams (Remix) by\u00a0Juice\u00a0WRLD (Ft.\u00a0Lil\u00a0Uzi Vert)",
+       "header_image_thumbnail_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.640x640x1.jpg",
+       "id": 3723200,
+       "language": "en",
+       "lyrics_owner_id": 1211266,
+       "lyrics_state": "complete",
+       "path": "/Juice-wrld-lucid-dreams-remix-lyrics",
+       "pyongs_count": 77,
+       "relationships_index_url": "https://genius.com/Juice-wrld-lucid-dreams-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 5,
+        "day": 28
+       },
+       "release_date_for_display": "May 28, 2021",
+       "release_date_with_abbreviated_month_for_display": "May. 28, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/264a4bcb7ca166188bb43fd3c90d46ed.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 255706
+       },
+       "title": "Lucid Dreams (Remix)",
+       "title_with_featured": "Lucid Dreams (Remix) (Ft.\u00a0Lil\u00a0Uzi Vert)",
+       "url": "https://genius.com/Juice-wrld-lucid-dreams-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/217208",
+         "header_image_url": "https://images.genius.com/fc90b951e209e3e896cd3dc913bccf71.1000x333x1.jpg",
+         "id": 217208,
+         "image_url": "https://images.genius.com/3619e57354afa7dd5e65b9c261982ccc.640x640x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Lil Uzi Vert",
+         "url": "https://genius.com/artists/Lil-uzi-vert",
+         "iq": 5875
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1237094",
+        "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+        "id": 1237094,
+        "image_url": "https://images.genius.com/42b0e9b115b685c8dd7e7f32e3f1ce9c.999x999x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Juice WRLD",
+        "url": "https://genius.com/artists/Juice-wrld",
+        "iq": 15877
+       }
+      },
+      {
+       "annotation_count": 17,
+       "api_path": "/songs/3359190",
+       "artist_names": "Juice WRLD",
+       "full_title": "Lucid Dreams by\u00a0Juice\u00a0WRLD",
+       "header_image_thumbnail_url": "https://images.genius.com/3946557bbac9568b3b5d8bb4d9ef29f7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3946557bbac9568b3b5d8bb4d9ef29f7.1000x1000x1.jpg",
+       "id": 3359190,
+       "language": "en",
+       "lyrics_owner_id": 4438121,
+       "lyrics_state": "complete",
+       "path": "/Juice-wrld-lucid-dreams-lyrics",
+       "pyongs_count": 521,
+       "relationships_index_url": "https://genius.com/Juice-wrld-lucid-dreams-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 7,
+        "day": 1
+       },
+       "release_date_for_display": "July 1, 2017",
+       "release_date_with_abbreviated_month_for_display": "Jul. 1, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/821652408e7ff83dc5fb0f411d535171.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/821652408e7ff83dc5fb0f411d535171.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "concurrents": 3,
+        "hot": false,
+        "pageviews": 4881078
+       },
+       "title": "Lucid Dreams",
+       "title_with_featured": "Lucid Dreams",
+       "url": "https://genius.com/Juice-wrld-lucid-dreams-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1237094",
+        "header_image_url": "https://images.genius.com/87c55e8a5b91902ea6686d98b5b3bb3d.1000x563x1.png",
+        "id": 1237094,
+        "image_url": "https://images.genius.com/42b0e9b115b685c8dd7e7f32e3f1ce9c.999x999x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Juice WRLD",
+        "url": "https://genius.com/artists/Juice-wrld",
+        "iq": 15877
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/162955",
+       "artist_names": "Sting",
+       "full_title": "Shape of My Heart by\u00a0Sting",
+       "header_image_thumbnail_url": "https://images.genius.com/0974b45496e159a317022674024c3864.300x150x1.jpg",
+       "header_image_url": "https://images.genius.com/0974b45496e159a317022674024c3864.1000x500x1.jpg",
+       "id": 162955,
+       "language": "en",
+       "lyrics_owner_id": 205320,
+       "lyrics_state": "complete",
+       "path": "/Sting-shape-of-my-heart-lyrics",
+       "pyongs_count": 50,
+       "relationships_index_url": "https://genius.com/Sting-shape-of-my-heart-sample",
+       "release_date_components": {
+        "year": 1993,
+        "month": 3,
+        "day": 9
+       },
+       "release_date_for_display": "March 9, 1993",
+       "release_date_with_abbreviated_month_for_display": "Mar. 9, 1993",
+       "song_art_image_thumbnail_url": "https://images.genius.com/86bca22d668b42b5aff7c49499502935.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/86bca22d668b42b5aff7c49499502935.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 438750
+       },
+       "title": "Shape of My Heart",
+       "title_with_featured": "Shape of My Heart",
+       "url": "https://genius.com/Sting-shape-of-my-heart-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/679",
+        "header_image_url": "https://images.genius.com/f9577feb5bb957d38ddc776274c3c743.336x425x1.jpg",
+        "id": 679,
+        "image_url": "https://images.genius.com/f9577feb5bb957d38ddc776274c3c743.336x425x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Sting",
+        "url": "https://genius.com/artists/Sting",
+        "iq": 270
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/6016797",
+       "artist_names": "Yung Bleu",
+       "full_title": "You're Mines Still by\u00a0Yung\u00a0Bleu",
+       "header_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "header_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "id": 6016797,
+       "language": "en",
+       "lyrics_owner_id": 2120684,
+       "lyrics_state": "complete",
+       "path": "/Yung-bleu-youre-mines-still-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Yung-bleu-youre-mines-still-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 10,
+        "day": 2
+       },
+       "release_date_for_display": "October 2, 2020",
+       "release_date_with_abbreviated_month_for_display": "Oct. 2, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/42c28c6809986776eb739d688080d9e1.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 105343
+       },
+       "title": "You\u2019re Mines Still",
+       "title_with_featured": "You're Mines Still",
+       "url": "https://genius.com/Yung-bleu-youre-mines-still-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1152503",
+        "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+        "id": 1152503,
+        "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Yung Bleu",
+        "url": "https://genius.com/artists/Yung-bleu",
+        "iq": 609
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7162512",
+       "artist_names": "Shordie Shordie",
+       "full_title": "Under 51 Seconds by\u00a0Shordie\u00a0Shordie",
+       "header_image_thumbnail_url": "https://images.genius.com/7524163a21b4f154abc093171824f191.300x225x1.jpg",
+       "header_image_url": "https://images.genius.com/7524163a21b4f154abc093171824f191.480x360x1.jpg",
+       "id": 7162512,
+       "language": "en",
+       "lyrics_owner_id": 13782407,
+       "lyrics_state": "complete",
+       "path": "/Shordie-shordie-under-51-seconds-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Shordie-shordie-under-51-seconds-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 8,
+        "day": 22
+       },
+       "release_date_for_display": "August 22, 2021",
+       "release_date_with_abbreviated_month_for_display": "Aug. 22, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7524163a21b4f154abc093171824f191.300x225x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7524163a21b4f154abc093171824f191.480x360x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Under 51 Seconds",
+       "title_with_featured": "Under 51 Seconds",
+       "url": "https://genius.com/Shordie-shordie-under-51-seconds-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1357331",
+        "header_image_url": "https://images.genius.com/9c710dac62677d39428cd93ad7ab58ea.1000x1000x1.jpg",
+        "id": 1357331,
+        "image_url": "https://images.genius.com/9c710dac62677d39428cd93ad7ab58ea.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Shordie Shordie",
+        "url": "https://genius.com/artists/Shordie-shordie",
+        "iq": 595
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6588992",
+       "artist_names": "Chl\u00f6e",
+       "full_title": "You\u2019re Not Mine Still (Remix) by\u00a0Chl\u00f6e",
+       "header_image_thumbnail_url": "https://images.genius.com/edce233bb1104e09525eda85b91b776c.300x426x1.jpg",
+       "header_image_url": "https://images.genius.com/edce233bb1104e09525eda85b91b776c.704x1000x1.jpg",
+       "id": 6588992,
+       "language": "en",
+       "lyrics_owner_id": 8933395,
+       "lyrics_state": "complete",
+       "path": "/Chloe-youre-not-mine-still-remix-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Chloe-youre-not-mine-still-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 3,
+        "day": 13
+       },
+       "release_date_for_display": "March 13, 2021",
+       "release_date_with_abbreviated_month_for_display": "Mar. 13, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/edce233bb1104e09525eda85b91b776c.300x426x1.jpg",
+       "song_art_image_url": "https://images.genius.com/edce233bb1104e09525eda85b91b776c.704x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 27139
+       },
+       "title": "You\u2019re Not Mine Still (Remix)",
+       "title_with_featured": "You\u2019re Not Mine Still (Remix)",
+       "url": "https://genius.com/Chloe-youre-not-mine-still-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/993246",
+        "header_image_url": "https://images.genius.com/885f7d182f0368dbd089536cfd91ad16.1000x333x1.jpg",
+        "id": 993246,
+        "image_url": "https://images.genius.com/1cdd68113c23f5458a839b054c541e9c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chl\u00f6e",
+        "url": "https://genius.com/artists/Chloe"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/325280",
+     "header_image_url": "https://images.genius.com/f226ed69b24c48fb5356d9687147d99f.400x400x1.jpg",
+     "id": 325280,
+     "image_url": "https://images.genius.com/f226ed69b24c48fb5356d9687147d99f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nate Rhoads",
+     "url": "https://genius.com/artists/Nate-rhoads"
+    },
+    {
+     "api_path": "/artists/1152503",
+     "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+     "id": 1152503,
+     "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Yung Bleu",
+     "url": "https://genius.com/artists/Yung-bleu",
+     "iq": 609
+    },
+    {
+     "api_path": "/artists/130",
+     "header_image_url": "https://images.genius.com/50b41d1da8dfd60548a6c9f2afa9b1b1.480x270x54.gif",
+     "id": 130,
+     "image_url": "https://images.genius.com/4e793216ac5eb88b8e8b7fc11b2e6521.548x548x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Drake",
+     "url": "https://genius.com/artists/Drake"
+    }
+   ],
+   "artist": "Yung Bleu",
+   "lyrics": "65 ContributorsYou\u2019re Mines Still (Remix) Lyrics[Intro: Yung Bleu]\nIf I ever\n\n[Verse 1: Yung Bleu]\nIf I ever made you angry, girl\nJust know that it get better with time (Time)\nThey say time heals\nShe can't see her life without me, she's so blind still\nFuck that nigga, you can tell him that you're mines still\n\n[Pre-Chorus: Yung Bleu]\nAnd she don't wanna go to sleep, she angry\nLately, she's been noticing he ain't me\n[Chorus: Yung Bleu]\nI wish that we can change places\nDon't want no new, new faces\nShe got my heartbeat racing\nThey say time heals\nDon't go build no life without me 'cause you're mines still\nOh, and I don't wanna go unless you make me\n\n[Verse 2: Drake]\nPretty face, pretty tempted\nBut pretty taught me ugly lessons\nPretty had me givin' more than I was gettin'\nSo if pretty don't come with somethin', well, then I dead it\nAshamed to tell my friends how much I'd do for you\n'Cause they know that you would never do the same for me\nI wasn't lookin' for your secrets, they just came to me\nAnd they contradicted everything you claimed to be\nI took you to the club and you hugged on somebody that I know\nAnd I know them type of hugs\nSame shit I do to women when I know I used to fuck\nAnd I know they with they nigga, but they never brought it up\nI'm down these days\nDown to do better 'cause you know I done enough\nYou should lay it down, we'll talk about it when you up\n\n[Pre-Chorus: Yung Bleu & Drake]\nBut she don't wanna go to sleep, she angry\nLately, she's been noticin' he ain't me\n(He ain't me)\n(Yeah)\nYou might also like[Chorus: Yung Bleu]\nI wish that we can change places\nDon't want no new, new faces\nShe got my heartbeat racing\nThey say time heals\nDon't go build no life without me 'cause you're mines still\nAnd I don't wanna go unless you make me\n\n[Verse 3: Yung Bleu]\nDown on my knees, hopin' you take me\nBetter tell that nigga you mine\nHeard you've been trying to tie the knot, girl, tell me you lyin'\nLet me beat that pussy up one more time\nLet me beat that pussy up one more time\nI know that you fiend for this\nI know that you did not forget\nSo don't go to sleep\n\n[Pre-Chorus: Yung Bleu]\nAnd she don't wanna go to sleep, she angry\nLately, she's been noticing he ain't me\n(Oh, he ain't me)\n\n[Chorus: Yung Bleu]\nI wish that we can change places\nDon't want no new, new faces\nShe got my heartbeat racing (Hey, yeah)\nThey say time heals (They say)\nDon't go build no life without me 'cause you're mines still\nOh, and I don't wanna go unless you make me\n[Outro: Yung Bleu]\nLately, I've been gone, I'm feelin' crazy, yeah\nI'm from the bricks, we got a whole lot of bricks\nYou got a whole lot of tricks and I wanna see what you do with them20Embed"
+  },
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/3114864",
+   "artist_names": "Yung Bleu",
+   "full_title": "Miss It by\u00a0Yung\u00a0Bleu",
+   "header_image_thumbnail_url": "https://images.genius.com/f08b7cf00215884219a18cfe403482af.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/f08b7cf00215884219a18cfe403482af.1000x1000x1.jpg",
+   "id": 3114864,
+   "language": "en",
+   "lyrics_owner_id": 4754647,
+   "lyrics_state": "complete",
+   "path": "/Yung-bleu-miss-it-lyrics",
+   "pyongs_count": 14,
+   "relationships_index_url": "https://genius.com/Yung-bleu-miss-it-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 8,
+    "day": 18
+   },
+   "release_date_for_display": "August 18, 2017",
+   "release_date_with_abbreviated_month_for_display": "Aug. 18, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/f08b7cf00215884219a18cfe403482af.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/f08b7cf00215884219a18cfe403482af.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 34,
+    "iq_earners": 34,
+    "transcribers": 2,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 556990
+   },
+   "title": "Miss It",
+   "title_with_featured": "Miss It",
+   "url": "https://genius.com/Yung-bleu-miss-it-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1152503",
+    "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+    "id": 1152503,
+    "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Yung Bleu",
+    "url": "https://genius.com/artists/Yung-bleu",
+    "iq": 609
+   },
+   "apple_music_id": "1270327854",
+   "apple_music_player_url": "https://genius.com/songs/3114864/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3114864' class='rg_embed_link' data-song-id='3114864'>Read <a href='https://genius.com/Yung-bleu-miss-it-lyrics'>\u201cMiss It\u201d by Yung\u00a0Bleu</a> on Genius</div> <script crossorigin src='//genius.com/songs/3114864/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-08-18",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4921876,
+    "annotator_login": "lonland",
+    "api_path": "/referents/25118867",
+    "classification": "needs_exegesis",
+    "fragment": "Miss It",
+    "id": 25118867,
+    "is_description": true,
+    "path": "/25118867/Yung-bleu-miss-it/Miss-it",
+    "range": {
+     "content": "Miss It"
+    },
+    "song_id": 3114864,
+    "url": "https://genius.com/25118867/Yung-bleu-miss-it/Miss-it",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3114864",
+     "client_timestamps": {
+      "updated_by_human_at": 1599808198,
+      "lyrics_updated_at": 1599815764
+     },
+     "context": "Yung Bleu",
+     "id": 3114864,
+     "image_url": "https://images.genius.com/f08b7cf00215884219a18cfe403482af.1000x1000x1.jpg",
+     "link_title": "Miss It by\u00a0Yung\u00a0Bleu",
+     "title": "Miss It",
+     "type": "Song",
+     "url": "https://genius.com/Yung-bleu-miss-it-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25118867",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25118867,
+      "pinned": false,
+      "share_url": "https://genius.com/25118867",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/25118867/Yung-bleu-miss-it/Miss-it",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4921876",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dadf58976bbd2e932d3655925f6b8c53",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dadf58976bbd2e932d3655925f6b8c53",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dadf58976bbd2e932d3655925f6b8c53",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dadf58976bbd2e932d3655925f6b8c53",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/ca054bcf0c20b24d58536d9c231bc290.900x600x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 4921876,
+         "iq": 665335,
+         "login": "lonland",
+         "name": "\u200blonland",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/lonland",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Qq6AZnY21cM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1145311",
+     "header_image_url": "https://images.genius.com/c5d87fd57be0ea5b066ed1468c01b099.408x408x1.jpg",
+     "id": 1145311,
+     "image_url": "https://images.genius.com/c5d87fd57be0ea5b066ed1468c01b099.408x408x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ice Starr",
+     "url": "https://genius.com/artists/Ice-starr"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1152503",
+     "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+     "id": 1152503,
+     "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Yung Bleu",
+     "url": "https://genius.com/artists/Yung-bleu",
+     "iq": 609
+    }
+   ],
+   "artist": "Yung Bleu",
+   "lyrics": "34 ContributorsMiss It Lyrics[Chorus]\nI'm sitting here reminiscing how I would kiss you baby\nI gave you top of the line, I know you miss it baby\nI got a lot on my mind, why don't you visit baby\nIf you could turn back the time you would've listened baby\nYou would've listened to the words, I swear\nYour shit wouldn't be out on the curb, I swear\nI swear to God you had some nerve, I swear\nBut this for listening to them birds out there\nI put up with your bullshit for the last time\nWho would've thought that when we fucked it was the last time\nIt was the last time\nWho would've thought that when we fucked it was the last time\n[Verse 1]\nI got issues, yeah I got problems with commitment baby\nI apologized to you I should've listened baby\nI wasn't in love with them hoes, I was just pimping baby\nI knew my part, knew my role, I wasn't slipping baby\nI regret it, you know I do, nobody perfect\nUsed to dress you in Jimmy Choo because you worth it\nYou ain't here when I needed you, what was your purpose?\nSay you love me, say you trust me, now you cursin'\nHalf the time I'm at the studio writing verses\nTryna get away from this drama I'm submerged in\nNow you on my social media and you lurkin'\nYou wanna be a detective, but be my girlfriend\nI'm too good of a nigga to deserve this\nGrab my car keys to the 'Maro now I'm swervin\nI'm too good of a nigga to derseve this\nYeah yeah yeah yeah\n\n[Chorus]\nI'm sitting here reminiscing how I would kiss you baby\nI gave you top of the line, I know you miss it baby\nI got a lot on my mind, why don't you visit baby\nIf you could turn back the time you would've listened baby\nYou would've listened to the words, I swear\nYour shit wouldn't be out on the curb, I swear\nI swear to God you had some nerve, I swear\nBut this for listening to them birds out there\nI put up with your bullshit for the last time\nWho would've thought that when we fucked it was the last time\nIt was the last time\nWho would've thought that when we fucked it was the last time\nYou might also like[Verse 2]\nLove me like no other, you don't need no one\nAll them bitches hating, don't believe no one\nSaid love me like no other, you don't need no one\nAll them bitches hating, don't believe no one\nI know your game, I know your game\nI know your game, I know your game\nIt ain't the same, it ain't the same\nBaby say my name, baby say my name\nI wanna take you way out to the island baby\nI wanna lick you down and have you smiling baby\nGirl you know when we on that drink we wylin' baby\nI'ma take you on a flight, let me be your pilot baby\n\n[Chorus]\nI'm sitting here reminiscing how I would kiss you baby\nI gave you top of the line, I know you miss it baby\nI got a lot on my mind, why don't you visit baby\nIf you could turn back the time you would've listened baby\nYou would've listened to the words, I swear\nYour shit wouldn't be out on the curb, I swear\nI swear to God you had some nerve, I swear\nBut this for listening to them birds out there\nI put up with your bullshit for the last time\nWho would've thought that when we fucked it was the last time\nIt was the last time\nWho would've thought that when we fucked it was the last time14Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/3524205",
+   "artist_names": "Yung Bleu (Ft. Baby B)",
+   "full_title": "Slide Thru by\u00a0Yung\u00a0Bleu (Ft.\u00a0Baby\u00a0B)",
+   "header_image_thumbnail_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.800x800x1.jpg",
+   "id": 3524205,
+   "language": "en",
+   "lyrics_owner_id": 54639,
+   "lyrics_state": "complete",
+   "path": "/Yung-bleu-slide-thru-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Yung-bleu-slide-thru-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 2,
+    "day": 14
+   },
+   "release_date_for_display": "February 14, 2018",
+   "release_date_with_abbreviated_month_for_display": "Feb. 14, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 2,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 262614
+   },
+   "title": "Slide Thru",
+   "title_with_featured": "Slide Thru (Ft.\u00a0Baby\u00a0B)",
+   "url": "https://genius.com/Yung-bleu-slide-thru-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/655105",
+     "header_image_url": "https://images.genius.com/c1aac9a1a08d6607f742050277646def.600x600x1.webp",
+     "id": 655105,
+     "image_url": "https://images.genius.com/0821cf35fe416a91c1050004fcc2e22f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Baby B",
+     "url": "https://genius.com/artists/Baby-b"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/1152503",
+    "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+    "id": 1152503,
+    "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Yung Bleu",
+    "url": "https://genius.com/artists/Yung-bleu",
+    "iq": 609
+   },
+   "apple_music_id": "1495259179",
+   "apple_music_player_url": "https://genius.com/songs/3524205/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3524205' class='rg_embed_link' data-song-id='3524205'>Read <a href='https://genius.com/Yung-bleu-slide-thru-lyrics'>\u201cSlide Thru\u201d by Yung\u00a0Bleu</a> on Genius</div> <script crossorigin src='//genius.com/songs/3524205/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-02-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/380397",
+    "cover_art_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.800x800x1.jpg",
+    "full_title": "Investments 5 by Yung Bleu",
+    "id": 380397,
+    "name": "Investments 5",
+    "release_date_for_display": "February 14, 2018",
+    "url": "https://genius.com/albums/Yung-bleu/Investments-5",
+    "artist": {
+     "api_path": "/artists/1152503",
+     "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+     "id": 1152503,
+     "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Yung Bleu",
+     "url": "https://genius.com/artists/Yung-bleu",
+     "iq": 609
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 54639,
+    "annotator_login": "WriteNProppa",
+    "api_path": "/referents/16937812",
+    "classification": "needs_exegesis",
+    "fragment": "Slide Thru",
+    "id": 16937812,
+    "is_description": true,
+    "path": "/16937812/Yung-bleu-slide-thru/Slide-thru",
+    "range": {
+     "content": "Slide Thru"
+    },
+    "song_id": 3524205,
+    "url": "https://genius.com/16937812/Yung-bleu-slide-thru/Slide-thru",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3524205",
+     "client_timestamps": {
+      "updated_by_human_at": 1671936251,
+      "lyrics_updated_at": 1635518180
+     },
+     "context": "Yung Bleu",
+     "id": 3524205,
+     "image_url": "https://images.genius.com/c01759eb9b03704ba5f5c4e1c6958a9d.800x800x1.jpg",
+     "link_title": "Slide Thru by\u00a0Yung\u00a0Bleu (Ft.\u00a0Baby\u00a0B)",
+     "title": "Slide Thru",
+     "type": "Song",
+     "url": "https://genius.com/Yung-bleu-slide-thru-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16937812",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16937812,
+      "pinned": false,
+      "share_url": "https://genius.com/16937812",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16937812/Yung-bleu-slide-thru/Slide-thru",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/54639",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a552d37ef4dfc8c4ba1e4aba7f8d122d",
+         "human_readable_role_for_display": "Staff",
+         "id": 54639,
+         "iq": 2709645,
+         "login": "WriteNProppa",
+         "name": "WriteNProppa",
+         "role_for_display": "staff",
+         "url": "https://genius.com/WriteNProppa",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/12195618",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/c38e50d27514c578da4f70f32bd4bace",
+    "human_readable_role_for_display": "Editor",
+    "id": 12195618,
+    "iq": 58540,
+    "login": "DayCole",
+    "name": "DayCole",
+    "role_for_display": "editor",
+    "url": "https://genius.com/DayCole",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "yung bleu",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/yung-bleu/slide-thru-feat-baby-c"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=szAd1ZqSKhw"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2951207",
+       "artist_names": "Ronin & Deverano",
+       "full_title": "Fall by\u00a0Ronin\u00a0& Deverano",
+       "header_image_thumbnail_url": "https://images.genius.com/dac1b002693f5144a02bd3f2f4051452.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/dac1b002693f5144a02bd3f2f4051452.500x500x1.jpg",
+       "id": 2951207,
+       "language": "en",
+       "lyrics_owner_id": 4146011,
+       "lyrics_state": "complete",
+       "path": "/Ronin-and-deverano-fall-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ronin-and-deverano-fall-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 4,
+        "day": 27
+       },
+       "release_date_for_display": "April 27, 2016",
+       "release_date_with_abbreviated_month_for_display": "Apr. 27, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/dac1b002693f5144a02bd3f2f4051452.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/dac1b002693f5144a02bd3f2f4051452.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Fall",
+       "title_with_featured": "Fall",
+       "url": "https://genius.com/Ronin-and-deverano-fall-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1056500",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 1056500,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ronin & Deverano",
+        "url": "https://genius.com/artists/Ronin-and-deverano"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/655105",
+     "header_image_url": "https://images.genius.com/c1aac9a1a08d6607f742050277646def.600x600x1.webp",
+     "id": 655105,
+     "image_url": "https://images.genius.com/0821cf35fe416a91c1050004fcc2e22f.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Baby B",
+     "url": "https://genius.com/artists/Baby-b"
+    },
+    {
+     "api_path": "/artists/1152503",
+     "header_image_url": "https://images.genius.com/43cd85fe7d71aa636ba17cfc6a8d23ae.800x1000x1.jpg",
+     "id": 1152503,
+     "image_url": "https://images.genius.com/dc2c0a6472747804006b3caa7d06cfac.743x743x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Yung Bleu",
+     "url": "https://genius.com/artists/Yung-bleu",
+     "iq": 609
+    }
+   ],
+   "artist": "Yung Bleu",
+   "lyrics": "24 ContributorsSlide Thru Lyrics[Intro]\n(Gangsta Grizzle)\nAw yeah, yeah, yeah\nAw (Yeah)\nAw yeah, yeah, yeah\nAw\n\n[Chorus: Baby B & Yung Bleu]\nI ain't tryna be soft right now, just want you to know\nHow a nigga feelin' right now, girl I'm so throwed\nI had a couple drinks or two, yeah\nThat's why I'm thinkin' about you\nI got my mind on my money but my mind's on you right now\nHow would you feel if I slid through right now?\nI had a couple drinks or two, yeah\nThat's why I'm thinkin' about you\nOh (Oh)\n[Verse 1: Yung Bleu]\nFuck a ride\nI'ma fuck you good, I won't tell a lie (Tell a lie)\nI'ma fuck you good 'til you good lie (Uh, oh)\nNo friends or no drugs, it's just you and I (You and I)\nAnd if you ever leave it'd be suicide ('Cide)\nYou give me your wings, baby we can fly (Fly)\nI see through your soul, how you feel inside? ('Side)\n(Mm-mm)\nSo baby just turn off the light (Yeah)\nI want you to slow wine for me\nYou need to give all your time to me\nPut all your pride to the side for me\n'Cause I ain't even\n\n[Chorus: Baby B, Yung Bleu, Baby B & Yung Bleu]\nI ain't tryna be soft right now, just want you to know\n(Wanna let you know how I feel)\nHow a nigga feelin' right now, girl I'm so throwed\n(I think this liquor gettin' to me)\nI had a couple drinks or two, yeah\nThat's why I'm thinkin' about you\n(Just tell me if you want another shot, you know what I'm sayin', I been on this shit all night, haha, yeah baby)\nI got my mind on my money but my mind's on you right now\n(I been thinkin' about you heavy, I'm like)\nHow would you feel if I slid through right now?\n(I really should slide through sometimes, you know what I'm sayin'?)\nI had a couple drinks or two, yeah\n(You ain't gotta be like that with me)\nThat's why I'm thinkin' about you\n(I'm thinkin' about you)\n(Vandross)\nYou might also like[Verse 2: Yung Bleu]\nI heard you made love but you never had trust\nI heard you got a man, I don't really give a fuck (Good)\nI heard you get wet when you think about us\nRide this dick like a bus, I ain't come here to fuss\nI need your energy (I need it), I need your energy (I need it)\nI want to know if you into me? (Vandross)\nAyy-yay-yay-yay\nFuckin' on the highway-yay-yay (Yeah)\nFuck you in the driveway-yay-yay\nI know you like it my way-yay-yay\n(Oh-oh, oh-oh)\n\n[Chorus: Baby B & Baby B & Yung Bleu]\nI ain't tryna be soft right now, just want you to know\nHow a nigga feelin' right now, girl I'm so throwed\nI had a couple drinks or two, yeah\nThat's why I'm thinkin' about you\nI got my mind on my money but my mind's on you right now\nHow would you feel if I slid through right now?\nHad a couple drinks or two, yeah\nThat's why I'm thinkin' about you\n\n[Outro: Baby B]\nStuck on your ex and it's okay baby\nI'll do you better than your last baby\nOnce you see I'm for real\nYou might be mad 'cause I might not feel the same way, what you do baby?\nBe mine, be mine (Mine)\nBe mine, be mine (Mine)\n(Aw, yeah)\n(Aw, yeah, yeah, yeah)\n(Aw, yeah)6Embed"
+  }
+ ]
+}

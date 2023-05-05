@@ -1,0 +1,3524 @@
+{
+ "alternate_names": [
+  "Bek Campbell",
+  "Bek D. Campbell",
+  "Bek David Campbell",
+  "Beck D. Hansen",
+  "Beck David Hansen",
+  "Beck Hansen"
+ ],
+ "api_path": "/artists/2073",
+ "description": {
+  "plain": "Beck took the lo-fi sound of DIY indie rock to the Billboard charts in 1994 with his slacker anthem \u201cLoser,\u201d but his avant-pop palette extends well beyond the folk-rap beats and samples of that hit; encompassing everything from funk, soul, and psychedelia to wild experiments with feedback, toy instruments, and found sounds. Plus, his disjointed, surreal lyrics (which were often compared to Highway 61 Revisited-era Bob Dylan) made for an alt-pop sound that helped define the \u201890s and made Beck one of the most interesting musicians of his era."
+ },
+ "facebook_name": "beck",
+ "followers_count": 334,
+ "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+ "id": 2073,
+ "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+ "instagram_name": "beck",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Beck",
+ "translation_artist": false,
+ "twitter_name": "beck",
+ "url": "https://genius.com/artists/Beck",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 173194,
+  "annotator_login": "ReadOnlyUser",
+  "api_path": "/referents/6927378",
+  "classification": "accepted",
+  "fragment": "Beck",
+  "id": 6927378,
+  "is_description": true,
+  "path": "/6927378/Beck/Beck",
+  "range": {
+   "content": "Beck"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6927378/Beck/Beck",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2073",
+   "context": null,
+   "id": 2073,
+   "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+   "link_title": "Beck",
+   "title": "Beck",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Beck"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6927378",
+    "body": {
+     "plain": "Beck took the lo-fi sound of DIY indie rock to the Billboard charts in 1994 with his slacker anthem \u201cLoser,\u201d but his avant-pop palette extends well beyond the folk-rap beats and samples of that hit; encompassing everything from funk, soul, and psychedelia to wild experiments with feedback, toy instruments, and found sounds. Plus, his disjointed, surreal lyrics (which were often compared to Highway 61 Revisited-era Bob Dylan) made for an alt-pop sound that helped define the \u201890s and made Beck one of the most interesting musicians of his era."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6927378,
+    "pinned": false,
+    "share_url": "https://genius.com/6927378",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6927378/Beck/Beck",
+    "verified": false,
+    "votes_total": 50,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.9662921348314607,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/116340",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+       "human_readable_role_for_display": "Contributor",
+       "id": 116340,
+       "iq": 369268,
+       "login": "palacelight",
+       "name": "Reuben Tasker",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/palacelight",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.033707865168539325,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1603328",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/773f9640b0b2e0ad1c6f7fedffb70a1d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/773f9640b0b2e0ad1c6f7fedffb70a1d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/773f9640b0b2e0ad1c6f7fedffb70a1d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/773f9640b0b2e0ad1c6f7fedffb70a1d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/e372f40ee0a6d090ffd11b4c5518a5a9.1000x370x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 1603328,
+       "iq": 431856,
+       "login": "kingkillmonger",
+       "name": "\u029e|a\u00e7e|w\u0153|k",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/kingkillmonger",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 32,
+   "api_path": "/songs/4905",
+   "artist_names": "Beck",
+   "full_title": "Loser by\u00a0Beck",
+   "header_image_thumbnail_url": "https://images.genius.com/16bc5137fdc25d1b66668320d3c3236c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/16bc5137fdc25d1b66668320d3c3236c.1000x1000x1.jpg",
+   "id": 4905,
+   "language": "en",
+   "lyrics_owner_id": 7969,
+   "lyrics_state": "complete",
+   "path": "/Beck-loser-lyrics",
+   "pyongs_count": 69,
+   "relationships_index_url": "https://genius.com/Beck-loser-sample",
+   "release_date_components": {
+    "year": 1993,
+    "month": 3,
+    "day": 8
+   },
+   "release_date_for_display": "March 8, 1993",
+   "release_date_with_abbreviated_month_for_display": "Mar. 8, 1993",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2616b5713a51eb3db18c625c1542b9e5.300x301x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2616b5713a51eb3db18c625c1542b9e5.500x501x1.jpg",
+   "stats": {
+    "accepted_annotations": 29,
+    "contributors": 152,
+    "iq_earners": 152,
+    "transcribers": 0,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 608090
+   },
+   "title": "Loser",
+   "title_with_featured": "Loser",
+   "url": "https://genius.com/Beck-loser-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2073",
+    "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+    "id": 2073,
+    "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Beck",
+    "url": "https://genius.com/artists/Beck"
+   },
+   "apple_music_id": "19820274",
+   "apple_music_player_url": "https://genius.com/songs/4905/apple_music_player",
+   "description": {
+    "plain": "The verses of Beck\u2019s breakout hit seem to be mainly a stream of consciousness consisting of nonsense while announcing to the world he\u2019s just a slacker. But some feel he juxtaposes imagery of poverty with pop culture imagery, characterized by glamour and excess. Beck, however, has said that the rap began merely as an improvised poem recorded in his kitchen as a filler track.\n\n\u201cLoser\u201d was anything but. Originally recorded in 1991 as a \u201cfluke that I\u2019d done messing around at a guy\u2019s house\u201d, it was not released until 1993 as a limited pressing of 500 copies on the independent label Bong Load. It quickly became popular on college radio and some alternative stations, and Geffen Records took interest in him.\n\nGeffen\u2019s reissue of \u201cLoser\u201d became Beck\u2019s breakout hit, reaching #10 on the US pop chart and  becoming a Gold-certified single. It also spent 5 weeks at #1 on the Modern Rock chart. Overseas it was a top 20 hit in several countries including hitting #1 in Norway.\n\nIt not only launched Beck\u2019s career into the mainstream but remains one of his signature songs, with Rolling Stone naming it one of the greatest songs of all time in 2011."
+   },
+   "embed_content": "<div id='rg_embed_link_4905' class='rg_embed_link' data-song-id='4905'>Read <a href='https://genius.com/Beck-loser-lyrics'>\u201cLoser\u201d by Beck</a> on Genius</div> <script crossorigin src='//genius.com/songs/4905/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1993-03-08",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/544229",
+    "cover_art_url": "https://images.genius.com/8db3ca8a0a4c78ad17796f99d300c5ae.221x221x1.jpg",
+    "full_title": "Fresh Meat + Old Slabs by Beck",
+    "id": 544229,
+    "name": "Fresh Meat + Old Slabs",
+    "release_date_for_display": "1993",
+    "url": "https://genius.com/albums/Beck/Fresh-meat-old-slabs",
+    "artist": {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1906375",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1906375,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bong Load Records",
+       "url": "https://genius.com/artists/Bong-load-records"
+      },
+      {
+       "api_path": "/artists/32167",
+       "header_image_url": "https://images.genius.com/08ff1c06f854afac6a1ac9a571993b65.800x1000x1.jpg",
+       "id": 32167,
+       "image_url": "https://images.genius.com/9e872dbb0d483be5f732333ef478a73e.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Geffen Records",
+       "url": "https://genius.com/artists/Geffen-records"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/36560",
+       "header_image_url": "https://images.genius.com/1db8f3b307775c095ec8ee1f79c07aae.493x476x1.jpg",
+       "id": 36560,
+       "image_url": "https://images.genius.com/1db8f3b307775c095ec8ee1f79c07aae.493x476x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Rothrock",
+       "url": "https://genius.com/artists/Tom-rothrock"
+      },
+      {
+       "api_path": "/artists/36561",
+       "header_image_url": "https://images.genius.com/4a84d53d4a5b6dd4ed901b640089d97c.1000x665x1.jpg",
+       "id": 36561,
+       "image_url": "https://images.genius.com/e2e2dc226ba7bb19e16cff5e9dd49d5b.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rob Schnapf",
+       "url": "https://genius.com/artists/Rob-schnapf"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/670404",
+       "header_image_url": "https://images.genius.com/d8361a8e7bedc5719a21ffd636cc8ea2.219x263x1.jpg",
+       "id": 670404,
+       "image_url": "https://images.genius.com/1041e305b4790d72aacb54c6c76b0056.300x225x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stephen Marcussen",
+       "url": "https://genius.com/artists/Stephen-marcussen"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 7969,
+    "annotator_login": "Beckrules",
+    "api_path": "/referents/3494346",
+    "classification": "accepted",
+    "fragment": "Loser",
+    "id": 3494346,
+    "is_description": true,
+    "path": "/3494346/Beck-loser/Loser",
+    "range": {
+     "content": "Loser"
+    },
+    "song_id": 4905,
+    "url": "https://genius.com/3494346/Beck-loser/Loser",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4905",
+     "client_timestamps": {
+      "updated_by_human_at": 1667858371,
+      "lyrics_updated_at": 1659309760
+     },
+     "context": "Beck",
+     "id": 4905,
+     "image_url": "https://images.genius.com/2616b5713a51eb3db18c625c1542b9e5.500x501x1.jpg",
+     "link_title": "Loser by\u00a0Beck",
+     "title": "Loser",
+     "type": "Song",
+     "url": "https://genius.com/Beck-loser-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3494346",
+      "body": {
+       "plain": "The verses of Beck\u2019s breakout hit seem to be mainly a stream of consciousness consisting of nonsense while announcing to the world he\u2019s just a slacker. But some feel he juxtaposes imagery of poverty with pop culture imagery, characterized by glamour and excess. Beck, however, has said that the rap began merely as an improvised poem recorded in his kitchen as a filler track.\n\n\u201cLoser\u201d was anything but. Originally recorded in 1991 as a \u201cfluke that I\u2019d done messing around at a guy\u2019s house\u201d, it was not released until 1993 as a limited pressing of 500 copies on the independent label Bong Load. It quickly became popular on college radio and some alternative stations, and Geffen Records took interest in him.\n\nGeffen\u2019s reissue of \u201cLoser\u201d became Beck\u2019s breakout hit, reaching #10 on the US pop chart and  becoming a Gold-certified single. It also spent 5 weeks at #1 on the Modern Rock chart. Overseas it was a top 20 hit in several countries including hitting #1 in Norway.\n\nIt not only launched Beck\u2019s career into the mainstream but remains one of his signature songs, with Rolling Stone naming it one of the greatest songs of all time in 2011."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3494346,
+      "pinned": false,
+      "share_url": "https://genius.com/3494346",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3494346/Beck-loser/Loser",
+      "verified": false,
+      "votes_total": 138,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5700934579439252,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1884245",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/580d4987e62dee3e3a7586f787d7e655",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/a50b2b29a755904448140c3e47aa0c04.1000x554x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1884245,
+         "iq": 171393,
+         "login": "sadchild",
+         "name": "Sadchild",
+         "role_for_display": "editor",
+         "url": "https://genius.com/sadchild",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12149532710280374,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5532400",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5532400,
+         "iq": 599,
+         "login": "ohyeahwright",
+         "name": "ohyeahwright",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ohyeahwright",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.11214953271028037,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7969",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7969,
+         "iq": 309,
+         "login": "Beckrules",
+         "name": "Beckrules",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Beckrules",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.10280373831775702,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4884787",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4884787,
+         "iq": 463,
+         "login": "odacaesar",
+         "name": "odacaesar",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/odacaesar",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.09345794392523364,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2319181",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e452e1cfdf04e646653ca9c0520aa09",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e452e1cfdf04e646653ca9c0520aa09",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e452e1cfdf04e646653ca9c0520aa09",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e452e1cfdf04e646653ca9c0520aa09",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/fwRaJ20R6GcW385JE0Yv_IMG_1003.JPG",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2319181,
+         "iq": 801,
+         "login": "talishaDentata",
+         "name": "talishaDentata",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/talishaDentata",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=YgSPaXgAdzE"
+    },
+    {
+     "native_uri": "spotify:track:5PntSbMHC1ud6Vvl8x56qd",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    },
+    {
+     "api_path": "/artists/1109269",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1109269,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Karl Stephenson",
+     "url": "https://genius.com/artists/Karl-stephenson"
+    },
+    {
+     "api_path": "/artists/36560",
+     "header_image_url": "https://images.genius.com/1db8f3b307775c095ec8ee1f79c07aae.493x476x1.jpg",
+     "id": 36560,
+     "image_url": "https://images.genius.com/1db8f3b307775c095ec8ee1f79c07aae.493x476x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tom Rothrock",
+     "url": "https://genius.com/artists/Tom-rothrock"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Beck-loser-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1428297",
+       "artist_names": "Johnny Jenkins",
+       "full_title": "I Walk On Gilded Splinters by\u00a0Johnny\u00a0Jenkins",
+       "header_image_thumbnail_url": "https://images.genius.com/39fdc440b3e5d92460a3848fe91446f5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/39fdc440b3e5d92460a3848fe91446f5.1000x1000x1.jpg",
+       "id": 1428297,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Johnny-jenkins-i-walk-on-gilded-splinters-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Johnny-jenkins-i-walk-on-gilded-splinters-sample",
+       "release_date_components": {
+        "year": 1970,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1970",
+       "release_date_with_abbreviated_month_for_display": "1970",
+       "song_art_image_thumbnail_url": "https://images.genius.com/39fdc440b3e5d92460a3848fe91446f5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/39fdc440b3e5d92460a3848fe91446f5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I Walk On Gilded Splinters",
+       "title_with_featured": "I Walk On Gilded Splinters",
+       "url": "https://genius.com/Johnny-jenkins-i-walk-on-gilded-splinters-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/387582",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 387582,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Johnny Jenkins",
+        "url": "https://genius.com/artists/Johnny-jenkins"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Beck-loser-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8778386",
+       "artist_names": "Five Starcle Men",
+       "full_title": "Untitled (#3 OKONS) by\u00a0Five\u00a0Starcle Men",
+       "header_image_thumbnail_url": "https://images.genius.com/73822348953edd22177e78ea503be49d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/73822348953edd22177e78ea503be49d.1000x1000x1.jpg",
+       "id": 8778386,
+       "language": "en",
+       "lyrics_owner_id": 8142288,
+       "lyrics_state": "complete",
+       "path": "/Five-starcle-men-untitled-3-okons-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Five-starcle-men-untitled-3-okons-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/73822348953edd22177e78ea503be49d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/73822348953edd22177e78ea503be49d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Untitled (#3 OKONS)",
+       "title_with_featured": "Untitled (#3 OKONS)",
+       "url": "https://genius.com/Five-starcle-men-untitled-3-okons-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2846635",
+        "header_image_url": "https://images.genius.com/effeacda67b928ead96d91862065338a.1000x1000x1.jpg",
+        "id": 2846635,
+        "image_url": "https://images.genius.com/effeacda67b928ead96d91862065338a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Five Starcle Men",
+        "url": "https://genius.com/artists/Five-starcle-men"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6429811",
+       "artist_names": "Jamie Madrox",
+       "full_title": "Sacrifice by\u00a0Jamie\u00a0Madrox",
+       "header_image_thumbnail_url": "https://images.genius.com/a243ffff48b9570974cb61c8af640cbb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a243ffff48b9570974cb61c8af640cbb.540x540x1.jpg",
+       "id": 6429811,
+       "language": "en",
+       "lyrics_owner_id": 8577466,
+       "lyrics_state": "complete",
+       "path": "/Jamie-madrox-sacrifice-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jamie-madrox-sacrifice-sample",
+       "release_date_components": {
+        "year": 1995,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1995",
+       "release_date_with_abbreviated_month_for_display": "1995",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a243ffff48b9570974cb61c8af640cbb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a243ffff48b9570974cb61c8af640cbb.540x540x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sacrifice",
+       "title_with_featured": "Sacrifice",
+       "url": "https://genius.com/Jamie-madrox-sacrifice-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3150",
+        "header_image_url": "https://images.genius.com/aec05796f27b96ba57cd47bc5c7f6651.1000x563x1.jpg",
+        "id": 3150,
+        "image_url": "https://images.genius.com/5f19a694af8148602c5009174d2a7de6.723x723x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jamie Madrox",
+        "url": "https://genius.com/artists/Jamie-madrox"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/6926671",
+       "artist_names": "Cosmic Latte",
+       "full_title": "The Next Eastwood by\u00a0Cosmic\u00a0Latte",
+       "header_image_thumbnail_url": "https://images.genius.com/fa427a1b82d521f519995afc41b1a4fb.300x300x1.png",
+       "header_image_url": "https://images.genius.com/fa427a1b82d521f519995afc41b1a4fb.700x700x1.png",
+       "id": 6926671,
+       "language": "en",
+       "lyrics_owner_id": 11554664,
+       "lyrics_state": "complete",
+       "path": "/Cosmic-latte-the-next-eastwood-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cosmic-latte-the-next-eastwood-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 10
+       },
+       "release_date_for_display": "January 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fa427a1b82d521f519995afc41b1a4fb.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/fa427a1b82d521f519995afc41b1a4fb.700x700x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "The Next Eastwood",
+       "title_with_featured": "The Next Eastwood",
+       "url": "https://genius.com/Cosmic-latte-the-next-eastwood-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2660943",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2660943,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cosmic Latte",
+        "url": "https://genius.com/artists/Cosmic-latte"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1535486",
+       "artist_names": "Girl Talk",
+       "full_title": "Let It Out by\u00a0Girl\u00a0Talk",
+       "header_image_thumbnail_url": "https://images.genius.com/8fc5c23d750c72df5c315f31f32bb97b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8fc5c23d750c72df5c315f31f32bb97b.1000x1000x1.jpg",
+       "id": 1535486,
+       "language": "en",
+       "lyrics_owner_id": 227674,
+       "lyrics_state": "complete",
+       "path": "/Girl-talk-let-it-out-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Girl-talk-let-it-out-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 11,
+        "day": 15
+       },
+       "release_date_for_display": "November 15, 2010",
+       "release_date_with_abbreviated_month_for_display": "Nov. 15, 2010",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8fc5c23d750c72df5c315f31f32bb97b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8fc5c23d750c72df5c315f31f32bb97b.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5390
+       },
+       "title": "Let It Out",
+       "title_with_featured": "Let It Out",
+       "url": "https://genius.com/Girl-talk-let-it-out-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/928",
+        "header_image_url": "https://images.genius.com/d8d897c8aa4269e0035eb18faffd52ce.770x616x1.jpg",
+        "id": 928,
+        "image_url": "https://images.genius.com/5951c5c6da66bc7fc4ae35c95a578766.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Girl Talk",
+        "url": "https://genius.com/artists/Girl-talk"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3304155",
+       "artist_names": "Ghostie",
+       "full_title": "Why Don't You Kill Me (Interlude) by\u00a0Ghostie",
+       "header_image_thumbnail_url": "https://images.genius.com/b2f5619cfae51cf0a2b4e3f88b5fefc0.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b2f5619cfae51cf0a2b4e3f88b5fefc0.999x999x1.png",
+       "id": 3304155,
+       "language": "en",
+       "lyrics_owner_id": 3671944,
+       "lyrics_state": "complete",
+       "path": "/Ghostie-why-dont-you-kill-me-interlude-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ghostie-why-dont-you-kill-me-interlude-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 2017",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b2f5619cfae51cf0a2b4e3f88b5fefc0.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b2f5619cfae51cf0a2b4e3f88b5fefc0.999x999x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Why Don\u2019t You Kill Me (Interlude)",
+       "title_with_featured": "Why Don't You Kill Me (Interlude)",
+       "url": "https://genius.com/Ghostie-why-dont-you-kill-me-interlude-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1110385",
+        "header_image_url": "https://images.genius.com/f7224c3fe583411f39301efd1fa52b26.500x500x1.jpg",
+        "id": 1110385,
+        "image_url": "https://images.genius.com/80c10bf60341317c630c0163510709c8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ghostie",
+        "url": "https://genius.com/artists/Ghostie"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Beck-loser-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4880541",
+       "artist_names": "Oli XL",
+       "full_title": "Clumsy by\u00a0Oli\u00a0XL",
+       "header_image_thumbnail_url": "https://images.genius.com/bbd8b729cd5c544d40a1fd3cd9de5c0f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bbd8b729cd5c544d40a1fd3cd9de5c0f.1000x1000x1.jpg",
+       "id": 4880541,
+       "language": "en",
+       "lyrics_owner_id": 93685,
+       "lyrics_state": "complete",
+       "path": "/Oli-xl-clumsy-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Oli-xl-clumsy-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 25
+       },
+       "release_date_for_display": "June 25, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 25, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bbd8b729cd5c544d40a1fd3cd9de5c0f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bbd8b729cd5c544d40a1fd3cd9de5c0f.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Clumsy",
+       "title_with_featured": "Clumsy",
+       "url": "https://genius.com/Oli-xl-clumsy-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1490874",
+        "header_image_url": "https://images.genius.com/9f10e0e4970b99a8c6588d2108fd8227.1000x1000x1.jpg",
+        "id": 1490874,
+        "image_url": "https://images.genius.com/9f10e0e4970b99a8c6588d2108fd8227.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Oli XL",
+        "url": "https://genius.com/artists/Oli-xl"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1497687",
+       "artist_names": "Scooter",
+       "full_title": "I'm A Raver, Baby by\u00a0Scooter",
+       "header_image_thumbnail_url": "https://images.genius.com/1d0e5bb3ce1054848a5cd1389e309e4a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1d0e5bb3ce1054848a5cd1389e309e4a.1000x1000x1.jpg",
+       "id": 1497687,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Scooter-im-a-raver-baby-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Scooter-im-a-raver-baby-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2012",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1d0e5bb3ce1054848a5cd1389e309e4a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1d0e5bb3ce1054848a5cd1389e309e4a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I\u2019m A Raver, Baby",
+       "title_with_featured": "I'm A Raver, Baby",
+       "url": "https://genius.com/Scooter-im-a-raver-baby-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/31528",
+        "header_image_url": "https://images.genius.com/72935c0b0e9008854db44eab5a06b3ab.300x300x1.jpg",
+        "id": 31528,
+        "image_url": "https://images.genius.com/0428dea0f924b075a3ebf5a8d6014b86.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Scooter",
+        "url": "https://genius.com/artists/Scooter"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4664150",
+       "artist_names": "Frawley",
+       "full_title": "Losers by\u00a0Frawley",
+       "header_image_thumbnail_url": "https://images.genius.com/547109e0c4be236f31185148c452fece.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/547109e0c4be236f31185148c452fece.1000x1000x1.jpg",
+       "id": 4664150,
+       "language": "en",
+       "lyrics_owner_id": 126836,
+       "lyrics_state": "complete",
+       "path": "/Frawley-losers-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Frawley-losers-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 6,
+        "day": 28
+       },
+       "release_date_for_display": "June 28, 2019",
+       "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/547109e0c4be236f31185148c452fece.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/547109e0c4be236f31185148c452fece.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Losers",
+       "title_with_featured": "Losers",
+       "url": "https://genius.com/Frawley-losers-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1815135",
+        "header_image_url": "https://images.genius.com/d3d68ffbc75706cc7d93510e3f220cac.587x269x1.png",
+        "id": 1815135,
+        "image_url": "https://images.genius.com/908d3b4213ea2ce82aafb4c865444ba4.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Frawley",
+        "url": "https://genius.com/artists/Frawley"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1802044",
+       "artist_names": "Markoolio",
+       "full_title": "\u00c5ka Pendelt\u00e5g by\u00a0Markoolio",
+       "header_image_thumbnail_url": "https://images.genius.com/c85d8dbb0e141d7a958da1cb0d12220b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c85d8dbb0e141d7a958da1cb0d12220b.600x600x1.jpg",
+       "id": 1802044,
+       "language": "sv",
+       "lyrics_owner_id": 4184339,
+       "lyrics_state": "complete",
+       "path": "/Markoolio-aka-pendeltag-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Markoolio-aka-pendeltag-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c85d8dbb0e141d7a958da1cb0d12220b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c85d8dbb0e141d7a958da1cb0d12220b.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5235
+       },
+       "title": "\u00c5ka Pendelt\u00e5g",
+       "title_with_featured": "\u00c5ka Pendelt\u00e5g",
+       "url": "https://genius.com/Markoolio-aka-pendeltag-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/344677",
+        "header_image_url": "https://images.genius.com/d73da3c1a576c0a6bdf16ccd2e5231e2.980x653x1.jpg",
+        "id": 344677,
+        "image_url": "https://images.genius.com/be345e2ac0c84c426df2a39be8f11e8f.426x426x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Markoolio",
+        "url": "https://genius.com/artists/Markoolio"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4672433",
+       "artist_names": "THePETEBOX",
+       "full_title": "Loser's Paradise by\u00a0THePETEBOX",
+       "header_image_thumbnail_url": "https://images.genius.com/b80d4065869126db24c640af65aa7a94.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b80d4065869126db24c640af65aa7a94.400x400x1.jpg",
+       "id": 4672433,
+       "language": "en",
+       "lyrics_owner_id": 5007337,
+       "lyrics_state": "complete",
+       "path": "/Thepetebox-losers-paradise-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Thepetebox-losers-paradise-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 10,
+        "day": 11
+       },
+       "release_date_for_display": "October 11, 2013",
+       "release_date_with_abbreviated_month_for_display": "Oct. 11, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b80d4065869126db24c640af65aa7a94.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b80d4065869126db24c640af65aa7a94.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loser\u2019s Paradise",
+       "title_with_featured": "Loser's Paradise",
+       "url": "https://genius.com/Thepetebox-losers-paradise-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/456678",
+        "header_image_url": "https://images.genius.com/db2291622afb9b836ab9ebb7462dbe1c.900x900x1.jpg",
+        "id": 456678,
+        "image_url": "https://images.genius.com/db2291622afb9b836ab9ebb7462dbe1c.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "THePETEBOX",
+        "url": "https://genius.com/artists/Thepetebox"
+       }
+      },
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/183053",
+       "artist_names": "Slug (Ft. Eyedea & Nool)",
+       "full_title": "Best Kind by\u00a0Slug (Ft.\u00a0Eyedea & Nool)",
+       "header_image_thumbnail_url": "https://images.genius.com/927a56a0e7bff301d6e5a398e08ba1ea.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/927a56a0e7bff301d6e5a398e08ba1ea.348x348x1.jpg",
+       "id": 183053,
+       "language": "en",
+       "lyrics_owner_id": 233039,
+       "lyrics_state": "complete",
+       "path": "/Slug-best-kind-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Slug-best-kind-sample",
+       "release_date_components": {
+        "year": 1997,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1997",
+       "release_date_with_abbreviated_month_for_display": "1997",
+       "song_art_image_thumbnail_url": "https://images.genius.com/927a56a0e7bff301d6e5a398e08ba1ea.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/927a56a0e7bff301d6e5a398e08ba1ea.348x348x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Best Kind",
+       "title_with_featured": "Best Kind (Ft.\u00a0Eyedea & Nool)",
+       "url": "https://genius.com/Slug-best-kind-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2044",
+         "header_image_url": "https://images.genius.com/c4c81f5aeeaf2a0038ddc1e139399cdf.334x334x1.jpg",
+         "id": 2044,
+         "image_url": "https://images.genius.com/c4c81f5aeeaf2a0038ddc1e139399cdf.334x334x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Eyedea",
+         "url": "https://genius.com/artists/Eyedea"
+        },
+        {
+         "api_path": "/artists/58962",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 58962,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Nool",
+         "url": "https://genius.com/artists/Nool"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1839",
+        "header_image_url": "https://images.genius.com/70ebf01428d77162afc8672cb920481a.800x533x1.jpg",
+        "id": 1839,
+        "image_url": "https://images.genius.com/6b31b9c788af045ffed8851e8c3e6d73.507x507x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Slug",
+        "url": "https://genius.com/artists/Slug",
+        "iq": 115
+       }
+      },
+      {
+       "annotation_count": 46,
+       "api_path": "/songs/1083",
+       "artist_names": "Kanye West (Ft. Common & Talib Kweli)",
+       "full_title": "Get 'Em High by\u00a0Kanye\u00a0West (Ft.\u00a0Common & Talib\u00a0Kweli)",
+       "header_image_thumbnail_url": "https://images.genius.com/05033c92156c1d3f9cc521ce500cf6cc.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/05033c92156c1d3f9cc521ce500cf6cc.1000x1000x1.jpg",
+       "id": 1083,
+       "language": "en",
+       "lyrics_owner_id": 858,
+       "lyrics_state": "complete",
+       "path": "/Kanye-west-get-em-high-lyrics",
+       "pyongs_count": 49,
+       "relationships_index_url": "https://genius.com/Kanye-west-get-em-high-sample",
+       "release_date_components": {
+        "year": 2004,
+        "month": 2,
+        "day": 10
+       },
+       "release_date_for_display": "February 10, 2004",
+       "release_date_with_abbreviated_month_for_display": "Feb. 10, 2004",
+       "song_art_image_thumbnail_url": "https://images.genius.com/05033c92156c1d3f9cc521ce500cf6cc.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/05033c92156c1d3f9cc521ce500cf6cc.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 448006
+       },
+       "title": "Get \u2019Em High",
+       "title_with_featured": "Get 'Em High (Ft.\u00a0Common & Talib\u00a0Kweli)",
+       "url": "https://genius.com/Kanye-west-get-em-high-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/388",
+         "header_image_url": "https://images.genius.com/d08f058da08eab72266b64c7405eca03.901x901x1.jpg",
+         "id": 388,
+         "image_url": "https://images.genius.com/d08f058da08eab72266b64c7405eca03.901x901x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Talib Kweli",
+         "url": "https://genius.com/artists/Talib-kweli",
+         "iq": 8693
+        },
+        {
+         "api_path": "/artists/223",
+         "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+         "id": 223,
+         "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+         "is_meme_verified": true,
+         "is_verified": true,
+         "name": "Common",
+         "url": "https://genius.com/artists/Common",
+         "iq": 11005
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/72",
+        "header_image_url": "https://images.genius.com/40ecf8460b42287ba6ef0f62272fccd1.1000x667x1.png",
+        "id": 72,
+        "image_url": "https://images.genius.com/604269daecc339fc34b20ff80e3890db.414x414x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kanye West",
+        "url": "https://genius.com/artists/Kanye-west"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/2970989",
+       "artist_names": "Matthew Koma",
+       "full_title": "Hard to Love by\u00a0Matthew\u00a0Koma",
+       "header_image_thumbnail_url": "https://images.genius.com/065dd8713bf014a52f65c953b1762d6c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/065dd8713bf014a52f65c953b1762d6c.1000x1000x1.jpg",
+       "id": 2970989,
+       "language": "en",
+       "lyrics_owner_id": 2383145,
+       "lyrics_state": "complete",
+       "path": "/Matthew-koma-hard-to-love-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Matthew-koma-hard-to-love-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 2,
+        "day": 3
+       },
+       "release_date_for_display": "February 3, 2017",
+       "release_date_with_abbreviated_month_for_display": "Feb. 3, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/065dd8713bf014a52f65c953b1762d6c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/065dd8713bf014a52f65c953b1762d6c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 21047
+       },
+       "title": "Hard to Love",
+       "title_with_featured": "Hard to Love",
+       "url": "https://genius.com/Matthew-koma-hard-to-love-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/12648",
+        "header_image_url": "https://images.genius.com/b5ce4acc7cf673e8fcaaa3c7b1e1148a.850x314x1.jpg",
+        "id": 12648,
+        "image_url": "https://images.genius.com/dbcb264b012fb6cbc97d82d06be12b0f.650x650x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Matthew Koma",
+        "url": "https://genius.com/artists/Matthew-koma",
+        "iq": 1099
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/506258",
+       "artist_names": "\"Weird Al\" Yankovic",
+       "full_title": "The Alternative Polka! by\u00a0\"Weird\u00a0Al\" Yankovic",
+       "header_image_thumbnail_url": "https://images.genius.com/ccb0e0ebaa35420dbf5df55f4da2937a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ccb0e0ebaa35420dbf5df55f4da2937a.1000x1000x1.jpg",
+       "id": 506258,
+       "language": "en",
+       "lyrics_owner_id": 140537,
+       "lyrics_state": "complete",
+       "path": "/Weird-al-yankovic-the-alternative-polka-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Weird-al-yankovic-the-alternative-polka-sample",
+       "release_date_components": {
+        "year": 1996,
+        "month": 3,
+        "day": 12
+       },
+       "release_date_for_display": "March 12, 1996",
+       "release_date_with_abbreviated_month_for_display": "Mar. 12, 1996",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ccb0e0ebaa35420dbf5df55f4da2937a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ccb0e0ebaa35420dbf5df55f4da2937a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 14224
+       },
+       "title": "The Alternative Polka!",
+       "title_with_featured": "The Alternative Polka!",
+       "url": "https://genius.com/Weird-al-yankovic-the-alternative-polka-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/899",
+        "header_image_url": "https://images.genius.com/f49f3174729ee32fcd17017a68b4acd4.1000x665x1.webp",
+        "id": 899,
+        "image_url": "https://images.genius.com/f0f694679171179c6c7cc0ede1204f12.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u201cWeird Al\u201d Yankovic",
+        "url": "https://genius.com/artists/Weird-al-yankovic"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Beck-loser-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6676017",
+       "artist_names": "J\u00f8rgensen",
+       "full_title": "Loser by\u00a0J\u00f8rgensen",
+       "header_image_thumbnail_url": "https://images.genius.com/8024dd67ab0f7c103ac8b87e603e1d83.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8024dd67ab0f7c103ac8b87e603e1d83.500x500x1.jpg",
+       "id": 6676017,
+       "language": "en",
+       "lyrics_owner_id": 8273731,
+       "lyrics_state": "complete",
+       "path": "/Jrgensen-loser-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jrgensen-loser-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 11,
+        "day": 11
+       },
+       "release_date_for_display": "November 11, 2011",
+       "release_date_with_abbreviated_month_for_display": "Nov. 11, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8024dd67ab0f7c103ac8b87e603e1d83.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8024dd67ab0f7c103ac8b87e603e1d83.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loser",
+       "title_with_featured": "Loser",
+       "url": "https://genius.com/Jrgensen-loser-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2646735",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2646735,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "J\u00f8rgensen",
+        "url": "https://genius.com/artists/Jrgensen"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2052579",
+       "artist_names": "Pomplamoose",
+       "full_title": "Lorde 2Pac Beck Mashup by\u00a0Pomplamoose",
+       "header_image_thumbnail_url": "https://images.genius.com/b5984678ab159e91803ea7d84db2b5d0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b5984678ab159e91803ea7d84db2b5d0.640x640x1.jpg",
+       "id": 2052579,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Pomplamoose-lorde-2pac-beck-mashup-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Pomplamoose-lorde-2pac-beck-mashup-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 11,
+        "day": 5
+       },
+       "release_date_for_display": "November 5, 2013",
+       "release_date_with_abbreviated_month_for_display": "Nov. 5, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b5984678ab159e91803ea7d84db2b5d0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b5984678ab159e91803ea7d84db2b5d0.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Lorde 2Pac Beck Mashup",
+       "title_with_featured": "Lorde 2Pac Beck Mashup",
+       "url": "https://genius.com/Pomplamoose-lorde-2pac-beck-mashup-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/304434",
+        "header_image_url": "https://images.genius.com/9ca879667089c424f9c57fa2118635c2.1000x592x1.png",
+        "id": 304434,
+        "image_url": "https://images.genius.com/da169549716b99691f8565a675079484.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Pomplamoose",
+        "url": "https://genius.com/artists/Pomplamoose"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2198808",
+       "artist_names": "Richard Cheese",
+       "full_title": "Loser by\u00a0Richard\u00a0Cheese",
+       "header_image_thumbnail_url": "https://images.genius.com/306934c3e2bd67f9d271d0a628c55b6e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/306934c3e2bd67f9d271d0a628c55b6e.600x600x1.jpg",
+       "id": 2198808,
+       "language": "en",
+       "lyrics_owner_id": 565953,
+       "lyrics_state": "complete",
+       "path": "/Richard-cheese-loser-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Richard-cheese-loser-sample",
+       "release_date_components": {
+        "year": 2002,
+        "month": 10,
+        "day": 20
+       },
+       "release_date_for_display": "October 20, 2002",
+       "release_date_with_abbreviated_month_for_display": "Oct. 20, 2002",
+       "song_art_image_thumbnail_url": "https://images.genius.com/306934c3e2bd67f9d271d0a628c55b6e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/306934c3e2bd67f9d271d0a628c55b6e.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loser",
+       "title_with_featured": "Loser",
+       "url": "https://genius.com/Richard-cheese-loser-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/370888",
+        "header_image_url": "https://images.genius.com/a24b5f49233a5651305a86a6d07b0b6b.1000x714x1.jpg",
+        "id": 370888,
+        "image_url": "https://images.genius.com/a24b5f49233a5651305a86a6d07b0b6b.1000x714x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Richard Cheese",
+        "url": "https://genius.com/artists/Richard-cheese"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3204911",
+       "artist_names": "Umphrey's McGee",
+       "full_title": "National Loser Anthem by\u00a0Umphrey's\u00a0McGee",
+       "header_image_thumbnail_url": "https://images.genius.com/6a16172e8d5e86ba660a883ffdba96d8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6a16172e8d5e86ba660a883ffdba96d8.850x850x1.jpg",
+       "id": 3204911,
+       "language": "en",
+       "lyrics_owner_id": 3191171,
+       "lyrics_state": "complete",
+       "path": "/Umphreys-mcgee-national-loser-anthem-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Umphreys-mcgee-national-loser-anthem-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 11,
+        "day": 11
+       },
+       "release_date_for_display": "November 11, 2016",
+       "release_date_with_abbreviated_month_for_display": "Nov. 11, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6a16172e8d5e86ba660a883ffdba96d8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6a16172e8d5e86ba660a883ffdba96d8.850x850x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "National Loser Anthem",
+       "title_with_featured": "National Loser Anthem",
+       "url": "https://genius.com/Umphreys-mcgee-national-loser-anthem-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/61586",
+        "header_image_url": "https://images.genius.com/621aae7cca8089459a495260e01bcc62.1000x666x1.jpg",
+        "id": 61586,
+        "image_url": "https://images.genius.com/d72edc13a79a7719ff22eac91d741844.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Umphrey\u2019s McGee",
+        "url": "https://genius.com/artists/Umphreys-mcgee"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1198413",
+       "artist_names": "The Cleverlys",
+       "full_title": "Loser by\u00a0The\u00a0Cleverlys",
+       "header_image_thumbnail_url": "https://images.genius.com/67dddde0992322a9412d26352014d4d8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/67dddde0992322a9412d26352014d4d8.500x500x1.jpg",
+       "id": 1198413,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/The-cleverlys-loser-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-cleverlys-loser-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 8,
+        "day": 12
+       },
+       "release_date_for_display": "August 12, 2016",
+       "release_date_with_abbreviated_month_for_display": "Aug. 12, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/67dddde0992322a9412d26352014d4d8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/67dddde0992322a9412d26352014d4d8.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loser",
+       "title_with_featured": "Loser",
+       "url": "https://genius.com/The-cleverlys-loser-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1049001",
+        "header_image_url": "https://images.genius.com/0eea1e1fb384f4c7c4dc970f4c4a44d8.600x441x1.jpg",
+        "id": 1049001,
+        "image_url": "https://images.genius.com/0eea1e1fb384f4c7c4dc970f4c4a44d8.600x441x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Cleverlys",
+        "url": "https://genius.com/artists/The-cleverlys"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1224661",
+       "artist_names": "Glee Cast",
+       "full_title": "Loser by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/9d62bd0703aa1a15140ee509fd5b4a89.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9d62bd0703aa1a15140ee509fd5b4a89.640x640x1.jpg",
+       "id": 1224661,
+       "language": "en",
+       "lyrics_owner_id": 359109,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-loser-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glee-cast-loser-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 5,
+        "day": 18
+       },
+       "release_date_for_display": "May 18, 2010",
+       "release_date_with_abbreviated_month_for_display": "May. 18, 2010",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9d62bd0703aa1a15140ee509fd5b4a89.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9d62bd0703aa1a15140ee509fd5b4a89.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loser",
+       "title_with_featured": "Loser",
+       "url": "https://genius.com/Glee-cast-loser-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6182623",
+       "artist_names": "Beckyonc\u00e9",
+       "full_title": "Single Loser (Put a Beck on It) by\u00a0Beckyonc\u00e9",
+       "header_image_thumbnail_url": "https://images.genius.com/59f28fd23070ee31eca802f8bda93ea9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/59f28fd23070ee31eca802f8bda93ea9.500x500x1.jpg",
+       "id": 6182623,
+       "language": "en",
+       "lyrics_owner_id": 5502195,
+       "lyrics_state": "complete",
+       "path": "/Beckyonce-single-loser-put-a-beck-on-it-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Beckyonce-single-loser-put-a-beck-on-it-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 2,
+        "day": 11
+       },
+       "release_date_for_display": "February 11, 2015",
+       "release_date_with_abbreviated_month_for_display": "Feb. 11, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/59f28fd23070ee31eca802f8bda93ea9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/59f28fd23070ee31eca802f8bda93ea9.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Single Loser (Put a Beck on It)",
+       "title_with_featured": "Single Loser (Put a Beck on It)",
+       "url": "https://genius.com/Beckyonce-single-loser-put-a-beck-on-it-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2481994",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2481994,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Beckyonc\u00e9",
+        "url": "https://genius.com/artists/Beckyonce"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    },
+    {
+     "api_path": "/artists/1109269",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1109269,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Karl Stephenson",
+     "url": "https://genius.com/artists/Karl-stephenson"
+    }
+   ],
+   "artist": "Beck",
+   "lyrics": "152 ContributorsLoser Lyrics[Verse 1]\nIn the time of chimpanzees, I was a monkey\nButane in my veins, and I'm out to cut the junkie\nWith the plastic eyeballs, spray paint the vegetables\nDog food stalls with the beefcake pantyhose\nKill the headlights and put it in neutral\nStock car flaming with the loser in the cruise control\nBaby's in Reno with the vitamin D\nGot a couple of couches, sleep on the loveseat\nSomeone came, saying I'm insane to complain\nAbout a shotgun wedding and a stain on my shirt\nDon't believe everything that you breathe\nYou get a parking violation and a maggot on your sleeve\nSo shave your face with some mace in the dark\nSaving all your food stamps and burning down the trailer park\nYo, cut it\n\n[Chorus]\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(Double barrel buckshot)\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n\n[Verse 2]\nThe forces of evil in a bozo nightmare\nBan all the music with the phony gas chamber\n'Cause one's got a weasel, and the other's got a flag\nOne's on the pole, shove the other in a bag\nWith the rerun shows and the cocaine nose job\nThe daytime crap of the folksinger slob\nHe hung himself with a guitar string\nA slab of turkey neck, and it's hanging from a pigeon wing\nYou can't write if you can't relate\nTrade the cash for the beat, for the body, for the heat\nAnd my time is a piece of wax falling on a termite\nWho's choking on the splinters\nYou might also like[Chorus]\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(Get crazy with the cheese whiz)\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(Drive-by body pierce)\n\n[Bridge]\n(Yo, bring it on down)\n\n(em llik uoy t'nod yhw os\nYbab resol a m'I\nRodedrep nu yoS)\n\nI'm a driver, I'm a winner\nThings are gonna change, I can feel it\n\n[Chorus]\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(I can't believe you)\nSoy un perdedor\n(Ahh)\nI'm a loser, baby, so why don't you kill me?\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(Sprechen Sie Deutsch, eh, baby?)\nSoy un perdedor\nI'm a loser, baby, so why don't you kill me?\n(Know what I'm sayin'?)69Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/2109026",
+   "artist_names": "Beck",
+   "full_title": "Dreams by\u00a0Beck",
+   "header_image_thumbnail_url": "https://images.genius.com/50954c58b71c10ed24e216be18e2393a.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/50954c58b71c10ed24e216be18e2393a.1000x1000x1.jpg",
+   "id": 2109026,
+   "language": "en",
+   "lyrics_owner_id": 266331,
+   "lyrics_state": "complete",
+   "path": "/Beck-dreams-lyrics",
+   "pyongs_count": 30,
+   "relationships_index_url": "https://genius.com/Beck-dreams-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 6,
+    "day": 15
+   },
+   "release_date_for_display": "June 15, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jun. 15, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b1826b5903a46fa6d735f95072e6f256.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b1826b5903a46fa6d735f95072e6f256.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 7,
+    "contributors": 34,
+    "iq_earners": 34,
+    "transcribers": 6,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 126890
+   },
+   "title": "Dreams",
+   "title_with_featured": "Dreams",
+   "url": "https://genius.com/Beck-dreams-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2073",
+    "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+    "id": 2073,
+    "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Beck",
+    "url": "https://genius.com/artists/Beck"
+   },
+   "apple_music_id": "1273064256",
+   "apple_music_player_url": "https://genius.com/songs/2109026/apple_music_player",
+   "description": {
+    "plain": "With a massive fusion of funk, dream pop, grunge rock, and electronica, \u201cDreams\u201d is the explosive lead single from Beck\u2019s tenth studio album, following the GRAMMY-winning success of 2014\u2019s Morning Phase. Sonically, the song is the \u201copposite\u201d of Morning Phase, Beck explained.\n\nIt started out as a heavy garage rock thing and became much more of a dance \u2014 some kind of hybrid.\n\nA preview of the instrumental was posted on Beck\u2019s Instagram on June 12, 2015. A second trailer was posted on Facebook on June 13. The third and final trailer was posted June 14.\n\nThe full track premiered through iHeartRadio on June 15, 2015. The same day, the song was also uploaded on VEVO."
+   },
+   "embed_content": "<div id='rg_embed_link_2109026' class='rg_embed_link' data-song-id='2109026'>Read <a href='https://genius.com/Beck-dreams-lyrics'>\u201cDreams\u201d by Beck</a> on Genius</div> <script crossorigin src='//genius.com/songs/2109026/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-06-15",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/126136",
+    "cover_art_url": "https://images.genius.com/50954c58b71c10ed24e216be18e2393a.1000x1000x1.jpg",
+    "full_title": "Colors by Beck",
+    "id": 126136,
+    "name": "Colors",
+    "release_date_for_display": "October 13, 2017",
+    "url": "https://genius.com/albums/Beck/Colors",
+    "artist": {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Organ",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Mixer",
+     "artists": [
+      {
+       "api_path": "/artists/640944",
+       "header_image_url": "https://images.genius.com/85976afabe58227daa3e817416e37c78.600x290x1.jpg",
+       "id": 640944,
+       "image_url": "https://images.genius.com/9df828b303f7312f9a9f04a8a6f0610a.739x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u0218erban Ghenea",
+       "url": "https://genius.com/artists/Serban-ghenea"
+      }
+     ]
+    },
+    {
+     "label": "Mellotron",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Marimba",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Glockenspiel",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Bass Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/635235",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 635235,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cassidy Turbin",
+       "url": "https://genius.com/artists/Cassidy-turbin"
+      },
+      {
+       "api_path": "/artists/653787",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 653787,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Julian Burg",
+       "url": "https://genius.com/artists/Julian-burg"
+      },
+      {
+       "api_path": "/artists/653788",
+       "header_image_url": "https://images.genius.com/397acf3240bb807a28215abd91f66b29.421x421x1.jpg",
+       "id": 653788,
+       "image_url": "https://images.genius.com/397acf3240bb807a28215abd91f66b29.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Pasco",
+       "url": "https://genius.com/artists/Alex-pasco"
+      },
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/988052",
+       "header_image_url": "https://images.genius.com/093b19f6f7e7f769cfa0336bb38bfaf6.1000x563x1.jpg",
+       "id": 988052,
+       "image_url": "https://images.genius.com/57d864c838ce1c215dcacc49854ee18a.297x297x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cole M.G.N.",
+       "url": "https://genius.com/artists/Cole-mgn"
+      },
+      {
+       "api_path": "/artists/1008785",
+       "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+       "id": 1008785,
+       "image_url": "https://images.genius.com/b3f349eda71ebc1bd3749e174710aa50.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Florian Lagatta",
+       "url": "https://genius.com/artists/Florian-lagatta"
+      },
+      {
+       "api_path": "/artists/55444",
+       "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+       "id": 55444,
+       "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Kurstin",
+       "url": "https://genius.com/artists/Greg-kurstin"
+      },
+      {
+       "api_path": "/artists/641348",
+       "header_image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+       "id": 641348,
+       "image_url": "https://images.genius.com/71246d8afafabc7cd9b75074109135c4.205x205x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "John Hanes",
+       "url": "https://genius.com/artists/John-hanes"
+      },
+      {
+       "api_path": "/artists/644210",
+       "header_image_url": "https://images.genius.com/1d8b81fff08401b4d4f22950c3e2f07b.1000x441x1.jpg",
+       "id": 644210,
+       "image_url": "https://images.genius.com/11a7a2cb25001c8fbe728be22d69cec8.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Darrell Thorp",
+       "url": "https://genius.com/artists/Darrell-thorp"
+      },
+      {
+       "api_path": "/artists/154199",
+       "header_image_url": "https://images.genius.com/bf7f5c1b74797d542e07b862e77dd8dd.600x402x1.jpg",
+       "id": 154199,
+       "image_url": "https://images.genius.com/bf7f5c1b74797d542e07b862e77dd8dd.600x402x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jesse Shatkin",
+       "url": "https://genius.com/artists/Jesse-shatkin"
+      },
+      {
+       "api_path": "/artists/1062926",
+       "header_image_url": "https://images.genius.com/5f7d0283f0b60a1a1e537821281313a7.379x379x1.jpg",
+       "id": 1062926,
+       "image_url": "https://images.genius.com/5f7d0283f0b60a1a1e537821281313a7.379x379x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Greenbaum",
+       "url": "https://genius.com/artists/David-greenbaum"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 266331,
+    "annotator_login": "KurtTrowbridge",
+    "api_path": "/referents/6859036",
+    "classification": "accepted",
+    "fragment": "Dreams",
+    "id": 6859036,
+    "is_description": true,
+    "path": "/6859036/Beck-dreams/Dreams",
+    "range": {
+     "content": "Dreams"
+    },
+    "song_id": 2109026,
+    "url": "https://genius.com/6859036/Beck-dreams/Dreams",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2109026",
+     "client_timestamps": {
+      "updated_by_human_at": 1589618601,
+      "lyrics_updated_at": 1589618601
+     },
+     "context": "Beck",
+     "id": 2109026,
+     "image_url": "https://images.genius.com/b1826b5903a46fa6d735f95072e6f256.1000x1000x1.jpg",
+     "link_title": "Dreams by\u00a0Beck",
+     "title": "Dreams",
+     "type": "Song",
+     "url": "https://genius.com/Beck-dreams-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6859036",
+      "body": {
+       "plain": "With a massive fusion of funk, dream pop, grunge rock, and electronica, \u201cDreams\u201d is the explosive lead single from Beck\u2019s tenth studio album, following the GRAMMY-winning success of 2014\u2019s Morning Phase. Sonically, the song is the \u201copposite\u201d of Morning Phase, Beck explained.\n\nIt started out as a heavy garage rock thing and became much more of a dance \u2014 some kind of hybrid.\n\nA preview of the instrumental was posted on Beck\u2019s Instagram on June 12, 2015. A second trailer was posted on Facebook on June 13. The third and final trailer was posted June 14.\n\nThe full track premiered through iHeartRadio on June 15, 2015. The same day, the song was also uploaded on VEVO."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 6859036,
+      "pinned": false,
+      "share_url": "https://genius.com/6859036",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/6859036/Beck-dreams/Dreams",
+      "verified": false,
+      "votes_total": 27,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5130434782608695,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/554585",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/0c5f8e83eeb1eb7fd4cc1f750ea8919e.682x682x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/0c5f8e83eeb1eb7fd4cc1f750ea8919e.682x682x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/0c5f8e83eeb1eb7fd4cc1f750ea8919e.682x682x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/0c5f8e83eeb1eb7fd4cc1f750ea8919e.682x682x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/9ff1f1de42863e6500317d72e88f48d1.500x270x22.gif",
+         "human_readable_role_for_display": "Editor",
+         "id": 554585,
+         "iq": 209164,
+         "login": "VitaAZeroKelvin",
+         "name": "Vita A Zero Kelvin",
+         "role_for_display": "editor",
+         "url": "https://genius.com/VitaAZeroKelvin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3217391304347826,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/266331",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0b929b9ad6251c873bf637111475bf16",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/JFxcTh6EQYe2FMmhtLjW_SAM_4362-20x9.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 266331,
+         "iq": 96209,
+         "login": "KurtTrowbridge",
+         "name": "KurtTrowbridge",
+         "role_for_display": "editor",
+         "url": "https://genius.com/KurtTrowbridge",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.16521739130434782,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1757421",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/10987e0488516eaf42417c970c8f362d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/10987e0488516eaf42417c970c8f362d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/10987e0488516eaf42417c970c8f362d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/10987e0488516eaf42417c970c8f362d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/y37o8hm758",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1757421,
+         "iq": 47388,
+         "login": "bisexualcatboy",
+         "name": "bisexualcatboy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/bisexualcatboy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4mqVUkv3epcKid8O9tlgtl",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4mqVUkv3epcKid8O9tlgtl"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oTM3YPTYNo0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    },
+    {
+     "api_path": "/artists/55444",
+     "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+     "id": 55444,
+     "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Kurstin",
+     "url": "https://genius.com/artists/Greg-kurstin"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    },
+    {
+     "api_path": "/artists/49095",
+     "header_image_url": "https://images.genius.com/d9949a5f8ba148b1bd79caa5498ba565.1000x741x1.jpg",
+     "id": 49095,
+     "image_url": "https://images.genius.com/78f94f7829e7298f0a8726e17679fe78.701x701x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Andrew Wyatt",
+     "url": "https://genius.com/artists/Andrew-wyatt"
+    },
+    {
+     "api_path": "/artists/55444",
+     "header_image_url": "https://images.genius.com/564ae98a950634822f648f292b113e78.600x400x1.jpg",
+     "id": 55444,
+     "image_url": "https://images.genius.com/1e4b1db8fef9629acc9f622e3f4ecbf9.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Kurstin",
+     "url": "https://genius.com/artists/Greg-kurstin"
+    }
+   ],
+   "artist": "Beck",
+   "lyrics": "34 ContributorsDreams Lyrics[Intro]\nOh, oh, oh, oh, oh, oh\nOh, oh, oh, ah, oh, oh\n\n[Verse 1]\nCome on out of your dreams\nAnd wake up from your r\u00eaverie\nTime is here, don't go to sleep\nStreets are running on the brink\nThey say that we've got nothing\nBut a dollar for a life of sin\n'Cause there's trouble on the way\nOh, there's trouble on the way\nOh oh, get a dog and pony for a judgment day\n\n[Pre-Chorus]\nHere we are (oh oh oh)\nRunning circles, around around around around (oh oh oh)\nWhen nothing's right, just close your eyes\nClose your eyes and you're gone\n\n[Chorus]\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nShe's makin' me high, she's makin' me high\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nShe's makin' me high, I wanna get me free\nNothing gonna get me in my world\nYou might also like[Verse 2]\nNow can these broken wings free me\nAbout a light-year from reality\nIf you want to fall in a dream\nYou could put the weight right onto me\n\n[Pre-Chorus]\nHere we are (oh oh oh)\nRunning circles, around around around around\nWhen nothing's right, just close your eyes\nClose your eyes and you're gone\n\n[Chorus]\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nShe's makin' me high, she's makin' me high\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nShe's makin' me high, I wanna get me free\nNothing gonna get me in my world\nNothing gonna get me in my world\n\n[Bridge]\nAhh, stop fucking with my dreams, dreams, yeah\nAhh, stop fucking with my dreams, dreams, yeah\nAhh\n[Pre-Chorus]\nHere we are (oh oh oh)\nRunning circles, around around around around\nWhen nothing's right, just close your eyes\nClose your eyes and you're gone\n\n[Chorus]\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nShe's makin' me high, she's makin' me high\nDreams (dreams, dreams)\nD-d-d-dreams (oh oh oh)\nAll day and all night\nI wanna get me free\nNothing gonna get me in my world\n\n[Outro]\nOh, oh, oh, oh, oh, oh\nOh, oh, oh, ah, oh, oh\nI wanna get me free\nNothing gonna get me in my world\nNothing gonna get me in my world30Embed"
+  },
+  {
+   "annotation_count": 10,
+   "api_path": "/songs/87531",
+   "artist_names": "Beck",
+   "full_title": "Sexx Laws by\u00a0Beck",
+   "header_image_thumbnail_url": "https://images.genius.com/eb874e0b5ff2fde8b98fe898c5e76717.300x282x1.jpg",
+   "header_image_url": "https://images.genius.com/eb874e0b5ff2fde8b98fe898c5e76717.450x423x1.jpg",
+   "id": 87531,
+   "language": "en",
+   "lyrics_owner_id": 62207,
+   "lyrics_state": "complete",
+   "path": "/Beck-sexx-laws-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Beck-sexx-laws-sample",
+   "release_date_components": {
+    "year": 1999,
+    "month": 11,
+    "day": 23
+   },
+   "release_date_for_display": "November 23, 1999",
+   "release_date_with_abbreviated_month_for_display": "Nov. 23, 1999",
+   "song_art_image_thumbnail_url": "https://images.genius.com/eb874e0b5ff2fde8b98fe898c5e76717.300x282x1.jpg",
+   "song_art_image_url": "https://images.genius.com/eb874e0b5ff2fde8b98fe898c5e76717.450x423x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 24,
+    "iq_earners": 23,
+    "transcribers": 3,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 120375
+   },
+   "title": "Sexx Laws",
+   "title_with_featured": "Sexx Laws",
+   "url": "https://genius.com/Beck-sexx-laws-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2073",
+    "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+    "id": 2073,
+    "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Beck",
+    "url": "https://genius.com/artists/Beck"
+   },
+   "apple_music_id": "19820416",
+   "apple_music_player_url": "https://genius.com/songs/87531/apple_music_player",
+   "description": {
+    "plain": "The first single from Midnite Vultures, \u201cSexx Laws\u201d is a triumphant anthem of defiance against societal preconceptions of what men and women are expected to be."
+   },
+   "embed_content": "<div id='rg_embed_link_87531' class='rg_embed_link' data-song-id='87531'>Read <a href='https://genius.com/Beck-sexx-laws-lyrics'>\u201cSexx Laws\u201d by Beck</a> on Genius</div> <script crossorigin src='//genius.com/songs/87531/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1999-11-23",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/21150",
+    "cover_art_url": "https://images.genius.com/d21f7ce2107f94a476de84099c8bbcd6.945x945x1.jpg",
+    "full_title": "Midnite Vultures by Beck",
+    "id": 21150,
+    "name": "Midnite Vultures",
+    "release_date_for_display": "November 23, 1999",
+    "url": "https://genius.com/albums/Beck/Midnite-vultures",
+    "artist": {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano By",
+     "artists": [
+      {
+       "api_path": "/artists/363003",
+       "header_image_url": "https://images.genius.com/b2545cc63281b24ca364fcd8f1efbf52.421x612x1.jpg",
+       "id": 363003,
+       "image_url": "https://images.genius.com/539ac7270449fab6d5dee5fae7190d7f.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roger Joseph Manning Jr.",
+       "url": "https://genius.com/artists/Roger-joseph-manning-jr"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/63115",
+       "header_image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "id": 63115,
+       "image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mickey Petralia",
+       "url": "https://genius.com/artists/Mickey-petralia"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/63115",
+       "header_image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "id": 63115,
+       "image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mickey Petralia",
+       "url": "https://genius.com/artists/Mickey-petralia"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/63115",
+       "header_image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "id": 63115,
+       "image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mickey Petralia",
+       "url": "https://genius.com/artists/Mickey-petralia"
+      }
+     ]
+    },
+    {
+     "label": "Horn Arranger",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      },
+      {
+       "api_path": "/artists/63115",
+       "header_image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "id": 63115,
+       "image_url": "https://images.genius.com/fb0a24527465ae99f464a82d719d4887.127x127x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mickey Petralia",
+       "url": "https://genius.com/artists/Mickey-petralia"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      }
+     ]
+    },
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/45851",
+       "header_image_url": "https://images.genius.com/5e364cf82e38f0095d2596098b71e1ea.700x700x1.jpg",
+       "id": 45851,
+       "image_url": "https://images.genius.com/5e364cf82e38f0095d2596098b71e1ea.700x700x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Arnold McCuller",
+       "url": "https://genius.com/artists/Arnold-mcculler"
+      },
+      {
+       "api_path": "/artists/551162",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 551162,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Valerie Pinkston",
+       "url": "https://genius.com/artists/Valerie-pinkston"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/2073",
+       "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+       "id": 2073,
+       "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Beck",
+       "url": "https://genius.com/artists/Beck"
+      }
+     ]
+    },
+    {
+     "label": "Trumpet",
+     "artists": [
+      {
+       "api_path": "/artists/1259438",
+       "header_image_url": "https://images.genius.com/825da956228d26beb97092ae37cd2c6b.907x424x1.jpg",
+       "id": 1259438,
+       "image_url": "https://images.genius.com/3c9f36b76e5d02fec85166a68a8cf588.696x696x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jon Birdsong",
+       "url": "https://genius.com/artists/Jon-birdsong"
+      }
+     ]
+    },
+    {
+     "label": "Trombone",
+     "artists": [
+      {
+       "api_path": "/artists/663118",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 663118,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Ralicke",
+       "url": "https://genius.com/artists/David-ralicke"
+      }
+     ]
+    },
+    {
+     "label": "Synthesizer",
+     "artists": [
+      {
+       "api_path": "/artists/363003",
+       "header_image_url": "https://images.genius.com/b2545cc63281b24ca364fcd8f1efbf52.421x612x1.jpg",
+       "id": 363003,
+       "image_url": "https://images.genius.com/539ac7270449fab6d5dee5fae7190d7f.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Roger Joseph Manning Jr.",
+       "url": "https://genius.com/artists/Roger-joseph-manning-jr"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/648543",
+       "header_image_url": "https://images.genius.com/e8644c24224e82db9e1c446d5c28b057.936x491x1.jpg",
+       "id": 648543,
+       "image_url": "https://images.genius.com/f86b1bbc4046e7071cbf6f936092c634.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Smokey Hormel",
+       "url": "https://genius.com/artists/Smokey-hormel"
+      }
+     ]
+    },
+    {
+     "label": "Banjo",
+     "artists": [
+      {
+       "api_path": "/artists/362968",
+       "header_image_url": "https://images.genius.com/00c7696b6ad1f5e1edf6b357cd9933d4.600x600x1.jpg",
+       "id": 362968,
+       "image_url": "https://images.genius.com/00c7696b6ad1f5e1edf6b357cd9933d4.600x600x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Herb Pedersen",
+       "url": "https://genius.com/artists/Herb-pedersen"
+      }
+     ]
+    },
+    {
+     "label": "Pedal Steel",
+     "artists": [
+      {
+       "api_path": "/artists/1065645",
+       "header_image_url": "https://images.genius.com/83857f2b1458be3116ebe3cbae5be229.279x279x1.jpg",
+       "id": 1065645,
+       "image_url": "https://images.genius.com/83857f2b1458be3116ebe3cbae5be229.279x279x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Dee Maness",
+       "url": "https://genius.com/artists/Jay-dee-maness"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/45646",
+       "header_image_url": "https://images.genius.com/0ecfd5018c90296857a969439d5e43e2.1000x667x1.jpg",
+       "id": 45646,
+       "image_url": "https://images.genius.com/03efd6e53aa062e0ce2a1b08547b9e46.381x381x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Meldal-Johnsen",
+       "url": "https://genius.com/artists/Justin-meldal-johnsen"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 18588000,
+    "annotator_login": "brooklynraccoon",
+    "api_path": "/referents/3693748",
+    "classification": "unreviewed",
+    "fragment": "Sexx Laws",
+    "id": 3693748,
+    "is_description": true,
+    "path": "/3693748/Beck-sexx-laws/Sexx-laws",
+    "range": {
+     "content": "Sexx Laws"
+    },
+    "song_id": 87531,
+    "url": "https://genius.com/3693748/Beck-sexx-laws/Sexx-laws",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/87531",
+     "client_timestamps": {
+      "updated_by_human_at": 1673784279,
+      "lyrics_updated_at": 1673858766
+     },
+     "context": "Beck",
+     "id": 87531,
+     "image_url": "https://images.genius.com/eb874e0b5ff2fde8b98fe898c5e76717.450x423x1.jpg",
+     "link_title": "Sexx Laws by\u00a0Beck",
+     "title": "Sexx Laws",
+     "type": "Song",
+     "url": "https://genius.com/Beck-sexx-laws-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3693748",
+      "body": {
+       "plain": "The first single from Midnite Vultures, \u201cSexx Laws\u201d is a triumphant anthem of defiance against societal preconceptions of what men and women are expected to be."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3693748,
+      "pinned": false,
+      "share_url": "https://genius.com/3693748",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/3693748/Beck-sexx-laws/Sexx-laws",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/18588000",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba193a14490f2be312c58c1c0b3922bb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba193a14490f2be312c58c1c0b3922bb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba193a14490f2be312c58c1c0b3922bb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba193a14490f2be312c58c1c0b3922bb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ba193a14490f2be312c58c1c0b3922bb",
+         "human_readable_role_for_display": "Contributor",
+         "id": 18588000,
+         "iq": 412,
+         "login": "brooklynraccoon",
+         "name": "brooklynraccoon",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/brooklynraccoon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1ELY3KTgI83N1k0xXqabMe",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1ELY3KTgI83N1k0xXqabMe"
+    },
+    {
+     "provider": "youtube",
+     "start": 15,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=IQfwgzoiq4c"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2073",
+     "header_image_url": "https://images.genius.com/e51a50f91141de2e416603d46ef41ed9.1000x600x1.jpg",
+     "id": 2073,
+     "image_url": "https://images.genius.com/ffc8308e5bc88850b2e8a0234ec8ee3b.320x320x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Beck",
+     "url": "https://genius.com/artists/Beck"
+    }
+   ],
+   "artist": "Beck",
+   "lyrics": "24 ContributorsSexx Laws Lyrics[Verse 1]\nCan't you hear those cavalry drums\nHijacking your equilibrium?\nMidnight snacks in the mausoleum\nWhere the pixilated doctors moan\nCarnivores in the Kowloon night\nBreathing Freon by the candlelight\nCoquettes bitch slap you so polite\n'Til you thank them for the tea and sympathy (Ogh-ah)\n\n[Chorus]\nI want to defy\nThe logic of all sex laws\nLet the handcuffs slip off your wrists\nI'll let you be my chaperone\nAt the halfway home\nI'm a full-grown man\nBut I'm not afraid to cry\n\n[Verse 2]\nNeptune's lips taste like fermented wine\nPerfumed blokes on the Ginza line\nRunning buck wild like a concubine\nWhose mother never held her hand\nBrief encounters in Mercedes-Benz\nWearing hepatitis contact lens\nBed and breakfast getaway weekends\nWith Sports Illustrated moms\nYou might also like[Chorus]\nI want to defy\nThe logic of all sex laws\nLet the handcuffs slip off your wrists\nI'll let you be my chaperone\nAt the halfway home\nI'm a full-grown man\nBut I'm not afraid to cry\n\n[Instrumental Interlude]\n\n[Chorus]\nI want to defy\nThe logic of all sex laws\nLet the handcuffs slip off your wrists\nI'll let you be my chaperone\nAt the halfway home\nI'm a full-grown man\nBut I'm not afraid to cry5Embed"
+  }
+ ]
+}

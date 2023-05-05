@@ -1,0 +1,1567 @@
+{
+ "alternate_names": [
+  "Ryan J. Hurd",
+  "Ryan James Hurd"
+ ],
+ "api_path": "/artists/662422",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "",
+ "followers_count": 9,
+ "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+ "id": 662422,
+ "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+ "instagram_name": "",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Ryan Hurd",
+ "translation_artist": false,
+ "twitter_name": "RyanHurdMusic",
+ "url": "https://genius.com/artists/Ryan-hurd",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4733728,
+  "annotator_login": "JJEvans",
+  "api_path": "/referents/19888231",
+  "classification": "needs_exegesis",
+  "fragment": "Ryan Hurd",
+  "id": 19888231,
+  "is_description": true,
+  "path": "/19888231/Ryan-hurd/Ryan-hurd",
+  "range": {
+   "content": "Ryan Hurd"
+  },
+  "song_id": null,
+  "url": "https://genius.com/19888231/Ryan-hurd/Ryan-hurd",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/662422",
+   "context": null,
+   "id": 662422,
+   "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+   "link_title": "Ryan Hurd",
+   "title": "Ryan Hurd",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ryan-hurd"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/19888231",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 19888231,
+    "pinned": false,
+    "share_url": "https://genius.com/19888231",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/19888231/Ryan-hurd/Ryan-hurd",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4733728",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/8e3f5a40df8a313ef8249a44fd801e5d.720x720x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/5e02d698592314aabd3b665941601e54.1000x426x1.jpg",
+       "human_readable_role_for_display": "Editor",
+       "id": 4733728,
+       "iq": 630083,
+       "login": "JJEvans",
+       "name": "Jay Evans",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JJEvans",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/8843653",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/af32329e319fea5e3ad212c5c3fe7da4",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/af32329e319fea5e3ad212c5c3fe7da4",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/af32329e319fea5e3ad212c5c3fe7da4",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/af32329e319fea5e3ad212c5c3fe7da4",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/avatars/medium/af32329e319fea5e3ad212c5c3fe7da4",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 8843653,
+  "iq": 100,
+  "login": "RyanHurd",
+  "name": "Ryan Hurd",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/RyanHurd",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3931168",
+   "artist_names": "Ryan Hurd",
+   "full_title": "To a T by\u00a0Ryan\u00a0Hurd",
+   "header_image_thumbnail_url": "https://images.genius.com/71e0ab70cbc351f6d59a3d93a842f755.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/71e0ab70cbc351f6d59a3d93a842f755.1000x1000x1.jpg",
+   "id": 3931168,
+   "language": "en",
+   "lyrics_owner_id": 6397546,
+   "lyrics_state": "complete",
+   "path": "/Ryan-hurd-to-a-t-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ryan-hurd-to-a-t-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 8,
+    "day": 31
+   },
+   "release_date_for_display": "August 31, 2018",
+   "release_date_with_abbreviated_month_for_display": "Aug. 31, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/71e0ab70cbc351f6d59a3d93a842f755.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/71e0ab70cbc351f6d59a3d93a842f755.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 13,
+    "iq_earners": 12,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 115528
+   },
+   "title": "To a T",
+   "title_with_featured": "To a T",
+   "url": "https://genius.com/Ryan-hurd-to-a-t-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/662422",
+    "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "id": 662422,
+    "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ryan Hurd",
+    "url": "https://genius.com/artists/Ryan-hurd",
+    "iq": 100
+   },
+   "apple_music_id": "1447439315",
+   "apple_music_player_url": "https://genius.com/songs/3931168/apple_music_player",
+   "description": {
+    "plain": "The background vocals throughout the whole song were sung by Hurd\u2019s wife, Maren Morris."
+   },
+   "embed_content": "<div id='rg_embed_link_3931168' class='rg_embed_link' data-song-id='3931168'>Read <a href='https://genius.com/Ryan-hurd-to-a-t-lyrics'>\u201cTo a T\u201d by Ryan\u00a0Hurd</a> on Genius</div> <script crossorigin src='//genius.com/songs/3931168/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-08-31",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/809981",
+    "cover_art_url": "https://images.genius.com/e768402a94fa550320743aaee76160ff.1000x1000x1.jpg",
+    "full_title": "Pelago by Ryan Hurd",
+    "id": 809981,
+    "name": "Pelago",
+    "release_date_for_display": "October 15, 2021",
+    "url": "https://genius.com/albums/Ryan-hurd/Pelago",
+    "artist": {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Background Vocals by",
+     "artists": [
+      {
+       "api_path": "/artists/548314",
+       "header_image_url": "https://images.genius.com/80a79702fd50eedf101c0b2ffb6fd1f0.1000x333x1.jpg",
+       "id": 548314,
+       "image_url": "https://images.genius.com/c8a6ce6f50bac8747742b06809b36144.529x529x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Maren Morris",
+       "url": "https://genius.com/artists/Maren-morris",
+       "iq": 2897
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6200767,
+    "annotator_login": "viccct",
+    "api_path": "/referents/16790918",
+    "classification": "unreviewed",
+    "fragment": "To a T",
+    "id": 16790918,
+    "is_description": true,
+    "path": "/16790918/Ryan-hurd-to-a-t/To-a-t",
+    "range": {
+     "content": "To a T"
+    },
+    "song_id": 3931168,
+    "url": "https://genius.com/16790918/Ryan-hurd-to-a-t/To-a-t",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3931168",
+     "client_timestamps": {
+      "updated_by_human_at": 1644026048,
+      "lyrics_updated_at": 1644026048
+     },
+     "context": "Ryan Hurd",
+     "id": 3931168,
+     "image_url": "https://images.genius.com/71e0ab70cbc351f6d59a3d93a842f755.1000x1000x1.jpg",
+     "link_title": "To a T by\u00a0Ryan\u00a0Hurd",
+     "title": "To a T",
+     "type": "Song",
+     "url": "https://genius.com/Ryan-hurd-to-a-t-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16790918",
+      "body": {
+       "plain": "The background vocals throughout the whole song were sung by Hurd\u2019s wife, Maren Morris."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 16790918,
+      "pinned": false,
+      "share_url": "https://genius.com/16790918",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/16790918/Ryan-hurd-to-a-t/To-a-t",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6200767",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/289b04f8e31cd9340140ba92ec3da763",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/289b04f8e31cd9340140ba92ec3da763",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/289b04f8e31cd9340140ba92ec3da763",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/289b04f8e31cd9340140ba92ec3da763",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/289b04f8e31cd9340140ba92ec3da763",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6200767,
+         "iq": 502,
+         "login": "viccct",
+         "name": "viccct",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/viccct",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/93685",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 93685,
+    "iq": 1232027,
+    "login": "killersnowtiger",
+    "name": "\u200bKST",
+    "role_for_display": "staff",
+    "url": "https://genius.com/killersnowtiger",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:1oRRLczVT5KkZkPHXG70n7",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1oRRLczVT5KkZkPHXG70n7"
+    },
+    {
+     "attribution": "ryanhurd",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/ryanhurd/to-a-t"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=aG1u4p_IiXI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1116486",
+     "header_image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "id": 1116486,
+     "image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Eshuis",
+     "url": "https://genius.com/artists/Aaron-eshuis"
+    },
+    {
+     "api_path": "/artists/123538",
+     "header_image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+     "id": 123538,
+     "image_url": "https://images.genius.com/e0341bcbe12581ac960959459123ad7a.380x380x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dann Huff",
+     "url": "https://genius.com/artists/Dann-huff"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1458570",
+     "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+     "id": 1458570,
+     "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jerry Roe",
+     "url": "https://genius.com/artists/Jerry-roe"
+    },
+    {
+     "api_path": "/artists/1041311",
+     "header_image_url": "https://images.genius.com/66c33a1db8a8720c0dd034efa0c000bb.710x710x1.jpg",
+     "id": 1041311,
+     "image_url": "https://images.genius.com/66c33a1db8a8720c0dd034efa0c000bb.710x710x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nathan Spicer",
+     "url": "https://genius.com/artists/Nathan-spicer"
+    },
+    {
+     "api_path": "/artists/662423",
+     "header_image_url": "https://i.genius.com/44a7feb5ef2555ab8290c97f7e4919ea4030e14b?url=http%3A%2F%2Fwww.musicrow.com%2Fwp-content%2Fuploads%2F2014%2F09%2FLaura-Veltz-Headshot-1111.jpg",
+     "id": 662423,
+     "image_url": "https://i.genius.com/44a7feb5ef2555ab8290c97f7e4919ea4030e14b?url=http%3A%2F%2Fwww.musicrow.com%2Fwp-content%2Fuploads%2F2014%2F09%2FLaura-Veltz-Headshot-1111.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Laura Veltz",
+     "url": "https://genius.com/artists/Laura-veltz"
+    },
+    {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    }
+   ],
+   "artist": "Ryan Hurd",
+   "lyrics": "13 ContributorsTo a T Lyrics[Verse 1]\nTake off your makeup, nobody's around\nIt's you and me, girl, just let your guard down\nI see right through you, I know what it means\nI know I got you, the moment when you close your eye-eye-eyes\nI know I'm doing something right-ight-ight\n\n[Chorus]\nI got you down to a t-shirt, white sheets, red wine\nBaby, you don't wanna leave\nYou want a record with some reverb, backbeat and low light\nYou know I know what you need tonight\nGirl, I'll take my ti-ime, dot every I, I, baby, I, I\nI got you down to a T\nMmm\n[Verse 2]\nStay here 'til sunrise, I wanna know you\nLike it's the last time I'll ever hold you\nGirl, every detail leave it up to me\nLay back and let go\nYou don't even have to say-ay-ay anything\nAbout the way-ay-ay\n\n[Chorus]\nYou should see how you look in that t-shirt\nWhite sheets and red wine\nBaby, you don't wanna leave\nYou want a record with some reverb, backbeat and low light\nYou know I know what you need tonight\nGirl, I'll take my ti-ime, dot every I, I, baby, I, I\nI got you down to a T\nWhoa, yeah, yeah\n\n[Bridge]\nGot you down, got you down (Got you down, down)\nGot you down, got you down (Got you down, down)\nDon't worry, baby\n'Cause driving you crazy is all I ever wanted\n\n[Chorus]\nNow that I got you down to a t-shirt\nWhite sheets and red wine, mmm\nYou want a record with some reverb, backbeat and low light\nYou know I know what you need tonight\nGirl, I'll take my ti-ime, dot every I, I, baby, I, I\nI got you down to a T\nYou might also like[Outro]\nWhoa\nI got you down to a t\nGot you down, got you down\nGot you down, got you down\nI got you down to a tEmbed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/2881768",
+   "artist_names": "Ryan Hurd",
+   "full_title": "City Girl by\u00a0Ryan\u00a0Hurd",
+   "header_image_thumbnail_url": "https://images.genius.com/0f9fa51306a37c729691e3df0bb16818.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0f9fa51306a37c729691e3df0bb16818.530x530x1.jpg",
+   "id": 2881768,
+   "language": "en",
+   "lyrics_owner_id": 320363,
+   "lyrics_state": "complete",
+   "path": "/Ryan-hurd-city-girl-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Ryan-hurd-city-girl-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 10,
+    "day": 14
+   },
+   "release_date_for_display": "October 14, 2016",
+   "release_date_with_abbreviated_month_for_display": "Oct. 14, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0495d62f3168d1ae5edf7d0114bfbf87.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0495d62f3168d1ae5edf7d0114bfbf87.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 26809
+   },
+   "title": "City Girl",
+   "title_with_featured": "City Girl",
+   "url": "https://genius.com/Ryan-hurd-city-girl-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/662422",
+    "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "id": 662422,
+    "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ryan Hurd",
+    "url": "https://genius.com/artists/Ryan-hurd",
+    "iq": 100
+   },
+   "apple_music_id": "1221666416",
+   "apple_music_player_url": "https://genius.com/songs/2881768/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2881768' class='rg_embed_link' data-song-id='2881768'>Read <a href='https://genius.com/Ryan-hurd-city-girl-lyrics'>\u201cCity Girl\u201d by Ryan\u00a0Hurd</a> on Genius</div> <script crossorigin src='//genius.com/songs/2881768/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-10-14",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/338830",
+    "cover_art_url": "https://images.genius.com/76100a943e62000f7a4fe65729b0c2b3.1000x1000x1.jpg",
+    "full_title": "Ryan Hurd - EP by Ryan Hurd",
+    "id": 338830,
+    "name": "Ryan Hurd - EP",
+    "release_date_for_display": "April 7, 2017",
+    "url": "https://genius.com/albums/Ryan-hurd/Ryan-hurd-ep",
+    "artist": {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 320363,
+    "annotator_login": "plutosaplanetdude",
+    "api_path": "/referents/10614979",
+    "classification": "needs_exegesis",
+    "fragment": "City Girl",
+    "id": 10614979,
+    "is_description": true,
+    "path": "/10614979/Ryan-hurd-city-girl/City-girl",
+    "range": {
+     "content": "City Girl"
+    },
+    "song_id": 2881768,
+    "url": "https://genius.com/10614979/Ryan-hurd-city-girl/City-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2881768",
+     "client_timestamps": {
+      "updated_by_human_at": 1586035652,
+      "lyrics_updated_at": 1586035652
+     },
+     "context": "Ryan Hurd",
+     "id": 2881768,
+     "image_url": "https://images.genius.com/0495d62f3168d1ae5edf7d0114bfbf87.1000x1000x1.jpg",
+     "link_title": "City Girl by\u00a0Ryan\u00a0Hurd",
+     "title": "City Girl",
+     "type": "Song",
+     "url": "https://genius.com/Ryan-hurd-city-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10614979",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10614979,
+      "pinned": false,
+      "share_url": "https://genius.com/10614979",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10614979/Ryan-hurd-city-girl/City-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/320363",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5882c44f9284debf64ab4b9815a2c62b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/07033b7bb23a638fc1b2b7693b55d24f.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 320363,
+         "iq": 159175,
+         "login": "plutosaplanetdude",
+         "name": "Plutosaplanetdude",
+         "role_for_display": "editor",
+         "url": "https://genius.com/plutosaplanetdude",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=yaSywdluGRY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1116486",
+     "header_image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "id": 1116486,
+     "image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Eshuis",
+     "url": "https://genius.com/artists/Aaron-eshuis"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/373419",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 373419,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gordie Sampson",
+     "url": "https://genius.com/artists/Gordie-sampson"
+    },
+    {
+     "api_path": "/artists/414218",
+     "header_image_url": "https://images.genius.com/c9c811e0fed89ba9ad171a98228901b6.570x570x1.jpg",
+     "id": 414218,
+     "image_url": "https://images.genius.com/c9c811e0fed89ba9ad171a98228901b6.570x570x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Troy Verges",
+     "url": "https://genius.com/artists/Troy-verges"
+    }
+   ],
+   "artist": "Ryan Hurd",
+   "lyrics": "6 ContributorsCity Girl Lyrics[Verse 1]\nI don't know if there's somebody else\nCause we never said nothin' bout nobody else\nBut for me there ain't nobody else\nCause I fell that hard for you\nI don't know if you want what I want\nIf you're letting me in or you're leading me on\nI don't know where this is going\nBut I know where I want it to\n\n[Pre-Chorus]\nThe clock ain't reversing\nI light up when you say\n\"Do you wanna stay the night tonight?\"\n[Chorus]\nCity girl, you're gonna love me and leave me\nCause it ain't gonna mean what it means to me, to you\nWhen I wake up on your pillow\nStart making out a little\nTill it's time to say goodbye like you always do\nYou tell your friends all about it like it's only going out\nI'm just another Friday night\nAnother someone to call\nIt's such a fine line playing it cool\nNot pushing too hard\nI'm breaking my own heart\nFalling in love with a city girl\nFalling in love with a city girl\n\n[Verse 2]\n2AM, hear the buzz of your phone\nI don't have to ask cause I already know\nThat he's just like me, but tonight he's alone\nCause I'm with you\nYeah, I'm with you\n\n[Pre-Chorus]\nWatch that sunrise\nComing through your blinds\nJust another hour or two\nYou might also like[Chorus]\nYeah, city girl, you're gonna love me and leave me\nCause it ain't gonna mean what it means to me, to you\nWhen I wake up on your pillow\nStart making out a little\nTill it's time to say goodbye like you always do\nYou tell your friends all about it like it's only going out\nI'm just another Friday night\nAnother someone to call\nIt's such a fine line playing it cool\nNot pushing too hard\nI'm breaking my own heart\nFalling in love with a city girl\nFalling in love with a city girl\n\n[Bridge]\nI could take you out for coffee\nWe could talk about whatever\nIt don't have to be your heart, girl\nWe could talk about the weather\nBaby, I don't wanna scare you\nI'm not tryna' lock you down\nI just want your time\nAnd I don't wanna leave right now\n\n[Chorus]\nCity girl, you're gonna love me and leave me\nCause it ain't gonna mean what it means to me, to you\nWhen I wake up on your pillow\nStart making out a little\nTill it's time to say goodbye like you always do\nYou tell your friends all about it like it's only going out\nI'm just another Friday night\nAnother someone to call\nIt's such a fine line playing it cool\nNot pushing too hard\nI'm breaking my own heart\nFalling in love with a city girl\nFalling in love with a city girl\n[Outro]\nFalling in love with a city girl\nFalling in love with a city girl\nFalling in love with a city girl\nFalling in love with a city girl\nFalling in love with a city girl\nFalling in love with a city girl1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2929593",
+   "artist_names": "Ryan Hurd",
+   "full_title": "Hold You Back by\u00a0Ryan\u00a0Hurd",
+   "header_image_thumbnail_url": "https://images.genius.com/0f9fa51306a37c729691e3df0bb16818.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0f9fa51306a37c729691e3df0bb16818.530x530x1.jpg",
+   "id": 2929593,
+   "language": "en",
+   "lyrics_owner_id": 93685,
+   "lyrics_state": "complete",
+   "path": "/Ryan-hurd-hold-you-back-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Ryan-hurd-hold-you-back-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 12,
+    "day": 9
+   },
+   "release_date_for_display": "December 9, 2016",
+   "release_date_with_abbreviated_month_for_display": "Dec. 9, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c1df63932910987e1f4fd50b5911fa59.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c1df63932910987e1f4fd50b5911fa59.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 26021
+   },
+   "title": "Hold You Back",
+   "title_with_featured": "Hold You Back",
+   "url": "https://genius.com/Ryan-hurd-hold-you-back-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/662422",
+    "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "id": 662422,
+    "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Ryan Hurd",
+    "url": "https://genius.com/artists/Ryan-hurd",
+    "iq": 100
+   },
+   "apple_music_id": "1221666417",
+   "apple_music_player_url": "https://genius.com/songs/2929593/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2929593' class='rg_embed_link' data-song-id='2929593'>Read <a href='https://genius.com/Ryan-hurd-hold-you-back-lyrics'>\u201cHold You Back\u201d by Ryan\u00a0Hurd</a> on Genius</div> <script crossorigin src='//genius.com/songs/2929593/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-12-09",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/338830",
+    "cover_art_url": "https://images.genius.com/76100a943e62000f7a4fe65729b0c2b3.1000x1000x1.jpg",
+    "full_title": "Ryan Hurd - EP by Ryan Hurd",
+    "id": 338830,
+    "name": "Ryan Hurd - EP",
+    "release_date_for_display": "April 7, 2017",
+    "url": "https://genius.com/albums/Ryan-hurd/Ryan-hurd-ep",
+    "artist": {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 93685,
+    "annotator_login": "killersnowtiger",
+    "api_path": "/referents/10990760",
+    "classification": "needs_exegesis",
+    "fragment": "Hold You Back",
+    "id": 10990760,
+    "is_description": true,
+    "path": "/10990760/Ryan-hurd-hold-you-back/Hold-you-back",
+    "range": {
+     "content": "Hold You Back"
+    },
+    "song_id": 2929593,
+    "url": "https://genius.com/10990760/Ryan-hurd-hold-you-back/Hold-you-back",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2929593",
+     "client_timestamps": {
+      "updated_by_human_at": 1568946468,
+      "lyrics_updated_at": 1557033734
+     },
+     "context": "Ryan Hurd",
+     "id": 2929593,
+     "image_url": "https://images.genius.com/c1df63932910987e1f4fd50b5911fa59.1000x1000x1.jpg",
+     "link_title": "Hold You Back by\u00a0Ryan\u00a0Hurd",
+     "title": "Hold You Back",
+     "type": "Song",
+     "url": "https://genius.com/Ryan-hurd-hold-you-back-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10990760",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10990760,
+      "pinned": false,
+      "share_url": "https://genius.com/10990760",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/10990760/Ryan-hurd-hold-you-back/Hold-you-back",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/93685",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+         "human_readable_role_for_display": "Staff",
+         "id": 93685,
+         "iq": 1232027,
+         "login": "killersnowtiger",
+         "name": "\u200bKST",
+         "role_for_display": "staff",
+         "url": "https://genius.com/killersnowtiger",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=w6lY9DArZKY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1116486",
+     "header_image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "id": 1116486,
+     "image_url": "https://images.genius.com/f343cc494cefcdbf07dc54872ec1312f.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Aaron Eshuis",
+     "url": "https://genius.com/artists/Aaron-eshuis"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/422824",
+     "header_image_url": "https://images.genius.com/a5d2de5b20f5d9df330ae54973462ca8.1000x1000x1.jpg",
+     "id": 422824,
+     "image_url": "https://images.genius.com/a5d2de5b20f5d9df330ae54973462ca8.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nicolle Galyon",
+     "url": "https://genius.com/artists/Nicolle-galyon"
+    },
+    {
+     "api_path": "/artists/662422",
+     "header_image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "id": 662422,
+     "image_url": "https://images.genius.com/4b9d54274fc692658d848ac2a8d43469.353x444x1.gif",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Ryan Hurd",
+     "url": "https://genius.com/artists/Ryan-hurd",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1124375",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1124375,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Will Weatherly",
+     "url": "https://genius.com/artists/Will-weatherly"
+    }
+   ],
+   "artist": "Ryan Hurd",
+   "lyrics": "5 ContributorsHold You Back Lyrics[Verse 1]\nI got drunk, you got drunk\nWe had sex, we woke up\nCaught up in a thread count, tangled in skin\nNow you're checking your phone, he's checking in\n\n[Pre-Chorus 1]\nAnd it's right now that I start to see it\nAll of the weight of the way that it is\nCaught between what it means to start over\nAnd what happens over and over again, but\n[Chorus]\nI don't wanna hold you, I don't wanna hold you\nI don't wanna hold you back\nI don't wanna see you, I don't wanna see you\nI don't wanna see you hurt like that\nYou had your heart in a cage\nI'll cut you loose, baby, fly away\nI'm holding on to what we had\nBut I don't wanna hold you, I don't wanna hold you back\n\n[Verse 2]\nI get up, you get up\nWe get dressed, say I love you\nKiss you goodbye and I finally mean it\nIt took until now for us both to believe it\n\n[Pre-Chorus 2]\nAnd it's not like we got back together\nWe're just coming back to the thing that we know\nWhen you called it off, you said it's for the better\nThat don't make it easy for me to let go, baby\n\n[Chorus]\nI don't wanna hold you, I don't wanna hold you\nI don't wanna hold you back\nI don't wanna see you, I don't wanna see you\nI don't wanna see you hurt like that\nYou had your heart in a cage\nI'll cut you loose, baby, fly away\nI'm holding on to what we had\nBut I don't wanna hold you, I don't wanna hold you back\nYou might also like[Bridge]\nWell, call me up if you ever get lonely\nCall me up if you ever want me\nBut until then, I'm setting you free\nAnd if you ever come back to me, baby\n\n[Chorus]\nI don't wanna hold you, I don't wanna hold you\nI don't wanna hold you back\nI don't wanna see you, I don't wanna see you\nI don't wanna see you hurt like that\nYou had your heart in a cage\nI'll cut you loose, baby, fly away\nI'm holding on to what we had\nBut I don't wanna hold you, I don't wanna hold you backEmbed"
+  }
+ ]
+}

@@ -1,0 +1,1993 @@
+{
+ "alternate_names": [
+  "Nicolas Segal",
+  "Donnie Trumpet"
+ ],
+ "api_path": "/artists/55396",
+ "description": {
+  "plain": "Nico Segal (previously known as Donnie Trumpet) is a trumpeter from Chicago, known best for his work with his long time friend, Chance the Rapper. He and Chance are frequent collaborators, and along with Peter CottonTale, Greg Landfair Jr. and Nate Fox, they form the band, The Social Experiment. With Nico as the lead, the group created their first album, Surf, released in 2015 to much critical acclaim. Nico also is the leader of the jazz band The Juju Exchange."
+ },
+ "facebook_name": "nico.segal.5",
+ "followers_count": 101,
+ "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+ "id": 55396,
+ "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+ "instagram_name": "nicosegal",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Nico Segal",
+ "translation_artist": false,
+ "twitter_name": "nicosegal",
+ "url": "https://genius.com/artists/Nico-segal",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 202,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2493464,
+  "annotator_login": "FlyyyGuy",
+  "api_path": "/referents/6971657",
+  "classification": "accepted",
+  "fragment": "Nico Segal",
+  "id": 6971657,
+  "is_description": true,
+  "path": "/6971657/Nico-segal/Nico-segal",
+  "range": {
+   "content": "Nico Segal"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6971657/Nico-segal/Nico-segal",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/55396",
+   "context": null,
+   "id": 55396,
+   "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+   "link_title": "Nico Segal",
+   "title": "Nico Segal",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Nico-segal"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6971657",
+    "body": {
+     "plain": "Nico Segal (previously known as Donnie Trumpet) is a trumpeter from Chicago, known best for his work with his long time friend, Chance the Rapper. He and Chance are frequent collaborators, and along with Peter CottonTale, Greg Landfair Jr. and Nate Fox, they form the band, The Social Experiment. With Nico as the lead, the group created their first album, Surf, released in 2015 to much critical acclaim. Nico also is the leader of the jazz band The Juju Exchange."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6971657,
+    "pinned": false,
+    "share_url": "https://genius.com/6971657",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6971657/Nico-segal/Nico-segal",
+    "verified": false,
+    "votes_total": 6,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.775,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2493464",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/aa9ecb4a4618cb7a8167039e0d1d6c34",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/aa9ecb4a4618cb7a8167039e0d1d6c34",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/aa9ecb4a4618cb7a8167039e0d1d6c34",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/aa9ecb4a4618cb7a8167039e0d1d6c34",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/aa9ecb4a4618cb7a8167039e0d1d6c34",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2493464,
+       "iq": 2237,
+       "login": "FlyyyGuy",
+       "name": "FlyyyGuy",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/FlyyyGuy",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.15,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4054704",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wj70h6fdm2",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/e7ku1escgw9",
+       "human_readable_role_for_display": "Editor",
+       "id": 4054704,
+       "iq": 36176,
+       "login": "JohnCLE71",
+       "name": "JohnCLE71",
+       "role_for_display": "editor",
+       "url": "https://genius.com/JohnCLE71",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0625,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/519191",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f040f41e78d8ca9578b3c8a32af02a08",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f040f41e78d8ca9578b3c8a32af02a08",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f040f41e78d8ca9578b3c8a32af02a08",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f040f41e78d8ca9578b3c8a32af02a08",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/CAN53cLTQpaGNJGiZWQX_61a4b380d9243febc78995a7bce42d39.1000x296x1.png",
+       "human_readable_role_for_display": "Moderator",
+       "id": 519191,
+       "iq": 157272,
+       "login": "roy068",
+       "name": "Roy068",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/roy068",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.0125,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3569290",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/ed85288f3cd7586df4c3912303892a0c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/ed85288f3cd7586df4c3912303892a0c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/ed85288f3cd7586df4c3912303892a0c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/ed85288f3cd7586df4c3912303892a0c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/ed85288f3cd7586df4c3912303892a0c",
+       "human_readable_role_for_display": "Staff",
+       "id": 3569290,
+       "iq": 1505,
+       "login": "3LinesofColor",
+       "name": "Digital Sadness",
+       "role_for_display": "staff",
+       "url": "https://genius.com/3LinesofColor",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/219748",
+  "avatar": {
+   "tiny": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/194357_10150178680849610_118402554609_8368162_3319913_o.jpg",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/194357_10150178680849610_118402554609_8368162_3319913_o.jpg",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/small/194357_10150178680849610_118402554609_8368162_3319913_o.jpg",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/194357_10150178680849610_118402554609_8368162_3319913_o.jpg",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/194357_10150178680849610_118402554609_8368162_3319913_o.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 219748,
+  "iq": 202,
+  "login": "NicoGenius",
+  "name": "Nico Segal",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/NicoGenius",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 27,
+   "api_path": "/songs/172417",
+   "artist_names": "Nico Segal (Ft. Chance the Rapper & VIC MENSA)",
+   "full_title": "Zion by\u00a0Nico\u00a0Segal (Ft.\u00a0Chance\u00a0the Rapper & VIC\u00a0MENSA)",
+   "header_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "id": 172417,
+   "language": "en",
+   "lyrics_owner_id": 187199,
+   "lyrics_state": "complete",
+   "path": "/Nico-segal-zion-lyrics",
+   "pyongs_count": 22,
+   "relationships_index_url": "https://genius.com/Nico-segal-zion-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 16
+   },
+   "release_date_for_display": "July 16, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "stats": {
+    "accepted_annotations": 22,
+    "contributors": 27,
+    "iq_earners": 27,
+    "transcribers": 4,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 1,
+    "hot": false,
+    "pageviews": 33296
+   },
+   "title": "Zion",
+   "title_with_featured": "Zion (Ft.\u00a0Chance\u00a0the Rapper & VIC\u00a0MENSA)",
+   "url": "https://genius.com/Nico-segal-zion-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    },
+    {
+     "api_path": "/artists/16751",
+     "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+     "id": 16751,
+     "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chance the Rapper",
+     "url": "https://genius.com/artists/Chance-the-rapper",
+     "iq": 48910
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/55396",
+    "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "id": 55396,
+    "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nico Segal",
+    "url": "https://genius.com/artists/Nico-segal",
+    "iq": 202
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/172417/apple_music_player",
+   "description": {
+    "plain": "WE ON IT CHANCE\n\nhttps://twitter.com/chancetherapper/status/345926553122787329"
+   },
+   "embed_content": "<div id='rg_embed_link_172417' class='rg_embed_link' data-song-id='172417'>Read <a href='https://genius.com/Nico-segal-zion-lyrics'>\u201cZion\u201d by Nico\u00a0Segal</a> on Genius</div> <script crossorigin src='//genius.com/songs/172417/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2013-07-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/36274",
+    "cover_art_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+    "full_title": "Donnie Trumpet by Nico Segal",
+    "id": 36274,
+    "name": "Donnie Trumpet",
+    "release_date_for_display": "June 12, 2013",
+    "url": "https://genius.com/albums/Nico-segal/Donnie-trumpet",
+    "artist": {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Trumpet",
+     "artists": [
+      {
+       "api_path": "/artists/55396",
+       "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "id": 55396,
+       "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Nico Segal",
+       "url": "https://genius.com/artists/Nico-segal",
+       "iq": 202
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/18814",
+       "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "id": 18814,
+       "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "VIC MENSA",
+       "url": "https://genius.com/artists/Vic-mensa",
+       "iq": 9939
+      },
+      {
+       "api_path": "/artists/16751",
+       "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+       "id": 16751,
+       "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Chance the Rapper",
+       "url": "https://genius.com/artists/Chance-the-rapper",
+       "iq": 48910
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 187199,
+    "annotator_login": "LU",
+    "api_path": "/referents/3858442",
+    "classification": "accepted",
+    "fragment": "Zion",
+    "id": 3858442,
+    "is_description": true,
+    "path": "/3858442/Nico-segal-zion/Zion",
+    "range": {
+     "content": "Zion"
+    },
+    "song_id": 172417,
+    "url": "https://genius.com/3858442/Nico-segal-zion/Zion",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/172417",
+     "client_timestamps": {
+      "updated_by_human_at": 1496987853,
+      "lyrics_updated_at": 1496987854
+     },
+     "context": "Nico Segal",
+     "id": 172417,
+     "image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+     "link_title": "Zion by\u00a0Nico\u00a0Segal (Ft.\u00a0Chance\u00a0the Rapper & VIC\u00a0MENSA)",
+     "title": "Zion",
+     "type": "Song",
+     "url": "https://genius.com/Nico-segal-zion-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3858442",
+      "body": {
+       "plain": "WE ON IT CHANCE\n\nhttps://twitter.com/chancetherapper/status/345926553122787329"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3858442,
+      "pinned": false,
+      "share_url": "https://genius.com/3858442",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3858442/Nico-segal-zion/Zion",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.8823529411764706,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/FPUgkjhRQyqsg9SfDfhx.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 7,
+         "iq": 530458,
+         "login": "Maboo",
+         "name": "Maboo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Maboo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.11764705882352942,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/187199",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8c7baff46b7eff51103364fc0007cd0f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8c7baff46b7eff51103364fc0007cd0f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8c7baff46b7eff51103364fc0007cd0f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8c7baff46b7eff51103364fc0007cd0f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/2c80a0d5a1f823cddd83f9acbf9cf125.830x449x1.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 187199,
+         "iq": 122150,
+         "login": "LU",
+         "name": "Lasse",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/LU",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "donnietrumpet",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/donnietrumpet/1-zion?in=donnietrumpet/sets/donnie-trumpet"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=03m1dbIdVqU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55395",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 55395,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Chestevez",
+     "url": "https://genius.com/artists/Emilio-chestevez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/90429",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/b1534595d9357ea6720c4707f454f4de",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/b1534595d9357ea6720c4707f454f4de",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/b1534595d9357ea6720c4707f454f4de",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/b1534595d9357ea6720c4707f454f4de",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 90429,
+     "iq": 48910,
+     "login": "ChanceTheRapper",
+     "name": "Chance the Rapper",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/ChanceTheRapper",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/16751",
+      "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+      "id": 16751,
+      "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Chance the Rapper",
+      "url": "https://genius.com/artists/Chance-the-rapper",
+      "iq": 48910
+     },
+     "user": {
+      "api_path": "/users/90429",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/b1534595d9357ea6720c4707f454f4de",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/b1534595d9357ea6720c4707f454f4de",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/b1534595d9357ea6720c4707f454f4de",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/b1534595d9357ea6720c4707f454f4de",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 90429,
+      "iq": 48910,
+      "login": "ChanceTheRapper",
+      "name": "Chance the Rapper",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/ChanceTheRapper",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/55395",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 55395,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Chestevez",
+     "url": "https://genius.com/artists/Emilio-chestevez"
+    },
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    },
+    {
+     "api_path": "/artists/16751",
+     "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+     "id": 16751,
+     "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chance the Rapper",
+     "url": "https://genius.com/artists/Chance-the-rapper",
+     "iq": 48910
+    },
+    {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   ],
+   "artist": "Nico Segal",
+   "lyrics": "27 ContributorsZion Lyrics[Intro: Donnie Trumpet Instrumental]\n[Verse 1: Chance The Rapper]\nMe mommy love me, like she love her nappy head\nShe sang me fables, when she used to wrap me dreads\nShe said me look like me grandpappy, now he dead\nHe never met me, but he loved me, yeah he did\nHe was a king, before me Ma became a queen\nThey killed him dead, because he tried to stop the war\nMe momma love me, like the song that she sings\nBut I think she loves me just a little bit more\n\n[Verse 2: Vic Mensa]\nLittle bit less, then little bit more\nHourglass, sand's timeless through my trough\nLet it wash me away\nDive into a fifth of the J, Mo', sip it slow\nStone cold nights, warm days\nDays don't break, they fade away\nFaced my watch, then face a J\nFaking it takes my pain away\nBe a fatality, killed my salary\nDreams shattering, trunk rattling\nDrug dabbling, dabble or dab\nBought a battery, energy, gpen\nG when we go see this salary\nSet a time bomb, 'til I blow up\nLike the Matrix, in the zion\nYou might also like[Outro: Donnie Trumpet Instrumental]22Embed"
+  },
+  {
+   "annotation_count": 7,
+   "api_path": "/songs/416037",
+   "artist_names": "Nico Segal (Ft. VIC MENSA)",
+   "full_title": "Pasadena by\u00a0Nico\u00a0Segal (Ft.\u00a0VIC\u00a0MENSA)",
+   "header_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "id": 416037,
+   "language": "en",
+   "lyrics_owner_id": 167163,
+   "lyrics_state": "complete",
+   "path": "/Nico-segal-pasadena-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Nico-segal-pasadena-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 16
+   },
+   "release_date_for_display": "July 16, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 4,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 10426
+   },
+   "title": "Pasadena",
+   "title_with_featured": "Pasadena (Ft.\u00a0VIC\u00a0MENSA)",
+   "url": "https://genius.com/Nico-segal-pasadena-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/55396",
+    "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "id": 55396,
+    "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nico Segal",
+    "url": "https://genius.com/artists/Nico-segal",
+    "iq": 202
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/416037/apple_music_player",
+   "description": {
+    "plain": "Track No. 2 off the eponymous \u201cDonnie Trumpet\u201d EP."
+   },
+   "embed_content": "<div id='rg_embed_link_416037' class='rg_embed_link' data-song-id='416037'>Read <a href='https://genius.com/Nico-segal-pasadena-lyrics'>\u201cPasadena\u201d by Nico\u00a0Segal</a> on Genius</div> <script crossorigin src='//genius.com/songs/416037/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-07-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/36274",
+    "cover_art_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+    "full_title": "Donnie Trumpet by Nico Segal",
+    "id": 36274,
+    "name": "Donnie Trumpet",
+    "release_date_for_display": "June 12, 2013",
+    "url": "https://genius.com/albums/Nico-segal/Donnie-trumpet",
+    "artist": {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Trumpet",
+     "artists": [
+      {
+       "api_path": "/artists/55396",
+       "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "id": 55396,
+       "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Nico Segal",
+       "url": "https://genius.com/artists/Nico-segal",
+       "iq": 202
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/18814",
+       "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "id": 18814,
+       "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "VIC MENSA",
+       "url": "https://genius.com/artists/Vic-mensa",
+       "iq": 9939
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 126339,
+    "annotator_login": "cannabis_couple",
+    "api_path": "/referents/3620616",
+    "classification": "accepted",
+    "fragment": "Pasadena",
+    "id": 3620616,
+    "is_description": true,
+    "path": "/3620616/Nico-segal-pasadena/Pasadena",
+    "range": {
+     "content": "Pasadena"
+    },
+    "song_id": 416037,
+    "url": "https://genius.com/3620616/Nico-segal-pasadena/Pasadena",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/416037",
+     "client_timestamps": {
+      "updated_by_human_at": 1502546815,
+      "lyrics_updated_at": 1502546814
+     },
+     "context": "Nico Segal",
+     "id": 416037,
+     "image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+     "link_title": "Pasadena by\u00a0Nico\u00a0Segal (Ft.\u00a0VIC\u00a0MENSA)",
+     "title": "Pasadena",
+     "type": "Song",
+     "url": "https://genius.com/Nico-segal-pasadena-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3620616",
+      "body": {
+       "plain": "Track No. 2 off the eponymous \u201cDonnie Trumpet\u201d EP."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3620616,
+      "pinned": false,
+      "share_url": "https://genius.com/3620616",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3620616/Nico-segal-pasadena/Pasadena",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/126339",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/73bae460cd3cd324e52547c9ad336796",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/73bae460cd3cd324e52547c9ad336796",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/73bae460cd3cd324e52547c9ad336796",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/73bae460cd3cd324e52547c9ad336796",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/73bae460cd3cd324e52547c9ad336796",
+         "human_readable_role_for_display": "Contributor",
+         "id": 126339,
+         "iq": 1983,
+         "login": "cannabis_couple",
+         "name": "cannabis_couple",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/cannabis_couple",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1IfhjPjiTYrTFxyRlV5QRN",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1IfhjPjiTYrTFxyRlV5QRN"
+    },
+    {
+     "attribution": "donnietrumpet",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/donnietrumpet/2-pasadena?in=donnietrumpet/sets/donnie-trumpet"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-bK8pTlYPv4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55395",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 55395,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Chestevez",
+     "url": "https://genius.com/artists/Emilio-chestevez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    },
+    {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   ],
+   "artist": "Nico Segal",
+   "lyrics": "11 ContributorsPasadena Lyrics[Refrain]\nHoneysuckle kisses sweet and chocolate misses\nYou can ride my carpet let me grant your wishes\nPlease don't share your business, this is just between us\nSun in California, rain in Pasadena\nHoneysuckle kisses sweet and chocolate misses\nYou can ride my carpet let me grant your wishes\nPlease don't share your business, this is just between us\nSun in California, rain in Pasadena\n\n[Hook]\nRain in Pasadena\nYou won't fall in love again\nRain in Pasadena\nYour love oh\n\n[Verse]\nThey say nothing's perfect\nUnless you really deserve it\nIs she really worth it\nYearning for the burden but don't know for certain\nSunrise and sunset\nPurple circles good for refrain\n[?]\nMy misses I misses you\nSo don't you fade away\nYou might also like[Hook]\nRain in Pasadena\nYou won't fall in love again\nRain in Pasadena\nYour love oh\n\n[Refrain]\nHoneysuckle kisses sweet and chocolate misses\nYou can ride my carpet let me grant your wishes\nPlease don't share your business, this is just between us\nSun in California, rain in Pasadena\nHoneysuckle kisses sweet and chocolate misses\nYou can ride my carpet let me grant your wishes\nPlease don't share your business, this is just between us\nSun in California, rain in Pasadena\n\n[Hook]\nRain in Pasadena\nYou won't fall in love again\nRain in Pasadena\nYour love oh7Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/381582",
+   "artist_names": "Nico Segal (Ft. VIC MENSA)",
+   "full_title": "Don't Leave by\u00a0Nico\u00a0Segal (Ft.\u00a0VIC\u00a0MENSA)",
+   "header_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "id": 381582,
+   "language": "en",
+   "lyrics_owner_id": 280443,
+   "lyrics_state": "complete",
+   "path": "/Nico-segal-dont-leave-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Nico-segal-dont-leave-sample",
+   "release_date_components": {
+    "year": 2013,
+    "month": 7,
+    "day": 16
+   },
+   "release_date_for_display": "July 16, 2013",
+   "release_date_with_abbreviated_month_for_display": "Jul. 16, 2013",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8b7da4227018136685041a3048934798.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 8,
+    "iq_earners": 7,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Don\u2019t Leave",
+   "title_with_featured": "Don't Leave (Ft.\u00a0VIC\u00a0MENSA)",
+   "url": "https://genius.com/Nico-segal-dont-leave-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/55396",
+    "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "id": 55396,
+    "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Nico Segal",
+    "url": "https://genius.com/artists/Nico-segal",
+    "iq": 202
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/381582/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_381582' class='rg_embed_link' data-song-id='381582'>Read <a href='https://genius.com/Nico-segal-dont-leave-lyrics'>\u201cDon't Leave\u201d by Nico\u00a0Segal</a> on Genius</div> <script crossorigin src='//genius.com/songs/381582/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2013-07-16",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/36274",
+    "cover_art_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+    "full_title": "Donnie Trumpet by Nico Segal",
+    "id": 36274,
+    "name": "Donnie Trumpet",
+    "release_date_for_display": "June 12, 2013",
+    "url": "https://genius.com/albums/Nico-segal/Donnie-trumpet",
+    "artist": {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Trumpet",
+     "artists": [
+      {
+       "api_path": "/artists/55396",
+       "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "id": 55396,
+       "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Nico Segal",
+       "url": "https://genius.com/artists/Nico-segal",
+       "iq": 202
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/18814",
+       "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "id": 18814,
+       "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "VIC MENSA",
+       "url": "https://genius.com/artists/Vic-mensa",
+       "iq": 9939
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1308586,
+    "annotator_login": "Sssar",
+    "api_path": "/referents/3633396",
+    "classification": "needs_exegesis",
+    "fragment": "Don\u2019t Leave",
+    "id": 3633396,
+    "is_description": true,
+    "path": "/3633396/Nico-segal-dont-leave/Dont-leave",
+    "range": {
+     "content": "Don't Leave"
+    },
+    "song_id": 381582,
+    "url": "https://genius.com/3633396/Nico-segal-dont-leave/Dont-leave",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/381582",
+     "client_timestamps": {
+      "updated_by_human_at": 1529390762,
+      "lyrics_updated_at": 1529390762
+     },
+     "context": "Nico Segal",
+     "id": 381582,
+     "image_url": "https://images.genius.com/8b7da4227018136685041a3048934798.660x660x1.jpg",
+     "link_title": "Don\u2019t Leave by\u00a0Nico\u00a0Segal (Ft.\u00a0VIC\u00a0MENSA)",
+     "title": "Don't Leave",
+     "type": "Song",
+     "url": "https://genius.com/Nico-segal-dont-leave-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3633396",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3633396,
+      "pinned": false,
+      "share_url": "https://genius.com/3633396",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3633396/Nico-segal-dont-leave/Dont-leave",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1308586",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/96a56b466b53702a56ae15cf650f6696",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/96a56b466b53702a56ae15cf650f6696",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/96a56b466b53702a56ae15cf650f6696",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/96a56b466b53702a56ae15cf650f6696",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/96a56b466b53702a56ae15cf650f6696",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1308586,
+         "iq": 1167,
+         "login": "Sssar",
+         "name": "Sssar",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Sssar",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4iiuHjp6YVSjxNmCR3sl21",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4iiuHjp6YVSjxNmCR3sl21"
+    },
+    {
+     "attribution": "donnietrumpet",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/donnietrumpet/5-dont-leave?in=donnietrumpet/sets/donnie-trumpet"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=JcQlPLLjXbc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/55395",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 55395,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Chestevez",
+     "url": "https://genius.com/artists/Emilio-chestevez"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/55395",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 55395,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Emilio Chestevez",
+     "url": "https://genius.com/artists/Emilio-chestevez"
+    },
+    {
+     "api_path": "/artists/18814",
+     "header_image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "id": 18814,
+     "image_url": "https://images.genius.com/39fa1d8c6bbaf75cafa214d968dbe38d.650x430x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "VIC MENSA",
+     "url": "https://genius.com/artists/Vic-mensa",
+     "iq": 9939
+    },
+    {
+     "api_path": "/artists/55396",
+     "header_image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "id": 55396,
+     "image_url": "https://images.genius.com/a6cad9ea8c32d5b33103a43c996072a5.500x500x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Nico Segal",
+     "url": "https://genius.com/artists/Nico-segal",
+     "iq": 202
+    }
+   ],
+   "artist": "Nico Segal",
+   "lyrics": "8 ContributorsDon\u2019t Leave Lyrics[Intro]\nYeah\nShe don't need no reason\nShe don't need no perfect\nShe don't need no season\nShe don't need no darkness\nShe don't need no evening\nShe don't know no warning\nAll she know is she love me\nAll she know is she love me\nShe don't need no question\nShe don't know no answer\nShe don't need no mission\nShe don't know no bastard\nShe don't know no sadness\nShe don't know no laughter\nAll she know is she love me too much to ever leave\n\n[Hook]\nSo don't leave\nSo don't leave\nSo don't leave\nAll she know is she love me\nAll she know is she love me\nAll she know is she love me too much to ever leave\nYou might also like[Verse]\nInnanet, yeah\nShe be cross country giving all that she got\nI be on the road too busy to pick a phone\nWhen she hold up at home stomach balled in a knot\nQuestion herself whether to call up or not\nRose petals on the floor when I pull up\nWhen I pull up say let's vacay in the villa\nVan Morrison dancing in the moon like Thriller\nMargiela pumps in the back, chinchilla\nSo it seems I thought I patched the fabric when I cashed it\nGolden ring, depressed diamonds from the ashes, I left in the tray\nWhen I left the other day, I left her laid back on the mattress\nImagine me being the asshole ain't difficult\nShe's bashful, so typical\nGood girl being intertwined in this wild life of mine\nBut I'd be lying if I said she ain't ask to\n\n[Hook]\nSo don't leave\nSo don't leave\nSo don't leave\nAll she know is she love me\nAll she know is she love me\nAll she know is she love me too much to ever leave\n[Outro]\nShe don't need no reason\nShe don't need no perfect\nShe don't need no season\nShe don't need no darkness\nShe don't need no evening\nShe don't know no warning\nAll she know is she love me\nAll she know is she love me\nShe don't need no question\nShe don't know no answer\nShe don't need no mission\nShe don't know no bastard\nShe don't know no sadness\nShe don't know no laughter\nAll she know is she love me too much to ever leave7Embed"
+  }
+ ]
+}

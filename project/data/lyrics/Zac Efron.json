@@ -1,0 +1,3000 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/184927",
+ "description": {
+  "plain": "Zac Efron is an American actor and singer, best known for his role as Troy Bolton in the High School Musical franchise and as Phillip Carlyle in The Greatest Showman. He gained further notoriety after starring in Hairspray, 17 Again, Neighbors, and Baywatch."
+ },
+ "facebook_name": "ZacEfron",
+ "followers_count": 34,
+ "header_image_url": "https://images.genius.com/dc349d018f8ce01387a7cd3aabda126d.1000x625x1.jpg",
+ "id": 184927,
+ "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+ "instagram_name": "zacefron",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Zac Efron",
+ "translation_artist": false,
+ "twitter_name": "ZacEfron",
+ "url": "https://genius.com/artists/Zac-efron",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 5379387,
+  "annotator_login": "WayTooMuchEmotion",
+  "api_path": "/referents/13361760",
+  "classification": "accepted",
+  "fragment": "Zac Efron",
+  "id": 13361760,
+  "is_description": true,
+  "path": "/13361760/Zac-efron/Zac-efron",
+  "range": {
+   "content": "Zac Efron"
+  },
+  "song_id": null,
+  "url": "https://genius.com/13361760/Zac-efron/Zac-efron",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/184927",
+   "context": null,
+   "id": 184927,
+   "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+   "link_title": "Zac Efron",
+   "title": "Zac Efron",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Zac-efron"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/13361760",
+    "body": {
+     "plain": "Zac Efron is an American actor and singer, best known for his role as Troy Bolton in the High School Musical franchise and as Phillip Carlyle in The Greatest Showman. He gained further notoriety after starring in Hairspray, 17 Again, Neighbors, and Baywatch."
+    },
+    "comment_count": 1,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 13361760,
+    "pinned": false,
+    "share_url": "https://genius.com/13361760",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/13361760/Zac-efron/Zac-efron",
+    "verified": false,
+    "votes_total": 11,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.7674418604651163,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5379387",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9d9e3d74c63537b18015c06d4d3a74af",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9d9e3d74c63537b18015c06d4d3a74af",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9d9e3d74c63537b18015c06d4d3a74af",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9d9e3d74c63537b18015c06d4d3a74af",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/9d9e3d74c63537b18015c06d4d3a74af",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5379387,
+       "iq": 16478,
+       "login": "WayTooMuchEmotion",
+       "name": "WayTooMuchEmotion",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/WayTooMuchEmotion",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.23255813953488372,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5667167",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/ed4d77ad78cba4d73a80d8cc66a1a6d5.1000x1000x1.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/13b567d2d5aace872abf57d94196e160.480x214x60.gif",
+       "human_readable_role_for_display": "Moderator",
+       "id": 5667167,
+       "iq": 550567,
+       "login": "Pessoa",
+       "name": "Pessoa",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/Pessoa",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 12,
+   "api_path": "/songs/3317639",
+   "artist_names": "Zac Efron (Ft. Zendaya)",
+   "full_title": "Rewrite the Stars by\u00a0Zac\u00a0Efron (Ft.\u00a0Zendaya)",
+   "header_image_thumbnail_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.300x300x1.png",
+   "header_image_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.1000x1000x1.png",
+   "id": 3317639,
+   "language": "en",
+   "lyrics_owner_id": 5240032,
+   "lyrics_state": "complete",
+   "path": "/Zac-efron-rewrite-the-stars-lyrics",
+   "pyongs_count": 93,
+   "relationships_index_url": "https://genius.com/Zac-efron-rewrite-the-stars-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 11,
+    "day": 17
+   },
+   "release_date_for_display": "November 17, 2017",
+   "release_date_with_abbreviated_month_for_display": "Nov. 17, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 11,
+    "contributors": 141,
+    "iq_earners": 140,
+    "transcribers": 4,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 3371441
+   },
+   "title": "Rewrite the Stars",
+   "title_with_featured": "Rewrite the Stars (Ft.\u00a0Zendaya)",
+   "url": "https://genius.com/Zac-efron-rewrite-the-stars-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/43902",
+     "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+     "id": 43902,
+     "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Zendaya",
+     "url": "https://genius.com/artists/Zendaya",
+     "iq": 1087
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/184927",
+    "header_image_url": "https://images.genius.com/dc349d018f8ce01387a7cd3aabda126d.1000x625x1.jpg",
+    "id": 184927,
+    "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zac Efron",
+    "url": "https://genius.com/artists/Zac-efron"
+   },
+   "apple_music_id": "1299856917",
+   "apple_music_player_url": "https://genius.com/songs/3317639/apple_music_player",
+   "description": {
+    "plain": "\u201cRewrite the Stars\u201d was the third promotional song to be released before The Greatest Showman premiered. It is the eighth song overall on the soundtrack.\n\nThe song is an aerial duet between two of the characters: Philip Carlyle, a rich, white man, and Anne Wheeler, a poor, African-American girl. The two are in love, but destiny seems to keep pulling them away from each other.\n\nLyrically, the song takes on the subject of controlling their own fate and not letting the \u201cstars\u201d (the stories they are \u201cdestined\u201d to live) tell them otherwise. While Philip takes on a more optimistic tone, noting that they could \u201crewrite the stars\u201d and change their destiny, Anne takes on a more realistic approach, believing that even though they love each other, no one can rewrite the stars or do the impossible."
+   },
+   "embed_content": "<div id='rg_embed_link_3317639' class='rg_embed_link' data-song-id='3317639'>Read <a href='https://genius.com/Zac-efron-rewrite-the-stars-lyrics'>\u201cRewrite the Stars\u201d by Zac\u00a0Efron</a> on Genius</div> <script crossorigin src='//genius.com/songs/3317639/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-11-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/352404",
+    "cover_art_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.1000x1000x1.png",
+    "full_title": "The Greatest Showman (Original Motion Picture Soundtrack) by Various Artists",
+    "id": 352404,
+    "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
+    "release_date_for_display": "December 8, 2017",
+    "url": "https://genius.com/albums/Various-artists/The-greatest-showman-original-motion-picture-soundtrack",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/28791",
+       "header_image_url": "https://images.genius.com/28a39a3c154007a1a2b6ee8ea5412216.1000x733x1.jpg",
+       "id": 28791,
+       "image_url": "https://images.genius.com/28a39a3c154007a1a2b6ee8ea5412216.1000x733x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Wells",
+       "url": "https://genius.com/artists/Greg-wells"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/823121",
+       "header_image_url": "https://images.genius.com/44c87d51035e677f0349f51caaf677fe.1000x667x1.jpg",
+       "id": 823121,
+       "image_url": "https://images.genius.com/0f30dfa9416479d406ac52d6ccf2b557.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brian Lucey",
+       "url": "https://genius.com/artists/Brian-lucey"
+      }
+     ]
+    },
+    {
+     "label": "Arranger",
+     "artists": [
+      {
+       "api_path": "/artists/127033",
+       "header_image_url": "https://images.genius.com/08eb57eaa51dc772c9314e5f2f7f3d63.192x192x1.jpg",
+       "id": 127033,
+       "image_url": "https://images.genius.com/08eb57eaa51dc772c9314e5f2f7f3d63.192x192x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rob Mathes",
+       "url": "https://genius.com/artists/Rob-mathes"
+      }
+     ]
+    },
+    {
+     "label": "Programmer",
+     "artists": [
+      {
+       "api_path": "/artists/1116523",
+       "header_image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "id": 1116523,
+       "image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Leon",
+       "url": "https://genius.com/artists/Chris-leon"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1610001",
+       "header_image_url": "https://images.genius.com/7edb515f9c1ef22367e17dc366f79bfb.399x399x1.png",
+       "id": 1610001,
+       "image_url": "https://images.genius.com/7edb515f9c1ef22367e17dc366f79bfb.399x399x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brendan Morawski",
+       "url": "https://genius.com/artists/Brendan-morawski"
+      },
+      {
+       "api_path": "/artists/1317376",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1317376,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Feri Guti\u00e9rrez Arcelus",
+       "url": "https://genius.com/artists/Feri-gutierrez-arcelus"
+      },
+      {
+       "api_path": "/artists/1145941",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1145941,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ian Kagey",
+       "url": "https://genius.com/artists/Ian-kagey"
+      },
+      {
+       "api_path": "/artists/986404",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 986404,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ian MacGregor",
+       "url": "https://genius.com/artists/Ian-macgregor"
+      },
+      {
+       "api_path": "/artists/1087675",
+       "header_image_url": "https://images.genius.com/2a6850fb3f8fffb4545fbaf9c21e5f4f.300x300x1.jpg",
+       "id": 1087675,
+       "image_url": "https://images.genius.com/2a6850fb3f8fffb4545fbaf9c21e5f4f.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Isaiah Abolin",
+       "url": "https://genius.com/artists/Isaiah-abolin"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/656672",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 656672,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Derik Lee",
+       "url": "https://genius.com/artists/Derik-lee"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1116523",
+       "header_image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "id": 1116523,
+       "image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Leon",
+       "url": "https://genius.com/artists/Chris-leon"
+      }
+     ]
+    },
+    {
+     "label": "Instrumentation",
+     "artists": [
+      {
+       "api_path": "/artists/1067801",
+       "header_image_url": "https://images.genius.com/0a9cfa85c0c802327a5804362d2047e7.667x667x1.jpg",
+       "id": 1067801,
+       "image_url": "https://images.genius.com/0a9cfa85c0c802327a5804362d2047e7.667x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Synowiec",
+       "url": "https://genius.com/artists/Andrew-synowiec"
+      },
+      {
+       "api_path": "/artists/978390",
+       "header_image_url": "https://images.genius.com/df8e7417f2d97a501cda9b8b3fa59968.169x169x1.jpg",
+       "id": 978390,
+       "image_url": "https://images.genius.com/df8e7417f2d97a501cda9b8b3fa59968.169x169x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Chaney",
+       "url": "https://genius.com/artists/Chris-chaney"
+      },
+      {
+       "api_path": "/artists/1116523",
+       "header_image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "id": 1116523,
+       "image_url": "https://images.genius.com/d527be6fd7ad42972edd9445f069236a.257x257x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Leon",
+       "url": "https://genius.com/artists/Chris-leon"
+      },
+      {
+       "api_path": "/artists/977272",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 977272,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Levita",
+       "url": "https://genius.com/artists/David-levita"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5483641,
+    "annotator_login": "Lucyshope",
+    "api_path": "/referents/13050747",
+    "classification": "accepted",
+    "fragment": "Rewrite the Stars",
+    "id": 13050747,
+    "is_description": true,
+    "path": "/13050747/Zac-efron-rewrite-the-stars/Rewrite-the-stars",
+    "range": {
+     "content": "Rewrite the Stars"
+    },
+    "song_id": 3317639,
+    "url": "https://genius.com/13050747/Zac-efron-rewrite-the-stars/Rewrite-the-stars",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3317639",
+     "client_timestamps": {
+      "updated_by_human_at": 1670110629,
+      "lyrics_updated_at": 1670110629
+     },
+     "context": "Zac Efron",
+     "id": 3317639,
+     "image_url": "https://images.genius.com/5e2d5be38bb79ebe271d4faaeae80883.1000x1000x1.png",
+     "link_title": "Rewrite the Stars by\u00a0Zac\u00a0Efron (Ft.\u00a0Zendaya)",
+     "title": "Rewrite the Stars",
+     "type": "Song",
+     "url": "https://genius.com/Zac-efron-rewrite-the-stars-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13050747",
+      "body": {
+       "plain": "\u201cRewrite the Stars\u201d was the third promotional song to be released before The Greatest Showman premiered. It is the eighth song overall on the soundtrack.\n\nThe song is an aerial duet between two of the characters: Philip Carlyle, a rich, white man, and Anne Wheeler, a poor, African-American girl. The two are in love, but destiny seems to keep pulling them away from each other.\n\nLyrically, the song takes on the subject of controlling their own fate and not letting the \u201cstars\u201d (the stories they are \u201cdestined\u201d to live) tell them otherwise. While Philip takes on a more optimistic tone, noting that they could \u201crewrite the stars\u201d and change their destiny, Anne takes on a more realistic approach, believing that even though they love each other, no one can rewrite the stars or do the impossible."
+      },
+      "comment_count": 2,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 13050747,
+      "pinned": false,
+      "share_url": "https://genius.com/13050747",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/13050747/Zac-efron-rewrite-the-stars/Rewrite-the-stars",
+      "verified": false,
+      "votes_total": 228,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.524822695035461,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5240032",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n5ztg05e88",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n5ztg05e88",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n5ztg05e88",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/n5ztg05e88",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/felbcy6mjkn",
+         "human_readable_role_for_display": "Editor",
+         "id": 5240032,
+         "iq": 11085,
+         "login": "lame_dude",
+         "name": "lame_dude",
+         "role_for_display": "editor",
+         "url": "https://genius.com/lame_dude",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.24113475177304963,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5708578",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 5708578,
+         "iq": 179,
+         "login": "thegirlhiddenintheshadows",
+         "name": "thegirlhiddenintheshadows",
+         "role_for_display": null,
+         "url": "https://genius.com/thegirlhiddenintheshadows",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.11347517730496454,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1952202",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/62e1ca97b1d1770d088effc1d9570279",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/62e1ca97b1d1770d088effc1d9570279",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/62e1ca97b1d1770d088effc1d9570279",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/62e1ca97b1d1770d088effc1d9570279",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bats1rnnyh5",
+         "human_readable_role_for_display": "Editor",
+         "id": 1952202,
+         "iq": 234089,
+         "login": "tohughmitmayconcern",
+         "name": "tohughmitmayconcern",
+         "role_for_display": "editor",
+         "url": "https://genius.com/tohughmitmayconcern",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0425531914893617,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5483641",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ebab42d6e7daa25c9ccd3b8dbcd272a0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ebab42d6e7daa25c9ccd3b8dbcd272a0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ebab42d6e7daa25c9ccd3b8dbcd272a0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ebab42d6e7daa25c9ccd3b8dbcd272a0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ebab42d6e7daa25c9ccd3b8dbcd272a0",
+         "human_readable_role_for_display": null,
+         "id": 5483641,
+         "iq": 214,
+         "login": "Lucyshope",
+         "name": "Lucyshope",
+         "role_for_display": null,
+         "url": "https://genius.com/Lucyshope",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.035460992907801414,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/7412512",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7af28e82be3275db32b6d0769d19a42f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7af28e82be3275db32b6d0769d19a42f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7af28e82be3275db32b6d0769d19a42f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7af28e82be3275db32b6d0769d19a42f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/7af28e82be3275db32b6d0769d19a42f",
+         "human_readable_role_for_display": null,
+         "id": 7412512,
+         "iq": 111,
+         "login": "fjdkslarueiwoqp",
+         "name": "fjdkslarueiwoqp",
+         "role_for_display": null,
+         "url": "https://genius.com/fjdkslarueiwoqp",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.02127659574468085,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4463664",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/261c07803f84cb19ce34dd4cfbf8d36f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/261c07803f84cb19ce34dd4cfbf8d36f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/261c07803f84cb19ce34dd4cfbf8d36f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/261c07803f84cb19ce34dd4cfbf8d36f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hEJNmgCyTUS38j3KIOBf_point%20reyes.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4463664,
+         "iq": 899,
+         "login": "prosandconsofbreathing",
+         "name": "prosandconsofbreathing",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/prosandconsofbreathing",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0070921985815602835,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6223186",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a8d9d47b9064093707a935e4aaaf04cb",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a8d9d47b9064093707a935e4aaaf04cb",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a8d9d47b9064093707a935e4aaaf04cb",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a8d9d47b9064093707a935e4aaaf04cb",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a8d9d47b9064093707a935e4aaaf04cb",
+         "human_readable_role_for_display": null,
+         "id": 6223186,
+         "iq": 106,
+         "login": "SnowPanda",
+         "name": "SnowPanda",
+         "role_for_display": null,
+         "url": "https://genius.com/SnowPanda",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0070921985815602835,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6129923",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5h34e6dvvxl",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5h34e6dvvxl",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5h34e6dvvxl",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/5h34e6dvvxl",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rdoiyyfktnm",
+         "human_readable_role_for_display": null,
+         "id": 6129923,
+         "iq": 112,
+         "login": "1234567f",
+         "name": "1234567f",
+         "role_for_display": null,
+         "url": "https://genius.com/1234567f",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.0070921985815602835,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4177315",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/duxrowdrkp9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/duxrowdrkp9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/duxrowdrkp9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/duxrowdrkp9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/bmdugfebszf",
+         "human_readable_role_for_display": "Editor",
+         "id": 4177315,
+         "iq": 52565,
+         "login": "SallySunshine",
+         "name": "SallySunshine",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SallySunshine",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/13123672",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+    "human_readable_role_for_display": "Staff",
+    "id": 13123672,
+    "iq": 63003,
+    "login": "ammyp",
+    "name": "ammyp",
+    "role_for_display": "staff",
+    "url": "https://genius.com/ammyp",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/13123672",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/443506ea4a533672a8a8aaf8ab5e1c87",
+    "human_readable_role_for_display": "Staff",
+    "id": 13123672,
+    "iq": 63003,
+    "login": "ammyp",
+    "name": "ammyp",
+    "role_for_display": "staff",
+    "url": "https://genius.com/ammyp",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:65fpYBrI8o2cfrwf2US4gq",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/65fpYBrI8o2cfrwf2US4gq"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gdjR2lvIfJ4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/28791",
+     "header_image_url": "https://images.genius.com/28a39a3c154007a1a2b6ee8ea5412216.1000x733x1.jpg",
+     "id": 28791,
+     "image_url": "https://images.genius.com/28a39a3c154007a1a2b6ee8ea5412216.1000x733x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Wells",
+     "url": "https://genius.com/artists/Greg-wells"
+    },
+    {
+     "api_path": "/artists/56287",
+     "header_image_url": "https://images.rapgenius.com/avatars/medium/c43d79ed225939bf4113d30871bb5459",
+     "id": 56287,
+     "image_url": "https://images.rapgenius.com/avatars/medium/c43d79ed225939bf4113d30871bb5459",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Joseph Trapanese",
+     "url": "https://genius.com/artists/Joseph-trapanese",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1036659",
+     "header_image_url": "https://images.genius.com/7292f1cdec2e5c1d345d0ab8eb06adec.838x360x1.jpg",
+     "id": 1036659,
+     "image_url": "https://images.genius.com/58af96ddbd80c1033cbbdbfe6ec28c51.375x375x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Paul",
+     "url": "https://genius.com/artists/Justin-paul"
+    },
+    {
+     "api_path": "/artists/656670",
+     "header_image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+     "id": 656670,
+     "image_url": "https://images.genius.com/2f2edc3f54f3d99fe0c833492da6776e.800x534x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Lacamoire",
+     "url": "https://genius.com/artists/Alex-lacamoire"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Zac-efron-rewrite-the-stars-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6937230",
+       "artist_names": "Sapphire (UK)",
+       "full_title": "Rewrite the Stars by\u00a0Sapphire\u00a0(UK)",
+       "header_image_thumbnail_url": "https://images.genius.com/52b72db4f9699eaae020cc1193f254f1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/52b72db4f9699eaae020cc1193f254f1.500x500x1.jpg",
+       "id": 6937230,
+       "language": "en",
+       "lyrics_owner_id": 12339463,
+       "lyrics_state": "complete",
+       "path": "/Sapphire-uk-rewrite-the-stars-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sapphire-uk-rewrite-the-stars-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 1,
+        "day": 20
+       },
+       "release_date_for_display": "January 20, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jan. 20, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/52b72db4f9699eaae020cc1193f254f1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/52b72db4f9699eaae020cc1193f254f1.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rewrite the Stars",
+       "title_with_featured": "Rewrite the Stars",
+       "url": "https://genius.com/Sapphire-uk-rewrite-the-stars-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1911133",
+        "header_image_url": "https://images.genius.com/4e61b8d20198927e9d8ccfab6b84ad34.1000x500x1.jpg",
+        "id": 1911133,
+        "image_url": "https://images.genius.com/65074e168a985c94f9d5cf3c5d7cd48a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sapphire (UK)",
+        "url": "https://genius.com/artists/Sapphire-uk"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4556605",
+       "artist_names": "Cimorelli",
+       "full_title": "This Me / a Million Dreams / Never Enough / Rewrite the Stars / the Greatest Show by\u00a0Cimorelli",
+       "header_image_thumbnail_url": "https://images.genius.com/fbb92ffe59033d75a3fad299d68a7c32.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fbb92ffe59033d75a3fad299d68a7c32.1000x1000x1.jpg",
+       "id": 4556605,
+       "language": "en",
+       "lyrics_owner_id": 6868183,
+       "lyrics_state": "complete",
+       "path": "/Cimorelli-this-me-a-million-dreams-never-enough-rewrite-the-stars-the-greatest-show-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cimorelli-this-me-a-million-dreams-never-enough-rewrite-the-stars-the-greatest-show-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 15
+       },
+       "release_date_for_display": "December 15, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 15, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fbb92ffe59033d75a3fad299d68a7c32.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fbb92ffe59033d75a3fad299d68a7c32.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "This Me / a Million Dreams / Never Enough / Rewrite the Stars / the Greatest Show",
+       "title_with_featured": "This Me / a Million Dreams / Never Enough / Rewrite the Stars / the Greatest Show",
+       "url": "https://genius.com/Cimorelli-this-me-a-million-dreams-never-enough-rewrite-the-stars-the-greatest-show-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/21788",
+        "header_image_url": "https://images.genius.com/fd1876ae70719b9d01584d4ac31b127f.1000x747x1.png",
+        "id": 21788,
+        "image_url": "https://images.genius.com/968a412430286e972b1ef3aea6a40c7c.741x741x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cimorelli",
+        "url": "https://genius.com/artists/Cimorelli"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4490397",
+       "artist_names": "Jess and Gabriel",
+       "full_title": "Rewrite the Stars by\u00a0Jess\u00a0and Gabriel",
+       "header_image_thumbnail_url": "https://images.genius.com/5397b684f1714c51cc8c03b26ce938ae.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5397b684f1714c51cc8c03b26ce938ae.1000x1000x1.jpg",
+       "id": 4490397,
+       "language": "en",
+       "lyrics_owner_id": 1947267,
+       "lyrics_state": "complete",
+       "path": "/Jess-and-gabriel-rewrite-the-stars-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jess-and-gabriel-rewrite-the-stars-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 4,
+        "day": 23
+       },
+       "release_date_for_display": "April 23, 2019",
+       "release_date_with_abbreviated_month_for_display": "Apr. 23, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5397b684f1714c51cc8c03b26ce938ae.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5397b684f1714c51cc8c03b26ce938ae.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rewrite the Stars",
+       "title_with_featured": "Rewrite the Stars",
+       "url": "https://genius.com/Jess-and-gabriel-rewrite-the-stars-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1159416",
+        "header_image_url": "https://images.genius.com/cf19281af743fe0ab64c5bc4e105fd4c.1000x661x1.jpg",
+        "id": 1159416,
+        "image_url": "https://images.genius.com/cd89e5b904fbbfc67bb2468ff82cea4c.350x350x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jess and Gabriel",
+        "url": "https://genius.com/artists/Jess-and-gabriel"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4458980",
+       "artist_names": "The Piano Guys",
+       "full_title": "Rewrite the Stars by\u00a0The\u00a0Piano Guys",
+       "header_image_thumbnail_url": "https://images.genius.com/a97c407440aec079ef8a01d2e903641c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/a97c407440aec079ef8a01d2e903641c.1000x1000x1.png",
+       "id": 4458980,
+       "language": "en",
+       "lyrics_owner_id": 5585647,
+       "lyrics_state": "complete",
+       "path": "/The-piano-guys-rewrite-the-stars-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-piano-guys-rewrite-the-stars-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 2,
+        "day": 14
+       },
+       "release_date_for_display": "February 14, 2018",
+       "release_date_with_abbreviated_month_for_display": "Feb. 14, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a97c407440aec079ef8a01d2e903641c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/a97c407440aec079ef8a01d2e903641c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rewrite the Stars",
+       "title_with_featured": "Rewrite the Stars",
+       "url": "https://genius.com/The-piano-guys-rewrite-the-stars-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/370100",
+        "header_image_url": "https://images.genius.com/5c0eff05ff7982e295ead7fe987d4d08.1000x667x1.jpg",
+        "id": 370100,
+        "image_url": "https://images.genius.com/bf460bf4d3fa0250fa58750b6134ffd8.960x960x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Piano Guys",
+        "url": "https://genius.com/artists/The-piano-guys"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4042649",
+       "artist_names": "James Arthur & Anne-Marie",
+       "full_title": "Rewrite the Stars by\u00a0James\u00a0Arthur & Anne-Marie",
+       "header_image_thumbnail_url": "https://images.genius.com/e5cc35d3ea3f6293b9fbe83099e8e1d0.300x300x1.png",
+       "header_image_url": "https://images.genius.com/e5cc35d3ea3f6293b9fbe83099e8e1d0.1000x1000x1.png",
+       "id": 4042649,
+       "language": "en",
+       "lyrics_owner_id": 1947267,
+       "lyrics_state": "complete",
+       "path": "/James-arthur-and-anne-marie-rewrite-the-stars-lyrics",
+       "pyongs_count": 15,
+       "relationships_index_url": "https://genius.com/James-arthur-and-anne-marie-rewrite-the-stars-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/89309a706a2098ceafa00c9950ee2081.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/89309a706a2098ceafa00c9950ee2081.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 167885
+       },
+       "title": "Rewrite the Stars",
+       "title_with_featured": "Rewrite the Stars",
+       "url": "https://genius.com/James-arthur-and-anne-marie-rewrite-the-stars-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1600467",
+        "header_image_url": "https://images.genius.com/1819d466514f32d43efb339f5f7c67bf.520x263x1.jpg",
+        "id": 1600467,
+        "image_url": "https://images.genius.com/e8cba864ddabe24ba964f5df9a68fcc0.531x531x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "James Arthur & Anne-Marie",
+        "url": "https://genius.com/artists/James-arthur-and-anne-marie"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3530441",
+       "artist_names": "Anthem Lights",
+       "full_title": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me by\u00a0Anthem\u00a0Lights",
+       "header_image_thumbnail_url": "https://images.genius.com/83641f5af2ab3722dc9399ff3c3873b8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/83641f5af2ab3722dc9399ff3c3873b8.1000x1000x1.jpg",
+       "id": 3530441,
+       "language": "en",
+       "lyrics_owner_id": 5660432,
+       "lyrics_state": "complete",
+       "path": "/Anthem-lights-the-greatest-showman-medley-the-greatest-show-a-million-dreams-never-enough-rewrite-the-stars-this-is-me-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Anthem-lights-the-greatest-showman-medley-the-greatest-show-a-million-dreams-never-enough-rewrite-the-stars-this-is-me-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 2,
+        "day": 16
+       },
+       "release_date_for_display": "February 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Feb. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/83641f5af2ab3722dc9399ff3c3873b8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/83641f5af2ab3722dc9399ff3c3873b8.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 20357
+       },
+       "title": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+       "title_with_featured": "The Greatest Showman Medley: The Greatest Show / A Million Dreams / Never Enough / Rewrite the Stars / This Is Me",
+       "url": "https://genius.com/Anthem-lights-the-greatest-showman-medley-the-greatest-show-a-million-dreams-never-enough-rewrite-the-stars-this-is-me-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/215403",
+        "header_image_url": "https://images.genius.com/cb91957189eb69655565e2484da97e39.1000x667x1.jpg",
+        "id": 215403,
+        "image_url": "https://images.genius.com/9f0cd6a94f119bccccf3eb451a9f989a.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Anthem Lights",
+        "url": "https://genius.com/artists/Anthem-lights"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3613040",
+       "artist_names": "Chad Graham (Ft. Fallon Graham)",
+       "full_title": "Rewrite the Stars by\u00a0Chad\u00a0Graham (Ft.\u00a0Fallon\u00a0Graham)",
+       "header_image_thumbnail_url": "https://images.genius.com/650adba68a9847c860e62d425f6a6bda.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/650adba68a9847c860e62d425f6a6bda.1000x1000x1.jpg",
+       "id": 3613040,
+       "language": "en",
+       "lyrics_owner_id": 5660432,
+       "lyrics_state": "complete",
+       "path": "/Chad-graham-rewrite-the-stars-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Chad-graham-rewrite-the-stars-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 3,
+        "day": 28
+       },
+       "release_date_for_display": "March 28, 2018",
+       "release_date_with_abbreviated_month_for_display": "Mar. 28, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/650adba68a9847c860e62d425f6a6bda.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/650adba68a9847c860e62d425f6a6bda.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rewrite the Stars",
+       "title_with_featured": "Rewrite the Stars (Ft.\u00a0Fallon\u00a0Graham)",
+       "url": "https://genius.com/Chad-graham-rewrite-the-stars-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1431549",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 1431549,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Fallon Graham",
+         "url": "https://genius.com/artists/Fallon-graham"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1208548",
+        "header_image_url": "https://images.genius.com/cc7724b62942a8c733cd4911897530e8.500x500x1.jpg",
+        "id": 1208548,
+        "image_url": "https://images.genius.com/2f9e4e937d0f81b90a24f309bc2ec529.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chad Graham",
+        "url": "https://genius.com/artists/Chad-graham"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4042650",
+       "artist_names": "Zendaya",
+       "full_title": "Rewrite the Stars (Acoustic Version) by\u00a0Zendaya",
+       "header_image_thumbnail_url": "https://images.genius.com/29f15eb96f814e785598d0eea14126a7.300x300x1.png",
+       "header_image_url": "https://images.genius.com/29f15eb96f814e785598d0eea14126a7.1000x1000x1.png",
+       "id": 4042650,
+       "language": "en",
+       "lyrics_owner_id": 6589156,
+       "lyrics_state": "complete",
+       "path": "/Zendaya-rewrite-the-stars-acoustic-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Zendaya-rewrite-the-stars-acoustic-version-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 12,
+        "day": 14
+       },
+       "release_date_for_display": "December 14, 2017",
+       "release_date_with_abbreviated_month_for_display": "Dec. 14, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/29f15eb96f814e785598d0eea14126a7.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/29f15eb96f814e785598d0eea14126a7.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rewrite the Stars (Acoustic Version)",
+       "title_with_featured": "Rewrite the Stars (Acoustic Version)",
+       "url": "https://genius.com/Zendaya-rewrite-the-stars-acoustic-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43902",
+        "header_image_url": "https://images.genius.com/75a9553db96f186e30d132c6911a96e8.1000x625x1.jpg",
+        "id": 43902,
+        "image_url": "https://images.genius.com/a1a0debaa234be3acbcda4ef964a4b28.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Zendaya",
+        "url": "https://genius.com/artists/Zendaya",
+        "iq": 1087
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1036659",
+     "header_image_url": "https://images.genius.com/7292f1cdec2e5c1d345d0ab8eb06adec.838x360x1.jpg",
+     "id": 1036659,
+     "image_url": "https://images.genius.com/58af96ddbd80c1033cbbdbfe6ec28c51.375x375x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Justin Paul",
+     "url": "https://genius.com/artists/Justin-paul"
+    },
+    {
+     "api_path": "/artists/1036658",
+     "header_image_url": "https://images.genius.com/a2e39a8a95db2eb2e9cc78083638553c.1000x432x1.jpg",
+     "id": 1036658,
+     "image_url": "https://images.genius.com/4c8d4b4f0393d82965b376a5adae0810.381x381x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Benj Pasek",
+     "url": "https://genius.com/artists/Benj-pasek"
+    }
+   ],
+   "artist": "Zac Efron",
+   "lyrics": "141 ContributorsRewrite the Stars Lyrics[Verse 1: Zac Efron]\nYou know I want you\nIt's not a secret I try to hide\nI know you want me\nSo don't keep sayin' our hands are tied\nYou claim it's not in the cards\nAnd fate is pulling you miles away and out of reach from me\nBut you're here in my heart\nSo who can stop me if I decide that you're my destiny?\n\n[Chorus: Zac Efron]\nWhat if we rewrite the stars?\nSay you were made to be mine?\nNothing could keep us apart\nYou'd be the one I was meant to find\nIt's up to you and it's up to me\nNo one can say what we get to be\nSo why don't we rewrite the stars?\nMaybe the world could be ours tonight\n\n[Verse 2: Zendaya]\nYou think it's easy?\nYou think I don't want to run to you?\nBut there are mountains\nAnd there are doors that we can't walk through\nI know you're wonderin' why\nBecause we're able to be just you and me within these walls\nBut when we go outside\nYou're gonna wake up and see that it was hopeless after all\nYou might also like[Chorus: Zendaya]\nNo one can rewrite the stars\nHow can you say you'll be mine?\nEverything keeps us apart\nAnd I'm not the one you were meant to find\nIt's not up to you, it's not up to me\nWhen everyone tells us what we can be\nHow can we rewrite the stars?\nSay that the world can be ours tonight\n\n[Bridge: Both, Zendaya, Zac Efron]\nAll I want is to fly with you\nAll I want is to fall with you\nSo just give me all of you\nIt feels impossible\nIt's not impossible\nIs it impossible?\nSay that it's possible\n\n[Chorus: Both, Zac Efron]\nHow do we rewrite the stars?\nSay you were made to be mine\nNothing can keep us apart\n'Cause you are the one I was meant to find\nIt's up to you and it's up to me\nNo one can say what we get to be\nWhy don't we rewrite the stars?\nChangin' the world to be ours\n[Outro: Zendaya]\nYou know I want you\nIt's not a secret I try to hide\nBut I can't have you\nWe're bound to break and my hands are tied93Embed"
+  },
+  {
+   "annotation_count": 10,
+   "api_path": "/songs/2304917",
+   "artist_names": "Zac Efron (Ft. Amanda Bynes, Elijah Kelley & Nikki Blonsky)",
+   "full_title": "Without Love by\u00a0Zac\u00a0Efron (Ft.\u00a0Amanda\u00a0Bynes, Elijah\u00a0Kelley & Nikki\u00a0Blonsky)",
+   "header_image_thumbnail_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+   "id": 2304917,
+   "language": "en",
+   "lyrics_owner_id": 1069367,
+   "lyrics_state": "complete",
+   "path": "/Zac-efron-without-love-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Zac-efron-without-love-sample",
+   "release_date_components": {
+    "year": 2007,
+    "month": 7,
+    "day": 10
+   },
+   "release_date_for_display": "July 10, 2007",
+   "release_date_with_abbreviated_month_for_display": "Jul. 10, 2007",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 3,
+    "contributors": 20,
+    "iq_earners": 20,
+    "transcribers": 2,
+    "unreviewed_annotations": 6,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 66562
+   },
+   "title": "Without Love",
+   "title_with_featured": "Without Love (Ft.\u00a0Amanda\u00a0Bynes, Elijah\u00a0Kelley & Nikki\u00a0Blonsky)",
+   "url": "https://genius.com/Zac-efron-without-love-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/619539",
+     "header_image_url": "https://images.genius.com/432b193ab6b24187795873b35069bb43.992x558x1.jpg",
+     "id": 619539,
+     "image_url": "https://images.genius.com/14e79cff86b585feb3622da7aec5585a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amanda Bynes",
+     "url": "https://genius.com/artists/Amanda-bynes"
+    },
+    {
+     "api_path": "/artists/393612",
+     "header_image_url": "https://images.genius.com/2ed55e62886b1eb62c013731be2bc7ca.450x450x1.jpg",
+     "id": 393612,
+     "image_url": "https://images.genius.com/2ed55e62886b1eb62c013731be2bc7ca.450x450x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Elijah Kelley",
+     "url": "https://genius.com/artists/Elijah-kelley"
+    },
+    {
+     "api_path": "/artists/379474",
+     "header_image_url": "https://images.genius.com/031e632bb74156ab0ceb29fbc599b33d.658x658x1.jpg",
+     "id": 379474,
+     "image_url": "https://images.genius.com/031e632bb74156ab0ceb29fbc599b33d.658x658x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Nikki Blonsky",
+     "url": "https://genius.com/artists/Nikki-blonsky"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/184927",
+    "header_image_url": "https://images.genius.com/dc349d018f8ce01387a7cd3aabda126d.1000x625x1.jpg",
+    "id": 184927,
+    "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zac Efron",
+    "url": "https://genius.com/artists/Zac-efron"
+   },
+   "apple_music_id": "730633878",
+   "apple_music_player_url": "https://genius.com/songs/2304917/apple_music_player",
+   "description": {
+    "plain": "One of the songs from the hit movie, Hairspray which is all about love and how life would be without it. It is sung by Link, Tracy, Seaweed and Penny."
+   },
+   "embed_content": "<div id='rg_embed_link_2304917' class='rg_embed_link' data-song-id='2304917'>Read <a href='https://genius.com/Zac-efron-without-love-lyrics'>\u201cWithout Love\u201d by Zac\u00a0Efron</a> on Genius</div> <script crossorigin src='//genius.com/songs/2304917/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2007-07-10",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/139593",
+    "cover_art_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+    "full_title": "Hairspray (Soundtrack to the Motion Picture) by Various Artists",
+    "id": 139593,
+    "name": "Hairspray (Soundtrack to the Motion Picture)",
+    "release_date_for_display": "July 10, 2007",
+    "url": "https://genius.com/albums/Various-artists/Hairspray-soundtrack-to-the-motion-picture",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1069367,
+    "annotator_login": "PatrickRossey",
+    "api_path": "/referents/7793771",
+    "classification": "accepted",
+    "fragment": "Without Love",
+    "id": 7793771,
+    "is_description": true,
+    "path": "/7793771/Zac-efron-without-love/Without-love",
+    "range": {
+     "content": "Without Love"
+    },
+    "song_id": 2304917,
+    "url": "https://genius.com/7793771/Zac-efron-without-love/Without-love",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2304917",
+     "client_timestamps": {
+      "updated_by_human_at": 1637966686,
+      "lyrics_updated_at": 1637966686
+     },
+     "context": "Zac Efron",
+     "id": 2304917,
+     "image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+     "link_title": "Without Love by\u00a0Zac\u00a0Efron (Ft.\u00a0Amanda\u00a0Bynes, Elijah\u00a0Kelley & Nikki\u00a0Blonsky)",
+     "title": "Without Love",
+     "type": "Song",
+     "url": "https://genius.com/Zac-efron-without-love-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7793771",
+      "body": {
+       "plain": "One of the songs from the hit movie, Hairspray which is all about love and how life would be without it. It is sung by Link, Tracy, Seaweed and Penny."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 7793771,
+      "pinned": false,
+      "share_url": "https://genius.com/7793771",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/7793771/Zac-efron-without-love/Without-love",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1069367",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/fa9336b5378ebbf3e8e71196e6992b2a",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/fa9336b5378ebbf3e8e71196e6992b2a",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/fa9336b5378ebbf3e8e71196e6992b2a",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/fa9336b5378ebbf3e8e71196e6992b2a",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/HtgsvM8S4xVfHq79BFQK_IMG_1636.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 1069367,
+         "iq": 48224,
+         "login": "PatrickRossey",
+         "name": "Patrick Rossey",
+         "role_for_display": "editor",
+         "url": "https://genius.com/PatrickRossey",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:2O3PGqYEDg3vU9M7JpO2BJ",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2O3PGqYEDg3vU9M7JpO2BJ"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=RNZ0gAvgHL0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/184927",
+     "header_image_url": "https://images.genius.com/dc349d018f8ce01387a7cd3aabda126d.1000x625x1.jpg",
+     "id": 184927,
+     "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Zac Efron",
+     "url": "https://genius.com/artists/Zac-efron"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/1844251",
+       "artist_names": "Original Broadway Cast Of Hairspray (Ft. Corey Reynolds, Kerry Butler, Marissa Jaret Winokur & Matthew Morrison)",
+       "full_title": "Without Love by\u00a0Original\u00a0Broadway Cast Of Hairspray (Ft.\u00a0Corey\u00a0Reynolds, Kerry\u00a0Butler, Marissa\u00a0Jaret Winokur & Matthew\u00a0Morrison)",
+       "header_image_thumbnail_url": "https://images.genius.com/0009c7ca931bb162388427e0d3007328.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0009c7ca931bb162388427e0d3007328.500x500x1.jpg",
+       "id": 1844251,
+       "language": "en",
+       "lyrics_owner_id": 2457824,
+       "lyrics_state": "complete",
+       "path": "/Original-broadway-cast-of-hairspray-without-love-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Original-broadway-cast-of-hairspray-without-love-sample",
+       "release_date_components": {
+        "year": 2002,
+        "month": 8,
+        "day": 13
+       },
+       "release_date_for_display": "August 13, 2002",
+       "release_date_with_abbreviated_month_for_display": "Aug. 13, 2002",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0009c7ca931bb162388427e0d3007328.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0009c7ca931bb162388427e0d3007328.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false,
+        "pageviews": 7325
+       },
+       "title": "Without Love",
+       "title_with_featured": "Without Love (Ft.\u00a0Corey\u00a0Reynolds, Kerry\u00a0Butler, Marissa\u00a0Jaret Winokur & Matthew\u00a0Morrison)",
+       "url": "https://genius.com/Original-broadway-cast-of-hairspray-without-love-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/484833",
+         "header_image_url": "https://images.genius.com/553546ef3141e242f25fc829d81193fc.293x293x1.jpg",
+         "id": 484833,
+         "image_url": "https://images.genius.com/553546ef3141e242f25fc829d81193fc.293x293x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kerry Butler",
+         "url": "https://genius.com/artists/Kerry-butler"
+        },
+        {
+         "api_path": "/artists/491595",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 491595,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Corey Reynolds",
+         "url": "https://genius.com/artists/Corey-reynolds"
+        },
+        {
+         "api_path": "/artists/454065",
+         "header_image_url": "https://images.genius.com/35c9a79ed475ce0506115a9a47992a4d.1000x1000x1.jpg",
+         "id": 454065,
+         "image_url": "https://images.genius.com/35c9a79ed475ce0506115a9a47992a4d.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Marissa Jaret Winokur",
+         "url": "https://genius.com/artists/Marissa-jaret-winokur"
+        },
+        {
+         "api_path": "/artists/344543",
+         "header_image_url": "https://images.genius.com/b9a30f349c62a8cdb457bb931813afad.1000x333x1.jpg",
+         "id": 344543,
+         "image_url": "https://images.genius.com/61b0298efedf8dd793d63be58d5e3939.400x400x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Matthew Morrison",
+         "url": "https://genius.com/artists/Matthew-morrison",
+         "iq": 100
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1647931",
+        "header_image_url": "https://images.genius.com/ffb44b0ba47744a2148914913bda2004.1000x369x1.jpg",
+        "id": 1647931,
+        "image_url": "https://images.genius.com/5541797fdf41b9e7b94ef8dd1374c06f.980x980x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Original Broadway Cast Of Hairspray",
+        "url": "https://genius.com/artists/Original-broadway-cast-of-hairspray"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/995526",
+     "header_image_url": "https://images.genius.com/7d4f8264b600227decac72bbe36dcd50.341x341x1.jpg",
+     "id": 995526,
+     "image_url": "https://images.genius.com/7d4f8264b600227decac72bbe36dcd50.341x341x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Wittman",
+     "url": "https://genius.com/artists/Scott-wittman"
+    },
+    {
+     "api_path": "/artists/129864",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 129864,
+     "image_url": "https://images.genius.com/c83b6e1737c1b0a82888fd58c2c5249b.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Shaiman",
+     "url": "https://genius.com/artists/Marc-shaiman"
+    }
+   ],
+   "artist": "Zac Efron",
+   "lyrics": "20 ContributorsWithout Love Lyrics[LINK]\nOnce I was a selfish fool\nWho never understood\nNever looked inside myself\nThough on the outside, I looked good!\nThen we met and you made me\nThe man I am today\nTracy, I'm in love with you\nNo matter what you weigh\n\n[LINK & TRACY]\n'Cause without love\n\n[LINK]\nLife is like the seasons with no summer\n\n[LINK & TRACY]\nWithout love\n\n[LINK]\nLife is rock 'n' roll without a drummer\nTracy, I'll be yours forever\nCause I never wanna be\nWithout love\nTracy, never set me free\n[LINK & TRACY]\nNo, I ain't lyin'\nNever set me free, Tracy\nNo, no, no!\n[SEAWEED]\nLiving in the ghetto\nBlack is everywhere you go\nWho'd've thought I'd love a girl\nWhose skin was white as winter snow?\n\n[PENNY]\nIn my ivory tower\nLife was just a hostess snack\nBut now I've tasted chocolate\nAnd I'm never going back\n\n[SEAWEED & PENNY]\n'Cause without love\n\n[SEAWEED]\nLife is like a beat that you can't follow\n\n[SEAWEED & PENNY]\nWithout love\n[PENNY]\nLife is Doris Day at the Apollo\n\n[SEAWEED & PENNY]\nDarling, I'll be yours forever\n'Cause I never wanna be\n\n[PENNY]\nWithout love\n\n[SEAWEED]\nSo, darlin', never set me free\n\n[SEAWEED & PENNY]\nOh, I'm yours forever\nNever set me free\nNo, no, no!\n\n[LINK]\nIf I'm left without my baby doll\nI don't know what I'll do\n\n[TRACY]\nLink, I've got to break out\nSo that I can get my hands on you\nYou might also like[SEAWEED]\nAnd girl, if I can't touch you\nThen I'm gonna lose control\n\n[PENNY]\nSeaweed, you're my black white knight\nI've found my blue-eyed soul\n\n[SEAWEED]\nSweet freedom is our goal!\n\n[LINK]\nTrace, I wanna kiss ya!\n\n[TRACY]\nLet me out at the next toll!\n\n[ALL]\nWithout love\n\n[SEAWEED]\nLife is like a prom that won't invite us\n\n[ALL]\nWithout love\n\n[LINK]\nLife's getting my big break and laryngitis\n\n[ALL]\nWithout love\n\n[PENNY]\nLife's a '45 when you can't buy it\n\n[ALL]\nWithout love\n\n[TRACY]\nLife is like my mother on a diet!\n\n[ALL]\nLike a week that's only Mondays\nOnly ice cream, never sundaes\nLike a circle with no center\nLike a door marked \"Do not enter!\"\n\nDarlin' I'll be yours forever\n'Cause I never wanna be\nWithout love\n\n[SEAWEED & PENNY]\nYes, now you've captured me\n\n[ALL]\nWithout love\n\n[LINK & TRACY]\nI surrender happily\n\n[ALL]\nWithout love\nSeaweed never set me free\nNo no no\nI ain't lying\nNever set me free\nNo, no, no\nNo I don't wanna live\nWithout love\nDarlin' you have best believe me\nNever leave me without love1Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1342171",
+   "artist_names": "Zac Efron",
+   "full_title": "Ladies' Choice by\u00a0Zac\u00a0Efron",
+   "header_image_thumbnail_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+   "id": 1342171,
+   "language": "en",
+   "lyrics_owner_id": 2457824,
+   "lyrics_state": "complete",
+   "path": "/Zac-efron-ladies-choice-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Zac-efron-ladies-choice-sample",
+   "release_date_components": {
+    "year": 2010,
+    "month": 4,
+    "day": 1
+   },
+   "release_date_for_display": "April 1, 2010",
+   "release_date_with_abbreviated_month_for_display": "Apr. 1, 2010",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 13,
+    "iq_earners": 11,
+    "transcribers": 3,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 24704
+   },
+   "title": "Ladies\u2019 Choice",
+   "title_with_featured": "Ladies' Choice",
+   "url": "https://genius.com/Zac-efron-ladies-choice-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/184927",
+    "header_image_url": "https://images.genius.com/dc349d018f8ce01387a7cd3aabda126d.1000x625x1.jpg",
+    "id": 184927,
+    "image_url": "https://images.genius.com/e2d463aa5f5f5ee9099857efee3ec7cf.498x498x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Zac Efron",
+    "url": "https://genius.com/artists/Zac-efron"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/1342171/apple_music_player",
+   "description": {
+    "plain": "\u201cLadie\u2019s Choice\u201d is a new song for the 2007 film Hairspray specially written for Zac Efron. It was added to replace \u201cThe Madison,\u201d a dance number carried over into the Broadway stage musical from the original non-musical 1988 Hairspray film.\n\nThe song is performed by Link at the segregated dance hall. During the number, Tracy\u2019s dancing impresses Link and gets her on The Corny Collin\u2019s Show."
+   },
+   "embed_content": "<div id='rg_embed_link_1342171' class='rg_embed_link' data-song-id='1342171'>Read <a href='https://genius.com/Zac-efron-ladies-choice-lyrics'>\u201cLadies' Choice\u201d by Zac\u00a0Efron</a> on Genius</div> <script crossorigin src='//genius.com/songs/1342171/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2010-04-01",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/139593",
+    "cover_art_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+    "full_title": "Hairspray (Soundtrack to the Motion Picture) by Various Artists",
+    "id": 139593,
+    "name": "Hairspray (Soundtrack to the Motion Picture)",
+    "release_date_for_display": "July 10, 2007",
+    "url": "https://genius.com/albums/Various-artists/Hairspray-soundtrack-to-the-motion-picture",
+    "artist": {
+     "api_path": "/artists/768",
+     "header_image_url": "https://images.genius.com/10da268551e38fd18cf057ac25bb1ac6.563x177x1.png",
+     "id": 768,
+     "image_url": "https://images.genius.com/058d7a1c280c0465ba0c108be8951ba2.594x594x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Various Artists",
+     "url": "https://genius.com/artists/Various-artists"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Music Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1421306",
+       "header_image_url": "https://images.genius.com/c80fca9f6b2aa91671bb2000c340cf04.1000x774x1.jpg",
+       "id": 1421306,
+       "image_url": "https://images.genius.com/38dede3b32d41bdc8bc4b2d06c278428.399x399x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ingrooves",
+       "url": "https://genius.com/artists/Ingrooves"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/611943",
+       "header_image_url": "https://images.genius.com/5b1b8b1a9d4f524479a336fa88fd27b3.1000x500x1.png",
+       "id": 611943,
+       "image_url": "https://images.genius.com/8928040a3b3d8c15d33c8015c86a2957.899x899x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "WaterTower Music",
+       "url": "https://genius.com/artists/Watertower-music"
+      }
+     ]
+    },
+    {
+     "label": "Music Supervisor",
+     "artists": [
+      {
+       "api_path": "/artists/1053245",
+       "header_image_url": "https://images.genius.com/75d40801d2e73de3187f764c3323bd97.277x277x1.jpg",
+       "id": 1053245,
+       "image_url": "https://images.genius.com/75d40801d2e73de3187f764c3323bd97.277x277x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Matt Sullivan",
+       "url": "https://genius.com/artists/Matt-sullivan"
+      }
+     ]
+    },
+    {
+     "label": "Mastering",
+     "artists": [
+      {
+       "api_path": "/artists/670491",
+       "header_image_url": "https://images.genius.com/e7d359748e08d95af573efab3137e6ed.825x510x1.jpg",
+       "id": 670491,
+       "image_url": "https://images.genius.com/6ef9b61b634192752f6c1ff60cd9ab61.299x299x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Doug Sax",
+       "url": "https://genius.com/artists/Doug-sax"
+      }
+     ]
+    },
+    {
+     "label": "Executive Producers",
+     "artists": [
+      {
+       "api_path": "/artists/129866",
+       "header_image_url": "https://images.genius.com/701ffd41ca21947c96e1043fb1747497.280x280x1.png",
+       "id": 129866,
+       "image_url": "https://images.genius.com/701ffd41ca21947c96e1043fb1747497.280x280x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Broucek",
+       "url": "https://genius.com/artists/Paul-broucek"
+      },
+      {
+       "api_path": "/artists/1113988",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1113988,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jason Linn",
+       "url": "https://genius.com/artists/Jason-linn"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/638740",
+       "header_image_url": "https://images.genius.com/32e12216daf8a1483d7403c6223c857a.1000x670x1.jpg",
+       "id": 638740,
+       "image_url": "https://images.genius.com/13f4bce55c3e0b1083cf2be13f58bc60.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Peter Mokran",
+       "url": "https://genius.com/artists/Peter-mokran"
+      },
+      {
+       "api_path": "/artists/461629",
+       "header_image_url": "https://images.genius.com/c63480bc91e89a713ab63eae0d816194.233x233x1.jpg",
+       "id": 461629,
+       "image_url": "https://images.genius.com/c63480bc91e89a713ab63eae0d816194.233x233x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ed Cherney",
+       "url": "https://genius.com/artists/Ed-cherney"
+      },
+      {
+       "api_path": "/artists/158587",
+       "header_image_url": "https://images.genius.com/9bd94e304b01de6d28edb9f72544fd4e.674x674x1.png",
+       "id": 158587,
+       "image_url": "https://images.genius.com/9bd94e304b01de6d28edb9f72544fd4e.674x674x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Frank Wolf",
+       "url": "https://genius.com/artists/Frank-wolf"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/158587",
+       "header_image_url": "https://images.genius.com/9bd94e304b01de6d28edb9f72544fd4e.674x674x1.png",
+       "id": 158587,
+       "image_url": "https://images.genius.com/9bd94e304b01de6d28edb9f72544fd4e.674x674x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Frank Wolf",
+       "url": "https://genius.com/artists/Frank-wolf"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineers",
+     "artists": [
+      {
+       "api_path": "/artists/651012",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 651012,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Steve Genewick",
+       "url": "https://genius.com/artists/Steve-genewick"
+      },
+      {
+       "api_path": "/artists/1157319",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1157319,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Stephen Stepanic",
+       "url": "https://genius.com/artists/Stephen-stepanic"
+      },
+      {
+       "api_path": "/artists/506793",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 506793,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ryan Kenney",
+       "url": "https://genius.com/artists/Ryan-kenney"
+      },
+      {
+       "api_path": "/artists/713451",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 713451,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrick Spain",
+       "url": "https://genius.com/artists/Patrick-spain"
+      },
+      {
+       "api_path": "/artists/1157318",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1157318,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Greg Hayes",
+       "url": "https://genius.com/artists/Greg-hayes"
+      },
+      {
+       "api_path": "/artists/645057",
+       "header_image_url": "https://images.genius.com/a23899cb9f2f7b42873e0f5cfe1b2946.471x471x1.jpg",
+       "id": 645057,
+       "image_url": "https://images.genius.com/cfddcfab0237b52d0ecfe5e471b4ae1b.471x471x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eric Weaver",
+       "url": "https://genius.com/artists/Eric-weaver"
+      }
+     ]
+    },
+    {
+     "label": "Additional Engineering",
+     "artists": [
+      {
+       "api_path": "/artists/978261",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 978261,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pete Karam",
+       "url": "https://genius.com/artists/Pete-karam"
+      },
+      {
+       "api_path": "/artists/668491",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 668491,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Spilfogel",
+       "url": "https://genius.com/artists/Chris-spilfogel"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2457824,
+    "annotator_login": "DreUpdate",
+    "api_path": "/referents/17168856",
+    "classification": "accepted",
+    "fragment": "Ladies\u2019 Choice",
+    "id": 17168856,
+    "is_description": true,
+    "path": "/17168856/Zac-efron-ladies-choice/Ladies-choice",
+    "range": {
+     "content": "Ladies' Choice"
+    },
+    "song_id": 1342171,
+    "url": "https://genius.com/17168856/Zac-efron-ladies-choice/Ladies-choice",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1342171",
+     "client_timestamps": {
+      "updated_by_human_at": 1663937454,
+      "lyrics_updated_at": 1663937454
+     },
+     "context": "Zac Efron",
+     "id": 1342171,
+     "image_url": "https://images.genius.com/cce62f68939f59692c6a90d9dd25c64e.1000x1000x1.jpg",
+     "link_title": "Ladies\u2019 Choice by\u00a0Zac\u00a0Efron",
+     "title": "Ladies' Choice",
+     "type": "Song",
+     "url": "https://genius.com/Zac-efron-ladies-choice-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17168856",
+      "body": {
+       "plain": "\u201cLadie\u2019s Choice\u201d is a new song for the 2007 film Hairspray specially written for Zac Efron. It was added to replace \u201cThe Madison,\u201d a dance number carried over into the Broadway stage musical from the original non-musical 1988 Hairspray film.\n\nThe song is performed by Link at the segregated dance hall. During the number, Tracy\u2019s dancing impresses Link and gets her on The Corny Collin\u2019s Show."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17168856,
+      "pinned": false,
+      "share_url": "https://genius.com/17168856",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/17168856/Zac-efron-ladies-choice/Ladies-choice",
+      "verified": false,
+      "votes_total": 4,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2457824",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/7fec320a26b5cad1f25d82723f5ba07f.360x640x75.gif",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/f96c073b0bd60c3917b2adbea110f7df.1000x563x1.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2457824,
+         "iq": 225760,
+         "login": "DreUpdate",
+         "name": "DreUpdate",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/DreUpdate",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=nm2iTP1NaB4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/129864",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 129864,
+     "image_url": "https://images.genius.com/c83b6e1737c1b0a82888fd58c2c5249b.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Shaiman",
+     "url": "https://genius.com/artists/Marc-shaiman"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7321584",
+       "artist_names": "Marc Shaiman",
+       "full_title": "Ladies\u2019 Choice (Karaoke Version) by\u00a0Marc\u00a0Shaiman",
+       "header_image_thumbnail_url": "https://images.genius.com/96cfc66542a3324af4689b8b6aed9eeb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/96cfc66542a3324af4689b8b6aed9eeb.454x454x1.jpg",
+       "id": 7321584,
+       "language": "en",
+       "lyrics_owner_id": 10469998,
+       "lyrics_state": "complete",
+       "path": "/Marc-shaiman-ladies-choice-karaoke-version-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Marc-shaiman-ladies-choice-karaoke-version-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": 11,
+        "day": 20
+       },
+       "release_date_for_display": "November 20, 2007",
+       "release_date_with_abbreviated_month_for_display": "Nov. 20, 2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/96cfc66542a3324af4689b8b6aed9eeb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/96cfc66542a3324af4689b8b6aed9eeb.454x454x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ladies\u2019 Choice (Karaoke Version)",
+       "title_with_featured": "Ladies\u2019 Choice (Karaoke Version)",
+       "url": "https://genius.com/Marc-shaiman-ladies-choice-karaoke-version-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/129864",
+        "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+        "id": 129864,
+        "image_url": "https://images.genius.com/c83b6e1737c1b0a82888fd58c2c5249b.300x300x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Marc Shaiman",
+        "url": "https://genius.com/artists/Marc-shaiman"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/951318",
+       "artist_names": "Derek Hough",
+       "full_title": "Ladies' Choice by\u00a0Derek\u00a0Hough",
+       "header_image_thumbnail_url": "https://images.genius.com/b2364e6d9933e77de240c0b65d969797.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b2364e6d9933e77de240c0b65d969797.1000x1000x1.jpg",
+       "id": 951318,
+       "language": "en",
+       "lyrics_owner_id": 269182,
+       "lyrics_state": "complete",
+       "path": "/Derek-hough-ladies-choice-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Derek-hough-ladies-choice-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 12,
+        "day": 2
+       },
+       "release_date_for_display": "December 2, 2016",
+       "release_date_with_abbreviated_month_for_display": "Dec. 2, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b2364e6d9933e77de240c0b65d969797.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b2364e6d9933e77de240c0b65d969797.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Ladies\u2019 Choice",
+       "title_with_featured": "Ladies' Choice",
+       "url": "https://genius.com/Derek-hough-ladies-choice-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/388959",
+        "header_image_url": "https://images.genius.com/fe46239feeb613b8221213580bd6e2b2.534x712x1.jpg",
+        "id": 388959,
+        "image_url": "https://images.genius.com/4f9f256336933cdd626107094712085d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Derek Hough",
+        "url": "https://genius.com/artists/Derek-hough"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/995526",
+     "header_image_url": "https://images.genius.com/7d4f8264b600227decac72bbe36dcd50.341x341x1.jpg",
+     "id": 995526,
+     "image_url": "https://images.genius.com/7d4f8264b600227decac72bbe36dcd50.341x341x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Scott Wittman",
+     "url": "https://genius.com/artists/Scott-wittman"
+    },
+    {
+     "api_path": "/artists/129864",
+     "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+     "id": 129864,
+     "image_url": "https://images.genius.com/c83b6e1737c1b0a82888fd58c2c5249b.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marc Shaiman",
+     "url": "https://genius.com/artists/Marc-shaiman"
+    }
+   ],
+   "artist": "Zac Efron",
+   "lyrics": "13 ContributorsLadies\u2019 Choice Lyrics[LINK]\nHey little girl, with the cash to burn (Do do do do do do)\nWell, I'm selling something you won't return (Do do do do do do)\nHey little girl, take me off the shelf (Do do do do do do)\nCause it's hard having fun playing with yourself (Do do do do do do)\nOnce you browse through the whole selection (Ahh ahh)\nShake those hips in my direction\n\nA prettier package you never did see (Do do)\nTake me home and then unwrap me (Do do)\nShop around with every dollar, I've got to be\nThe ladies' choice (Ladies choice) ladies' choice\nThe ladies' choice\n\nHey little girl, looking for a sale (Hey little girl, looking for a sale)\nTest drive this American male (Test drive this American male)\nIt's gonna take cash to fill my tank (Gonna take cash to fill my tank)\nSo let's crack open your piggy bank (Let's crack open your piggy bank)\nHey little girl, you're window shopping\nI got something traffic-stopping\n\nHey little girl, on a spending spree (Do)\nI don't come cheap but the kisses come free (do)\nOn closer inspection, I'm sure that you'll agree\nI'm the ladies' choice (Ladies choice) ladies' choice\nLadies' choice\n(Woo!)\nYou might also like[Instrumental]\n\nWoaaah, hey little girl, on a spending spree (Do)\nI don't come cheap but the kisses come free (Do)\nOn closer inspection, I'm sure that you'll agree\nOh, hey little girl, listen to my plea (Do)\nI come with a lifetime guarantee (Do)\nOne day maybe you will find the baby makes three (Baby makes three)\nIt's the ladies' choice, I'm the ladies' choice\nThe ladies' choice, I'm the ladies' choice, choice, choice\nI'm the ladies' choice1Embed"
+  }
+ ]
+}

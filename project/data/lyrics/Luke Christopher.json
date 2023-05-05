@@ -1,0 +1,1823 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/11795",
+ "description": {
+  "plain": "Luke Christopher is a rapper/singer/producer from Los Angeles.\n\nIn 2014, Luke was signed to RCA through Bystorm Entertainment after president of Urban Music at RCA and CEO of Bystorm, Mark Pitts, heard his collection of music."
+ },
+ "facebook_name": "lukechrismuzic",
+ "followers_count": 133,
+ "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+ "id": 11795,
+ "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+ "instagram_name": "aylukechristopher",
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "Luke Christopher",
+ "translation_artist": false,
+ "twitter_name": "aylukechris",
+ "url": "https://genius.com/artists/Luke-christopher",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 2282,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 250808,
+  "annotator_login": "J-Definition",
+  "api_path": "/referents/6935370",
+  "classification": "accepted",
+  "fragment": "Luke Christopher",
+  "id": 6935370,
+  "is_description": true,
+  "path": "/6935370/Luke-christopher/Luke-christopher",
+  "range": {
+   "content": "Luke Christopher"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6935370/Luke-christopher/Luke-christopher",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/11795",
+   "context": null,
+   "id": 11795,
+   "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+   "link_title": "Luke Christopher",
+   "title": "Luke Christopher",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Luke-christopher"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6935370",
+    "body": {
+     "plain": "Luke Christopher is a rapper/singer/producer from Los Angeles.\n\nIn 2014, Luke was signed to RCA through Bystorm Entertainment after president of Urban Music at RCA and CEO of Bystorm, Mark Pitts, heard his collection of music."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6935370,
+    "pinned": false,
+    "share_url": "https://genius.com/6935370",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6935370/Luke-christopher/Luke-christopher",
+    "verified": false,
+    "votes_total": 13,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/250808",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7206d3f5ca806290b2ff866427a94091",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7206d3f5ca806290b2ff866427a94091",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7206d3f5ca806290b2ff866427a94091",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7206d3f5ca806290b2ff866427a94091",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TSPjMUzQ6qFYPwpAMZr_20150318_031124000_iOS.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 250808,
+       "iq": 3208,
+       "login": "J-Definition",
+       "name": "J-Definition",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/J-Definition",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/255877",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 255877,
+  "iq": 2282,
+  "login": "Luke_Christopher",
+  "name": "Luke Christopher",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/Luke_Christopher",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 11,
+   "api_path": "/songs/664970",
+   "artist_names": "Luke Christopher",
+   "full_title": "Lot to Learn (No Rap Version) by\u00a0Luke\u00a0Christopher",
+   "header_image_thumbnail_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+   "id": 664970,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Luke-christopher-lot-to-learn-no-rap-version-lyrics",
+   "pyongs_count": 36,
+   "relationships_index_url": "https://genius.com/Luke-christopher-lot-to-learn-no-rap-version-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 1,
+    "day": 6
+   },
+   "release_date_for_display": "January 6, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jan. 6, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 40,
+    "iq_earners": 39,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 4,
+    "hot": false,
+    "pageviews": 377368
+   },
+   "title": "Lot to Learn (No Rap Version)",
+   "title_with_featured": "Lot to Learn (No Rap Version)",
+   "url": "https://genius.com/Luke-christopher-lot-to-learn-no-rap-version-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/11795",
+    "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+    "id": 11795,
+    "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Luke Christopher",
+    "url": "https://genius.com/artists/Luke-christopher",
+    "iq": 2282
+   },
+   "apple_music_id": "1250200422",
+   "apple_music_player_url": "https://genius.com/songs/664970/apple_music_player",
+   "description": {
+    "plain": "This song appears on the TMRW EP, the follow-up to \u201cYSTRDY.\u201d Christopher is asking if someone will always be there to be the peanut butter to his jelly.\n\n\n\nHe\u2019s admitting he doesn\u2019t know everything, and is willing to do what it takes to learn.\nHe also addresses a girl who seems to be hiding an inner sadness inside of her.\n\nChristopher has a theory about why this song is popular. He told NRJ Sweden: \u201cThe reason why it\u2019s been so successful is because it\u2019s relatable. I feel like everyone kind of feels that way. For me, it was something I wanted to say. And I think people agreed. People thought the same way.\u201d\n\nChristopher has a clear memory of how he wrote \u201cLot to Learn.\u201d Christopher to NRJ Sweden: \u201cI\u2019ll sit down on the piano and come up with a chorus. For \u2018Lot to Learn,\u2019 that\u2019s kinda how I did it. I sat down on the piano and then kinda wrote the chorus and then made the beat and then did the other stuff afterwards.\u201d\n\nFor Christopher, the song is about maturing, and being honest about your shortcomings. He told Billboard: \u201cI feel like the song is really about humility and growing as a person. We wanted to capture the fact that we all do shit that we aren\u2019t proud of. To be honest, everyday, I\u2019m learning from my mistakes.\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_664970' class='rg_embed_link' data-song-id='664970'>Read <a href='https://genius.com/Luke-christopher-lot-to-learn-no-rap-version-lyrics'>\u201cLot to Learn (No Rap Version)\u201d by Luke\u00a0Christopher</a> on Genius</div> <script crossorigin src='//genius.com/songs/664970/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-01-06",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/646618",
+       "header_image_url": "https://images.genius.com/f43ebe610ac24285dacb8aff4a95001c.365x365x1.jpg",
+       "id": 646618,
+       "image_url": "https://images.genius.com/f43ebe610ac24285dacb8aff4a95001c.365x365x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bob Horn",
+       "url": "https://genius.com/artists/Bob-horn"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1179787",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1179787,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Rosa",
+       "url": "https://genius.com/artists/Chris-rosa"
+      },
+      {
+       "api_path": "/artists/641176",
+       "header_image_url": "https://images.genius.com/419cba4d0da55820d2b221d9da2ba9f7.465x465x1.jpg",
+       "id": 641176,
+       "image_url": "https://images.genius.com/419cba4d0da55820d2b221d9da2ba9f7.465x465x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Serge \u201cSergical\u201d Tsai",
+       "url": "https://genius.com/artists/Serge-sergical-tsai"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 957276,
+    "annotator_login": "finlay4thekids",
+    "api_path": "/referents/4678300",
+    "classification": "accepted",
+    "fragment": "Lot to Learn (No Rap Version)",
+    "id": 4678300,
+    "is_description": true,
+    "path": "/4678300/Luke-christopher-lot-to-learn-no-rap-version/Lot-to-learn-no-rap-version",
+    "range": {
+     "content": "Lot to Learn (No Rap Version)"
+    },
+    "song_id": 664970,
+    "url": "https://genius.com/4678300/Luke-christopher-lot-to-learn-no-rap-version/Lot-to-learn-no-rap-version",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/664970",
+     "client_timestamps": {
+      "updated_by_human_at": 1654175417,
+      "lyrics_updated_at": 1543217153
+     },
+     "context": "Luke Christopher",
+     "id": 664970,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "link_title": "Lot to Learn (No Rap Version) by\u00a0Luke\u00a0Christopher",
+     "title": "Lot to Learn (No Rap Version)",
+     "type": "Song",
+     "url": "https://genius.com/Luke-christopher-lot-to-learn-no-rap-version-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4678300",
+      "body": {
+       "plain": "This song appears on the TMRW EP, the follow-up to \u201cYSTRDY.\u201d Christopher is asking if someone will always be there to be the peanut butter to his jelly.\n\n\n\nHe\u2019s admitting he doesn\u2019t know everything, and is willing to do what it takes to learn.\nHe also addresses a girl who seems to be hiding an inner sadness inside of her.\n\nChristopher has a theory about why this song is popular. He told NRJ Sweden: \u201cThe reason why it\u2019s been so successful is because it\u2019s relatable. I feel like everyone kind of feels that way. For me, it was something I wanted to say. And I think people agreed. People thought the same way.\u201d\n\nChristopher has a clear memory of how he wrote \u201cLot to Learn.\u201d Christopher to NRJ Sweden: \u201cI\u2019ll sit down on the piano and come up with a chorus. For \u2018Lot to Learn,\u2019 that\u2019s kinda how I did it. I sat down on the piano and then kinda wrote the chorus and then made the beat and then did the other stuff afterwards.\u201d\n\nFor Christopher, the song is about maturing, and being honest about your shortcomings. He told Billboard: \u201cI feel like the song is really about humility and growing as a person. We wanted to capture the fact that we all do shit that we aren\u2019t proud of. To be honest, everyday, I\u2019m learning from my mistakes.\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4678300,
+      "pinned": false,
+      "share_url": "https://genius.com/4678300",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4678300/Luke-christopher-lot-to-learn-no-rap-version/Lot-to-learn-no-rap-version",
+      "verified": false,
+      "votes_total": 14,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.6551724137931035,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3102189",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5b5fa4ec49b6c24a1be517741626ef95",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5b5fa4ec49b6c24a1be517741626ef95",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5b5fa4ec49b6c24a1be517741626ef95",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5b5fa4ec49b6c24a1be517741626ef95",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/5b5fa4ec49b6c24a1be517741626ef95",
+         "human_readable_role_for_display": "Editor",
+         "id": 3102189,
+         "iq": 16286,
+         "login": "BradFarberman",
+         "name": "BradFarberman",
+         "role_for_display": "editor",
+         "url": "https://genius.com/BradFarberman",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3448275862068966,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/957276",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/fccbad408b2fa3fd02a14c1ab488b7ae",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/fccbad408b2fa3fd02a14c1ab488b7ae",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/fccbad408b2fa3fd02a14c1ab488b7ae",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/fccbad408b2fa3fd02a14c1ab488b7ae",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/fccbad408b2fa3fd02a14c1ab488b7ae",
+         "human_readable_role_for_display": null,
+         "id": 957276,
+         "iq": 230,
+         "login": "finlay4thekids",
+         "name": "finlay4thekids",
+         "role_for_display": null,
+         "url": "https://genius.com/finlay4thekids",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3TRFq09DUgYj1mug6RRqJW",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3TRFq09DUgYj1mug6RRqJW"
+    },
+    {
+     "attribution": "lukechristopher",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lukechristopher/luke-christopher-lot-to-learn?in=lukechristopher/sets/tmrw"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=k9elZm_EH_4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2436915",
+       "artist_names": "Luke Christopher",
+       "full_title": "Lot to Learn by\u00a0Luke\u00a0Christopher",
+       "header_image_thumbnail_url": "https://images.genius.com/cc0040ab8962a2135608845a71fd382e.300x250x1.jpg",
+       "header_image_url": "https://images.genius.com/cc0040ab8962a2135608845a71fd382e.1000x834x1.jpg",
+       "id": 2436915,
+       "language": "en",
+       "lyrics_owner_id": 3004489,
+       "lyrics_state": "complete",
+       "path": "/Luke-christopher-lot-to-learn-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Luke-christopher-lot-to-learn-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 9,
+        "day": 11
+       },
+       "release_date_for_display": "September 11, 2015",
+       "release_date_with_abbreviated_month_for_display": "Sep. 11, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d092c350c1bc99e0a6c35ea1dee4942d.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d092c350c1bc99e0a6c35ea1dee4942d.500x500x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Lot to Learn",
+       "title_with_featured": "Lot to Learn",
+       "url": "https://genius.com/Luke-christopher-lot-to-learn-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/11795",
+        "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+        "id": 11795,
+        "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Luke Christopher",
+        "url": "https://genius.com/artists/Luke-christopher",
+        "iq": 2282
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/255877",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 255877,
+     "iq": 2282,
+     "login": "Luke_Christopher",
+     "name": "Luke Christopher",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/Luke_Christopher",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "lyrics",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/11795",
+      "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+      "id": 11795,
+      "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Luke Christopher",
+      "url": "https://genius.com/artists/Luke-christopher",
+      "iq": 2282
+     },
+     "user": {
+      "api_path": "/users/255877",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 255877,
+      "iq": 2282,
+      "login": "Luke_Christopher",
+      "name": "Luke Christopher",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/Luke_Christopher",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [
+    {
+     "api_path": "/users/255877",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 255877,
+     "iq": 2282,
+     "login": "Luke_Christopher",
+     "name": "Luke Christopher",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/Luke_Christopher",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "writer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "artist": "Luke Christopher",
+   "lyrics": "40 ContributorsLot to Learn (No Rap Version) Lyrics[Hook]\nIf I was the question, would you be my answer?\nIf I was the music, would you be the dancer?\nIf I was the student, would you be the teacher?\nIf I was the sinner, would you be the preacher?\nWould you be my...\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\n[Verse 1]\nFeeling like a digit in a system, just another stupid number\nI don't know, know, know\nEverything is twisted, I can feel it\nIt's another stupid summer where it's cold, cold, cold\nAnd we can do it on our own\nHead up to a place where baby no one goes\nIn a rocket full of liquor, in a Polaroid for pictures\nBaby you should stop me, 'fore I lose control\n\n[Refrain]\nHow imperfect a person am I?\nGo through your purse and put on your disguise\nYou see the stars, but they just see the skies\nAnd you see my scars, what do they see?\n\n[Hook]\nIf I was the question, would you be my answer?\nIf I was the music, would you be the dancer?\nIf I was the student, would you be the teacher?\nIf I was the sinner, would you be the preacher?\nWould you be my...\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nYou might also like[Bridge]\nN' dun d-dun dun\nWe still got a lot of shit to learn, just admit it\nN' dun d-dun dun\nWe still got a lot of shit to learn, don't you get it?\n\n[Verse 2]\nGot your finger on the trigger and you aiming'at the mirror\nDon't you shoot, that ain't you, nah\nCause on the outside you pretending\nBut you hurtin' in the inner, what's the truth, what's the truth now?\n[Refrain]\nHow imperfect a person am I?\nGo through your purse and put on your disguise\nYou see the stars, but they just see the skies\nAnd you see my scars what do they see?\n\n[Hook]\nIf I was the question, would you be my answer?\nIf I was the music, would you be the dancer?\nIf I was the student, would you be the teacher?\nIf I was the sinner, would you be the preacher?\nWould you be my...\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nIf I was the question, would you be my answer?\nIf I was the music, would you be the dancer?\nIf I was the student, would you be the teacher?\nIf I was the sinner, would you be the preacher?\nIf I was the question, would you be my answer?\nIf I was the music, would you be the dancer?\nIf I was the student, would you be the teacher?\nIf I was the sinner, would you be the preacher?\nWould you be my...\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it\nN' dun d-dun dun\nI still got a lot of shit to learn, I'll admit it36Embed"
+  },
+  {
+   "annotation_count": 6,
+   "api_path": "/songs/413840",
+   "artist_names": "Luke Christopher",
+   "full_title": "Bedroom Trip by\u00a0Luke\u00a0Christopher",
+   "header_image_thumbnail_url": "https://images.rapgenius.com/f05dadf107b8b1c97fb6c586f895ef10.300x300x1.jpg",
+   "header_image_url": "https://images.rapgenius.com/f05dadf107b8b1c97fb6c586f895ef10.600x600x1.jpg",
+   "id": 413840,
+   "language": "en",
+   "lyrics_owner_id": 396916,
+   "lyrics_state": "complete",
+   "path": "/Luke-christopher-bedroom-trip-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Luke-christopher-bedroom-trip-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 4,
+    "day": 22
+   },
+   "release_date_for_display": "April 22, 2014",
+   "release_date_with_abbreviated_month_for_display": "Apr. 22, 2014",
+   "song_art_image_thumbnail_url": "https://images.rapgenius.com/f05dadf107b8b1c97fb6c586f895ef10.300x300x1.jpg",
+   "song_art_image_url": "https://images.rapgenius.com/f05dadf107b8b1c97fb6c586f895ef10.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 1,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 1,
+    "hot": false,
+    "pageviews": 38378
+   },
+   "title": "Bedroom Trip",
+   "title_with_featured": "Bedroom Trip",
+   "url": "https://genius.com/Luke-christopher-bedroom-trip-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/11795",
+    "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+    "id": 11795,
+    "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Luke Christopher",
+    "url": "https://genius.com/artists/Luke-christopher",
+    "iq": 2282
+   },
+   "apple_music_id": "1037392329",
+   "apple_music_player_url": "https://genius.com/songs/413840/apple_music_player",
+   "description": {
+    "plain": "As a part of his TMRWGANG Tuesday\u2019s, Luke Christopher drops another self-produced track titled \u201cBedroom Trip\u201d"
+   },
+   "embed_content": "<div id='rg_embed_link_413840' class='rg_embed_link' data-song-id='413840'>Read <a href='https://genius.com/Luke-christopher-bedroom-trip-lyrics'>\u201cBedroom Trip\u201d by Luke\u00a0Christopher</a> on Genius</div> <script crossorigin src='//genius.com/songs/413840/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-04-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/266637",
+    "cover_art_url": "https://images.genius.com/f47e62164e5c21fc8d7e029bd6d687ec.600x600x1.jpg",
+    "full_title": "YSTRDY by Luke Christopher",
+    "id": 266637,
+    "name": "YSTRDY",
+    "release_date_for_display": "September 11, 2015",
+    "url": "https://genius.com/albums/Luke-christopher/Ystrdy",
+    "artist": {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 250808,
+    "annotator_login": "J-Definition",
+    "api_path": "/referents/3602082",
+    "classification": "accepted",
+    "fragment": "Bedroom Trip",
+    "id": 3602082,
+    "is_description": true,
+    "path": "/3602082/Luke-christopher-bedroom-trip/Bedroom-trip",
+    "range": {
+     "content": "Bedroom Trip"
+    },
+    "song_id": 413840,
+    "url": "https://genius.com/3602082/Luke-christopher-bedroom-trip/Bedroom-trip",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/413840",
+     "client_timestamps": {
+      "updated_by_human_at": 1645441667,
+      "lyrics_updated_at": 1645449411
+     },
+     "context": "Luke Christopher",
+     "id": 413840,
+     "image_url": "https://images.rapgenius.com/f05dadf107b8b1c97fb6c586f895ef10.600x600x1.jpg",
+     "link_title": "Bedroom Trip by\u00a0Luke\u00a0Christopher",
+     "title": "Bedroom Trip",
+     "type": "Song",
+     "url": "https://genius.com/Luke-christopher-bedroom-trip-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3602082",
+      "body": {
+       "plain": "As a part of his TMRWGANG Tuesday\u2019s, Luke Christopher drops another self-produced track titled \u201cBedroom Trip\u201d"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3602082,
+      "pinned": false,
+      "share_url": "https://genius.com/3602082",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3602082/Luke-christopher-bedroom-trip/Bedroom-trip",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/250808",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7206d3f5ca806290b2ff866427a94091",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7206d3f5ca806290b2ff866427a94091",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7206d3f5ca806290b2ff866427a94091",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7206d3f5ca806290b2ff866427a94091",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/8TSPjMUzQ6qFYPwpAMZr_20150318_031124000_iOS.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 250808,
+         "iq": 3208,
+         "login": "J-Definition",
+         "name": "J-Definition",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/J-Definition",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3LFhPZqd9GC9sV8ZTnu99P",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3LFhPZqd9GC9sV8ZTnu99P"
+    },
+    {
+     "attribution": "lukechristopher",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lukechristopher/bedroom-trip-luke-christopher"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/255877",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 255877,
+     "iq": 2282,
+     "login": "Luke_Christopher",
+     "name": "Luke Christopher",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/Luke_Christopher",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations"
+     ],
+     "artist": {
+      "api_path": "/artists/11795",
+      "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+      "id": 11795,
+      "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Luke Christopher",
+      "url": "https://genius.com/artists/Luke-christopher",
+      "iq": 2282
+     },
+     "user": {
+      "api_path": "/users/255877",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/0aa5559d0a8068fdb6bc0c9ed4a73200",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 255877,
+      "iq": 2282,
+      "login": "Luke_Christopher",
+      "name": "Luke Christopher",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/Luke_Christopher",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "artist": "Luke Christopher",
+   "lyrics": "8 ContributorsBedroom Trip Lyrics[Hook: Luke Christopher]\nOn the vodka, vodka, take another sip\nLying in your bedroom, thinking you the shit\nOn the kush girl, kush girl, take another hit\nLying on the floor, just a rebel on your own\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nLying on the floor, just a rebel on your own\n\n[Verse 1: Luke Christopher]\nI know girls like you, I know girls like you\nPassive aggressive, mad at their ex's\nIn their own world like you\nBut some say love is overrated\nSome say love is getting faded\nI think love is finding that girl\nThat's gonna stick with me when the fame ends\nSome say, people think it too much\nBut they ain't thinking enough\nBut she just wants a man that's lasting\nI just need some damn attraction\nWe just need to set our boundaries\nYou right there, me right here\nUsed to be all in your ear\nI could see us in a year\n[Hook: Luke Christopher]\nOn the vodka, vodka, take another sip\nLying in your bedroom, thinking you the shit\nOn the kush girl, kush girl, take another hit\nLying on the floor, just a rebel on your own\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nLying on the floor, just a rebel on your own\n\n[Verse 2: Luke Christopher]\nI know guys like me, ain't no guys like me\nYou know them cowards\nWannabe bouncers tryna take my ID\nWell I say fuck 'em if they ain't with you\nLet 'em try and reinvent you\nCause one day they gon' regret that shit\nLike them flowers that I can't send you\nSome say, people think it too much\nBut they ain't thinking enough\nBut she just wants a man that's lasting\nI just need some midnight action\nWe just need to set our boundaries\nYou right there, me right here\nUsed to be all in your ear\nI could see us in a year\nYou might also like[Hook: Luke Christopher]\nOn the vodka, vodka, take another sip\nLying in your bedroom, thinking you the shit\nOn the kush girl, kush girl, take another hit\nLying on the floor, just a rebel on your own\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nLying on the floor, just a rebel on your own\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nOn a bedroom, bedroom, bedroom trip\nLying on the floor, just a rebel on your own4Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/361217",
+   "artist_names": "Luke Christopher",
+   "full_title": "Marty McFly by\u00a0Luke\u00a0Christopher",
+   "header_image_thumbnail_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+   "id": 361217,
+   "language": "en",
+   "lyrics_owner_id": 10144,
+   "lyrics_state": "complete",
+   "path": "/Luke-christopher-marty-mcfly-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Luke-christopher-marty-mcfly-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 2,
+    "day": 11
+   },
+   "release_date_for_display": "February 11, 2014",
+   "release_date_with_abbreviated_month_for_display": "Feb. 11, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+   "stats": {
+    "accepted_annotations": 6,
+    "contributors": 5,
+    "iq_earners": 4,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 29437
+   },
+   "title": "Marty McFly",
+   "title_with_featured": "Marty McFly",
+   "url": "https://genius.com/Luke-christopher-marty-mcfly-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/11795",
+    "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+    "id": 11795,
+    "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "Luke Christopher",
+    "url": "https://genius.com/artists/Luke-christopher",
+    "iq": 2282
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/361217/apple_music_player",
+   "description": {
+    "plain": "The beat to this song comes from M83\u2019s song Midnight City."
+   },
+   "embed_content": "<div id='rg_embed_link_361217' class='rg_embed_link' data-song-id='361217'>Read <a href='https://genius.com/Luke-christopher-marty-mcfly-lyrics'>\u201cMarty McFly\u201d by Luke\u00a0Christopher</a> on Genius</div> <script crossorigin src='//genius.com/songs/361217/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-02-11",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 10144,
+    "annotator_login": "Eon2323",
+    "api_path": "/referents/3693034",
+    "classification": "accepted",
+    "fragment": "Marty McFly",
+    "id": 3693034,
+    "is_description": true,
+    "path": "/3693034/Luke-christopher-marty-mcfly/Marty-mcfly",
+    "range": {
+     "content": "Marty McFly"
+    },
+    "song_id": 361217,
+    "url": "https://genius.com/3693034/Luke-christopher-marty-mcfly/Marty-mcfly",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/361217",
+     "client_timestamps": {
+      "updated_by_human_at": 1556684308,
+      "lyrics_updated_at": 1430957573
+     },
+     "context": "Luke Christopher",
+     "id": 361217,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "link_title": "Marty McFly by\u00a0Luke\u00a0Christopher",
+     "title": "Marty McFly",
+     "type": "Song",
+     "url": "https://genius.com/Luke-christopher-marty-mcfly-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3693034",
+      "body": {
+       "plain": "The beat to this song comes from M83\u2019s song Midnight City."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3693034,
+      "pinned": false,
+      "share_url": "https://genius.com/3693034",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3693034/Luke-christopher-marty-mcfly/Marty-mcfly",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/10144",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b9b0813afdd18808c68c9c9345b42abe",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b9b0813afdd18808c68c9c9345b42abe",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b9b0813afdd18808c68c9c9345b42abe",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b9b0813afdd18808c68c9c9345b42abe",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/b9b0813afdd18808c68c9c9345b42abe",
+         "human_readable_role_for_display": "Editor",
+         "id": 10144,
+         "iq": 55158,
+         "login": "Eon2323",
+         "name": "Eon2323",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Eon2323",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "lukechristopher",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/lukechristopher/marty-mcfly-luke-christopher"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cFUsEeQ8d58"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/11795",
+     "header_image_url": "https://images.genius.com/4981284a2f1f05bbbf828fc604c545df.1000x667x1.jpg",
+     "id": 11795,
+     "image_url": "https://images.genius.com/398ce8bc32b2f793641bf83b61547bc6.854x854x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Luke Christopher",
+     "url": "https://genius.com/artists/Luke-christopher",
+     "iq": 2282
+    }
+   ],
+   "artist": "Luke Christopher",
+   "lyrics": "5 ContributorsMarty McFly Lyrics[Hook]\nIt was 1984 back when Prince was on the radio\nThe neon lights above us glow\nYour outfit's looking fly\nWe was loving all the noise back\nWhen Prince was on the radio\nMy girl, she danced in colored clothes\nAnd I'm Marty McFly\n\n[Verse 1]\nFeel your energy getting hot\n1.21 gigawatts\nOoh, lover lover, you hit the spot\nTomorrow morning, I ain't gon' hit the clock\nAnd any other night, I'd hit you not\nBut it's the weekend\nAnd this ain't that\nSo we can hit a bar and act like we bad\nWe can hit a star and act like we rad\nWe can hit the streets and act like we bank\nWe can hit a beat and act like we sang\nWe can hit a drink and act like we real\nI'm just the brains, you the appeal\nOn the double\nI'm a throw the record on\nPour yourself another\nI know this your favorite song\nTell me how you love her\nMadonna, Madonna, she wearing designer\nI'ma getting you something\nSo that you got something on her\nBut on the real, I should be honored\nShe got the type of body put a nigga in a coma\nShe the type of naughty\nMake a nigga really want her\nNow watch a nigga get behind her\nI ain't a liar, I'm a trip\nHad a flat tire, nigga rockin' 86\nLivin' in a dream baby, money ain't shit\nBaby, money ain't shit\nBaby, this is '86\n[Hook]\n\n[Verse 2]\nYeah\nAnd that shit wasn't make-believe, but\nThere ain't no way for me to make you see\nAnd plus, we don't ever aim to please\nAnd now, I don't even know how that shit came to me\nBut, maybe it was a movie or some shit\nOne night went and got groovy with some chick\nOne night, went up in the studio, bump this\nBetter leave 'fore the police come quick\nDrivin' fast on Sunset\n4:00 AM, we ain't done yet\nThis the life to be loveless\nThe moon's out, why you chilling in a sundress?\nTake it off\nAnd get on top and shake it off, break it off\nYou getting hot, you sweating dome\nWipe it off\nI hit the spot now, I'm right again\nFeelin' Marty McFly through the night again\n\n[Hook] (x2)You might also like2Embed"
+  }
+ ]
+}

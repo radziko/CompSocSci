@@ -1,0 +1,3490 @@
+{
+ "alternate_names": [
+  "James T. Smith",
+  "James Thomas Smith",
+  "Jamie Smith"
+ ],
+ "api_path": "/artists/31426",
+ "description": {
+  "plain": "Jamie xx is one third of the mysterious Indie pop band, The xx. He is a producer and DJ, and released a collaborative album with Gil Scott-Heron, We\u2019re New Here in 2011, a remix album of Scott-Heron\u2019s 2010 comeback album, I\u2019m New Here."
+ },
+ "facebook_name": "jamiexxofficial",
+ "followers_count": 103,
+ "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+ "id": 31426,
+ "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+ "instagram_name": "jamie___xx",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jamie xx",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jamie-xx",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 28632,
+  "annotator_login": "JetLifeAustralia",
+  "api_path": "/referents/6948991",
+  "classification": "accepted",
+  "fragment": "Jamie xx",
+  "id": 6948991,
+  "is_description": true,
+  "path": "/6948991/Jamie-xx/Jamie-xx",
+  "range": {
+   "content": "Jamie xx"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6948991/Jamie-xx/Jamie-xx",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/31426",
+   "context": null,
+   "id": 31426,
+   "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+   "link_title": "Jamie xx",
+   "title": "Jamie xx",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jamie-xx"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6948991",
+    "body": {
+     "plain": "Jamie xx is one third of the mysterious Indie pop band, The xx. He is a producer and DJ, and released a collaborative album with Gil Scott-Heron, We\u2019re New Here in 2011, a remix album of Scott-Heron\u2019s 2010 comeback album, I\u2019m New Here."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6948991,
+    "pinned": false,
+    "share_url": "https://genius.com/6948991",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6948991/Jamie-xx/Jamie-xx",
+    "verified": false,
+    "votes_total": 7,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8837209302325582,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/28632",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/28632_jets.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358288585_28632_jets.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358288585_28632_jets.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288585_28632_jets.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358288585_28632_jets.jpg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 28632,
+       "iq": 10411,
+       "login": "JetLifeAustralia",
+       "name": "JetLifeAustralia",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/JetLifeAustralia",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.046511627906976744,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1686632",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/e93399f90d7b6749c3c9be2ce144981f",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/e93399f90d7b6749c3c9be2ce144981f",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/e93399f90d7b6749c3c9be2ce144981f",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/e93399f90d7b6749c3c9be2ce144981f",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/56db404980fd3ed6592eba4314569c81.500x248x22.gif",
+       "human_readable_role_for_display": "Editor",
+       "id": 1686632,
+       "iq": 143651,
+       "login": "Lyric-dope",
+       "name": "Lyric-dope",
+       "role_for_display": "editor",
+       "url": "https://genius.com/Lyric-dope",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.046511627906976744,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/11327397",
+       "avatar": {
+        "tiny": {
+         "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "human_readable_role_for_display": null,
+       "id": 11327397,
+       "iq": 49,
+       "login": "DCOC9002",
+       "name": "DCOC9002",
+       "role_for_display": null,
+       "url": "https://genius.com/DCOC9002",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.023255813953488372,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/116340",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+       "human_readable_role_for_display": "Contributor",
+       "id": 116340,
+       "iq": 369268,
+       "login": "palacelight",
+       "name": "Reuben Tasker",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/palacelight",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 26,
+   "api_path": "/songs/1790573",
+   "artist_names": "Jamie xx (Ft. Popcaan & Young Thug)",
+   "full_title": "I Know There's Gonna Be (Good Times) by\u00a0Jamie\u00a0xx (Ft.\u00a0Popcaan & Young\u00a0Thug)",
+   "header_image_thumbnail_url": "https://images.genius.com/fb123e650866faf6a0bd4204f8731a40.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/fb123e650866faf6a0bd4204f8731a40.658x658x1.jpg",
+   "id": 1790573,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Jamie-xx-i-know-theres-gonna-be-good-times-lyrics",
+   "pyongs_count": 94,
+   "relationships_index_url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 5,
+    "day": 22
+   },
+   "release_date_for_display": "May 22, 2015",
+   "release_date_with_abbreviated_month_for_display": "May. 22, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/efca8d5b0aee666b12a1af9322e43c2f.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/efca8d5b0aee666b12a1af9322e43c2f.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 25,
+    "contributors": 108,
+    "iq_earners": 106,
+    "transcribers": 7,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 450292
+   },
+   "title": "I Know There\u2019s Gonna Be (Good Times)",
+   "title_with_featured": "I Know There's Gonna Be (Good Times) (Ft.\u00a0Popcaan & Young\u00a0Thug)",
+   "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/17195",
+     "header_image_url": "https://images.genius.com/1302a6082ef634d5c91276e90698dfca.790x879x1.png",
+     "id": 17195,
+     "image_url": "https://images.genius.com/f0553cb4771a7faa02cfc692f989d8f2.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Popcaan",
+     "url": "https://genius.com/artists/Popcaan"
+    },
+    {
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/faf71e6a99ed9c87d5c325d1fe81d92c.760x862x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/3252e426add0a17ee1ce248fbce344ed.751x751x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "url": "https://genius.com/artists/Young-thug"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/31426",
+    "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+    "id": 31426,
+    "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jamie xx",
+    "url": "https://genius.com/artists/Jamie-xx"
+   },
+   "apple_music_id": "978364001",
+   "apple_music_player_url": "https://genius.com/songs/1790573/apple_music_player",
+   "description": {
+    "plain": "The xx\u2019s own Jamie xx released his solo debut In Colour, grabbing Popcaan and man-of-the-moment Young Thug for an assist with \u201cI Know There\u2019s Gonna Be (Good Times).\u201d\n\nThe song was met with universal acclaim from multiple publications and featured prominently on year-end lists. The track ranked second on PopMatters' 90 Best Songs of 2015, third on Pitchfork\u2019s top-100 tracks, tied-for-ninth on the Village Voice\u2019s Pazz & Jop poll, and was selected as one of Stereogum\u2019s 80 best songs of 2015."
+   },
+   "embed_content": "<div id='rg_embed_link_1790573' class='rg_embed_link' data-song-id='1790573'>Read <a href='https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-lyrics'>\u201cI Know There's Gonna Be (Good Times)\u201d by Jamie\u00a0xx</a> on Genius</div> <script crossorigin src='//genius.com/songs/1790573/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Fortress Studios (London, UK) and Marfa Recording Co. (Marfa, TX)",
+   "release_date": "2015-05-22",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122645",
+    "cover_art_url": "https://images.genius.com/9feabdb9b82de17a1d47b779cdb5a2f4.1000x1000x1.jpg",
+    "full_title": "In Colour by Jamie xx",
+    "id": 122645,
+    "name": "In Colour",
+    "release_date_for_display": "May 29, 2015",
+    "url": "https://genius.com/albums/Jamie-xx/In-colour",
+    "artist": {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/663830",
+       "header_image_url": "https://images.genius.com/c98c79c4dbb10f7e20319f6f8d130fc4.1000x667x1.jpg",
+       "id": 663830,
+       "image_url": "https://images.genius.com/ce5fb2e9cec30f621e0551e83040323c.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mandy Parnell",
+       "url": "https://genius.com/artists/Mandy-parnell"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/645600",
+       "header_image_url": "https://images.genius.com/a9eaefebe74e125a3ec0c0c1ff1d54c3.620x411x1.jpg",
+       "id": 645600,
+       "image_url": "https://images.genius.com/a65741d76f46de4ff81635f60ae4e679.411x411x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Visciano",
+       "url": "https://genius.com/artists/Joe-visciano"
+      }
+     ]
+    },
+    {
+     "label": "Sounds",
+     "artists": [
+      {
+       "api_path": "/artists/34352",
+       "header_image_url": "https://images.genius.com/5f9c253c3faff3f254cec103ffffa004.736x1000x1.jpg",
+       "id": 34352,
+       "image_url": "https://images.genius.com/5f9c253c3faff3f254cec103ffffa004.736x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Novelist",
+       "url": "https://genius.com/artists/Novelist"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      },
+      {
+       "api_path": "/artists/663484",
+       "header_image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "id": 663484,
+       "image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Lee",
+       "url": "https://genius.com/artists/Phil-lee"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/20503",
+       "header_image_url": "https://images.genius.com/faf71e6a99ed9c87d5c325d1fe81d92c.760x862x1.jpg",
+       "id": 20503,
+       "image_url": "https://images.genius.com/3252e426add0a17ee1ce248fbce344ed.751x751x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Young Thug",
+       "url": "https://genius.com/artists/Young-thug"
+      },
+      {
+       "api_path": "/artists/17195",
+       "header_image_url": "https://images.genius.com/1302a6082ef634d5c91276e90698dfca.790x879x1.png",
+       "id": 17195,
+       "image_url": "https://images.genius.com/f0553cb4771a7faa02cfc692f989d8f2.440x440x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Popcaan",
+       "url": "https://genius.com/artists/Popcaan"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 173194,
+    "annotator_login": "ReadOnlyUser",
+    "api_path": "/referents/6385848",
+    "classification": "accepted",
+    "fragment": "I Know There\u2019s Gonna Be (Good Times)",
+    "id": 6385848,
+    "is_description": true,
+    "path": "/6385848/Jamie-xx-i-know-theres-gonna-be-good-times/I-know-theres-gonna-be-good-times",
+    "range": {
+     "content": "I Know There's Gonna Be (Good Times)"
+    },
+    "song_id": 1790573,
+    "url": "https://genius.com/6385848/Jamie-xx-i-know-theres-gonna-be-good-times/I-know-theres-gonna-be-good-times",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1790573",
+     "client_timestamps": {
+      "updated_by_human_at": 1649637076,
+      "lyrics_updated_at": 1649637076
+     },
+     "context": "Jamie xx",
+     "id": 1790573,
+     "image_url": "https://images.genius.com/efca8d5b0aee666b12a1af9322e43c2f.1000x1000x1.png",
+     "link_title": "I Know There\u2019s Gonna Be (Good Times) by\u00a0Jamie\u00a0xx (Ft.\u00a0Popcaan & Young\u00a0Thug)",
+     "title": "I Know There's Gonna Be (Good Times)",
+     "type": "Song",
+     "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6385848",
+      "body": {
+       "plain": "The xx\u2019s own Jamie xx released his solo debut In Colour, grabbing Popcaan and man-of-the-moment Young Thug for an assist with \u201cI Know There\u2019s Gonna Be (Good Times).\u201d\n\nThe song was met with universal acclaim from multiple publications and featured prominently on year-end lists. The track ranked second on PopMatters' 90 Best Songs of 2015, third on Pitchfork\u2019s top-100 tracks, tied-for-ninth on the Village Voice\u2019s Pazz & Jop poll, and was selected as one of Stereogum\u2019s 80 best songs of 2015."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 6385848,
+      "pinned": false,
+      "share_url": "https://genius.com/6385848",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/6385848/Jamie-xx-i-know-theres-gonna-be-good-times/I-know-theres-gonna-be-good-times",
+      "verified": false,
+      "votes_total": 43,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5555555555555556,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/50988",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/8bccae9a677b2659c31cc151b5e4bfd8",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/8bccae9a677b2659c31cc151b5e4bfd8",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/8bccae9a677b2659c31cc151b5e4bfd8",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/8bccae9a677b2659c31cc151b5e4bfd8",
+         "human_readable_role_for_display": "Editor",
+         "id": 50988,
+         "iq": 174604,
+         "login": "nietzsche",
+         "name": "Briansusername",
+         "role_for_display": "editor",
+         "url": "https://genius.com/nietzsche",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2222222222222222,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/173194",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9afe669951ef0a29def73ab9d3f384ec",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9afe669951ef0a29def73ab9d3f384ec",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9afe669951ef0a29def73ab9d3f384ec",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9afe669951ef0a29def73ab9d3f384ec",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/CJRmBlbbSyGu4Qug2LjE_t3_2x7xqo.png",
+         "human_readable_role_for_display": "Contributor",
+         "id": 173194,
+         "iq": 57830,
+         "login": "ReadOnlyUser",
+         "name": "Somedamnname",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ReadOnlyUser",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07777777777777778,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/263424",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/99eec1be71a2a17c50331dd4b20915e4",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/d966d1d4f90bed72932964105dda6708.533x517x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 263424,
+         "iq": 138573,
+         "login": "darkdoomhoney",
+         "name": "\u200bdark doom honey",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/darkdoomhoney",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.05555555555555555,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1803067",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/7ca8e6bc97d6a3879e444cc5eed007ad",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/7ca8e6bc97d6a3879e444cc5eed007ad",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/7ca8e6bc97d6a3879e444cc5eed007ad",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/7ca8e6bc97d6a3879e444cc5eed007ad",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/7ca8e6bc97d6a3879e444cc5eed007ad",
+         "human_readable_role_for_display": null,
+         "id": 1803067,
+         "iq": 120,
+         "login": "76R",
+         "name": "76R",
+         "role_for_display": null,
+         "url": "https://genius.com/76R",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.05555555555555555,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1248920",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/6886050ace4173a4966df4d9bed77606",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/6886050ace4173a4966df4d9bed77606",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/6886050ace4173a4966df4d9bed77606",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/6886050ace4173a4966df4d9bed77606",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/6886050ace4173a4966df4d9bed77606",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1248920,
+         "iq": 5586,
+         "login": "SlimeJesus",
+         "name": "SlimeJesus",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SlimeJesus",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.03333333333333333,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/333116",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/34fe10c1179a1f45a8b898b8e976b397",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/34fe10c1179a1f45a8b898b8e976b397",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/34fe10c1179a1f45a8b898b8e976b397",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/34fe10c1179a1f45a8b898b8e976b397",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/34fe10c1179a1f45a8b898b8e976b397",
+         "human_readable_role_for_display": "Editor",
+         "id": 333116,
+         "iq": 8076,
+         "login": "DSlaught",
+         "name": "DSlaught",
+         "role_for_display": "editor",
+         "url": "https://genius.com/DSlaught",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BjLBB-TMa84"
+    },
+    {
+     "native_uri": "spotify:track:7xQU088imd7XrX6y0pSmdI",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7xQU088imd7XrX6y0pSmdI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1890886",
+       "artist_names": "The Persuasions",
+       "full_title": "Good Times by\u00a0The\u00a0Persuasions",
+       "header_image_thumbnail_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.599x599x1.jpg",
+       "id": 1890886,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/The-persuasions-good-times-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-persuasions-good-times-sample",
+       "release_date_components": {
+        "year": 1972,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1972",
+       "release_date_with_abbreviated_month_for_display": "1972",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.599x599x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5143
+       },
+       "title": "Good Times",
+       "title_with_featured": "Good Times",
+       "url": "https://genius.com/The-persuasions-good-times-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/364163",
+        "header_image_url": "https://images.genius.com/d14147611c0e46a34c1f4c3051bacf40.252x252x1.jpg",
+        "id": 364163,
+        "image_url": "https://images.genius.com/d14147611c0e46a34c1f4c3051bacf40.252x252x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Persuasions",
+        "url": "https://genius.com/artists/The-persuasions"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2469625",
+       "artist_names": "Dua Lipa",
+       "full_title": "Good Times (Jamie xx Rework) by\u00a0Dua\u00a0Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/c367608d10675463cf0303e806f4e23a.300x300x1.png",
+       "header_image_url": "https://images.genius.com/c367608d10675463cf0303e806f4e23a.800x800x1.png",
+       "id": 2469625,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Dua-lipa-good-times-jamie-xx-rework-lyrics",
+       "pyongs_count": 19,
+       "relationships_index_url": "https://genius.com/Dua-lipa-good-times-jamie-xx-rework-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 7,
+        "day": 23
+       },
+       "release_date_for_display": "July 23, 2015",
+       "release_date_with_abbreviated_month_for_display": "Jul. 23, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c367608d10675463cf0303e806f4e23a.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/c367608d10675463cf0303e806f4e23a.800x800x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 23723
+       },
+       "title": "Good Times (Jamie xx Rework)",
+       "title_with_featured": "Good Times (Jamie xx Rework)",
+       "url": "https://genius.com/Dua-lipa-good-times-jamie-xx-rework-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/555561",
+        "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+        "id": 555561,
+        "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dua Lipa",
+        "url": "https://genius.com/artists/Dua-lipa",
+        "iq": 2406
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/3343841",
+       "artist_names": "DON GABOS",
+       "full_title": "GOOD TIMES by\u00a0DON\u00a0GABOS",
+       "header_image_thumbnail_url": "https://images.genius.com/4a6324f5f2dbeb90d05c625176aad026.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4a6324f5f2dbeb90d05c625176aad026.1000x1000x1.jpg",
+       "id": 3343841,
+       "language": "en",
+       "lyrics_owner_id": 5333683,
+       "lyrics_state": "complete",
+       "path": "/Don-gabos-good-times-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Don-gabos-good-times-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4a6324f5f2dbeb90d05c625176aad026.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4a6324f5f2dbeb90d05c625176aad026.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GOOD TIMES",
+       "title_with_featured": "GOOD TIMES",
+       "url": "https://genius.com/Don-gabos-good-times-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1239744",
+        "header_image_url": "https://images.genius.com/99eaba63245825478a2f8fb2da304dda.1000x1000x1.jpg",
+        "id": 1239744,
+        "image_url": "https://images.genius.com/8f4ae1933653b53daeacadf3fb66c4d3.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "DON GABOS",
+        "url": "https://genius.com/artists/Don-gabos",
+        "iq": 5114
+       }
+      },
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/2340838",
+       "artist_names": "Lil Uzi Vert",
+       "full_title": "Nuyork Nights at 21 by\u00a0Lil\u00a0Uzi Vert",
+       "header_image_thumbnail_url": "https://images.genius.com/3470103158129f2550e7031a785d4115.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3470103158129f2550e7031a785d4115.1000x1000x1.jpg",
+       "id": 2340838,
+       "language": "en",
+       "lyrics_owner_id": 46472,
+       "lyrics_state": "complete",
+       "path": "/Lil-uzi-vert-nuyork-nights-at-21-lyrics",
+       "pyongs_count": 16,
+       "relationships_index_url": "https://genius.com/Lil-uzi-vert-nuyork-nights-at-21-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 9,
+        "day": 6
+       },
+       "release_date_for_display": "September 6, 2015",
+       "release_date_with_abbreviated_month_for_display": "Sep. 6, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3470103158129f2550e7031a785d4115.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3470103158129f2550e7031a785d4115.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false,
+        "pageviews": 224423
+       },
+       "title": "Nuyork Nights at 21",
+       "title_with_featured": "Nuyork Nights at 21",
+       "url": "https://genius.com/Lil-uzi-vert-nuyork-nights-at-21-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/217208",
+        "header_image_url": "https://images.genius.com/fc90b951e209e3e896cd3dc913bccf71.1000x333x1.jpg",
+        "id": 217208,
+        "image_url": "https://images.genius.com/3619e57354afa7dd5e65b9c261982ccc.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Lil Uzi Vert",
+        "url": "https://genius.com/artists/Lil-uzi-vert",
+        "iq": 5875
+       }
+      },
+      {
+       "annotation_count": 12,
+       "api_path": "/songs/2826002",
+       "artist_names": "Tafari (Ft. Kunsept & Zilla)",
+       "full_title": "She by\u00a0Tafari (Ft.\u00a0Kunsept & Zilla)",
+       "header_image_thumbnail_url": "https://images.genius.com/0db637a4f2fce98af961fb580df89cda.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0db637a4f2fce98af961fb580df89cda.1000x1000x1.jpg",
+       "id": 2826002,
+       "language": "en",
+       "lyrics_owner_id": 2058155,
+       "lyrics_state": "complete",
+       "path": "/Tafari-she-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Tafari-she-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 8,
+        "day": 9
+       },
+       "release_date_for_display": "August 9, 2016",
+       "release_date_with_abbreviated_month_for_display": "Aug. 9, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0db637a4f2fce98af961fb580df89cda.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0db637a4f2fce98af961fb580df89cda.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "hot": false
+       },
+       "title": "She",
+       "title_with_featured": "She (Ft.\u00a0Kunsept & Zilla)",
+       "url": "https://genius.com/Tafari-she-annotated",
+       "featured_artists": [
+        {
+         "api_path": "/artists/7506",
+         "header_image_url": "https://images.genius.com/3a041d7213bd7658ef57d680559fa2f2.600x399x1.jpg",
+         "id": 7506,
+         "image_url": "https://images.genius.com/3a041d7213bd7658ef57d680559fa2f2.600x399x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Zilla",
+         "url": "https://genius.com/artists/Zilla",
+         "iq": 499
+        },
+        {
+         "api_path": "/artists/875221",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 875221,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kunsept",
+         "url": "https://genius.com/artists/Kunsept"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/148304",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 148304,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tafari",
+        "url": "https://genius.com/artists/Tafari"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1890886",
+       "artist_names": "The Persuasions",
+       "full_title": "Good Times by\u00a0The\u00a0Persuasions",
+       "header_image_thumbnail_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.599x599x1.jpg",
+       "id": 1890886,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/The-persuasions-good-times-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-persuasions-good-times-sample",
+       "release_date_components": {
+        "year": 1972,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1972",
+       "release_date_with_abbreviated_month_for_display": "1972",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c89ddcea03af92f2acae604df20f1a10.599x599x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 5143
+       },
+       "title": "Good Times",
+       "title_with_featured": "Good Times",
+       "url": "https://genius.com/The-persuasions-good-times-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/364163",
+        "header_image_url": "https://images.genius.com/d14147611c0e46a34c1f4c3051bacf40.252x252x1.jpg",
+        "id": 364163,
+        "image_url": "https://images.genius.com/d14147611c0e46a34c1f4c3051bacf40.252x252x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Persuasions",
+        "url": "https://genius.com/artists/The-persuasions"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/2277249",
+       "artist_names": "Jamie xx (Ft. Frisco, Popcaan & Skepta)",
+       "full_title": "I Know There's Gonna Be (Good Times) (Skepta Remix) by\u00a0Jamie\u00a0xx (Ft.\u00a0Frisco, Popcaan & Skepta)",
+       "header_image_thumbnail_url": "https://images.rapgenius.com/7e080caa6399e501695757fea3250649.300x300x1.jpg",
+       "header_image_url": "https://images.rapgenius.com/7e080caa6399e501695757fea3250649.1000x1000x1.jpg",
+       "id": 2277249,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Jamie-xx-i-know-theres-gonna-be-good-times-skepta-remix-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-skepta-remix-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 9,
+        "day": 29
+       },
+       "release_date_for_display": "September 29, 2016",
+       "release_date_with_abbreviated_month_for_display": "Sep. 29, 2016",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/7e080caa6399e501695757fea3250649.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/7e080caa6399e501695757fea3250649.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 20074
+       },
+       "title": "I Know There\u2019s Gonna Be (Good Times) (Skepta Remix)",
+       "title_with_featured": "I Know There's Gonna Be (Good Times) (Skepta Remix) (Ft.\u00a0Frisco, Popcaan & Skepta)",
+       "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-skepta-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/17195",
+         "header_image_url": "https://images.genius.com/1302a6082ef634d5c91276e90698dfca.790x879x1.png",
+         "id": 17195,
+         "image_url": "https://images.genius.com/f0553cb4771a7faa02cfc692f989d8f2.440x440x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Popcaan",
+         "url": "https://genius.com/artists/Popcaan"
+        },
+        {
+         "api_path": "/artists/13318",
+         "header_image_url": "https://images.genius.com/2029992fd7eec4b645b74c824aafa519.500x500x1.jpg",
+         "id": 13318,
+         "image_url": "https://images.genius.com/8bea1b9fe69d541549c2c7d967cdfbf5.499x499x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Frisco",
+         "url": "https://genius.com/artists/Frisco"
+        },
+        {
+         "api_path": "/artists/1713",
+         "header_image_url": "https://images.genius.com/63eee0510f0301c4eab105d068293cc0.1000x533x1.jpg",
+         "id": 1713,
+         "image_url": "https://images.genius.com/5003ccbcacd410362c5467b00de7db78.872x872x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Skepta",
+         "url": "https://genius.com/artists/Skepta"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/31426",
+        "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+        "id": 31426,
+        "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jamie xx",
+        "url": "https://genius.com/artists/Jamie-xx"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2389177",
+       "artist_names": "Jamie xx (Ft. Agent Sasco (Assassin), Konshens, Kranium & Popcaan)",
+       "full_title": "I Know There's Gonna Be (Good Times) (Dre Skull Remix) by\u00a0Jamie\u00a0xx (Ft.\u00a0Agent\u00a0Sasco (Assassin), Konshens, Kranium & Popcaan)",
+       "header_image_thumbnail_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.999x999x1.jpg",
+       "id": 2389177,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Jamie-xx-i-know-theres-gonna-be-good-times-dre-skull-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-dre-skull-remix-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 11
+       },
+       "release_date_for_display": "December 11, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 11, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.999x999x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "I Know There\u2019s Gonna Be (Good Times) (Dre Skull Remix)",
+       "title_with_featured": "I Know There's Gonna Be (Good Times) (Dre Skull Remix) (Ft.\u00a0Agent\u00a0Sasco (Assassin), Konshens, Kranium & Popcaan)",
+       "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-dre-skull-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/332642",
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/47f9ae7eac2ca46e8ae218ec71e985c8",
+         "id": 332642,
+         "image_url": "https://images.rapgenius.com/avatars/medium/47f9ae7eac2ca46e8ae218ec71e985c8",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Kranium",
+         "url": "https://genius.com/artists/Kranium",
+         "iq": 759
+        },
+        {
+         "api_path": "/artists/17735",
+         "header_image_url": "https://images.genius.com/9e247d935ff8c0e0f54b20512500d63f.468x266x1.jpg",
+         "id": 17735,
+         "image_url": "https://images.genius.com/e17e34c4156973910dc2bbfa2237269c.482x482x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Konshens",
+         "url": "https://genius.com/artists/Konshens"
+        },
+        {
+         "api_path": "/artists/17195",
+         "header_image_url": "https://images.genius.com/1302a6082ef634d5c91276e90698dfca.790x879x1.png",
+         "id": 17195,
+         "image_url": "https://images.genius.com/f0553cb4771a7faa02cfc692f989d8f2.440x440x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Popcaan",
+         "url": "https://genius.com/artists/Popcaan"
+        },
+        {
+         "api_path": "/artists/1937263",
+         "header_image_url": "https://images.genius.com/bd77aa24aa65b66a161dcca3c63655da.640x640x1.jpg",
+         "id": 1937263,
+         "image_url": "https://images.genius.com/4c3fe4d733dd6315267cf57a588336c3.667x667x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Agent Sasco (Assassin)",
+         "url": "https://genius.com/artists/Agent-sasco-assassin",
+         "iq": 576
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/31426",
+        "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+        "id": 31426,
+        "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jamie xx",
+        "url": "https://genius.com/artists/Jamie-xx"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2389167",
+       "artist_names": "Jamie xx",
+       "full_title": "I Know There's Gonna Be (Good Times) (Instrumental) by\u00a0Jamie\u00a0xx",
+       "header_image_thumbnail_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.999x999x1.jpg",
+       "id": 2389167,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Jamie-xx-i-know-theres-gonna-be-good-times-instrumental-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-instrumental-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 12,
+        "day": 11
+       },
+       "release_date_for_display": "December 11, 2015",
+       "release_date_with_abbreviated_month_for_display": "Dec. 11, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/47f5f1c549fc3bca3d637ab29e8bc7be.999x999x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I Know There\u2019s Gonna Be (Good Times) (Instrumental)",
+       "title_with_featured": "I Know There's Gonna Be (Good Times) (Instrumental)",
+       "url": "https://genius.com/Jamie-xx-i-know-theres-gonna-be-good-times-instrumental-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/31426",
+        "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+        "id": 31426,
+        "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jamie xx",
+        "url": "https://genius.com/artists/Jamie-xx"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1022480",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1022480,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ted Daryll",
+     "url": "https://genius.com/artists/Ted-daryll"
+    },
+    {
+     "api_path": "/artists/17195",
+     "header_image_url": "https://images.genius.com/1302a6082ef634d5c91276e90698dfca.790x879x1.png",
+     "id": 17195,
+     "image_url": "https://images.genius.com/f0553cb4771a7faa02cfc692f989d8f2.440x440x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Popcaan",
+     "url": "https://genius.com/artists/Popcaan"
+    },
+    {
+     "api_path": "/artists/20503",
+     "header_image_url": "https://images.genius.com/faf71e6a99ed9c87d5c325d1fe81d92c.760x862x1.jpg",
+     "id": 20503,
+     "image_url": "https://images.genius.com/3252e426add0a17ee1ce248fbce344ed.751x751x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Young Thug",
+     "url": "https://genius.com/artists/Young-thug"
+    },
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "artist": "Jamie xx",
+   "lyrics": "108 ContributorsI Know There\u2019s Gonna Be (Good Times) Lyrics[Produced by Jamie xx]\n\n[Intro: The Persuasions & Popcaan]\nGood times, good times\nThere's gonna be good times, good times\nI know there's gonna be-\nWork every day 'til we meet ends\nHaffi tun it up pon di weekends\nBuss a toast fi yu real friend\nTell me weh yuh drinking, cah\n[Chorus: The Persuasions, Young Thug & Popcaan]\nI know there's gonna be good times\n(And he runnin' up all the money on these hoes)\nThere's gonna be good times (Good time, ayy)\nThere's gonna be good times\nThere's- (Good time, ayy)\n\n[Verse 1: Young Thug]\nUm, good times, there's gon' be some good times\n'Member we used to pull up and let 'em fight?\nThat's that hood time\n'Member I used to grab on that ass\nWhen it was 'bout that wood time? (Fatty)\nIf that lil' bitch walk up trippin' she get that mush time (Move, bitch)\nI don't waste time, I don't waste time\nI don't have patience, baby (Baby)\nShe gon' get on top of this dick and she gon' squish it like squish\nThen go fast, she Speed Racin' (Skrrt)\nWe gon' ball, Walter Payton\nShe my boss like I'm grandson\nCome here bae, I'ma listen\nI let her write me my suggestions (Hey)\nPop quiz, it's a pop quiz (Pop it)\nAll my money comin' clean, you can't pop this (No)\nShe got that pussy locked up like locksmith (Damn)\nWatch her come to my lights like a reindeer (Ice)\nMe and Papi on the same pills (Papi)\nMy diamonds could never stand still (No way)\nWhere you goin'? Can you come here? (Come here, baby)\nI'll always take you back for your sex appeal\nYou might also like[Pre-Chorus: Popcaan & The Persuasions]\nGood time ayy\nCome have a good time, buss a bad wine\nI know there's gonna be good times\nKnow seh you waan gimme sumn long time\nThere's gonna be good times\nMe deal with deh scene ruff sumn like crime\nThere's gonna be good times\nYuh a mek mi sing this line\n\n[Chorus: The Persuasions, Young Thug & Popcaan]\nI know there's gonna be good times (Good times)\nThere's gonna be good times (Say what I did, you know, bro)\nGood time, ayy\nThere's gonna be good times (Therefore, good times)\nThere's gonna be good-\n\n[Verse 2: Young Thug]\nI'ma ride in that pussy like a stroller, uh\nI'll survive in a mothafuckin' gutter, uh\nThat's my mothafuckin' woadie, like the Nolia\nAnd, and I'm comin' red like Coke-Cola (Red)\nI'ma have a very good time\nI swear to God I can't never sideline lil' shorty (What you tell her, Thugger?)\nShe say she likes all of a nigga rhymes (And what, Thugger?)\nWhere is my phone? That pussy callin'\nI want you to pass it to Thugger Thugger\nEven in the summertime me and lil' shawty cuddle (Woo)\nI swear to God I'ma tip you, you don't got to struggle (Ayy)\nBaby girl sit it down, you not known like an usher (Ayy)\nI told lil' mama I don't bite but my teeth do\nI wanna control you like voodoo\nI'm steady screamin' free Unfoonk and DuLu (And what?)\nEvery time I have a good time Duke do too\n[Pre-Chorus: Popcaan & The Persuasions]\nGood time, ayy\nCome have a good time, buss a bad wine\nI know there's gonna be good times\nKnow seh you waan gimme sumn long time\nThere's gonna be good times\nMe deal with deh scene ruff sumn like crime\nThere's gonna be good times\nYuh a mek mi sing this line\nThere's gonna be good-\n\n[Chorus: The Persuasions, Young Thug & Popcaan]\nI know there's gonna be good times (Good times)\nThere's gonna be good times\nThere's gonna be good times (Good times)\nThere's gonna be good- (Good time, ayy)\nGood times, there's gon' be some-there's gon' be some-\nI know there's gonna be good times (Good time)\n(And he runnin' up all the money on these hoes)\nThere's gonna be good times (Good time, ayy, sup)\nThere's gonna be good times (Good times)\nThere's gonna be good-\nOh, ahh, oh-nah, ahh, oh-nah, ahh, oh-nah, ahh\n\n[Outro]\nNo, that was too funny...\nIt was good, you know?\nWe enjoyed it but we never used to like rave to it94Embed"
+  },
+  {
+   "annotation_count": 9,
+   "api_path": "/songs/733063",
+   "artist_names": "Jamie xx (Ft. Romy)",
+   "full_title": "Loud Places by\u00a0Jamie\u00a0xx (Ft.\u00a0Romy)",
+   "header_image_thumbnail_url": "https://images.genius.com/7f509381f5f23106b18519355ef04c64.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7f509381f5f23106b18519355ef04c64.1000x1000x1.jpg",
+   "id": 733063,
+   "language": "en",
+   "lyrics_owner_id": 700008,
+   "lyrics_state": "complete",
+   "path": "/Jamie-xx-loud-places-lyrics",
+   "pyongs_count": 69,
+   "relationships_index_url": "https://genius.com/Jamie-xx-loud-places-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 3,
+    "day": 27
+   },
+   "release_date_for_display": "March 27, 2015",
+   "release_date_with_abbreviated_month_for_display": "Mar. 27, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7f509381f5f23106b18519355ef04c64.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7f509381f5f23106b18519355ef04c64.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 8,
+    "contributors": 40,
+    "iq_earners": 38,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 235701
+   },
+   "title": "Loud Places",
+   "title_with_featured": "Loud Places (Ft.\u00a0Romy)",
+   "url": "https://genius.com/Jamie-xx-loud-places-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/130145",
+     "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+     "id": 130145,
+     "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Romy",
+     "url": "https://genius.com/artists/Romy"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/31426",
+    "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+    "id": 31426,
+    "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jamie xx",
+    "url": "https://genius.com/artists/Jamie-xx"
+   },
+   "apple_music_id": "978363806",
+   "apple_music_player_url": "https://genius.com/songs/733063/apple_music_player",
+   "description": {
+    "plain": "\u201cLoud Places\u201d was the fourth song released in advance of Jamie xx\u2019s 2015 album, In Colour, which followed the \u201cGirl\u201d / \u201cSleep Sound\u201d single released the previous year. The track features vocals from Romy Madley Croft, Jamie\u2019s bandmate in The xx.\n\n\u201cLoud Places\u201d was initially released as a single alongside \u201cGosh\u201d, which also appeared on In Colour.\n\nhttps://www.youtube.com/watch?v=TP9luRtEqjc"
+   },
+   "embed_content": "<div id='rg_embed_link_733063' class='rg_embed_link' data-song-id='733063'>Read <a href='https://genius.com/Jamie-xx-loud-places-lyrics'>\u201cLoud Places\u201d by Jamie\u00a0xx</a> on Genius</div> <script crossorigin src='//genius.com/songs/733063/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Fortress Studios (London, UK) and Marfa Recording Co. (Marfa, TX)",
+   "release_date": "2015-03-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122645",
+    "cover_art_url": "https://images.genius.com/9feabdb9b82de17a1d47b779cdb5a2f4.1000x1000x1.jpg",
+    "full_title": "In Colour by Jamie xx",
+    "id": 122645,
+    "name": "In Colour",
+    "release_date_for_display": "May 29, 2015",
+    "url": "https://genius.com/albums/Jamie-xx/In-colour",
+    "artist": {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Mixing Assistance",
+     "artists": [
+      {
+       "api_path": "/artists/645600",
+       "header_image_url": "https://images.genius.com/a9eaefebe74e125a3ec0c0c1ff1d54c3.620x411x1.jpg",
+       "id": 645600,
+       "image_url": "https://images.genius.com/a65741d76f46de4ff81635f60ae4e679.411x411x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Visciano",
+       "url": "https://genius.com/artists/Joe-visciano"
+      }
+     ]
+    },
+    {
+     "label": "Additional Engineering",
+     "artists": [
+      {
+       "api_path": "/artists/645600",
+       "header_image_url": "https://images.genius.com/a9eaefebe74e125a3ec0c0c1ff1d54c3.620x411x1.jpg",
+       "id": 645600,
+       "image_url": "https://images.genius.com/a65741d76f46de4ff81635f60ae4e679.411x411x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Visciano",
+       "url": "https://genius.com/artists/Joe-visciano"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/130145",
+       "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+       "id": 130145,
+       "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Romy",
+       "url": "https://genius.com/artists/Romy"
+      }
+     ]
+    },
+    {
+     "label": "Mastering",
+     "artists": [
+      {
+       "api_path": "/artists/663830",
+       "header_image_url": "https://images.genius.com/c98c79c4dbb10f7e20319f6f8d130fc4.1000x667x1.jpg",
+       "id": 663830,
+       "image_url": "https://images.genius.com/ce5fb2e9cec30f621e0551e83040323c.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mandy Parnell",
+       "url": "https://genius.com/artists/Mandy-parnell"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      },
+      {
+       "api_path": "/artists/663484",
+       "header_image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "id": 663484,
+       "image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Lee",
+       "url": "https://genius.com/artists/Phil-lee"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      },
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      }
+     ]
+    },
+    {
+     "label": "Recording",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/130145",
+       "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+       "id": 130145,
+       "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Romy",
+       "url": "https://genius.com/artists/Romy"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 700008,
+    "annotator_login": "ocenvo",
+    "api_path": "/referents/5108126",
+    "classification": "accepted",
+    "fragment": "Loud Places",
+    "id": 5108126,
+    "is_description": true,
+    "path": "/5108126/Jamie-xx-loud-places/Loud-places",
+    "range": {
+     "content": "Loud Places"
+    },
+    "song_id": 733063,
+    "url": "https://genius.com/5108126/Jamie-xx-loud-places/Loud-places",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/733063",
+     "client_timestamps": {
+      "updated_by_human_at": 1619340623,
+      "lyrics_updated_at": 1619340623
+     },
+     "context": "Jamie xx",
+     "id": 733063,
+     "image_url": "https://images.genius.com/7f509381f5f23106b18519355ef04c64.1000x1000x1.jpg",
+     "link_title": "Loud Places by\u00a0Jamie\u00a0xx (Ft.\u00a0Romy)",
+     "title": "Loud Places",
+     "type": "Song",
+     "url": "https://genius.com/Jamie-xx-loud-places-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5108126",
+      "body": {
+       "plain": "\u201cLoud Places\u201d was the fourth song released in advance of Jamie xx\u2019s 2015 album, In Colour, which followed the \u201cGirl\u201d / \u201cSleep Sound\u201d single released the previous year. The track features vocals from Romy Madley Croft, Jamie\u2019s bandmate in The xx.\n\n\u201cLoud Places\u201d was initially released as a single alongside \u201cGosh\u201d, which also appeared on In Colour.\n\nhttps://www.youtube.com/watch?v=TP9luRtEqjc"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5108126,
+      "pinned": false,
+      "share_url": "https://genius.com/5108126",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/5108126/Jamie-xx-loud-places/Loud-places",
+      "verified": false,
+      "votes_total": 37,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5603448275862069,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/700008",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/8b70e95315402ffedd4d6f56ab350e81",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/8b70e95315402ffedd4d6f56ab350e81",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/8b70e95315402ffedd4d6f56ab350e81",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/8b70e95315402ffedd4d6f56ab350e81",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/8b70e95315402ffedd4d6f56ab350e81",
+         "human_readable_role_for_display": "Contributor",
+         "id": 700008,
+         "iq": 1814,
+         "login": "ocenvo",
+         "name": "ocenvo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ocenvo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.3017241379310345,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/705048",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+         "human_readable_role_for_display": "Editor",
+         "id": 705048,
+         "iq": 74165,
+         "login": "Metadata",
+         "name": "Mehta Data",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Metadata",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.12068965517241378,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/858787",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/cde9bc1ba0ffea938ae403e4fce18059",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/cde9bc1ba0ffea938ae403e4fce18059",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/cde9bc1ba0ffea938ae403e4fce18059",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/cde9bc1ba0ffea938ae403e4fce18059",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/cde9bc1ba0ffea938ae403e4fce18059",
+         "human_readable_role_for_display": "Contributor",
+         "id": 858787,
+         "iq": 7129,
+         "login": "NavelGazer",
+         "name": "NavelGazer",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/NavelGazer",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.017241379310344827,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/190012",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/dhlwEVThQx2oOmQ0eTfE.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 190012,
+         "iq": 85349,
+         "login": "XenaWarriorPrincess",
+         "name": "Peter Nowogrodzki",
+         "role_for_display": "editor",
+         "url": "https://genius.com/XenaWarriorPrincess",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:2JQm8NNpFkwvhuKH3yhuC9",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2JQm8NNpFkwvhuKH3yhuC9"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=TP9luRtEqjc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/468855",
+       "artist_names": "Idris Muhammad",
+       "full_title": "Could Heaven Ever Be Like This by\u00a0Idris\u00a0Muhammad",
+       "header_image_thumbnail_url": "https://images.genius.com/5372f4a7792ff84c1ceb533751baf3a4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5372f4a7792ff84c1ceb533751baf3a4.1000x1000x1.jpg",
+       "id": 468855,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Idris-muhammad-could-heaven-ever-be-like-this-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Idris-muhammad-could-heaven-ever-be-like-this-sample",
+       "release_date_components": {
+        "year": 1977,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1977",
+       "release_date_with_abbreviated_month_for_display": "1977",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5372f4a7792ff84c1ceb533751baf3a4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5372f4a7792ff84c1ceb533751baf3a4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 22528
+       },
+       "title": "Could Heaven Ever Be Like This",
+       "title_with_featured": "Could Heaven Ever Be Like This",
+       "url": "https://genius.com/Idris-muhammad-could-heaven-ever-be-like-this-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/199553",
+        "header_image_url": "https://images.genius.com/2607ca9a25641274f0a60bd9a26ac527.594x480x1.jpg",
+        "id": 199553,
+        "image_url": "https://images.genius.com/e88f5a27b3d925dd8f64c1a92eef05a8.480x480x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Idris Muhammad",
+        "url": "https://genius.com/artists/Idris-muhammad"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Jamie-xx-loud-places-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2866460",
+       "artist_names": "Jamie xx (Ft. Romy)",
+       "full_title": "Loud Places (John Talabot's Loud Synths Reconstruction) by\u00a0Jamie\u00a0xx (Ft.\u00a0Romy)",
+       "header_image_thumbnail_url": "https://images.genius.com/f205af51b22ee29ef167af08f20572ab.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f205af51b22ee29ef167af08f20572ab.960x960x1.jpg",
+       "id": 2866460,
+       "language": "en",
+       "lyrics_owner_id": 3161626,
+       "lyrics_state": "complete",
+       "path": "/Jamie-xx-loud-places-john-talabots-loud-synths-reconstruction-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jamie-xx-loud-places-john-talabots-loud-synths-reconstruction-sample",
+       "release_date_components": {
+        "year": 2015,
+        "month": 8,
+        "day": 28
+       },
+       "release_date_for_display": "August 28, 2015",
+       "release_date_with_abbreviated_month_for_display": "Aug. 28, 2015",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f205af51b22ee29ef167af08f20572ab.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f205af51b22ee29ef167af08f20572ab.960x960x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Loud Places (John Talabot\u2019s Loud Synths Reconstruction)",
+       "title_with_featured": "Loud Places (John Talabot's Loud Synths Reconstruction) (Ft.\u00a0Romy)",
+       "url": "https://genius.com/Jamie-xx-loud-places-john-talabots-loud-synths-reconstruction-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/130145",
+         "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+         "id": 130145,
+         "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Romy",
+         "url": "https://genius.com/artists/Romy"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/31426",
+        "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+        "id": 31426,
+        "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jamie xx",
+        "url": "https://genius.com/artists/Jamie-xx"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/839195",
+     "header_image_url": "https://images.genius.com/1c5982f5f29009a610d6454334a03a9d.307x164x1.jpg",
+     "id": 839195,
+     "image_url": "https://images.genius.com/972afaaba02ad222713435c6c0951db5.286x286x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Matthews",
+     "url": "https://genius.com/artists/David-matthews"
+    },
+    {
+     "api_path": "/artists/1022479",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1022479,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tony Sarafino",
+     "url": "https://genius.com/artists/Tony-sarafino"
+    },
+    {
+     "api_path": "/artists/54290",
+     "header_image_url": "https://images.genius.com/99f6f2afb288e1416c58a67ea77aaa6e.360x547x1.jpg",
+     "id": 54290,
+     "image_url": "https://images.genius.com/99f6f2afb288e1416c58a67ea77aaa6e.360x547x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Rick Nowels",
+     "url": "https://genius.com/artists/Rick-nowels",
+     "iq": 771
+    },
+    {
+     "api_path": "/artists/130145",
+     "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+     "id": 130145,
+     "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Romy",
+     "url": "https://genius.com/artists/Romy"
+    },
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "artist": "Jamie xx",
+   "lyrics": "40 ContributorsLoud Places Lyrics[Verse 1: Romy]\nI go to loud places\nTo search for someone\nTo be quiet with\nWho will take me home\nYou go to loud places\nTo find someone who\nWill take you higher than\nI took you\n[Chorus: Romy]\nDidn't I take you to\nHigher places you can't reach without me?\n(I have never reached such heights) Reach without me\n(I feel music in your eyes\nI have never reached such heights)\n[Verse 2: Romy]\nI go to those places\nWhere we used to go\nThey seem so quiet now\nI'm here, all alone\nYou go to new places\nWith I don't know who\nAnd I don't know how\nTo follow you\n\n[Bridge: Romy]\nHigher\nI take you higher and I\u2019ll take you\nDidn\u2019t I take you higher?\nI take you higher\nI take you higher and I take you\nDidn\u2019t I take you higher?\nI take you\n[Chorus: Romy]\nDidn't I take you to\nHigher places you can't reach without me?\n(I have never reached such heights) Reach without me\n(I feel music in your eyes\nI have never reached such heights)\n(I feel music in your eyes\nI have never reached such heights\nI feel music in your eyes\nI have never reached such heights)\n\n[Outro: Romy]\nYou're in ecstasy without me\nWhen you come down\nI won't be aroundYou might also like69Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/433352",
+   "artist_names": "Jamie xx",
+   "full_title": "Girl by\u00a0Jamie\u00a0xx",
+   "header_image_thumbnail_url": "https://images.genius.com/fb123e650866faf6a0bd4204f8731a40.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/fb123e650866faf6a0bd4204f8731a40.658x658x1.jpg",
+   "id": 433352,
+   "language": "en",
+   "lyrics_owner_id": 116340,
+   "lyrics_state": "complete",
+   "path": "/Jamie-xx-girl-lyrics",
+   "pyongs_count": 9,
+   "relationships_index_url": "https://genius.com/Jamie-xx-girl-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 5,
+    "day": 5
+   },
+   "release_date_for_display": "May 5, 2014",
+   "release_date_with_abbreviated_month_for_display": "May. 5, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/561a3c9854ccdb5fbc4fbe1415675a3d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/561a3c9854ccdb5fbc4fbe1415675a3d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 19,
+    "iq_earners": 18,
+    "transcribers": 3,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 49776
+   },
+   "title": "Girl",
+   "title_with_featured": "Girl",
+   "url": "https://genius.com/Jamie-xx-girl-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/31426",
+    "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+    "id": 31426,
+    "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jamie xx",
+    "url": "https://genius.com/artists/Jamie-xx"
+   },
+   "apple_music_id": "978364358",
+   "apple_music_player_url": "https://genius.com/songs/433352/apple_music_player",
+   "description": {
+    "plain": "\u201cGirl\u201d is an upbeat dance track that, along with its AA-side \u201cSleep Sound\u201d, later appeared on Jamie xx\u2019s debut solo album, In Colour. \u201cGirl\u201d complements \u201cSleep Sound\u201d both musically and structurally."
+   },
+   "embed_content": "<div id='rg_embed_link_433352' class='rg_embed_link' data-song-id='433352'>Read <a href='https://genius.com/Jamie-xx-girl-lyrics'>\u201cGirl\u201d by Jamie\u00a0xx</a> on Genius</div> <script crossorigin src='//genius.com/songs/433352/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Fortress Studios (London, UK) and Marfa Recording Co. (Marfa, TX)",
+   "release_date": "2014-05-05",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122645",
+    "cover_art_url": "https://images.genius.com/9feabdb9b82de17a1d47b779cdb5a2f4.1000x1000x1.jpg",
+    "full_title": "In Colour by Jamie xx",
+    "id": 122645,
+    "name": "In Colour",
+    "release_date_for_display": "May 29, 2015",
+    "url": "https://genius.com/albums/Jamie-xx/In-colour",
+    "artist": {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      },
+      {
+       "api_path": "/artists/663484",
+       "header_image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "id": 663484,
+       "image_url": "https://images.genius.com/bff3475996d7309773e694e3018b1580.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Phil Lee",
+       "url": "https://genius.com/artists/Phil-lee"
+      }
+     ]
+    },
+    {
+     "label": "Recording",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      }
+     ]
+    },
+    {
+     "label": "Mixing",
+     "artists": [
+      {
+       "api_path": "/artists/31426",
+       "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+       "id": 31426,
+       "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jamie xx",
+       "url": "https://genius.com/artists/Jamie-xx"
+      },
+      {
+       "api_path": "/artists/460724",
+       "header_image_url": "https://images.genius.com/37d4b917c422c11e1f456ee5f95bf3df.636x421x1.jpg",
+       "id": 460724,
+       "image_url": "https://images.genius.com/dbe279fd0acf607812ceae06e4f01567.421x421x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom Elmhirst",
+       "url": "https://genius.com/artists/Tom-elmhirst"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Assistance",
+     "artists": [
+      {
+       "api_path": "/artists/645600",
+       "header_image_url": "https://images.genius.com/a9eaefebe74e125a3ec0c0c1ff1d54c3.620x411x1.jpg",
+       "id": 645600,
+       "image_url": "https://images.genius.com/a65741d76f46de4ff81635f60ae4e679.411x411x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe Visciano",
+       "url": "https://genius.com/artists/Joe-visciano"
+      }
+     ]
+    },
+    {
+     "label": "Mastering",
+     "artists": [
+      {
+       "api_path": "/artists/663830",
+       "header_image_url": "https://images.genius.com/c98c79c4dbb10f7e20319f6f8d130fc4.1000x667x1.jpg",
+       "id": 663830,
+       "image_url": "https://images.genius.com/ce5fb2e9cec30f621e0551e83040323c.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mandy Parnell",
+       "url": "https://genius.com/artists/Mandy-parnell"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 116340,
+    "annotator_login": "palacelight",
+    "api_path": "/referents/3781091",
+    "classification": "accepted",
+    "fragment": "Girl",
+    "id": 3781091,
+    "is_description": true,
+    "path": "/3781091/Jamie-xx-girl/Girl",
+    "range": {
+     "content": "Girl"
+    },
+    "song_id": 433352,
+    "url": "https://genius.com/3781091/Jamie-xx-girl/Girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/433352",
+     "client_timestamps": {
+      "updated_by_human_at": 1671192431,
+      "lyrics_updated_at": 1671192431
+     },
+     "context": "Jamie xx",
+     "id": 433352,
+     "image_url": "https://images.genius.com/561a3c9854ccdb5fbc4fbe1415675a3d.1000x1000x1.jpg",
+     "link_title": "Girl by\u00a0Jamie\u00a0xx",
+     "title": "Girl",
+     "type": "Song",
+     "url": "https://genius.com/Jamie-xx-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3781091",
+      "body": {
+       "plain": "\u201cGirl\u201d is an upbeat dance track that, along with its AA-side \u201cSleep Sound\u201d, later appeared on Jamie xx\u2019s debut solo album, In Colour. \u201cGirl\u201d complements \u201cSleep Sound\u201d both musically and structurally."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3781091,
+      "pinned": false,
+      "share_url": "https://genius.com/3781091",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3781091/Jamie-xx-girl/Girl",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5277777777777778,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/705048",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4038a284fcc55d2d164ffcd39e30df0d",
+         "human_readable_role_for_display": "Editor",
+         "id": 705048,
+         "iq": 74165,
+         "login": "Metadata",
+         "name": "Mehta Data",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Metadata",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.33333333333333337,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/116340",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/4955c7795dbe34cdb329280940bf8639",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/4955c7795dbe34cdb329280940bf8639",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/4955c7795dbe34cdb329280940bf8639",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/4955c7795dbe34cdb329280940bf8639",
+         "human_readable_role_for_display": "Contributor",
+         "id": 116340,
+         "iq": 369268,
+         "login": "palacelight",
+         "name": "Reuben Tasker",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/palacelight",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1388888888888889,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1616804",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 1616804,
+         "iq": 6,
+         "login": "Contributer",
+         "name": "Contributer",
+         "role_for_display": null,
+         "url": "https://genius.com/Contributer",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4X14Wjext8BlNW9lbtU7dL",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4X14Wjext8BlNW9lbtU7dL"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=r7gmVWgEpRc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Jamie-xx-girl-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/960478",
+       "artist_names": "Brian Wilson",
+       "full_title": "Our Prayer / Gee by\u00a0Brian\u00a0Wilson",
+       "header_image_thumbnail_url": "https://images.genius.com/30a1a531ef3be686470cc6a1a50ea5fe.300x300x1.png",
+       "header_image_url": "https://images.genius.com/30a1a531ef3be686470cc6a1a50ea5fe.900x900x1.png",
+       "id": 960478,
+       "language": "en",
+       "lyrics_owner_id": 10050293,
+       "lyrics_state": "complete",
+       "path": "/Brian-wilson-our-prayer-gee-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Brian-wilson-our-prayer-gee-sample",
+       "release_date_components": {
+        "year": 2004,
+        "month": 9,
+        "day": 28
+       },
+       "release_date_for_display": "September 28, 2004",
+       "release_date_with_abbreviated_month_for_display": "Sep. 28, 2004",
+       "song_art_image_thumbnail_url": "https://images.genius.com/30a1a531ef3be686470cc6a1a50ea5fe.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/30a1a531ef3be686470cc6a1a50ea5fe.900x900x1.png",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "Our Prayer / Gee",
+       "title_with_featured": "Our Prayer / Gee",
+       "url": "https://genius.com/Brian-wilson-our-prayer-gee-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/57967",
+        "header_image_url": "https://images.genius.com/b1b6fbc32a4195552bc5e46a7fa7ac37.1000x564x1.png",
+        "id": 57967,
+        "image_url": "https://s3.amazonaws.com/rapgenius/bw66.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brian Wilson",
+        "url": "https://genius.com/artists/Brian-wilson"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/433356",
+       "artist_names": "Studio",
+       "full_title": "Out There by\u00a0Studio",
+       "header_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "header_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "id": 433356,
+       "language": null,
+       "lyrics_owner_id": 116340,
+       "lyrics_state": "complete",
+       "path": "/Studio-out-there-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Studio-out-there-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2010",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2010",
+       "song_art_image_thumbnail_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "song_art_image_url": "https://assets.genius.com/images/default_cover_image.png?1682450960",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Out There",
+       "title_with_featured": "Out There",
+       "url": "https://genius.com/Studio-out-there-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/73297",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 73297,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Studio",
+        "url": "https://genius.com/artists/Studio"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/433357",
+       "artist_names": "Freeez",
+       "full_title": "I.O.U. by\u00a0Freeez",
+       "header_image_thumbnail_url": "https://images.genius.com/e419066535c22be73490d615206b9748.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e419066535c22be73490d615206b9748.1000x1000x1.jpg",
+       "id": 433357,
+       "language": "en",
+       "lyrics_owner_id": 116340,
+       "lyrics_state": "complete",
+       "path": "/Freeez-iou-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Freeez-iou-sample",
+       "release_date_components": {
+        "year": 1983,
+        "month": 6,
+        "day": 17
+       },
+       "release_date_for_display": "June 17, 1983",
+       "release_date_with_abbreviated_month_for_display": "Jun. 17, 1983",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e419066535c22be73490d615206b9748.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e419066535c22be73490d615206b9748.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 18042
+       },
+       "title": "I.O.U.",
+       "title_with_featured": "I.O.U.",
+       "url": "https://genius.com/Freeez-iou-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/182449",
+        "header_image_url": "https://images.genius.com/0a2e86227e73232b0359b4b5299971f9.252x249x1.jpg",
+        "id": 182449,
+        "image_url": "https://images.genius.com/8e92aa5681c0f428f5976e6c773c2eca.249x249x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Freeez",
+        "url": "https://genius.com/artists/Freeez"
+       }
+      },
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/200375",
+       "artist_names": "The Whitest Boy Alive",
+       "full_title": "Burning by\u00a0The\u00a0Whitest Boy Alive",
+       "header_image_thumbnail_url": "https://images.genius.com/e0d44e066162f05991932027a16c23f4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e0d44e066162f05991932027a16c23f4.350x350x1.jpg",
+       "id": 200375,
+       "language": "en",
+       "lyrics_owner_id": 183152,
+       "lyrics_state": "complete",
+       "path": "/The-whitest-boy-alive-burning-lyrics",
+       "pyongs_count": 9,
+       "relationships_index_url": "https://genius.com/The-whitest-boy-alive-burning-sample",
+       "release_date_components": {
+        "year": 2006,
+        "month": 5,
+        "day": null
+       },
+       "release_date_for_display": "May 2006",
+       "release_date_with_abbreviated_month_for_display": "May. 2006",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e0d44e066162f05991932027a16c23f4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e0d44e066162f05991932027a16c23f4.350x350x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 26884
+       },
+       "title": "Burning",
+       "title_with_featured": "Burning",
+       "url": "https://genius.com/The-whitest-boy-alive-burning-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/44544",
+        "header_image_url": "https://s3.amazonaws.com/rapgenius/The%20Whitest%20Boy%20Alive%2025whitestboy_01_C.png",
+        "id": 44544,
+        "image_url": "https://s3.amazonaws.com/rapgenius/The%20Whitest%20Boy%20Alive%2025whitestboy_01_C.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Whitest Boy Alive",
+        "url": "https://genius.com/artists/The-whitest-boy-alive"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Jamie-xx-girl-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/5350365",
+       "artist_names": "AOL",
+       "full_title": "2020 FREESTYLE by\u00a0AOL",
+       "header_image_thumbnail_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.500x500x1.jpg",
+       "id": 5350365,
+       "language": "en",
+       "lyrics_owner_id": 2088537,
+       "lyrics_state": "complete",
+       "path": "/Aol-2020-freestyle-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Aol-2020-freestyle-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false
+       },
+       "title": "2020 FREESTYLE",
+       "title_with_featured": "2020 FREESTYLE",
+       "url": "https://genius.com/Aol-2020-freestyle-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/54021",
+        "header_image_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.500x500x1.jpg",
+        "id": 54021,
+        "image_url": "https://images.genius.com/52cc12b3c449712c3f17a8706661a16a.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "AOL",
+        "url": "https://genius.com/artists/Aol"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3114303",
+       "artist_names": "Smileyface",
+       "full_title": "Mary Jane by\u00a0Smileyface",
+       "header_image_thumbnail_url": "https://images.genius.com/2858e13c67ec7c67fc3d5a7bd48244fe.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2858e13c67ec7c67fc3d5a7bd48244fe.530x530x1.jpg",
+       "id": 3114303,
+       "language": "en",
+       "lyrics_owner_id": 3635638,
+       "lyrics_state": "complete",
+       "path": "/Smileyface-mary-jane-annotated",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Smileyface-mary-jane-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2858e13c67ec7c67fc3d5a7bd48244fe.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2858e13c67ec7c67fc3d5a7bd48244fe.530x530x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mary Jane",
+       "title_with_featured": "Mary Jane",
+       "url": "https://genius.com/Smileyface-mary-jane-annotated",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/47601",
+        "header_image_url": "https://images.genius.com/2ced46e36c43709a7517f9bde053215a.300x300x1.jpg",
+        "id": 47601,
+        "image_url": "https://images.genius.com/2858e13c67ec7c67fc3d5a7bd48244fe.530x530x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Smileyface",
+        "url": "https://genius.com/artists/Smileyface"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/664160",
+     "header_image_url": "https://images.genius.com/ef3e1971a1d33fe179aa0e589ec0f11a.299x299x1.jpg",
+     "id": 664160,
+     "image_url": "https://images.genius.com/ef3e1971a1d33fe179aa0e589ec0f11a.299x299x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "John Robie",
+     "url": "https://genius.com/artists/John-robie"
+    },
+    {
+     "api_path": "/artists/378501",
+     "header_image_url": "https://images.genius.com/181026192fdb804560f7e60351131e7a.1000x754x1.jpg",
+     "id": 378501,
+     "image_url": "https://images.genius.com/181026192fdb804560f7e60351131e7a.1000x754x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arthur Baker",
+     "url": "https://genius.com/artists/Arthur-baker"
+    },
+    {
+     "api_path": "/artists/687032",
+     "header_image_url": "https://images.genius.com/84eb378743cdd24aa6f322c10aaffc26.184x184x1.png",
+     "id": 687032,
+     "image_url": "https://images.genius.com/84eb378743cdd24aa6f322c10aaffc26.184x184x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dan Lissvik",
+     "url": "https://genius.com/artists/Dan-lissvik"
+    },
+    {
+     "api_path": "/artists/1022487",
+     "header_image_url": "https://images.genius.com/53333634596794977f4368ce6be141a8.298x298x1.jpg",
+     "id": 1022487,
+     "image_url": "https://images.genius.com/53333634596794977f4368ce6be141a8.298x298x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rasmus H\u00e4gg",
+     "url": "https://genius.com/artists/Rasmus-hagg"
+    },
+    {
+     "api_path": "/artists/57967",
+     "header_image_url": "https://images.genius.com/b1b6fbc32a4195552bc5e46a7fa7ac37.1000x564x1.png",
+     "id": 57967,
+     "image_url": "https://s3.amazonaws.com/rapgenius/bw66.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brian Wilson",
+     "url": "https://genius.com/artists/Brian-wilson"
+    },
+    {
+     "api_path": "/artists/1022486",
+     "header_image_url": "https://images.genius.com/67d6e57fb599790ae60a6e94827a7f2d.908x908x1.jpg",
+     "id": 1022486,
+     "image_url": "https://images.genius.com/67d6e57fb599790ae60a6e94827a7f2d.908x908x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Marcin \u00d6z",
+     "url": "https://genius.com/artists/Marcin-oz"
+    },
+    {
+     "api_path": "/artists/368959",
+     "header_image_url": "https://images.genius.com/34519b61a59c143a698d5b63dbb2d729.285x285x1.jpg",
+     "id": 368959,
+     "image_url": "https://images.genius.com/34519b61a59c143a698d5b63dbb2d729.285x285x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erlend \u00d8ye",
+     "url": "https://genius.com/artists/Erlend-ye"
+    },
+    {
+     "api_path": "/artists/1022484",
+     "header_image_url": "https://images.genius.com/0137d5be4858c13f9a3ebd29666507bf.600x600x1.jpg",
+     "id": 1022484,
+     "image_url": "https://images.genius.com/0137d5be4858c13f9a3ebd29666507bf.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sebastian Maschat",
+     "url": "https://genius.com/artists/Sebastian-maschat"
+    },
+    {
+     "api_path": "/artists/31426",
+     "header_image_url": "https://images.genius.com/fd6c10689b8e44426709f68973f3329f.1000x657x1.jpg",
+     "id": 31426,
+     "image_url": "https://images.genius.com/d1c0a8dd345cf176800f7ae7c992d2c6.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jamie xx",
+     "url": "https://genius.com/artists/Jamie-xx"
+    }
+   ],
+   "artist": "Jamie xx",
+   "lyrics": "19 ContributorsGirl Lyrics[Produced by Jamie xx]\n[Intro]\nYou're the most beautiful girl in Hackney, you know?\n[Instrumental]\n[Chorus]\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\n[Instrumental]\n[Chorus]\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\nI want your love, I want your love\nGive me your love, girl (Give me your love)\n\n[Interlude]\nAnd girl, I know you can\nNo\nNo\nNo\nYou might also like[Instrumental]\n[Outro]\nI want your love, I want your love\nI want your love, I want your love\nI want your love, I want your love\nI want your love, I want your love9Embed"
+  }
+ ]
+}

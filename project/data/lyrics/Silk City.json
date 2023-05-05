@@ -1,0 +1,2953 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1569564",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+ "id": 1569564,
+ "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Silk City & Dua Lipa",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Silk-city-and-dua-lipa",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 3279839,
+  "annotator_login": "Whippy7",
+  "api_path": "/referents/15307982",
+  "classification": "needs_exegesis",
+  "fragment": "Silk City & Dua Lipa",
+  "id": 15307982,
+  "is_description": true,
+  "path": "/15307982/Silk-city-and-dua-lipa/Silk-city-and-dua-lipa",
+  "range": {
+   "content": "Silk City & Dua Lipa"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15307982/Silk-city-and-dua-lipa/Silk-city-and-dua-lipa",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1569564",
+   "context": null,
+   "id": 1569564,
+   "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+   "link_title": "Silk City & Dua Lipa",
+   "title": "Silk City & Dua Lipa",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15307982",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 15307982,
+    "pinned": false,
+    "share_url": "https://genius.com/15307982",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/15307982/Silk-city-and-dua-lipa/Silk-city-and-dua-lipa",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/3279839",
+       "avatar": {
+        "tiny": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://i.genius.com/ac5113a14153e597ee717168b95717d3adcd6bd0?url=https%3A%2F%2Flh4.googleusercontent.com%2F-R7NwzU2ErD0%2FAAAAAAAAAAI%2FAAAAAAAAApE%2FFvQ6h0BXB1o%2Fphoto.jpg",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/i75s230xnbnv",
+       "human_readable_role_for_display": "Contributor",
+       "id": 3279839,
+       "iq": 200326,
+       "login": "Whippy7",
+       "name": "Whippy7",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Whippy7",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/3843671",
+   "artist_names": "Silk City & Dua Lipa",
+   "full_title": "Electricity by\u00a0Silk\u00a0City & Dua Lipa",
+   "header_image_thumbnail_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.500x500x1.jpg",
+   "id": 3843671,
+   "language": "en",
+   "lyrics_owner_id": 3958233,
+   "lyrics_state": "complete",
+   "path": "/Silk-city-and-dua-lipa-electricity-lyrics",
+   "pyongs_count": 39,
+   "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 9,
+    "day": 7
+   },
+   "release_date_for_display": "September 7, 2018",
+   "release_date_with_abbreviated_month_for_display": "Sep. 7, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 84,
+    "iq_earners": 84,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 458559
+   },
+   "title": "Electricity",
+   "title_with_featured": "Electricity",
+   "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1569564",
+    "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "id": 1569564,
+    "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Silk City & Dua Lipa",
+    "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+   },
+   "apple_music_id": "1434745795",
+   "apple_music_player_url": "https://genius.com/songs/3843671/apple_music_player",
+   "description": {
+    "plain": "\u201cElectricity\u201d is the long awaited collaboration between production duo Silk City (consisting of industry veterans Mark Ronson & Diplo) and Dua Lipa.\n\nThe song was first teased when Dua Lipa was seen in the studio with Silk City in January 2018, and confirmed after Silk City dropped their debut single \u201cOnly Can Get Better\u201d in May.\n\nMark Ronson later revealed the title in an interview with The Times magazine, complimenting Dua Lipa\u2019s voice;\n\nShe has this deep, soulful voice that harkens back to gospel house.\n\n\u201cElectricity\u201d is expected to be the lead single from their debut EP/album and will be included in Dua Lipa\u2019s debut album repack."
+   },
+   "embed_content": "<div id='rg_embed_link_3843671' class='rg_embed_link' data-song-id='3843671'>Read <a href='https://genius.com/Silk-city-and-dua-lipa-electricity-lyrics'>\u201cElectricity\u201d by Silk\u00a0City & Dua Lipa</a> on Genius</div> <script crossorigin src='//genius.com/songs/3843671/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-09-07",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/964906",
+    "cover_art_url": "https://images.genius.com/18ab3d539ab687b36d584f09d0001ac5.547x547x1.jpg",
+    "full_title": "Dua Lipa (Japan Special Edition) by Dua Lipa",
+    "id": 964906,
+    "name": "Dua Lipa (Japan Special Edition)",
+    "release_date_for_display": "October 9, 2018",
+    "url": "https://genius.com/albums/Dua-lipa/Dua-lipa-japan-special-edition",
+    "artist": {
+     "api_path": "/artists/555561",
+     "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+     "id": 555561,
+     "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dua Lipa",
+     "url": "https://genius.com/artists/Dua-lipa",
+     "iq": 2406
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Primary Artist",
+     "artists": [
+      {
+       "api_path": "/artists/555561",
+       "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+       "id": 555561,
+       "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dua Lipa",
+       "url": "https://genius.com/artists/Dua-lipa",
+       "iq": 2406
+      },
+      {
+       "api_path": "/artists/1481552",
+       "header_image_url": "https://images.genius.com/112c8264f14469e081e5b8ec69708ec7.333x500x1.jpg",
+       "id": 1481552,
+       "image_url": "https://images.genius.com/fb4e0c3b7b2d74531424798459aa7f05.333x333x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Silk City",
+       "url": "https://genius.com/artists/Silk-city"
+      },
+      {
+       "api_path": "/artists/8231",
+       "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+       "id": 8231,
+       "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Mark Ronson",
+       "url": "https://genius.com/artists/Mark-ronson",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/12908",
+       "header_image_url": "https://images.genius.com/7d691efeb0412b7a96597aa2e1dbfd1e.960x640x1.jpg",
+       "id": 12908,
+       "image_url": "https://images.genius.com/a5dfb8cc4e373238068b89a15b3194aa.1000x1000x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Diplo",
+       "url": "https://genius.com/artists/Diplo",
+       "iq": 4544
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2100610",
+       "header_image_url": "https://images.genius.com/b2b12c10b3fb510ca2a5f4735f246112.640x640x1.jpg",
+       "id": 2100610,
+       "image_url": "https://images.genius.com/0ab9d8d670e72e0994b836cb138ff10d.999x999x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bradley & Pablo",
+       "url": "https://genius.com/artists/Bradley-and-pablo"
+      }
+     ]
+    },
+    {
+     "label": "Additional Production",
+     "artists": [
+      {
+       "api_path": "/artists/191105",
+       "header_image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+       "id": 191105,
+       "image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Metric",
+       "url": "https://genius.com/artists/Alex-metric"
+      },
+      {
+       "api_path": "/artists/482806",
+       "header_image_url": "https://images.genius.com/d666aed640b8f3815b0f20430d77d18c.1000x1000x1.jpg",
+       "id": 482806,
+       "image_url": "https://images.genius.com/1d933b6410c16b9cf055d0ed2831dbcf.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Riton",
+       "url": "https://genius.com/artists/Riton"
+      },
+      {
+       "api_path": "/artists/1009859",
+       "header_image_url": "https://images.genius.com/e956f7ff9ebb8b72186fa59eb5897235.714x299x1.png",
+       "id": 1009859,
+       "image_url": "https://images.genius.com/cb84d4e6c7d80bfd48a4bdf96937c14e.401x401x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Picard Brothers",
+       "url": "https://genius.com/artists/Picard-brothers"
+      },
+      {
+       "api_path": "/artists/665457",
+       "header_image_url": "https://images.genius.com/8567e85e157ace444ea018b220177a90.1000x1000x1.jpg",
+       "id": 665457,
+       "image_url": "https://images.genius.com/8567e85e157ace444ea018b220177a90.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Jarami",
+       "url": "https://genius.com/artists/Jarami",
+       "iq": 112
+      },
+      {
+       "api_path": "/artists/412137",
+       "header_image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+       "id": 412137,
+       "image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jr. Blender",
+       "url": "https://genius.com/artists/Jr-blender"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/2242705",
+       "header_image_url": "https://images.genius.com/6c63feb09350ae47ce9d58fc2d27040f.1000x666x1.jpg",
+       "id": 2242705,
+       "image_url": "https://images.genius.com/1d69bee4e99101f38b4cc026f389259d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SACEM",
+       "url": "https://genius.com/artists/Sacem"
+      },
+      {
+       "api_path": "/artists/2235704",
+       "header_image_url": "https://images.genius.com/c0f4a7d0cae64902c7550d835bc76b09.1000x1000x1.png",
+       "id": 2235704,
+       "image_url": "https://images.genius.com/c0f4a7d0cae64902c7550d835bc76b09.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "GEMA (PRO)",
+       "url": "https://genius.com/artists/Gema-pro"
+      },
+      {
+       "api_path": "/artists/838535",
+       "header_image_url": "https://images.genius.com/102f80430df97ed1699d6e61ab09ddf7.1000x213x1.png",
+       "id": 838535,
+       "image_url": "https://images.genius.com/47743b4bd8428b4457b9d9f82e42361b.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SESAC",
+       "url": "https://genius.com/artists/Sesac"
+      },
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1039893",
+       "header_image_url": "https://images.genius.com/67ad0929595d84bb9fb694ead50cb30a.500x500x1.jpg",
+       "id": 1039893,
+       "image_url": "https://images.genius.com/67ad0929595d84bb9fb694ead50cb30a.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Prescription Songs",
+       "url": "https://genius.com/artists/Prescription-songs"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+       "id": 1100826,
+       "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/644595",
+       "header_image_url": "https://images.genius.com/d0a503f329bb67ced923c82252bc958d.600x147x1.png",
+       "id": 644595,
+       "image_url": "https://images.genius.com/764870a8c2f10ca85d70afbe9799663d.432x432x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "\u200bpeermusic",
+       "url": "https://genius.com/artists/Peermusic"
+      },
+      {
+       "api_path": "/artists/2248142",
+       "header_image_url": "https://images.genius.com/13907d5b7c055cbedd0af126f29b1dcb.1000x1000x1.png",
+       "id": 2248142,
+       "image_url": "https://images.genius.com/13907d5b7c055cbedd0af126f29b1dcb.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Deal Music",
+       "url": "https://genius.com/artists/Big-deal-music"
+      },
+      {
+       "api_path": "/artists/2260456",
+       "header_image_url": "https://images.genius.com/384f084d262a28f484dabcbc496ca1be.463x75x1.png",
+       "id": 2260456,
+       "image_url": "https://images.genius.com/6a6dcf2dc647ec800739f5c9fcf19ac8.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit Music Group",
+       "url": "https://genius.com/artists/Spirit-music-group"
+      },
+      {
+       "api_path": "/artists/2260850",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2260850,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "SMG Birch Music",
+       "url": "https://genius.com/artists/Smg-birch-music"
+      },
+      {
+       "api_path": "/artists/2262677",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2262677,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RamiDawodMusic",
+       "url": "https://genius.com/artists/Ramidawodmusic"
+      },
+      {
+       "api_path": "/artists/2235632",
+       "header_image_url": "https://images.genius.com/bd213f39b73712fd23047585df39d4ae.279x180x1.png",
+       "id": 2235632,
+       "image_url": "https://images.genius.com/11dde5835edc7920bc5fc9554302bf06.225x225x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Canadiana Music",
+       "url": "https://genius.com/artists/Canadiana-music"
+      },
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/2156364",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2156364,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KMR II GT Publishing",
+       "url": "https://genius.com/artists/Kmr-ii-gt-publishing"
+      },
+      {
+       "api_path": "/artists/2243957",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2243957,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Southern Music Publishing",
+       "url": "https://genius.com/artists/Southern-music-publishing"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/2267518",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2267518,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit Saturn Tunes",
+       "url": "https://genius.com/artists/Spirit-saturn-tunes"
+      },
+      {
+       "api_path": "/artists/2262676",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2262676,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Spirit Three Music",
+       "url": "https://genius.com/artists/Spirit-three-music"
+      },
+      {
+       "api_path": "/artists/1124836",
+       "header_image_url": "https://images.genius.com/3473db4f15ec8dfb05bb0ce789ee5314.820x820x1.png",
+       "id": 1124836,
+       "image_url": "https://images.genius.com/3473db4f15ec8dfb05bb0ce789ee5314.820x820x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TaP Music",
+       "url": "https://genius.com/artists/Tap-music"
+      },
+      {
+       "api_path": "/artists/2141298",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2141298,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KMR Music Royalties II SCSP",
+       "url": "https://genius.com/artists/Kmr-music-royalties-ii-scsp"
+      },
+      {
+       "api_path": "/artists/1039853",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1039853,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "I Like Turtles Music",
+       "url": "https://genius.com/artists/I-like-turtles-music"
+      },
+      {
+       "api_path": "/artists/1129960",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1129960,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "12th & Spring Garden",
+       "url": "https://genius.com/artists/12th-and-spring-garden"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/2267517",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2267517,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Songs of Zelig",
+       "url": "https://genius.com/artists/Songs-of-zelig"
+      },
+      {
+       "api_path": "/artists/2267516",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2267516,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Legend of Music",
+       "url": "https://genius.com/artists/Legend-of-music"
+      },
+      {
+       "api_path": "/artists/977738",
+       "header_image_url": "https://images.genius.com/e7170a59236540304da07df6ea0fecef.1000x238x1.jpg",
+       "id": 977738,
+       "image_url": "https://images.genius.com/a03e7dbfb9767f7b2ceca5d60000fce8.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Concord Music Group",
+       "url": "https://genius.com/artists/Concord-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Assistant Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1023030",
+       "header_image_url": "https://images.genius.com/9e7adbb225b21e7e308ecf87aa80d0a1.792x792x1.jpg",
+       "id": 1023030,
+       "image_url": "https://images.genius.com/9e7adbb225b21e7e308ecf87aa80d0a1.792x792x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Will Quinnell",
+       "url": "https://genius.com/artists/Will-quinnell"
+      },
+      {
+       "api_path": "/artists/1243625",
+       "header_image_url": "https://images.genius.com/867c0cc1d3e2b8ff44fd88f315f32ce9.329x329x1.jpg",
+       "id": 1243625,
+       "image_url": "https://images.genius.com/867c0cc1d3e2b8ff44fd88f315f32ce9.329x329x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Hunter Jackson",
+       "url": "https://genius.com/artists/Hunter-jackson"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/198492",
+       "header_image_url": "https://images.genius.com/84fc73a0d4d731d5ee778112e2c1e125.590x443x1.jpg",
+       "id": 198492,
+       "image_url": "https://images.genius.com/c46a9a4d328fa5038d182e617ce7a0b0.306x306x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Gehringer",
+       "url": "https://genius.com/artists/Chris-gehringer"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/606741",
+       "header_image_url": "https://images.genius.com/544fa85dd98199dc23ab4cd5d17d4511.480x480x1.jpg",
+       "id": 606741,
+       "image_url": "https://images.genius.com/414ab429ee8ea4c63bdf965e889c5499.331x331x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Gudwin",
+       "url": "https://genius.com/artists/Josh-gudwin"
+      }
+     ]
+    },
+    {
+     "label": "Video Producer",
+     "artists": [
+      {
+       "api_path": "/artists/1323752",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1323752,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Candice Dragonas",
+       "url": "https://genius.com/artists/Candice-dragonas"
+      },
+      {
+       "api_path": "/artists/1574551",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1574551,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Chris Clavadetscher",
+       "url": "https://genius.com/artists/Chris-clavadetscher"
+      },
+      {
+       "api_path": "/artists/1040218",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1040218,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ross Levine",
+       "url": "https://genius.com/artists/Ross-levine"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1680892",
+       "header_image_url": "https://images.genius.com/7b1a310c341516707e35fd060a5a1c32.1000x166x1.jpg",
+       "id": 1680892,
+       "image_url": "https://images.genius.com/b7ee7b832e54b9cb8c26adc309b771e4.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Diana Gordon",
+       "url": "https://genius.com/artists/Diana-gordon"
+      },
+      {
+       "api_path": "/artists/555561",
+       "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+       "id": 555561,
+       "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Dua Lipa",
+       "url": "https://genius.com/artists/Dua-lipa",
+       "iq": 2406
+      }
+     ]
+    },
+    {
+     "label": "Video Production Company",
+     "artists": [
+      {
+       "api_path": "/artists/1125691",
+       "header_image_url": "https://images.genius.com/efb9a46b7580ce20fd0adc66c7220acb.480x480x1.jpg",
+       "id": 1125691,
+       "image_url": "https://images.genius.com/efb9a46b7580ce20fd0adc66c7220acb.480x480x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Prettybird",
+       "url": "https://genius.com/artists/Prettybird"
+      }
+     ]
+    },
+    {
+     "label": "Video Director Of Photography",
+     "artists": [
+      {
+       "api_path": "/artists/1574552",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1574552,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Pablo Berron",
+       "url": "https://genius.com/artists/Pablo-berron"
+      }
+     ]
+    },
+    {
+     "label": "Video Editor",
+     "artists": [
+      {
+       "api_path": "/artists/1024848",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1024848,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nick Rondeau",
+       "url": "https://genius.com/artists/Nick-rondeau"
+      }
+     ]
+    },
+    {
+     "label": "Video Choreography",
+     "artists": [
+      {
+       "api_path": "/artists/1574553",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1574553,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Toogie",
+       "url": "https://genius.com/artists/Toogie"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3158087,
+    "annotator_login": "Euroshopper",
+    "api_path": "/referents/14990095",
+    "classification": "accepted",
+    "fragment": "Electricity",
+    "id": 14990095,
+    "is_description": true,
+    "path": "/14990095/Silk-city-and-dua-lipa-electricity/Electricity",
+    "range": {
+     "content": "Electricity"
+    },
+    "song_id": 3843671,
+    "url": "https://genius.com/14990095/Silk-city-and-dua-lipa-electricity/Electricity",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3843671",
+     "client_timestamps": {
+      "updated_by_human_at": 1653683647,
+      "lyrics_updated_at": 1557241415
+     },
+     "context": "Silk City & Dua Lipa",
+     "id": 3843671,
+     "image_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.1000x1000x1.png",
+     "link_title": "Electricity by\u00a0Silk\u00a0City & Dua Lipa",
+     "title": "Electricity",
+     "type": "Song",
+     "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14990095",
+      "body": {
+       "plain": "\u201cElectricity\u201d is the long awaited collaboration between production duo Silk City (consisting of industry veterans Mark Ronson & Diplo) and Dua Lipa.\n\nThe song was first teased when Dua Lipa was seen in the studio with Silk City in January 2018, and confirmed after Silk City dropped their debut single \u201cOnly Can Get Better\u201d in May.\n\nMark Ronson later revealed the title in an interview with The Times magazine, complimenting Dua Lipa\u2019s voice;\n\nShe has this deep, soulful voice that harkens back to gospel house.\n\n\u201cElectricity\u201d is expected to be the lead single from their debut EP/album and will be included in Dua Lipa\u2019s debut album repack."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14990095,
+      "pinned": false,
+      "share_url": "https://genius.com/14990095",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14990095/Silk-city-and-dua-lipa-electricity/Electricity",
+      "verified": false,
+      "votes_total": 35,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.5981308411214953,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3158087",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6ed5391d2f00a48389569ca54afb6887",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6ed5391d2f00a48389569ca54afb6887",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6ed5391d2f00a48389569ca54afb6887",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6ed5391d2f00a48389569ca54afb6887",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/wbqipkc7nwr",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3158087,
+         "iq": 10006,
+         "login": "Euroshopper",
+         "name": "Euroshopper",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Euroshopper",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.308411214953271,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5466816",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/83bd3eadf633a4ad25d4e67b5cd05f88",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/83bd3eadf633a4ad25d4e67b5cd05f88",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/83bd3eadf633a4ad25d4e67b5cd05f88",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/83bd3eadf633a4ad25d4e67b5cd05f88",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1d48b87123005e73f32462e523b8d225.1000x165x1.png",
+         "human_readable_role_for_display": "Editor",
+         "id": 5466816,
+         "iq": 23104,
+         "login": "Ayrias",
+         "name": "Ayrias",
+         "role_for_display": "editor",
+         "url": "https://genius.com/Ayrias",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.08411214953271028,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2800699",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9eba4eebcbdb9ffe107faf09b9a4d39f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9eba4eebcbdb9ffe107faf09b9a4d39f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9eba4eebcbdb9ffe107faf09b9a4d39f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9eba4eebcbdb9ffe107faf09b9a4d39f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9eba4eebcbdb9ffe107faf09b9a4d39f",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2800699,
+         "iq": 5995,
+         "login": "Midaff",
+         "name": "Midaff",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Midaff",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.009345794392523364,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5134310",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/f67467277bc21ebad814ad4787d57818",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/f67467277bc21ebad814ad4787d57818",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/f67467277bc21ebad814ad4787d57818",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/f67467277bc21ebad814ad4787d57818",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lmr1lkqz7z",
+         "human_readable_role_for_display": "Editor",
+         "id": 5134310,
+         "iq": 88266,
+         "login": "davidss01",
+         "name": "davidss01",
+         "role_for_display": "editor",
+         "url": "https://genius.com/davidss01",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/389740",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/avatars/medium/85a8e5393768f0f83c65026a432f3313",
+    "human_readable_role_for_display": "Moderator",
+    "id": 389740,
+    "iq": 1400475,
+    "login": "ewokABdevito",
+    "name": "EwokABdevito",
+    "role_for_display": "moderator",
+    "url": "https://genius.com/ewokABdevito",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:5N4erncE7kuUccm7zEmwzk",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Q4-jOuHO-z4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1481552",
+     "header_image_url": "https://images.genius.com/112c8264f14469e081e5b8ec69708ec7.333x500x1.jpg",
+     "id": 1481552,
+     "image_url": "https://images.genius.com/fb4e0c3b7b2d74531424798459aa7f05.333x333x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Silk City",
+     "url": "https://genius.com/artists/Silk-city"
+    },
+    {
+     "api_path": "/artists/412137",
+     "header_image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "id": 412137,
+     "image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jr. Blender",
+     "url": "https://genius.com/artists/Jr-blender"
+    },
+    {
+     "api_path": "/artists/665457",
+     "header_image_url": "https://images.genius.com/8567e85e157ace444ea018b220177a90.1000x1000x1.jpg",
+     "id": 665457,
+     "image_url": "https://images.genius.com/8567e85e157ace444ea018b220177a90.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jarami",
+     "url": "https://genius.com/artists/Jarami",
+     "iq": 112
+    },
+    {
+     "api_path": "/artists/1009859",
+     "header_image_url": "https://images.genius.com/e956f7ff9ebb8b72186fa59eb5897235.714x299x1.png",
+     "id": 1009859,
+     "image_url": "https://images.genius.com/cb84d4e6c7d80bfd48a4bdf96937c14e.401x401x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Picard Brothers",
+     "url": "https://genius.com/artists/Picard-brothers"
+    },
+    {
+     "api_path": "/artists/482806",
+     "header_image_url": "https://images.genius.com/d666aed640b8f3815b0f20430d77d18c.1000x1000x1.jpg",
+     "id": 482806,
+     "image_url": "https://images.genius.com/1d933b6410c16b9cf055d0ed2831dbcf.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Riton",
+     "url": "https://genius.com/artists/Riton"
+    },
+    {
+     "api_path": "/artists/191105",
+     "header_image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+     "id": 191105,
+     "image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Alex Metric",
+     "url": "https://genius.com/artists/Alex-metric"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6594742",
+       "artist_names": "RoadTrip",
+       "full_title": "Electricity by\u00a0RoadTrip",
+       "header_image_thumbnail_url": "https://images.genius.com/50cbe00b53dfa59c70030184e8fac19f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/50cbe00b53dfa59c70030184e8fac19f.640x640x1.jpg",
+       "id": 6594742,
+       "language": "en",
+       "lyrics_owner_id": 10725849,
+       "lyrics_state": "complete",
+       "path": "/Roadtrip-electricity-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Roadtrip-electricity-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 9
+       },
+       "release_date_for_display": "December 9, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 9, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/50cbe00b53dfa59c70030184e8fac19f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/50cbe00b53dfa59c70030184e8fac19f.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity",
+       "title_with_featured": "Electricity",
+       "url": "https://genius.com/Roadtrip-electricity-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1173245",
+        "header_image_url": "https://images.genius.com/fcd2b164cf05b5e6b50bb7b9e8f24dca.1000x786x1.jpg",
+        "id": 1173245,
+        "image_url": "https://images.genius.com/50cbe00b53dfa59c70030184e8fac19f.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "RoadTrip",
+        "url": "https://genius.com/artists/Roadtrip"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4554655",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Electricity by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f8ed9f2c867a969a4d43f601610b106e.1000x1000x1.jpg",
+       "id": 4554655,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-electricity-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-electricity-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 4,
+        "day": 5
+       },
+       "release_date_for_display": "April 5, 2019",
+       "release_date_with_abbreviated_month_for_display": "Apr. 5, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8b1baa74ad31530d09442ed90ed886f5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8b1baa74ad31530d09442ed90ed886f5.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity",
+       "title_with_featured": "Electricity",
+       "url": "https://genius.com/Kidz-bop-kids-electricity-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4077501",
+       "artist_names": "Silk City & Dua Lipa",
+       "full_title": "Electricity (MK Remix) by\u00a0Silk\u00a0City & Dua Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.300x300x1.png",
+       "header_image_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.1000x1000x1.png",
+       "id": 4077501,
+       "language": "en",
+       "lyrics_owner_id": 2383145,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics",
+       "pyongs_count": 4,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 9
+       },
+       "release_date_for_display": "November 9, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity (MK Remix)",
+       "title_with_featured": "Electricity (MK Remix)",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4029528",
+       "artist_names": "Silk City & Dua Lipa",
+       "full_title": "Electricity (Acoustic) by\u00a0Silk\u00a0City & Dua Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.600x600x1.jpg",
+       "id": 4029528,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-acoustic-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 19
+       },
+       "release_date_for_display": "October 19, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 19, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity (Acoustic)",
+       "title_with_featured": "Electricity (Acoustic)",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5723479",
+       "artist_names": "Dua Lipa",
+       "full_title": "Electricity (StarFox Remix) by\u00a0Dua\u00a0Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/ffe6f7a1a6703089005d2c2c36f5fd4c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ffe6f7a1a6703089005d2c2c36f5fd4c.1000x1000x1.jpg",
+       "id": 5723479,
+       "language": "en",
+       "lyrics_owner_id": 8367342,
+       "lyrics_state": "complete",
+       "path": "/Dua-lipa-electricity-starfox-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dua-lipa-electricity-starfox-remix-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 7,
+        "day": 2
+       },
+       "release_date_for_display": "July 2, 2020",
+       "release_date_with_abbreviated_month_for_display": "Jul. 2, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ffe6f7a1a6703089005d2c2c36f5fd4c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ffe6f7a1a6703089005d2c2c36f5fd4c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity (StarFox Remix)",
+       "title_with_featured": "Electricity (StarFox Remix)",
+       "url": "https://genius.com/Dua-lipa-electricity-starfox-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/555561",
+        "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+        "id": 555561,
+        "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dua Lipa",
+        "url": "https://genius.com/artists/Dua-lipa",
+        "iq": 2406
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4092584",
+       "artist_names": "Silk City & Dua Lipa (Ft. Alex Metric)",
+       "full_title": "Electricity (Alex Metric Remix) by\u00a0Silk\u00a0City & Dua Lipa (Ft.\u00a0Alex\u00a0Metric)",
+       "header_image_thumbnail_url": "https://images.genius.com/f97098c863a2bcf6f8ee1a2f5b155b19.300x300x1.png",
+       "header_image_url": "https://images.genius.com/f97098c863a2bcf6f8ee1a2f5b155b19.1000x1000x1.png",
+       "id": 4092584,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-alex-metric-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-alex-metric-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f97098c863a2bcf6f8ee1a2f5b155b19.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/f97098c863a2bcf6f8ee1a2f5b155b19.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity (Alex Metric Remix)",
+       "title_with_featured": "Electricity (Alex Metric Remix) (Ft.\u00a0Alex\u00a0Metric)",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-alex-metric-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/191105",
+         "header_image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+         "id": 191105,
+         "image_url": "https://images.genius.com/537390711789f68c705903174413a2a4.1000x667x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Alex Metric",
+         "url": "https://genius.com/artists/Alex-metric"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4061123",
+       "artist_names": "Silk City & Dua Lipa",
+       "full_title": "Electricity (Ten Ven Remix) by\u00a0Silk\u00a0City & Dua Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/6d83a08d2a1577abd2132eb44ba37136.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6d83a08d2a1577abd2132eb44ba37136.600x600x1.jpg",
+       "id": 4061123,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-ten-ven-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-ten-ven-remix-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6d83a08d2a1577abd2132eb44ba37136.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6d83a08d2a1577abd2132eb44ba37136.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Electricity (Ten Ven Remix)",
+       "title_with_featured": "Electricity (Ten Ven Remix)",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-ten-ven-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4022193",
+       "artist_names": "Genius Traducciones al Espa\u00f1ol",
+       "full_title": "Silk City & Dua Lipa - Electricity (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+       "header_image_thumbnail_url": "https://images.genius.com/786bb2ab7b838ebfcc61d023bedd8cb1.300x198x1.jpg",
+       "header_image_url": "https://images.genius.com/786bb2ab7b838ebfcc61d023bedd8cb1.1000x661x1.jpg",
+       "id": 4022193,
+       "language": "es",
+       "lyrics_owner_id": 4811154,
+       "lyrics_state": "complete",
+       "path": "/Genius-traducciones-al-espanol-silk-city-and-dua-lipa-electricity-traduccion-al-espanol-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-silk-city-and-dua-lipa-electricity-traduccion-al-espanol-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 7
+       },
+       "release_date_for_display": "September 7, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 7, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d95ed9bc6374fc51f7b8930de0d4abe9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d95ed9bc6374fc51f7b8930de0d4abe9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Silk City & Dua Lipa - Electricity (Traducci\u00f3n al Espa\u00f1ol)",
+       "title_with_featured": "Silk City & Dua Lipa - Electricity (Traducci\u00f3n al Espa\u00f1ol)",
+       "url": "https://genius.com/Genius-traducciones-al-espanol-silk-city-and-dua-lipa-electricity-traduccion-al-espanol-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1376254",
+        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+        "id": 1376254,
+        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Traducciones al Espa\u00f1ol",
+        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/4022193",
+     "id": 4022193,
+     "language": "es",
+     "lyrics_state": "complete",
+     "path": "/Genius-traducciones-al-espanol-silk-city-and-dua-lipa-electricity-traduccion-al-espanol-lyrics",
+     "title": "Silk City & Dua Lipa - Electricity (Traducci\u00f3n al Espa\u00f1ol)",
+     "url": "https://genius.com/Genius-traducciones-al-espanol-silk-city-and-dua-lipa-electricity-traduccion-al-espanol-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/653933",
+     "header_image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "id": 653933,
+     "image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cl\u00e9ment Picard",
+     "url": "https://genius.com/artists/Clement-picard"
+    },
+    {
+     "api_path": "/artists/653932",
+     "header_image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "id": 653932,
+     "image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maxime Picard",
+     "url": "https://genius.com/artists/Maxime-picard"
+    },
+    {
+     "api_path": "/artists/555561",
+     "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+     "id": 555561,
+     "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dua Lipa",
+     "url": "https://genius.com/artists/Dua-lipa",
+     "iq": 2406
+    },
+    {
+     "api_path": "/artists/12908",
+     "header_image_url": "https://images.genius.com/7d691efeb0412b7a96597aa2e1dbfd1e.960x640x1.jpg",
+     "id": 12908,
+     "image_url": "https://images.genius.com/a5dfb8cc4e373238068b89a15b3194aa.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Diplo",
+     "url": "https://genius.com/artists/Diplo",
+     "iq": 4544
+    },
+    {
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1680892",
+     "header_image_url": "https://images.genius.com/7b1a310c341516707e35fd060a5a1c32.1000x166x1.jpg",
+     "id": 1680892,
+     "image_url": "https://images.genius.com/b7ee7b832e54b9cb8c26adc309b771e4.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Diana Gordon",
+     "url": "https://genius.com/artists/Diana-gordon"
+    },
+    {
+     "api_path": "/artists/130145",
+     "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+     "id": 130145,
+     "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Romy",
+     "url": "https://genius.com/artists/Romy"
+    },
+    {
+     "api_path": "/artists/412137",
+     "header_image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "id": 412137,
+     "image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jr. Blender",
+     "url": "https://genius.com/artists/Jr-blender"
+    },
+    {
+     "api_path": "/artists/993951",
+     "header_image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "id": 993951,
+     "image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Oh",
+     "url": "https://genius.com/artists/Jake-oh"
+    },
+    {
+     "api_path": "/artists/665466",
+     "header_image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "id": 665466,
+     "image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Dawod",
+     "url": "https://genius.com/artists/Rami-dawod"
+    }
+   ],
+   "artist": "Silk City & Dua Lipa",
+   "lyrics": "84 ContributorsTranslationsEspa\u00f1olElectricity Lyrics[Verse 1: Dua Lipa]\nFalling into you, baby\nEven electricity can't compare to what I feel\nWhen I\u2019m with you\nOoh, baby\nGiving up my ghost for you\nAnd now I'm see-through\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you've been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI\u2019ma love you differently\nI'll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nYou might also like[Verse 2: Dua Lipa]\nAll I see is you, lately\nWide awake and in my dreams\nI see your face so vividly\nI don't know what I'd do\nOoh, baby\nIf you only saw a friend in me\nI\u2019d be bittersweet\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you\u2019ve been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI'ma love you differently\nI\u2019ll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna let you know, I\u2019ll never let this feeling go\nThis love has no ceiling, I cannot deny\n[Bridge: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know, ooh\nI think I'm ready, baby\nI think I'm ready, now\nElectricity, I'm flowing in to you\nI feel electric, baby (I want it, I need it)\nSo electric, baby (This current between us)\nWanna let you know, let you know (This flow, this feeling tonight)\nI think I'm ready, baby (I want it, I need it)\nI think I'm ready, now (This current between us)\nElectricity, I'm flowing in to you (This flow, this feeling tonight)\n\n[Chorus: Dua Lipa]\nAnd even if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna        let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\n[Outro: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know\n(I want it, I need it)\nI think I'm ready, baby\n(This current between us)\nI think I'm ready, now\n(This flow, this feeling)\nElectricity (Woohoo)\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know\nI think I'm ready, baby\nI think I'm ready, now\nElectricity39Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4029528",
+   "artist_names": "Silk City & Dua Lipa",
+   "full_title": "Electricity (Acoustic) by\u00a0Silk\u00a0City & Dua Lipa",
+   "header_image_thumbnail_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.600x600x1.jpg",
+   "id": 4029528,
+   "language": "en",
+   "lyrics_owner_id": 3499648,
+   "lyrics_state": "complete",
+   "path": "/Silk-city-and-dua-lipa-electricity-acoustic-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 10,
+    "day": 19
+   },
+   "release_date_for_display": "October 19, 2018",
+   "release_date_with_abbreviated_month_for_display": "Oct. 19, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Electricity (Acoustic)",
+   "title_with_featured": "Electricity (Acoustic)",
+   "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1569564",
+    "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "id": 1569564,
+    "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Silk City & Dua Lipa",
+    "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+   },
+   "apple_music_id": "1440797160",
+   "apple_music_player_url": "https://genius.com/songs/4029528/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4029528' class='rg_embed_link' data-song-id='4029528'>Read <a href='https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-lyrics'>\u201cElectricity (Acoustic)\u201d by Silk\u00a0City & Dua Lipa</a> on Genius</div> <script crossorigin src='//genius.com/songs/4029528/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-10-19",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3499648,
+    "annotator_login": "AlexanderJamesM",
+    "api_path": "/referents/15608710",
+    "classification": "needs_exegesis",
+    "fragment": "Electricity (Acoustic)",
+    "id": 15608710,
+    "is_description": true,
+    "path": "/15608710/Silk-city-and-dua-lipa-electricity-acoustic/Electricity-acoustic",
+    "range": {
+     "content": "Electricity (Acoustic)"
+    },
+    "song_id": 4029528,
+    "url": "https://genius.com/15608710/Silk-city-and-dua-lipa-electricity-acoustic/Electricity-acoustic",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4029528",
+     "client_timestamps": {
+      "updated_by_human_at": 1615549518,
+      "lyrics_updated_at": 1539920335
+     },
+     "context": "Silk City & Dua Lipa",
+     "id": 4029528,
+     "image_url": "https://images.genius.com/837a9d870ff5f2492d9e5aed15c442c4.600x600x1.jpg",
+     "link_title": "Electricity (Acoustic) by\u00a0Silk\u00a0City & Dua Lipa",
+     "title": "Electricity (Acoustic)",
+     "type": "Song",
+     "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-acoustic-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15608710",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15608710,
+      "pinned": false,
+      "share_url": "https://genius.com/15608710",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15608710/Silk-city-and-dua-lipa-electricity-acoustic/Electricity-acoustic",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3499648",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5409e988fe3af98ed4c12f0c8d8b5375.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 3499648,
+         "iq": 1406233,
+         "login": "AlexanderJamesM",
+         "name": "AlexanderJamesM",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AlexanderJamesM",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "diplo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/diplo/silk-city-dua-lipa-feat"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3uPxTSv7dSE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1481552",
+     "header_image_url": "https://images.genius.com/112c8264f14469e081e5b8ec69708ec7.333x500x1.jpg",
+     "id": 1481552,
+     "image_url": "https://images.genius.com/fb4e0c3b7b2d74531424798459aa7f05.333x333x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Silk City",
+     "url": "https://genius.com/artists/Silk-city"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3843671",
+       "artist_names": "Silk City & Dua Lipa",
+       "full_title": "Electricity by\u00a0Silk\u00a0City & Dua Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.500x500x1.jpg",
+       "id": 3843671,
+       "language": "en",
+       "lyrics_owner_id": 3958233,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-lyrics",
+       "pyongs_count": 39,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 7
+       },
+       "release_date_for_display": "September 7, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 7, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 458559
+       },
+       "title": "Electricity",
+       "title_with_featured": "Electricity",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/653933",
+     "header_image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "id": 653933,
+     "image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cl\u00e9ment Picard",
+     "url": "https://genius.com/artists/Clement-picard"
+    },
+    {
+     "api_path": "/artists/555561",
+     "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+     "id": 555561,
+     "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dua Lipa",
+     "url": "https://genius.com/artists/Dua-lipa",
+     "iq": 2406
+    },
+    {
+     "api_path": "/artists/653932",
+     "header_image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "id": 653932,
+     "image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maxime Picard",
+     "url": "https://genius.com/artists/Maxime-picard"
+    },
+    {
+     "api_path": "/artists/665466",
+     "header_image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "id": 665466,
+     "image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Dawod",
+     "url": "https://genius.com/artists/Rami-dawod"
+    },
+    {
+     "api_path": "/artists/993951",
+     "header_image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "id": 993951,
+     "image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Oh",
+     "url": "https://genius.com/artists/Jake-oh"
+    },
+    {
+     "api_path": "/artists/412137",
+     "header_image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "id": 412137,
+     "image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jr. Blender",
+     "url": "https://genius.com/artists/Jr-blender"
+    },
+    {
+     "api_path": "/artists/130145",
+     "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+     "id": 130145,
+     "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Romy",
+     "url": "https://genius.com/artists/Romy"
+    },
+    {
+     "api_path": "/artists/1680892",
+     "header_image_url": "https://images.genius.com/7b1a310c341516707e35fd060a5a1c32.1000x166x1.jpg",
+     "id": 1680892,
+     "image_url": "https://images.genius.com/b7ee7b832e54b9cb8c26adc309b771e4.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Diana Gordon",
+     "url": "https://genius.com/artists/Diana-gordon"
+    },
+    {
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/12908",
+     "header_image_url": "https://images.genius.com/7d691efeb0412b7a96597aa2e1dbfd1e.960x640x1.jpg",
+     "id": 12908,
+     "image_url": "https://images.genius.com/a5dfb8cc4e373238068b89a15b3194aa.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Diplo",
+     "url": "https://genius.com/artists/Diplo",
+     "iq": 4544
+    }
+   ],
+   "artist": "Silk City & Dua Lipa",
+   "lyrics": "4 ContributorsElectricity (Acoustic) Lyrics[Verse 1: Dua Lipa]\nFalling into you, baby\nEven electricity can't compare to what I feel\nWhen I\u2019m with you\nOoh, baby\nGiving up my ghost for you\nAnd now I'm see-through\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you've been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI\u2019ma love you differently\nI'll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you\nYou know I wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nYou might also like[Verse 2: Dua Lipa]\nAll I see is you, lately\nWide awake and in my dreams\nI see your face so vividly\nI don't know what I'd do\nOoh, baby\nIf you only saw a friend in me\nI\u2019d be bittersweet\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you\u2019ve been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI'ma love you differently\nI\u2019ll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you\nYou know I wanna to let you know, I\u2019ll never let this feeling go\nThis love has no ceiling, I cannot deny\n[Bridge: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know, ooh\nI think I'm ready, baby\nI think I'm ready, now\nElectricity, I'm falling in to you\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know\nI think I'm ready, baby\nI think I'm ready, now\nElectricity, I'm flowing into you\n\n[Chorus: Dua Lipa]\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could\nI wouldn't turn on you\nAnd I would stop the world for you\nYou know I wanna to let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\n[Outro: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know\nI think I'm ready, baby\nI think I'm ready, now\nElectricity\nI'm flowing into youEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4077501",
+   "artist_names": "Silk City & Dua Lipa",
+   "full_title": "Electricity (MK Remix) by\u00a0Silk\u00a0City & Dua Lipa",
+   "header_image_thumbnail_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.300x300x1.png",
+   "header_image_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.1000x1000x1.png",
+   "id": 4077501,
+   "language": "en",
+   "lyrics_owner_id": 2383145,
+   "lyrics_state": "complete",
+   "path": "/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 11,
+    "day": 9
+   },
+   "release_date_for_display": "November 9, 2018",
+   "release_date_with_abbreviated_month_for_display": "Nov. 9, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Electricity (MK Remix)",
+   "title_with_featured": "Electricity (MK Remix)",
+   "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1569564",
+    "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "id": 1569564,
+    "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Silk City & Dua Lipa",
+    "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+   },
+   "apple_music_id": "1444756493",
+   "apple_music_player_url": "https://genius.com/songs/4077501/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4077501' class='rg_embed_link' data-song-id='4077501'>Read <a href='https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics'>\u201cElectricity (MK Remix)\u201d by Silk\u00a0City & Dua Lipa</a> on Genius</div> <script crossorigin src='//genius.com/songs/4077501/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-11-09",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/30372",
+       "header_image_url": "https://images.genius.com/37994e562c585d846c732f6451cd0cf7.400x400x1.jpg",
+       "id": 30372,
+       "image_url": "https://images.genius.com/eda4152e91c56ea7ce8e17fbafadd081.400x400x1.jpg",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Columbia Records",
+       "url": "https://genius.com/artists/Columbia-records",
+       "iq": 129
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2383145,
+    "annotator_login": "itischris",
+    "api_path": "/referents/15754455",
+    "classification": "needs_exegesis",
+    "fragment": "Electricity (MK Remix)",
+    "id": 15754455,
+    "is_description": true,
+    "path": "/15754455/Silk-city-and-dua-lipa-electricity-mk-remix/Electricity-mk-remix",
+    "range": {
+     "content": "Electricity (MK Remix)"
+    },
+    "song_id": 4077501,
+    "url": "https://genius.com/15754455/Silk-city-and-dua-lipa-electricity-mk-remix/Electricity-mk-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4077501",
+     "client_timestamps": {
+      "updated_by_human_at": 1659208160,
+      "lyrics_updated_at": 1541705487
+     },
+     "context": "Silk City & Dua Lipa",
+     "id": 4077501,
+     "image_url": "https://images.genius.com/bb22dde5105d518f4f2cd9ab3575754b.1000x1000x1.png",
+     "link_title": "Electricity (MK Remix) by\u00a0Silk\u00a0City & Dua Lipa",
+     "title": "Electricity (MK Remix)",
+     "type": "Song",
+     "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-mk-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/15754455",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 15754455,
+      "pinned": false,
+      "share_url": "https://genius.com/15754455",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/15754455/Silk-city-and-dua-lipa-electricity-mk-remix/Electricity-mk-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2383145",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ba2a2076090149b83a75db755329f0b0",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/c53fb890c7bd0de99e021a3a0c825b9a.757x287x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 2383145,
+         "iq": 601613,
+         "login": "itischris",
+         "name": "\u200bitischris",
+         "role_for_display": "editor",
+         "url": "https://genius.com/itischris",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4guXlYAa6mQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/14318",
+     "header_image_url": "https://images.genius.com/faec9307f5b0c0cc79b5c8da9cd5a7bd.500x500x1.jpg",
+     "id": 14318,
+     "image_url": "https://images.genius.com/316bd4dad422e32c8314af59eeac8c4a.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "MK",
+     "url": "https://genius.com/artists/Mk"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3843671",
+       "artist_names": "Silk City & Dua Lipa",
+       "full_title": "Electricity by\u00a0Silk\u00a0City & Dua Lipa",
+       "header_image_thumbnail_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/187ff601a891268eb9da9fd4bda6f78f.500x500x1.jpg",
+       "id": 3843671,
+       "language": "en",
+       "lyrics_owner_id": 3958233,
+       "lyrics_state": "complete",
+       "path": "/Silk-city-and-dua-lipa-electricity-lyrics",
+       "pyongs_count": 39,
+       "relationships_index_url": "https://genius.com/Silk-city-and-dua-lipa-electricity-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 9,
+        "day": 7
+       },
+       "release_date_for_display": "September 7, 2018",
+       "release_date_with_abbreviated_month_for_display": "Sep. 7, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d81d1edfa42e6ac0c89d205bc05c4708.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 458559
+       },
+       "title": "Electricity",
+       "title_with_featured": "Electricity",
+       "url": "https://genius.com/Silk-city-and-dua-lipa-electricity-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1569564",
+        "header_image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "id": 1569564,
+        "image_url": "https://images.genius.com/63725bdd1d82bbd949777ec6fb7e7e5f.419x419x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Silk City & Dua Lipa",
+        "url": "https://genius.com/artists/Silk-city-and-dua-lipa"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/653932",
+     "header_image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "id": 653932,
+     "image_url": "https://images.genius.com/9adf7e00ba48fbdb5f456aee52ca3733.213x213x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maxime Picard",
+     "url": "https://genius.com/artists/Maxime-picard"
+    },
+    {
+     "api_path": "/artists/653933",
+     "header_image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "id": 653933,
+     "image_url": "https://images.genius.com/0f953edb259eed7c86581a5d7ba1ac8c.199x199x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cl\u00e9ment Picard",
+     "url": "https://genius.com/artists/Clement-picard"
+    },
+    {
+     "api_path": "/artists/555561",
+     "header_image_url": "https://images.genius.com/244e8cebb93a5c793ea6a687578d3cae.1000x333x1.jpg",
+     "id": 555561,
+     "image_url": "https://images.genius.com/dd37b530cf20f2ce699f91e02a476a8a.847x847x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Dua Lipa",
+     "url": "https://genius.com/artists/Dua-lipa",
+     "iq": 2406
+    },
+    {
+     "api_path": "/artists/12908",
+     "header_image_url": "https://images.genius.com/7d691efeb0412b7a96597aa2e1dbfd1e.960x640x1.jpg",
+     "id": 12908,
+     "image_url": "https://images.genius.com/a5dfb8cc4e373238068b89a15b3194aa.1000x1000x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Diplo",
+     "url": "https://genius.com/artists/Diplo",
+     "iq": 4544
+    },
+    {
+     "api_path": "/artists/8231",
+     "header_image_url": "https://images.genius.com/f2554b925666456a51ce3405d6df42d3.1000x562x1.jpg",
+     "id": 8231,
+     "image_url": "https://images.genius.com/25cd092ec5a455956e17fc21cc1356e1.494x494x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Mark Ronson",
+     "url": "https://genius.com/artists/Mark-ronson",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1680892",
+     "header_image_url": "https://images.genius.com/7b1a310c341516707e35fd060a5a1c32.1000x166x1.jpg",
+     "id": 1680892,
+     "image_url": "https://images.genius.com/b7ee7b832e54b9cb8c26adc309b771e4.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Diana Gordon",
+     "url": "https://genius.com/artists/Diana-gordon"
+    },
+    {
+     "api_path": "/artists/130145",
+     "header_image_url": "https://images.genius.com/22c31821fe15ee36e838aead8350d68a.1000x333x1.jpg",
+     "id": 130145,
+     "image_url": "https://images.genius.com/7c3068523ecce27173ecd10383b4cc5e.959x959x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Romy",
+     "url": "https://genius.com/artists/Romy"
+    },
+    {
+     "api_path": "/artists/412137",
+     "header_image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "id": 412137,
+     "image_url": "https://images.genius.com/52a046e93831673d5c359ba5364bc09a.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jr. Blender",
+     "url": "https://genius.com/artists/Jr-blender"
+    },
+    {
+     "api_path": "/artists/993951",
+     "header_image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "id": 993951,
+     "image_url": "https://images.genius.com/27f8e745d80135d799d95407471e0444.453x453x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake Oh",
+     "url": "https://genius.com/artists/Jake-oh"
+    },
+    {
+     "api_path": "/artists/665466",
+     "header_image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "id": 665466,
+     "image_url": "https://images.genius.com/b3e90521ff1c88f996dc21b2228602dd.613x613x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Rami Dawod",
+     "url": "https://genius.com/artists/Rami-dawod"
+    }
+   ],
+   "artist": "Silk City & Dua Lipa",
+   "lyrics": "4 ContributorsElectricity (MK Remix) Lyrics[Verse 1: Dua Lipa]\nFalling into you, baby\nEven electricity can't compare to what I feel\nWhen I'm with you\nOoh, baby\nGiving up my ghost for you\nAnd now I'm see-through\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you've been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI'ma love you differently\nI'll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could I wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could I wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nYou might also like[Verse 2: Dua Lipa]\nAll I see is you, lately\nWide awake and in my dreams\nI see your face so vividly\nI don't know what I'd do\nOoh, baby\nIf you only saw a friend in me\nI'd be bittersweet\n\n[Pre-Chorus: Dua Lipa]\nYou give me a feeling, feeling so strong\nI know you've been treating, treating yourself wrong\nSo let me care for you\nOoh, baby\nI'ma love you differently\nI'll give you electricity\nGive it to you\n\n[Chorus: Dua Lipa]\nAnd even if I could I wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could I wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\n[Bridge: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know, ooh\nI think I'm ready, baby\nI think I'm ready, now\nElectricity, I'm flowing in to you\nI feel electric, baby (I want it, I need it)\nSo electric, baby (This current between us)\nWanna let you know, let you know (This flow, this feeling tonight)\nI think I'm ready, baby (I want it, I need it)\nI think I'm ready, now (This current between us)\nElectricity, I'm flowing in to you\n\n[Chorus: Dua Lipa]\nAnd even if I could I wouldn't turn on you\nAnd I would stop the world for you, you know\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\nEven if I could I wouldn't turn on you\nAnd I would stop the world for you and I\nI wanna let you know, I'll never let this feeling go\nThis love has no ceiling, I cannot deny\n\n[Outro: Dua Lipa]\nI feel electric, baby\nSo electric, baby\nWanna let you know, let you know\n(I want it, I need it)\nI think I'm ready, baby\n(This current between us)\nI think I'm ready, now\n(This flow, this feeling)\nElectricity (Woohoo)\nI feel electric, baby4Embed"
+  }
+ ]
+}

@@ -1,0 +1,2228 @@
+{
+ "alternate_names": [
+  "Mitsuki Miyawaki",
+  "Mitski Laycock",
+  "Mitski Miyawaki"
+ ],
+ "api_path": "/artists/265258",
+ "description": {
+  "plain": "Mitsuki Miyawaki, known mononymously as Mitski, is a Japanese-American singer-songwriter.\n\nHer sound ranges from indie-rock, indie-pop, art pop, pop, and alternative."
+ },
+ "facebook_name": "MitskiLeaks",
+ "followers_count": 1333,
+ "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+ "id": 265258,
+ "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+ "instagram_name": "mitskileaks",
+ "is_meme_verified": true,
+ "is_verified": true,
+ "name": "Mitski",
+ "translation_artist": false,
+ "twitter_name": "mitskileaks",
+ "url": "https://genius.com/artists/Mitski",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 2979,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 4556540,
+  "annotator_login": "bliplox",
+  "api_path": "/referents/7046475",
+  "classification": "accepted",
+  "fragment": "Mitski",
+  "id": 7046475,
+  "is_description": true,
+  "path": "/7046475/Mitski/Mitski",
+  "range": {
+   "content": "Mitski"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7046475/Mitski/Mitski",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/265258",
+   "context": null,
+   "id": 265258,
+   "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+   "link_title": "Mitski",
+   "title": "Mitski",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mitski"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7046475",
+    "body": {
+     "plain": "Mitsuki Miyawaki, known mononymously as Mitski, is a Japanese-American singer-songwriter.\n\nHer sound ranges from indie-rock, indie-pop, art pop, pop, and alternative."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 7046475,
+    "pinned": false,
+    "share_url": "https://genius.com/7046475",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/7046475/Mitski/Mitski",
+    "verified": false,
+    "votes_total": 64,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.33333333333333337,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/7334406",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9ae3253dccb4c5505ca2d514a5d2fa58",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9ae3253dccb4c5505ca2d514a5d2fa58",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9ae3253dccb4c5505ca2d514a5d2fa58",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9ae3253dccb4c5505ca2d514a5d2fa58",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/9ae3253dccb4c5505ca2d514a5d2fa58",
+       "human_readable_role_for_display": "Contributor",
+       "id": 7334406,
+       "iq": 1753,
+       "login": "tootsie_rolo",
+       "name": "tootsie_rolo",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/tootsie_rolo",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.28571428571428575,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1168838",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/e40ef7888531b75304a732f69af4fd07",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/e40ef7888531b75304a732f69af4fd07",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/e40ef7888531b75304a732f69af4fd07",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/e40ef7888531b75304a732f69af4fd07",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/e40ef7888531b75304a732f69af4fd07",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1168838,
+       "iq": 3624,
+       "login": "izanorussia",
+       "name": "izanorussia",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/izanorussia",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.19047619047619047,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4556540",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+       "human_readable_role_for_display": "Editor",
+       "id": 4556540,
+       "iq": 79260,
+       "login": "bliplox",
+       "name": "bliplox",
+       "role_for_display": "editor",
+       "url": "https://genius.com/bliplox",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.14285714285714288,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/4684803",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ghqz3p5clv",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ghqz3p5clv",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ghqz3p5clv",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/3ghqz3p5clv",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/7wm6jmignqe",
+       "human_readable_role_for_display": "Editor",
+       "id": 4684803,
+       "iq": 24828,
+       "login": "rusholmeruffian",
+       "name": "rusholmeruffian",
+       "role_for_display": "editor",
+       "url": "https://genius.com/rusholmeruffian",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.047619047619047616,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/20098745",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zxe0edgvo8a",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zxe0edgvo8a",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zxe0edgvo8a",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/zxe0edgvo8a",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/6bug0m9vm5",
+       "human_readable_role_for_display": null,
+       "id": 20098745,
+       "iq": 168,
+       "login": "b1thusky",
+       "name": "b1thusky",
+       "role_for_display": null,
+       "url": "https://genius.com/b1thusky",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/6743089",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 6743089,
+  "iq": 2979,
+  "login": "mitski",
+  "name": "Mitski",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/mitski",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 14,
+   "api_path": "/songs/581363",
+   "artist_names": "Mitski",
+   "full_title": "First Love / Late Spring by\u00a0Mitski",
+   "header_image_thumbnail_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.608x608x1.jpg",
+   "id": 581363,
+   "language": "en",
+   "lyrics_owner_id": 450545,
+   "lyrics_state": "complete",
+   "path": "/Mitski-first-love-late-spring-lyrics",
+   "pyongs_count": 68,
+   "relationships_index_url": "https://genius.com/Mitski-first-love-late-spring-sample",
+   "release_date_components": {
+    "year": 2014,
+    "month": 5,
+    "day": 15
+   },
+   "release_date_for_display": "May 15, 2014",
+   "release_date_with_abbreviated_month_for_display": "May. 15, 2014",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.608x608x1.jpg",
+   "stats": {
+    "accepted_annotations": 9,
+    "contributors": 102,
+    "iq_earners": 100,
+    "transcribers": 4,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 922385
+   },
+   "title": "First Love / Late Spring",
+   "title_with_featured": "First Love / Late Spring",
+   "url": "https://genius.com/Mitski-first-love-late-spring-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/265258",
+    "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+    "id": 265258,
+    "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mitski",
+    "url": "https://genius.com/artists/Mitski",
+    "iq": 2979
+   },
+   "apple_music_id": "1070245510",
+   "apple_music_player_url": "https://genius.com/songs/581363/apple_music_player",
+   "description": {
+    "plain": "The title \u201cFirst Love/Late Spring\u201d is a juxtaposition, mirroring the turmoil of the song\u2019s themes of restlessness and unease. \u201cFirst love\u201d is a common theme in music, usually presented as something naive and innocent. \u201cLate spring\u201d, on the other hand, suggests the difficulties of the first love, as the youth of spring transitions to the harsh realities of summer."
+   },
+   "embed_content": "<div id='rg_embed_link_581363' class='rg_embed_link' data-song-id='581363'>Read <a href='https://genius.com/Mitski-first-love-late-spring-lyrics'>\u201cFirst Love / Late Spring\u201d by Mitski</a> on Genius</div> <script crossorigin src='//genius.com/songs/581363/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2014-05-15",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/126881",
+    "cover_art_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.608x608x1.jpg",
+    "full_title": "Bury Me at Makeout Creek by Mitski",
+    "id": 126881,
+    "name": "Bury Me at Makeout Creek",
+    "release_date_for_display": "November 11, 2014",
+    "url": "https://genius.com/albums/Mitski/Bury-me-at-makeout-creek",
+    "artist": {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3193982,
+    "annotator_login": "SkyePlows",
+    "api_path": "/referents/4379270",
+    "classification": "accepted",
+    "fragment": "First Love / Late Spring",
+    "id": 4379270,
+    "is_description": true,
+    "path": "/4379270/Mitski-first-love-late-spring/First-love-late-spring",
+    "range": {
+     "content": "First Love / Late Spring"
+    },
+    "song_id": 581363,
+    "url": "https://genius.com/4379270/Mitski-first-love-late-spring/First-love-late-spring",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/581363",
+     "client_timestamps": {
+      "updated_by_human_at": 1677657679,
+      "lyrics_updated_at": 1677657679
+     },
+     "context": "Mitski",
+     "id": 581363,
+     "image_url": "https://images.genius.com/8aafb91d485accd94ca130c8164393c7.608x608x1.jpg",
+     "link_title": "First Love / Late Spring by\u00a0Mitski",
+     "title": "First Love / Late Spring",
+     "type": "Song",
+     "url": "https://genius.com/Mitski-first-love-late-spring-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/4379270",
+      "body": {
+       "plain": "The title \u201cFirst Love/Late Spring\u201d is a juxtaposition, mirroring the turmoil of the song\u2019s themes of restlessness and unease. \u201cFirst love\u201d is a common theme in music, usually presented as something naive and innocent. \u201cLate spring\u201d, on the other hand, suggests the difficulties of the first love, as the youth of spring transitions to the harsh realities of summer."
+      },
+      "comment_count": 6,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 4379270,
+      "pinned": false,
+      "share_url": "https://genius.com/4379270",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/4379270/Mitski-first-love-late-spring/First-love-late-spring",
+      "verified": false,
+      "votes_total": 201,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.65,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6550762",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/158a27c7ac504aeaaad9d878226f711b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/158a27c7ac504aeaaad9d878226f711b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/158a27c7ac504aeaaad9d878226f711b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/158a27c7ac504aeaaad9d878226f711b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/158a27c7ac504aeaaad9d878226f711b",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6550762,
+         "iq": 398,
+         "login": "Stydney",
+         "name": "Stydney",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Stydney",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.25,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4556540",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+         "human_readable_role_for_display": "Editor",
+         "id": 4556540,
+         "iq": 79260,
+         "login": "bliplox",
+         "name": "bliplox",
+         "role_for_display": "editor",
+         "url": "https://genius.com/bliplox",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.1,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3193982",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/0a413e9c9b33ddf385e8099bda1ec702",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/0a413e9c9b33ddf385e8099bda1ec702",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/0a413e9c9b33ddf385e8099bda1ec702",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/0a413e9c9b33ddf385e8099bda1ec702",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/0a413e9c9b33ddf385e8099bda1ec702",
+         "human_readable_role_for_display": null,
+         "id": 3193982,
+         "iq": 182,
+         "login": "SkyePlows",
+         "name": "SkyePlows",
+         "role_for_display": null,
+         "url": "https://genius.com/SkyePlows",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=vnWCHFUgKLg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/960498",
+     "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+     "id": 960498,
+     "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Hyland",
+     "url": "https://genius.com/artists/Patrick-hyland"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7683433",
+       "artist_names": "That Whisper Again",
+       "full_title": "Pretty by\u00a0That\u00a0Whisper Again",
+       "header_image_thumbnail_url": "https://images.genius.com/88983effee00c544b69ceaead8b76a68.300x296x1.jpg",
+       "header_image_url": "https://images.genius.com/88983effee00c544b69ceaead8b76a68.474x467x1.jpg",
+       "id": 7683433,
+       "language": "en",
+       "lyrics_owner_id": 13662531,
+       "lyrics_state": "complete",
+       "path": "/That-whisper-again-pretty-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/That-whisper-again-pretty-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 18
+       },
+       "release_date_for_display": "February 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/88983effee00c544b69ceaead8b76a68.300x296x1.jpg",
+       "song_art_image_url": "https://images.genius.com/88983effee00c544b69ceaead8b76a68.474x467x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Pretty",
+       "title_with_featured": "Pretty",
+       "url": "https://genius.com/That-whisper-again-pretty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3032639",
+        "header_image_url": "https://images.genius.com/73cfd7ed31d681fdc4b00f702d41ed7a.828x828x1.jpg",
+        "id": 3032639,
+        "image_url": "https://images.genius.com/73cfd7ed31d681fdc4b00f702d41ed7a.828x828x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "That Whisper Again",
+        "url": "https://genius.com/artists/That-whisper-again"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8561704",
+       "artist_names": "Normie Girlfriend",
+       "full_title": "First Love Late Spring by\u00a0Normie\u00a0Girlfriend",
+       "header_image_thumbnail_url": "https://images.genius.com/d86feee647d5c45dd52d4fcd89ace75d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d86feee647d5c45dd52d4fcd89ace75d.1000x1000x1.jpg",
+       "id": 8561704,
+       "language": "en",
+       "lyrics_owner_id": 13167455,
+       "lyrics_state": "complete",
+       "path": "/Normie-girlfriend-first-love-late-spring-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Normie-girlfriend-first-love-late-spring-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 10,
+        "day": 28
+       },
+       "release_date_for_display": "October 28, 2022",
+       "release_date_with_abbreviated_month_for_display": "Oct. 28, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d86feee647d5c45dd52d4fcd89ace75d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d86feee647d5c45dd52d4fcd89ace75d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "First Love Late Spring",
+       "title_with_featured": "First Love Late Spring",
+       "url": "https://genius.com/Normie-girlfriend-first-love-late-spring-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2878276",
+        "header_image_url": "https://images.genius.com/55d181280a6bce390e09ff978149b804.670x657x1.jpg",
+        "id": 2878276,
+        "image_url": "https://images.genius.com/9f9dc49e70ea6350c4b3d4f584fa68f6.660x660x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Normie Girlfriend",
+        "url": "https://genius.com/artists/Normie-girlfriend"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8857251",
+       "artist_names": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+       "full_title": "First Love/ Late Spring (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039c\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7/ Greek Translation) by\u00a0Genius\u00a0Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+       "header_image_thumbnail_url": "https://images.genius.com/eb12914b89db02e1575fe051d9ed5a8a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/eb12914b89db02e1575fe051d9ed5a8a.316x316x1.jpg",
+       "id": 8857251,
+       "language": "el",
+       "lyrics_owner_id": 15898906,
+       "lyrics_state": "complete",
+       "path": "/Genius-greek-translations-first-love-late-spring-greek-translation-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-greek-translations-first-love-late-spring-greek-translation-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 11,
+        "day": 11
+       },
+       "release_date_for_display": "November 11, 2014",
+       "release_date_with_abbreviated_month_for_display": "Nov. 11, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/eb12914b89db02e1575fe051d9ed5a8a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/eb12914b89db02e1575fe051d9ed5a8a.316x316x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "First Love/ Late Spring (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039c\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7/ Greek Translation)",
+       "title_with_featured": "First Love/ Late Spring (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039c\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7/ Greek Translation)",
+       "url": "https://genius.com/Genius-greek-translations-first-love-late-spring-greek-translation-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2888256",
+        "header_image_url": "https://images.genius.com/486289a1b0406aa980b4959563ea2023.800x534x1.png",
+        "id": 2888256,
+        "image_url": "https://images.genius.com/81ccd80d01de5ed746632785c00d1c96.938x938x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Greek Translations (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ad\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)",
+        "url": "https://genius.com/artists/Genius-greek-translations"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/8857251",
+     "id": 8857251,
+     "language": "el",
+     "lyrics_state": "complete",
+     "path": "/Genius-greek-translations-first-love-late-spring-greek-translation-lyrics",
+     "title": "First Love/ Late Spring (\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039c\u03b5\u03c4\u03ac\u03c6\u03c1\u03b1\u03c3\u03b7/ Greek Translation)",
+     "url": "https://genius.com/Genius-greek-translations-first-love-late-spring-greek-translation-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   ],
+   "artist": "Mitski",
+   "lyrics": "102 ContributorsTranslations\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03acFirst Love / Late Spring Lyrics[Verse 1]\nThe black hole of the window where you sleep\nThe night breeze carries something sweet, a peach tree\nWild women don't get the blues, but I find that\nLately, I've been crying like a tall child\n\n[Chorus]\nSo please, hurry, leave me, I can't breathe\nPlease don't say you love me\n\u80f8\u304c\u306f\u3061\u5207\u308c\u305d\u3046\u3067\nOne word from you and I would\nJump off of this ledge I'm on, baby\nTell me, \"Don't\", so I can crawl back in\n[Verse 2]\nAnd I was so young when I behaved twenty-five\nYet now, I find I've grown into a tall child\nAnd I don't wanna go home yet\nLet me walk to the top of the big night sky\n\n[Chorus]\nPlease, hurry, leave me, I can't breathe\nPlease don't say you love me\n\u80f8\u304c\u306f\u3061\u5207\u308c\u305d\u3046\u3067\nOne word from you and I would\nJump off of this ledge I'm on, baby\nTell me, \"Don't\", so I can crawl back in\n[Instrumental Bridge]\n\n[Chorus]\nOne word from you and I would\nJump off of this ledge I'm on, baby\nTell me, \"Don't\", so I can crawl back in\n\n[Outro]\nPlease, hurry, leave me, I can't breatheYou might also like68Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/3718232",
+   "artist_names": "Mitski",
+   "full_title": "Washing Machine Heart by\u00a0Mitski",
+   "header_image_thumbnail_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.1000x1000x1.jpg",
+   "id": 3718232,
+   "language": "en",
+   "lyrics_owner_id": 4312453,
+   "lyrics_state": "complete",
+   "path": "/Mitski-washing-machine-heart-lyrics",
+   "pyongs_count": 66,
+   "relationships_index_url": "https://genius.com/Mitski-washing-machine-heart-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 8,
+    "day": 17
+   },
+   "release_date_for_display": "August 17, 2018",
+   "release_date_with_abbreviated_month_for_display": "Aug. 17, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 7,
+    "contributors": 88,
+    "iq_earners": 87,
+    "transcribers": 5,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 650461
+   },
+   "title": "Washing Machine Heart",
+   "title_with_featured": "Washing Machine Heart",
+   "url": "https://genius.com/Mitski-washing-machine-heart-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/265258",
+    "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+    "id": 265258,
+    "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mitski",
+    "url": "https://genius.com/artists/Mitski",
+    "iq": 2979
+   },
+   "apple_music_id": "1373892802",
+   "apple_music_player_url": "https://genius.com/songs/3718232/apple_music_player",
+   "description": {
+    "plain": "\u201cWashing Machine Heart\u201d, the twelfth track off Be the Cowboy, is sonically upbeat, but lyrically explores the \u201cmanic\u201d nature of Mitski\u2019s protagonist, who, in her words:\n\n\u2026is a person who\u2019s in me. It\u2019s just I\u2019m not this person all the time. It\u2019s this woman who feels powerless and overcompensates by exercising extreme control on herself and on her environment, and just trying to be powerful within her own limits of her body and who she is, but kind of just unraveling a little bit because the amount of control she\u2019s exercising on to herself maybe isn\u2019t healthy or isn\u2019t natural. There\u2019s something more warm and human inside that she\u2019s pushing down in order to appear strong to the world.\"\n\nThe heavy backbeat in the track may represent the clatter of a washing machine and how it parallels the feverish thrum of Mitski (or her protagonist)\u2019s heart."
+   },
+   "embed_content": "<div id='rg_embed_link_3718232' class='rg_embed_link' data-song-id='3718232'>Read <a href='https://genius.com/Mitski-washing-machine-heart-lyrics'>\u201cWashing Machine Heart\u201d by Mitski</a> on Genius</div> <script crossorigin src='//genius.com/songs/3718232/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-08-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/429216",
+    "cover_art_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.1000x1000x1.jpg",
+    "full_title": "Be the Cowboy by Mitski",
+    "id": 429216,
+    "name": "Be the Cowboy",
+    "release_date_for_display": "August 17, 2018",
+    "url": "https://genius.com/albums/Mitski/Be-the-cowboy",
+    "artist": {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performer",
+     "artists": [
+      {
+       "api_path": "/artists/265258",
+       "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+       "id": 265258,
+       "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Mitski",
+       "url": "https://genius.com/artists/Mitski",
+       "iq": 2979
+      },
+      {
+       "api_path": "/artists/960498",
+       "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+       "id": 960498,
+       "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrick Hyland",
+       "url": "https://genius.com/artists/Patrick-hyland"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/638693",
+       "header_image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+       "id": 638693,
+       "image_url": "https://images.genius.com/8fbd4fbd8010c567373916fd820914b2.887x768x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ted Jensen",
+       "url": "https://genius.com/artists/Ted-jensen"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4556540,
+    "annotator_login": "bliplox",
+    "api_path": "/referents/14560405",
+    "classification": "accepted",
+    "fragment": "Washing Machine Heart",
+    "id": 14560405,
+    "is_description": true,
+    "path": "/14560405/Mitski-washing-machine-heart/Washing-machine-heart",
+    "range": {
+     "content": "Washing Machine Heart"
+    },
+    "song_id": 3718232,
+    "url": "https://genius.com/14560405/Mitski-washing-machine-heart/Washing-machine-heart",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3718232",
+     "client_timestamps": {
+      "updated_by_human_at": 1681302392,
+      "lyrics_updated_at": 1681312527
+     },
+     "context": "Mitski",
+     "id": 3718232,
+     "image_url": "https://images.genius.com/ffa06c3ce8ea946089ebc6b8b64c881c.1000x1000x1.jpg",
+     "link_title": "Washing Machine Heart by\u00a0Mitski",
+     "title": "Washing Machine Heart",
+     "type": "Song",
+     "url": "https://genius.com/Mitski-washing-machine-heart-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14560405",
+      "body": {
+       "plain": "\u201cWashing Machine Heart\u201d, the twelfth track off Be the Cowboy, is sonically upbeat, but lyrically explores the \u201cmanic\u201d nature of Mitski\u2019s protagonist, who, in her words:\n\n\u2026is a person who\u2019s in me. It\u2019s just I\u2019m not this person all the time. It\u2019s this woman who feels powerless and overcompensates by exercising extreme control on herself and on her environment, and just trying to be powerful within her own limits of her body and who she is, but kind of just unraveling a little bit because the amount of control she\u2019s exercising on to herself maybe isn\u2019t healthy or isn\u2019t natural. There\u2019s something more warm and human inside that she\u2019s pushing down in order to appear strong to the world.\"\n\nThe heavy backbeat in the track may represent the clatter of a washing machine and how it parallels the feverish thrum of Mitski (or her protagonist)\u2019s heart."
+      },
+      "comment_count": 1,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14560405,
+      "pinned": false,
+      "share_url": "https://genius.com/14560405",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14560405/Mitski-washing-machine-heart/Washing-machine-heart",
+      "verified": false,
+      "votes_total": 178,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4556540",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8874f0b1aa2f2af461dc9de2e45bfebf",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/f9vkpjk0r7c",
+         "human_readable_role_for_display": "Editor",
+         "id": 4556540,
+         "iq": 79260,
+         "login": "bliplox",
+         "name": "bliplox",
+         "role_for_display": "editor",
+         "url": "https://genius.com/bliplox",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=3vjkh-acmTE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/960498",
+     "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+     "id": 960498,
+     "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Hyland",
+     "url": "https://genius.com/artists/Patrick-hyland"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8942590",
+       "artist_names": "\u200boceIot",
+       "full_title": "\u200bsmile! /forced by\u00a0\u200boceIot",
+       "header_image_thumbnail_url": "https://images.genius.com/4047f758f5ea9641eb293b4b5ba6c8ab.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4047f758f5ea9641eb293b4b5ba6c8ab.553x553x1.jpg",
+       "id": 8942590,
+       "language": "en",
+       "lyrics_owner_id": 17690281,
+       "lyrics_state": "complete",
+       "path": "/Oceiot-smile-forced-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Oceiot-smile-forced-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 1
+       },
+       "release_date_for_display": "April 1, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 1, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4047f758f5ea9641eb293b4b5ba6c8ab.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4047f758f5ea9641eb293b4b5ba6c8ab.553x553x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "\u200bsmile! /forced",
+       "title_with_featured": "\u200bsmile! /forced",
+       "url": "https://genius.com/Oceiot-smile-forced-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3483501",
+        "header_image_url": "https://images.genius.com/e4efe8304f96b692a7b8932d16c5a33f.498x280x19.gif",
+        "id": 3483501,
+        "image_url": "https://images.genius.com/3edd353dd782bb4f26d5ccaf19c33c6c.247x247x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200boceIot",
+        "url": "https://genius.com/artists/Oceiot"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7474698",
+       "artist_names": "Melody Lz",
+       "full_title": "Elevator 2173 by\u00a0Melody\u00a0Lz",
+       "header_image_thumbnail_url": "https://images.genius.com/341abf8f06cf8508a7de77f1374c6b3f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/341abf8f06cf8508a7de77f1374c6b3f.675x675x1.jpg",
+       "id": 7474698,
+       "language": "en",
+       "lyrics_owner_id": 13662531,
+       "lyrics_state": "complete",
+       "path": "/Melody-lz-elevator-2173-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Melody-lz-elevator-2173-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/341abf8f06cf8508a7de77f1374c6b3f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/341abf8f06cf8508a7de77f1374c6b3f.675x675x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Elevator 2173",
+       "title_with_featured": "Elevator 2173",
+       "url": "https://genius.com/Melody-lz-elevator-2173-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2803892",
+        "header_image_url": "https://images.genius.com/510106f785bfe735c69acb3de60d6569.750x1000x1.jpg",
+        "id": 2803892,
+        "image_url": "https://images.genius.com/990d545d725bc52ac2cb416d3880faf8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Melody Lz",
+        "url": "https://genius.com/artists/Melody-lz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6612479",
+       "artist_names": "\u200bthquib (Ft. GUMI (\u30b0\u30df))",
+       "full_title": "Washing Machine Heart by\u00a0\u200bthquib (Ft.\u00a0GUMI\u00a0(\u30b0\u30df))",
+       "header_image_thumbnail_url": "https://images.genius.com/0dcb5d42c7a34d1c9ab655d204278aed.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0dcb5d42c7a34d1c9ab655d204278aed.1000x1000x1.jpg",
+       "id": 6612479,
+       "language": "en",
+       "lyrics_owner_id": 5614899,
+       "lyrics_state": "complete",
+       "path": "/Thquib-washing-machine-heart-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Thquib-washing-machine-heart-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 10
+       },
+       "release_date_for_display": "January 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0dcb5d42c7a34d1c9ab655d204278aed.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0dcb5d42c7a34d1c9ab655d204278aed.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Washing Machine Heart",
+       "title_with_featured": "Washing Machine Heart (Ft.\u00a0GUMI\u00a0(\u30b0\u30df))",
+       "url": "https://genius.com/Thquib-washing-machine-heart-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/674689",
+         "header_image_url": "https://images.genius.com/3566354af51c5dea70c6106c190a9b9c.950x350x1.jpg",
+         "id": 674689,
+         "image_url": "https://images.genius.com/40861370be7daa48bd4a910fe53fe0bf.731x731x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "GUMI (\u30b0\u30df)",
+         "url": "https://genius.com/artists/Gumi"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2560603",
+        "header_image_url": "https://images.genius.com/72a82519cabd463c43b98591378de70e.975x180x1.png",
+        "id": 2560603,
+        "image_url": "https://images.genius.com/319302726ae316a98b767f0a82931464.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bthquib",
+        "url": "https://genius.com/artists/Thquib"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7329620",
+       "artist_names": "\u200b*67\u200b (US)",
+       "full_title": "Not me mix (\u3064\ufe4f\u2282) by\u00a0\u200b*67\u200b\u00a0(US)",
+       "header_image_thumbnail_url": "https://images.genius.com/268347c52e698fa930d34f9a31f9f76d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/268347c52e698fa930d34f9a31f9f76d.500x500x1.jpg",
+       "id": 7329620,
+       "language": "en",
+       "lyrics_owner_id": 14088746,
+       "lyrics_state": "complete",
+       "path": "/67-us-not-me-mix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/67-us-not-me-mix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 26
+       },
+       "release_date_for_display": "October 26, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 26, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/268347c52e698fa930d34f9a31f9f76d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/268347c52e698fa930d34f9a31f9f76d.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Not me mix (\u3064\ufe4f\u2282)",
+       "title_with_featured": "Not me mix (\u3064\ufe4f\u2282)",
+       "url": "https://genius.com/67-us-not-me-mix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2901683",
+        "header_image_url": "https://images.genius.com/fe0d63e16e5fe212eb2158c0011b3651.770x428x58.gif",
+        "id": 2901683,
+        "image_url": "https://images.genius.com/fe0d63e16e5fe212eb2158c0011b3651.770x428x58.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200b*67\u200b (US)",
+        "url": "https://genius.com/artists/67-us"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8847550",
+       "artist_names": "Genius Traducciones al Espa\u00f1ol",
+       "full_title": "Mitski - Washing Machine Heart (Traducci\u00f3n al Espa\u00f1ol) by\u00a0Genius\u00a0Traducciones al Espa\u00f1ol",
+       "header_image_thumbnail_url": "https://images.genius.com/9fddd5a9ea367dc623c4cfc290a14db8.288x288x1.jpg",
+       "header_image_url": "https://images.genius.com/9fddd5a9ea367dc623c4cfc290a14db8.288x288x1.jpg",
+       "id": 8847550,
+       "language": "es",
+       "lyrics_owner_id": 9390246,
+       "lyrics_state": "complete",
+       "path": "/Genius-traducciones-al-espanol-mitski-washing-machine-heart-traduccion-al-espanol-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-traducciones-al-espanol-mitski-washing-machine-heart-traduccion-al-espanol-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 8,
+        "day": 17
+       },
+       "release_date_for_display": "August 17, 2018",
+       "release_date_with_abbreviated_month_for_display": "Aug. 17, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9fddd5a9ea367dc623c4cfc290a14db8.288x288x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9fddd5a9ea367dc623c4cfc290a14db8.288x288x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Mitski - Washing Machine Heart (Traducci\u00f3n al Espa\u00f1ol)",
+       "title_with_featured": "Mitski - Washing Machine Heart (Traducci\u00f3n al Espa\u00f1ol)",
+       "url": "https://genius.com/Genius-traducciones-al-espanol-mitski-washing-machine-heart-traduccion-al-espanol-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1376254",
+        "header_image_url": "https://images.genius.com/d43c9375eda8e9c8e8768a3a911b7d49.1000x213x44.gif",
+        "id": 1376254,
+        "image_url": "https://images.genius.com/766a687c3e07f9acd993d7f8ac3e9902.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Traducciones al Espa\u00f1ol",
+        "url": "https://genius.com/artists/Genius-traducciones-al-espanol"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/8847550",
+     "id": 8847550,
+     "language": "es",
+     "lyrics_state": "complete",
+     "path": "/Genius-traducciones-al-espanol-mitski-washing-machine-heart-traduccion-al-espanol-lyrics",
+     "title": "Mitski - Washing Machine Heart (Traducci\u00f3n al Espa\u00f1ol)",
+     "url": "https://genius.com/Genius-traducciones-al-espanol-mitski-washing-machine-heart-traduccion-al-espanol-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   ],
+   "artist": "Mitski",
+   "lyrics": "88 ContributorsTranslationsEspa\u00f1olWashing Machine Heart Lyrics[Verse 1]\nToss your dirty shoes in my washing machine heart\nBaby, bang it up inside\nI'm not wearing my usual lipstick\nI thought maybe we would kiss tonight\n\n[Pre-Chorus]\nBaby, will you kiss me already?\nAnd toss your dirty shoes in my washing machine heart\nBaby, bang it up inside\n[Instrumental Chorus]\n\n[Verse 2]\nBaby, though I've closed my eyes\nI know who you pretend I am\nI know who you pretend I am\n\n[Bridge]\nBut, do-mi-ti\nWhy not me? Why not me?\nDo-mi-ti\nWhy not me? Why not me?\n\n[Chorus]\nDo-mi-ti\nWhy not me? Why not me?You might also like66Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/2474565",
+   "artist_names": "Mitski",
+   "full_title": "I Bet on Losing Dogs by\u00a0Mitski",
+   "header_image_thumbnail_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.1000x1000x1.jpg",
+   "id": 2474565,
+   "language": "en",
+   "lyrics_owner_id": 3264970,
+   "lyrics_state": "complete",
+   "path": "/Mitski-i-bet-on-losing-dogs-lyrics",
+   "pyongs_count": 49,
+   "relationships_index_url": "https://genius.com/Mitski-i-bet-on-losing-dogs-sample",
+   "release_date_components": {
+    "year": 2016,
+    "month": 6,
+    "day": 17
+   },
+   "release_date_for_display": "June 17, 2016",
+   "release_date_with_abbreviated_month_for_display": "Jun. 17, 2016",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 94,
+    "iq_earners": 93,
+    "transcribers": 4,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 602513
+   },
+   "title": "I Bet on Losing Dogs",
+   "title_with_featured": "I Bet on Losing Dogs",
+   "url": "https://genius.com/Mitski-i-bet-on-losing-dogs-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/265258",
+    "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+    "id": 265258,
+    "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+    "is_meme_verified": true,
+    "is_verified": true,
+    "name": "Mitski",
+    "url": "https://genius.com/artists/Mitski",
+    "iq": 2979
+   },
+   "apple_music_id": "1087128510",
+   "apple_music_player_url": "https://genius.com/songs/2474565/apple_music_player",
+   "description": {
+    "plain": "The \u201closing dogs\u201d or failed relationships that Mitski pursues. This represents a sort of unrequited love in which Mitski\u2019s feelings are not reciprocated with the same intensity.\nThe use of \u201cbaby\u201d in the song could allude to how she wants someone to care for and to be cared for in return.\n\nThe metaphor of \u2018betting on losing dogs\u2019 refers to Mitski getting into relationships that she knows are doomed, or with people who are too damaged to love her \u2013 she knows that it will inevitably end badly, but she consciously gets into a relationship regardless.\n\nShe\u2019s asking them to let her keep believing in the illusion that they are gonna work out or that they are gonna love her back one day.\n\nIt also alludes to the idea that she, herself, is a losing dog. She hopes that her lover will be there to comfort her when she is down, just as she does.\n\nAnticipating the theme of \u201cThursday Girl\u201d, in these lines, the narrator sings about her desire to feel the pain in defeat of rejection.\n\nShe longs for the intimacy and connection formed with her lover. An orgasm is known as a \u201clittle death\u201d (from the french term \u201cla petite mort\u201d).\n\nHer lover looks in her eyes, rather than Mitski looking in the eyes of the losing dogs. This reversal is interesting.\n\nAlso, the mention of orgasm could be a reference to Happy, perhaps contrasting the experience of being with a \u2018losing\u2019 lover with the experience of unsustainable happiness."
+   },
+   "embed_content": "<div id='rg_embed_link_2474565' class='rg_embed_link' data-song-id='2474565'>Read <a href='https://genius.com/Mitski-i-bet-on-losing-dogs-lyrics'>\u201cI Bet on Losing Dogs\u201d by Mitski</a> on Genius</div> <script crossorigin src='//genius.com/songs/2474565/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2016-06-17",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/146396",
+    "cover_art_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.1000x1000x1.jpg",
+    "full_title": "Puberty 2  by Mitski",
+    "id": 146396,
+    "name": "Puberty 2 ",
+    "release_date_for_display": "June 17, 2016",
+    "url": "https://genius.com/albums/Mitski/Puberty-2",
+    "artist": {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Performer",
+     "artists": [
+      {
+       "api_path": "/artists/265258",
+       "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+       "id": 265258,
+       "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+       "is_meme_verified": true,
+       "is_verified": true,
+       "name": "Mitski",
+       "url": "https://genius.com/artists/Mitski",
+       "iq": 2979
+      },
+      {
+       "api_path": "/artists/960498",
+       "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+       "id": 960498,
+       "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrick Hyland",
+       "url": "https://genius.com/artists/Patrick-hyland"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/960498",
+       "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+       "id": 960498,
+       "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Patrick Hyland",
+       "url": "https://genius.com/artists/Patrick-hyland"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1027964",
+       "header_image_url": "https://images.genius.com/c4a3167f5c55e59780586a60322f075a.960x960x1.jpg",
+       "id": 1027964,
+       "image_url": "https://images.genius.com/17f1d3d681a44a9f3eb07ebded424474.959x959x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dead Oceans",
+       "url": "https://genius.com/artists/Dead-oceans"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4689124,
+    "annotator_login": "joelstardust",
+    "api_path": "/referents/9165964",
+    "classification": "unreviewed",
+    "fragment": "I Bet on Losing Dogs",
+    "id": 9165964,
+    "is_description": true,
+    "path": "/9165964/Mitski-i-bet-on-losing-dogs/I-bet-on-losing-dogs",
+    "range": {
+     "content": "I Bet on Losing Dogs"
+    },
+    "song_id": 2474565,
+    "url": "https://genius.com/9165964/Mitski-i-bet-on-losing-dogs/I-bet-on-losing-dogs",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2474565",
+     "client_timestamps": {
+      "updated_by_human_at": 1680082240,
+      "lyrics_updated_at": 1680082240
+     },
+     "context": "Mitski",
+     "id": 2474565,
+     "image_url": "https://images.genius.com/2a2e2283f9895028062454547c5faea8.1000x1000x1.jpg",
+     "link_title": "I Bet on Losing Dogs by\u00a0Mitski",
+     "title": "I Bet on Losing Dogs",
+     "type": "Song",
+     "url": "https://genius.com/Mitski-i-bet-on-losing-dogs-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/9165964",
+      "body": {
+       "plain": "The \u201closing dogs\u201d or failed relationships that Mitski pursues. This represents a sort of unrequited love in which Mitski\u2019s feelings are not reciprocated with the same intensity.\nThe use of \u201cbaby\u201d in the song could allude to how she wants someone to care for and to be cared for in return.\n\nThe metaphor of \u2018betting on losing dogs\u2019 refers to Mitski getting into relationships that she knows are doomed, or with people who are too damaged to love her \u2013 she knows that it will inevitably end badly, but she consciously gets into a relationship regardless.\n\nShe\u2019s asking them to let her keep believing in the illusion that they are gonna work out or that they are gonna love her back one day.\n\nIt also alludes to the idea that she, herself, is a losing dog. She hopes that her lover will be there to comfort her when she is down, just as she does.\n\nAnticipating the theme of \u201cThursday Girl\u201d, in these lines, the narrator sings about her desire to feel the pain in defeat of rejection.\n\nShe longs for the intimacy and connection formed with her lover. An orgasm is known as a \u201clittle death\u201d (from the french term \u201cla petite mort\u201d).\n\nHer lover looks in her eyes, rather than Mitski looking in the eyes of the losing dogs. This reversal is interesting.\n\nAlso, the mention of orgasm could be a reference to Happy, perhaps contrasting the experience of being with a \u2018losing\u2019 lover with the experience of unsustainable happiness."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 9165964,
+      "pinned": false,
+      "share_url": "https://genius.com/9165964",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/9165964/Mitski-i-bet-on-losing-dogs/I-bet-on-losing-dogs",
+      "verified": false,
+      "votes_total": 167,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4689124",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/at0rykump6f",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/at0rykump6f",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/at0rykump6f",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/at0rykump6f",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/909y53s1eit",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4689124,
+         "iq": 1408,
+         "login": "joelstardust",
+         "name": "joelstardust",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/joelstardust",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dQkZve4_B2A"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/960498",
+     "header_image_url": "https://images.genius.com/9b971d8dcd7aa7ecaa8505ed7cde0be8.650x800x1.jpg",
+     "id": 960498,
+     "image_url": "https://images.genius.com/83093a51fba7c2f03209531ed9b3bf17.502x502x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Patrick Hyland",
+     "url": "https://genius.com/artists/Patrick-hyland"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/265258",
+     "header_image_url": "https://images.genius.com/08e14b449f86cd19982e1e9a1ed383b4.1000x666x1.jpg",
+     "id": 265258,
+     "image_url": "https://images.genius.com/a2c069f036ef67e4fbcf8e87a0c6b0ac.522x522x1.png",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Mitski",
+     "url": "https://genius.com/artists/Mitski",
+     "iq": 2979
+    }
+   ],
+   "artist": "Mitski",
+   "lyrics": "94 ContributorsI Bet on Losing Dogs Lyrics[Verse]\nMy baby, my baby (Ooh-oh)\nYou're my baby, say it to me (Ooh-oh, ooh-oh)\nBaby, my baby (Ooh, ooh-oh)\nTell your baby that I'm your baby (Ooh-oh, ooh-oh)\n\n[Chorus]\nI bet on losing dogs\nI know they're losing and I pay for my place by the ring\nWhere I'll be looking in their eyes when they're down\nI'll be there on their side, I'm losing by their side\n[Post-Chorus]\nAah, aah-ah, aah-ah\nAah, aah, aah-ah, aah-ah\n\n[Chorus]\nWill you let me, baby, lose on losing dogs?\nI know they're losing and I pay for my place by the ring\nWhere I'll be looking in their eyes when they're down\nI wanna feel it\n\n[Bridge]\nI bet on losing dogs\nI always want you when I'm finally fine\nHow you'd be over me looking in my eyes when I come\nSomeone to watch me die, someone to watch me die\n\n[Outro]\nI bet on losing dogs (Did you get that?)You might also like49Embed"
+  }
+ ]
+}

@@ -1,0 +1,1868 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1149083",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 4,
+ "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+ "id": 1149083,
+ "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Lainey Wilson",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Lainey-wilson",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 415839,
+  "annotator_login": "jambi",
+  "api_path": "/referents/24427301",
+  "classification": "needs_exegesis",
+  "fragment": "Lainey Wilson",
+  "id": 24427301,
+  "is_description": true,
+  "path": "/24427301/Lainey-wilson/Lainey-wilson",
+  "range": {
+   "content": "Lainey Wilson"
+  },
+  "song_id": null,
+  "url": "https://genius.com/24427301/Lainey-wilson/Lainey-wilson",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1149083",
+   "context": null,
+   "id": 1149083,
+   "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+   "link_title": "Lainey Wilson",
+   "title": "Lainey Wilson",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Lainey-wilson"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/24427301",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 24427301,
+    "pinned": false,
+    "share_url": "https://genius.com/24427301",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/24427301/Lainey-wilson/Lainey-wilson",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/415839",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/4c303cdd2f07a6112c469bc21efc6a6c.1000x563x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 415839,
+       "iq": 1188345,
+       "login": "jambi",
+       "name": "\u200bjambi",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/jambi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4866851",
+   "artist_names": "Lainey Wilson",
+   "full_title": "Things a Man Oughta Know by\u00a0Lainey\u00a0Wilson",
+   "header_image_thumbnail_url": "https://images.genius.com/c9a2e50f4922837f5ee9110a6bb0ee21.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c9a2e50f4922837f5ee9110a6bb0ee21.1000x1000x1.jpg",
+   "id": 4866851,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Lainey-wilson-things-a-man-oughta-know-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Lainey-wilson-things-a-man-oughta-know-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 13
+   },
+   "release_date_for_display": "September 13, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/934cf3be51ed2e266818e1f285c6cf83.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/934cf3be51ed2e266818e1f285c6cf83.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 34081
+   },
+   "title": "Things a Man Oughta Know",
+   "title_with_featured": "Things a Man Oughta Know",
+   "url": "https://genius.com/Lainey-wilson-things-a-man-oughta-know-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1149083",
+    "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+    "id": 1149083,
+    "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lainey Wilson",
+    "url": "https://genius.com/artists/Lainey-wilson"
+   },
+   "apple_music_id": "1478281950",
+   "apple_music_player_url": "https://genius.com/songs/4866851/apple_music_player",
+   "description": {
+    "plain": "She was someone who was going through a hard time when she wrote this song"
+   },
+   "embed_content": "<div id='rg_embed_link_4866851' class='rg_embed_link' data-song-id='4866851'>Read <a href='https://genius.com/Lainey-wilson-things-a-man-oughta-know-lyrics'>\u201cThings a Man Oughta Know\u201d by Lainey\u00a0Wilson</a> on Genius</div> <script crossorigin src='//genius.com/songs/4866851/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/726441",
+    "cover_art_url": "https://images.genius.com/593b350ef41a3d52a645017d68a9af37.1000x1000x1.jpg",
+    "full_title": "Sayin\u2019 What I\u2019m Thinkin\u2019 by Lainey Wilson",
+    "id": 726441,
+    "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+    "release_date_for_display": "February 19, 2021",
+    "url": "https://genius.com/albums/Lainey-wilson/Sayin-what-im-thinkin",
+    "artist": {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 14992150,
+    "annotator_login": "Ok_Then09",
+    "api_path": "/referents/24161224",
+    "classification": "unreviewed",
+    "fragment": "Things a Man Oughta Know",
+    "id": 24161224,
+    "is_description": true,
+    "path": "/24161224/Lainey-wilson-things-a-man-oughta-know/Things-a-man-oughta-know",
+    "range": {
+     "content": "Things a Man Oughta Know"
+    },
+    "song_id": 4866851,
+    "url": "https://genius.com/24161224/Lainey-wilson-things-a-man-oughta-know/Things-a-man-oughta-know",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4866851",
+     "client_timestamps": {
+      "updated_by_human_at": 1660268589,
+      "lyrics_updated_at": 1649952246
+     },
+     "context": "Lainey Wilson",
+     "id": 4866851,
+     "image_url": "https://images.genius.com/934cf3be51ed2e266818e1f285c6cf83.800x800x1.jpg",
+     "link_title": "Things a Man Oughta Know by\u00a0Lainey\u00a0Wilson",
+     "title": "Things a Man Oughta Know",
+     "type": "Song",
+     "url": "https://genius.com/Lainey-wilson-things-a-man-oughta-know-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24161224",
+      "body": {
+       "plain": "She was someone who was going through a hard time when she wrote this song"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 24161224,
+      "pinned": false,
+      "share_url": "https://genius.com/24161224",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/24161224/Lainey-wilson-things-a-man-oughta-know/Things-a-man-oughta-know",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/14992150",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a590feaba4790eba3b5f8608c64b915c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a590feaba4790eba3b5f8608c64b915c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a590feaba4790eba3b5f8608c64b915c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a590feaba4790eba3b5f8608c64b915c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/u5qydn13l9r",
+         "human_readable_role_for_display": null,
+         "id": 14992150,
+         "iq": 126,
+         "login": "Ok_Then09",
+         "name": "Ok_Then09",
+         "role_for_display": null,
+         "url": "https://genius.com/Ok_Then09",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065822,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dqINSvm3Psw"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/59535",
+     "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "id": 59535,
+     "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jay Joyce",
+     "url": "https://genius.com/artists/Jay-joyce"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8180158",
+       "artist_names": "Positive Vibrations (Ft. Lainey Wilson)",
+       "full_title": "Things a Man Oughta Know by\u00a0Positive\u00a0Vibrations (Ft.\u00a0Lainey\u00a0Wilson)",
+       "header_image_thumbnail_url": "https://images.genius.com/7fbe9b73d3b71a03282e396665439e57.300x300x1.png",
+       "header_image_url": "https://images.genius.com/7fbe9b73d3b71a03282e396665439e57.1000x1000x1.png",
+       "id": 8180158,
+       "language": "en",
+       "lyrics_owner_id": 13347098,
+       "lyrics_state": "complete",
+       "path": "/Positive-vibrations-things-a-man-oughta-know-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Positive-vibrations-things-a-man-oughta-know-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 7,
+        "day": 22
+       },
+       "release_date_for_display": "July 22, 2022",
+       "release_date_with_abbreviated_month_for_display": "Jul. 22, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7fbe9b73d3b71a03282e396665439e57.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/7fbe9b73d3b71a03282e396665439e57.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Things a Man Oughta Know",
+       "title_with_featured": "Things a Man Oughta Know (Ft.\u00a0Lainey\u00a0Wilson)",
+       "url": "https://genius.com/Positive-vibrations-things-a-man-oughta-know-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1149083",
+         "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+         "id": 1149083,
+         "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Lainey Wilson",
+         "url": "https://genius.com/artists/Lainey-wilson"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3225584",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3225584,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Positive Vibrations",
+        "url": "https://genius.com/artists/Positive-vibrations"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2379529",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2379529,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Singleton",
+     "url": "https://genius.com/artists/Jon-singleton"
+    },
+    {
+     "api_path": "/artists/1158393",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1158393,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jason Nix",
+     "url": "https://genius.com/artists/Jason-nix"
+    },
+    {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    }
+   ],
+   "artist": "Lainey Wilson",
+   "lyrics": "8 ContributorsThings a Man Oughta Know Lyrics[Verse 1]\nI can hook a trailer on a two-inch hitch\nI can shoot a shotgun, I can\u2005catch\u2005a fish\nI can\u2005change a tire on the side\u2005of a road\nYeah, I know a few things a man oughta know\n\n[Chorus]\nHow to know when it's love\nHow to stay when it's tough\nHow to know you're messin' up a good thing\nAnd how to fix it 'fore it's too late\nAnd yeah, I know a boy\nWho gave up and got it wrong\nIf you really love a woman, you don't let her go\nYeah, I know a few things a man oughta know\n[Verse 2]\nIf I can't have it, I can do without\nI can hang a picture same as I can take it down\nAnd how to keep it hidden when a heart gets broke\nYeah, I know a few things a man oughta know\n\n[Chorus]\nHow to know when it's love\nHow to stay when it's tough\nHow to know you're messin' up a good thing\nAnd how to fix it 'fore it's too late\nAnd yeah, I know a boy\nWho gave up and got it wrong\nIf you really love a woman, you don't let her go\nYeah, I know a few things a man oughta know\n\n[Bridge]\nI...\n\n[Chorus]\nHow to know when it's love\nHow to stay when it's tough\nHow to chase forever down a driveway\nHow to never let it get there in the first place\nAnd yeah, I know a boy\nWho gave up and got it wrong\nIf you really love a woman, you don't let her go\nWell, I know a few things a man oughta know\nYeah, I know a few things a man oughta knowYou might also like1Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/8018988",
+   "artist_names": "Lainey Wilson",
+   "full_title": "Heart Like A Truck by\u00a0Lainey\u00a0Wilson",
+   "header_image_thumbnail_url": "https://images.genius.com/8abd6dab124c2a105b27ca2448a7df46.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8abd6dab124c2a105b27ca2448a7df46.1000x1000x1.jpg",
+   "id": 8018988,
+   "language": "en",
+   "lyrics_owner_id": 3662839,
+   "lyrics_state": "complete",
+   "path": "/Lainey-wilson-heart-like-a-truck-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lainey-wilson-heart-like-a-truck-sample",
+   "release_date_components": {
+    "year": 2022,
+    "month": 5,
+    "day": 20
+   },
+   "release_date_for_display": "May 20, 2022",
+   "release_date_with_abbreviated_month_for_display": "May. 20, 2022",
+   "song_art_image_thumbnail_url": "https://images.genius.com/11ef83a1aab7122308af8917fbc29661.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/11ef83a1aab7122308af8917fbc29661.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 11,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 14299
+   },
+   "title": "Heart Like A Truck",
+   "title_with_featured": "Heart Like A Truck",
+   "url": "https://genius.com/Lainey-wilson-heart-like-a-truck-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1149083",
+    "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+    "id": 1149083,
+    "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lainey Wilson",
+    "url": "https://genius.com/artists/Lainey-wilson"
+   },
+   "apple_music_id": "1622170324",
+   "apple_music_player_url": "https://genius.com/songs/8018988/apple_music_player",
+   "description": {
+    "plain": "\u201cHeart Like A Truck\u201d is Lainey Wilson\u2019s first single following her 2021 album Sayin' What I\u2019m Thinkin'."
+   },
+   "embed_content": "<div id='rg_embed_link_8018988' class='rg_embed_link' data-song-id='8018988'>Read <a href='https://genius.com/Lainey-wilson-heart-like-a-truck-lyrics'>\u201cHeart Like A Truck\u201d by Lainey\u00a0Wilson</a> on Genius</div> <script crossorigin src='//genius.com/songs/8018988/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2022-05-20",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/938812",
+    "cover_art_url": "https://images.genius.com/05d1f1b3580fc19e811cd4991aa25ab2.814x814x1.png",
+    "full_title": "Bell Bottom Country by Lainey Wilson",
+    "id": 938812,
+    "name": "Bell Bottom Country",
+    "release_date_for_display": "October 28, 2022",
+    "url": "https://genius.com/albums/Lainey-wilson/Bell-bottom-country",
+    "artist": {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Production Assistant",
+     "artists": [
+      {
+       "api_path": "/artists/2092176",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2092176,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Court Blankenship",
+       "url": "https://genius.com/artists/Court-blankenship"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/2282882",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2282882,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joanna Janet",
+       "url": "https://genius.com/artists/Joanna-janet"
+      }
+     ]
+    },
+    {
+     "label": "Hammond B3",
+     "artists": [
+      {
+       "api_path": "/artists/2240279",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2240279,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Billy Justineau",
+       "url": "https://genius.com/artists/Billy-justineau"
+      }
+     ]
+    },
+    {
+     "label": "Sound Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/59535",
+       "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "id": 59535,
+       "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Joyce",
+       "url": "https://genius.com/artists/Jay-joyce"
+      },
+      {
+       "api_path": "/artists/1089419",
+       "header_image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+       "id": 1089419,
+       "image_url": "https://images.genius.com/6f087ddf8e956e9a36923d21d17ce725.233x233x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jason Hall",
+       "url": "https://genius.com/artists/Jason-hall"
+      },
+      {
+       "api_path": "/artists/1597691",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1597691,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jimmy Mansfield",
+       "url": "https://genius.com/artists/Jimmy-mansfield"
+      },
+      {
+       "api_path": "/artists/1597692",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1597692,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jaxon Hargrove",
+       "url": "https://genius.com/artists/Jaxon-hargrove"
+      },
+      {
+       "api_path": "/artists/662408",
+       "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "id": 662408,
+       "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Mendelson",
+       "url": "https://genius.com/artists/Andrew-mendelson"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/59535",
+       "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "id": 59535,
+       "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Joyce",
+       "url": "https://genius.com/artists/Jay-joyce"
+      },
+      {
+       "api_path": "/artists/2240279",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2240279,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Billy Justineau",
+       "url": "https://genius.com/artists/Billy-justineau"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1908653",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1908653,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Aslan Freeman",
+       "url": "https://genius.com/artists/Aslan-freeman"
+      },
+      {
+       "api_path": "/artists/59535",
+       "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "id": 59535,
+       "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jay Joyce",
+       "url": "https://genius.com/artists/Jay-joyce"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/984323",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 984323,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rob McNelley",
+       "url": "https://genius.com/artists/Rob-mcnelley"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/1513845",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1513845,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joel King",
+       "url": "https://genius.com/artists/Joel-king"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/648504",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 648504,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred Eltringham",
+       "url": "https://genius.com/artists/Fred-eltringham"
+      }
+     ]
+    },
+    {
+     "label": "Percussion",
+     "artists": [
+      {
+       "api_path": "/artists/648504",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 648504,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Fred Eltringham",
+       "url": "https://genius.com/artists/Fred-eltringham"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6861732,
+    "annotator_login": "caszriel",
+    "api_path": "/referents/25865254",
+    "classification": "unreviewed",
+    "fragment": "Heart Like A Truck",
+    "id": 25865254,
+    "is_description": true,
+    "path": "/25865254/Lainey-wilson-heart-like-a-truck/Heart-like-a-truck",
+    "range": {
+     "content": "Heart Like A Truck"
+    },
+    "song_id": 8018988,
+    "url": "https://genius.com/25865254/Lainey-wilson-heart-like-a-truck/Heart-like-a-truck",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/8018988",
+     "client_timestamps": {
+      "updated_by_human_at": 1681781734,
+      "lyrics_updated_at": 1653064241
+     },
+     "context": "Lainey Wilson",
+     "id": 8018988,
+     "image_url": "https://images.genius.com/11ef83a1aab7122308af8917fbc29661.1000x1000x1.jpg",
+     "link_title": "Heart Like A Truck by\u00a0Lainey\u00a0Wilson",
+     "title": "Heart Like A Truck",
+     "type": "Song",
+     "url": "https://genius.com/Lainey-wilson-heart-like-a-truck-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25865254",
+      "body": {
+       "plain": "\u201cHeart Like A Truck\u201d is Lainey Wilson\u2019s first single following her 2021 album Sayin' What I\u2019m Thinkin'."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 25865254,
+      "pinned": false,
+      "share_url": "https://genius.com/25865254",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/25865254/Lainey-wilson-heart-like-a-truck/Heart-like-a-truck",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6861732",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dc91ddac5f33f65ebe1f0c171d23a955",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dc91ddac5f33f65ebe1f0c171d23a955",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dc91ddac5f33f65ebe1f0c171d23a955",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dc91ddac5f33f65ebe1f0c171d23a955",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/dc91ddac5f33f65ebe1f0c171d23a955",
+         "human_readable_role_for_display": "Contributor",
+         "id": 6861732,
+         "iq": 1938,
+         "login": "caszriel",
+         "name": "caszriel",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/caszriel",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 337142,
+    "login": "worstofalltime",
+    "name": "\u200bworstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7650027",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/319a616f0d1e27b14b1791b4c11ef1fa",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/94d13e1979801cdeb4d0cc7a103eb5eb.1000x664x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 7650027,
+    "iq": 337142,
+    "login": "worstofalltime",
+    "name": "\u200bworstofalltime",
+    "role_for_display": "staff",
+    "url": "https://genius.com/worstofalltime",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=rNReepITjN0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/59535",
+     "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "id": 59535,
+     "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jay Joyce",
+     "url": "https://genius.com/artists/Jay-joyce"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1916770",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1916770,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Trannie Anderson",
+     "url": "https://genius.com/artists/Trannie-anderson"
+    },
+    {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    },
+    {
+     "api_path": "/artists/1610664",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 1610664,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dallas Wilson",
+     "url": "https://genius.com/artists/Dallas-wilson"
+    }
+   ],
+   "artist": "Lainey Wilson",
+   "lyrics": "11 ContributorsHeart Like A Truck Lyrics[Verse 1]\nI never stay in one place too long\nThe dirt road singin' me a siren's song\nI gotta find a field, I need to spin my wheels\nI gotta hankerin' for four wide tires\nAnd I can't help it, it's the way I'm wired\nBoy, you get too close, boy, you need to know\n\n[Chorus]\nI got a heart like a truck\nIt's been drug through the mud\nRuns on dreams and gasoline\nAnd that old highway holds the key\nIt's got a lead foot down when it's leavin'\nLord knows it's taken a hell of a beatin'\nA little bit of love is all that it's needin'\nBut it's good as it is tough\nI got a heart like a truck\n[Verse 2]\nThere ain't no brakin' when I throw it in drive\nDon't always keep it in-between the lines\nIf you're a ready for a rid\u0435\nPedal down state of mind\nBoy, I tell you what\nYou b\u0435tter buckle up\n\n[Chorus]\nI got a heart like a truck\nIt's been drug through the mud\nRuns on dreams and gasoline\nAnd that old highway holds the key\nIt's got a lead foot down when it's leavin'\nLord knows it's taken a hell of a beatin'\nA little bit of love is all that it's needin'\nBut it's good as it is tough\nI got a heart like a truck\n\n[Bridge]\nGo on and see if you can knock off the dust, yeah\nShine it up, rev it up, and let it run, yeah\nIt gets a high ridin' off into the sun, yeah\n\n[Chorus]\nI got a heart like a truck\nIt's been drug through the mud\nRuns on dreams and gasoline\nAnd that old highway holds the key\nIt's got a lead foot down when it's leavin'\nLord knows it's taken a hell of a beatin'\nA little bit of love is all that it's needin'\nBut it's good as it is tough\nI got a heart like a truck\nYou might also like[Outro]\nGo on and see if you can knock off the dust, yeah\nShine it up, rev it up, and let it run, yeah\nIt gets a high ridin' off into the sun, yeah\nIt gets a high ridin' off into the sunEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4866850",
+   "artist_names": "Lainey Wilson",
+   "full_title": "Dirty Looks by\u00a0Lainey\u00a0Wilson",
+   "header_image_thumbnail_url": "https://images.genius.com/0c8b98583a331ca7d412cd8674d58642.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0c8b98583a331ca7d412cd8674d58642.1000x1000x1.jpg",
+   "id": 4866850,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Lainey-wilson-dirty-looks-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Lainey-wilson-dirty-looks-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 9,
+    "day": 13
+   },
+   "release_date_for_display": "September 13, 2019",
+   "release_date_with_abbreviated_month_for_display": "Sep. 13, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b52460ba3a861f1efb138deefc952b12.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b52460ba3a861f1efb138deefc952b12.800x800x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 6,
+    "iq_earners": 6,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 11155
+   },
+   "title": "Dirty Looks",
+   "title_with_featured": "Dirty Looks",
+   "url": "https://genius.com/Lainey-wilson-dirty-looks-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1149083",
+    "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+    "id": 1149083,
+    "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Lainey Wilson",
+    "url": "https://genius.com/artists/Lainey-wilson"
+   },
+   "apple_music_id": "1478281855",
+   "apple_music_player_url": "https://genius.com/songs/4866850/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4866850' class='rg_embed_link' data-song-id='4866850'>Read <a href='https://genius.com/Lainey-wilson-dirty-looks-lyrics'>\u201cDirty Looks\u201d by Lainey\u00a0Wilson</a> on Genius</div> <script crossorigin src='//genius.com/songs/4866850/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-09-13",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/726441",
+    "cover_art_url": "https://images.genius.com/593b350ef41a3d52a645017d68a9af37.1000x1000x1.jpg",
+    "full_title": "Sayin\u2019 What I\u2019m Thinkin\u2019 by Lainey Wilson",
+    "id": 726441,
+    "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+    "release_date_for_display": "February 19, 2021",
+    "url": "https://genius.com/albums/Lainey-wilson/Sayin-what-im-thinkin",
+    "artist": {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 104344,
+    "annotator_login": "streetlights",
+    "api_path": "/referents/18034030",
+    "classification": "needs_exegesis",
+    "fragment": "Dirty Looks",
+    "id": 18034030,
+    "is_description": true,
+    "path": "/18034030/Lainey-wilson-dirty-looks/Dirty-looks",
+    "range": {
+     "content": "Dirty Looks"
+    },
+    "song_id": 4866850,
+    "url": "https://genius.com/18034030/Lainey-wilson-dirty-looks/Dirty-looks",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4866850",
+     "client_timestamps": {
+      "updated_by_human_at": 1660269041,
+      "lyrics_updated_at": 1568411924
+     },
+     "context": "Lainey Wilson",
+     "id": 4866850,
+     "image_url": "https://images.genius.com/b52460ba3a861f1efb138deefc952b12.800x800x1.jpg",
+     "link_title": "Dirty Looks by\u00a0Lainey\u00a0Wilson",
+     "title": "Dirty Looks",
+     "type": "Song",
+     "url": "https://genius.com/Lainey-wilson-dirty-looks-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18034030",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18034030,
+      "pinned": false,
+      "share_url": "https://genius.com/18034030",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18034030/Lainey-wilson-dirty-looks/Dirty-looks",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 3065822,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065822,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=6SJz78ZIIVQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/59535",
+     "header_image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "id": 59535,
+     "image_url": "https://images.genius.com/aec3ef8ff6453483a56cebe439efe600.485x485x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jay Joyce",
+     "url": "https://genius.com/artists/Jay-joyce"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1114516",
+     "header_image_url": "https://images.genius.com/cea36b738a0aebcbb950929a2487a875.300x300x1.png",
+     "id": 1114516,
+     "image_url": "https://images.genius.com/cea36b738a0aebcbb950929a2487a875.300x300x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Smith Ahnquist",
+     "url": "https://genius.com/artists/Smith-ahnquist"
+    },
+    {
+     "api_path": "/artists/1149083",
+     "header_image_url": "https://images.genius.com/a7abd7f41b3d172b7f77c57ddad8fb2f.1000x527x1.jpg",
+     "id": 1149083,
+     "image_url": "https://images.genius.com/ff07429acfe28af059e862bda52c8122.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Lainey Wilson",
+     "url": "https://genius.com/artists/Lainey-wilson"
+    },
+    {
+     "api_path": "/artists/350803",
+     "header_image_url": "https://images.genius.com/fa51ae833c996732f7690c65d2c872a3.922x922x1.jpg",
+     "id": 350803,
+     "image_url": "https://images.genius.com/fa51ae833c996732f7690c65d2c872a3.922x922x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brent Anderson",
+     "url": "https://genius.com/artists/Brent-anderson"
+    }
+   ],
+   "artist": "Lainey Wilson",
+   "lyrics": "6 ContributorsDirty Looks Lyrics[Verse 1]\nI know it's been a long day, you been haulin\u2019 that hay\nYou need a break\u2005from\u2005workin' in the\u2005sunshine\nSo you met me in here\u2005for a couple of beers\nJust to wash away that overtime\n\n[Pre-Chorus]\nNow you're sayin\u2019 that you wish you would've cleaned up\nBut you know I don't care about that\nWhen you're leanin' in and kissin' me\nAnd I can't stop kissin' you back\n[Chorus]\nGettin\u2019 dirty looks from people at the bar\nGettin\u2019 dirty looks like, \"Don't you know where you are?\"\nGettin\u2019 dirty looks like everybody's got somethin' to tell us\nBut they ain't nothin\u2019 but jealous, baby\nSomethin' 'bout rough hands on a hard-workin' man\nI just wanna get all over you\nLike the dirt on your shirt and your jeans and your boots\nIf you ask me, dirty looks...\nGood on you, boy, good on you, boy\nGood on you\n\n[Verse 2]\nEveryone in the room is like, \"Y'all get a room\"\nWe gon' do what we want to, let 'em stare\nKeep 'em comin' like nobody's there\nBaby, I don't care...\n\n[Chorus]\nIf we're gettin' dirty looks from people at the bar\nGettin' dirty looks like, \"Don't you know where you are?\"\nGettin' dirty looks like everybody's got somethin' to tell us\nBut they ain't nothin' but jealous, baby\nSomethin' 'bout rough hands on a hard-workin' man\nI just wanna get all over you\nLike the dirt on your shirt and your jeans and your boots\nIf you ask me, dirty looks...\nGood on you, boy, good on you, boy\nGood on you, dirty looks...\n(Good on you, boy, good on you, boy)\n(Good on you)\nYou might also like[Pre-Chorus]\nNow you're sayin' that you wish you would've cleaned up\nBut I kinda like it better when he don't\nYou're leanin' in and kissin' me\nBaby, just take me home\n\n[Chorus]\nGettin' dirty looks from people at the bar\nGettin' dirty looks like, \"Don't you know where you are?\"\nGettin' dirty looks like everybody's got somethin' to tell us\nBut aw, they're just jealous\nSomethin' 'bout rough hands on a hard-workin' man\nI just wanna get on you\nLike the dirt on your shirt and your jeans and your boots\nIf you ask me, dirty looks...\nGood on you, boy, good on you, boy\nGood on you, dirty looks...\nGood on you, boy, good on you, boy\nGood on you, dirty looks...Embed"
+  }
+ ]
+}

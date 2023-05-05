@@ -1,0 +1,1795 @@
+{
+ "alternate_names": [
+  "Ella Jane Fitzgerald",
+  "Ella Fitzgerald And Her Savory Eight"
+ ],
+ "api_path": "/artists/32784",
+ "description": {
+  "plain": "Ella Jane Fitzgerald (April 25, 1917 \u2013 June 15, 1996) was an American jazz singer from Newport News, Virginia. Whilst battling racism in the 30s to 80s music industry, she made history by becoming the first black woman to win a Grammy. A 13 time Grammy awards winner, Fitzgerald was often referred to as the First Lady of Song, Queen of Jazz, and Lady Ella. Her voice flexible, wide-ranging, accurate, and ageless, she sold over 40 million albums. Fitzgerald was noted for her purity of tone, impeccable diction, resplendent intonation, and  \u201chorn-like\u201d improvisational ability, particularly in her scat singing. With a humble beginning, the Queen of Jazz was loved by all, the rich and the poor, the white and the black."
+ },
+ "facebook_name": "",
+ "followers_count": 63,
+ "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+ "id": 32784,
+ "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Ella Fitzgerald",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Ella-fitzgerald",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2738648,
+  "annotator_login": "wieso",
+  "api_path": "/referents/6953072",
+  "classification": "accepted",
+  "fragment": "Ella Fitzgerald",
+  "id": 6953072,
+  "is_description": true,
+  "path": "/6953072/Ella-fitzgerald/Ella-fitzgerald",
+  "range": {
+   "content": "Ella Fitzgerald"
+  },
+  "song_id": null,
+  "url": "https://genius.com/6953072/Ella-fitzgerald/Ella-fitzgerald",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/32784",
+   "context": null,
+   "id": 32784,
+   "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+   "link_title": "Ella Fitzgerald",
+   "title": "Ella Fitzgerald",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Ella-fitzgerald"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/6953072",
+    "body": {
+     "plain": "Ella Jane Fitzgerald (April 25, 1917 \u2013 June 15, 1996) was an American jazz singer from Newport News, Virginia. Whilst battling racism in the 30s to 80s music industry, she made history by becoming the first black woman to win a Grammy. A 13 time Grammy awards winner, Fitzgerald was often referred to as the First Lady of Song, Queen of Jazz, and Lady Ella. Her voice flexible, wide-ranging, accurate, and ageless, she sold over 40 million albums. Fitzgerald was noted for her purity of tone, impeccable diction, resplendent intonation, and  \u201chorn-like\u201d improvisational ability, particularly in her scat singing. With a humble beginning, the Queen of Jazz was loved by all, the rich and the poor, the white and the black."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 6953072,
+    "pinned": false,
+    "share_url": "https://genius.com/6953072",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/6953072/Ella-fitzgerald/Ella-fitzgerald",
+    "verified": false,
+    "votes_total": 13,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.5916666666666667,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/9270475",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a81be5d59698e95737ee478c9ca6943b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a81be5d59698e95737ee478c9ca6943b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a81be5d59698e95737ee478c9ca6943b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a81be5d59698e95737ee478c9ca6943b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a81be5d59698e95737ee478c9ca6943b",
+       "human_readable_role_for_display": "Contributor",
+       "id": 9270475,
+       "iq": 359,
+       "login": "10i",
+       "name": "10i",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/10i",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.4083333333333334,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2738648",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/f8a27d7836cbb3b5092e99aa51aba290",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/f8a27d7836cbb3b5092e99aa51aba290",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/f8a27d7836cbb3b5092e99aa51aba290",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/f8a27d7836cbb3b5092e99aa51aba290",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/f8a27d7836cbb3b5092e99aa51aba290",
+       "human_readable_role_for_display": null,
+       "id": 2738648,
+       "iq": 141,
+       "login": "wieso",
+       "name": "wieso",
+       "role_for_display": null,
+       "url": "https://genius.com/wieso",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/104939",
+   "artist_names": "Ella Fitzgerald",
+   "full_title": "Cry Me a River by\u00a0Ella\u00a0Fitzgerald",
+   "header_image_thumbnail_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.999x999x1.jpg",
+   "id": 104939,
+   "language": "en",
+   "lyrics_owner_id": 10380,
+   "lyrics_state": "complete",
+   "path": "/Ella-fitzgerald-cry-me-a-river-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Ella-fitzgerald-cry-me-a-river-sample",
+   "release_date_components": {
+    "year": 1961,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1961",
+   "release_date_with_abbreviated_month_for_display": "1961",
+   "song_art_image_thumbnail_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.999x999x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 16,
+    "iq_earners": 16,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "concurrents": 2,
+    "hot": false,
+    "pageviews": 172686
+   },
+   "title": "Cry Me a River",
+   "title_with_featured": "Cry Me a River",
+   "url": "https://genius.com/Ella-fitzgerald-cry-me-a-river-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32784",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "id": 32784,
+    "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ella Fitzgerald",
+    "url": "https://genius.com/artists/Ella-fitzgerald"
+   },
+   "apple_music_id": "1434900035",
+   "apple_music_player_url": "https://genius.com/songs/104939/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_104939' class='rg_embed_link' data-song-id='104939'>Read <a href='https://genius.com/Ella-fitzgerald-cry-me-a-river-lyrics'>\u201cCry Me a River\u201d by Ella\u00a0Fitzgerald</a> on Genius</div> <script crossorigin src='//genius.com/songs/104939/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/25891",
+    "cover_art_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.999x999x1.jpg",
+    "full_title": "Clap Hands, Here Comes Charlie! by Ella Fitzgerald",
+    "id": 25891,
+    "name": "Clap Hands, Here Comes Charlie!",
+    "release_date_for_display": "1961",
+    "url": "https://genius.com/albums/Ella-fitzgerald/Clap-hands-here-comes-charlie",
+    "artist": {
+     "api_path": "/artists/32784",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "id": 32784,
+     "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ella Fitzgerald",
+     "url": "https://genius.com/artists/Ella-fitzgerald"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3662839,
+    "annotator_login": "inewton",
+    "api_path": "/referents/14803589",
+    "classification": "needs_exegesis",
+    "fragment": "Cry Me a River",
+    "id": 14803589,
+    "is_description": true,
+    "path": "/14803589/Ella-fitzgerald-cry-me-a-river/Cry-me-a-river",
+    "range": {
+     "content": "Cry Me a River"
+    },
+    "song_id": 104939,
+    "url": "https://genius.com/14803589/Ella-fitzgerald-cry-me-a-river/Cry-me-a-river",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/104939",
+     "client_timestamps": {
+      "updated_by_human_at": 1646896988,
+      "lyrics_updated_at": 1646896988
+     },
+     "context": "Ella Fitzgerald",
+     "id": 104939,
+     "image_url": "https://images.genius.com/e40991fdab420fb0a9ca6ce31fd799b9.999x999x1.jpg",
+     "link_title": "Cry Me a River by\u00a0Ella\u00a0Fitzgerald",
+     "title": "Cry Me a River",
+     "type": "Song",
+     "url": "https://genius.com/Ella-fitzgerald-cry-me-a-river-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14803589",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14803589,
+      "pinned": false,
+      "share_url": "https://genius.com/14803589",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14803589/Ella-fitzgerald-cry-me-a-river/Cry-me-a-river",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3662839",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/328d45bdc8d06132abc6f98d61f5ee6c",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/328d45bdc8d06132abc6f98d61f5ee6c",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/328d45bdc8d06132abc6f98d61f5ee6c",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/328d45bdc8d06132abc6f98d61f5ee6c",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/badad6535aa8ad6658e6efdca4f5980d.800x600x1.png",
+         "human_readable_role_for_display": "Moderator",
+         "id": 3662839,
+         "iq": 1298664,
+         "login": "inewton",
+         "name": "\u200b\u200bspeeddraw \u25ab",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/inewton",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1FvjenusHGnWU2PSsYVw01",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1FvjenusHGnWU2PSsYVw01"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=AiMXd4U8kFQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/590824",
+     "header_image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "id": 590824,
+     "image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Norman Granz",
+     "url": "https://genius.com/artists/Norman-granz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 7,
+       "api_path": "/songs/6445674",
+       "artist_names": "DAK [Annaba]",
+       "full_title": "Intro by\u00a0DAK\u00a0[Annaba]",
+       "header_image_thumbnail_url": "https://images.genius.com/d7413472b2c4d3809c975eb6fadc1421.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d7413472b2c4d3809c975eb6fadc1421.1000x1000x1.jpg",
+       "id": 6445674,
+       "language": "en",
+       "lyrics_owner_id": 10958241,
+       "lyrics_state": "complete",
+       "path": "/Dak-annaba-intro-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Dak-annaba-intro-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d7413472b2c4d3809c975eb6fadc1421.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d7413472b2c4d3809c975eb6fadc1421.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false
+       },
+       "title": "Intro",
+       "title_with_featured": "Intro",
+       "url": "https://genius.com/Dak-annaba-intro-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2413689",
+        "header_image_url": "https://images.genius.com/b8f8a7fdf4d022d76f563ebefaa0fb36.1000x563x1.jpg",
+        "id": 2413689,
+        "image_url": "https://images.genius.com/49525e8dfbd75f0a22ec65e3a60bc8de.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DAK [Annaba]",
+        "url": "https://genius.com/artists/Dak-annaba"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4857052",
+       "artist_names": "\u200bsweepy",
+       "full_title": "Misguiding Windblows by\u00a0\u200bsweepy",
+       "header_image_thumbnail_url": "https://images.genius.com/cff244d4e49717791bdbb8ff9335e519.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cff244d4e49717791bdbb8ff9335e519.800x800x1.jpg",
+       "id": 4857052,
+       "language": "en",
+       "lyrics_owner_id": 4129891,
+       "lyrics_state": "complete",
+       "path": "/Sweepy-misguiding-windblows-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sweepy-misguiding-windblows-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 8,
+        "day": 16
+       },
+       "release_date_for_display": "August 16, 2019",
+       "release_date_with_abbreviated_month_for_display": "Aug. 16, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cff244d4e49717791bdbb8ff9335e519.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cff244d4e49717791bdbb8ff9335e519.800x800x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Misguiding Windblows",
+       "title_with_featured": "Misguiding Windblows",
+       "url": "https://genius.com/Sweepy-misguiding-windblows-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1687437",
+        "header_image_url": "https://images.genius.com/7b4bae33344562deb4a6b8eb38ce532c.1000x563x1.jpg",
+        "id": 1687437,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/uiyvcs6q9bm",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200bsweepy",
+        "url": "https://genius.com/artists/Sweepy",
+        "iq": 3250
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/1277001",
+       "artist_names": "Julie London",
+       "full_title": "Cry Me a River by\u00a0Julie\u00a0London",
+       "header_image_thumbnail_url": "https://images.genius.com/423400196d388df1473cdd335767f235.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/423400196d388df1473cdd335767f235.1000x1000x1.jpg",
+       "id": 1277001,
+       "language": "en",
+       "lyrics_owner_id": 1973584,
+       "lyrics_state": "complete",
+       "path": "/Julie-london-cry-me-a-river-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Julie-london-cry-me-a-river-sample",
+       "release_date_components": {
+        "year": 1955,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1955",
+       "release_date_with_abbreviated_month_for_display": "1955",
+       "song_art_image_thumbnail_url": "https://images.genius.com/423400196d388df1473cdd335767f235.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/423400196d388df1473cdd335767f235.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 36304
+       },
+       "title": "Cry Me a River",
+       "title_with_featured": "Cry Me a River",
+       "url": "https://genius.com/Julie-london-cry-me-a-river-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/364681",
+        "header_image_url": "https://images.genius.com/601ab0d7b27777baa9b208d91b8a1e44.1000x555x1.jpg",
+        "id": 364681,
+        "image_url": "https://images.genius.com/312d747693d7fed25030000656f5192c.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Julie London",
+        "url": "https://genius.com/artists/Julie-london"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/373491",
+     "header_image_url": "https://images.genius.com/f2f5a6bf5c688551f1618aaf72adb2b4.300x300x1.jpg",
+     "id": 373491,
+     "image_url": "https://images.genius.com/f2f5a6bf5c688551f1618aaf72adb2b4.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Arthur Hamilton",
+     "url": "https://genius.com/artists/Arthur-hamilton"
+    }
+   ],
+   "artist": "Ella Fitzgerald",
+   "lyrics": "16 ContributorsCry Me a River Lyrics[Verse 1]\nNow you say you're lonely\nYou cried the long night through\nWell, you can cry me a river, cry me a river\nI cried a river over you\nNow you say you're sorry\nFor being so untrue\nWell, you can cry me a river, cry me a river\nI cried, cried, cried a river over you\n\n[Chorus]\nYou drove me, nearly drove me, out of my head\nWhile you never shed a tear\nRemember, I remember, all that you said\nYou told me love was too plebeian\nTold me you were through with me and\n[Verse 2]\nNow you say, you say you love me\nWell, just to prove you do\nCome on and cry me a river, cry me a river\nCause I cried a river over you\n\n[Chorus]\nYou drove me, nearly drove me, out of my head\nWhile you never shed a tear\nRemember, remember, all that you said\nTold me love was too plebeian\nTold me you were through with me and\nNow, now you say you love me\nWell, just to prove you do\nCome on and cry, cry, cry me a river, cry me a river\nCause I cried a river over you\n\n[Verse 3]\nIf my pillow could talk, imagine what it would have said\nCould it be a river of tears I cried in bed?\nSo you can cry me a river\nDaddy, go ahead and cry that river\nCause I cried, how I cried a river over you\nHow I cried a river over youYou might also like2Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/488095",
+   "artist_names": "Ella Fitzgerald",
+   "full_title": "Summertime by\u00a0Ella\u00a0Fitzgerald",
+   "header_image_thumbnail_url": "https://images.genius.com/c131915c1e2b1bcb48e452e0fcddbb5f.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/c131915c1e2b1bcb48e452e0fcddbb5f.500x500x1.jpg",
+   "id": 488095,
+   "language": "en",
+   "lyrics_owner_id": 96792,
+   "lyrics_state": "complete",
+   "path": "/Ella-fitzgerald-summertime-lyrics",
+   "pyongs_count": 3,
+   "relationships_index_url": "https://genius.com/Ella-fitzgerald-summertime-sample",
+   "release_date_components": {
+    "year": 1964,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1964",
+   "release_date_with_abbreviated_month_for_display": "1964",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c131915c1e2b1bcb48e452e0fcddbb5f.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c131915c1e2b1bcb48e452e0fcddbb5f.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 139661
+   },
+   "title": "Summertime",
+   "title_with_featured": "Summertime",
+   "url": "https://genius.com/Ella-fitzgerald-summertime-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32784",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "id": 32784,
+    "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ella Fitzgerald",
+    "url": "https://genius.com/artists/Ella-fitzgerald"
+   },
+   "apple_music_id": "1359344747",
+   "apple_music_player_url": "https://genius.com/songs/488095/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_488095' class='rg_embed_link' data-song-id='488095'>Read <a href='https://genius.com/Ella-fitzgerald-summertime-lyrics'>\u201cSummertime\u201d by Ella\u00a0Fitzgerald</a> on Genius</div> <script crossorigin src='//genius.com/songs/488095/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/180462",
+    "cover_art_url": "https://images.genius.com/408f3d93038520acf427bf7344d94af1.1000x1000x1.jpg",
+    "full_title": "Ella At Juan-Les-Pins by Ella Fitzgerald",
+    "id": 180462,
+    "name": "Ella At Juan-Les-Pins",
+    "release_date_for_display": "January 1, 1964",
+    "url": "https://genius.com/albums/Ella-fitzgerald/Ella-at-juan-les-pins",
+    "artist": {
+     "api_path": "/artists/32784",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "id": 32784,
+     "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ella Fitzgerald",
+     "url": "https://genius.com/artists/Ella-fitzgerald"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 96792,
+    "annotator_login": "MissMusicKnowItAll",
+    "api_path": "/referents/3571946",
+    "classification": "needs_exegesis",
+    "fragment": "Summertime",
+    "id": 3571946,
+    "is_description": true,
+    "path": "/3571946/Ella-fitzgerald-summertime/Summertime",
+    "range": {
+     "content": "Summertime"
+    },
+    "song_id": 488095,
+    "url": "https://genius.com/3571946/Ella-fitzgerald-summertime/Summertime",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/488095",
+     "client_timestamps": {
+      "updated_by_human_at": 1653402160,
+      "lyrics_updated_at": 1549855989
+     },
+     "context": "Ella Fitzgerald",
+     "id": 488095,
+     "image_url": "https://images.genius.com/c131915c1e2b1bcb48e452e0fcddbb5f.500x500x1.jpg",
+     "link_title": "Summertime by\u00a0Ella\u00a0Fitzgerald",
+     "title": "Summertime",
+     "type": "Song",
+     "url": "https://genius.com/Ella-fitzgerald-summertime-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3571946",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3571946,
+      "pinned": false,
+      "share_url": "https://genius.com/3571946",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3571946/Ella-fitzgerald-summertime/Summertime",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/96792",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/96792_pinkmusic.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358290290_96792_pinkmusic.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358290291_96792_pinkmusic.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290290_96792_pinkmusic.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358290290_96792_pinkmusic.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 96792,
+         "iq": 6454,
+         "login": "MissMusicKnowItAll",
+         "name": "MissMusicKnowItAll",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MissMusicKnowItAll",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=lnXLVTi_m_M"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/590824",
+     "header_image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "id": 590824,
+     "image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Norman Granz",
+     "url": "https://genius.com/artists/Norman-granz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Ella-fitzgerald-summertime-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4691047",
+       "artist_names": "Robert \"3D\" del Naja (Ft. Scarlett Johansson)",
+       "full_title": "Summertime by\u00a0Robert\u00a0\"3D\" del Naja (Ft.\u00a0Scarlett\u00a0Johansson)",
+       "header_image_thumbnail_url": "https://images.genius.com/85e864edd57f546913ccb6d661e4bc0b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/85e864edd57f546913ccb6d661e4bc0b.500x500x1.jpg",
+       "id": 4691047,
+       "language": "en",
+       "lyrics_owner_id": 3324857,
+       "lyrics_state": "complete",
+       "path": "/Robert-3d-del-naja-summertime-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Robert-3d-del-naja-summertime-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/85e864edd57f546913ccb6d661e4bc0b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/85e864edd57f546913ccb6d661e4bc0b.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summertime",
+       "title_with_featured": "Summertime (Ft.\u00a0Scarlett\u00a0Johansson)",
+       "url": "https://genius.com/Robert-3d-del-naja-summertime-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/137914",
+         "header_image_url": "https://images.genius.com/61fd741a650d91899f1d1d1f7a5f80cb.1000x667x1.jpg",
+         "id": 137914,
+         "image_url": "https://images.genius.com/f9b0311fb3ea28508808d197ed185b03.480x480x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Scarlett Johansson",
+         "url": "https://genius.com/artists/Scarlett-johansson"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/57158",
+        "header_image_url": "https://images.genius.com/b8593d127ebb6da9f7772f531fc5f93d.355x355x1.jpg",
+        "id": 57158,
+        "image_url": "https://images.genius.com/b8593d127ebb6da9f7772f531fc5f93d.355x355x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Robert \u201c3D\u201d del Naja",
+        "url": "https://genius.com/artists/Robert-3d-del-naja"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1982005",
+       "artist_names": "Fun Boy Three",
+       "full_title": "Summertime by\u00a0Fun\u00a0Boy Three",
+       "header_image_thumbnail_url": "https://images.genius.com/7bb83386386bbf82d7c9854befceaee1.300x298x1.jpg",
+       "header_image_url": "https://images.genius.com/7bb83386386bbf82d7c9854befceaee1.500x497x1.jpg",
+       "id": 1982005,
+       "language": "en",
+       "lyrics_owner_id": 934457,
+       "lyrics_state": "complete",
+       "path": "/Fun-boy-three-summertime-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fun-boy-three-summertime-sample",
+       "release_date_components": {
+        "year": 1983,
+        "month": 2,
+        "day": null
+       },
+       "release_date_for_display": "February 1983",
+       "release_date_with_abbreviated_month_for_display": "Feb. 1983",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7bb83386386bbf82d7c9854befceaee1.300x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7bb83386386bbf82d7c9854befceaee1.500x497x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summertime",
+       "title_with_featured": "Summertime",
+       "url": "https://genius.com/Fun-boy-three-summertime-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/354214",
+        "header_image_url": "https://images.genius.com/ae2d6c9db0f5015f6b55cba78f2cfecc.200x200x1.jpg",
+        "id": 354214,
+        "image_url": "https://images.genius.com/ae2d6c9db0f5015f6b55cba78f2cfecc.200x200x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fun Boy Three",
+        "url": "https://genius.com/artists/Fun-boy-three"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/807289",
+       "artist_names": "Me First and the Gimme Gimmes",
+       "full_title": "Summertime by\u00a0Me\u00a0First and the Gimme Gimmes",
+       "header_image_thumbnail_url": "https://images.genius.com/985eb030adf7a2f02c04850e56138af2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/985eb030adf7a2f02c04850e56138af2.600x600x1.jpg",
+       "id": 807289,
+       "language": "en",
+       "lyrics_owner_id": 8121664,
+       "lyrics_state": "complete",
+       "path": "/Me-first-and-the-gimme-gimmes-summertime-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Me-first-and-the-gimme-gimmes-summertime-sample",
+       "release_date_components": {
+        "year": 1999,
+        "month": 5,
+        "day": 18
+       },
+       "release_date_for_display": "May 18, 1999",
+       "release_date_with_abbreviated_month_for_display": "May. 18, 1999",
+       "song_art_image_thumbnail_url": "https://images.genius.com/985eb030adf7a2f02c04850e56138af2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/985eb030adf7a2f02c04850e56138af2.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summertime",
+       "title_with_featured": "Summertime",
+       "url": "https://genius.com/Me-first-and-the-gimme-gimmes-summertime-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/349688",
+        "header_image_url": "https://images.genius.com/eaab43c8e7bf6d9ffad3d428017e3a01.398x398x1.jpg",
+        "id": 349688,
+        "image_url": "https://images.genius.com/eaab43c8e7bf6d9ffad3d428017e3a01.398x398x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Me First and the Gimme Gimmes",
+        "url": "https://genius.com/artists/Me-first-and-the-gimme-gimmes"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/844078",
+       "artist_names": "Victoria Vox",
+       "full_title": "Summertime by\u00a0Victoria\u00a0Vox",
+       "header_image_thumbnail_url": "https://images.genius.com/fd046ea755886c8553746fd86826c624.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fd046ea755886c8553746fd86826c624.1000x1000x1.jpg",
+       "id": 844078,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Victoria-vox-summertime-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Victoria-vox-summertime-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/fd046ea755886c8553746fd86826c624.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fd046ea755886c8553746fd86826c624.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Summertime",
+       "title_with_featured": "Summertime",
+       "url": "https://genius.com/Victoria-vox-summertime-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/391831",
+        "header_image_url": "https://images.genius.com/1f9d0d743a83d3f720c78be84798e7b9.1000x1000x1.png",
+        "id": 391831,
+        "image_url": "https://images.genius.com/fd046ea755886c8553746fd86826c624.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Victoria Vox",
+        "url": "https://genius.com/artists/Victoria-vox"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/654039",
+     "header_image_url": "https://images.genius.com/66ea2ecfa17e3764a782bee93f8b48da.218x218x1.jpg",
+     "id": 654039,
+     "image_url": "https://images.genius.com/66ea2ecfa17e3764a782bee93f8b48da.218x218x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "DuBose Heyward",
+     "url": "https://genius.com/artists/Dubose-heyward"
+    },
+    {
+     "api_path": "/artists/71149",
+     "header_image_url": "https://images.genius.com/5700feda865b816ab078920b7cbb8de4.650x270x1.jpg",
+     "id": 71149,
+     "image_url": "https://images.genius.com/7ef36777b142306ee9cd6b78d352f4ca.518x518x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "George Gershwin",
+     "url": "https://genius.com/artists/George-gershwin"
+    }
+   ],
+   "artist": "Ella Fitzgerald",
+   "lyrics": "9 ContributorsSummertime Lyrics[Chorus]\nSummertime and the livin' is easy\nFish are jumpin' and the cotton is high\nOh, your daddy's rich and your ma is good-lookin'\nSo hush little baby, don't you cry\n\n[Verse 1]\nOne of these mornings\nYou're gonna rise up singing\nYes you'll spread your wings\nAnd you'll take to the sky\nBut 'til that morning\nThere ain't nothin' can harm you\nWith Daddy and Mammy standin' by\n[Chorus]\nSummertime, and the livin' is easy\nFish are jumpin' and the cotton is high\nOh, your daddy's rich and your ma is good-lookin'\nSo hush little baby, don't you cry\n\nOh don't you cry\nOh don't you cry\nDon't you cry\nOh don't you cryYou might also like3Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1013614",
+   "artist_names": "Ella Fitzgerald",
+   "full_title": "Misty by\u00a0Ella\u00a0Fitzgerald",
+   "header_image_thumbnail_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+   "id": 1013614,
+   "language": "en",
+   "lyrics_owner_id": 5656907,
+   "lyrics_state": "complete",
+   "path": "/Ella-fitzgerald-misty-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Ella-fitzgerald-misty-sample",
+   "release_date_components": {
+    "year": 1960,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1960",
+   "release_date_with_abbreviated_month_for_display": "1960",
+   "song_art_image_thumbnail_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 61740
+   },
+   "title": "Misty",
+   "title_with_featured": "Misty",
+   "url": "https://genius.com/Ella-fitzgerald-misty-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32784",
+    "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "id": 32784,
+    "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Ella Fitzgerald",
+    "url": "https://genius.com/artists/Ella-fitzgerald"
+   },
+   "apple_music_id": "1074456536",
+   "apple_music_player_url": "https://genius.com/songs/1013614/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1013614' class='rg_embed_link' data-song-id='1013614'>Read <a href='https://genius.com/Ella-fitzgerald-misty-lyrics'>\u201cMisty\u201d by Ella\u00a0Fitzgerald</a> on Genius</div> <script crossorigin src='//genius.com/songs/1013614/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/25892",
+    "cover_art_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+    "full_title": "Let No Man Write My Epitaph by Ella Fitzgerald",
+    "id": 25892,
+    "name": "Let No Man Write My Epitaph",
+    "release_date_for_display": "April 28, 1960",
+    "url": "https://genius.com/albums/Ella-fitzgerald/Let-no-man-write-my-epitaph",
+    "artist": {
+     "api_path": "/artists/32784",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "id": 32784,
+     "image_url": "https://s3.amazonaws.com/rapgenius/Ella-Fitzgerald-9296210-1-402.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ella Fitzgerald",
+     "url": "https://genius.com/artists/Ella-fitzgerald"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5510341",
+    "classification": "needs_exegesis",
+    "fragment": "Misty",
+    "id": 5510341,
+    "is_description": true,
+    "path": "/5510341/Ella-fitzgerald-misty/Misty",
+    "range": {
+     "content": "Misty"
+    },
+    "song_id": 1013614,
+    "url": "https://genius.com/5510341/Ella-fitzgerald-misty/Misty",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1013614",
+     "client_timestamps": {
+      "updated_by_human_at": 1653301709,
+      "lyrics_updated_at": 1516159936
+     },
+     "context": "Ella Fitzgerald",
+     "id": 1013614,
+     "image_url": "https://images.genius.com/3581d1e5a0b2c3001eecd088f0a94832.1000x1000x1.jpg",
+     "link_title": "Misty by\u00a0Ella\u00a0Fitzgerald",
+     "title": "Misty",
+     "type": "Song",
+     "url": "https://genius.com/Ella-fitzgerald-misty-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5510341",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5510341,
+      "pinned": false,
+      "share_url": "https://genius.com/5510341",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5510341/Ella-fitzgerald-misty/Misty",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/590824",
+     "header_image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "id": 590824,
+     "image_url": "https://images.genius.com/e58d701192c62178eadaec0cec5ea2d8.920x920x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Norman Granz",
+     "url": "https://genius.com/artists/Norman-granz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/672292",
+       "artist_names": "Johnny Mathis",
+       "full_title": "Misty by\u00a0Johnny\u00a0Mathis",
+       "header_image_thumbnail_url": "https://images.genius.com/f518ffe2e74492d5f331a2062a9e7e47.300x303x1.jpg",
+       "header_image_url": "https://images.genius.com/f518ffe2e74492d5f331a2062a9e7e47.990x1000x1.jpg",
+       "id": 672292,
+       "language": "en",
+       "lyrics_owner_id": 1190011,
+       "lyrics_state": "complete",
+       "path": "/Johnny-mathis-misty-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Johnny-mathis-misty-sample",
+       "release_date_components": {
+        "year": 1959,
+        "month": 9,
+        "day": 1
+       },
+       "release_date_for_display": "September 1, 1959",
+       "release_date_with_abbreviated_month_for_display": "Sep. 1, 1959",
+       "song_art_image_thumbnail_url": "https://images.rapgenius.com/3863fd3ba4a761c4aad6911bce74380c.300x300x1.jpg",
+       "song_art_image_url": "https://images.rapgenius.com/3863fd3ba4a761c4aad6911bce74380c.720x720x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 46236
+       },
+       "title": "Misty",
+       "title_with_featured": "Misty",
+       "url": "https://genius.com/Johnny-mathis-misty-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/309211",
+        "header_image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+        "id": 309211,
+        "image_url": "https://images.genius.com/efe76eaf7fed1ded0e9fade796bb513c.594x587x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Johnny Mathis",
+        "url": "https://genius.com/artists/Johnny-mathis"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/372965",
+     "header_image_url": "https://images.genius.com/3232794a09a1c59d2f16e1617ac92fc7.1000x700x1.jpg",
+     "id": 372965,
+     "image_url": "https://images.genius.com/f69ac5ccf511f2fc3f7967b6f169fc81.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Erroll Garner",
+     "url": "https://genius.com/artists/Erroll-garner"
+    },
+    {
+     "api_path": "/artists/401524",
+     "header_image_url": "https://images.genius.com/9415750d06523097caa19ce4c00dedbf.198x254x1.jpg",
+     "id": 401524,
+     "image_url": "https://images.genius.com/9415750d06523097caa19ce4c00dedbf.198x254x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Burke",
+     "url": "https://genius.com/artists/Johnny-burke"
+    }
+   ],
+   "artist": "Ella Fitzgerald",
+   "lyrics": "7 ContributorsMisty LyricsLook at me, I'm as helpless as a kitten up a tree;\nAnd I feel like I'm clingin' to a cloud\nI can't understand\nI get misty, just holding your hand\nWalk my way\nAnd a thousand violins begin to play\nOr it might be the sound of your hello\nThat music I hear\nI get misty, the moment you're near\nCan't you see that you're leading me on?\nAnd it's just what I want you to do\nDon't you notice how hopelessly I'm lost\nThat's why I'm following you\nOn my own\nWould I wander through this wonderland alone\nNever knowing my right foot from my left\nMy hat from my glove\nI'm too misty, and too much in love\nToo misty\nAnd too much\nIn loveYou might also like1Embed"
+  }
+ ]
+}

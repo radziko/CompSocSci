@@ -1,0 +1,1539 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/460433",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": "imchrislane",
+ "followers_count": 22,
+ "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+ "id": 460433,
+ "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+ "instagram_name": "iamchrislane",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Chris Lane",
+ "translation_artist": false,
+ "twitter_name": "iamchrislane",
+ "url": "https://genius.com/artists/Chris-lane",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 415839,
+  "annotator_login": "jambi",
+  "api_path": "/referents/23768709",
+  "classification": "needs_exegesis",
+  "fragment": "Chris Lane",
+  "id": 23768709,
+  "is_description": true,
+  "path": "/23768709/Chris-lane/Chris-lane",
+  "range": {
+   "content": "Chris Lane"
+  },
+  "song_id": null,
+  "url": "https://genius.com/23768709/Chris-lane/Chris-lane",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/460433",
+   "context": null,
+   "id": 460433,
+   "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+   "link_title": "Chris Lane",
+   "title": "Chris Lane",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Chris-lane"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/23768709",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 23768709,
+    "pinned": false,
+    "share_url": "https://genius.com/23768709",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/23768709/Chris-lane/Chris-lane",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/415839",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/8cdc0b3c025511b6962a1c21dd92480c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/4c303cdd2f07a6112c469bc21efc6a6c.1000x563x1.jpg",
+       "human_readable_role_for_display": "Moderator",
+       "id": 415839,
+       "iq": 1188345,
+       "login": "jambi",
+       "name": "\u200bjambi",
+       "role_for_display": "moderator",
+       "url": "https://genius.com/jambi",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3796057",
+   "artist_names": "Chris Lane",
+   "full_title": "I Don't Know About You by\u00a0Chris\u00a0Lane",
+   "header_image_thumbnail_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.1000x1000x1.jpg",
+   "id": 3796057,
+   "language": "en",
+   "lyrics_owner_id": 6579542,
+   "lyrics_state": "complete",
+   "path": "/Chris-lane-i-dont-know-about-you-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/Chris-lane-i-dont-know-about-you-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 29
+   },
+   "release_date_for_display": "June 29, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 19,
+    "iq_earners": 19,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 106873
+   },
+   "title": "I Don\u2019t Know About You",
+   "title_with_featured": "I Don't Know About You",
+   "url": "https://genius.com/Chris-lane-i-dont-know-about-you-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/460433",
+    "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+    "id": 460433,
+    "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chris Lane",
+    "url": "https://genius.com/artists/Chris-lane"
+   },
+   "apple_music_id": "1440110703",
+   "apple_music_player_url": "https://genius.com/songs/3796057/apple_music_player",
+   "description": {
+    "plain": "\u201cI Don\u2019t Know About You\u201d is a song recorded by American country music singer Chris Lane. It was released in 2018 as the second single from his second major-label album Laps Around the Sun. Taste of Country describes the song as a \u201cslow jam\u201d which \u201cfinds the singer walking into a bar to find a girl he\u2019s determined to get to know.\u201d It features a \u201crhythmic singing style\u201d in which the song\u2019s narrator wants to get to know a woman more closely after encountering her in a bar."
+   },
+   "embed_content": "<div id='rg_embed_link_3796057' class='rg_embed_link' data-song-id='3796057'>Read <a href='https://genius.com/Chris-lane-i-dont-know-about-you-lyrics'>\u201cI Don't Know About You\u201d by Chris\u00a0Lane</a> on Genius</div> <script crossorigin src='//genius.com/songs/3796057/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/438924",
+    "cover_art_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.1000x1000x1.jpg",
+    "full_title": "Laps Around the Sun by Chris Lane",
+    "id": 438924,
+    "name": "Laps Around the Sun",
+    "release_date_for_display": "July 13, 2018",
+    "url": "https://genius.com/albums/Chris-lane/Laps-around-the-sun",
+    "artist": {
+     "api_path": "/artists/460433",
+     "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+     "id": 460433,
+     "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Lane",
+     "url": "https://genius.com/artists/Chris-lane"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5213573,
+    "annotator_login": "JustonMurphy",
+    "api_path": "/referents/21162330",
+    "classification": "unreviewed",
+    "fragment": "I Don\u2019t Know About You",
+    "id": 21162330,
+    "is_description": true,
+    "path": "/21162330/Chris-lane-i-dont-know-about-you/I-dont-know-about-you",
+    "range": {
+     "content": "I Don't Know About You"
+    },
+    "song_id": 3796057,
+    "url": "https://genius.com/21162330/Chris-lane-i-dont-know-about-you/I-dont-know-about-you",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3796057",
+     "client_timestamps": {
+      "updated_by_human_at": 1679316582,
+      "lyrics_updated_at": 1679316582
+     },
+     "context": "Chris Lane",
+     "id": 3796057,
+     "image_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.1000x1000x1.jpg",
+     "link_title": "I Don\u2019t Know About You by\u00a0Chris\u00a0Lane",
+     "title": "I Don't Know About You",
+     "type": "Song",
+     "url": "https://genius.com/Chris-lane-i-dont-know-about-you-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/21162330",
+      "body": {
+       "plain": "\u201cI Don\u2019t Know About You\u201d is a song recorded by American country music singer Chris Lane. It was released in 2018 as the second single from his second major-label album Laps Around the Sun. Taste of Country describes the song as a \u201cslow jam\u201d which \u201cfinds the singer walking into a bar to find a girl he\u2019s determined to get to know.\u201d It features a \u201crhythmic singing style\u201d in which the song\u2019s narrator wants to get to know a woman more closely after encountering her in a bar."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 21162330,
+      "pinned": false,
+      "share_url": "https://genius.com/21162330",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/21162330/Chris-lane-i-dont-know-about-you/I-dont-know-about-you",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5213573",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b022a7a7fe64deae1eb01ec39455d665",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b022a7a7fe64deae1eb01ec39455d665",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b022a7a7fe64deae1eb01ec39455d665",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b022a7a7fe64deae1eb01ec39455d665",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/b022a7a7fe64deae1eb01ec39455d665",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5213573,
+         "iq": 690,
+         "login": "JustonMurphy",
+         "name": "JustonMurphy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/JustonMurphy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=8aUzwbp_NfI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4432348",
+       "artist_names": "Genius Traductions fran\u00e7aises",
+       "full_title": "Chris Lane - I Don't Know About You (Traduction Fran\u00e7aise) by\u00a0Genius\u00a0Traductions fran\u00e7aises",
+       "header_image_thumbnail_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.637x637x1.jpg",
+       "id": 4432348,
+       "language": "fr",
+       "lyrics_owner_id": 3008748,
+       "lyrics_state": "complete",
+       "path": "/Genius-traductions-francaises-chris-lane-i-dont-know-about-you-traduction-francaise-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Genius-traductions-francaises-chris-lane-i-dont-know-about-you-traduction-francaise-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 6,
+        "day": 29
+       },
+       "release_date_for_display": "June 29, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jun. 29, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.637x637x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Chris Lane - I Don\u2019t Know About You (Traduction Fran\u00e7aise)",
+       "title_with_featured": "Chris Lane - I Don't Know About You (Traduction Fran\u00e7aise)",
+       "url": "https://genius.com/Genius-traductions-francaises-chris-lane-i-dont-know-about-you-traduction-francaise-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/140856",
+        "header_image_url": "https://images.genius.com/4526c8e93fe0fb881d2602d3d4971d00.1000x382x1.png",
+        "id": 140856,
+        "image_url": "https://images.genius.com/55b62a423405011d39eae7630c5d53f1.637x637x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Genius Traductions fran\u00e7aises",
+        "url": "https://genius.com/artists/Genius-traductions-francaises"
+       }
+      }
+     ]
+    }
+   ],
+   "translation_songs": [
+    {
+     "api_path": "/songs/4432348",
+     "id": 4432348,
+     "language": "fr",
+     "lyrics_state": "complete",
+     "path": "/Genius-traductions-francaises-chris-lane-i-dont-know-about-you-traduction-francaise-lyrics",
+     "title": "Chris Lane - I Don\u2019t Know About You (Traduction Fran\u00e7aise)",
+     "url": "https://genius.com/Genius-traductions-francaises-chris-lane-i-dont-know-about-you-traduction-francaise-lyrics"
+    }
+   ],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1677420",
+     "header_image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "id": 1677420,
+     "image_url": "https://images.genius.com/2c711dad8ed2f261aa21a0b37aa0e05c.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "HARDY",
+     "url": "https://genius.com/artists/Hardy",
+     "iq": 486
+    },
+    {
+     "api_path": "/artists/1172738",
+     "header_image_url": "https://images.genius.com/51617d3b7fd32097f61cfbe9beb99a11.1000x1000x1.jpg",
+     "id": 1172738,
+     "image_url": "https://images.genius.com/76dc036fc0de129e0f8b554ddc9570ce.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Jameson Rodgers",
+     "url": "https://genius.com/artists/Jameson-rodgers",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/1078430",
+     "header_image_url": "https://images.genius.com/0fa88bc77cc313ef18e9bf6360523566.959x958x1.jpg",
+     "id": 1078430,
+     "image_url": "https://images.genius.com/371176a247eb360101de4d7fdb0d7c9d.958x958x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hunter Phelps",
+     "url": "https://genius.com/artists/Hunter-phelps"
+    },
+    {
+     "api_path": "/artists/411978",
+     "header_image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "id": 411978,
+     "image_url": "https://images.genius.com/7685ec99a3317d93c5ca02cdfa293541.551x551x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ashley Gorley",
+     "url": "https://genius.com/artists/Ashley-gorley"
+    }
+   ],
+   "artist": "Chris Lane",
+   "lyrics": "19 ContributorsTranslationsFran\u00e7aisI Don\u2019t Know About You Lyrics[Verse 1]\nI don\u2019t know about you\nBut I never come into this bar\nOn a Thursday before 10 o\u2019clock\nBut I thought what the hell, why not?\n\nI don\u2019t know about you\nBut I never walk up and talk to\nA stranger but when I saw you\nI had to, I just had to\n[Pre-Chorus]\nGirl, I know your favourite beer\n'Cause you told me and I bought it\nYou can leave me sitting right here\nBut if you feel like talking\n\n[Chorus]\nWhat\u2019s your name, what\u2019s your sign, what\u2019s your birthday?\nWhat\u2019s your wrist tattoo bible verse say?\nTell me this, do you kiss on the first date?\nDon\u2019t hold anything back (don\u2019t hold anything back)\n\nWhat\u2019s your dream job?\nGirl, where\u2019s your hometown?\nYeah, what makes your world spin round and around?\nAnd are you down to get out of here too?\nTell me everything till there\u2019s nothing I don\u2019t know about you\n\n[Verse 2]\nI don\u2019t know about you\nWe can dip, we can slip out the back\nFlee the scene, put your feet on my dash\nFind a spot past the railroad tracks and never look back\nBut before that\n\n[Chorus]\nWhat\u2019s your name, what\u2019s your sign, what\u2019s your birthday?\nWhat\u2019s your wrist tattoo bible verse say?\nTell me this, do you kiss on the first date?\nDon\u2019t hold anything back (don\u2019t hold anything back)\nYou might also likeWhat\u2019s your dream job?\nGirl, where\u2019s your hometown?\nYeah, what makes your world spin around and around?\nAnd are you down to get out of here too?\nTell me everything till there\u2019s nothing I don\u2019t know about you\n\n[Bridge]\nI know you like Bud Light\nI know you got blue eyes\nI know you got my heart beating in this bar\nTonight we can jump in, fall into something\nAnd the perfect place to start is\n\n[Chorus]\nWhat\u2019s your name, what\u2019s your sign, what\u2019s your birthday?\nWhat\u2019s your wrist tattoo bible verse say?\nTell me this, do you kiss on the first date?\nDon\u2019t hold anything back (don\u2019t hold anything back)\n\nWhat\u2019s your dream job?\nGirl, where\u2019s your hometown?\nYeah, what makes your world spin around and around?\nAnd are you down to get out of here too?\nTell me everything till there\u2019s nothing I don\u2019t know about you\n\n[Outro]\nTell me everything, tell me everything\nTell me everything till there\u2019s nothing I don\u2019t know about you\nTell me everything, tell me everything\nTell me everything till there\u2019s nothing I don\u2019t know about you4Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3253038",
+   "artist_names": "Chris Lane (Ft. Tori Kelly)",
+   "full_title": "Take Back Home Girl by\u00a0Chris\u00a0Lane (Ft.\u00a0Tori\u00a0Kelly)",
+   "header_image_thumbnail_url": "https://images.genius.com/27449f58133e992e0aa7ae3a5bde14d7.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/27449f58133e992e0aa7ae3a5bde14d7.1000x1000x1.jpg",
+   "id": 3253038,
+   "language": "en",
+   "lyrics_owner_id": 2034060,
+   "lyrics_state": "complete",
+   "path": "/Chris-lane-take-back-home-girl-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Chris-lane-take-back-home-girl-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 9,
+    "day": 29
+   },
+   "release_date_for_display": "September 29, 2017",
+   "release_date_with_abbreviated_month_for_display": "Sep. 29, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd5b7b2b772712b2ad2d41f4b642ed70.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd5b7b2b772712b2ad2d41f4b642ed70.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 10,
+    "iq_earners": 10,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 71860
+   },
+   "title": "Take Back Home Girl",
+   "title_with_featured": "Take Back Home Girl (Ft.\u00a0Tori\u00a0Kelly)",
+   "url": "https://genius.com/Chris-lane-take-back-home-girl-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/19770",
+     "header_image_url": "https://images.genius.com/f5bbfa579d25767c227cd229f6bd7afe.760x380x1.jpg",
+     "id": 19770,
+     "image_url": "https://images.genius.com/805bde5afddbc477cafc71bc694d9d03.364x364x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tori Kelly",
+     "url": "https://genius.com/artists/Tori-kelly",
+     "iq": 2192
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/460433",
+    "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+    "id": 460433,
+    "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chris Lane",
+    "url": "https://genius.com/artists/Chris-lane"
+   },
+   "apple_music_id": "1440110700",
+   "apple_music_player_url": "https://genius.com/songs/3253038/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3253038' class='rg_embed_link' data-song-id='3253038'>Read <a href='https://genius.com/Chris-lane-take-back-home-girl-lyrics'>\u201cTake Back Home Girl\u201d by Chris\u00a0Lane</a> on Genius</div> <script crossorigin src='//genius.com/songs/3253038/embed.js'></script>",
+   "featured_video": true,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-09-29",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/438924",
+    "cover_art_url": "https://images.genius.com/641198bafecb5dccd1467d5e64388e89.1000x1000x1.jpg",
+    "full_title": "Laps Around the Sun by Chris Lane",
+    "id": 438924,
+    "name": "Laps Around the Sun",
+    "release_date_for_display": "July 13, 2018",
+    "url": "https://genius.com/albums/Chris-lane/Laps-around-the-sun",
+    "artist": {
+     "api_path": "/artists/460433",
+     "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+     "id": 460433,
+     "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Lane",
+     "url": "https://genius.com/artists/Chris-lane"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2034060,
+    "annotator_login": "nzboss99",
+    "api_path": "/referents/13130264",
+    "classification": "needs_exegesis",
+    "fragment": "Take Back Home Girl",
+    "id": 13130264,
+    "is_description": true,
+    "path": "/13130264/Chris-lane-take-back-home-girl/Take-back-home-girl",
+    "range": {
+     "content": "Take Back Home Girl"
+    },
+    "song_id": 3253038,
+    "url": "https://genius.com/13130264/Chris-lane-take-back-home-girl/Take-back-home-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3253038",
+     "client_timestamps": {
+      "updated_by_human_at": 1623643799,
+      "lyrics_updated_at": 1566702216
+     },
+     "context": "Chris Lane",
+     "id": 3253038,
+     "image_url": "https://images.genius.com/cd5b7b2b772712b2ad2d41f4b642ed70.1000x1000x1.jpg",
+     "link_title": "Take Back Home Girl by\u00a0Chris\u00a0Lane (Ft.\u00a0Tori\u00a0Kelly)",
+     "title": "Take Back Home Girl",
+     "type": "Song",
+     "url": "https://genius.com/Chris-lane-take-back-home-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/13130264",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 13130264,
+      "pinned": false,
+      "share_url": "https://genius.com/13130264",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/13130264/Chris-lane-take-back-home-girl/Take-back-home-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2034060",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2b74604953ff1ec9fbda385dc748e9c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ouwLD8I2RAiEfkKCkH70_IMG_0001.jpg",
+         "human_readable_role_for_display": "Moderator",
+         "id": 2034060,
+         "iq": 351863,
+         "login": "nzboss99",
+         "name": "\u200bnzboss99",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/nzboss99",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZxqDUGnnZ3k"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/60204",
+     "header_image_url": "https://images.genius.com/d943231989e7a26f7bb9c24c161292c5.312x312x1.png",
+     "id": 60204,
+     "image_url": "https://images.genius.com/d943231989e7a26f7bb9c24c161292c5.312x312x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Josh Miller",
+     "url": "https://genius.com/artists/Josh-miller"
+    },
+    {
+     "api_path": "/artists/398449",
+     "header_image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+     "id": 398449,
+     "image_url": "https://images.genius.com/3cd0916ee6f8acaaf4e3473171d83950.300x300x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Hillary Lindsey",
+     "url": "https://genius.com/artists/Hillary-lindsey"
+    },
+    {
+     "api_path": "/artists/334215",
+     "header_image_url": "https://images.genius.com/fc09c2fdd2b3b02853bf573cc241ebd4.512x512x1.jpg",
+     "id": 334215,
+     "image_url": "https://images.genius.com/fc09c2fdd2b3b02853bf573cc241ebd4.512x512x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Garcia",
+     "url": "https://genius.com/artists/David-garcia"
+    }
+   ],
+   "artist": "Chris Lane",
+   "lyrics": "10 ContributorsTake Back Home Girl Lyrics[Verse 1: Chris Lane & Tori Kelly]\nDuffle bag, backseat\nMy dash, your feet\nThose other side of the highway headlights making you shine\nMy hand, your leg\nPlaylist playing\nEven though I haven't made it yet\nI'm dragging it, dropping it in my mind\n\n[Chorus: Chris Lane & Tori Kelly]\nYou're a drive real slow, down a no lane road\nTo a house on a hill where the wild things grow\nYou wake up in pajamas, not a trace of makeup on ya\nYou're a help her fix it, having breakfast with my momma\nYou're a take back home, home, home girl\nHome, home, home girl\nTake back home, home, home girl\nHome, home, home girl\n[Verse 2: Tori Kelly & Chris Lane]\nYou're the kind I wanna take a ride with\nSit by on a Friday night\nIn the stadium lights, side by side\nAll the ladies like, \"Yeah, she's doing just fine\"\nEverybody in the bleachers, they all gon' want to meet ya\nFrom my teachers to my preacher\nMy little crowd pleaser\nParading with you feeling homecoming cool, yeah\n\n[Chorus: Chris Lane & Tori Kelly]\nI wanna drive real slow, down a no lane road\nTo a house on a hill where the wild things grow\nYou wake up in pajamas, not a trace of makeup on ya\nYou're a help her fix it, having breakfast with my momma\nYou're a take back home, home, home girl\nHome, home, home girl\nTake back home, home, home girl\nHome, home, home girl\n\n[Post-Chorus: Chris Lane & Tori Kelly]\nYou're a take back, you're a take back\nYou're a take back home girl\nYou're a take back home\nYou're a take back home girl\nYou might also like[Bridge: Chris Lane]\nYou got that down-home, homegrown, found on good ground soul\nThat down-home, homegrown, found on good ground soul\n\n[Chorus: Chris Lane & Tori Kelly]\nYou're a drive real slow, down a no lane road\nTo a house on a hill where the wild things grow\nYou wake up in pajamas, not a trace of makeup on ya\nYou're a help her fix it, having breakfast with my momma\nYou're a take back home, home, home girl\nHome, home, home girl\nTake back home, home, home girl\nHome, home, home girl\n\n[Post-Chorus: Chris Lane & Tori Kelly]\nYou're a take back, you're a take back\nYou're a take back home girl\nYou're a take back home, yeah\nYou're a take back home girl\nYou're a take back home5Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4664076",
+   "artist_names": "Chris Lane",
+   "full_title": "Big, Big Plans by\u00a0Chris\u00a0Lane",
+   "header_image_thumbnail_url": "https://images.genius.com/5d5f910ccff3b5f12f2dbfcb26c5176d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5d5f910ccff3b5f12f2dbfcb26c5176d.1000x1000x1.jpg",
+   "id": 4664076,
+   "language": "en",
+   "lyrics_owner_id": 126836,
+   "lyrics_state": "complete",
+   "path": "/Chris-lane-big-big-plans-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Chris-lane-big-big-plans-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 6,
+    "day": 28
+   },
+   "release_date_for_display": "June 28, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jun. 28, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5d5f910ccff3b5f12f2dbfcb26c5176d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5d5f910ccff3b5f12f2dbfcb26c5176d.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 31188
+   },
+   "title": "Big, Big Plans",
+   "title_with_featured": "Big, Big Plans",
+   "url": "https://genius.com/Chris-lane-big-big-plans-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/460433",
+    "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+    "id": 460433,
+    "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Chris Lane",
+    "url": "https://genius.com/artists/Chris-lane"
+   },
+   "apple_music_id": "1469319642",
+   "apple_music_player_url": "https://genius.com/songs/4664076/apple_music_player",
+   "description": {
+    "plain": "In this song, he is talking about how he has big big plans for him and his soon to be wife! He also talked about the ring he got her! He also talks about where he proposed to her at(in her hometown..awww)!"
+   },
+   "embed_content": "<div id='rg_embed_link_4664076' class='rg_embed_link' data-song-id='4664076'>Read <a href='https://genius.com/Chris-lane-big-big-plans-lyrics'>\u201cBig, Big Plans\u201d by Chris\u00a0Lane</a> on Genius</div> <script crossorigin src='//genius.com/songs/4664076/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-06-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/649472",
+    "cover_art_url": "https://images.genius.com/661829a095d193c035425c25903c5f7d.600x600x1.jpg",
+    "full_title": "Nu Country Traxx #247 by ERG Music",
+    "id": 649472,
+    "name": "Nu Country Traxx #247",
+    "release_date_for_display": "November 2019",
+    "url": "https://genius.com/albums/Erg-music/Nu-country-traxx-247",
+    "artist": {
+     "api_path": "/artists/2049019",
+     "header_image_url": "https://images.genius.com/102dfd353f1fcfd9b17e16f8e8278404.1000x563x1.jpg",
+     "id": 2049019,
+     "image_url": "https://images.genius.com/c1c7fd4ba9af860fea642e3d4a26e952.399x399x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ERG Music",
+     "url": "https://genius.com/artists/Erg-music"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 12380808,
+    "annotator_login": "Brii_22",
+    "api_path": "/referents/17486691",
+    "classification": "unreviewed",
+    "fragment": "Big, Big Plans",
+    "id": 17486691,
+    "is_description": true,
+    "path": "/17486691/Chris-lane-big-big-plans/Big-big-plans",
+    "range": {
+     "content": "Big, Big Plans"
+    },
+    "song_id": 4664076,
+    "url": "https://genius.com/17486691/Chris-lane-big-big-plans/Big-big-plans",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4664076",
+     "client_timestamps": {
+      "updated_by_human_at": 1623643700,
+      "lyrics_updated_at": 1611084225
+     },
+     "context": "Chris Lane",
+     "id": 4664076,
+     "image_url": "https://images.genius.com/5d5f910ccff3b5f12f2dbfcb26c5176d.1000x1000x1.jpg",
+     "link_title": "Big, Big Plans by\u00a0Chris\u00a0Lane",
+     "title": "Big, Big Plans",
+     "type": "Song",
+     "url": "https://genius.com/Chris-lane-big-big-plans-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17486691",
+      "body": {
+       "plain": "In this song, he is talking about how he has big big plans for him and his soon to be wife! He also talked about the ring he got her! He also talks about where he proposed to her at(in her hometown..awww)!"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17486691,
+      "pinned": false,
+      "share_url": "https://genius.com/17486691",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17486691/Chris-lane-big-big-plans/Big-big-plans",
+      "verified": false,
+      "votes_total": 3,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/12380808",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/d8f5fd372545b1d99f28287cecc05963",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/d8f5fd372545b1d99f28287cecc05963",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/d8f5fd372545b1d99f28287cecc05963",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/d8f5fd372545b1d99f28287cecc05963",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/a4k9qk7ny0v",
+         "human_readable_role_for_display": "Contributor",
+         "id": 12380808,
+         "iq": 1443,
+         "login": "Brii_22",
+         "name": "Brii_22",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Brii_22",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/93685",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/eef1301d558fe7caf2ab0668b8a747e0",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/5d9fd826e38ad61f98aa9b6985263347.1000x263x121.gif",
+    "human_readable_role_for_display": "Staff",
+    "id": 93685,
+    "iq": 1232027,
+    "login": "killersnowtiger",
+    "name": "\u200bKST",
+    "role_for_display": "staff",
+    "url": "https://genius.com/killersnowtiger",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "native_uri": "spotify:track:7yNJCsUH3tXlpQiHSsAc5l",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/7yNJCsUH3tXlpQiHSsAc5l"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Jh-MYDF0hr4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1281522",
+     "header_image_url": "https://images.genius.com/cb9a9d8a3c174b8dd97edcc3f76e4bc9.239x239x1.jpg",
+     "id": 1281522,
+     "image_url": "https://images.genius.com/cb9a9d8a3c174b8dd97edcc3f76e4bc9.239x239x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jacob Durrett",
+     "url": "https://genius.com/artists/Jacob-durrett"
+    },
+    {
+     "api_path": "/artists/1223544",
+     "header_image_url": "https://images.genius.com/d3f261bf4302b3a898a5d63cc5e24c03.960x960x1.jpg",
+     "id": 1223544,
+     "image_url": "https://images.genius.com/951cea6eabf2d7ec4bc7a2ded43931b5.960x960x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ERNEST",
+     "url": "https://genius.com/artists/Ernest"
+    },
+    {
+     "api_path": "/artists/460433",
+     "header_image_url": "https://images.genius.com/e7afc1a08d8bc4e673c8d38e40b1e3ca.1000x305x1.jpg",
+     "id": 460433,
+     "image_url": "https://images.genius.com/d4b0e6c17368e1d90b72e6a69dfb8d65.734x734x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Chris Lane",
+     "url": "https://genius.com/artists/Chris-lane"
+    }
+   ],
+   "artist": "Chris Lane",
+   "lyrics": "8 ContributorsBig, Big Plans Lyrics[Verse 1]\nJust look at her sittin' there\nSweatpants, t-shirt, in her comfy chair, hmm\nHer hair in a bun, one hand on a mug\nAnd the other one\u2019s playin' snare\nTo a George Strait vinyl, that yes-or-no line will get her close\nBut I don't think she can understand\nJust how far I\u2019ve been lettin' my heart fall\nBut what's in my head\n\n[Chorus]\nShe don't know I got some big, big plans\nBuild a little house out on some hand-me-down land\nFind a little island where we go to get tan\nI bet we take our kids down there one day\nAnd I know she wouldn't mind if I\nDid a little somethin' like find a flight\nOvernight to paradise and leave tonight\nAnd I'ma put a diamond on her hand\n[Post-Chorus]\nShe don't know I got some big, big plans\nWell, she don\u2019t know, well, she don\u2019t know\nShe don't know I got some big, big plans\nWell, she don\u2019t know, well, she don't know\n\n[Verse 2]\nWell, she don't know I already bought a ring\nHid it in the bottom left drawer, right beside the sink\nA shiny emerald diamond on a brand-new band\nAsked her mama for permission and her daddy for her hand\n\n[Chorus]\nI got some big, big plans\nBuild a little house out on some hand-me-down land\nFind a little island where we go to get tan\nI bet we take our kids down there one day\nAnd I know she wouldn't mind if I\nDid a little somethin\u2019 like find a flight\nOvernight to paradise and leave tonight\nAnd I'ma put a diamond on her hand\n\n[Post-Chorus]\nShe don't know I got some big, big plans\nWell, she don't know, well, she don't know\nShe don't know I got some big, big plans\nWell, she don't know, well, she don't know\nYou might also like[Bridge]\nWell, here I go\n'Cause right now, we're back in her hometown\nAnd I'm down on one knee\nI guess she finally figured out\nI'm gonna ask her to marry me\n\n[Chorus]\nI got some big, big plans\nBuild a little house out on some hand-me-down land\nFind a little island where we go to get tan\nI bet we take our kids down there one day\nAnd I know she wouldn't mind if I\nDid a little somethin' like find a flight\nOvernight to paradise and leave tonight\nAnd I'ma put a diamond on her hand\n\n[Post-Chorus]\nShe don't know I got some big, big plans\nWell, she don't know, well, she don't know\nShe don't know I got some big, big plans\nWell, she don't know, well, she don't know6Embed"
+  }
+ ]
+}

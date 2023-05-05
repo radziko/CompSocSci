@@ -1,0 +1,2252 @@
+{
+ "alternate_names": [
+  "The Walmart Yodeling Boy",
+  "Walmart Yodeling Kid",
+  "Lil Hank Williams"
+ ],
+ "api_path": "/artists/1441047",
+ "description": {
+  "plain": "Viral phenomenon also known as \u201cThe Walmart Yodeling Boy\u201d who set the Internet on fire when video of him yodeling in an Illinois Walmart was published on YouTube. He released his first single \u201cFamous\u201d in 2018. He began singing the songs of Hank Williams Sr. at three years old. He performed at Coachella 2018 with DJ Ethan Snoreck, AKA Whethan. He would surpass more than 1.8 million followers on the Instagram account lilhankwilliams.  His grandmother Frances Ramsey has managed his Instagram account. He got to hang out with Justin Bieber while at Coachella 2018."
+ },
+ "facebook_name": "theMasonRamsey",
+ "followers_count": 20,
+ "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+ "id": 1441047,
+ "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+ "instagram_name": "masonramsey",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Mason Ramsey",
+ "translation_artist": false,
+ "twitter_name": "masonramsey",
+ "url": "https://genius.com/artists/Mason-ramsey",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6345119,
+  "annotator_login": "fortnite4eva",
+  "api_path": "/referents/14428406",
+  "classification": "accepted",
+  "fragment": "Mason Ramsey",
+  "id": 14428406,
+  "is_description": true,
+  "path": "/14428406/Mason-ramsey/Mason-ramsey",
+  "range": {
+   "content": "Mason Ramsey"
+  },
+  "song_id": null,
+  "url": "https://genius.com/14428406/Mason-ramsey/Mason-ramsey",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1441047",
+   "context": null,
+   "id": 1441047,
+   "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+   "link_title": "Mason Ramsey",
+   "title": "Mason Ramsey",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Mason-ramsey"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/14428406",
+    "body": {
+     "plain": "Viral phenomenon also known as \u201cThe Walmart Yodeling Boy\u201d who set the Internet on fire when video of him yodeling in an Illinois Walmart was published on YouTube. He released his first single \u201cFamous\u201d in 2018. He began singing the songs of Hank Williams Sr. at three years old. He performed at Coachella 2018 with DJ Ethan Snoreck, AKA Whethan. He would surpass more than 1.8 million followers on the Instagram account lilhankwilliams.  His grandmother Frances Ramsey has managed his Instagram account. He got to hang out with Justin Bieber while at Coachella 2018."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 14428406,
+    "pinned": false,
+    "share_url": "https://genius.com/14428406",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/14428406/Mason-ramsey/Mason-ramsey",
+    "verified": false,
+    "votes_total": 11,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6345119",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/196cfcb2fc4a817298353e3e96bf8f29",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/196cfcb2fc4a817298353e3e96bf8f29",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/196cfcb2fc4a817298353e3e96bf8f29",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/196cfcb2fc4a817298353e3e96bf8f29",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/196cfcb2fc4a817298353e3e96bf8f29",
+       "human_readable_role_for_display": null,
+       "id": 6345119,
+       "iq": 227,
+       "login": "fortnite4eva",
+       "name": "fortnite4eva",
+       "role_for_display": null,
+       "url": "https://genius.com/fortnite4eva",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/3678761",
+   "artist_names": "Mason Ramsey",
+   "full_title": "Famous by\u00a0Mason\u00a0Ramsey",
+   "header_image_thumbnail_url": "https://images.genius.com/17a18324437ba0c38b4eb8dbe62fb653.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/17a18324437ba0c38b4eb8dbe62fb653.1000x1000x1.jpg",
+   "id": 3678761,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Mason-ramsey-famous-lyrics",
+   "pyongs_count": 13,
+   "relationships_index_url": "https://genius.com/Mason-ramsey-famous-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 4,
+    "day": 27
+   },
+   "release_date_for_display": "April 27, 2018",
+   "release_date_with_abbreviated_month_for_display": "Apr. 27, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/17a18324437ba0c38b4eb8dbe62fb653.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/17a18324437ba0c38b4eb8dbe62fb653.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 4,
+    "contributors": 38,
+    "iq_earners": 38,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 210914
+   },
+   "title": "Famous",
+   "title_with_featured": "Famous",
+   "url": "https://genius.com/Mason-ramsey-famous-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1441047",
+    "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+    "id": 1441047,
+    "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mason Ramsey",
+    "url": "https://genius.com/artists/Mason-ramsey"
+   },
+   "apple_music_id": "1411609272",
+   "apple_music_player_url": "https://genius.com/songs/3678761/apple_music_player",
+   "description": {
+    "plain": "Mason Ramsey, a.k.a. the \u201cWalmart Yodeling Boy\u201d, faces his newfound fame head on in his first new single.\n\nThe eleven-year-old has exploded into the musical scene, performing all across the country, most notably at the revered music festival, Coachella with electronic producer Whethan.\n\nHowever, in this song, he deflects this fame from his music to his attitude about how a girl ought to be treated romantically. While he is young, he certainly knows the importance of treating his significant other right."
+   },
+   "embed_content": "<div id='rg_embed_link_3678761' class='rg_embed_link' data-song-id='3678761'>Read <a href='https://genius.com/Mason-ramsey-famous-lyrics'>\u201cFamous\u201d by Mason\u00a0Ramsey</a> on Genius</div> <script crossorigin src='//genius.com/songs/3678761/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-04-27",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/441594",
+    "cover_art_url": "https://images.genius.com/739ad26f9a6fcf4ccd8cb9d6c10a7b56.600x600x1.jpg",
+    "full_title": "Famous - EP by Mason Ramsey",
+    "id": 441594,
+    "name": "Famous - EP",
+    "release_date_for_display": "July 20, 2018",
+    "url": "https://genius.com/albums/Mason-ramsey/Famous-ep",
+    "artist": {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1441047",
+       "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+       "id": 1441047,
+       "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mason Ramsey",
+       "url": "https://genius.com/artists/Mason-ramsey"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1441047",
+       "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+       "id": 1441047,
+       "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mason Ramsey",
+       "url": "https://genius.com/artists/Mason-ramsey"
+      },
+      {
+       "api_path": "/artists/1209339",
+       "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "id": 1209339,
+       "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ilya Toshinskiy",
+       "url": "https://genius.com/artists/Ilya-toshinskiy"
+      }
+     ]
+    },
+    {
+     "label": "Backing Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1022741",
+       "header_image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+       "id": 1022741,
+       "image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Wes Hightower",
+       "url": "https://genius.com/artists/Wes-hightower"
+      },
+      {
+       "api_path": "/artists/227633",
+       "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+       "id": 227633,
+       "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joey Moi",
+       "url": "https://genius.com/artists/Joey-moi"
+      }
+     ]
+    },
+    {
+     "label": "Mix Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/227633",
+       "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+       "id": 227633,
+       "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joey Moi",
+       "url": "https://genius.com/artists/Joey-moi"
+      }
+     ]
+    },
+    {
+     "label": "Pedal Steel Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1176502",
+       "header_image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+       "id": 1176502,
+       "image_url": "https://images.genius.com/a1ba8a6f69de1cf64a7e797412a429b2.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Justin Schipper",
+       "url": "https://genius.com/artists/Justin-schipper"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1209339",
+       "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "id": 1209339,
+       "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ilya Toshinskiy",
+       "url": "https://genius.com/artists/Ilya-toshinskiy"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1458570",
+       "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+       "id": 1458570,
+       "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Roe",
+       "url": "https://genius.com/artists/Jerry-roe"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/158702",
+       "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+       "id": 158702,
+       "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jimmie Lee Sloas",
+       "url": "https://genius.com/artists/Jimmie-lee-sloas"
+      }
+     ]
+    },
+    {
+     "label": "Banjo",
+     "artists": [
+      {
+       "api_path": "/artists/1209339",
+       "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "id": 1209339,
+       "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ilya Toshinskiy",
+       "url": "https://genius.com/artists/Ilya-toshinskiy"
+      }
+     ]
+    },
+    {
+     "label": "Keyboard",
+     "artists": [
+      {
+       "api_path": "/artists/1003323",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1003323,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cohen",
+       "url": "https://genius.com/artists/Dave-cohen"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/662408",
+       "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "id": 662408,
+       "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Mendelson",
+       "url": "https://genius.com/artists/Andrew-mendelson"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2904724,
+    "annotator_login": "acalaciura7",
+    "api_path": "/referents/14432068",
+    "classification": "accepted",
+    "fragment": "Famous",
+    "id": 14432068,
+    "is_description": true,
+    "path": "/14432068/Mason-ramsey-famous/Famous",
+    "range": {
+     "content": "Famous"
+    },
+    "song_id": 3678761,
+    "url": "https://genius.com/14432068/Mason-ramsey-famous/Famous",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3678761",
+     "client_timestamps": {
+      "updated_by_human_at": 1604698593,
+      "lyrics_updated_at": 1604698593
+     },
+     "context": "Mason Ramsey",
+     "id": 3678761,
+     "image_url": "https://images.genius.com/17a18324437ba0c38b4eb8dbe62fb653.1000x1000x1.jpg",
+     "link_title": "Famous by\u00a0Mason\u00a0Ramsey",
+     "title": "Famous",
+     "type": "Song",
+     "url": "https://genius.com/Mason-ramsey-famous-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14432068",
+      "body": {
+       "plain": "Mason Ramsey, a.k.a. the \u201cWalmart Yodeling Boy\u201d, faces his newfound fame head on in his first new single.\n\nThe eleven-year-old has exploded into the musical scene, performing all across the country, most notably at the revered music festival, Coachella with electronic producer Whethan.\n\nHowever, in this song, he deflects this fame from his music to his attitude about how a girl ought to be treated romantically. While he is young, he certainly knows the importance of treating his significant other right."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14432068,
+      "pinned": false,
+      "share_url": "https://genius.com/14432068",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14432068/Mason-ramsey-famous/Famous",
+      "verified": false,
+      "votes_total": 17,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.7349397590361445,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2904724",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/69c65d157e93becc53a6ae1162eb1dc6",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/69c65d157e93becc53a6ae1162eb1dc6",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/69c65d157e93becc53a6ae1162eb1dc6",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/69c65d157e93becc53a6ae1162eb1dc6",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/69c65d157e93becc53a6ae1162eb1dc6",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2904724,
+         "iq": 2821,
+         "login": "acalaciura7",
+         "name": "acalaciura7",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/acalaciura7",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.2650602409638554,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6214403",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/76d66c0d8c50bd537891472269078615",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/76d66c0d8c50bd537891472269078615",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/76d66c0d8c50bd537891472269078615",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/76d66c0d8c50bd537891472269078615",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/8957627763c310f00464efd05951a953.564x851x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 6214403,
+         "iq": 145723,
+         "login": "AbrahamTse",
+         "name": "Abraham Tse",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AbrahamTse",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:2HGymMoOdB4ZYv0AAqYmgF",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2HGymMoOdB4ZYv0AAqYmgF"
+    },
+    {
+     "attribution": "themasonramsey",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/themasonramsey/famous"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=NukmFF__G-g"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/356006",
+     "header_image_url": "https://images.genius.com/09f0d64e3d5658016412605d09d75d7c.676x676x1.jpg",
+     "id": 356006,
+     "image_url": "https://images.genius.com/09f0d64e3d5658016412605d09d75d7c.676x676x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Corey Crowder",
+     "url": "https://genius.com/artists/Corey-crowder"
+    },
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    },
+    {
+     "api_path": "/artists/257243",
+     "header_image_url": "https://images.genius.com/13ec048fb69899f8d861fac033cdbec7.960x540x1.jpg",
+     "id": 257243,
+     "image_url": "https://images.genius.com/3a77fff69e83563c17ffeacadb0e7873.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Canaan Smith",
+     "url": "https://genius.com/artists/Canaan-smith"
+    },
+    {
+     "api_path": "/artists/4794",
+     "header_image_url": "https://images.genius.com/641b047ad31d58cf7d0896cc7504c801.640x284x1.jpg",
+     "id": 4794,
+     "image_url": "https://images.genius.com/641b047ad31d58cf7d0896cc7504c801.640x284x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Sarah Buxton",
+     "url": "https://genius.com/artists/Sarah-buxton"
+    },
+    {
+     "api_path": "/artists/977349",
+     "header_image_url": "https://images.genius.com/35d1dcbcf680d7db4cfbf5a01b57871b.1000x333x1.jpg",
+     "id": 977349,
+     "image_url": "https://images.genius.com/c13ede13f781c864c6213084ab775bf9.400x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Tyler Hubbard",
+     "url": "https://genius.com/artists/Tyler-hubbard"
+    },
+    {
+     "api_path": "/artists/356006",
+     "header_image_url": "https://images.genius.com/09f0d64e3d5658016412605d09d75d7c.676x676x1.jpg",
+     "id": 356006,
+     "image_url": "https://images.genius.com/09f0d64e3d5658016412605d09d75d7c.676x676x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Corey Crowder",
+     "url": "https://genius.com/artists/Corey-crowder"
+    }
+   ],
+   "artist": "Mason Ramsey",
+   "lyrics": "38 ContributorsFamous Lyrics[Verse 1]\nDon't get me wrong, it's pretty cool to be on TV\nSo all the folks back home can see me\nAnd that I'm livin' it out\nAll the things I used to dream about\nYeah, it's pretty great, singin' on a stage\nProud 'cause there ain't an empty seat in the place\nBut, girl, ever since I met you\nI got a whole new perspective\n\n[Chorus]\nIf I'm gonna be famous for somethin'\nI wanna be famous for lovin' you\nIf I'm gonna be known around the world\nI wanna because of you, girl\nNothin' wrong with the center of attention\nLong as I'm with you, I don't mind the pictures\nIf I'm gonna be famous for somethin'\nGirl, I wanna be famous for lovin' you\nFamous for lovin' you\n\n[Verse 2]\nYeah, I hope the first question people ask me\nIs \"How's your girl and how's your family?\"\nI could go on and on and on\nTalkin' 'bout you for days\nYou can bet when I hear, \"Congratulations\"\nWant it to be because we made it\nAnother five years\nBest thing I got is right here\nYou might also like[Chorus]\nIf I'm gonna be famous for somethin'\nI wanna be famous for lovin' you\nIf I'm gonna be known around the world\nI wanna because of you, girl\nNothin' wrong with the center of attention\nLong as I'm with you, I don't mind the pictures\nIf I'm gonna be famous for somethin'\nGirl, I wanna be famous for lovin' you\nOoh, famous for lovin' you, ooh\nIf I'm gonna be famous for somethin'\nI wanna be famous for lovin' you\nIf I'm gonna be known around the world\nI wanna because of you, girl\nAnd if I'm gonna go down in history\nI hope it's all 'cause of you and me\nIf I'm gonna be famous for somethin\u2019\nGirl, I wanna be famous for lovin' you\nFamous for lovin' you\nFamous for lovin' you13Embed"
+  },
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/3641007",
+   "artist_names": "Mason Ramsey",
+   "full_title": "Lovesick Blues (Walmart Performance) by\u00a0Mason\u00a0Ramsey",
+   "header_image_thumbnail_url": "https://images.genius.com/df8f9cccc9946089b8deee8a9bd7ba36.300x225x1.jpg",
+   "header_image_url": "https://images.genius.com/df8f9cccc9946089b8deee8a9bd7ba36.750x563x1.jpg",
+   "id": 3641007,
+   "language": "en",
+   "lyrics_owner_id": 4312913,
+   "lyrics_state": "complete",
+   "path": "/Mason-ramsey-lovesick-blues-walmart-performance-lyrics",
+   "pyongs_count": 6,
+   "relationships_index_url": "https://genius.com/Mason-ramsey-lovesick-blues-walmart-performance-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 3,
+    "day": 24
+   },
+   "release_date_for_display": "March 24, 2018",
+   "release_date_with_abbreviated_month_for_display": "Mar. 24, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/df8f9cccc9946089b8deee8a9bd7ba36.300x225x1.jpg",
+   "song_art_image_url": "https://images.genius.com/df8f9cccc9946089b8deee8a9bd7ba36.750x563x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 22,
+    "iq_earners": 22,
+    "transcribers": 1,
+    "unreviewed_annotations": 3,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 121554
+   },
+   "title": "Lovesick Blues (Walmart Performance)",
+   "title_with_featured": "Lovesick Blues (Walmart Performance)",
+   "url": "https://genius.com/Mason-ramsey-lovesick-blues-walmart-performance-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1441047",
+    "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+    "id": 1441047,
+    "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mason Ramsey",
+    "url": "https://genius.com/artists/Mason-ramsey"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/3641007/apple_music_player",
+   "description": {
+    "plain": "NOTE: This is Lil Hank Williams\u2019s rendition of the classic country song \u201cLovesick Blues\u201d. Although there are some similarities between this version and the original song, the lyrics are distinct enough to the point where it\u2019s appropriate to consider them 2 unique songs.  \n\n\u201cLovesick Blues\u201d is a song about a man who finds himself within a depressive state of mind due to his reminiscing of a previous lover.\nThe original \u201cLovesick Blues\u201d first appeared in the 1922 musical \u201cOh, Ernest\u201d. However, the first person to record it, which was Emmett Miller, didn\u2019t do so until 6 years after it first appeared in the musical. Although there were a number of other musicians who recorded their own cover of the song since Miller, the most significant and  notable person to cover \u201cLovesick Blues\u201d was the renowned country artist known as Hank Williams Sr,. who started performing the song in 1948. Hank Williams Sr. is the favorite artist of 10 year-old musician Mason Ramsey (otherwise known as Lil Hank Williams).\nOn March 24th, 2018, while Mason Ramsey was at his local Walmart, a lady recognized him from a past performance of his and she requested him to perform a song. In an interview later that week, Ramsey said, \u201c\u2026if someone asks me for a song I won\u2019t turn them down\u201d. Staying true to that principle, Lil Hank Williams spontaneously performed \u201cLovesick Blues\u201d right in the middle of Walmart.\n\u201cLovesick Blues\u201d is one of his favorite songs by one of his favorite artists (Hank Williams Sr.). The song is quite difficult to perform due to the multiple parts that require yodeling. Despite that, Lil Hank Williams\u2019s a cappella performance of \u201cLovesick Blues\u201d was nothing short of spectacular. His exhibition displayed his underrated natural talent and well trained, musical voice. It is likely that Ramsey\u2019s performance surpassed the expectations of the majority of the video\u2019s viewers, due to the fact that his age and inexperience would cause them to expect less of him.\nMason Ramsey\u2019s video went viral virtually instantaneously. In less than 2 and a half weeks, it had 5.5 million views on Instagram. Also, Lil Hank Williams\u2019s performance spread so quickly that it earned the young superstar multiple shout outs from several celebrities, primarily ones from musicians Steve Aoki and The Chainsmokers, as well as a \u201cdance tribute\u201d from Stranger Things actor Millie Bobby Brown.\nIn addition, the publicity has caused Walmart to put on a concert at the same branch he performed in originally to \u201clet him shine!\u201d On top of all of that, a follow-up tweet from the  company asked a variety of music artists if they would be willing to do a show with Lil Hank Williams. Some of these artists included Snoop Dogg, Blake Shelton, and Katy Perry."
+   },
+   "embed_content": "<div id='rg_embed_link_3641007' class='rg_embed_link' data-song-id='3641007'>Read <a href='https://genius.com/Mason-ramsey-lovesick-blues-walmart-performance-lyrics'>\u201cLovesick Blues (Walmart Performance)\u201d by Mason\u00a0Ramsey</a> on Genius</div> <script crossorigin src='//genius.com/songs/3641007/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "A Walmart in Harrisburg, Illinois",
+   "release_date": "2018-03-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/956333",
+    "cover_art_url": "https://images.genius.com/632465ad3e2e5c0c4a2a226fe0276c3c.540x540x1.jpg",
+    "full_title": "Dawn Medrek: Official YouTube Soundtrack by Dawn Medrek",
+    "id": 956333,
+    "name": "Dawn Medrek: Official YouTube Soundtrack",
+    "release_date_for_display": null,
+    "url": "https://genius.com/albums/Dawn-medrek/Dawn-medrek-official-youtube-soundtrack",
+    "artist": {
+     "api_path": "/artists/3145936",
+     "header_image_url": "https://images.genius.com/7a4ea306348baf139a662875eca4300b.1000x429x1.png",
+     "id": 3145936,
+     "image_url": "https://images.genius.com/39dd56dc05c6334b459ddc6de44d2dcb.943x943x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dawn Medrek",
+     "url": "https://genius.com/artists/Dawn-medrek"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4312913,
+    "annotator_login": "camburton23",
+    "api_path": "/referents/14287450",
+    "classification": "unreviewed",
+    "fragment": "Lovesick Blues (Walmart Performance)",
+    "id": 14287450,
+    "is_description": true,
+    "path": "/14287450/Mason-ramsey-lovesick-blues-walmart-performance/Lovesick-blues-walmart-performance",
+    "range": {
+     "content": "Lovesick Blues (Walmart Performance)"
+    },
+    "song_id": 3641007,
+    "url": "https://genius.com/14287450/Mason-ramsey-lovesick-blues-walmart-performance/Lovesick-blues-walmart-performance",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3641007",
+     "client_timestamps": {
+      "updated_by_human_at": 1643827246,
+      "lyrics_updated_at": 1643827246
+     },
+     "context": "Mason Ramsey",
+     "id": 3641007,
+     "image_url": "https://images.genius.com/df8f9cccc9946089b8deee8a9bd7ba36.750x563x1.jpg",
+     "link_title": "Lovesick Blues (Walmart Performance) by\u00a0Mason\u00a0Ramsey",
+     "title": "Lovesick Blues (Walmart Performance)",
+     "type": "Song",
+     "url": "https://genius.com/Mason-ramsey-lovesick-blues-walmart-performance-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14287450",
+      "body": {
+       "plain": "NOTE: This is Lil Hank Williams\u2019s rendition of the classic country song \u201cLovesick Blues\u201d. Although there are some similarities between this version and the original song, the lyrics are distinct enough to the point where it\u2019s appropriate to consider them 2 unique songs.  \n\n\u201cLovesick Blues\u201d is a song about a man who finds himself within a depressive state of mind due to his reminiscing of a previous lover.\nThe original \u201cLovesick Blues\u201d first appeared in the 1922 musical \u201cOh, Ernest\u201d. However, the first person to record it, which was Emmett Miller, didn\u2019t do so until 6 years after it first appeared in the musical. Although there were a number of other musicians who recorded their own cover of the song since Miller, the most significant and  notable person to cover \u201cLovesick Blues\u201d was the renowned country artist known as Hank Williams Sr,. who started performing the song in 1948. Hank Williams Sr. is the favorite artist of 10 year-old musician Mason Ramsey (otherwise known as Lil Hank Williams).\nOn March 24th, 2018, while Mason Ramsey was at his local Walmart, a lady recognized him from a past performance of his and she requested him to perform a song. In an interview later that week, Ramsey said, \u201c\u2026if someone asks me for a song I won\u2019t turn them down\u201d. Staying true to that principle, Lil Hank Williams spontaneously performed \u201cLovesick Blues\u201d right in the middle of Walmart.\n\u201cLovesick Blues\u201d is one of his favorite songs by one of his favorite artists (Hank Williams Sr.). The song is quite difficult to perform due to the multiple parts that require yodeling. Despite that, Lil Hank Williams\u2019s a cappella performance of \u201cLovesick Blues\u201d was nothing short of spectacular. His exhibition displayed his underrated natural talent and well trained, musical voice. It is likely that Ramsey\u2019s performance surpassed the expectations of the majority of the video\u2019s viewers, due to the fact that his age and inexperience would cause them to expect less of him.\nMason Ramsey\u2019s video went viral virtually instantaneously. In less than 2 and a half weeks, it had 5.5 million views on Instagram. Also, Lil Hank Williams\u2019s performance spread so quickly that it earned the young superstar multiple shout outs from several celebrities, primarily ones from musicians Steve Aoki and The Chainsmokers, as well as a \u201cdance tribute\u201d from Stranger Things actor Millie Bobby Brown.\nIn addition, the publicity has caused Walmart to put on a concert at the same branch he performed in originally to \u201clet him shine!\u201d On top of all of that, a follow-up tweet from the  company asked a variety of music artists if they would be willing to do a show with Lil Hank Williams. Some of these artists included Snoop Dogg, Blake Shelton, and Katy Perry."
+      },
+      "comment_count": 31,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14287450,
+      "pinned": false,
+      "share_url": "https://genius.com/14287450",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/14287450/Mason-ramsey-lovesick-blues-walmart-performance/Lovesick-blues-walmart-performance",
+      "verified": false,
+      "votes_total": 6,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4312913",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/9292bcd2fa7e82af8885482a01748aee",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/9292bcd2fa7e82af8885482a01748aee",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/9292bcd2fa7e82af8885482a01748aee",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/9292bcd2fa7e82af8885482a01748aee",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/9292bcd2fa7e82af8885482a01748aee",
+         "human_readable_role_for_display": "Contributor",
+         "id": 4312913,
+         "iq": 3344,
+         "login": "camburton23",
+         "name": "camburton23",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/camburton23",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "casara123",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/casara123/walmart-yodeling-kid-original-extended"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bOZT-UpRA2Y"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4082369",
+       "artist_names": "Cahleh",
+       "full_title": "Damaged by\u00a0Cahleh",
+       "header_image_thumbnail_url": "https://images.genius.com/cee076d46b742afe3fd563fead006c60.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cee076d46b742afe3fd563fead006c60.1000x1000x1.jpg",
+       "id": 4082369,
+       "language": "en",
+       "lyrics_owner_id": 3448545,
+       "lyrics_state": "complete",
+       "path": "/Cahleh-damaged-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cahleh-damaged-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cee076d46b742afe3fd563fead006c60.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cee076d46b742afe3fd563fead006c60.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Damaged",
+       "title_with_featured": "Damaged",
+       "url": "https://genius.com/Cahleh-damaged-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1483356",
+        "header_image_url": "https://images.genius.com/b66298ac77e7387bc18ab45efa3ed123.750x1000x1.jpg",
+        "id": 1483356,
+        "image_url": "https://images.genius.com/a4060a32dc603ff993f2e321457916e4.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cahleh",
+        "url": "https://genius.com/artists/Cahleh",
+        "iq": 18101
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/191597",
+       "artist_names": "Hank Williams",
+       "full_title": "Lovesick Blues by\u00a0Hank\u00a0Williams",
+       "header_image_thumbnail_url": "https://images.genius.com/3f7b717546eda10d16fda87f02c3ebb5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3f7b717546eda10d16fda87f02c3ebb5.600x600x1.jpg",
+       "id": 191597,
+       "language": "en",
+       "lyrics_owner_id": 230686,
+       "lyrics_state": "complete",
+       "path": "/Hank-williams-lovesick-blues-lyrics",
+       "pyongs_count": 14,
+       "relationships_index_url": "https://genius.com/Hank-williams-lovesick-blues-sample",
+       "release_date_components": {
+        "year": 1950,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1950",
+       "release_date_with_abbreviated_month_for_display": "1950",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3f7b717546eda10d16fda87f02c3ebb5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3f7b717546eda10d16fda87f02c3ebb5.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 516326
+       },
+       "title": "Lovesick Blues",
+       "title_with_featured": "Lovesick Blues",
+       "url": "https://genius.com/Hank-williams-lovesick-blues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/28632",
+        "header_image_url": "https://images.genius.com/db8fe1cbf446cb96196fb1b174ddd5bd.1000x563x1.jpg",
+        "id": 28632,
+        "image_url": "https://images.genius.com/db8fe1cbf446cb96196fb1b174ddd5bd.1000x563x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hank Williams",
+        "url": "https://genius.com/artists/Hank-williams"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/4093142",
+       "artist_names": "Foreign Air",
+       "full_title": "Used To You by\u00a0Foreign\u00a0Air",
+       "header_image_thumbnail_url": "https://images.genius.com/b048f20a2155d484d0e81f3ca9013fb8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b048f20a2155d484d0e81f3ca9013fb8.640x640x1.jpg",
+       "id": 4093142,
+       "language": "en",
+       "lyrics_owner_id": 5230599,
+       "lyrics_state": "complete",
+       "path": "/Foreign-air-used-to-you-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Foreign-air-used-to-you-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 30
+       },
+       "release_date_for_display": "November 30, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 30, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b048f20a2155d484d0e81f3ca9013fb8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b048f20a2155d484d0e81f3ca9013fb8.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 6010
+       },
+       "title": "Used To You",
+       "title_with_featured": "Used To You",
+       "url": "https://genius.com/Foreign-air-used-to-you-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/611722",
+        "header_image_url": "https://images.genius.com/c9fa20baf0487c0741b6e6a89f9f155b.960x596x1.jpg",
+        "id": 611722,
+        "image_url": "https://images.genius.com/1931a91c4a4627f395252bd02daf6849.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Foreign Air",
+        "url": "https://genius.com/artists/Foreign-air"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3770576",
+       "artist_names": "Mason Ramsey",
+       "full_title": "Lovesick Blues by\u00a0Mason\u00a0Ramsey",
+       "header_image_thumbnail_url": "https://images.genius.com/8b7363862d03cfe1638fb21dac77859a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8b7363862d03cfe1638fb21dac77859a.1000x1000x1.jpg",
+       "id": 3770576,
+       "language": "en",
+       "lyrics_owner_id": 5637607,
+       "lyrics_state": "complete",
+       "path": "/Mason-ramsey-lovesick-blues-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mason-ramsey-lovesick-blues-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 6,
+        "day": 8
+       },
+       "release_date_for_display": "June 8, 2018",
+       "release_date_with_abbreviated_month_for_display": "Jun. 8, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8b7363862d03cfe1638fb21dac77859a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8b7363862d03cfe1638fb21dac77859a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 19334
+       },
+       "title": "Lovesick Blues",
+       "title_with_featured": "Lovesick Blues",
+       "url": "https://genius.com/Mason-ramsey-lovesick-blues-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1441047",
+        "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+        "id": 1441047,
+        "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mason Ramsey",
+        "url": "https://genius.com/artists/Mason-ramsey"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    },
+    {
+     "api_path": "/artists/553779",
+     "header_image_url": "https://images.genius.com/4a20f94c9a4fff2f13874abfcbf5e9c9.207x302x1.jpg",
+     "id": 553779,
+     "image_url": "https://images.genius.com/ab73ecbd2855ed03a173ea223b30792e.207x207x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Irving Mills",
+     "url": "https://genius.com/artists/Irving-mills"
+    },
+    {
+     "api_path": "/artists/1113690",
+     "header_image_url": "https://images.genius.com/6b7a232ea4b8a732acebafe4c223b449.600x600x1.jpg",
+     "id": 1113690,
+     "image_url": "https://images.genius.com/6b7a232ea4b8a732acebafe4c223b449.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Cliff Friend",
+     "url": "https://genius.com/artists/Cliff-friend"
+    }
+   ],
+   "artist": "Mason Ramsey",
+   "lyrics": "22 ContributorsLovesick Blues (Walmart Performance) Lyrics[Pre-Chorus]\nHey lord I don't know what I'll do\nAll I do is sit and sigh, oh lord\nThe last long day she said goodbye\nWell lord, I thought I would cry\n\n[Chorus]\nShe'll do me, she'll do you, she's got that kind of loving\nLord I love to hear her when she calls me sweet daddy\nSuch a beautiful dream\nI hate to think it's all over;\nI lost my heart it seems\nI've grown so used to you somehow\nBut I'm nobody's sugar daddy now\nAnd I'm lonesome\nI got the lovesick blues\n\n[Verse]\nWell I'm in love, I'm in love with a beautiful gal\nThat's what's the matter with me\nI'm In love, I'm in love with a beautiful gal\nBut she don't care about me\nAnd I tried and tried to keep her satisfied\nBut she just wouldn't stay\nSo now that she is leaving\nThis is all I can say\nI got a feeling called the blues, oh lord\nSince my baby say goodbye\nYou might also like[Pre-Chorus]\nHey lord I don't know what I'll do\nAll I do is sit and sigh, oh lord\nThe last long day she said goodbye\nWell lord, I thought I would cry\n\n[Chorus]\nShe'll do me, she'll do you, she's got that kind of loving\nLord I love to hear her when she calls me sweet daddy\nSuch a beautiful dream\nI hate to think it's all over;\nI lost my heart it seems\nI've grown so used to you somehow\nBut I'm nobody's sugar daddy now\nAnd I'm lonesome\nI got the lovesick blues6Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4718978",
+   "artist_names": "Mason Ramsey",
+   "full_title": "Before I Knew It by\u00a0Mason\u00a0Ramsey",
+   "header_image_thumbnail_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.1000x1000x1.jpg",
+   "id": 4718978,
+   "language": "en",
+   "lyrics_owner_id": 5800358,
+   "lyrics_state": "complete",
+   "path": "/Mason-ramsey-before-i-knew-it-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/Mason-ramsey-before-i-knew-it-sample",
+   "release_date_components": {
+    "year": 2019,
+    "month": 7,
+    "day": 26
+   },
+   "release_date_for_display": "July 26, 2019",
+   "release_date_with_abbreviated_month_for_display": "Jul. 26, 2019",
+   "song_art_image_thumbnail_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 8,
+    "iq_earners": 8,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 70991
+   },
+   "title": "Before I Knew It",
+   "title_with_featured": "Before I Knew It",
+   "url": "https://genius.com/Mason-ramsey-before-i-knew-it-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1441047",
+    "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+    "id": 1441047,
+    "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Mason Ramsey",
+    "url": "https://genius.com/artists/Mason-ramsey"
+   },
+   "apple_music_id": "1473632951",
+   "apple_music_player_url": "https://genius.com/songs/4718978/apple_music_player",
+   "description": {
+    "plain": "This song is about how Mason has felt, considering his younger self, before he met the girl he liked; and before he knew it, he was doing kind things for her that he thought he wouldn\u2019t do."
+   },
+   "embed_content": "<div id='rg_embed_link_4718978' class='rg_embed_link' data-song-id='4718978'>Read <a href='https://genius.com/Mason-ramsey-before-i-knew-it-lyrics'>\u201cBefore I Knew It\u201d by Mason\u00a0Ramsey</a> on Genius</div> <script crossorigin src='//genius.com/songs/4718978/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2019-07-26",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/546496",
+    "cover_art_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.1000x1000x1.jpg",
+    "full_title": "Twang - EP by Mason Ramsey",
+    "id": 546496,
+    "name": "Twang - EP",
+    "release_date_for_display": "July 26, 2019",
+    "url": "https://genius.com/albums/Mason-ramsey/Twang-ep",
+    "artist": {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+       "id": 68978,
+       "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      },
+      {
+       "api_path": "/artists/1817438",
+       "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "id": 1817438,
+       "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Loud Records",
+       "url": "https://genius.com/artists/Big-loud-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+       "id": 68978,
+       "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      },
+      {
+       "api_path": "/artists/1817438",
+       "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "id": 1817438,
+       "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Loud Records",
+       "url": "https://genius.com/artists/Big-loud-records"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/68978",
+       "header_image_url": "https://images.genius.com/5fb8d27c10b1cc7a7678d21943a03feb.650x552x31.gif",
+       "id": 68978,
+       "image_url": "https://images.genius.com/ded045557ddf5991ba4134151023e614.315x315x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Atlantic Records",
+       "url": "https://genius.com/artists/Atlantic-records"
+      },
+      {
+       "api_path": "/artists/1817438",
+       "header_image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "id": 1817438,
+       "image_url": "https://images.genius.com/d57301b4a3bfcd2d546042f03bfd6c90.300x300x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Loud Records",
+       "url": "https://genius.com/artists/Big-loud-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Acoustic Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1209339",
+       "header_image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "id": 1209339,
+       "image_url": "https://images.genius.com/86983f085252d20945998fcc1896cd30.413x413x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ilya Toshinskiy",
+       "url": "https://genius.com/artists/Ilya-toshinskiy"
+      }
+     ]
+    },
+    {
+     "label": "Assistant",
+     "artists": [
+      {
+       "api_path": "/artists/1063126",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1063126,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Josh Ditty",
+       "url": "https://genius.com/artists/Josh-ditty"
+      },
+      {
+       "api_path": "/artists/1674202",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1674202,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ally Gecewicz",
+       "url": "https://genius.com/artists/Ally-gecewicz"
+      }
+     ]
+    },
+    {
+     "label": "Bass",
+     "artists": [
+      {
+       "api_path": "/artists/158702",
+       "header_image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+       "id": 158702,
+       "image_url": "https://images.genius.com/166eafed684fb0290e6f21e1ee83dcd7.680x680x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jimmie Lee Sloas",
+       "url": "https://genius.com/artists/Jimmie-lee-sloas"
+      }
+     ]
+    },
+    {
+     "label": "Drums",
+     "artists": [
+      {
+       "api_path": "/artists/1458570",
+       "header_image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+       "id": 1458570,
+       "image_url": "https://images.genius.com/f6e43e0aef421d426010fbddd528cb23.485x485x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jerry Roe",
+       "url": "https://genius.com/artists/Jerry-roe"
+      }
+     ]
+    },
+    {
+     "label": "Editor",
+     "artists": [
+      {
+       "api_path": "/artists/1213471",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1213471,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Scott Cooke",
+       "url": "https://genius.com/artists/Scott-cooke"
+      },
+      {
+       "api_path": "/artists/1114586",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1114586,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Eivind Nordland",
+       "url": "https://genius.com/artists/Eivind-nordland"
+      },
+      {
+       "api_path": "/artists/1674202",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1674202,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ally Gecewicz",
+       "url": "https://genius.com/artists/Ally-gecewicz"
+      }
+     ]
+    },
+    {
+     "label": "Electric Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/1043256",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1043256,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kris Donegan",
+       "url": "https://genius.com/artists/Kris-donegan"
+      }
+     ]
+    },
+    {
+     "label": "Guitar",
+     "artists": [
+      {
+       "api_path": "/artists/644117",
+       "header_image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+       "id": 644117,
+       "image_url": "https://images.genius.com/643c77bda8a39ecb85b021a7adead11b.288x288x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paul Franklin",
+       "url": "https://genius.com/artists/Paul-franklin"
+      }
+     ]
+    },
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1003323",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1003323,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dave Cohen",
+       "url": "https://genius.com/artists/Dave-cohen"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/662408",
+       "header_image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "id": 662408,
+       "image_url": "https://images.genius.com/b042822c060e08276d956412c19884d1.200x200x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Andrew Mendelson",
+       "url": "https://genius.com/artists/Andrew-mendelson"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/227633",
+       "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+       "id": 227633,
+       "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joey Moi",
+       "url": "https://genius.com/artists/Joey-moi"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/506840",
+       "header_image_url": "https://images.genius.com/344583dbd2e4f4473ca0da3bcda7985e.700x520x1.jpg",
+       "id": 506840,
+       "image_url": "https://images.genius.com/73a146b3c32fcf2744afcc051f5180e6.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jeff Balding",
+       "url": "https://genius.com/artists/Jeff-balding"
+      }
+     ]
+    },
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1441047",
+       "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+       "id": 1441047,
+       "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mason Ramsey",
+       "url": "https://genius.com/artists/Mason-ramsey"
+      }
+     ]
+    },
+    {
+     "label": "Background Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/1022741",
+       "header_image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+       "id": 1022741,
+       "image_url": "https://images.genius.com/dfaa3c7335db2aeae018aa118f8c71ed.167x167x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Wes Hightower",
+       "url": "https://genius.com/artists/Wes-hightower"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5800358,
+    "annotator_login": "transriddler",
+    "api_path": "/referents/17647063",
+    "classification": "unreviewed",
+    "fragment": "Before I Knew It",
+    "id": 17647063,
+    "is_description": true,
+    "path": "/17647063/Mason-ramsey-before-i-knew-it/Before-i-knew-it",
+    "range": {
+     "content": "Before I Knew It"
+    },
+    "song_id": 4718978,
+    "url": "https://genius.com/17647063/Mason-ramsey-before-i-knew-it/Before-i-knew-it",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4718978",
+     "client_timestamps": {
+      "updated_by_human_at": 1643009818,
+      "lyrics_updated_at": 1614551318
+     },
+     "context": "Mason Ramsey",
+     "id": 4718978,
+     "image_url": "https://images.genius.com/769f8ffbdf0c1347df57f3e077ee1b11.1000x1000x1.jpg",
+     "link_title": "Before I Knew It by\u00a0Mason\u00a0Ramsey",
+     "title": "Before I Knew It",
+     "type": "Song",
+     "url": "https://genius.com/Mason-ramsey-before-i-knew-it-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17647063",
+      "body": {
+       "plain": "This song is about how Mason has felt, considering his younger self, before he met the girl he liked; and before he knew it, he was doing kind things for her that he thought he wouldn\u2019t do."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 17647063,
+      "pinned": false,
+      "share_url": "https://genius.com/17647063",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/17647063/Mason-ramsey-before-i-knew-it/Before-i-knew-it",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5800358",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/02c00fd1988b522a082c39fb6d1730a5",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/02c00fd1988b522a082c39fb6d1730a5",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/02c00fd1988b522a082c39fb6d1730a5",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/02c00fd1988b522a082c39fb6d1730a5",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/02c00fd1988b522a082c39fb6d1730a5",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5800358,
+         "iq": 2649,
+         "login": "transriddler",
+         "name": "transriddler",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/transriddler",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/104344",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+    "human_readable_role_for_display": "Staff",
+    "id": 104344,
+    "iq": 3065824,
+    "login": "streetlights",
+    "name": "\u200bstreetlights",
+    "role_for_display": "staff",
+    "url": "https://genius.com/streetlights",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jG389a2eQWI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/227633",
+     "header_image_url": "https://images.genius.com/1a128960b842d7014b73937f362ae405.570x413x1.jpg",
+     "id": 227633,
+     "image_url": "https://images.genius.com/8d0323fef106b566b56de25ad6d1e2c7.550x550x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Joey Moi",
+     "url": "https://genius.com/artists/Joey-moi"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1441047",
+     "header_image_url": "https://images.genius.com/393ccb9d5ece941597796ccea57aff63.590x401x1.jpg",
+     "id": 1441047,
+     "image_url": "https://images.genius.com/3621e73b396690d07002267e9f4be924.640x640x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Mason Ramsey",
+     "url": "https://genius.com/artists/Mason-ramsey"
+    }
+   ],
+   "artist": "Mason Ramsey",
+   "lyrics": "8 ContributorsBefore I Knew It Lyrics[Verse 1]\nYeah, I used to be the guy that talked about the guy\nI've been turnin' into, ever since I met you\nBut I ain't gonna lie, kinda like this table for two\nWith you\nYeah, I was driftin' round from town to town\nWasn't ever gonna settle for the settlin' down\nBut you turned that around, saw a side of me I never knew\nYeah, it's true\n\n[Chorus]\nBefore I knew it, I was holdin' all the doors, holdin' your hand\nGettin' off of work just as fast as I can\nCallin' you up, askin' what you're doin'\nGirl, before I knew it\nBefore I knew it, I was spendin' my time, spendin' my paycheck\nAll around you, girl, I gotta say, this\nWhole love thing, I thought I'd never do it\nBut that's before I knew it, that's before I knew it\n\n[Verse 2]\nNow, I ain't missing those lonely nights\nI found myself another keepin' kind\nBlonde hair, blue eyes, out of the blue\nI never saw it comin'\nYou might also like[Chorus]\nBefore I knew it, I was holdin' all the doors, holdin' your hand\nGettin' off of work just as fast as I can\nCallin' you up, askin' what you're doin'\nGirl, before I knew it\nBefore I knew it, I was spendin' my time, spendin' my paycheck\nAll around you, girl, I gotta say, this\nWhole love thing, I thought I'd never do it\nBut that's before I knew it, that's before I knew it\n\n[Bridge]\nBefore I knew I was talkin' 'bout a ring\nTalkin' 'bout a house\nThinkin' 'bout things that I never thought about\nWho would have knew it?\n\n[Chorus]\nBefore I knew it, I was holdin' all the doors, holdin' your hand\nGettin' off of work just as fast as I can\nCallin' you up, askin' what you're doin'\nGirl, before I knew it\nBefore I knew it, I was spendin' my time, spendin' my paycheck\nAll around you, girl, I gotta say, this\nWhole love thing, I thought I'd never do it\nBut that's before I knew it, that's before I knew it\n[Outro]\nBefore I knew it\nOh, this old love thing\nBefore I knew it1Embed"
+  }
+ ]
+}

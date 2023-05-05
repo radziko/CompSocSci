@@ -1,0 +1,1344 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/376398",
+ "description": {
+  "plain": "Formed in 2010 in Nashville, Tennessee, A Thousand Horses is an American country music band. The band is comprised of Michael Hobby (lead vocals), Bill Satcher (lead guitar), Zach Brown (guitar and vocals), and Graham Deloach (bass and vocals)."
+ },
+ "facebook_name": null,
+ "followers_count": 3,
+ "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+ "id": 376398,
+ "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "A Thousand Horses",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/A-thousand-horses",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6625516,
+  "annotator_login": "Serryph",
+  "api_path": "/referents/7093592",
+  "classification": "unreviewed",
+  "fragment": "A Thousand Horses",
+  "id": 7093592,
+  "is_description": true,
+  "path": "/7093592/A-thousand-horses/A-thousand-horses",
+  "range": {
+   "content": "A Thousand Horses"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7093592/A-thousand-horses/A-thousand-horses",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/376398",
+   "context": null,
+   "id": 376398,
+   "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+   "link_title": "A Thousand Horses",
+   "title": "A Thousand Horses",
+   "type": "Artist",
+   "url": "https://genius.com/artists/A-thousand-horses"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7093592",
+    "body": {
+     "plain": "Formed in 2010 in Nashville, Tennessee, A Thousand Horses is an American country music band. The band is comprised of Michael Hobby (lead vocals), Bill Satcher (lead guitar), Zach Brown (guitar and vocals), and Graham Deloach (bass and vocals)."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7093592,
+    "pinned": false,
+    "share_url": "https://genius.com/7093592",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7093592/A-thousand-horses/A-thousand-horses",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6625516",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/47331a1da3f13c05e02b56730d8e0291",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/47331a1da3f13c05e02b56730d8e0291",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/47331a1da3f13c05e02b56730d8e0291",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/47331a1da3f13c05e02b56730d8e0291",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/47331a1da3f13c05e02b56730d8e0291",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6625516,
+       "iq": 674,
+       "login": "Serryph",
+       "name": "Serryph",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Serryph",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/1784449",
+   "artist_names": "A Thousand Horses",
+   "full_title": "Smoke by\u00a0A\u00a0Thousand Horses",
+   "header_image_thumbnail_url": "https://images.genius.com/4333372b713a745d10300229ca0919c5.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/4333372b713a745d10300229ca0919c5.1000x1000x1.jpg",
+   "id": 1784449,
+   "language": "en",
+   "lyrics_owner_id": 1552491,
+   "lyrics_state": "complete",
+   "path": "/A-thousand-horses-smoke-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/A-thousand-horses-smoke-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 1,
+    "day": 19
+   },
+   "release_date_for_display": "January 19, 2015",
+   "release_date_with_abbreviated_month_for_display": "Jan. 19, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/c3a76799b3093ac332deac8886619698.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/c3a76799b3093ac332deac8886619698.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Smoke",
+   "title_with_featured": "Smoke",
+   "url": "https://genius.com/A-thousand-horses-smoke-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376398",
+    "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+    "id": 376398,
+    "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A Thousand Horses",
+    "url": "https://genius.com/artists/A-thousand-horses"
+   },
+   "apple_music_id": "956896025",
+   "apple_music_player_url": "https://genius.com/songs/1784449/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1784449' class='rg_embed_link' data-song-id='1784449'>Read <a href='https://genius.com/A-thousand-horses-smoke-lyrics'>\u201cSmoke\u201d by A\u00a0Thousand Horses</a> on Genius</div> <script crossorigin src='//genius.com/songs/1784449/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-01-19",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/125188",
+    "cover_art_url": "https://images.genius.com/0a0b5f705b626d4a6056ef4eadfd7c9a.1000x1000x1.jpg",
+    "full_title": "Southernality by A Thousand Horses",
+    "id": 125188,
+    "name": "Southernality",
+    "release_date_for_display": "June 4, 2015",
+    "url": "https://genius.com/albums/A-thousand-horses/Southernality",
+    "artist": {
+     "api_path": "/artists/376398",
+     "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+     "id": 376398,
+     "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "A Thousand Horses",
+     "url": "https://genius.com/artists/A-thousand-horses"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1049237",
+       "header_image_url": "https://images.genius.com/8caf7da2eefa71eb45901c8382405c25.592x267x1.jpg",
+       "id": 1049237,
+       "image_url": "https://images.genius.com/77fb33f89b07b1ea28e4e6452f8e92e4.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Big Machine Records",
+       "url": "https://genius.com/artists/Big-machine-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1552491,
+    "annotator_login": "spyromanium",
+    "api_path": "/referents/6355214",
+    "classification": "needs_exegesis",
+    "fragment": "Smoke",
+    "id": 6355214,
+    "is_description": true,
+    "path": "/6355214/A-thousand-horses-smoke/Smoke",
+    "range": {
+     "content": "Smoke"
+    },
+    "song_id": 1784449,
+    "url": "https://genius.com/6355214/A-thousand-horses-smoke/Smoke",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1784449",
+     "client_timestamps": {
+      "updated_by_human_at": 1628276892,
+      "lyrics_updated_at": 1580575009
+     },
+     "context": "A Thousand Horses",
+     "id": 1784449,
+     "image_url": "https://images.genius.com/c3a76799b3093ac332deac8886619698.300x300x1.jpg",
+     "link_title": "Smoke by\u00a0A\u00a0Thousand Horses",
+     "title": "Smoke",
+     "type": "Song",
+     "url": "https://genius.com/A-thousand-horses-smoke-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6355214",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6355214,
+      "pinned": false,
+      "share_url": "https://genius.com/6355214",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6355214/A-thousand-horses-smoke/Smoke",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1552491",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/b7eb960f55cb10df4c6804c953431902",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/b7eb960f55cb10df4c6804c953431902",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/b7eb960f55cb10df4c6804c953431902",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/b7eb960f55cb10df4c6804c953431902",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/b7eb960f55cb10df4c6804c953431902",
+         "human_readable_role_for_display": null,
+         "id": 1552491,
+         "iq": 215,
+         "login": "spyromanium",
+         "name": "spyromanium",
+         "role_for_display": null,
+         "url": "https://genius.com/spyromanium",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:3hdIglZzRAvK3sTXNoj1h1",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/3hdIglZzRAvK3sTXNoj1h1"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gDWepmUXk3w"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/534034",
+     "header_image_url": "https://images.genius.com/90fba4f813ba7ae6c06bfb14403de7f1.800x533x1.jpg",
+     "id": 534034,
+     "image_url": "https://images.genius.com/10506663e7c38f380a1263805e4f45c0.447x447x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dave Cobb",
+     "url": "https://genius.com/artists/Dave-cobb"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/506792",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 506792,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jon Nite",
+     "url": "https://genius.com/artists/Jon-nite"
+    },
+    {
+     "api_path": "/artists/100748",
+     "header_image_url": "https://images.genius.com/8919ea24a00635ea67dfe18406ad85b5.640x480x1.jpg",
+     "id": 100748,
+     "image_url": "https://images.genius.com/0a2c2316415ef91a19287d5996925f2b.798x798x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ross Copperman",
+     "url": "https://genius.com/artists/Ross-copperman"
+    },
+    {
+     "api_path": "/artists/999291",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 999291,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Hobby",
+     "url": "https://genius.com/artists/Michael-hobby"
+    }
+   ],
+   "artist": "A Thousand Horses",
+   "lyrics": "7 ContributorsSmoke Lyrics[Verse 1]\nShe comes rolling right off the tip of my tongue so easy\nShe'll be the first damn thing I want when I start drinking\nI'm breathing her in, breathing her out, once I pick her up I can't put her down\n\n[Chorus]\nShe's smoke\nI pull her in nice and slow\nShe's a habit and I can't let go\nBlowing rings around my heart\nThe one she stole\nWatching her sway and go\nIt's killing me and I know\nCan't stop her once you start\nShe's smoke\n[Verse 2]\nShe'll go floating around like a downtown ballroom gypsy\nShe goes great with ice cold beer or a shot of whiskey\nPut one in my hand, her on my lips\nMan, that's as good as it gets\n\n[Chorus]\nShe's smoke\nI pull her in nice and slow\nShe's a habit and I can't let go\nBlowing rings around my heart\nThe one she stole\nWatching her sway and go\nIt's killing me and I know\nCan't stop her once you start\nShe's smoke\n\n[Bridge]\nWhen the night burns out\nAnd we all go home\nSmell of sweet perfume\nAll over your clothes\nLike smoke, ooh, ooh\nLike smoke ooh, ooh\n\n[Chorus]\nShe's smoke\nI pull her in nice and slow\nShe's a habit and I can't let go\nBlowing rings around my heart\nThe one she stole\nWatching her sway and go\nIt's killing me and I know\nCan't stop her once you start\nShe's smoke\nShe's smoke\nYou might also like[Outro]\nWhen the night burns out\nAnd we all go home\nSmell of sweet perfume\nAll over your clothes\nShe's smoke, ooh, ooh\nShe's smoke, ooh, ooh7Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3121018",
+   "artist_names": "A Thousand Horses",
+   "full_title": "Bridges by\u00a0A\u00a0Thousand Horses",
+   "header_image_thumbnail_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.1000x1000x1.jpg",
+   "id": 3121018,
+   "language": "en",
+   "lyrics_owner_id": 3273819,
+   "lyrics_state": "complete",
+   "path": "/A-thousand-horses-bridges-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/A-thousand-horses-bridges-sample",
+   "release_date_components": {
+    "year": 2017,
+    "month": 6,
+    "day": 2
+   },
+   "release_date_for_display": "June 2, 2017",
+   "release_date_with_abbreviated_month_for_display": "Jun. 2, 2017",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bridges",
+   "title_with_featured": "Bridges",
+   "url": "https://genius.com/A-thousand-horses-bridges-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376398",
+    "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+    "id": 376398,
+    "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A Thousand Horses",
+    "url": "https://genius.com/artists/A-thousand-horses"
+   },
+   "apple_music_id": "1336519408",
+   "apple_music_player_url": "https://genius.com/songs/3121018/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3121018' class='rg_embed_link' data-song-id='3121018'>Read <a href='https://genius.com/A-thousand-horses-bridges-lyrics'>\u201cBridges\u201d by A\u00a0Thousand Horses</a> on Genius</div> <script crossorigin src='//genius.com/songs/3121018/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2017-06-02",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/349089",
+    "cover_art_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.1000x1000x1.jpg",
+    "full_title": "Bridges by A Thousand Horses",
+    "id": 349089,
+    "name": "Bridges",
+    "release_date_for_display": "June 2, 2017",
+    "url": "https://genius.com/albums/A-thousand-horses/Bridges",
+    "artist": {
+     "api_path": "/artists/376398",
+     "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+     "id": 376398,
+     "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "A Thousand Horses",
+     "url": "https://genius.com/artists/A-thousand-horses"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3273819,
+    "annotator_login": "ViruS_upl0Aded",
+    "api_path": "/referents/12152537",
+    "classification": "needs_exegesis",
+    "fragment": "Bridges",
+    "id": 12152537,
+    "is_description": true,
+    "path": "/12152537/A-thousand-horses-bridges/Bridges",
+    "range": {
+     "content": "Bridges"
+    },
+    "song_id": 3121018,
+    "url": "https://genius.com/12152537/A-thousand-horses-bridges/Bridges",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3121018",
+     "client_timestamps": {
+      "updated_by_human_at": 1536944740,
+      "lyrics_updated_at": 1536944740
+     },
+     "context": "A Thousand Horses",
+     "id": 3121018,
+     "image_url": "https://images.genius.com/6e2d53a055b0686ccc5e4d589aa60ff8.1000x1000x1.jpg",
+     "link_title": "Bridges by\u00a0A\u00a0Thousand Horses",
+     "title": "Bridges",
+     "type": "Song",
+     "url": "https://genius.com/A-thousand-horses-bridges-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12152537",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12152537,
+      "pinned": false,
+      "share_url": "https://genius.com/12152537",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12152537/A-thousand-horses-bridges/Bridges",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3273819",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/ef80d0e1f5b8112c76ea2752287d8ee3",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/ef80d0e1f5b8112c76ea2752287d8ee3",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/ef80d0e1f5b8112c76ea2752287d8ee3",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/ef80d0e1f5b8112c76ea2752287d8ee3",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/ef80d0e1f5b8112c76ea2752287d8ee3",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3273819,
+         "iq": 3968,
+         "login": "ViruS_upl0Aded",
+         "name": "ViruS_upl0Aded",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/ViruS_upl0Aded",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=wDEWWiGK03E"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "A Thousand Horses",
+   "lyrics": "2 ContributorsBridges Lyrics[Verse 1]\nI ain't perfect\nNo I never claimed to be\nAnd I'm still workin' on a better side of me\nSometimes I drink too much\nSometimes I smoke and cuss\nI work hard to play hard hell like everybody does\n\n[Chorus]\nBut I took the long way every lesson I learned\nAnd I gotta scar to show for every stripe that I've earned\nBut looking back can't help but laugh at all the pages I've turned\nNo worries it's just water under the bridges I've burned\n[Verse 1]\nYeah I've been real close I've even said those three words\nAnd everybody knows when you take it back it hurts\nEvery little white lie, every bullshit fight\nIt started the fire when the flames got higher\nJust stew up two and smoke the tires\n\n[Chorus]\nBut I took the long way every lesson I learned\nAnd I gotta scar to show for every stripe that I've earned\nBut looking back can't help but laugh at all the pages I've turned\nNo worries it's just water under the bridges I've burned\n\nBut I took the long way every lesson I learned\nAnd I gotta scar to show for every stripe that I've earned\nBut looking back can't help but laugh at all the pages I've turned\nNo worries it's just water under the bridges I've burned\nIt's just water under the bridges I've burnedYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2025482",
+   "artist_names": "A Thousand Horses",
+   "full_title": "(This Ain't No) Drunk Dial by\u00a0A\u00a0Thousand Horses",
+   "header_image_thumbnail_url": "https://images.genius.com/a59fa12d126424868e3cd1ec9939dd3d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a59fa12d126424868e3cd1ec9939dd3d.355x355x1.jpg",
+   "id": 2025482,
+   "language": "en",
+   "lyrics_owner_id": 722785,
+   "lyrics_state": "complete",
+   "path": "/A-thousand-horses-this-aint-no-drunk-dial-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/A-thousand-horses-this-aint-no-drunk-dial-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/33f734ac058f5d65aace1f1b87f2fc28.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/33f734ac058f5d65aace1f1b87f2fc28.680x680x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "(This Ain\u2019t No) Drunk Dial",
+   "title_with_featured": "(This Ain't No) Drunk Dial",
+   "url": "https://genius.com/A-thousand-horses-this-aint-no-drunk-dial-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/376398",
+    "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+    "id": 376398,
+    "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "A Thousand Horses",
+    "url": "https://genius.com/artists/A-thousand-horses"
+   },
+   "apple_music_id": "956896030",
+   "apple_music_player_url": "https://genius.com/songs/2025482/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2025482' class='rg_embed_link' data-song-id='2025482'>Read <a href='https://genius.com/A-thousand-horses-this-aint-no-drunk-dial-lyrics'>\u201c(This Ain't No) Drunk Dial\u201d by A\u00a0Thousand Horses</a> on Genius</div> <script crossorigin src='//genius.com/songs/2025482/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/125188",
+    "cover_art_url": "https://images.genius.com/0a0b5f705b626d4a6056ef4eadfd7c9a.1000x1000x1.jpg",
+    "full_title": "Southernality by A Thousand Horses",
+    "id": 125188,
+    "name": "Southernality",
+    "release_date_for_display": "June 4, 2015",
+    "url": "https://genius.com/albums/A-thousand-horses/Southernality",
+    "artist": {
+     "api_path": "/artists/376398",
+     "header_image_url": "https://images.genius.com/7628434661052e8600b825e8b1549a85.700x399x1.jpg",
+     "id": 376398,
+     "image_url": "https://images.genius.com/4c08026c861a9d8d6c34542dd49d8516.681x681x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "A Thousand Horses",
+     "url": "https://genius.com/artists/A-thousand-horses"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 722785,
+    "annotator_login": "Nate20ASU",
+    "api_path": "/referents/6739455",
+    "classification": "needs_exegesis",
+    "fragment": "(This Ain\u2019t No) Drunk Dial",
+    "id": 6739455,
+    "is_description": true,
+    "path": "/6739455/A-thousand-horses-this-aint-no-drunk-dial/This-aint-no-drunk-dial",
+    "range": {
+     "content": "(This Ain't No) Drunk Dial"
+    },
+    "song_id": 2025482,
+    "url": "https://genius.com/6739455/A-thousand-horses-this-aint-no-drunk-dial/This-aint-no-drunk-dial",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2025482",
+     "client_timestamps": {
+      "updated_by_human_at": 1628276865,
+      "lyrics_updated_at": 1443007357
+     },
+     "context": "A Thousand Horses",
+     "id": 2025482,
+     "image_url": "https://images.genius.com/33f734ac058f5d65aace1f1b87f2fc28.680x680x1.jpg",
+     "link_title": "(This Ain\u2019t No) Drunk Dial by\u00a0A\u00a0Thousand Horses",
+     "title": "(This Ain't No) Drunk Dial",
+     "type": "Song",
+     "url": "https://genius.com/A-thousand-horses-this-aint-no-drunk-dial-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/6739455",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 6739455,
+      "pinned": false,
+      "share_url": "https://genius.com/6739455",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/6739455/A-thousand-horses-this-aint-no-drunk-dial/This-aint-no-drunk-dial",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/722785",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/5217632f840a3697de37dbaf7065db51",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/5217632f840a3697de37dbaf7065db51",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/5217632f840a3697de37dbaf7065db51",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/5217632f840a3697de37dbaf7065db51",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/5217632f840a3697de37dbaf7065db51",
+         "human_readable_role_for_display": "Contributor",
+         "id": 722785,
+         "iq": 19079,
+         "login": "Nate20ASU",
+         "name": "Nate20ASU",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Nate20ASU",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:5Envb7eThv4yf0Fs4TZyQY",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/5Envb7eThv4yf0Fs4TZyQY"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=dCN4QH2peJQ"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "A Thousand Horses",
+   "lyrics": "5 Contributors(This Ain\u2019t No) Drunk Dial Lyrics[Verse 1]\nGirl, don't hang up\nI called on purpose\nYeah, I've had a few\nHell, I'm hurting\nOur song came on the radio\nI could hear you singing along\nSo I took the long way home\nSo I could listen to it all\n\n[Chorus 1]\nSounds like\nOh, oh, oh, oh, oh\nIt sounds like\nOh, oh, oh, oh, oh\nThis ain't no drunk dial\nAin't no words that I'm forgetting\nIn the morning\nStill mean everything I said\nI know it's late and I ain't called in awhile\nBut this ain't no drunk dial\n[Verse 2]\nWe ain't got to talk about what happened\nBut I'll take the blame\nIf you want me to have it\nSomewhere in this full moon night\nThere's a way to make this whole thing right\nIf you leave the front door open\nI'll be there before you know it\n\n[Chorus 2]\nThis ain't no drunk dial\nAin't no words that I'll forget\nIn the morning\nStill mean everything I said\nI know it's late\nAnd I ain't called in a while\nBut this ain't no drunk dial\nThis ain't no drunk dial\n\n[Bridge]\nThis ain't courage from a bottle\nIt's just one last shot to give it all we got, yeah\n\n[Chorus 3]\nSounds like\nOh, oh, oh, oh, oh\nIt sounds like\nOh, oh, oh, oh, oh\nBut this ain't no drunk dial\nAin't no words that I'll forget\nIn the morning\nStill mean everything I said\nI know it's late\nAnd I ain't called in a while\nBut this ain't no drunk dial\nThis ain't no drunk dial\nThis ain't no drunk dial\nThis ain't no drunk dial\nYou might also like[Outro]\nIt sounds like\nOh, oh, oh, oh, oh1Embed"
+  }
+ ]
+}

@@ -1,0 +1,4058 @@
+{
+ "alternate_names": [
+  "Brenda Tarpley",
+  "Brenda Mae Tarpley"
+ ],
+ "api_path": "/artists/32563",
+ "description": {
+  "plain": "Brenda Lee is an American singer, one of the leading pop singers of the 1950s and 1960s, nicknamed \u201cLittle Miss Dynamite\u201d for her petite physique."
+ },
+ "facebook_name": null,
+ "followers_count": 10,
+ "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+ "id": 32563,
+ "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Brenda Lee",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Brenda-lee",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 17770974,
+  "annotator_login": "gothicffee",
+  "api_path": "/referents/14440734",
+  "classification": "unreviewed",
+  "fragment": "Brenda Lee",
+  "id": 14440734,
+  "is_description": true,
+  "path": "/14440734/Brenda-lee/Brenda-lee",
+  "range": {
+   "content": "Brenda Lee"
+  },
+  "song_id": null,
+  "url": "https://genius.com/14440734/Brenda-lee/Brenda-lee",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/32563",
+   "context": null,
+   "id": 32563,
+   "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+   "link_title": "Brenda Lee",
+   "title": "Brenda Lee",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Brenda-lee"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/14440734",
+    "body": {
+     "plain": "Brenda Lee is an American singer, one of the leading pop singers of the 1950s and 1960s, nicknamed \u201cLittle Miss Dynamite\u201d for her petite physique."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 14440734,
+    "pinned": false,
+    "share_url": "https://genius.com/14440734",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/14440734/Brenda-lee/Brenda-lee",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/17770974",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ilt2hpp5kqa",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ilt2hpp5kqa",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ilt2hpp5kqa",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ilt2hpp5kqa",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/yxx2ky742p",
+       "human_readable_role_for_display": "Contributor",
+       "id": 17770974,
+       "iq": 7082,
+       "login": "gothicffee",
+       "name": "gothicffee",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/gothicffee",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/104606",
+   "artist_names": "Brenda Lee",
+   "full_title": "Rockin\u2019 Around The Christmas Tree by\u00a0Brenda\u00a0Lee",
+   "header_image_thumbnail_url": "https://images.genius.com/fe4d43845445690de45628b9010c73be.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/fe4d43845445690de45628b9010c73be.300x300x1.jpg",
+   "id": 104606,
+   "language": "en",
+   "lyrics_owner_id": 128467,
+   "lyrics_state": "complete",
+   "path": "/Brenda-lee-rockin-around-the-christmas-tree-lyrics",
+   "pyongs_count": 9,
+   "relationships_index_url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-sample",
+   "release_date_components": {
+    "year": 1958,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1958",
+   "release_date_with_abbreviated_month_for_display": "1958",
+   "song_art_image_thumbnail_url": "https://images.genius.com/fe4d43845445690de45628b9010c73be.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/fe4d43845445690de45628b9010c73be.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 27,
+    "iq_earners": 26,
+    "transcribers": 6,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 122284
+   },
+   "title": "Rockin\u2019 Around The Christmas Tree",
+   "title_with_featured": "Rockin\u2019 Around The Christmas Tree",
+   "url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32563",
+    "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+    "id": 32563,
+    "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brenda Lee",
+    "url": "https://genius.com/artists/Brenda-lee"
+   },
+   "apple_music_id": "1442732095",
+   "apple_music_player_url": "https://genius.com/songs/104606/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_104606' class='rg_embed_link' data-song-id='104606'>Read <a href='https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics'>\u201cRockin\u2019 Around The Christmas Tree\u201d by Brenda\u00a0Lee</a> on Genius</div> <script crossorigin src='//genius.com/songs/104606/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/25820",
+    "cover_art_url": "https://images.genius.com/3a0b1cc1745b5989a51196deb594b4e2.1000x1000x1.jpg",
+    "full_title": "Merry Christmas From Brenda Lee by Brenda Lee",
+    "id": 25820,
+    "name": "Merry Christmas From Brenda Lee",
+    "release_date_for_display": "October 19, 1964",
+    "url": "https://genius.com/albums/Brenda-lee/Merry-christmas-from-brenda-lee",
+    "artist": {
+     "api_path": "/artists/32563",
+     "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+     "id": 32563,
+     "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brenda Lee",
+     "url": "https://genius.com/artists/Brenda-lee"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3499648,
+    "annotator_login": "AlexanderJamesM",
+    "api_path": "/referents/16074407",
+    "classification": "needs_exegesis",
+    "fragment": "Rockin\u2019 Around The Christmas Tree",
+    "id": 16074407,
+    "is_description": true,
+    "path": "/16074407/Brenda-lee-rockin-around-the-christmas-tree/Rockin-around-the-christmas-tree",
+    "range": {
+     "content": "Rockin\u2019 Around The Christmas Tree"
+    },
+    "song_id": 104606,
+    "url": "https://genius.com/16074407/Brenda-lee-rockin-around-the-christmas-tree/Rockin-around-the-christmas-tree",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/104606",
+     "client_timestamps": {
+      "updated_by_human_at": 1676317450,
+      "lyrics_updated_at": 1676317450
+     },
+     "context": "Brenda Lee",
+     "id": 104606,
+     "image_url": "https://images.genius.com/fe4d43845445690de45628b9010c73be.300x300x1.jpg",
+     "link_title": "Rockin\u2019 Around The Christmas Tree by\u00a0Brenda\u00a0Lee",
+     "title": "Rockin\u2019 Around The Christmas Tree",
+     "type": "Song",
+     "url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16074407",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16074407,
+      "pinned": false,
+      "share_url": "https://genius.com/16074407",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16074407/Brenda-lee-rockin-around-the-christmas-tree/Rockin-around-the-christmas-tree",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3499648",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f90836aa8f074aed33d47df84796d76",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/5409e988fe3af98ed4c12f0c8d8b5375.1000x750x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 3499648,
+         "iq": 1406208,
+         "login": "AlexanderJamesM",
+         "name": "AlexanderJamesM",
+         "role_for_display": "editor",
+         "url": "https://genius.com/AlexanderJamesM",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:1XBc4r6ltXjkFJBrsttwIF",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/1XBc4r6ltXjkFJBrsttwIF"
+    },
+    {
+     "attribution": "brenda lee official",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/brenda-lee-official/rockin-around-the-christmas-1?in=user-222431857/sets/christmas&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=DSHGd4lmLd4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/223638",
+     "header_image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "id": 223638,
+     "image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Owen Bradley",
+     "url": "https://genius.com/artists/Owen-bradley"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8826171",
+       "artist_names": "Fresh Zaza (Ft. Scalladosis)",
+       "full_title": "Naughty List by\u00a0Fresh\u00a0Zaza (Ft.\u00a0Scalladosis)",
+       "header_image_thumbnail_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "header_image_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "id": 8826171,
+       "language": "en",
+       "lyrics_owner_id": 15706203,
+       "lyrics_state": "complete",
+       "path": "/Fresh-zaza-naughty-list-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fresh-zaza-naughty-list-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 25
+       },
+       "release_date_for_display": "December 25, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 25, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Naughty List",
+       "title_with_featured": "Naughty List (Ft.\u00a0Scalladosis)",
+       "url": "https://genius.com/Fresh-zaza-naughty-list-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3021949",
+         "header_image_url": "https://images.genius.com/5451aff2bd4fa227ee20bd032bac18b0.1000x304x1.jpg",
+         "id": 3021949,
+         "image_url": "https://images.genius.com/b4ae48f0a56ab14563eb498cfdbdfb49.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Scalladosis",
+         "url": "https://genius.com/artists/Scalladosis"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3302893",
+        "header_image_url": "https://images.genius.com/4c3f2a336cffeb112acd05736ac5e5a8.720x720x1.png",
+        "id": 3302893,
+        "image_url": "https://images.genius.com/14756e1082b0a569fede71b7357e9b3d.720x720x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fresh Zaza",
+        "url": "https://genius.com/artists/Fresh-zaza"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8823994",
+       "artist_names": "Lil Kori (Ft. Ann-uh)",
+       "full_title": "Brenda Lee $wag by\u00a0Lil\u00a0Kori (Ft.\u00a0Ann-uh)",
+       "header_image_thumbnail_url": "https://images.genius.com/b8dfcd15b27c1c612972ceaa98536ee6.264x264x1.jpg",
+       "header_image_url": "https://images.genius.com/b8dfcd15b27c1c612972ceaa98536ee6.264x264x1.jpg",
+       "id": 8823994,
+       "language": "en",
+       "lyrics_owner_id": 15706203,
+       "lyrics_state": "complete",
+       "path": "/Lil-kori-brenda-lee-swag-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lil-kori-brenda-lee-swag-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 20
+       },
+       "release_date_for_display": "December 20, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 20, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b8dfcd15b27c1c612972ceaa98536ee6.264x264x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b8dfcd15b27c1c612972ceaa98536ee6.264x264x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Brenda Lee $wag",
+       "title_with_featured": "Brenda Lee $wag (Ft.\u00a0Ann-uh)",
+       "url": "https://genius.com/Lil-kori-brenda-lee-swag-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3440453",
+         "header_image_url": "https://images.genius.com/e7cbf7c332eea0ac5272bb0a29acd6b4.148x148x1.jpg",
+         "id": 3440453,
+         "image_url": "https://images.genius.com/e7cbf7c332eea0ac5272bb0a29acd6b4.148x148x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Ann-uh",
+         "url": "https://genius.com/artists/Ann-uh"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3328583",
+        "header_image_url": "https://images.genius.com/ec649ad610a540d4e129c9fecc77b41e.400x400x1.jpg",
+        "id": 3328583,
+        "image_url": "https://images.genius.com/f60754c0724100172b007983e78b9a3f.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Kori",
+        "url": "https://genius.com/artists/Lil-kori"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8823649",
+       "artist_names": "Lil Cheese Touch (Ft. Mint Blizzard)",
+       "full_title": "Me & Mrs. Claus by\u00a0Lil\u00a0Cheese Touch (Ft.\u00a0Mint\u00a0Blizzard)",
+       "header_image_thumbnail_url": "https://images.genius.com/df3f3f35488975666047e5f228852ce6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/df3f3f35488975666047e5f228852ce6.500x500x1.jpg",
+       "id": 8823649,
+       "language": "en",
+       "lyrics_owner_id": 15706203,
+       "lyrics_state": "complete",
+       "path": "/Lil-cheese-touch-me-and-mrs-claus-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lil-cheese-touch-me-and-mrs-claus-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 26
+       },
+       "release_date_for_display": "November 26, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 26, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/df3f3f35488975666047e5f228852ce6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/df3f3f35488975666047e5f228852ce6.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Me & Mrs. Claus",
+       "title_with_featured": "Me & Mrs. Claus (Ft.\u00a0Mint\u00a0Blizzard)",
+       "url": "https://genius.com/Lil-cheese-touch-me-and-mrs-claus-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3136725",
+         "header_image_url": "https://images.genius.com/28b2a7035ce7c88ee084d11674cc4357.682x682x1.jpg",
+         "id": 3136725,
+         "image_url": "https://images.genius.com/28b2a7035ce7c88ee084d11674cc4357.682x682x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Mint Blizzard",
+         "url": "https://genius.com/artists/Mint-blizzard"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3379178",
+        "header_image_url": "https://images.genius.com/e59c0254f47d983dbf7a57750814bfed.225x225x1.jpg",
+        "id": 3379178,
+        "image_url": "https://images.genius.com/e59c0254f47d983dbf7a57750814bfed.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Cheese Touch",
+        "url": "https://genius.com/artists/Lil-cheese-touch"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6378993",
+       "artist_names": "Erica Banks",
+       "full_title": "Sleigh Ride by\u00a0Erica\u00a0Banks",
+       "header_image_thumbnail_url": "https://images.genius.com/2f76a9487de70603c99dbb47ddbb7f5b.300x300x1.png",
+       "header_image_url": "https://images.genius.com/2f76a9487de70603c99dbb47ddbb7f5b.999x999x1.png",
+       "id": 6378993,
+       "language": null,
+       "lyrics_owner_id": 54639,
+       "lyrics_state": "unreleased",
+       "path": "/Erica-banks-sleigh-ride-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Erica-banks-sleigh-ride-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 12,
+        "day": 4
+       },
+       "release_date_for_display": "December 4, 2020",
+       "release_date_with_abbreviated_month_for_display": "Dec. 4, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2f76a9487de70603c99dbb47ddbb7f5b.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/2f76a9487de70603c99dbb47ddbb7f5b.999x999x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sleigh Ride",
+       "title_with_featured": "Sleigh Ride",
+       "url": "https://genius.com/Erica-banks-sleigh-ride-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2288894",
+        "header_image_url": "https://images.genius.com/8033389dd8624ae3ddbd2102fd13afc2.1000x999x1.jpg",
+        "id": 2288894,
+        "image_url": "https://images.genius.com/a614ba9992858d18e36a5880674ac3ca.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Erica Banks",
+        "url": "https://genius.com/artists/Erica-banks",
+        "iq": 313
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/4119936",
+       "artist_names": "Mekhi Randle",
+       "full_title": "Classy Grinch by\u00a0Mekhi\u00a0Randle",
+       "header_image_thumbnail_url": "https://images.genius.com/8a70f2e5ed4bfadd89376486e773c634.300x300x1.png",
+       "header_image_url": "https://images.genius.com/8a70f2e5ed4bfadd89376486e773c634.1000x1000x1.png",
+       "id": 4119936,
+       "language": "en",
+       "lyrics_owner_id": 6042064,
+       "lyrics_state": "complete",
+       "path": "/Mekhi-randle-classy-grinch-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Mekhi-randle-classy-grinch-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 14
+       },
+       "release_date_for_display": "December 14, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 14, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8a70f2e5ed4bfadd89376486e773c634.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/8a70f2e5ed4bfadd89376486e773c634.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false
+       },
+       "title": "Classy Grinch",
+       "title_with_featured": "Classy Grinch",
+       "url": "https://genius.com/Mekhi-randle-classy-grinch-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1409186",
+        "header_image_url": "https://images.genius.com/eb00cb7e569f23b896a14e83cc6c7c11.700x700x1.jpg",
+        "id": 1409186,
+        "image_url": "https://images.genius.com/cf0b49b5cfea44b88e3ac2c1b291bd8b.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Mekhi Randle",
+        "url": "https://genius.com/artists/Mekhi-randle"
+       }
+      },
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/3391178",
+       "artist_names": "Big Popeye",
+       "full_title": "Boolin' Around the Christmas Tree by\u00a0Big\u00a0Popeye",
+       "header_image_thumbnail_url": "https://images.genius.com/df38c83b4c5aaf393440e57d9d23abb1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/df38c83b4c5aaf393440e57d9d23abb1.1000x1000x1.jpg",
+       "id": 3391178,
+       "language": "en",
+       "lyrics_owner_id": 4844396,
+       "lyrics_state": "complete",
+       "path": "/Big-popeye-boolin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Big-popeye-boolin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 12,
+        "day": 24
+       },
+       "release_date_for_display": "December 24, 2017",
+       "release_date_with_abbreviated_month_for_display": "Dec. 24, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/df38c83b4c5aaf393440e57d9d23abb1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/df38c83b4c5aaf393440e57d9d23abb1.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 4,
+        "hot": false
+       },
+       "title": "Boolin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Boolin' Around the Christmas Tree",
+       "url": "https://genius.com/Big-popeye-boolin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1282925",
+        "header_image_url": "https://images.genius.com/39b5b2c02e555dabbb13fc2b0b8d4c50.223x223x1.png",
+        "id": 1282925,
+        "image_url": "https://images.genius.com/39b5b2c02e555dabbb13fc2b0b8d4c50.223x223x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Big Popeye",
+        "url": "https://genius.com/artists/Big-popeye"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/8740715",
+       "artist_names": "SQUALAY (YouTube)",
+       "full_title": "RICH FLEX by DRAKE AND 21 SAVAGE but its just my voice by\u00a0SQUALAY\u00a0(YouTube)",
+       "header_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+       "id": 8740715,
+       "language": "en",
+       "lyrics_owner_id": 15254526,
+       "lyrics_state": "complete",
+       "path": "/Squalay-youtube-rich-flex-by-drake-and-21-savage-but-its-just-my-voice-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Squalay-youtube-rich-flex-by-drake-and-21-savage-but-its-just-my-voice-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 6
+       },
+       "release_date_for_display": "December 6, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 6, 2022",
+       "song_art_image_thumbnail_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+       "song_art_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "RICH FLEX by DRAKE AND 21 SAVAGE but its just my voice",
+       "title_with_featured": "RICH FLEX by DRAKE AND 21 SAVAGE but its just my voice",
+       "url": "https://genius.com/Squalay-youtube-rich-flex-by-drake-and-21-savage-but-its-just-my-voice-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3056290",
+        "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+        "id": 3056290,
+        "image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1qr9nyk7u0j",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "SQUALAY (YouTube)",
+        "url": "https://genius.com/artists/Squalay-youtube"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8826171",
+       "artist_names": "Fresh Zaza (Ft. Scalladosis)",
+       "full_title": "Naughty List by\u00a0Fresh\u00a0Zaza (Ft.\u00a0Scalladosis)",
+       "header_image_thumbnail_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "header_image_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "id": 8826171,
+       "language": "en",
+       "lyrics_owner_id": 15706203,
+       "lyrics_state": "complete",
+       "path": "/Fresh-zaza-naughty-list-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fresh-zaza-naughty-list-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 25
+       },
+       "release_date_for_display": "December 25, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 25, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7e0fdc5886e4ef87524b28f3880999eb.240x240x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Naughty List",
+       "title_with_featured": "Naughty List (Ft.\u00a0Scalladosis)",
+       "url": "https://genius.com/Fresh-zaza-naughty-list-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3021949",
+         "header_image_url": "https://images.genius.com/5451aff2bd4fa227ee20bd032bac18b0.1000x304x1.jpg",
+         "id": 3021949,
+         "image_url": "https://images.genius.com/b4ae48f0a56ab14563eb498cfdbdfb49.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Scalladosis",
+         "url": "https://genius.com/artists/Scalladosis"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3302893",
+        "header_image_url": "https://images.genius.com/4c3f2a336cffeb112acd05736ac5e5a8.720x720x1.png",
+        "id": 3302893,
+        "image_url": "https://images.genius.com/14756e1082b0a569fede71b7357e9b3d.720x720x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fresh Zaza",
+        "url": "https://genius.com/artists/Fresh-zaza"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8674103",
+       "artist_names": "\u200bthekidACE",
+       "full_title": "Rocking around the Christmas tree by\u00a0\u200bthekidACE",
+       "header_image_thumbnail_url": "https://images.genius.com/20d6047a31608966391b467a664dbd4f.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/20d6047a31608966391b467a664dbd4f.500x500x1.jpg",
+       "id": 8674103,
+       "language": "en",
+       "lyrics_owner_id": 15839193,
+       "lyrics_state": "complete",
+       "path": "/Thekidace-rocking-around-the-christmas-tree-lyrics",
+       "pyongs_count": 0,
+       "relationships_index_url": "https://genius.com/Thekidace-rocking-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 25
+       },
+       "release_date_for_display": "December 25, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 25, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/20d6047a31608966391b467a664dbd4f.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/20d6047a31608966391b467a664dbd4f.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rocking around the Christmas tree",
+       "title_with_featured": "Rocking around the Christmas tree",
+       "url": "https://genius.com/Thekidace-rocking-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3213438",
+        "header_image_url": "https://images.genius.com/c44d6ddd53c576429a82d965e3d528cd.640x640x1.jpg",
+        "id": 3213438,
+        "image_url": "https://images.genius.com/c44d6ddd53c576429a82d965e3d528cd.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "\u200bthekidACE",
+        "url": "https://genius.com/artists/Thekidace",
+        "iq": 102
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8640052",
+       "artist_names": "ONI INC.",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0ONI\u00a0INC.",
+       "header_image_thumbnail_url": "https://images.genius.com/fc57968cc6349fbcfaea67a737c32f38.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fc57968cc6349fbcfaea67a737c32f38.300x300x1.jpg",
+       "id": 8640052,
+       "language": "en",
+       "lyrics_owner_id": 7914283,
+       "lyrics_state": "complete",
+       "path": "/Oni-inc-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Oni-inc-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 9
+       },
+       "release_date_for_display": "December 9, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 9, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fc57968cc6349fbcfaea67a737c32f38.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fc57968cc6349fbcfaea67a737c32f38.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Oni-inc-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1428382",
+        "header_image_url": "https://images.genius.com/3b14bb1bb98708417d3e893edd3a892d.499x499x1.jpg",
+        "id": 1428382,
+        "image_url": "https://images.genius.com/3b14bb1bb98708417d3e893edd3a892d.499x499x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "ONI INC.",
+        "url": "https://genius.com/artists/Oni-inc"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7225768",
+       "artist_names": "Brett Young (Ft. Darius Rucker)",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Brett\u00a0Young (Ft.\u00a0Darius\u00a0Rucker)",
+       "header_image_thumbnail_url": "https://images.genius.com/02768089b8befb53296883f68b90aee0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/02768089b8befb53296883f68b90aee0.1000x1000x1.jpg",
+       "id": 7225768,
+       "language": "en",
+       "lyrics_owner_id": 8664184,
+       "lyrics_state": "complete",
+       "path": "/Brett-young-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Brett-young-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 22
+       },
+       "release_date_for_display": "October 22, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 22, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/02768089b8befb53296883f68b90aee0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/02768089b8befb53296883f68b90aee0.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree (Ft.\u00a0Darius\u00a0Rucker)",
+       "url": "https://genius.com/Brett-young-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/21867",
+         "header_image_url": "https://images.genius.com/6a629cf1a4b6fec5b21a8dd995cf928f.1000x519x1.jpg",
+         "id": 21867,
+         "image_url": "https://images.genius.com/6009b412250fcc9da9092429cc266812.474x474x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Darius Rucker",
+         "url": "https://genius.com/artists/Darius-rucker"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/455379",
+        "header_image_url": "https://images.genius.com/86a40f3c5c4041f9e9eb023c6afd5d72.1000x525x1.jpg",
+        "id": 455379,
+        "image_url": "https://images.genius.com/06450a77a7c19224543ec1d85105dc97.580x580x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brett Young",
+        "url": "https://genius.com/artists/Brett-young"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8051950",
+       "artist_names": "TheRealSullyG",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0TheRealSullyG",
+       "header_image_thumbnail_url": "https://images.genius.com/12a619e4a9fc3edf13d0d9b99f29086d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/12a619e4a9fc3edf13d0d9b99f29086d.1000x1000x1.jpg",
+       "id": 8051950,
+       "language": "en",
+       "lyrics_owner_id": 11279157,
+       "lyrics_state": "complete",
+       "path": "/Therealsullyg-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Therealsullyg-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 12,
+        "day": 1
+       },
+       "release_date_for_display": "December 1, 2019",
+       "release_date_with_abbreviated_month_for_display": "Dec. 1, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/12a619e4a9fc3edf13d0d9b99f29086d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/12a619e4a9fc3edf13d0d9b99f29086d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Therealsullyg-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2569144",
+        "header_image_url": "https://images.genius.com/086d8b5853062e9c32c16cf0d86bd5e5.1000x333x1.jpg",
+        "id": 2569144,
+        "image_url": "https://images.genius.com/0637bc5104f4cd047420db98eebfcbf9.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "TheRealSullyG",
+        "url": "https://genius.com/artists/Therealsullyg"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7854291",
+       "artist_names": "The View From Here",
+       "full_title": "Shreddin' Around the Christmas Tree by\u00a0The\u00a0View From Here",
+       "header_image_thumbnail_url": "https://images.genius.com/12847fe2b0ee8989fd2e7cc4e1c16b59.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/12847fe2b0ee8989fd2e7cc4e1c16b59.1000x1000x1.jpg",
+       "id": 7854291,
+       "language": "en",
+       "lyrics_owner_id": 9255773,
+       "lyrics_state": "complete",
+       "path": "/The-view-from-here-shreddin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-view-from-here-shreddin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": null
+       },
+       "release_date_for_display": "December 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/12847fe2b0ee8989fd2e7cc4e1c16b59.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/12847fe2b0ee8989fd2e7cc4e1c16b59.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shreddin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Shreddin' Around the Christmas Tree",
+       "url": "https://genius.com/The-view-from-here-shreddin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1436795",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 1436795,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The View From Here",
+        "url": "https://genius.com/artists/The-view-from-here"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7505773",
+       "artist_names": "Sara James",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Sara\u00a0James",
+       "header_image_thumbnail_url": "https://images.genius.com/54baf798522a28cf5ebcc769f9d59413.300x300x1.png",
+       "header_image_url": "https://images.genius.com/54baf798522a28cf5ebcc769f9d59413.1000x1000x1.png",
+       "id": 7505773,
+       "language": "en",
+       "lyrics_owner_id": 5353056,
+       "lyrics_state": "complete",
+       "path": "/Sara-james-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sara-james-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 18
+       },
+       "release_date_for_display": "November 18, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 18, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/54baf798522a28cf5ebcc769f9d59413.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/54baf798522a28cf5ebcc769f9d59413.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Sara-james-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2894776",
+        "header_image_url": "https://images.genius.com/2d4c0160e8506f826ecad800a71f5db5.1000x333x1.png",
+        "id": 2894776,
+        "image_url": "https://images.genius.com/c1a7b1721fd2fec75b344a5d98029cb8.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sara James",
+        "url": "https://genius.com/artists/Sara-james"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7463660",
+       "artist_names": "Casi Joy",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Casi\u00a0Joy",
+       "header_image_thumbnail_url": "https://images.genius.com/c1e799ed9cd271b59892fd5ca2ab0ca5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c1e799ed9cd271b59892fd5ca2ab0ca5.500x500x1.jpg",
+       "id": 7463660,
+       "language": "en",
+       "lyrics_owner_id": 13347098,
+       "lyrics_state": "complete",
+       "path": "/Casi-joy-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Casi-joy-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 21
+       },
+       "release_date_for_display": "November 21, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 21, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c1e799ed9cd271b59892fd5ca2ab0ca5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c1e799ed9cd271b59892fd5ca2ab0ca5.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Casi-joy-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2651469",
+        "header_image_url": "https://images.genius.com/f0c101e5bbc83b71d0e8db9f51ad55b7.400x400x1.jpg",
+        "id": 2651469,
+        "image_url": "https://images.genius.com/f0c101e5bbc83b71d0e8db9f51ad55b7.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Casi Joy",
+        "url": "https://genius.com/artists/Casi-joy"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7283195",
+       "artist_names": "Meghan Trainor",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Meghan\u00a0Trainor",
+       "header_image_thumbnail_url": "https://images.genius.com/a090ac3cd95cd7b39c4058a83dfe3774.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a090ac3cd95cd7b39c4058a83dfe3774.640x640x1.jpg",
+       "id": 7283195,
+       "language": "en",
+       "lyrics_owner_id": 4212581,
+       "lyrics_state": "complete",
+       "path": "/Meghan-trainor-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Meghan-trainor-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 15
+       },
+       "release_date_for_display": "October 15, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a090ac3cd95cd7b39c4058a83dfe3774.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a090ac3cd95cd7b39c4058a83dfe3774.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Meghan-trainor-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/201194",
+        "header_image_url": "https://images.genius.com/4856bed05d8cc84844cb4492aed88d7e.1000x333x1.jpg",
+        "id": 201194,
+        "image_url": "https://images.genius.com/711b9018eded06c65e2e380b0aa2f578.400x400x1.jpg",
+        "is_meme_verified": true,
+        "is_verified": true,
+        "name": "Meghan Trainor",
+        "url": "https://genius.com/artists/Meghan-trainor",
+        "iq": 4162
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7237027",
+       "artist_names": "Schlussakkord",
+       "full_title": "Rockin' around the christmas tree by\u00a0Schlussakkord",
+       "header_image_thumbnail_url": "https://images.genius.com/b5d905c166c2bc80b51c20d0a8b9ac46.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b5d905c166c2bc80b51c20d0a8b9ac46.1000x1000x1.jpg",
+       "id": 7237027,
+       "language": null,
+       "lyrics_owner_id": 10162938,
+       "lyrics_state": "unreleased",
+       "path": "/Schlussakkord-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Schlussakkord-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b5d905c166c2bc80b51c20d0a8b9ac46.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b5d905c166c2bc80b51c20d0a8b9ac46.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 around the christmas tree",
+       "title_with_featured": "Rockin' around the christmas tree",
+       "url": "https://genius.com/Schlussakkord-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1823124",
+        "header_image_url": "https://images.genius.com/1f76b4f81c2860cea7d211272705255b.160x160x1.jpg",
+        "id": 1823124,
+        "image_url": "https://images.genius.com/1f76b4f81c2860cea7d211272705255b.160x160x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Schlussakkord",
+        "url": "https://genius.com/artists/Schlussakkord"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7222338",
+       "artist_names": "Kelly Clarkson",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Kelly\u00a0Clarkson",
+       "header_image_thumbnail_url": "https://images.genius.com/fc66ab1bb2dcfc167cedbd8a27880bda.300x300x1.png",
+       "header_image_url": "https://images.genius.com/fc66ab1bb2dcfc167cedbd8a27880bda.1000x1000x1.png",
+       "id": 7222338,
+       "language": "en",
+       "lyrics_owner_id": 4212581,
+       "lyrics_state": "complete",
+       "path": "/Kelly-clarkson-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kelly-clarkson-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 15
+       },
+       "release_date_for_display": "October 15, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 15, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fc66ab1bb2dcfc167cedbd8a27880bda.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/fc66ab1bb2dcfc167cedbd8a27880bda.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Kelly-clarkson-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/11714",
+        "header_image_url": "https://images.genius.com/dd2a356ed1dcb17c0db10d1d9dea42d7.1000x281x1.jpg",
+        "id": 11714,
+        "image_url": "https://images.genius.com/a736b4314ad52aba0636b9ce21ef3423.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kelly Clarkson",
+        "url": "https://genius.com/artists/Kelly-clarkson"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6227995",
+       "artist_names": "Maddie Poppe",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Maddie\u00a0Poppe",
+       "header_image_thumbnail_url": "https://images.genius.com/3a4850ca93eeb560ff9bc61bbb9738de.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/3a4850ca93eeb560ff9bc61bbb9738de.200x200x1.jpg",
+       "id": 6227995,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Maddie-poppe-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maddie-poppe-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 16
+       },
+       "release_date_for_display": "November 16, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 16, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3a4850ca93eeb560ff9bc61bbb9738de.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3a4850ca93eeb560ff9bc61bbb9738de.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Maddie-poppe-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1434992",
+        "header_image_url": "https://images.genius.com/9f25c8d391ea9193b51da1635c156c1b.1000x333x1.jpg",
+        "id": 1434992,
+        "image_url": "https://images.genius.com/11cc30db82e031aa5f07d7d7e5e19bb0.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Maddie Poppe",
+        "url": "https://genius.com/artists/Maddie-poppe"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1033732",
+       "artist_names": "Connie Talbot",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Connie\u00a0Talbot",
+       "header_image_thumbnail_url": "https://images.genius.com/734192ca5260b5efc7b114e30dbc6d91.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/734192ca5260b5efc7b114e30dbc6d91.200x200x1.jpg",
+       "id": 1033732,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Connie-talbot-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Connie-talbot-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/734192ca5260b5efc7b114e30dbc6d91.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/734192ca5260b5efc7b114e30dbc6d91.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Connie-talbot-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/343863",
+        "header_image_url": "https://images.genius.com/ed3813ee07e448fdbadf3baf841dd576.600x600x1.jpg",
+        "id": 343863,
+        "image_url": "https://images.genius.com/0003e3d613bfbf88d27bdd8e6b8867a5.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Connie Talbot",
+        "url": "https://genius.com/artists/Connie-talbot"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6825303",
+       "artist_names": "Vanessa Neigert",
+       "full_title": "Rocking Around the Christmas Tree by\u00a0Vanessa\u00a0Neigert",
+       "header_image_thumbnail_url": "https://images.genius.com/9b558e72cd62ad9e91312e6266051698.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9b558e72cd62ad9e91312e6266051698.600x600x1.jpg",
+       "id": 6825303,
+       "language": "en",
+       "lyrics_owner_id": 5748050,
+       "lyrics_state": "complete",
+       "path": "/Vanessa-neigert-rocking-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Vanessa-neigert-rocking-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2010,
+        "month": 6,
+        "day": 4
+       },
+       "release_date_for_display": "June 4, 2010",
+       "release_date_with_abbreviated_month_for_display": "Jun. 4, 2010",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9b558e72cd62ad9e91312e6266051698.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9b558e72cd62ad9e91312e6266051698.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rocking Around the Christmas Tree",
+       "title_with_featured": "Rocking Around the Christmas Tree",
+       "url": "https://genius.com/Vanessa-neigert-rocking-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2728913",
+        "header_image_url": "https://images.genius.com/4f9de4c5f524e419cff74db8931b6296.1000x1000x1.jpg",
+        "id": 2728913,
+        "image_url": "https://images.genius.com/4f9de4c5f524e419cff74db8931b6296.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Vanessa Neigert",
+        "url": "https://genius.com/artists/Vanessa-neigert"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1276759",
+       "artist_names": "Chicago",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Chicago",
+       "header_image_thumbnail_url": "https://images.genius.com/4268cffe5548508c32559b18470ffb6e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4268cffe5548508c32559b18470ffb6e.1000x1000x1.jpg",
+       "id": 1276759,
+       "language": "en",
+       "lyrics_owner_id": 8481297,
+       "lyrics_state": "complete",
+       "path": "/Chicago-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Chicago-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2011,
+        "month": 10,
+        "day": 4
+       },
+       "release_date_for_display": "October 4, 2011",
+       "release_date_with_abbreviated_month_for_display": "Oct. 4, 2011",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4268cffe5548508c32559b18470ffb6e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4268cffe5548508c32559b18470ffb6e.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Chicago-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/36556",
+        "header_image_url": "https://images.genius.com/bb4be79548a2c49f75b2cea2159a67f4.588x175x1.jpg",
+        "id": 36556,
+        "image_url": "https://images.genius.com/4fd28071db7a4708092ee177c5ad915f.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chicago",
+        "url": "https://genius.com/artists/Chicago"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6723901",
+       "artist_names": "The Luvmenauts",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0The\u00a0Luvmenauts",
+       "header_image_thumbnail_url": "https://images.genius.com/f02780295e61fab5ebf21129bdc0c2c9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/f02780295e61fab5ebf21129bdc0c2c9.768x768x1.jpg",
+       "id": 6723901,
+       "language": "en",
+       "lyrics_owner_id": 352603,
+       "lyrics_state": "complete",
+       "path": "/The-luvmenauts-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-luvmenauts-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 12,
+        "day": 1
+       },
+       "release_date_for_display": "December 1, 2013",
+       "release_date_with_abbreviated_month_for_display": "Dec. 1, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f02780295e61fab5ebf21129bdc0c2c9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/f02780295e61fab5ebf21129bdc0c2c9.768x768x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/The-luvmenauts-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2695386",
+        "header_image_url": "https://images.genius.com/c3200c9b8a8106800b7069fab475a53f.850x850x1.jpg",
+        "id": 2695386,
+        "image_url": "https://images.genius.com/c3200c9b8a8106800b7069fab475a53f.850x850x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Luvmenauts",
+        "url": "https://genius.com/artists/The-luvmenauts"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6423933",
+       "artist_names": "Jack Reynolds",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Jack\u00a0Reynolds",
+       "header_image_thumbnail_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.700x700x1.jpg",
+       "id": 6423933,
+       "language": "en",
+       "lyrics_owner_id": 7918677,
+       "lyrics_state": "complete",
+       "path": "/Jack-reynolds-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jack-reynolds-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 11,
+        "day": 13
+       },
+       "release_date_for_display": "November 13, 2020",
+       "release_date_with_abbreviated_month_for_display": "Nov. 13, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/305cfc93f38b16d6cb4b2c8e3129e14d.700x700x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Jack-reynolds-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1534791",
+        "header_image_url": "https://images.genius.com/0ad069d69e67da213507f59af23a8597.1000x333x1.jpg",
+        "id": 1534791,
+        "image_url": "https://images.genius.com/aa277e8ee1a6b471cb71893b420fbbec.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Jack Reynolds",
+        "url": "https://genius.com/artists/Jack-reynolds",
+        "iq": 7823
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6402768",
+       "artist_names": "M\u00e1ria \u010c\u00edrov\u00e1",
+       "full_title": "Rockin' Around The Christmas Tree/Frosty The Snowman by\u00a0M\u00e1ria\u00a0\u010c\u00edrov\u00e1",
+       "header_image_thumbnail_url": "https://images.genius.com/d813fde7ceda88a9683a98d43c14c9e6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d813fde7ceda88a9683a98d43c14c9e6.708x708x1.jpg",
+       "id": 6402768,
+       "language": "en",
+       "lyrics_owner_id": 12616040,
+       "lyrics_state": "complete",
+       "path": "/Maria-cirova-rockin-around-the-christmas-tree-frosty-the-snowman-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Maria-cirova-rockin-around-the-christmas-tree-frosty-the-snowman-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 23
+       },
+       "release_date_for_display": "October 23, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 23, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d813fde7ceda88a9683a98d43c14c9e6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d813fde7ceda88a9683a98d43c14c9e6.708x708x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree/Frosty The Snowman",
+       "title_with_featured": "Rockin' Around The Christmas Tree/Frosty The Snowman",
+       "url": "https://genius.com/Maria-cirova-rockin-around-the-christmas-tree-frosty-the-snowman-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/657126",
+        "header_image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+        "id": 657126,
+        "image_url": "https://images.genius.com/97a07b05a9e26563d6b9bfe17ac3ddf5.837x837x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "M\u00e1ria \u010c\u00edrov\u00e1",
+        "url": "https://genius.com/artists/Maria-cirova"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6344695",
+       "artist_names": "Kerosene Queen",
+       "full_title": "Rockin\u2019 Around The Christmas Tree by\u00a0Kerosene\u00a0Queen",
+       "header_image_thumbnail_url": "https://images.genius.com/8636b1f374712c5756ff7959a5782052.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8636b1f374712c5756ff7959a5782052.598x598x1.jpg",
+       "id": 6344695,
+       "language": "en",
+       "lyrics_owner_id": 12514615,
+       "lyrics_state": "complete",
+       "path": "/Kerosene-queen-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kerosene-queen-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/8636b1f374712c5756ff7959a5782052.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8636b1f374712c5756ff7959a5782052.598x598x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around The Christmas Tree",
+       "url": "https://genius.com/Kerosene-queen-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2548075",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2548075,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kerosene Queen",
+        "url": "https://genius.com/artists/Kerosene-queen"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1042570",
+       "artist_names": "Robyn Adele Anderson",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Robyn\u00a0Adele Anderson",
+       "header_image_thumbnail_url": "https://images.genius.com/471b51adf2bda378f0c22719feb29aaf.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/471b51adf2bda378f0c22719feb29aaf.584x584x1.jpg",
+       "id": 1042570,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Robyn-adele-anderson-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Robyn-adele-anderson-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/471b51adf2bda378f0c22719feb29aaf.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/471b51adf2bda378f0c22719feb29aaf.584x584x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Robyn-adele-anderson-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/392185",
+        "header_image_url": "https://images.genius.com/095a47f68bd479fe5c412e3b2716ff14.1000x669x1.jpg",
+        "id": 392185,
+        "image_url": "https://images.genius.com/471b51adf2bda378f0c22719feb29aaf.584x584x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Robyn Adele Anderson",
+        "url": "https://genius.com/artists/Robyn-adele-anderson"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6227961",
+       "artist_names": "Darci Lynne",
+       "full_title": "Rockin' Around the Christmas Tree (from the NBC Special \"My Hometown Christmas Special\") by\u00a0Darci\u00a0Lynne",
+       "header_image_thumbnail_url": "https://images.genius.com/61276b467a2b8f2e2bd9007befeb7b98.200x200x1.jpg",
+       "header_image_url": "https://images.genius.com/61276b467a2b8f2e2bd9007befeb7b98.200x200x1.jpg",
+       "id": 6227961,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Darci-lynne-rockin-around-the-christmas-tree-from-the-nbc-special-my-hometown-christmas-special-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Darci-lynne-rockin-around-the-christmas-tree-from-the-nbc-special-my-hometown-christmas-special-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 12,
+        "day": 7
+       },
+       "release_date_for_display": "December 7, 2018",
+       "release_date_with_abbreviated_month_for_display": "Dec. 7, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/61276b467a2b8f2e2bd9007befeb7b98.200x200x1.jpg",
+       "song_art_image_url": "https://images.genius.com/61276b467a2b8f2e2bd9007befeb7b98.200x200x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree (from the NBC Special \u201dMy Hometown Christmas Special\u201d)",
+       "title_with_featured": "Rockin' Around the Christmas Tree (from the NBC Special \"My Hometown Christmas Special\")",
+       "url": "https://genius.com/Darci-lynne-rockin-around-the-christmas-tree-from-the-nbc-special-my-hometown-christmas-special-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2500971",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 2500971,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Darci Lynne",
+        "url": "https://genius.com/artists/Darci-lynne"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6161209",
+       "artist_names": "Justin Bieber",
+       "full_title": "Rockin\u2019 Around The Christmas Tree by\u00a0Justin\u00a0Bieber",
+       "header_image_thumbnail_url": "https://images.genius.com/4584bd6b90c9362e372f38bb797b4928.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4584bd6b90c9362e372f38bb797b4928.600x600x1.jpg",
+       "id": 6161209,
+       "language": "en",
+       "lyrics_owner_id": 5264673,
+       "lyrics_state": "complete",
+       "path": "/Justin-bieber-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Justin-bieber-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 11,
+        "day": 12
+       },
+       "release_date_for_display": "November 12, 2020",
+       "release_date_with_abbreviated_month_for_display": "Nov. 12, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4584bd6b90c9362e372f38bb797b4928.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4584bd6b90c9362e372f38bb797b4928.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around The Christmas Tree",
+       "url": "https://genius.com/Justin-bieber-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/357",
+        "header_image_url": "https://images.genius.com/be2c60bdfb3ea6844a46cc5873c75b89.1000x563x1.jpg",
+        "id": 357,
+        "image_url": "https://images.genius.com/8c95afb142e16e2e053b4384514dc339.938x938x1.png",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Justin Bieber",
+        "url": "https://genius.com/artists/Justin-bieber",
+        "iq": 1533
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1995360",
+       "artist_names": "Bella Thorne",
+       "full_title": "Rockin\u2019 Around the Christmas Tree by\u00a0Bella\u00a0Thorne",
+       "header_image_thumbnail_url": "https://images.genius.com/164b62aee80e55c720fb59b3ea1553ad.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/164b62aee80e55c720fb59b3ea1553ad.999x1000x1.jpg",
+       "id": 1995360,
+       "language": "en",
+       "lyrics_owner_id": 10041706,
+       "lyrics_state": "complete",
+       "path": "/Bella-thorne-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bella-thorne-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 10,
+        "day": 2
+       },
+       "release_date_for_display": "October 2, 2012",
+       "release_date_with_abbreviated_month_for_display": "Oct. 2, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/164b62aee80e55c720fb59b3ea1553ad.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/164b62aee80e55c720fb59b3ea1553ad.999x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around the Christmas Tree",
+       "url": "https://genius.com/Bella-thorne-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/43903",
+        "header_image_url": "https://images.genius.com/f08fff1528186caa93ff9edf651c2bb3.609x185x1.png",
+        "id": 43903,
+        "image_url": "https://images.genius.com/c5c25b278408f07d224c8bb8c157f7d8.619x619x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bella Thorne",
+        "url": "https://genius.com/artists/Bella-thorne"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1664504",
+       "artist_names": "Play",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Play",
+       "header_image_thumbnail_url": "https://images.genius.com/e20507b626d32609c1ec7847eeb7f76a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e20507b626d32609c1ec7847eeb7f76a.640x640x1.jpg",
+       "id": 1664504,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Play-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Play-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2004,
+        "month": 11,
+        "day": 23
+       },
+       "release_date_for_display": "November 23, 2004",
+       "release_date_with_abbreviated_month_for_display": "Nov. 23, 2004",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e20507b626d32609c1ec7847eeb7f76a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e20507b626d32609c1ec7847eeb7f76a.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Play-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/7431",
+        "header_image_url": "https://images.genius.com/3e68a63bedfdb38c1b38f5755028f6a3.250x188x1.jpg",
+        "id": 7431,
+        "image_url": "https://images.genius.com/e3b55b9c79f66cf7d1727de54477c61a.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Play",
+        "url": "https://genius.com/artists/Play"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/186973",
+       "artist_names": "Hannah Montana",
+       "full_title": "Rockin\u2019 Around the Christmas Tree by\u00a0Hannah\u00a0Montana",
+       "header_image_thumbnail_url": "https://images.genius.com/c98b770c36fa9d89a41128ba77675050.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c98b770c36fa9d89a41128ba77675050.1000x1000x1.jpg",
+       "id": 186973,
+       "language": "en",
+       "lyrics_owner_id": 250962,
+       "lyrics_state": "complete",
+       "path": "/Hannah-montana-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Hannah-montana-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2007,
+        "month": 10,
+        "day": 16
+       },
+       "release_date_for_display": "October 16, 2007",
+       "release_date_with_abbreviated_month_for_display": "Oct. 16, 2007",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c98b770c36fa9d89a41128ba77675050.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c98b770c36fa9d89a41128ba77675050.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around the Christmas Tree",
+       "url": "https://genius.com/Hannah-montana-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2384954",
+        "header_image_url": "https://images.genius.com/736f215897eaac2bedcf6fcd6a0f0368.1000x165x1.png",
+        "id": 2384954,
+        "image_url": "https://images.genius.com/43c217f9e508a8490e5bbf2aab2edd9a.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Hannah Montana",
+        "url": "https://genius.com/artists/Hannah-montana"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/3343257",
+       "artist_names": "Miley Cyrus",
+       "full_title": "Rockin\u2019 Around the Christmas Tree (2017) by\u00a0Miley\u00a0Cyrus",
+       "header_image_thumbnail_url": "https://images.genius.com/226f28fef034265943e6c6bea17da023.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/226f28fef034265943e6c6bea17da023.640x640x1.jpg",
+       "id": 3343257,
+       "language": "en",
+       "lyrics_owner_id": 93685,
+       "lyrics_state": "complete",
+       "path": "/Miley-cyrus-rockin-around-the-christmas-tree-2017-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Miley-cyrus-rockin-around-the-christmas-tree-2017-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 11,
+        "day": 29
+       },
+       "release_date_for_display": "November 29, 2017",
+       "release_date_with_abbreviated_month_for_display": "Nov. 29, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/226f28fef034265943e6c6bea17da023.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/226f28fef034265943e6c6bea17da023.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false,
+        "pageviews": 8290
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree (2017)",
+       "title_with_featured": "Rockin\u2019 Around the Christmas Tree (2017)",
+       "url": "https://genius.com/Miley-cyrus-rockin-around-the-christmas-tree-2017-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/805",
+        "header_image_url": "https://images.genius.com/1b9de94f7698325bf5cb615446d2c60b.1000x500x1.jpg",
+        "id": 805,
+        "image_url": "https://images.genius.com/9082e527369435d9a9f4b8f18092c795.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Miley Cyrus",
+        "url": "https://genius.com/artists/Miley-cyrus"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5249568",
+       "artist_names": "Gary Chapman",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Gary\u00a0Chapman",
+       "header_image_thumbnail_url": "https://images.genius.com/335c5cef50d6f274803105ce4920e1ed.300x300x1.png",
+       "header_image_url": "https://images.genius.com/335c5cef50d6f274803105ce4920e1ed.500x500x1.png",
+       "id": 5249568,
+       "language": "en",
+       "lyrics_owner_id": 8243601,
+       "lyrics_state": "complete",
+       "path": "/Gary-chapman-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Gary-chapman-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/335c5cef50d6f274803105ce4920e1ed.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/335c5cef50d6f274803105ce4920e1ed.500x500x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Gary-chapman-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/363560",
+        "header_image_url": "https://images.genius.com/543bfd1300658b62da0890d342713185.650x430x1.jpg",
+        "id": 363560,
+        "image_url": "https://images.genius.com/543bfd1300658b62da0890d342713185.650x430x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Gary Chapman",
+        "url": "https://genius.com/artists/Gary-chapman"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5079093",
+       "artist_names": "Us The Duo",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Us\u00a0The Duo",
+       "header_image_thumbnail_url": "https://images.genius.com/5c8bd854839f2f9ae4b1000ca337a698.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5c8bd854839f2f9ae4b1000ca337a698.1000x1000x1.jpg",
+       "id": 5079093,
+       "language": "en",
+       "lyrics_owner_id": 8475330,
+       "lyrics_state": "complete",
+       "path": "/Us-the-duo-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Us-the-duo-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 11,
+        "day": 27
+       },
+       "release_date_for_display": "November 27, 2019",
+       "release_date_with_abbreviated_month_for_display": "Nov. 27, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/5c8bd854839f2f9ae4b1000ca337a698.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5c8bd854839f2f9ae4b1000ca337a698.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Us-the-duo-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/215393",
+        "header_image_url": "https://images.genius.com/68d067be13b83e7fcbc954d46a65f761.1000x429x1.jpg",
+        "id": 215393,
+        "image_url": "https://images.genius.com/aa83166bbfc4ed752ee9de9981aa1d3e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Us The Duo",
+        "url": "https://genius.com/artists/Us-the-duo"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1651525",
+       "artist_names": "First to Eleven",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0First\u00a0to Eleven",
+       "header_image_thumbnail_url": "https://images.genius.com/b96927aa41aa286a71ae5e050d9a01e3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b96927aa41aa286a71ae5e050d9a01e3.1000x1000x1.jpg",
+       "id": 1651525,
+       "language": "en",
+       "lyrics_owner_id": 9666843,
+       "lyrics_state": "complete",
+       "path": "/First-to-eleven-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/First-to-eleven-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 11,
+        "day": 27
+       },
+       "release_date_for_display": "November 27, 2019",
+       "release_date_with_abbreviated_month_for_display": "Nov. 27, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b96927aa41aa286a71ae5e050d9a01e3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b96927aa41aa286a71ae5e050d9a01e3.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/First-to-eleven-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/670219",
+        "header_image_url": "https://images.genius.com/73a7e51017d87225b626adee184cadd4.1000x667x1.png",
+        "id": 670219,
+        "image_url": "https://images.genius.com/a02d4dec7ace726dbe8e92ed5d267ea4.720x720x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "First to Eleven",
+        "url": "https://genius.com/artists/First-to-eleven"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4997391",
+       "artist_names": "Kacey Musgraves (Ft. Camila Cabello)",
+       "full_title": "Rockin\u2019 Around the Christmas Tree (From The Kacey Musgraves Christmas Show) by\u00a0Kacey\u00a0Musgraves (Ft.\u00a0Camila\u00a0Cabello)",
+       "header_image_thumbnail_url": "https://images.genius.com/0425611ff1e3e62bbeeb8dd55a85d5ed.300x300x1.png",
+       "header_image_url": "https://images.genius.com/0425611ff1e3e62bbeeb8dd55a85d5ed.1000x1000x1.png",
+       "id": 4997391,
+       "language": "en",
+       "lyrics_owner_id": 8315100,
+       "lyrics_state": "complete",
+       "path": "/Kacey-musgraves-rockin-around-the-christmas-tree-from-the-kacey-musgraves-christmas-show-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kacey-musgraves-rockin-around-the-christmas-tree-from-the-kacey-musgraves-christmas-show-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 11,
+        "day": 29
+       },
+       "release_date_for_display": "November 29, 2019",
+       "release_date_with_abbreviated_month_for_display": "Nov. 29, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0425611ff1e3e62bbeeb8dd55a85d5ed.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/0425611ff1e3e62bbeeb8dd55a85d5ed.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree (From The Kacey Musgraves Christmas Show)",
+       "title_with_featured": "Rockin\u2019 Around the Christmas Tree (From The Kacey Musgraves Christmas Show) (Ft.\u00a0Camila\u00a0Cabello)",
+       "url": "https://genius.com/Kacey-musgraves-rockin-around-the-christmas-tree-from-the-kacey-musgraves-christmas-show-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/609667",
+         "header_image_url": "https://images.genius.com/d3af5398fb9b4b0720366a6733599afe.1000x333x1.jpg",
+         "id": 609667,
+         "image_url": "https://images.genius.com/c7c3f71dbc3bbe771c1d7057d70b65d5.400x400x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Camila Cabello",
+         "url": "https://genius.com/artists/Camila-cabello",
+         "iq": 3295
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/53023",
+        "header_image_url": "https://images.genius.com/83d6abbb74d3e6be1c19ce855a664c41.1000x667x1.jpg",
+        "id": 53023,
+        "image_url": "https://images.genius.com/fdf09a8fd65cddd9c9c2a8434b0a8108.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kacey Musgraves",
+        "url": "https://genius.com/artists/Kacey-musgraves"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4880623",
+       "artist_names": "Lea Michele",
+       "full_title": "Rockin\u2019 Around the Christmas Tree by\u00a0Lea\u00a0Michele",
+       "header_image_thumbnail_url": "https://images.genius.com/1999379a14638ee8529432a3fb3d5626.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1999379a14638ee8529432a3fb3d5626.1000x1000x1.jpg",
+       "id": 4880623,
+       "language": "en",
+       "lyrics_owner_id": 6214403,
+       "lyrics_state": "complete",
+       "path": "/Lea-michele-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lea-michele-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 25
+       },
+       "release_date_for_display": "October 25, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 25, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1999379a14638ee8529432a3fb3d5626.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1999379a14638ee8529432a3fb3d5626.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around the Christmas Tree",
+       "url": "https://genius.com/Lea-michele-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/108090",
+        "header_image_url": "https://images.genius.com/4de759af5c5e1454ec796c8ab0be6766.800x800x1.png",
+        "id": 108090,
+        "image_url": "https://images.genius.com/da0b58eca0c8a20ddd3f0b78d1ab2a31.675x675x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lea Michele",
+        "url": "https://genius.com/artists/Lea-michele"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1947107",
+       "artist_names": "Victoria Justice",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Victoria\u00a0Justice",
+       "header_image_thumbnail_url": "https://images.genius.com/35d64d3cbbff64a56735a5551c9bcec3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/35d64d3cbbff64a56735a5551c9bcec3.636x636x1.jpg",
+       "id": 1947107,
+       "language": "en",
+       "lyrics_owner_id": 2806069,
+       "lyrics_state": "complete",
+       "path": "/Victoria-justice-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Victoria-justice-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2012",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/35d64d3cbbff64a56735a5551c9bcec3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/35d64d3cbbff64a56735a5551c9bcec3.636x636x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Victoria-justice-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/20517",
+        "header_image_url": "https://images.genius.com/1f605f4c2f3167443675a1f981206673.1000x333x1.jpg",
+        "id": 20517,
+        "image_url": "https://images.genius.com/a750115f1d106ad12dcdbad53f38529b.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Victoria Justice",
+        "url": "https://genius.com/artists/Victoria-justice"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1050942",
+       "artist_names": "Cyndi Lauper",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Cyndi\u00a0Lauper",
+       "header_image_thumbnail_url": "https://images.genius.com/b83e19f3bad79944cdbf093d0cd96d8a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b83e19f3bad79944cdbf093d0cd96d8a.600x600x1.jpg",
+       "id": 1050942,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Cyndi-lauper-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cyndi-lauper-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/b83e19f3bad79944cdbf093d0cd96d8a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b83e19f3bad79944cdbf093d0cd96d8a.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Cyndi-lauper-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/29192",
+        "header_image_url": "https://images.genius.com/c6703ec1c93b5e9530acacd52a3e4f11.999x1000x1.jpg",
+        "id": 29192,
+        "image_url": "https://images.genius.com/dc666d27479c56f9b9acee27e06c6152.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cyndi Lauper",
+        "url": "https://genius.com/artists/Cyndi-lauper"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4170190",
+       "artist_names": "Ingrid Michaelson (Ft. Grace VanderWaal)",
+       "full_title": "Rockin\u2019 Around The Christmas Tree by\u00a0Ingrid\u00a0Michaelson (Ft.\u00a0Grace\u00a0VanderWaal)",
+       "header_image_thumbnail_url": "https://images.genius.com/7562e42a8b61382cad6860cb23d67b37.300x114x1.jpg",
+       "header_image_url": "https://images.genius.com/7562e42a8b61382cad6860cb23d67b37.660x250x1.jpg",
+       "id": 4170190,
+       "language": "en",
+       "lyrics_owner_id": 6214403,
+       "lyrics_state": "complete",
+       "path": "/Ingrid-michaelson-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ingrid-michaelson-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 26
+       },
+       "release_date_for_display": "October 26, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 26, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4695b10fb280a3f0da6dac3bc55c1c0e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4695b10fb280a3f0da6dac3bc55c1c0e.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin\u2019 Around The Christmas Tree (Ft.\u00a0Grace\u00a0VanderWaal)",
+       "url": "https://genius.com/Ingrid-michaelson-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/683289",
+         "header_image_url": "https://images.genius.com/ca1a45eff30c98171ca376ec980a5d8f.1000x500x1.jpg",
+         "id": 683289,
+         "image_url": "https://images.genius.com/b821e7694ee024b6eb59488147969fa1.959x959x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Grace VanderWaal",
+         "url": "https://genius.com/artists/Grace-vanderwaal",
+         "iq": 1232
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/45926",
+        "header_image_url": "https://images.genius.com/948f58359fb77365c813f84dd639f6e0.1000x563x1.jpg",
+        "id": 45926,
+        "image_url": "https://images.genius.com/026ea285d874a440e8e4e611594021b5.900x900x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ingrid Michaelson",
+        "url": "https://genius.com/artists/Ingrid-michaelson"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4027237",
+       "artist_names": "Pentatonix",
+       "full_title": "Rockin' Around The Christmas Tree by\u00a0Pentatonix",
+       "header_image_thumbnail_url": "https://images.genius.com/6780029b1a4444e41419fb82d2e79bc6.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/6780029b1a4444e41419fb82d2e79bc6.1000x1000x1.jpg",
+       "id": 4027237,
+       "language": "en",
+       "lyrics_owner_id": 6150507,
+       "lyrics_state": "complete",
+       "path": "/Pentatonix-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Pentatonix-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 26
+       },
+       "release_date_for_display": "October 26, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 26, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/6780029b1a4444e41419fb82d2e79bc6.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/6780029b1a4444e41419fb82d2e79bc6.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree",
+       "title_with_featured": "Rockin' Around The Christmas Tree",
+       "url": "https://genius.com/Pentatonix-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/62578",
+        "header_image_url": "https://images.genius.com/33296879885196d70d8200abaee21c7d.1000x437x1.jpg",
+        "id": 62578,
+        "image_url": "https://images.genius.com/811a2c3752beba16f6d23c3f8717cd7e.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Pentatonix",
+        "url": "https://genius.com/artists/Pentatonix",
+        "iq": 864
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3781146",
+       "artist_names": "Bob Rivers",
+       "full_title": "Shoppin' Around For A Christmas Tree by\u00a0Bob\u00a0Rivers",
+       "header_image_thumbnail_url": "https://images.genius.com/50ff5d5f35cfe87d293e933d4735630c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/50ff5d5f35cfe87d293e933d4735630c.1000x1000x1.jpg",
+       "id": 3781146,
+       "language": "en",
+       "lyrics_owner_id": 7391829,
+       "lyrics_state": "complete",
+       "path": "/Bob-rivers-shoppin-around-for-a-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Bob-rivers-shoppin-around-for-a-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2002,
+        "month": 10,
+        "day": 1
+       },
+       "release_date_for_display": "October 1, 2002",
+       "release_date_with_abbreviated_month_for_display": "Oct. 1, 2002",
+       "song_art_image_thumbnail_url": "https://images.genius.com/50ff5d5f35cfe87d293e933d4735630c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/50ff5d5f35cfe87d293e933d4735630c.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Shoppin\u2019 Around For A Christmas Tree",
+       "title_with_featured": "Shoppin' Around For A Christmas Tree",
+       "url": "https://genius.com/Bob-rivers-shoppin-around-for-a-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/358130",
+        "header_image_url": "https://images.genius.com/f7b320e5d8feef245e28c7441550b695.225x225x1.jpg",
+        "id": 358130,
+        "image_url": "https://images.genius.com/f7b320e5d8feef245e28c7441550b695.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bob Rivers",
+        "url": "https://genius.com/artists/Bob-rivers"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3302184",
+       "artist_names": "Dia Frampton",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Dia\u00a0Frampton",
+       "header_image_thumbnail_url": "https://images.genius.com/2db4b2db22edf1f0f3731375ec7d72f9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2db4b2db22edf1f0f3731375ec7d72f9.1000x1000x1.jpg",
+       "id": 3302184,
+       "language": "en",
+       "lyrics_owner_id": 4273083,
+       "lyrics_state": "complete",
+       "path": "/Dia-frampton-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dia-frampton-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 11,
+        "day": 3
+       },
+       "release_date_for_display": "November 3, 2017",
+       "release_date_with_abbreviated_month_for_display": "Nov. 3, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2db4b2db22edf1f0f3731375ec7d72f9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2db4b2db22edf1f0f3731375ec7d72f9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Dia-frampton-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/23197",
+        "header_image_url": "https://images.genius.com/660a8c5def810e01fb9c971f08f04b92.828x315x1.png",
+        "id": 23197,
+        "image_url": "https://images.genius.com/b66206fe02948c849f8ed90e4d34dbf4.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Dia Frampton",
+        "url": "https://genius.com/artists/Dia-frampton",
+        "iq": 308
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2109995",
+       "artist_names": "Glee Cast",
+       "full_title": "Rockin' Around the Christmas Tree by\u00a0Glee\u00a0Cast",
+       "header_image_thumbnail_url": "https://images.genius.com/15cdb837e3a587408f3f68192975c635.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/15cdb837e3a587408f3f68192975c635.600x600x1.jpg",
+       "id": 2109995,
+       "language": "en",
+       "lyrics_owner_id": 359109,
+       "lyrics_state": "complete",
+       "path": "/Glee-cast-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Glee-cast-rockin-around-the-christmas-tree-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 12,
+        "day": 3
+       },
+       "release_date_for_display": "December 3, 2013",
+       "release_date_with_abbreviated_month_for_display": "Dec. 3, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/15cdb837e3a587408f3f68192975c635.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/15cdb837e3a587408f3f68192975c635.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around the Christmas Tree",
+       "title_with_featured": "Rockin' Around the Christmas Tree",
+       "url": "https://genius.com/Glee-cast-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/275474",
+        "header_image_url": "https://images.genius.com/667ee62ccc1ba4d72177b906d4766476.851x368x1.png",
+        "id": 275474,
+        "image_url": "https://images.genius.com/acb2b6cc07b9ffa614cbae768d546e84.910x910x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Glee Cast",
+        "url": "https://genius.com/artists/Glee-cast"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1938430",
+       "artist_names": "Recovery",
+       "full_title": "Rockin' around the christmas tree by\u00a0Recovery",
+       "header_image_thumbnail_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.300x300x1.png",
+       "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+       "id": 1938430,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Recovery-rockin-around-the-christmas-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Recovery-rockin-around-the-christmas-tree-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 around the christmas tree",
+       "title_with_featured": "Rockin' around the christmas tree",
+       "url": "https://genius.com/Recovery-rockin-around-the-christmas-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/84440",
+        "header_image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+        "id": 84440,
+        "image_url": "https://images.genius.com/6b21f899171626d81e9110a51965b052.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Recovery",
+        "url": "https://genius.com/artists/Recovery"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/8665824",
+       "artist_names": "Reddy Colt",
+       "full_title": "Wrapping My Car Around A Tree by\u00a0Reddy\u00a0Colt",
+       "header_image_thumbnail_url": "https://images.genius.com/3c03e565fa65fcfa28df062cb0d5b9d5.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3c03e565fa65fcfa28df062cb0d5b9d5.719x719x1.jpg",
+       "id": 8665824,
+       "language": "en",
+       "lyrics_owner_id": 8481297,
+       "lyrics_state": "complete",
+       "path": "/Reddy-colt-wrapping-my-car-around-a-tree-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Reddy-colt-wrapping-my-car-around-a-tree-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 26
+       },
+       "release_date_for_display": "November 26, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 26, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3c03e565fa65fcfa28df062cb0d5b9d5.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3c03e565fa65fcfa28df062cb0d5b9d5.719x719x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Wrapping My Car Around A Tree",
+       "title_with_featured": "Wrapping My Car Around A Tree",
+       "url": "https://genius.com/Reddy-colt-wrapping-my-car-around-a-tree-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/3387457",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "id": 3387457,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Reddy Colt",
+        "url": "https://genius.com/artists/Reddy-colt"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8463019",
+       "artist_names": "Brenda Lee",
+       "full_title": "Rockin' Around The Christmas Tree (Reimagined By Filous) by\u00a0Brenda\u00a0Lee",
+       "header_image_thumbnail_url": "https://images.genius.com/bb66ac2c8ca26be661fd54a4203bdbd1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/bb66ac2c8ca26be661fd54a4203bdbd1.600x600x1.jpg",
+       "id": 8463019,
+       "language": "en",
+       "lyrics_owner_id": 3499648,
+       "lyrics_state": "complete",
+       "path": "/Brenda-lee-rockin-around-the-christmas-tree-reimagined-by-filous-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-reimagined-by-filous-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 10,
+        "day": 14
+       },
+       "release_date_for_display": "October 14, 2022",
+       "release_date_with_abbreviated_month_for_display": "Oct. 14, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/bb66ac2c8ca26be661fd54a4203bdbd1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/bb66ac2c8ca26be661fd54a4203bdbd1.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rockin\u2019 Around The Christmas Tree (Reimagined By Filous)",
+       "title_with_featured": "Rockin' Around The Christmas Tree (Reimagined By Filous)",
+       "url": "https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-reimagined-by-filous-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/32563",
+        "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+        "id": 32563,
+        "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brenda Lee",
+        "url": "https://genius.com/artists/Brenda-lee"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/354490",
+     "header_image_url": "https://images.genius.com/33818fbc22c370dac5da7bebb4db77ad.465x465x1.jpg",
+     "id": 354490,
+     "image_url": "https://images.genius.com/33818fbc22c370dac5da7bebb4db77ad.465x465x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Johnny Marks",
+     "url": "https://genius.com/artists/Johnny-marks"
+    }
+   ],
+   "artist": "Brenda Lee",
+   "lyrics": "27 ContributorsRockin\u2019 Around The Christmas Tree Lyrics[Intro: Chorus]\nAhh-ahh-ahh\n\n[Verse: Brenda Lee]\nRockin' around the Christmas tree\nAt the Christmas party hop\nMistletoe hung where you can see\nEvery couple tries to stop\nRockin' around the Christmas tree\nLet the Christmas spirit ring\nLater, we'll have some pumpkin pie\nAnd we'll do some caroling\n\n[Pre-Chorus: Brenda Lee, Chorus & Both]\nYou will get a sentimental feeling when you hear\nVoices singing, \"Let's be jolly (Ooo)\nDeck the halls with boughs of holly!\"\n\n[Chorus: Brenda Lee]\nRockin' around the Christmas tree\nHave a happy holiday\nEveryone's dancing merrily\nIn the new old-fashioned way\n\n[Saxophone Solo]\nYou might also like[Pre-Chorus: Brenda Lee, Chorus & Both]\nYou will get a sentimental feeling when you hear\nVoices singing, \"Let's be jolly (Ooo)\nDeck the halls with boughs of holly!\"\n\n[Chorus: Brenda Lee & Chorus]\nRockin' around the Christmas tree\nHave a happy holiday\nEveryone's dancing merrily\nIn the new old fashioned way (Ahh)9Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/715354",
+   "artist_names": "Brenda Lee",
+   "full_title": "I'm Sorry by\u00a0Brenda\u00a0Lee",
+   "header_image_thumbnail_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.1000x1000x1.jpg",
+   "id": 715354,
+   "language": "en",
+   "lyrics_owner_id": 389740,
+   "lyrics_state": "complete",
+   "path": "/Brenda-lee-im-sorry-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Brenda-lee-im-sorry-sample",
+   "release_date_components": {
+    "year": 1960,
+    "month": 5,
+    "day": 30
+   },
+   "release_date_for_display": "May 30, 1960",
+   "release_date_with_abbreviated_month_for_display": "May. 30, 1960",
+   "song_art_image_thumbnail_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 14,
+    "iq_earners": 14,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 43283
+   },
+   "title": "I\u2019m Sorry",
+   "title_with_featured": "I'm Sorry",
+   "url": "https://genius.com/Brenda-lee-im-sorry-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32563",
+    "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+    "id": 32563,
+    "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brenda Lee",
+    "url": "https://genius.com/artists/Brenda-lee"
+   },
+   "apple_music_id": "1391379299",
+   "apple_music_player_url": "https://genius.com/songs/715354/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_715354' class='rg_embed_link' data-song-id='715354'>Read <a href='https://genius.com/Brenda-lee-im-sorry-lyrics'>\u201cI'm Sorry\u201d by Brenda\u00a0Lee</a> on Genius</div> <script crossorigin src='//genius.com/songs/715354/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "1960-05-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/120680",
+    "cover_art_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.1000x1000x1.jpg",
+    "full_title": "Brenda Lee by Brenda Lee",
+    "id": 120680,
+    "name": "Brenda Lee",
+    "release_date_for_display": "August 1, 1960",
+    "url": "https://genius.com/albums/Brenda-lee/Brenda-lee",
+    "artist": {
+     "api_path": "/artists/32563",
+     "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+     "id": 32563,
+     "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brenda Lee",
+     "url": "https://genius.com/artists/Brenda-lee"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/32563",
+       "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+       "id": 32563,
+       "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Brenda Lee",
+       "url": "https://genius.com/artists/Brenda-lee"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1032027",
+       "header_image_url": "https://images.genius.com/0e1948ab465aa1921e0a99593ee9bb26.280x280x1.jpg",
+       "id": 1032027,
+       "image_url": "https://images.genius.com/0e1948ab465aa1921e0a99593ee9bb26.280x280x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Decca Records",
+       "url": "https://genius.com/artists/Decca-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 5934018,
+    "annotator_login": "Daktar",
+    "api_path": "/referents/19696555",
+    "classification": "needs_exegesis",
+    "fragment": "I\u2019m Sorry",
+    "id": 19696555,
+    "is_description": true,
+    "path": "/19696555/Brenda-lee-im-sorry/Im-sorry",
+    "range": {
+     "content": "I'm Sorry"
+    },
+    "song_id": 715354,
+    "url": "https://genius.com/19696555/Brenda-lee-im-sorry/Im-sorry",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/715354",
+     "client_timestamps": {
+      "updated_by_human_at": 1642382722,
+      "lyrics_updated_at": 1630778155
+     },
+     "context": "Brenda Lee",
+     "id": 715354,
+     "image_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.1000x1000x1.jpg",
+     "link_title": "I\u2019m Sorry by\u00a0Brenda\u00a0Lee",
+     "title": "I'm Sorry",
+     "type": "Song",
+     "url": "https://genius.com/Brenda-lee-im-sorry-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/19696555",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 19696555,
+      "pinned": false,
+      "share_url": "https://genius.com/19696555",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/19696555/Brenda-lee-im-sorry/Im-sorry",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5934018",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/97c143dd24dbcd6292f9e83ef8316efe",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/97c143dd24dbcd6292f9e83ef8316efe",
+         "human_readable_role_for_display": "Moderator",
+         "id": 5934018,
+         "iq": 1215423,
+         "login": "Daktar",
+         "name": "\u200bDaktar",
+         "role_for_display": "moderator",
+         "url": "https://genius.com/Daktar",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BGLR25EJtfE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/223638",
+     "header_image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "id": 223638,
+     "image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Owen Bradley",
+     "url": "https://genius.com/artists/Owen-bradley"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2117080",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "id": 2117080,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dub Allbritten",
+     "url": "https://genius.com/artists/Dub-allbritten"
+    },
+    {
+     "api_path": "/artists/379580",
+     "header_image_url": "https://images.genius.com/f18516c9c12904ea9c15ababfc8237c5.200x200x1.jpg",
+     "id": 379580,
+     "image_url": "https://images.genius.com/f18516c9c12904ea9c15ababfc8237c5.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ronnie Self",
+     "url": "https://genius.com/artists/Ronnie-self"
+    }
+   ],
+   "artist": "Brenda Lee",
+   "lyrics": "14 ContributorsI\u2019m Sorry LyricsI'm sorry, so sorry\nThat I was such a fool\nI didn't know love could be so cruel\nOh-oh-oh-oh-oh-oh-oh-yes\n\nYou tell me mistakes\nAre part of being young\nBut that don't right\nThe wrong that's been done\n\n(I'm sorry) I'm sorry\n(So sorry) So sorry\nPlease accept my apology\nBut love is blind\nAnd I was too blind to see\n\nOh-oh-oh-oh-oh-oh-oh-yes\n\nYou tell me mistakes\nAre part of being young\nBut that don't right\nThe wrong that's been done\nOh-oh-oh-oh-oh-oh-oh-yes\n\nI'm sorry, so sorry\nPlease accept my apology\nBut love was blind\nAnd I was too blind to see\nYou might also like(Sorry)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/158624",
+   "artist_names": "Brenda Lee",
+   "full_title": "Sweet Nothin's by\u00a0Brenda\u00a0Lee",
+   "header_image_thumbnail_url": "https://images.genius.com/d68e6b7dd7eceb7b6c84b06e35aafa74.300x314x1.jpg",
+   "header_image_url": "https://images.genius.com/d68e6b7dd7eceb7b6c84b06e35aafa74.956x1000x1.jpg",
+   "id": 158624,
+   "language": "en",
+   "lyrics_owner_id": 104344,
+   "lyrics_state": "complete",
+   "path": "/Brenda-lee-sweet-nothins-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Brenda-lee-sweet-nothins-sample",
+   "release_date_components": {
+    "year": 1959,
+    "month": 9,
+    "day": 28
+   },
+   "release_date_for_display": "September 28, 1959",
+   "release_date_with_abbreviated_month_for_display": "Sep. 28, 1959",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d68e6b7dd7eceb7b6c84b06e35aafa74.300x314x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d68e6b7dd7eceb7b6c84b06e35aafa74.956x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 12,
+    "iq_earners": 11,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 12444
+   },
+   "title": "Sweet Nothin\u2019s",
+   "title_with_featured": "Sweet Nothin's",
+   "url": "https://genius.com/Brenda-lee-sweet-nothins-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/32563",
+    "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+    "id": 32563,
+    "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Brenda Lee",
+    "url": "https://genius.com/artists/Brenda-lee"
+   },
+   "apple_music_id": "1391379297",
+   "apple_music_player_url": "https://genius.com/songs/158624/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_158624' class='rg_embed_link' data-song-id='158624'>Read <a href='https://genius.com/Brenda-lee-sweet-nothins-lyrics'>\u201cSweet Nothin's\u201d by Brenda\u00a0Lee</a> on Genius</div> <script crossorigin src='//genius.com/songs/158624/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "August 13, 1959",
+   "release_date": "1959-09-28",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/120680",
+    "cover_art_url": "https://images.genius.com/18c40d79dfbe82a7d1816a9619a14aee.1000x1000x1.jpg",
+    "full_title": "Brenda Lee by Brenda Lee",
+    "id": 120680,
+    "name": "Brenda Lee",
+    "release_date_for_display": "August 1, 1960",
+    "url": "https://genius.com/albums/Brenda-lee/Brenda-lee",
+    "artist": {
+     "api_path": "/artists/32563",
+     "header_image_url": "https://images.genius.com/816ca3fc771721f47e516c5f77dc440c.292x282x1.jpg",
+     "id": 32563,
+     "image_url": "https://images.genius.com/636e133ed88abd00e22cb807f034134d.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Brenda Lee",
+     "url": "https://genius.com/artists/Brenda-lee"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/1032027",
+       "header_image_url": "https://images.genius.com/0e1948ab465aa1921e0a99593ee9bb26.280x280x1.jpg",
+       "id": 1032027,
+       "image_url": "https://images.genius.com/0e1948ab465aa1921e0a99593ee9bb26.280x280x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Decca Records",
+       "url": "https://genius.com/artists/Decca-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 104344,
+    "annotator_login": "streetlights",
+    "api_path": "/referents/3794391",
+    "classification": "needs_exegesis",
+    "fragment": "Sweet Nothin\u2019s",
+    "id": 3794391,
+    "is_description": true,
+    "path": "/3794391/Brenda-lee-sweet-nothins/Sweet-nothins",
+    "range": {
+     "content": "Sweet Nothin's"
+    },
+    "song_id": 158624,
+    "url": "https://genius.com/3794391/Brenda-lee-sweet-nothins/Sweet-nothins",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/158624",
+     "client_timestamps": {
+      "updated_by_human_at": 1680007457,
+      "lyrics_updated_at": 1680007457
+     },
+     "context": "Brenda Lee",
+     "id": 158624,
+     "image_url": "https://images.genius.com/d68e6b7dd7eceb7b6c84b06e35aafa74.956x1000x1.jpg",
+     "link_title": "Sweet Nothin\u2019s by\u00a0Brenda\u00a0Lee",
+     "title": "Sweet Nothin's",
+     "type": "Song",
+     "url": "https://genius.com/Brenda-lee-sweet-nothins-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3794391",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3794391,
+      "pinned": false,
+      "share_url": "https://genius.com/3794391",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3794391/Brenda-lee-sweet-nothins/Sweet-nothins",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/104344",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/5e582e2be00ac0aaaaed954ad98d3017",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/1adaa2b0c9123fedc8fb4f1b2d493fc0.1000x833x1.jpg",
+         "human_readable_role_for_display": "Staff",
+         "id": 104344,
+         "iq": 3065824,
+         "login": "streetlights",
+         "name": "\u200bstreetlights",
+         "role_for_display": "staff",
+         "url": "https://genius.com/streetlights",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:4vsXBH9u5EH3lRycXHOcII",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/4vsXBH9u5EH3lRycXHOcII"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Vs2h18M6ky8"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/223638",
+     "header_image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "id": 223638,
+     "image_url": "https://images.genius.com/86c9d6e80aa5ceda953abb25b4e0f9e4.271x271x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Owen Bradley",
+     "url": "https://genius.com/artists/Owen-bradley"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Brenda-lee-sweet-nothins-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8432900",
+       "artist_names": "Brian X Allen (Ft. Honey C & Jasmine Simone)",
+       "full_title": "Be My Stress by\u00a0Brian\u00a0X Allen (Ft.\u00a0Honey\u00a0C & Jasmine\u00a0Simone)",
+       "header_image_thumbnail_url": "https://images.genius.com/fac497c84127ac1fe2d829595c47238a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/fac497c84127ac1fe2d829595c47238a.1000x1000x1.jpg",
+       "id": 8432900,
+       "language": "en",
+       "lyrics_owner_id": 14251553,
+       "lyrics_state": "complete",
+       "path": "/Brian-x-allen-be-my-stress-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Brian-x-allen-be-my-stress-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 2,
+        "day": 17
+       },
+       "release_date_for_display": "February 17, 2014",
+       "release_date_with_abbreviated_month_for_display": "Feb. 17, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/fac497c84127ac1fe2d829595c47238a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/fac497c84127ac1fe2d829595c47238a.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Be My Stress",
+       "title_with_featured": "Be My Stress (Ft.\u00a0Honey\u00a0C & Jasmine\u00a0Simone)",
+       "url": "https://genius.com/Brian-x-allen-be-my-stress-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2908209",
+         "header_image_url": "https://images.genius.com/f1a6e53d57cfed0e26a28e5cb92fb08b.656x657x1.png",
+         "id": 2908209,
+         "image_url": "https://images.genius.com/3fbbb0f401f91e713013e4e32929102d.185x185x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jasmine Simone",
+         "url": "https://genius.com/artists/Jasmine-simone"
+        },
+        {
+         "api_path": "/artists/13744",
+         "header_image_url": "https://images.genius.com/c8d29e0675dfa1801ad0dceda437228b.1000x563x1.jpg",
+         "id": 13744,
+         "image_url": "https://images.genius.com/f620e958625a2aaf275cf45c2a320387.500x500x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Honey C",
+         "url": "https://genius.com/artists/Honey-c"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2908006",
+        "header_image_url": "https://images.genius.com/f1a6e53d57cfed0e26a28e5cb92fb08b.656x657x1.png",
+        "id": 2908006,
+        "image_url": "https://images.genius.com/6adbdf54bb27caf20ad273e7b6769e97.465x465x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Brian X Allen",
+        "url": "https://genius.com/artists/Brian-x-allen"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7359382",
+       "artist_names": "LosPetitFellas (Ft. Juan Pablo Vega)",
+       "full_title": "Tarantinrto by\u00a0LosPetitFellas (Ft.\u00a0Juan\u00a0Pablo Vega)",
+       "header_image_thumbnail_url": "https://images.genius.com/7693fea641bc9d6109115c32e57ec83e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/7693fea641bc9d6109115c32e57ec83e.640x640x1.jpg",
+       "id": 7359382,
+       "language": "es",
+       "lyrics_owner_id": 9587295,
+       "lyrics_state": "complete",
+       "path": "/Lospetitfellas-tarantinrto-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lospetitfellas-tarantinrto-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 3,
+        "day": 26
+       },
+       "release_date_for_display": "March 26, 2021",
+       "release_date_with_abbreviated_month_for_display": "Mar. 26, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7693fea641bc9d6109115c32e57ec83e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/7693fea641bc9d6109115c32e57ec83e.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Tarantinrto",
+       "title_with_featured": "Tarantinrto (Ft.\u00a0Juan\u00a0Pablo Vega)",
+       "url": "https://genius.com/Lospetitfellas-tarantinrto-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/458533",
+         "header_image_url": "https://images.genius.com/a08d110760127d2cbcb514cec41dd239.512x333x1.jpg",
+         "id": 458533,
+         "image_url": "https://images.genius.com/18c09b3c65f163999d1a3305e554a374.240x240x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Juan Pablo Vega",
+         "url": "https://genius.com/artists/Juan-pablo-vega"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/531822",
+        "header_image_url": "https://images.genius.com/50c411166f6f8a4a292b2d77dd36bc40.1000x309x1.jpg",
+        "id": 531822,
+        "image_url": "https://images.genius.com/5c6043f708762345bb7b6a8c9923bca8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "LosPetitFellas",
+        "url": "https://genius.com/artists/Lospetitfellas"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7028087",
+       "artist_names": "ENaR\u00e9 G\u00e6mr (Ft. ENaR\u00e9 H\u00f8V\u00efK)",
+       "full_title": "B o u n d . 2 . m y . r e g r e t s by\u00a0ENaR\u00e9\u00a0G\u00e6mr (Ft.\u00a0ENaR\u00e9\u00a0H\u00f8V\u00efK)",
+       "header_image_thumbnail_url": "https://images.genius.com/b6a8c439c1ecd978fae57a24230c4422.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b6a8c439c1ecd978fae57a24230c4422.675x675x1.jpg",
+       "id": 7028087,
+       "language": "en",
+       "lyrics_owner_id": 13732091,
+       "lyrics_state": "complete",
+       "path": "/Enare-gmr-b-o-u-n-d-2-m-y-r-e-g-r-e-t-s-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Enare-gmr-b-o-u-n-d-2-m-y-r-e-g-r-e-t-s-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 7,
+        "day": 21
+       },
+       "release_date_for_display": "July 21, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jul. 21, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b6a8c439c1ecd978fae57a24230c4422.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b6a8c439c1ecd978fae57a24230c4422.675x675x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "B o u n d . 2 . m y . r e g r e t s",
+       "title_with_featured": "B o u n d . 2 . m y . r e g r e t s (Ft.\u00a0ENaR\u00e9\u00a0H\u00f8V\u00efK)",
+       "url": "https://genius.com/Enare-gmr-b-o-u-n-d-2-m-y-r-e-g-r-e-t-s-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2818214",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "id": 2818214,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "ENaR\u00e9 H\u00f8V\u00efK",
+         "url": "https://genius.com/artists/Enare-hvik"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2818209",
+        "header_image_url": "https://images.genius.com/bd99d1fe9a843210a0117c920dc34733.225x225x1.jpg",
+        "id": 2818209,
+        "image_url": "https://images.genius.com/20aa2acb208ba120b1ac794f29864083.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "ENaR\u00e9 G\u00e6mr",
+        "url": "https://genius.com/artists/Enare-gmr"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/6632298",
+       "artist_names": "Period Tears",
+       "full_title": "Bound 4 by\u00a0Period\u00a0Tears",
+       "header_image_thumbnail_url": "https://images.genius.com/06350ff3c3a56579a3b39ea74b3c6053.300x300x1.png",
+       "header_image_url": "https://images.genius.com/06350ff3c3a56579a3b39ea74b3c6053.719x719x1.png",
+       "id": 6632298,
+       "language": "en",
+       "lyrics_owner_id": 3280398,
+       "lyrics_state": "complete",
+       "path": "/Period-tears-bound-4-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Period-tears-bound-4-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 10,
+        "day": 19
+       },
+       "release_date_for_display": "October 19, 2014",
+       "release_date_with_abbreviated_month_for_display": "Oct. 19, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/06350ff3c3a56579a3b39ea74b3c6053.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/06350ff3c3a56579a3b39ea74b3c6053.719x719x1.png",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Bound 4",
+       "title_with_featured": "Bound 4",
+       "url": "https://genius.com/Period-tears-bound-4-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/287467",
+        "header_image_url": "https://images.genius.com/90808e5ee26b29f1a2286e55c798d077.313x313x1.png",
+        "id": 287467,
+        "image_url": "https://images.genius.com/90808e5ee26b29f1a2286e55c798d077.313x313x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Period Tears",
+        "url": "https://genius.com/artists/Period-tears"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6218851",
+       "artist_names": "Los Negritos",
+       "full_title": "Tripleta by\u00a0Los\u00a0Negritos",
+       "header_image_thumbnail_url": "https://images.genius.com/0360f4c9665b37db59fcc75313696ac4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/0360f4c9665b37db59fcc75313696ac4.1000x1000x1.jpg",
+       "id": 6218851,
+       "language": null,
+       "lyrics_owner_id": 539850,
+       "lyrics_state": "unreleased",
+       "path": "/Los-negritos-tripleta-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Los-negritos-tripleta-sample",
+       "release_date_components": {
+        "year": 2020,
+        "month": 11,
+        "day": 27
+       },
+       "release_date_for_display": "November 27, 2020",
+       "release_date_with_abbreviated_month_for_display": "Nov. 27, 2020",
+       "song_art_image_thumbnail_url": "https://images.genius.com/0360f4c9665b37db59fcc75313696ac4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/0360f4c9665b37db59fcc75313696ac4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Tripleta",
+       "title_with_featured": "Tripleta",
+       "url": "https://genius.com/Los-negritos-tripleta-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2387951",
+        "header_image_url": "https://images.genius.com/4588c684c81fa9b73fee92c9732a23a9.1000x1000x1.jpg",
+        "id": 2387951,
+        "image_url": "https://images.genius.com/e05dd92793bc01fff32a69e5e5298547.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Los Negritos",
+        "url": "https://genius.com/artists/Los-negritos"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/5810820",
+       "artist_names": "Chance the Rapper (Ft. Free Nationals)",
+       "full_title": "Light It Up (Demo) by\u00a0Chance\u00a0the Rapper (Ft.\u00a0Free\u00a0Nationals)",
+       "header_image_thumbnail_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+       "id": 5810820,
+       "language": "en",
+       "lyrics_owner_id": 1538061,
+       "lyrics_state": "complete",
+       "path": "/Chance-the-rapper-light-it-up-demo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Chance-the-rapper-light-it-up-demo-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Light It Up (Demo)",
+       "title_with_featured": "Light It Up (Demo) (Ft.\u00a0Free\u00a0Nationals)",
+       "url": "https://genius.com/Chance-the-rapper-light-it-up-demo-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1599175",
+         "header_image_url": "https://images.genius.com/208e0e4aa74f0d26c7f7e60cd1f6ff1c.661x661x1.jpg",
+         "id": 1599175,
+         "image_url": "https://images.genius.com/3a8170295817375d5af85829e08a5181.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Free Nationals",
+         "url": "https://genius.com/artists/Free-nationals"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/16751",
+        "header_image_url": "https://images.genius.com/27ac36b6f8cdba29f97d0a94834bbdb7.1000x563x1.jpg",
+        "id": 16751,
+        "image_url": "https://images.genius.com/9db1a9643a028d62543e44c90da3a6ad.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Chance the Rapper",
+        "url": "https://genius.com/artists/Chance-the-rapper",
+        "iq": 48910
+       }
+      },
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/4761616",
+       "artist_names": "\u017babson (Ft. Young Multi)",
+       "full_title": "Twister by\u00a0\u017babson (Ft.\u00a0Young\u00a0Multi)",
+       "header_image_thumbnail_url": "https://images.genius.com/656ee9afec7cd9d6f5fa75e8915310f2.300x180x1.jpg",
+       "header_image_url": "https://images.genius.com/656ee9afec7cd9d6f5fa75e8915310f2.1000x600x1.jpg",
+       "id": 4761616,
+       "language": "pl",
+       "lyrics_owner_id": 6020455,
+       "lyrics_state": "complete",
+       "path": "/Zabson-twister-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Zabson-twister-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 8,
+        "day": 7
+       },
+       "release_date_for_display": "August 7, 2019",
+       "release_date_with_abbreviated_month_for_display": "Aug. 7, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/63ad7d4e4c474257f4800113022924a4.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/63ad7d4e4c474257f4800113022924a4.393x393x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 33084
+       },
+       "title": "Twister",
+       "title_with_featured": "Twister (Ft.\u00a0Young\u00a0Multi)",
+       "url": "https://genius.com/Zabson-twister-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/228286",
+         "header_image_url": "https://images.genius.com/c460de95af070dd2c70bc90c187991d2.1000x1000x1.jpg",
+         "id": 228286,
+         "image_url": "https://images.genius.com/6a2e1902008b4f1bb2b132556aba1086.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Young Multi",
+         "url": "https://genius.com/artists/Young-multi",
+         "iq": 2518
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/84456",
+        "header_image_url": "https://images.genius.com/4f4ce80104c1449edf7932ac49a36520.800x1000x1.jpg",
+        "id": 84456,
+        "image_url": "https://images.genius.com/ffa2e151085d3fbf6ab7d6e634f4b15e.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "\u017babson",
+        "url": "https://genius.com/artists/Zabson",
+        "iq": 325
+       }
+      },
+      {
+       "annotation_count": 30,
+       "api_path": "/songs/2416243",
+       "artist_names": "Denzel Curry",
+       "full_title": "ULT by\u00a0Denzel\u00a0Curry",
+       "header_image_thumbnail_url": "https://images.genius.com/dcb17fe16cdc8303372094fd849db44b.300x300x1.png",
+       "header_image_url": "https://images.genius.com/dcb17fe16cdc8303372094fd849db44b.1000x1000x1.png",
+       "id": 2416243,
+       "language": "en",
+       "lyrics_owner_id": 320531,
+       "lyrics_state": "complete",
+       "path": "/Denzel-curry-ult-lyrics",
+       "pyongs_count": 98,
+       "relationships_index_url": "https://genius.com/Denzel-curry-ult-sample",
+       "release_date_components": {
+        "year": 2016,
+        "month": 2,
+        "day": 1
+       },
+       "release_date_for_display": "February 1, 2016",
+       "release_date_with_abbreviated_month_for_display": "Feb. 1, 2016",
+       "song_art_image_thumbnail_url": "https://images.genius.com/dcb17fe16cdc8303372094fd849db44b.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/dcb17fe16cdc8303372094fd849db44b.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false,
+        "pageviews": 438490
+       },
+       "title": "ULT",
+       "title_with_featured": "ULT",
+       "url": "https://genius.com/Denzel-curry-ult-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/16690",
+        "header_image_url": "https://images.genius.com/02e8afcb45f136bad849ee13f3770be9.1000x800x1.png",
+        "id": 16690,
+        "image_url": "https://images.genius.com/b1e87aef0e498102f23a03f8f301fae8.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Denzel Curry",
+        "url": "https://genius.com/artists/Denzel-curry",
+        "iq": 20426
+       }
+      },
+      {
+       "annotation_count": 39,
+       "api_path": "/songs/158615",
+       "artist_names": "Kanye West",
+       "full_title": "Bound 2 by\u00a0Kanye\u00a0West",
+       "header_image_thumbnail_url": "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.300x300x1.png",
+       "header_image_url": "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.1000x1000x1.png",
+       "id": 158615,
+       "language": "en",
+       "lyrics_owner_id": 104344,
+       "lyrics_state": "complete",
+       "path": "/Kanye-west-bound-2-lyrics",
+       "pyongs_count": 426,
+       "relationships_index_url": "https://genius.com/Kanye-west-bound-2-sample",
+       "release_date_components": {
+        "year": 2013,
+        "month": 6,
+        "day": 18
+       },
+       "release_date_for_display": "June 18, 2013",
+       "release_date_with_abbreviated_month_for_display": "Jun. 18, 2013",
+       "song_art_image_thumbnail_url": "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/f4daff29a000bf818c5e53355c12d672.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "concurrents": 2,
+        "hot": false,
+        "pageviews": 4295679
+       },
+       "title": "Bound 2",
+       "title_with_featured": "Bound 2",
+       "url": "https://genius.com/Kanye-west-bound-2-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/72",
+        "header_image_url": "https://images.genius.com/40ecf8460b42287ba6ef0f62272fccd1.1000x667x1.png",
+        "id": 72,
+        "image_url": "https://images.genius.com/604269daecc339fc34b20ff80e3890db.414x414x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kanye West",
+        "url": "https://genius.com/artists/Kanye-west"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8482852",
+       "artist_names": "Johnny Hallyday",
+       "full_title": "Ce s'rait bien by\u00a0Johnny\u00a0Hallyday",
+       "header_image_thumbnail_url": "https://images.genius.com/1be6dd9583ce714e23a136d4a4bca3d0.300x298x1.jpg",
+       "header_image_url": "https://images.genius.com/1be6dd9583ce714e23a136d4a4bca3d0.530x527x1.jpg",
+       "id": 8482852,
+       "language": "fr",
+       "lyrics_owner_id": 13667082,
+       "lyrics_state": "complete",
+       "path": "/Johnny-hallyday-ce-srait-bien-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Johnny-hallyday-ce-srait-bien-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/1be6dd9583ce714e23a136d4a4bca3d0.300x298x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1be6dd9583ce714e23a136d4a4bca3d0.530x527x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ce s\u2019rait bien",
+       "title_with_featured": "Ce s'rait bien",
+       "url": "https://genius.com/Johnny-hallyday-ce-srait-bien-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/96830",
+        "header_image_url": "https://images.genius.com/cba8b52f148a52f050219db2f77bb15a.1000x643x1.jpg",
+        "id": 96830,
+        "image_url": "https://images.genius.com/b087e5dbbe1773c81ae667d8bfe2a107.885x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Johnny Hallyday",
+        "url": "https://genius.com/artists/Johnny-hallyday"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7076297",
+       "artist_names": "The Searchers",
+       "full_title": "Sweet Nothin's by\u00a0The\u00a0Searchers",
+       "header_image_thumbnail_url": "https://images.genius.com/9d63371b4bea2ac2e74410dfb0bfa7d8.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9d63371b4bea2ac2e74410dfb0bfa7d8.579x579x1.jpg",
+       "id": 7076297,
+       "language": "en",
+       "lyrics_owner_id": 8613973,
+       "lyrics_state": "complete",
+       "path": "/The-searchers-sweet-nothins-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-searchers-sweet-nothins-sample",
+       "release_date_components": {
+        "year": 1964,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1964",
+       "release_date_with_abbreviated_month_for_display": "1964",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9d63371b4bea2ac2e74410dfb0bfa7d8.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9d63371b4bea2ac2e74410dfb0bfa7d8.579x579x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Sweet Nothin\u2019s",
+       "title_with_featured": "Sweet Nothin's",
+       "url": "https://genius.com/The-searchers-sweet-nothins-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/42382",
+        "header_image_url": "https://images.genius.com/91c534f3abaf2e754f54f8e0910b3b16.600x600x1.jpg",
+        "id": 42382,
+        "image_url": "https://images.genius.com/2c92d3857bdcbea477000558c581f40f.600x600x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Searchers",
+        "url": "https://genius.com/artists/The-searchers"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/379580",
+     "header_image_url": "https://images.genius.com/f18516c9c12904ea9c15ababfc8237c5.200x200x1.jpg",
+     "id": 379580,
+     "image_url": "https://images.genius.com/f18516c9c12904ea9c15ababfc8237c5.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ronnie Self",
+     "url": "https://genius.com/artists/Ronnie-self"
+    }
+   ],
+   "artist": "Brenda Lee",
+   "lyrics": "12 ContributorsSweet Nothin\u2019s Lyrics[Intro]\nUh-huh, honey\nAlright\n\n[Verse 1]\nMy baby whispers in my ear\nMmm, sweet nothin's\nHe knows the things I like to hear\nMmm, sweet nothin's\n\n[Refrain]\nThings he wouldn't tell nobody else\nSecret, baby, I keep 'em to myself\nSweet nothin's\nMmm, sweet nothin's\n\n[Verse 2]\nWe walk along hand in hand\nMmm, sweet nothin's\nYeah, we both understand\nMmm, sweet nothin's\n\n[Refrain]\nSittin' in the classroom trying to read my book\nMy baby give me that special look\nSweet nothin's\nMmm, sweet nothin's\nYou might also like[Instrumental Break]\n[Saxophone Solo]\n\n[Verse 3]\nAh, sittin' on my front porch\nMmm, sweet nothin's\nWell, do I love you? Of course\nMmm, sweet nothin's\n\n[Refrain]\nMama turned on the front porch light, sayin'\n\"Come in daughter, that's enough for tonight\"\nSweet nothin's\nMmm, sweet nothin's\nSweet nothin's\nMmm, sweet nothin's\n\n[Outro]\nSweet nothin'sEmbed"
+  }
+ ]
+}

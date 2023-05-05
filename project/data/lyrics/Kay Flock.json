@@ -1,0 +1,3653 @@
+{
+ "alternate_names": [
+  "Kay Flocka"
+ ],
+ "api_path": "/artists/2729733",
+ "description": {
+  "plain": "Kevin Perez, better known by his stage name Kay Flock, is an upcoming drill artist from The Bronx, New York. He started gaining popularity in late 2020 with the songs \u201cOpp Spotter\u201d and \u201cShot Down\u201d with frequent collaborator B Lovee. He is also associated with Dougie B, making the trio responsible for \u201cBrotherly Love\u201d, one of their biggest songs to date."
+ },
+ "facebook_name": null,
+ "followers_count": 123,
+ "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+ "id": 2729733,
+ "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+ "instagram_name": "kayflock",
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Kay Flock",
+ "translation_artist": false,
+ "twitter_name": "kayflockaa",
+ "url": "https://genius.com/artists/Kay-flock",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 6632052,
+  "annotator_login": "SSGuala",
+  "api_path": "/referents/23008939",
+  "classification": "accepted",
+  "fragment": "Kay Flock",
+  "id": 23008939,
+  "is_description": true,
+  "path": "/23008939/Kay-flock/Kay-flock",
+  "range": {
+   "content": "Kay Flock"
+  },
+  "song_id": null,
+  "url": "https://genius.com/23008939/Kay-flock/Kay-flock",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/2729733",
+   "context": null,
+   "id": 2729733,
+   "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+   "link_title": "Kay Flock",
+   "title": "Kay Flock",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Kay-flock"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/23008939",
+    "body": {
+     "plain": "Kevin Perez, better known by his stage name Kay Flock, is an upcoming drill artist from The Bronx, New York. He started gaining popularity in late 2020 with the songs \u201cOpp Spotter\u201d and \u201cShot Down\u201d with frequent collaborator B Lovee. He is also associated with Dougie B, making the trio responsible for \u201cBrotherly Love\u201d, one of their biggest songs to date."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": true,
+    "id": 23008939,
+    "pinned": false,
+    "share_url": "https://genius.com/23008939",
+    "source": null,
+    "state": "accepted",
+    "url": "https://genius.com/23008939/Kay-flock/Kay-flock",
+    "verified": false,
+    "votes_total": 27,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 0.8524590163934427,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/5408623",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/be06pg5i5hd",
+       "human_readable_role_for_display": "Contributor",
+       "id": 5408623,
+       "iq": 41622,
+       "login": "SinhaleseSavage",
+       "name": "SinhaleseSavage",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SinhaleseSavage",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     },
+     {
+      "attribution": 0.14754098360655737,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/6632052",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/9618a6079c1a376580d6c1d7c9ceadf1",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/9618a6079c1a376580d6c1d7c9ceadf1",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/9618a6079c1a376580d6c1d7c9ceadf1",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/9618a6079c1a376580d6c1d7c9ceadf1",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/rjeos0t7wsf",
+       "human_readable_role_for_display": "Contributor",
+       "id": 6632052,
+       "iq": 6674,
+       "login": "SSGuala",
+       "name": "SSGuala",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/SSGuala",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 32,
+   "api_path": "/songs/7115916",
+   "artist_names": "Kay Flock",
+   "full_title": "Is Ya Ready by\u00a0Kay\u00a0Flock",
+   "header_image_thumbnail_url": "https://images.genius.com/2bb35999d1e77f64f35f7ab7ded8bca3.300x300x1.png",
+   "header_image_url": "https://images.genius.com/2bb35999d1e77f64f35f7ab7ded8bca3.1000x1000x1.png",
+   "id": 7115916,
+   "language": "en",
+   "lyrics_owner_id": 11614141,
+   "lyrics_state": "complete",
+   "path": "/Kay-flock-is-ya-ready-lyrics",
+   "pyongs_count": 8,
+   "relationships_index_url": "https://genius.com/Kay-flock-is-ya-ready-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 8,
+    "day": 16
+   },
+   "release_date_for_display": "August 16, 2021",
+   "release_date_with_abbreviated_month_for_display": "Aug. 16, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/2bb35999d1e77f64f35f7ab7ded8bca3.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/2bb35999d1e77f64f35f7ab7ded8bca3.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 60,
+    "iq_earners": 59,
+    "transcribers": 4,
+    "unreviewed_annotations": 32,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 132594
+   },
+   "title": "Is Ya Ready",
+   "title_with_featured": "Is Ya Ready",
+   "url": "https://genius.com/Kay-flock-is-ya-ready-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2729733",
+    "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+    "id": 2729733,
+    "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kay Flock",
+    "url": "https://genius.com/artists/Kay-flock"
+   },
+   "apple_music_id": "1587270049",
+   "apple_music_player_url": "https://genius.com/songs/7115916/apple_music_player",
+   "description": {
+    "plain": "Is Ya Ready is a single released by upcoming drill artist Kay Flock. This track samples \u201cBall If I Want To\u201d by DaBaby. This track also disses Harlem rapper Edot Babyy and Kay Flock\u2019s own cousin, Dthang Gz."
+   },
+   "embed_content": "<div id='rg_embed_link_7115916' class='rg_embed_link' data-song-id='7115916'>Read <a href='https://genius.com/Kay-flock-is-ya-ready-lyrics'>\u201cIs Ya Ready\u201d by Kay\u00a0Flock</a> on Genius</div> <script crossorigin src='//genius.com/songs/7115916/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Bronx, New York",
+   "release_date": "2021-08-16",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/833287",
+    "cover_art_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+    "full_title": "The D.O.A. Tape by Kay Flock",
+    "id": 833287,
+    "name": "The D.O.A. Tape",
+    "release_date_for_display": "November 5, 2021",
+    "url": "https://genius.com/albums/Kay-flock/The-d-o-a-tape",
+    "artist": {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2235834",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2235834,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Baby Jesus Publishing",
+       "url": "https://genius.com/artists/Baby-jesus-publishing"
+      },
+      {
+       "api_path": "/artists/2234627",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234627,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David\u2019s Art",
+       "url": "https://genius.com/artists/Davids-art"
+      },
+      {
+       "api_path": "/artists/3418466",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3418466,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "INTREPID MUSIC GROUP IMG",
+       "url": "https://genius.com/artists/Intrepid-music-group-img"
+      },
+      {
+       "api_path": "/artists/2782456",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2782456,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Mushroom Stamp Productions",
+       "url": "https://genius.com/artists/Mushroom-stamp-productions"
+      },
+      {
+       "api_path": "/artists/1691168",
+       "header_image_url": "https://images.genius.com/d62677337a1cc694e93b109001a5123c.1000x495x1.jpg",
+       "id": 1691168,
+       "image_url": "https://images.genius.com/6b534a7911dac3a1c50fa38a4793bbb2.744x744x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "South Coast Music Group",
+       "url": "https://genius.com/artists/South-coast-music-group"
+      },
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/1588007",
+       "header_image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+       "id": 1588007,
+       "image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Songtrust",
+       "url": "https://genius.com/artists/Songtrust"
+      },
+      {
+       "api_path": "/artists/1248272",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1248272,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal-Duchess",
+       "url": "https://genius.com/artists/Universal-duchess"
+      }
+     ]
+    },
+    {
+     "label": "Perfomance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      }
+     ]
+    },
+    {
+     "label": "Directed By",
+     "artists": [
+      {
+       "api_path": "/artists/2827413",
+       "header_image_url": "https://images.genius.com/9aa3f38ecb43e7d4dda24d199dafc563.900x900x1.jpg",
+       "id": 2827413,
+       "image_url": "https://images.genius.com/9aa3f38ecb43e7d4dda24d199dafc563.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KLO Vizionz",
+       "url": "https://genius.com/artists/Klo-vizionz"
+      },
+      {
+       "api_path": "/artists/2729733",
+       "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+       "id": 2729733,
+       "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kay Flock",
+       "url": "https://genius.com/artists/Kay-flock"
+      }
+     ]
+    },
+    {
+     "label": "Video Recorder",
+     "artists": [
+      {
+       "api_path": "/artists/2827413",
+       "header_image_url": "https://images.genius.com/9aa3f38ecb43e7d4dda24d199dafc563.900x900x1.jpg",
+       "id": 2827413,
+       "image_url": "https://images.genius.com/9aa3f38ecb43e7d4dda24d199dafc563.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KLO Vizionz",
+       "url": "https://genius.com/artists/Klo-vizionz"
+      }
+     ]
+    },
+    {
+     "label": "A&R",
+     "artists": [
+      {
+       "api_path": "/artists/2802626",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2802626,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Nico Ziangas",
+       "url": "https://genius.com/artists/Nico-ziangas"
+      },
+      {
+       "api_path": "/artists/3135376",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3135376,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tom McAuliffe",
+       "url": "https://genius.com/artists/Tom-mcauliffe"
+      }
+     ]
+    },
+    {
+     "label": "A&R Admin",
+     "artists": [
+      {
+       "api_path": "/artists/1435738",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1435738,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Liz Isik",
+       "url": "https://genius.com/artists/Liz-isik"
+      }
+     ]
+    },
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/37215",
+       "header_image_url": "https://images.genius.com/ee7101557fe5b78e76559b48328c507c.639x960x1.jpg",
+       "id": 37215,
+       "image_url": "https://images.genius.com/13e41c6e4dff19865290a051fde3b389.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "\u200bd.a. got that dope",
+       "url": "https://genius.com/artists/Da-got-that-dope",
+       "iq": 115
+      }
+     ]
+    },
+    {
+     "label": "Cameo Appearances",
+     "artists": [
+      {
+       "api_path": "/artists/2729732",
+       "header_image_url": "https://images.genius.com/adc0130b37a23a576e9c5f19d38006e8.1000x563x1.jpg",
+       "id": 2729732,
+       "image_url": "https://images.genius.com/6c0848e8c194c720cbdca74b1b13a111.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Dougie B",
+       "url": "https://genius.com/artists/Dougie-b"
+      },
+      {
+       "api_path": "/artists/2857264",
+       "header_image_url": "https://images.genius.com/21e9826e5e0cea30df50c81a0bea9a9c.498x280x99.gif",
+       "id": 2857264,
+       "image_url": "https://images.genius.com/c08851509f3b0986783a888f1711e49c.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Set Da Trend",
+       "url": "https://genius.com/artists/Set-da-trend"
+      },
+      {
+       "api_path": "/artists/2950932",
+       "header_image_url": "https://images.genius.com/1fbdaceb2c0749de8c34ce0b41593967.498x278x187.gif",
+       "id": 2950932,
+       "image_url": "https://images.genius.com/071dc9e8a9cbd427fd92478282689aee.640x640x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TG Flockaa",
+       "url": "https://genius.com/artists/Tg-flockaa"
+      },
+      {
+       "api_path": "/artists/2950926",
+       "header_image_url": "https://images.genius.com/891d56c9291d4e95251dd55e317f0937.640x356x300.gif",
+       "id": 2950926,
+       "image_url": "https://images.genius.com/ccfb07d1549801568d5564ea21ce250d.900x900x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kenzo Balla",
+       "url": "https://genius.com/artists/Kenzo-balla"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2865010",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2865010,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ange FromTen",
+       "url": "https://genius.com/artists/Ange-fromten"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1806725",
+       "header_image_url": "https://images.genius.com/bcf2cd9a0c78c8a557467b823d827a78.1000x1000x1.jpg",
+       "id": 1806725,
+       "image_url": "https://images.genius.com/6c9cb58efb0ce52a04fbc798d981ad14.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Michael Briggman",
+       "url": "https://genius.com/artists/Michael-briggman",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/1164588",
+       "header_image_url": "https://images.genius.com/6a2e01965221e9106c1d466ccc90cfec.1000x1000x1.jpg",
+       "id": 1164588,
+       "image_url": "https://images.genius.com/e996b18e701410bdb83a126f28726105.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Bennie Briggman",
+       "url": "https://genius.com/artists/Bennie-briggman",
+       "iq": 114
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1806725",
+       "header_image_url": "https://images.genius.com/bcf2cd9a0c78c8a557467b823d827a78.1000x1000x1.jpg",
+       "id": 1806725,
+       "image_url": "https://images.genius.com/6c9cb58efb0ce52a04fbc798d981ad14.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Michael Briggman",
+       "url": "https://genius.com/artists/Michael-briggman",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/1164588",
+       "header_image_url": "https://images.genius.com/6a2e01965221e9106c1d466ccc90cfec.1000x1000x1.jpg",
+       "id": 1164588,
+       "image_url": "https://images.genius.com/e996b18e701410bdb83a126f28726105.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Bennie Briggman",
+       "url": "https://genius.com/artists/Bennie-briggman",
+       "iq": 114
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8430573,
+    "annotator_login": "cecilia4president",
+    "api_path": "/referents/23756148",
+    "classification": "unreviewed",
+    "fragment": "Is Ya Ready",
+    "id": 23756148,
+    "is_description": true,
+    "path": "/23756148/Kay-flock-is-ya-ready/Is-ya-ready",
+    "range": {
+     "content": "Is Ya Ready"
+    },
+    "song_id": 7115916,
+    "url": "https://genius.com/23756148/Kay-flock-is-ya-ready/Is-ya-ready",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7115916",
+     "client_timestamps": {
+      "updated_by_human_at": 1682104059,
+      "lyrics_updated_at": 1682104058
+     },
+     "context": "Kay Flock",
+     "id": 7115916,
+     "image_url": "https://images.genius.com/2bb35999d1e77f64f35f7ab7ded8bca3.1000x1000x1.png",
+     "link_title": "Is Ya Ready by\u00a0Kay\u00a0Flock",
+     "title": "Is Ya Ready",
+     "type": "Song",
+     "url": "https://genius.com/Kay-flock-is-ya-ready-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/23756148",
+      "body": {
+       "plain": "Is Ya Ready is a single released by upcoming drill artist Kay Flock. This track samples \u201cBall If I Want To\u201d by DaBaby. This track also disses Harlem rapper Edot Babyy and Kay Flock\u2019s own cousin, Dthang Gz."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 23756148,
+      "pinned": false,
+      "share_url": "https://genius.com/23756148",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/23756148/Kay-flock-is-ya-ready/Is-ya-ready",
+      "verified": false,
+      "votes_total": 21,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9210526315789473,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8430573",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/48fb153bb463e5323c7af78dabf053cc",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/48fb153bb463e5323c7af78dabf053cc",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/48fb153bb463e5323c7af78dabf053cc",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/48fb153bb463e5323c7af78dabf053cc",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/48fb153bb463e5323c7af78dabf053cc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8430573,
+         "iq": 2394,
+         "login": "cecilia4president",
+         "name": "cecilia4president",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/cecilia4president",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.07894736842105263,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/5408623",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/onxep8woedo",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/be06pg5i5hd",
+         "human_readable_role_for_display": "Contributor",
+         "id": 5408623,
+         "iq": 41622,
+         "login": "SinhaleseSavage",
+         "name": "SinhaleseSavage",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/SinhaleseSavage",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "kay_flock",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kay_flock/kay-flock-is-ya-ready"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=gGJS8W9emac"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2640880",
+     "header_image_url": "https://images.genius.com/e8be419bb5beaad276917eca4ef85aaa.900x900x1.jpg",
+     "id": 2640880,
+     "image_url": "https://images.genius.com/e8be419bb5beaad276917eca4ef85aaa.900x900x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "\u200bprodbywar",
+     "url": "https://genius.com/artists/Prodbywar"
+    },
+    {
+     "api_path": "/artists/37215",
+     "header_image_url": "https://images.genius.com/ee7101557fe5b78e76559b48328c507c.639x960x1.jpg",
+     "id": 37215,
+     "image_url": "https://images.genius.com/13e41c6e4dff19865290a051fde3b389.1000x1000x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "\u200bd.a. got that dope",
+     "url": "https://genius.com/artists/Da-got-that-dope",
+     "iq": 115
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/6855218",
+       "artist_names": "DaBaby",
+       "full_title": "Ball If I Want To by\u00a0DaBaby",
+       "header_image_thumbnail_url": "https://images.genius.com/ba51a92191cbc4c77cc627843391de82.300x163x1.jpg",
+       "header_image_url": "https://images.genius.com/ba51a92191cbc4c77cc627843391de82.1000x542x1.jpg",
+       "id": 6855218,
+       "language": "en",
+       "lyrics_owner_id": 5748418,
+       "lyrics_state": "complete",
+       "path": "/Dababy-ball-if-i-want-to-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Dababy-ball-if-i-want-to-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 6,
+        "day": 18
+       },
+       "release_date_for_display": "June 18, 2021",
+       "release_date_with_abbreviated_month_for_display": "Jun. 18, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4eafeb2f5a37ab0b3d988b1736bd9e87.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/4eafeb2f5a37ab0b3d988b1736bd9e87.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 67588
+       },
+       "title": "Ball If I Want To",
+       "title_with_featured": "Ball If I Want To",
+       "url": "https://genius.com/Dababy-ball-if-i-want-to-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1162342",
+        "header_image_url": "https://images.genius.com/c9e02a3b6b862685f24ffc1e8d919997.960x640x1.jpg",
+        "id": 1162342,
+        "image_url": "https://images.genius.com/464d281e2a6b7cbab950c4a26ec5c635.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "DaBaby",
+        "url": "https://genius.com/artists/Dababy",
+        "iq": 1237
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8957173",
+       "artist_names": "Jenn Carter (Ft. Buba100x)",
+       "full_title": "Is Ya Ready Freestyle by\u00a0Jenn\u00a0Carter (Ft.\u00a0Buba100x)",
+       "header_image_thumbnail_url": "https://images.genius.com/d2e89405422ec301f57c9a5e4e54dc86.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d2e89405422ec301f57c9a5e4e54dc86.640x640x1.jpg",
+       "id": 8957173,
+       "language": "en",
+       "lyrics_owner_id": 20104858,
+       "lyrics_state": "complete",
+       "path": "/Jenn-carter-is-ya-ready-freestyle-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Jenn-carter-is-ya-ready-freestyle-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 26
+       },
+       "release_date_for_display": "December 26, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 26, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d2e89405422ec301f57c9a5e4e54dc86.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d2e89405422ec301f57c9a5e4e54dc86.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Is Ya Ready Freestyle",
+       "title_with_featured": "Is Ya Ready Freestyle (Ft.\u00a0Buba100x)",
+       "url": "https://genius.com/Jenn-carter-is-ya-ready-freestyle-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3491658",
+         "header_image_url": "https://images.genius.com/51dc5a83e075f4208229d232cb86adaa.300x300x1.jpg",
+         "id": 3491658,
+         "image_url": "https://images.genius.com/51dc5a83e075f4208229d232cb86adaa.300x300x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Buba100x",
+         "url": "https://genius.com/artists/Buba100x"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3031110",
+        "header_image_url": "https://images.genius.com/13ce088e73b514cf3f0f032f95209944.640x360x251.gif",
+        "id": 3031110,
+        "image_url": "https://images.genius.com/d2e89405422ec301f57c9a5e4e54dc86.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jenn Carter",
+        "url": "https://genius.com/artists/Jenn-carter"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": "https://genius.com/Kay-flock-is-ya-ready-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/7409720",
+       "artist_names": "Yus Gz (Ft. ASSASIN (800 Gz))",
+       "full_title": "We Been Ready by\u00a0Yus\u00a0Gz (Ft.\u00a0ASSASIN\u00a0(800 Gz))",
+       "header_image_thumbnail_url": "https://images.genius.com/d382c00516ea24d6ac15c34ab4942a72.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/d382c00516ea24d6ac15c34ab4942a72.400x400x1.jpg",
+       "id": 7409720,
+       "language": "en",
+       "lyrics_owner_id": 14522093,
+       "lyrics_state": "complete",
+       "path": "/Yus-gz-we-been-ready-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Yus-gz-we-been-ready-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d382c00516ea24d6ac15c34ab4942a72.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/d382c00516ea24d6ac15c34ab4942a72.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 14,
+        "hot": false,
+        "pageviews": 6729
+       },
+       "title": "We Been Ready",
+       "title_with_featured": "We Been Ready (Ft.\u00a0ASSASIN\u00a0(800 Gz))",
+       "url": "https://genius.com/Yus-gz-we-been-ready-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2867008",
+         "header_image_url": "https://images.genius.com/32c5142cbbe442c2e83eaf99baaecde7.498x280x152.gif",
+         "id": 2867008,
+         "image_url": "https://images.genius.com/4e8dac0bb4238887d3f0457e64f7ff82.309x309x1.png",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "ASSASIN (800 Gz)",
+         "url": "https://genius.com/artists/Assasin-800-gz"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2959800",
+        "header_image_url": "https://images.genius.com/4721c113581fc6da92cbe7828699d3ad.498x261x64.gif",
+        "id": 2959800,
+        "image_url": "https://images.genius.com/6682d75db65ae713d2817749e543c84d.240x240x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Yus Gz",
+        "url": "https://genius.com/artists/Yus-gz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": "https://genius.com/Kay-flock-is-ya-ready-sample/interpolations",
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/7119827",
+       "artist_names": "KD4LWB (Ft. Kay Flock)",
+       "full_title": "War by\u00a0KD4LWB (Ft.\u00a0Kay\u00a0Flock)",
+       "header_image_thumbnail_url": "https://images.genius.com/14eca16dd49614cd49a7194eb40d295a.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/14eca16dd49614cd49a7194eb40d295a.400x400x1.jpg",
+       "id": 7119827,
+       "language": "en",
+       "lyrics_owner_id": 14491375,
+       "lyrics_state": "complete",
+       "path": "/Kd4lwb-war-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Kd4lwb-war-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 3,
+        "day": 10
+       },
+       "release_date_for_display": "March 10, 2021",
+       "release_date_with_abbreviated_month_for_display": "Mar. 10, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/14eca16dd49614cd49a7194eb40d295a.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/14eca16dd49614cd49a7194eb40d295a.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false
+       },
+       "title": "War",
+       "title_with_featured": "War (Ft.\u00a0Kay\u00a0Flock)",
+       "url": "https://genius.com/Kd4lwb-war-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2729733",
+         "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+         "id": 2729733,
+         "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kay Flock",
+         "url": "https://genius.com/artists/Kay-flock"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2865006",
+        "header_image_url": "https://images.genius.com/92019d4099fd818a93305f13bf49b47b.225x225x1.jpg",
+        "id": 2865006,
+        "image_url": "https://images.genius.com/92019d4099fd818a93305f13bf49b47b.225x225x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KD4LWB",
+        "url": "https://genius.com/artists/Kd4lwb"
+       }
+      },
+      {
+       "annotation_count": 14,
+       "api_path": "/songs/8455919",
+       "artist_names": "Yus Gz",
+       "full_title": "Notti Boppin by\u00a0Yus\u00a0Gz",
+       "header_image_thumbnail_url": "https://images.genius.com/04dd7b9996f95fe2ec9d568c663741ce.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/04dd7b9996f95fe2ec9d568c663741ce.500x500x1.jpg",
+       "id": 8455919,
+       "language": "en",
+       "lyrics_owner_id": 17013581,
+       "lyrics_state": "complete",
+       "path": "/Yus-gz-notti-boppin-lyrics",
+       "pyongs_count": 2,
+       "relationships_index_url": "https://genius.com/Yus-gz-notti-boppin-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 12,
+        "day": 30
+       },
+       "release_date_for_display": "December 30, 2022",
+       "release_date_with_abbreviated_month_for_display": "Dec. 30, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/162108ae4eee248777cf501237853e42.300x305x1.png",
+       "song_art_image_url": "https://images.genius.com/162108ae4eee248777cf501237853e42.983x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 14,
+        "hot": false
+       },
+       "title": "Notti Boppin",
+       "title_with_featured": "Notti Boppin",
+       "url": "https://genius.com/Yus-gz-notti-boppin-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2959800",
+        "header_image_url": "https://images.genius.com/4721c113581fc6da92cbe7828699d3ad.498x261x64.gif",
+        "id": 2959800,
+        "image_url": "https://images.genius.com/6682d75db65ae713d2817749e543c84d.240x240x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Yus Gz",
+        "url": "https://genius.com/artists/Yus-gz"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8585419",
+       "artist_names": "SugarHill Keem",
+       "full_title": "Ayoo Brii by\u00a0SugarHill\u00a0Keem",
+       "header_image_thumbnail_url": "https://images.genius.com/2c4b3bf0466eb6739736f11a2029ee0d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2c4b3bf0466eb6739736f11a2029ee0d.408x408x1.jpg",
+       "id": 8585419,
+       "language": "en",
+       "lyrics_owner_id": 10565243,
+       "lyrics_state": "complete",
+       "path": "/Sugarhill-keem-ayoo-brii-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sugarhill-keem-ayoo-brii-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 30
+       },
+       "release_date_for_display": "March 30, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 30, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2c4b3bf0466eb6739736f11a2029ee0d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2c4b3bf0466eb6739736f11a2029ee0d.408x408x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ayoo Brii",
+       "title_with_featured": "Ayoo Brii",
+       "url": "https://genius.com/Sugarhill-keem-ayoo-brii-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2926544",
+        "header_image_url": "https://images.genius.com/ef4de3aa5b6c27eab307b299e91e59f5.640x480x160.gif",
+        "id": 2926544,
+        "image_url": "https://images.genius.com/2c4b3bf0466eb6739736f11a2029ee0d.408x408x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "SugarHill Keem",
+        "url": "https://genius.com/artists/Sugarhill-keem"
+       }
+      },
+      {
+       "annotation_count": 27,
+       "api_path": "/songs/8573215",
+       "artist_names": "Blockwork",
+       "full_title": "Dyin 2 Live \u201cEdot Baby Tribute\u201d by\u00a0Blockwork",
+       "header_image_thumbnail_url": "https://images.genius.com/8d821401c3d1c82f8cf1ccc81ef9e0a2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8d821401c3d1c82f8cf1ccc81ef9e0a2.500x500x1.jpg",
+       "id": 8573215,
+       "language": "en",
+       "lyrics_owner_id": 7393396,
+       "lyrics_state": "complete",
+       "path": "/Blockwork-dyin-2-live-edot-baby-tribute-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Blockwork-dyin-2-live-edot-baby-tribute-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 2022",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8d821401c3d1c82f8cf1ccc81ef9e0a2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8d821401c3d1c82f8cf1ccc81ef9e0a2.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 27,
+        "hot": false,
+        "pageviews": 6454
+       },
+       "title": "Dyin 2 Live \u201cEdot Baby Tribute\u201d",
+       "title_with_featured": "Dyin 2 Live \u201cEdot Baby Tribute\u201d",
+       "url": "https://genius.com/Blockwork-dyin-2-live-edot-baby-tribute-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2900073",
+        "header_image_url": "https://images.genius.com/835589d5213d4fb68b383fae3ee7d58e.800x1000x1.jpg",
+        "id": 2900073,
+        "image_url": "https://images.genius.com/e7f1a8fdbd8c6a22503a06cb5b375906.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Blockwork",
+        "url": "https://genius.com/artists/Blockwork"
+       }
+      },
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/7744241",
+       "artist_names": "G Fredo (Ft. Kay Flock)",
+       "full_title": "Pop Out by\u00a0G\u00a0Fredo (Ft.\u00a0Kay\u00a0Flock)",
+       "header_image_thumbnail_url": "https://images.genius.com/7ab19277422f6b3bfcbd70657b09d2f8.231x231x1.png",
+       "header_image_url": "https://images.genius.com/7ab19277422f6b3bfcbd70657b09d2f8.231x231x1.png",
+       "id": 7744241,
+       "language": "en",
+       "lyrics_owner_id": 90521,
+       "lyrics_state": "complete",
+       "path": "/G-fredo-pop-out-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/G-fredo-pop-out-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 25
+       },
+       "release_date_for_display": "February 25, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 25, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7ab19277422f6b3bfcbd70657b09d2f8.231x231x1.png",
+       "song_art_image_url": "https://images.genius.com/7ab19277422f6b3bfcbd70657b09d2f8.231x231x1.png",
+       "stats": {
+        "unreviewed_annotations": 8,
+        "hot": false
+       },
+       "title": "Pop Out",
+       "title_with_featured": "Pop Out (Ft.\u00a0Kay\u00a0Flock)",
+       "url": "https://genius.com/G-fredo-pop-out-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2729733",
+         "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+         "id": 2729733,
+         "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Kay Flock",
+         "url": "https://genius.com/artists/Kay-flock"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2332157",
+        "header_image_url": "https://images.genius.com/34ab7d9388c32898364eb368c79efcec.596x596x1.png",
+        "id": 2332157,
+        "image_url": "https://images.genius.com/34ab7d9388c32898364eb368c79efcec.596x596x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "G Fredo",
+        "url": "https://genius.com/artists/G-fredo"
+       }
+      },
+      {
+       "annotation_count": 15,
+       "api_path": "/songs/7853459",
+       "artist_names": "Kay Flock, Cardi B & Dougie B (Ft. Bory300)",
+       "full_title": "Shake It by\u00a0Kay\u00a0Flock, Cardi B & Dougie B (Ft.\u00a0Bory300)",
+       "header_image_thumbnail_url": "https://images.genius.com/97b5099f9262e3fb6986664a36dea079.300x300x1.png",
+       "header_image_url": "https://images.genius.com/97b5099f9262e3fb6986664a36dea079.1000x1000x1.png",
+       "id": 7853459,
+       "language": "en",
+       "lyrics_owner_id": 8596932,
+       "lyrics_state": "complete",
+       "path": "/Kay-flock-cardi-b-and-dougie-b-shake-it-lyrics",
+       "pyongs_count": 12,
+       "relationships_index_url": "https://genius.com/Kay-flock-cardi-b-and-dougie-b-shake-it-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 4,
+        "day": 15
+       },
+       "release_date_for_display": "April 15, 2022",
+       "release_date_with_abbreviated_month_for_display": "Apr. 15, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/97b5099f9262e3fb6986664a36dea079.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/97b5099f9262e3fb6986664a36dea079.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "hot": false,
+        "pageviews": 153483
+       },
+       "title": "Shake It",
+       "title_with_featured": "Shake It (Ft.\u00a0Bory300)",
+       "url": "https://genius.com/Kay-flock-cardi-b-and-dougie-b-shake-it-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2975458",
+         "header_image_url": "https://images.genius.com/93b31822c3a693a64324b507f3e881d8.225x225x1.jpg",
+         "id": 2975458,
+         "image_url": "https://images.genius.com/b045697d4d6717cd5aff2b5203b61c10.225x225x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Bory300",
+         "url": "https://genius.com/artists/Bory300"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3130420",
+        "header_image_url": "https://images.genius.com/b6dc099ccceea929f76e6535124e7c1b.290x174x1.jpg",
+        "id": 3130420,
+        "image_url": "https://images.genius.com/17067906a1794cdf5989dd2d7bb8d71b.999x999x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kay Flock, Cardi B & Dougie B",
+        "url": "https://genius.com/artists/Kay-flock-cardi-b-and-dougie-b"
+       }
+      },
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/7392424",
+       "artist_names": "Kay Flock (Ft. Lil Tjay)",
+       "full_title": "Me, Myself & I by\u00a0Kay\u00a0Flock (Ft.\u00a0Lil\u00a0Tjay)",
+       "header_image_thumbnail_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+       "id": 7392424,
+       "language": "en",
+       "lyrics_owner_id": 5408623,
+       "lyrics_state": "complete",
+       "path": "/Kay-flock-me-myself-and-i-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Kay-flock-me-myself-and-i-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 3,
+        "hot": false,
+        "pageviews": 10129
+       },
+       "title": "Me, Myself & I",
+       "title_with_featured": "Me, Myself & I (Ft.\u00a0Lil\u00a0Tjay)",
+       "url": "https://genius.com/Kay-flock-me-myself-and-i-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/1426407",
+         "header_image_url": "https://images.genius.com/f523a66b7646deff9dc204d606f31c1c.749x749x1.jpg",
+         "id": 1426407,
+         "image_url": "https://images.genius.com/f523a66b7646deff9dc204d606f31c1c.749x749x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "Lil Tjay",
+         "url": "https://genius.com/artists/Lil-tjay",
+         "iq": 4481
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2729733",
+        "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+        "id": 2729733,
+        "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kay Flock",
+        "url": "https://genius.com/artists/Kay-flock"
+       }
+      },
+      {
+       "annotation_count": 13,
+       "api_path": "/songs/6318887",
+       "artist_names": "Lil Tjay, Fivio Foreign & Kay Flock",
+       "full_title": "Not in the Mood by\u00a0Lil\u00a0Tjay, Fivio Foreign & Kay Flock",
+       "header_image_thumbnail_url": "https://images.genius.com/c60d45f4674ca5383a45d41e71d7b0a3.300x55x1.jpg",
+       "header_image_url": "https://images.genius.com/c60d45f4674ca5383a45d41e71d7b0a3.992x183x1.jpg",
+       "id": 6318887,
+       "language": "en",
+       "lyrics_owner_id": 5748418,
+       "lyrics_state": "complete",
+       "path": "/Lil-tjay-fivio-foreign-and-kay-flock-not-in-the-mood-lyrics",
+       "pyongs_count": 25,
+       "relationships_index_url": "https://genius.com/Lil-tjay-fivio-foreign-and-kay-flock-not-in-the-mood-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 10,
+        "day": 22
+       },
+       "release_date_for_display": "October 22, 2021",
+       "release_date_with_abbreviated_month_for_display": "Oct. 22, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/72e4ae90fa66be88ddce582540aa76a3.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/72e4ae90fa66be88ddce582540aa76a3.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 12,
+        "hot": false,
+        "pageviews": 87892
+       },
+       "title": "Not in the Mood",
+       "title_with_featured": "Not in the Mood",
+       "url": "https://genius.com/Lil-tjay-fivio-foreign-and-kay-flock-not-in-the-mood-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2929882",
+        "header_image_url": "https://images.genius.com/afd993f5560c4544b9713b470a28301d.1000x1000x1.png",
+        "id": 2929882,
+        "image_url": "https://images.genius.com/afd993f5560c4544b9713b470a28301d.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lil Tjay, Fivio Foreign & Kay Flock",
+        "url": "https://genius.com/artists/Lil-tjay-fivio-foreign-and-kay-flock"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   ],
+   "artist": "Kay Flock",
+   "lyrics": "60 ContributorsIs Ya Ready Lyrics[Intro]\nGrrah, grrah (War's too nasty)\nGrrah-grrah (Yo, turn that shit up)\nGrrah-grrah\nGrrah-grrah\nGrrt, baow, baow-baow-baow (Like)\nLike, every opp shot, nigga (Everything dead)\nGrrt, baow, baow-baow-baow (Smokin' all deads, nigga)\nSuck my dick (Grrah-grrah)\nDon't run, don't trip (Like)\nDon't run, don't trip (Who?)\nDubski\n\n[Verse]\nGo ask my opps, it get ugly\nI could do (Shh) like Ice did to Sonny (Like)\nThink I'm lackin'? That nigga a dummy (You a dummy)\nHe think I'm a rapper, he think this shit funny (Like)\nOkay (Okay), bend both ways (Like)\nFlip through the fours while I'm yellin' out, \"Dubski\"\nDon't-don't run, don't-don't trip\nThey know my bop, Mr. Throw-More-Than-Six (Like)\nOn a Revel, or a Lyft\nHop out gang, up on him and his bitch (Him and his bitch)\nFuck it, I'm in fashion, I bet I'll still up it (Pussy)\nHe the fastest, don't know where I'm runnin' (Don't run)\nFuck it, back out, put the beat on in public (Like)\nGrrah, grrah, grrah, keep dumpin' (Keep dumpin')\nEdot Baby, that kid ain't on nothin' (Baow)\nOn JayRip, I had most of 'em duckin' (Baow, baow-baow-baow)\nGrrah, grrah, nigga, stop puttin' names in your song\nYou alright? Somethin' is wrong\nBend through my block, show me you perform (Pussy)\nThey can't wait till th\u0435y catch him a what? (Like)\nOkay, let's get it on (L\u0435t's get it on)\nEBK, bitch, I'm feelin' like Melly (Like)\nHe get shot if he totin' on Kelly (Grrah-grrah)\nMake it sexy (Sexy)\nBitches get shot, it get heavy (Grrah-grrah, baow)\nLike with Nesty (Nesty)\nMy .45 hold six, throwin' deadies (Like, grrah-grrah)\nWhere his bestie? (Rah-Rah)\nIn the ground LVK, he with Mexi (Grrah-grrah, Mexi)\nAnd free Fetti\nMr. Up-It-And-Pop-Like-Confetti (Free Fetti, nigga)\nIs you ready? (Ready)\nWe gon' bend through that block, leave it messy\nIs you ready?\nWe gon' bend through that block, leave it messy\nBitch, I'm a stomper, I don't really step (I don't do the step)\nNigga, I'm a vet' (Better watch ya' step)\nBetter come correct\nI'm a demon so watch who you check (Grrt, baow)\nAlways lit, say less\nI done slept wit' a nine, trey-pound and a TEC (Baow, baow, baow, baow)\nSee a opp, fuck it, duh, I'ma wreck\nCatch a LV, put him on his neck (LVK)\nYou might also like[Outro]\nGrrah, grrah, grrah-grrah, boom\nGrrah, grrah-grrah, boom8Embed"
+  },
+  {
+   "annotation_count": 10,
+   "api_path": "/songs/7194136",
+   "artist_names": "Kay Flock",
+   "full_title": "PSA by\u00a0Kay\u00a0Flock",
+   "header_image_thumbnail_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.300x300x1.png",
+   "header_image_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+   "id": 7194136,
+   "language": "en",
+   "lyrics_owner_id": 5408623,
+   "lyrics_state": "complete",
+   "path": "/Kay-flock-psa-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Kay-flock-psa-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 9,
+    "day": 12
+   },
+   "release_date_for_display": "September 12, 2021",
+   "release_date_with_abbreviated_month_for_display": "Sep. 12, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 41,
+    "iq_earners": 41,
+    "transcribers": 4,
+    "unreviewed_annotations": 10,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 86944
+   },
+   "title": "PSA",
+   "title_with_featured": "PSA",
+   "url": "https://genius.com/Kay-flock-psa-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2729733",
+    "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+    "id": 2729733,
+    "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kay Flock",
+    "url": "https://genius.com/artists/Kay-flock"
+   },
+   "apple_music_id": "1586050384",
+   "apple_music_player_url": "https://genius.com/songs/7194136/apple_music_player",
+   "description": {
+    "plain": "."
+   },
+   "embed_content": "<div id='rg_embed_link_7194136' class='rg_embed_link' data-song-id='7194136'>Read <a href='https://genius.com/Kay-flock-psa-lyrics'>\u201cPSA\u201d by Kay\u00a0Flock</a> on Genius</div> <script crossorigin src='//genius.com/songs/7194136/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2021-09-12",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/833287",
+    "cover_art_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+    "full_title": "The D.O.A. Tape by Kay Flock",
+    "id": 833287,
+    "name": "The D.O.A. Tape",
+    "release_date_for_display": "November 5, 2021",
+    "url": "https://genius.com/albums/Kay-flock/The-d-o-a-tape",
+    "artist": {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/3397462",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3397462,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "INTREPID MUSIC WORLDWIDE",
+       "url": "https://genius.com/artists/Intrepid-music-worldwide"
+      },
+      {
+       "api_path": "/artists/1588007",
+       "header_image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+       "id": 1588007,
+       "image_url": "https://images.genius.com/66e7edf9911fb56b811b8a4c720dcfe7.1000x1000x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Songtrust",
+       "url": "https://genius.com/artists/Songtrust"
+      },
+      {
+       "api_path": "/artists/1147703",
+       "header_image_url": "https://images.genius.com/d94d139b044a65e3aad47c23c86da167.440x191x1.jpg",
+       "id": 1147703,
+       "image_url": "https://images.genius.com/701ffcf58c0571a6ecd15ff34a67dda3.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "PolyGram",
+       "url": "https://genius.com/artists/Polygram"
+      },
+      {
+       "api_path": "/artists/2458271",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2458271,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal - Songs of Polygram International",
+       "url": "https://genius.com/artists/Universal-songs-of-polygram-international"
+      },
+      {
+       "api_path": "/artists/986614",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 986614,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Biddah Muzik",
+       "url": "https://genius.com/artists/Biddah-muzik"
+      },
+      {
+       "api_path": "/artists/2342090",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2342090,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music-MGB Songs",
+       "url": "https://genius.com/artists/Universal-music-mgb-songs"
+      }
+     ]
+    },
+    {
+     "label": "Perfomance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2996064",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2996064,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Rodney Perez",
+       "url": "https://genius.com/artists/Rodney-perez"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1394724",
+       "header_image_url": "https://images.genius.com/6558d0dfd8962b01732968146b474333.854x854x1.jpg",
+       "id": 1394724,
+       "image_url": "https://images.genius.com/6558d0dfd8962b01732968146b474333.854x854x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "William Binderup",
+       "url": "https://genius.com/artists/William-binderup"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/643992",
+       "header_image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "id": 643992,
+       "image_url": "https://images.genius.com/2778fec119b78664b82279726de1311b.450x450x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Joe LaPorta",
+       "url": "https://genius.com/artists/Joe-laporta"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2106319",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2106319,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "WonTon",
+       "url": "https://genius.com/artists/Wonton"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 16838862,
+    "annotator_login": "CxshYhungin",
+    "api_path": "/referents/25684391",
+    "classification": "unreviewed",
+    "fragment": "PSA",
+    "id": 25684391,
+    "is_description": true,
+    "path": "/25684391/Kay-flock-psa/Psa",
+    "range": {
+     "content": "PSA"
+    },
+    "song_id": 7194136,
+    "url": "https://genius.com/25684391/Kay-flock-psa/Psa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7194136",
+     "client_timestamps": {
+      "updated_by_human_at": 1679903055,
+      "lyrics_updated_at": 1679903055
+     },
+     "context": "Kay Flock",
+     "id": 7194136,
+     "image_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+     "link_title": "PSA by\u00a0Kay\u00a0Flock",
+     "title": "PSA",
+     "type": "Song",
+     "url": "https://genius.com/Kay-flock-psa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/25684391",
+      "body": {
+       "plain": "."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 25684391,
+      "pinned": false,
+      "share_url": "https://genius.com/25684391",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/25684391/Kay-flock-psa/Psa",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/16838862",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": null,
+         "id": 16838862,
+         "iq": 9,
+         "login": "CxshYhungin",
+         "name": "CxshYhungin",
+         "role_for_display": null,
+         "url": "https://genius.com/CxshYhungin",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "kayflock music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kayflock-music/psa?si=77ebf8eb10c74668a4d50dfd09d0e06c"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=z9rBnWnSjLM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1025715",
+     "header_image_url": "https://images.genius.com/3400d3fc739a93bc68dfbcefb439ea8c.168x168x1.jpg",
+     "id": 1025715,
+     "image_url": "https://images.genius.com/3400d3fc739a93bc68dfbcefb439ea8c.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dvtchie",
+     "url": "https://genius.com/artists/Dvtchie"
+    },
+    {
+     "api_path": "/artists/1899077",
+     "header_image_url": "https://images.genius.com/5b4cfe287dda3c4b64c840ddf60e09b5.1000x1000x1.jpg",
+     "id": 1899077,
+     "image_url": "https://images.genius.com/5b4cfe287dda3c4b64c840ddf60e09b5.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LeTurtle",
+     "url": "https://genius.com/artists/Leturtle"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 6,
+       "api_path": "/songs/1963269",
+       "artist_names": "Ini Kamoze",
+       "full_title": "World-A-Music by\u00a0Ini\u00a0Kamoze",
+       "header_image_thumbnail_url": "https://images.genius.com/3c2092e0deb900d68ca80ac5928b9bd2.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/3c2092e0deb900d68ca80ac5928b9bd2.595x595x1.jpg",
+       "id": 1963269,
+       "language": "en",
+       "lyrics_owner_id": 11688847,
+       "lyrics_state": "complete",
+       "path": "/Ini-kamoze-world-a-music-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Ini-kamoze-world-a-music-sample",
+       "release_date_components": {
+        "year": 1984,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1984",
+       "release_date_with_abbreviated_month_for_display": "1984",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3c2092e0deb900d68ca80ac5928b9bd2.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3c2092e0deb900d68ca80ac5928b9bd2.595x595x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 6,
+        "hot": false,
+        "pageviews": 19782
+       },
+       "title": "World-A-Music",
+       "title_with_featured": "World-A-Music",
+       "url": "https://genius.com/Ini-kamoze-world-a-music-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/6232",
+        "header_image_url": "https://images.genius.com/143c645661b9c575b414695e4977b735.284x160x1.jpg",
+        "id": 6232,
+        "image_url": "https://images.genius.com/83a5af02127d3a1990bcb574abf95e59.340x340x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ini Kamoze",
+        "url": "https://genius.com/artists/Ini-kamoze"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/2361",
+     "header_image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+     "id": 2361,
+     "image_url": "https://images.genius.com/7e10a474f32540f5ec57ca31972821a0.630x420x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Stephen Marley",
+     "url": "https://genius.com/artists/Stephen-marley"
+    },
+    {
+     "api_path": "/artists/1899077",
+     "header_image_url": "https://images.genius.com/5b4cfe287dda3c4b64c840ddf60e09b5.1000x1000x1.jpg",
+     "id": 1899077,
+     "image_url": "https://images.genius.com/5b4cfe287dda3c4b64c840ddf60e09b5.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LeTurtle",
+     "url": "https://genius.com/artists/Leturtle"
+    },
+    {
+     "api_path": "/artists/1025715",
+     "header_image_url": "https://images.genius.com/3400d3fc739a93bc68dfbcefb439ea8c.168x168x1.jpg",
+     "id": 1025715,
+     "image_url": "https://images.genius.com/3400d3fc739a93bc68dfbcefb439ea8c.168x168x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Dvtchie",
+     "url": "https://genius.com/artists/Dvtchie"
+    },
+    {
+     "api_path": "/artists/6232",
+     "header_image_url": "https://images.genius.com/143c645661b9c575b414695e4977b735.284x160x1.jpg",
+     "id": 6232,
+     "image_url": "https://images.genius.com/83a5af02127d3a1990bcb574abf95e59.340x340x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ini Kamoze",
+     "url": "https://genius.com/artists/Ini-kamoze"
+    },
+    {
+     "api_path": "/artists/1132",
+     "header_image_url": "https://images.genius.com/74120d74233c0162acf0d88246ceb4fe.1000x563x1.jpg",
+     "id": 1132,
+     "image_url": "https://images.genius.com/74120d74233c0162acf0d88246ceb4fe.1000x563x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Damian Marley",
+     "url": "https://genius.com/artists/Damian-marley",
+     "iq": 175
+    },
+    {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   ],
+   "artist": "Kay Flock",
+   "lyrics": "41 ContributorsPSA Lyrics[Intro: Kay Flock & Ini Kamoze]\nOut in the street, they call it murder\nBig DOA, nigga\nGrrah, grrah, grrah-grrah, like\nGrrt, grrah, grrah-grrah\nGrrah, grrah-grrah\nLike, grrah-grrah\nGrrt, baow, baow\n\n[Chorus]\nFuck the diss, I'ma act the fuck up\nEverything dead, I ain't dappin' 'em up (Everybody shot)\nFeel a way, you get clapped the fuck up\nDon't do C\u00eeroc, only Ac' in my cup (Grrt, baow, baow)\nTry to duck, got a beam on the scope, thats tough, like\nHe ain't goin' nowhere, I'm shootin' wherever he run (Where you goin'? Grrt, baow, baow)\nI'm a GBG baby, so, bitch, I'ma click till it's done (Grrah, grrah, grrah, grrah)\nAnd I love with the beam, if he run, I'ma turn him to Runtz (Dummies)\nOutside, no security, bitch, it's just me and my gun (It's just me and my gun, baow, baow)\nI'm the king of New York and I'm still outside makin' 'em run (Don't run, bitch I do what I want)\n\n[Verse: Kay Flock & Ini Kamoze]\nJust copped out on a Carti' (Carti')\nOh, she jackin' my vibe in a heartbeat (Heartbeat)\nI like my bitch gangster, I don't like 'em Barbie (Bitch)\nIt get active like Ricky and Morty (Like, grrt, baow)\nTap your head (Rah-Rah)\nNigga Rah got clapped now he in the Marley (Baow, baow)\nNigga dead\nAnd I'm tough by myself, no, I don't need a army (Grrah)\nOut in the street they call it murder\nBig DOA, nigga\nShe the line so I'm packin' the bitch\nFeel under pressure, I'm blastin' the shit\nV210 how I'm whackin' the whip\nHe tried to up but I'm faster with it\nIt get nasty, now he coughin' out blood\nTold you that I get active with it (Grrt, baow, baow)\nYou might also like[Chorus]\nFuck the diss, I'ma act the fuck up\nEverything dead, I ain't dappin' 'em up (Everybody shot)\nFeel a way, you get clapped the fuck up\nDon't do C\u00eeroc, only Ac' in my cup (Grrt, baow, baow)\nTry to duck, got a beam on the scope, thats tough, like\nHe ain't goin' nowhere, I'm shootin' wherever he run (Where you goin'? Grrt, baow)\nI'm a GBG, baby, so, bitch, I'ma click till it's done (Grrah, grrah, grrah, grrah)\nAnd I love with the beam, if he run, I'ma turn him to Runtz (Dummies)\nOutside, no security, bitch, it's just me and my gun (It's just me and my gun, baow, baow)\nI'm the king of New York an' I'm still outside makin' 'em run (Don't run, bitch, I do what I want)5Embed"
+  },
+  {
+   "annotation_count": 35,
+   "api_path": "/songs/7153314",
+   "artist_names": "Kay Flock",
+   "full_title": "Being Honest by\u00a0Kay\u00a0Flock",
+   "header_image_thumbnail_url": "https://images.genius.com/af9585c4d4fe986b7482b3e97740c26f.300x300x1.png",
+   "header_image_url": "https://images.genius.com/af9585c4d4fe986b7482b3e97740c26f.1000x1000x1.png",
+   "id": 7153314,
+   "language": "en",
+   "lyrics_owner_id": 9649041,
+   "lyrics_state": "complete",
+   "path": "/Kay-flock-being-honest-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/Kay-flock-being-honest-sample",
+   "release_date_components": {
+    "year": 2021,
+    "month": 8,
+    "day": 30
+   },
+   "release_date_for_display": "August 30, 2021",
+   "release_date_with_abbreviated_month_for_display": "Aug. 30, 2021",
+   "song_art_image_thumbnail_url": "https://images.genius.com/af9585c4d4fe986b7482b3e97740c26f.300x300x1.png",
+   "song_art_image_url": "https://images.genius.com/af9585c4d4fe986b7482b3e97740c26f.1000x1000x1.png",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 41,
+    "iq_earners": 40,
+    "transcribers": 3,
+    "unreviewed_annotations": 35,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 60622
+   },
+   "title": "Being Honest",
+   "title_with_featured": "Being Honest",
+   "url": "https://genius.com/Kay-flock-being-honest-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/2729733",
+    "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+    "id": 2729733,
+    "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Kay Flock",
+    "url": "https://genius.com/artists/Kay-flock"
+   },
+   "apple_music_id": "1582579614",
+   "apple_music_player_url": "https://genius.com/songs/7153314/apple_music_player",
+   "description": {
+    "plain": "Containing a sample of the late Florida rapper XXXTENTACION from his 2018 song \u201cchanges\u201d in the beat, this song would later gain a feature from chicago rapper G Herbo after gaining popularity, with the original video sitting at 1.2M views on youtube and the remix with Herb sitting at over 3 million as of 11/19/2021."
+   },
+   "embed_content": "<div id='rg_embed_link_7153314' class='rg_embed_link' data-song-id='7153314'>Read <a href='https://genius.com/Kay-flock-being-honest-lyrics'>\u201cBeing Honest\u201d by Kay\u00a0Flock</a> on Genius</div> <script crossorigin src='//genius.com/songs/7153314/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "",
+   "release_date": "2021-08-30",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/833287",
+    "cover_art_url": "https://images.genius.com/800ace544f64699abec3692aade57de7.1000x1000x1.png",
+    "full_title": "The D.O.A. Tape by Kay Flock",
+    "id": 833287,
+    "name": "The D.O.A. Tape",
+    "release_date_for_display": "November 5, 2021",
+    "url": "https://genius.com/albums/Kay-flock/The-d-o-a-tape",
+    "artist": {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1203913",
+       "header_image_url": "https://images.genius.com/1f762731ef8aee2c4d7a760996cac037.600x600x1.jpg",
+       "id": 1203913,
+       "image_url": "https://images.genius.com/2b925d9c3e7f0e7add49b18fe39de565.326x326x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Bad Vibes Forever",
+       "url": "https://genius.com/artists/Bad-vibes-forever"
+      },
+      {
+       "api_path": "/artists/2141298",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2141298,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "KMR Music Royalties II SCSP",
+       "url": "https://genius.com/artists/Kmr-music-royalties-ii-scsp"
+      },
+      {
+       "api_path": "/artists/248458",
+       "header_image_url": "https://images.genius.com/cec65f7d827635e4fc8d92d38238c065.1000x333x1.jpg",
+       "id": 248458,
+       "image_url": "https://images.genius.com/d3d617bc546306d08365fcf3b6d52f4b.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "PnB Rock",
+       "url": "https://genius.com/artists/Pnb-rock",
+       "iq": 1429
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/3217939",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3217939,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Cunninghamburger Music",
+       "url": "https://genius.com/artists/Cunninghamburger-music"
+      },
+      {
+       "api_path": "/artists/3217940",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 3217940,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ricted",
+       "url": "https://genius.com/artists/Ricted"
+      }
+     ]
+    },
+    {
+     "label": "Perfomance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/2996060",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2996060,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jacob Ferrini",
+       "url": "https://genius.com/artists/Jacob-ferrini"
+      },
+      {
+       "api_path": "/artists/530",
+       "header_image_url": "https://images.genius.com/b37a7b3735fbea935cebd74c63324d20.1000x165x1.jpg",
+       "id": 530,
+       "image_url": "https://images.genius.com/dd0eb43d629b8393b29579b13316ef4f.691x691x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Charlie Wilson",
+       "url": "https://genius.com/artists/Charlie-wilson",
+       "iq": 855
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/663948",
+       "header_image_url": "https://images.genius.com/a19297cb681ad8d4b2bafd389bd9964d.1000x1000x1.jpg",
+       "id": 663948,
+       "image_url": "https://images.genius.com/a19297cb681ad8d4b2bafd389bd9964d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kyle Williams",
+       "url": "https://genius.com/artists/Kyle-williams"
+      },
+      {
+       "api_path": "/artists/1008473",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1008473,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kada Ames",
+       "url": "https://genius.com/artists/Kada-ames"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/663948",
+       "header_image_url": "https://images.genius.com/a19297cb681ad8d4b2bafd389bd9964d.1000x1000x1.jpg",
+       "id": 663948,
+       "image_url": "https://images.genius.com/a19297cb681ad8d4b2bafd389bd9964d.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kyle Williams",
+       "url": "https://genius.com/artists/Kyle-williams"
+      },
+      {
+       "api_path": "/artists/1008473",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1008473,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kada Ames",
+       "url": "https://genius.com/artists/Kada-ames"
+      }
+     ]
+    },
+    {
+     "label": "Video Director",
+     "artists": [
+      {
+       "api_path": "/artists/2578863",
+       "header_image_url": "https://images.genius.com/36997345a284cfff43538d7f25299ea4.1000x416x1.jpg",
+       "id": 2578863,
+       "image_url": "https://images.genius.com/644e62fca72ee3c118e74746dc948735.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Tristan Demic",
+       "url": "https://genius.com/artists/Tristan-demic"
+      },
+      {
+       "api_path": "/artists/2578862",
+       "header_image_url": "https://images.genius.com/36997345a284cfff43538d7f25299ea4.1000x416x1.jpg",
+       "id": 2578862,
+       "image_url": "https://images.genius.com/7a88c980dae134b7e3d2282463a08f0c.817x817x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Alex Demic",
+       "url": "https://genius.com/artists/Alex-demic"
+      }
+     ]
+    },
+    {
+     "label": "Video Production Company",
+     "artists": [
+      {
+       "api_path": "/artists/1936141",
+       "header_image_url": "https://images.genius.com/36997345a284cfff43538d7f25299ea4.1000x416x1.jpg",
+       "id": 1936141,
+       "image_url": "https://images.genius.com/f1a04d42ae6cc13f7055bcee0b806b20.900x900x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "RingRing Visuals",
+       "url": "https://genius.com/artists/Ringring-visuals"
+      }
+     ]
+    },
+    {
+     "label": "Additional Vocals",
+     "artists": [
+      {
+       "api_path": "/artists/396565",
+       "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg",
+       "id": 396565,
+       "image_url": "https://images.genius.com/7337afb84752ce941b08f860be07a13d.548x548x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "XXXTENTACION",
+       "url": "https://genius.com/artists/Xxxtentacion",
+       "iq": 364
+      }
+     ]
+    },
+    {
+     "label": "Licensing",
+     "artists": [
+      {
+       "api_path": "/artists/2676380",
+       "header_image_url": "https://images.genius.com/01c4d4d2f882c0bce56b86e36962d60c.300x79x1.png",
+       "id": 2676380,
+       "image_url": "https://images.genius.com/3675e235c420f8bbe55308272231208f.300x300x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Polaris Hub AB",
+       "url": "https://genius.com/artists/Polaris-hub-ab"
+      }
+     ]
+    },
+    {
+     "label": "Publishing",
+     "artists": [
+      {
+       "api_path": "/artists/1179023",
+       "header_image_url": "https://images.genius.com/92e4ea9ba616ee53bae21dc2e037a1e2.1000x1000x1.jpg",
+       "id": 1179023,
+       "image_url": "https://images.genius.com/f19c358ac9db989328ffc9a3de85bbd4.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Kobalt Music",
+       "url": "https://genius.com/artists/Kobalt-music"
+      },
+      {
+       "api_path": "/artists/1829686",
+       "header_image_url": "https://images.genius.com/e84fa9cd125863d9ecd017c3b67d1769.900x536x1.jpg",
+       "id": 1829686,
+       "image_url": "https://images.genius.com/efd78db84930e5019ec671c24c594c43.464x464x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "AMRA",
+       "url": "https://genius.com/artists/Amra"
+      }
+     ]
+    },
+    {
+     "label": "Phonographic Copyright \u2117",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Copyright \u00a9",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      },
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    },
+    {
+     "label": "Distributor",
+     "artists": [
+      {
+       "api_path": "/artists/1104563",
+       "header_image_url": "https://images.genius.com/c1a1794200220213746e8e651a5dc211.1000x175x1.png",
+       "id": 1104563,
+       "image_url": "https://images.genius.com/7b3fb2c00317cb2eb2453f9f4e7473d1.600x600x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Universal Music Group",
+       "url": "https://genius.com/artists/Universal-music-group"
+      }
+     ]
+    },
+    {
+     "label": "Label",
+     "artists": [
+      {
+       "api_path": "/artists/647615",
+       "header_image_url": "https://images.genius.com/0a4f3e681b9c0f8f0c0710360a6e0fb9.1000x1000x1.jpg",
+       "id": 647615,
+       "image_url": "https://images.genius.com/81c6f9a074facd70034a42a1a4ccd24e.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Capitol Records",
+       "url": "https://genius.com/artists/Capitol-records"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 15281714,
+    "annotator_login": "pzzzxo",
+    "api_path": "/referents/24342647",
+    "classification": "unreviewed",
+    "fragment": "Being Honest",
+    "id": 24342647,
+    "is_description": true,
+    "path": "/24342647/Kay-flock-being-honest/Being-honest",
+    "range": {
+     "content": "Being Honest"
+    },
+    "song_id": 7153314,
+    "url": "https://genius.com/24342647/Kay-flock-being-honest/Being-honest",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7153314",
+     "client_timestamps": {
+      "updated_by_human_at": 1681696736,
+      "lyrics_updated_at": 1681704923
+     },
+     "context": "Kay Flock",
+     "id": 7153314,
+     "image_url": "https://images.genius.com/af9585c4d4fe986b7482b3e97740c26f.1000x1000x1.png",
+     "link_title": "Being Honest by\u00a0Kay\u00a0Flock",
+     "title": "Being Honest",
+     "type": "Song",
+     "url": "https://genius.com/Kay-flock-being-honest-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24342647",
+      "body": {
+       "plain": "Containing a sample of the late Florida rapper XXXTENTACION from his 2018 song \u201cchanges\u201d in the beat, this song would later gain a feature from chicago rapper G Herbo after gaining popularity, with the original video sitting at 1.2M views on youtube and the remix with Herb sitting at over 3 million as of 11/19/2021."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 24342647,
+      "pinned": false,
+      "share_url": "https://genius.com/24342647",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/24342647/Kay-flock-being-honest/Being-honest",
+      "verified": false,
+      "votes_total": 7,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/15281714",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/2da236e36fe8bad757c510de8645124e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/2da236e36fe8bad757c510de8645124e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/2da236e36fe8bad757c510de8645124e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/2da236e36fe8bad757c510de8645124e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/2da236e36fe8bad757c510de8645124e",
+         "human_readable_role_for_display": "Contributor",
+         "id": 15281714,
+         "iq": 425,
+         "login": "pzzzxo",
+         "name": "pzzzxo",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/pzzzxo",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": {
+    "api_path": "/users/7770942",
+    "avatar": {
+     "tiny": {
+      "url": "https://images.genius.com/avatars/tiny/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 16,
+       "height": 16
+      }
+     },
+     "thumb": {
+      "url": "https://images.genius.com/avatars/thumb/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 32,
+       "height": 32
+      }
+     },
+     "small": {
+      "url": "https://images.genius.com/avatars/small/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 100,
+       "height": 100
+      }
+     },
+     "medium": {
+      "url": "https://images.genius.com/avatars/medium/c516f4379b780ec44c978b1310747742",
+      "bounding_box": {
+       "width": 300,
+       "height": 400
+      }
+     }
+    },
+    "header_image_url": "https://images.genius.com/777085736e6f584279ba269687f004ef.1000x326x1.png",
+    "human_readable_role_for_display": "Staff",
+    "id": 7770942,
+    "iq": 181293,
+    "login": "benkeller14",
+    "name": "\u200bbenkeller14",
+    "role_for_display": "staff",
+    "url": "https://genius.com/benkeller14",
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "follow"
+     ],
+     "interactions": {
+      "following": false
+     }
+    }
+   },
+   "media": [
+    {
+     "attribution": "kayflock music",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/kayflock-music/being-honest?si=9c91a451b3dc4e09bfbee924ad9c1bb2"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=cMV4-xekoaY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1159118",
+     "header_image_url": "https://images.genius.com/6d9ca214b9af60b211671b688373cb08.217x217x1.png",
+     "id": 1159118,
+     "image_url": "https://images.genius.com/6d9ca214b9af60b211671b688373cb08.217x217x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ShoBeatz",
+     "url": "https://genius.com/artists/Shobeatz"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 3,
+       "api_path": "/songs/3549578",
+       "artist_names": "XXXTENTACION (Ft. PnB Rock)",
+       "full_title": "\u200bchanges by\u00a0XXXTENTACION (Ft.\u00a0PnB\u00a0Rock)",
+       "header_image_thumbnail_url": "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.1000x1000x1.png",
+       "id": 3549578,
+       "language": "en",
+       "lyrics_owner_id": 432937,
+       "lyrics_state": "complete",
+       "path": "/Xxxtentacion-changes-lyrics",
+       "pyongs_count": 329,
+       "relationships_index_url": "https://genius.com/Xxxtentacion-changes-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 3,
+        "day": 2
+       },
+       "release_date_for_display": "March 2, 2018",
+       "release_date_with_abbreviated_month_for_display": "Mar. 2, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/8b673f80818e4cc1b975e8d8cd81344c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 3010596
+       },
+       "title": "\u200bchanges",
+       "title_with_featured": "\u200bchanges (Ft.\u00a0PnB\u00a0Rock)",
+       "url": "https://genius.com/Xxxtentacion-changes-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/248458",
+         "header_image_url": "https://images.genius.com/cec65f7d827635e4fc8d92d38238c065.1000x333x1.jpg",
+         "id": 248458,
+         "image_url": "https://images.genius.com/d3d617bc546306d08365fcf3b6d52f4b.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": true,
+         "name": "PnB Rock",
+         "url": "https://genius.com/artists/Pnb-rock",
+         "iq": 1429
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/396565",
+        "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg",
+        "id": 396565,
+        "image_url": "https://images.genius.com/7337afb84752ce941b08f860be07a13d.548x548x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "XXXTENTACION",
+        "url": "https://genius.com/artists/Xxxtentacion",
+        "iq": 364
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8679418",
+       "artist_names": "Noticuz (Ft. Tata)",
+       "full_title": "Own Strap by\u00a0Noticuz (Ft.\u00a0Tata)",
+       "header_image_thumbnail_url": "https://images.genius.com/e8d3e578f9b161724ff6c6b16b6ed7c1.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/e8d3e578f9b161724ff6c6b16b6ed7c1.500x500x1.jpg",
+       "id": 8679418,
+       "language": "en",
+       "lyrics_owner_id": 18879524,
+       "lyrics_state": "complete",
+       "path": "/Noticuz-own-strap-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Noticuz-own-strap-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 18
+       },
+       "release_date_for_display": "September 18, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 18, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e8d3e578f9b161724ff6c6b16b6ed7c1.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e8d3e578f9b161724ff6c6b16b6ed7c1.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Own Strap",
+       "title_with_featured": "Own Strap (Ft.\u00a0Tata)",
+       "url": "https://genius.com/Noticuz-own-strap-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3172148",
+         "header_image_url": "https://images.genius.com/ed610d2e72decc698308a948417d25bd.498x280x107.gif",
+         "id": 3172148,
+         "image_url": "https://images.genius.com/eaf820513ba0897a184e012bf31a402a.315x315x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Tata",
+         "url": "https://genius.com/artists/Tata"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3370172",
+        "header_image_url": "https://images.genius.com/9d89270cf9052f21fd544beabebddda8.500x500x1.jpg",
+        "id": 3370172,
+        "image_url": "https://images.genius.com/9d89270cf9052f21fd544beabebddda8.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Noticuz",
+        "url": "https://genius.com/artists/Noticuz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/8245671",
+       "artist_names": "Lee Drilly",
+       "full_title": "Being Honest by\u00a0Lee\u00a0Drilly",
+       "header_image_thumbnail_url": "https://images.genius.com/947a48c91594c43103707fe54a631aa3.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/947a48c91594c43103707fe54a631aa3.354x354x1.jpg",
+       "id": 8245671,
+       "language": "en",
+       "lyrics_owner_id": 15292370,
+       "lyrics_state": "complete",
+       "path": "/Lee-drilly-being-honest-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Lee-drilly-being-honest-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 9,
+        "day": 2
+       },
+       "release_date_for_display": "September 2, 2022",
+       "release_date_with_abbreviated_month_for_display": "Sep. 2, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/947a48c91594c43103707fe54a631aa3.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/947a48c91594c43103707fe54a631aa3.354x354x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Being Honest",
+       "title_with_featured": "Being Honest",
+       "url": "https://genius.com/Lee-drilly-being-honest-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2979445",
+        "header_image_url": "https://images.genius.com/b2d05db1df5574265aa90b693b0dc3cc.640x360x144.gif",
+        "id": 2979445,
+        "image_url": "https://images.genius.com/3078784c95f107c291c62f463b84e166.640x360x96.gif",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Lee Drilly",
+        "url": "https://genius.com/artists/Lee-drilly"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": "https://genius.com/Kay-flock-being-honest-sample/remixes",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/7949723",
+       "artist_names": "\u200b\u200byxngfuture (Ft. \u200b\u200b\u200bvespodd)",
+       "full_title": "GET STURDY 2! by\u00a0\u200b\u200byxngfuture (Ft.\u00a0\u200b\u200b\u200bvespodd)",
+       "header_image_thumbnail_url": "https://images.genius.com/b5796e6d7e2f6167fc57955e41d9c66d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b5796e6d7e2f6167fc57955e41d9c66d.1000x1000x1.jpg",
+       "id": 7949723,
+       "language": "en",
+       "lyrics_owner_id": 15780442,
+       "lyrics_state": "complete",
+       "path": "/Yxngfuture-get-sturdy-2-lyrics",
+       "pyongs_count": 3,
+       "relationships_index_url": "https://genius.com/Yxngfuture-get-sturdy-2-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 5,
+        "day": 5
+       },
+       "release_date_for_display": "May 5, 2022",
+       "release_date_with_abbreviated_month_for_display": "May. 5, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b5796e6d7e2f6167fc57955e41d9c66d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b5796e6d7e2f6167fc57955e41d9c66d.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "GET STURDY 2!",
+       "title_with_featured": "GET STURDY 2! (Ft.\u00a0\u200b\u200b\u200bvespodd)",
+       "url": "https://genius.com/Yxngfuture-get-sturdy-2-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2874059",
+         "header_image_url": "https://images.genius.com/4692ad3e44dfd9cb6db942fb229bcda0.500x282x20.gif",
+         "id": 2874059,
+         "image_url": "https://images.genius.com/74b5e7c18590162a88d765724900fb15.480x276x35.gif",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "\u200b\u200b\u200bvespodd",
+         "url": "https://genius.com/artists/Vespodd",
+         "iq": 135592
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/3033716",
+        "header_image_url": "https://images.genius.com/13a7c9577f3f711755d6c03d25d7f6ab.320x158x1.png",
+        "id": 3033716,
+        "image_url": "https://images.genius.com/56609f50938d4632f6d035327989732b.640x384x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "\u200b\u200byxngfuture",
+        "url": "https://genius.com/artists/Yxngfuture",
+        "iq": 2162
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7675297",
+       "artist_names": "RedDot (North Carolina)",
+       "full_title": "Being Honest by\u00a0RedDot\u00a0(North Carolina)",
+       "header_image_thumbnail_url": "https://images.genius.com/b76158cfc9a81750411087e21055b932.300x300x1.png",
+       "header_image_url": "https://images.genius.com/b76158cfc9a81750411087e21055b932.1000x1000x1.png",
+       "id": 7675297,
+       "language": null,
+       "lyrics_owner_id": 9856377,
+       "lyrics_state": "unreleased",
+       "path": "/Reddot-north-carolina-being-honest-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Reddot-north-carolina-being-honest-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 2,
+        "day": 1
+       },
+       "release_date_for_display": "February 1, 2022",
+       "release_date_with_abbreviated_month_for_display": "Feb. 1, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b76158cfc9a81750411087e21055b932.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/b76158cfc9a81750411087e21055b932.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Being Honest",
+       "title_with_featured": "Being Honest",
+       "url": "https://genius.com/Reddot-north-carolina-being-honest-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2924564",
+        "header_image_url": "https://images.genius.com/4f32effe978887bb9dba108b4216dfc1.1000x1000x1.png",
+        "id": 2924564,
+        "image_url": "https://images.genius.com/ccb926c0449d6cca8acc07596122a9fb.1000x1000x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "RedDot (North Carolina)",
+        "url": "https://genius.com/artists/Reddot-north-carolina"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7609281",
+       "artist_names": "Chess",
+       "full_title": "Being Honest (Freestyle) by\u00a0Chess",
+       "header_image_thumbnail_url": "https://images.genius.com/3f661f891e33ec51b5f8ba0af4298e4e.300x169x1.jpg",
+       "header_image_url": "https://images.genius.com/3f661f891e33ec51b5f8ba0af4298e4e.1000x563x1.jpg",
+       "id": 7609281,
+       "language": "en",
+       "lyrics_owner_id": 6238639,
+       "lyrics_state": "complete",
+       "path": "/Chess-being-honest-freestyle-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Chess-being-honest-freestyle-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 5
+       },
+       "release_date_for_display": "December 5, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 5, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/3f661f891e33ec51b5f8ba0af4298e4e.300x169x1.jpg",
+       "song_art_image_url": "https://images.genius.com/3f661f891e33ec51b5f8ba0af4298e4e.1000x563x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Being Honest (Freestyle)",
+       "title_with_featured": "Being Honest (Freestyle)",
+       "url": "https://genius.com/Chess-being-honest-freestyle-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/386788",
+        "header_image_url": "https://images.genius.com/8b9c3be32da53adf84c5de758ce37ce8.846x468x1.png",
+        "id": 386788,
+        "image_url": "https://images.genius.com/6e8ed03f6ddee450d6411962d5852915.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Chess",
+        "url": "https://genius.com/artists/Chess"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7494482",
+       "artist_names": "Bos Flip (Ft. GetRichZay)",
+       "full_title": "Being Honest Remix by\u00a0Bos\u00a0Flip (Ft.\u00a0GetRichZay)",
+       "header_image_thumbnail_url": "https://images.genius.com/7a268e33042f79e15e819d4c47e061bb.300x300x1.png",
+       "header_image_url": "https://images.genius.com/7a268e33042f79e15e819d4c47e061bb.354x354x1.png",
+       "id": 7494482,
+       "language": null,
+       "lyrics_owner_id": 9856377,
+       "lyrics_state": "unreleased",
+       "path": "/Bos-flip-being-honest-remix-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Bos-flip-being-honest-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 12,
+        "day": 15
+       },
+       "release_date_for_display": "December 15, 2021",
+       "release_date_with_abbreviated_month_for_display": "Dec. 15, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/7a268e33042f79e15e819d4c47e061bb.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/7a268e33042f79e15e819d4c47e061bb.354x354x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Being Honest Remix",
+       "title_with_featured": "Being Honest Remix (Ft.\u00a0GetRichZay)",
+       "url": "https://genius.com/Bos-flip-being-honest-remix-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/2313637",
+         "header_image_url": "https://images.genius.com/088ffbe3ac5520f323aa6b2f350aaac8.500x500x1.jpg",
+         "id": 2313637,
+         "image_url": "https://images.genius.com/088ffbe3ac5520f323aa6b2f350aaac8.500x500x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "GetRichZay",
+         "url": "https://genius.com/artists/Getrichzay"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2790326",
+        "header_image_url": "https://images.genius.com/2de8298b8614ca981e217d3ee12268cf.711x707x1.png",
+        "id": 2790326,
+        "image_url": "https://images.genius.com/7a268e33042f79e15e819d4c47e061bb.354x354x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Bos Flip",
+        "url": "https://genius.com/artists/Bos-flip"
+       }
+      },
+      {
+       "annotation_count": 5,
+       "api_path": "/songs/7193923",
+       "artist_names": "Kay Flock & G Herbo",
+       "full_title": "Being Honest (Remix) by\u00a0Kay\u00a0Flock & G Herbo",
+       "header_image_thumbnail_url": "https://images.genius.com/9ef2f0adc3fc1fe09cf19b825b9fdc58.300x300x1.png",
+       "header_image_url": "https://images.genius.com/9ef2f0adc3fc1fe09cf19b825b9fdc58.1000x1000x1.png",
+       "id": 7193923,
+       "language": "en",
+       "lyrics_owner_id": 5408623,
+       "lyrics_state": "complete",
+       "path": "/Kay-flock-and-g-herbo-being-honest-remix-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Kay-flock-and-g-herbo-being-honest-remix-sample",
+       "release_date_components": {
+        "year": 2021,
+        "month": 11,
+        "day": 4
+       },
+       "release_date_for_display": "November 4, 2021",
+       "release_date_with_abbreviated_month_for_display": "Nov. 4, 2021",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9ef2f0adc3fc1fe09cf19b825b9fdc58.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/9ef2f0adc3fc1fe09cf19b825b9fdc58.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 5,
+        "hot": false,
+        "pageviews": 32947
+       },
+       "title": "Being Honest (Remix)",
+       "title_with_featured": "Being Honest (Remix)",
+       "url": "https://genius.com/Kay-flock-and-g-herbo-being-honest-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2950876",
+        "header_image_url": "https://images.genius.com/32abcc7b78c8913d53208f95a0690aad.264x264x1.png",
+        "id": 2950876,
+        "image_url": "https://images.genius.com/32abcc7b78c8913d53208f95a0690aad.264x264x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Kay Flock & G Herbo",
+        "url": "https://genius.com/artists/Kay-flock-and-g-herbo"
+       }
+      },
+      {
+       "annotation_count": 11,
+       "api_path": "/songs/7882053",
+       "artist_names": "917 Rackz",
+       "full_title": "What Nyc Sounds Like by\u00a0917\u00a0Rackz",
+       "header_image_thumbnail_url": "https://images.genius.com/a9e22b858ec140554bbbbb5a9cf4cddb.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a9e22b858ec140554bbbbb5a9cf4cddb.1000x1000x1.jpg",
+       "id": 7882053,
+       "language": "en",
+       "lyrics_owner_id": 15689159,
+       "lyrics_state": "complete",
+       "path": "/917-rackz-what-nyc-sounds-like-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/917-rackz-what-nyc-sounds-like-sample",
+       "release_date_components": {
+        "year": 2022,
+        "month": 3,
+        "day": 22
+       },
+       "release_date_for_display": "March 22, 2022",
+       "release_date_with_abbreviated_month_for_display": "Mar. 22, 2022",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a9e22b858ec140554bbbbb5a9cf4cddb.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a9e22b858ec140554bbbbb5a9cf4cddb.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 11,
+        "hot": false
+       },
+       "title": "What Nyc Sounds Like",
+       "title_with_featured": "What Nyc Sounds Like",
+       "url": "https://genius.com/917-rackz-what-nyc-sounds-like-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2004928",
+        "header_image_url": "https://images.genius.com/1a49f982593f2026ee46a34b7ed2ef7f.1000x210x1.jpg",
+        "id": 2004928,
+        "image_url": "https://images.genius.com/d01e43b7ea1f74f0233ea5b9c1bf2979.500x500x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "917 Rackz",
+        "url": "https://genius.com/artists/917-rackz"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/620529",
+     "header_image_url": "https://images.genius.com/9ab38b6951a5038040c7640c3cf16ee6.993x641x1.png",
+     "id": 620529,
+     "image_url": "https://images.genius.com/ce884b6c90bfc5c4e90f9b8d1ffbfb78.633x633x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "John Cunningham",
+     "url": "https://genius.com/artists/John-cunningham",
+     "iq": 7551
+    },
+    {
+     "api_path": "/artists/248458",
+     "header_image_url": "https://images.genius.com/cec65f7d827635e4fc8d92d38238c065.1000x333x1.jpg",
+     "id": 248458,
+     "image_url": "https://images.genius.com/d3d617bc546306d08365fcf3b6d52f4b.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "PnB Rock",
+     "url": "https://genius.com/artists/Pnb-rock",
+     "iq": 1429
+    },
+    {
+     "api_path": "/artists/396565",
+     "header_image_url": "https://images.genius.com/83281176c66e39feea1b35f435388edb.1000x333x1.jpg",
+     "id": 396565,
+     "image_url": "https://images.genius.com/7337afb84752ce941b08f860be07a13d.548x548x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "XXXTENTACION",
+     "url": "https://genius.com/artists/Xxxtentacion",
+     "iq": 364
+    },
+    {
+     "api_path": "/artists/1159118",
+     "header_image_url": "https://images.genius.com/6d9ca214b9af60b211671b688373cb08.217x217x1.png",
+     "id": 1159118,
+     "image_url": "https://images.genius.com/6d9ca214b9af60b211671b688373cb08.217x217x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "ShoBeatz",
+     "url": "https://genius.com/artists/Shobeatz"
+    },
+    {
+     "api_path": "/artists/2729733",
+     "header_image_url": "https://images.genius.com/3b49c61b8af6d85a10969ca88c4be837.640x632x176.gif",
+     "id": 2729733,
+     "image_url": "https://images.genius.com/c507c11ae475d4e9dae5ca468a8c6bd9.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kay Flock",
+     "url": "https://genius.com/artists/Kay-flock"
+    }
+   ],
+   "artist": "Kay Flock",
+   "lyrics": "41 ContributorsBeing Honest Lyrics[Intro: XXXTENTACION]\n'Stand this\nYou're changing, I can't stand it\nMy heart can't take this damage\nAnd the way I feel, can't stand it\nMmm, I don't understand this\n\n[Verse 1: Kay Flock]\nHow you love me? I'm up in the booth (Booth)\nSaid I'm lying, like show me the proof (The proof)\nGet in my bag, put a sixth in a deuce (Deuce)\nShe like, \"Who Wockesha?\" Bitch, that's juice (That's juice)\nAnd you can't walk a mile in my shoes (My shoes)\nYou ain't throw as much shots as I threw (You ain't throwin')\nYou don't tote on the Glock like I do\nAnd you definitely don't bend that block like I do (Like)\nLately, I've been feelin' alone (Alone)\nBut I'm clutchin' my chrome (My chrome)\nPray to my mama I'm gon make it hom\u0435 (Home)\nTwenty missed calls, I ain't answ\u0435r my phone (My phone)\nThen I heard JB ain't make it home (Home)\nThey say, \"Flocka, keep up and be strong\" (Strong)\nNah, why? 'Cause that shit was wrong (Wrong)\nAnd I told him to keep that bitch on 'em\nI got my front, but is you behind me? ('Hind me)\nGet goofy like Martin and Gina (Okay)\nOr get greedy like Keisha and Tommy (Like)\nThen get deady like Whitney and Bobby\nI brought my pole if she think she gon' line me (Line me)\nWith the .30, I move extra cocky\nIf I ain't dead or in jail, they can't stop me (Stop me)\nGotti and Notti and Scottie, my top three (Like)\nNeed a smooth G to spin, call up Gotti (Gotti)\nSosa with knocks in ya lobby (Lobby)\nKnow a 'ooter who aim for skullatis\nHe be buggin', his name is Lil Notti (Lil Notti)\nIf I tell him to get 'em, I know that he got me (I know)\nSo I got him, he stay right beside me (Beside me)\nI be thinking like she movin' Wocky (Wocky)\nShe keep tellin' me, \"Flocka, you got me\" (She got me)\nIs you gon' climb for me if it get rocky? (Rocky)\nA parole shinin' through like it's hockey\nCan't box right now, bullets punchin' like Ali (Ali)\nGotta keep it, I know they gon' watch me (Watch me)\nAnd I know that the feds tryna lock me (They lock me)\nRidin' with it, I hope they don't stop me (Don't stop me)\nIf they do, then it's gon' be a high-speed (Skrrt, skrrt)\nI pray God take the wheel, hope he got me (Got me, like)\nYou might also like[Bridge: XXXTENTACION]\nI don't understand this\nYou're changing, I can't stand it\nMy heart can't take this damage\nAnd the way I feel, can't stand it\nMmm, baby, I don't understand this\n\n[Verse 2: Kay Flock]\nYou better up first, boy, you better not let 'em (Let 'em)\nHop out first, you better catch 'em (Skrrt)\nThey only got one up on you if you let 'em (Let 'em)\nHow he talk down, you fed or you fed 'em? (Fed 'em)\nNigga Dougie got shot, that's on bro, I'ma dead 'em (I'ma dead 'em)\nHe can't come to this block, I won't let 'em (Won't let 'em)\nLil Notti, he spot 'em, he got 'em, he get 'em (Get 'em)\nAnd Lil Drama gon' hop out and stretch 'em\nDougie B, he gon' throw like McGrady (McGrady)\nBalla B, he be throwin' like Brady (Brady)\nBallin' for JB, this shit got no safety (No safety)\nWhen we up, better duck, we go crazy (Go crazy)\nWe gon' hit up his ligament, shit leave him lazy\nThat's on bro, I got shots for who hate me\nWe them EBK, DOA, GBG babies\nGet Back Gang, that's how they raised me, like\nAnd I told bro there's gon' be another one\nI got booked for the chop, bought another one ('Nother one)\nAnd I promise they won't take my mother son (Mother son)\nThink that I'm goin', these lil' niggas dumb or somethin' (Dumb or somethin')\nWho these lil' niggas think that I'm runnin' from? (Runnin' from, like)\n(Who these lil' niggas think that I'm runnin' from?)\n(They stupid, they dumb, or somethin')\n[Outro: XXXTENTACION]\nI don't understand this\nYou're changing, I can't stand it\nMy heart can't take this damage\nAnd the way I feel, can't stand it\nMmm, I don't understand this2Embed"
+  }
+ ]
+}

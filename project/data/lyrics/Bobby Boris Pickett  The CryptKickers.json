@@ -1,0 +1,2084 @@
+{
+ "alternate_names": [
+  "Bob Pickett",
+  "Bobby \"Boris\" Pickett & The Crypt-Kickers",
+  "Bobby Pickett and the Crypt-Kickers",
+  "Bobby Pickett",
+  "Robert Pickett",
+  "Robert George Pickett"
+ ],
+ "api_path": "/artists/387871",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 1,
+ "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+ "id": 387871,
+ "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Bobby \u201cBoris\u201d Pickett",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Bobby-boris-pickett",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1549345,
+  "annotator_login": "pressburg",
+  "api_path": "/referents/7104778",
+  "classification": "needs_exegesis",
+  "fragment": "Bobby \u201cBoris\u201d Pickett",
+  "id": 7104778,
+  "is_description": true,
+  "path": "/7104778/Bobby-boris-pickett/Bobby-boris-pickett",
+  "range": {
+   "content": "Bobby \"Boris\" Pickett"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7104778/Bobby-boris-pickett/Bobby-boris-pickett",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/387871",
+   "context": null,
+   "id": 387871,
+   "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+   "link_title": "Bobby \u201cBoris\u201d Pickett",
+   "title": "Bobby \"Boris\" Pickett",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Bobby-boris-pickett"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7104778",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7104778,
+    "pinned": false,
+    "share_url": "https://genius.com/7104778",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7104778/Bobby-boris-pickett/Bobby-boris-pickett",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1549345",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+       "human_readable_role_for_display": null,
+       "id": 1549345,
+       "iq": 0,
+       "login": "pressburg",
+       "name": "pressburg",
+       "role_for_display": null,
+       "url": "https://genius.com/pressburg",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 11,
+   "api_path": "/songs/95389",
+   "artist_names": "Bobby \"Boris\" Pickett",
+   "full_title": "Monster Mash by\u00a0Bobby\u00a0\"Boris\" Pickett",
+   "header_image_thumbnail_url": "https://images.genius.com/5ebf5ddd35d92ab658923feda86fa040.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5ebf5ddd35d92ab658923feda86fa040.600x600x1.jpg",
+   "id": 95389,
+   "language": "en",
+   "lyrics_owner_id": 1850,
+   "lyrics_state": "complete",
+   "path": "/Bobby-boris-pickett-monster-mash-lyrics",
+   "pyongs_count": 5,
+   "relationships_index_url": "https://genius.com/Bobby-boris-pickett-monster-mash-sample",
+   "release_date_components": {
+    "year": 1962,
+    "month": 8,
+    "day": 25
+   },
+   "release_date_for_display": "August 25, 1962",
+   "release_date_with_abbreviated_month_for_display": "Aug. 25, 1962",
+   "song_art_image_thumbnail_url": "https://images.genius.com/5ebf5ddd35d92ab658923feda86fa040.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5ebf5ddd35d92ab658923feda86fa040.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 9,
+    "contributors": 37,
+    "iq_earners": 37,
+    "transcribers": 2,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 88771
+   },
+   "title": "Monster Mash",
+   "title_with_featured": "Monster Mash",
+   "url": "https://genius.com/Bobby-boris-pickett-monster-mash-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/387871",
+    "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "id": 387871,
+    "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bobby \u201cBoris\u201d Pickett",
+    "url": "https://genius.com/artists/Bobby-boris-pickett"
+   },
+   "apple_music_id": "256225849",
+   "apple_music_player_url": "https://genius.com/songs/95389/apple_music_player",
+   "description": {
+    "plain": "Quite possibly the greatest Halloween jam ever recorded, \u201cMonster Mash\u201d has been a Holiday favorite since its recording in 1962.\n\nDuring a cover of the the Diamonds' Darlin', Bobby \u201cBoris\u201d Pickett performed an improvised monologue, imitating famed horror actor Boris Karloff. The audience loved it so much that Pickett eventually composed a song revolving around the impression with fellow band member, Leonard Capizzi and hence the Mash was born."
+   },
+   "embed_content": "<div id='rg_embed_link_95389' class='rg_embed_link' data-song-id='95389'>Read <a href='https://genius.com/Bobby-boris-pickett-monster-mash-lyrics'>\u201cMonster Mash\u201d by Bobby\u00a0\"Boris\" Pickett</a> on Genius</div> <script crossorigin src='//genius.com/songs/95389/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1962-08-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269729",
+    "cover_art_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+    "full_title": "The Original Monster Mash by Bobby \"Boris\" Pickett",
+    "id": 269729,
+    "name": "The Original Monster Mash",
+    "release_date_for_display": "1962",
+    "url": "https://genius.com/albums/Bobby-boris-pickett/The-original-monster-mash",
+    "artist": {
+     "api_path": "/artists/387871",
+     "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "id": 387871,
+     "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u201cBoris\u201d Pickett",
+     "url": "https://genius.com/artists/Bobby-boris-pickett"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Piano",
+     "artists": [
+      {
+       "api_path": "/artists/144951",
+       "header_image_url": "https://images.genius.com/1060120f5c1c425cb674c4648f11ed96.620x264x1.jpg",
+       "id": 144951,
+       "image_url": "https://images.genius.com/1561121a54f364d28adb336f8278d793.591x591x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Leon Russell",
+       "url": "https://genius.com/artists/Leon-russell"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1850,
+    "annotator_login": "Alex_Koenig",
+    "api_path": "/referents/3578570",
+    "classification": "accepted",
+    "fragment": "Monster Mash",
+    "id": 3578570,
+    "is_description": true,
+    "path": "/3578570/Bobby-boris-pickett-monster-mash/Monster-mash",
+    "range": {
+     "content": "Monster Mash"
+    },
+    "song_id": 95389,
+    "url": "https://genius.com/3578570/Bobby-boris-pickett-monster-mash/Monster-mash",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/95389",
+     "client_timestamps": {
+      "updated_by_human_at": 1667705315,
+      "lyrics_updated_at": 1667705315
+     },
+     "context": "Bobby \"Boris\" Pickett",
+     "id": 95389,
+     "image_url": "https://images.genius.com/5ebf5ddd35d92ab658923feda86fa040.600x600x1.jpg",
+     "link_title": "Monster Mash by\u00a0Bobby\u00a0\u201cBoris\u201d Pickett",
+     "title": "Monster Mash",
+     "type": "Song",
+     "url": "https://genius.com/Bobby-boris-pickett-monster-mash-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3578570",
+      "body": {
+       "plain": "Quite possibly the greatest Halloween jam ever recorded, \u201cMonster Mash\u201d has been a Holiday favorite since its recording in 1962.\n\nDuring a cover of the the Diamonds' Darlin', Bobby \u201cBoris\u201d Pickett performed an improvised monologue, imitating famed horror actor Boris Karloff. The audience loved it so much that Pickett eventually composed a song revolving around the impression with fellow band member, Leonard Capizzi and hence the Mash was born."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 3578570,
+      "pinned": false,
+      "share_url": "https://genius.com/3578570",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/3578570/Bobby-boris-pickett-monster-mash/Monster-mash",
+      "verified": false,
+      "votes_total": 27,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/868472",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/a7f47a7e587385855dac955b3260840b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/a7f47a7e587385855dac955b3260840b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/a7f47a7e587385855dac955b3260840b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/a7f47a7e587385855dac955b3260840b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/a7f47a7e587385855dac955b3260840b",
+         "human_readable_role_for_display": "Editor",
+         "id": 868472,
+         "iq": 30255,
+         "login": "TheRaconteur",
+         "name": "TheRaconteur",
+         "role_for_display": "editor",
+         "url": "https://genius.com/TheRaconteur",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:0xxZY5C9xxij3D1HkzbnfC",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/0xxZY5C9xxij3D1HkzbnfC"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=bRLML36HnzU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1004093",
+     "header_image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "id": 1004093,
+     "image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gary S. Paxton",
+     "url": "https://genius.com/artists/Gary-s-paxton"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/Bobby-boris-pickett-monster-mash-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/1730582",
+       "artist_names": "Dee Dee Sharp",
+       "full_title": "Mashed Potato Time by\u00a0Dee\u00a0Dee Sharp",
+       "header_image_thumbnail_url": "https://images.genius.com/e6d64543096c87e30873c21d8ee0709c.220x220x1.jpg",
+       "header_image_url": "https://images.genius.com/e6d64543096c87e30873c21d8ee0709c.220x220x1.jpg",
+       "id": 1730582,
+       "language": "en",
+       "lyrics_owner_id": 5970156,
+       "lyrics_state": "complete",
+       "path": "/Dee-dee-sharp-mashed-potato-time-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Dee-dee-sharp-mashed-potato-time-sample",
+       "release_date_components": {
+        "year": 1962,
+        "month": 2,
+        "day": null
+       },
+       "release_date_for_display": "February 1962",
+       "release_date_with_abbreviated_month_for_display": "Feb. 1962",
+       "song_art_image_thumbnail_url": "https://images.genius.com/e6d64543096c87e30873c21d8ee0709c.220x220x1.jpg",
+       "song_art_image_url": "https://images.genius.com/e6d64543096c87e30873c21d8ee0709c.220x220x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 7141
+       },
+       "title": "Mashed Potato Time",
+       "title_with_featured": "Mashed Potato Time",
+       "url": "https://genius.com/Dee-dee-sharp-mashed-potato-time-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/371052",
+        "header_image_url": "https://images.genius.com/dff53ddf87af4a8b43fcaf3ca8121bc2.1000x1000x1.jpg",
+        "id": 371052,
+        "image_url": "https://images.genius.com/dff53ddf87af4a8b43fcaf3ca8121bc2.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Dee Dee Sharp",
+        "url": "https://genius.com/artists/Dee-dee-sharp"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/Bobby-boris-pickett-monster-mash-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 2,
+       "api_path": "/songs/6093760",
+       "artist_names": "Neil Cicierega",
+       "full_title": "Untitled \u201cWelcome to the Black Parade\u201d mashup by\u00a0Neil\u00a0Cicierega",
+       "header_image_thumbnail_url": "https://images.genius.com/2e977ab43017198ac16f1705b7b6d73c.300x300x1.png",
+       "header_image_url": "https://images.genius.com/2e977ab43017198ac16f1705b7b6d73c.1000x1000x1.png",
+       "id": 6093760,
+       "language": "en",
+       "lyrics_owner_id": 6002796,
+       "lyrics_state": "complete",
+       "path": "/Neil-cicierega-untitled-welcome-to-the-black-parade-mashup-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Neil-cicierega-untitled-welcome-to-the-black-parade-mashup-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/2e977ab43017198ac16f1705b7b6d73c.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/2e977ab43017198ac16f1705b7b6d73c.1000x1000x1.png",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Untitled \u201cWelcome to the Black Parade\u201d mashup",
+       "title_with_featured": "Untitled \u201cWelcome to the Black Parade\u201d mashup",
+       "url": "https://genius.com/Neil-cicierega-untitled-welcome-to-the-black-parade-mashup-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/384805",
+        "header_image_url": "https://images.genius.com/3d42c8897d5ad09240b232b9fe790293.500x375x1.jpg",
+        "id": 384805,
+        "image_url": "https://images.genius.com/3c6d01e64835f181877d6c36598bc8b7.400x400x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Neil Cicierega",
+        "url": "https://genius.com/artists/Neil-cicierega"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1718279",
+       "artist_names": "Rush",
+       "full_title": "Limbo by\u00a0Rush",
+       "header_image_thumbnail_url": "https://images.genius.com/9b10a7dafaaa0f0641ca451033a3cb30.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9b10a7dafaaa0f0641ca451033a3cb30.1000x1000x1.jpg",
+       "id": 1718279,
+       "language": "en",
+       "lyrics_owner_id": 7033672,
+       "lyrics_state": "complete",
+       "path": "/Rush-limbo-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Rush-limbo-sample",
+       "release_date_components": {
+        "year": 1996,
+        "month": 9,
+        "day": 10
+       },
+       "release_date_for_display": "September 10, 1996",
+       "release_date_with_abbreviated_month_for_display": "Sep. 10, 1996",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9b10a7dafaaa0f0641ca451033a3cb30.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9b10a7dafaaa0f0641ca451033a3cb30.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Limbo",
+       "title_with_featured": "Limbo",
+       "url": "https://genius.com/Rush-limbo-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/4384",
+        "header_image_url": "https://images.genius.com/374af1f7b167aadcf4e886a177769191.1000x625x1.jpg",
+        "id": 4384,
+        "image_url": "https://images.genius.com/56bff144e32c244448b16e6b9c42f724.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Rush",
+        "url": "https://genius.com/artists/Rush"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4857806",
+       "artist_names": "Tee Callin'",
+       "full_title": "Monster Mash by\u00a0Tee\u00a0Callin'",
+       "header_image_thumbnail_url": "https://images.genius.com/a4875b91a20840883ea3469d3e26f5de.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/a4875b91a20840883ea3469d3e26f5de.300x300x1.jpg",
+       "id": 4857806,
+       "language": "en",
+       "lyrics_owner_id": 9281980,
+       "lyrics_state": "complete",
+       "path": "/Tee-callin-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Tee-callin-monster-mash-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 10,
+        "day": 28
+       },
+       "release_date_for_display": "October 28, 2018",
+       "release_date_with_abbreviated_month_for_display": "Oct. 28, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a4875b91a20840883ea3469d3e26f5de.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/a4875b91a20840883ea3469d3e26f5de.300x300x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Monster Mash",
+       "title_with_featured": "Monster Mash",
+       "url": "https://genius.com/Tee-callin-monster-mash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1939238",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+        "id": 1939238,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Tee Callin\u2019",
+        "url": "https://genius.com/artists/Tee-callin"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/152506",
+       "artist_names": "Charles Hamilton",
+       "full_title": "WorkinInTheLab by\u00a0Charles\u00a0Hamilton",
+       "header_image_thumbnail_url": "https://images.genius.com/1aad56de70ff47155d8adfbfc8682497.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1aad56de70ff47155d8adfbfc8682497.485x485x1.jpg",
+       "id": 152506,
+       "language": "en",
+       "lyrics_owner_id": 134437,
+       "lyrics_state": "complete",
+       "path": "/Charles-hamilton-workininthelab-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Charles-hamilton-workininthelab-sample",
+       "release_date_components": {
+        "year": 2009,
+        "month": 12,
+        "day": 28
+       },
+       "release_date_for_display": "December 28, 2009",
+       "release_date_with_abbreviated_month_for_display": "Dec. 28, 2009",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1aad56de70ff47155d8adfbfc8682497.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1aad56de70ff47155d8adfbfc8682497.485x485x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "WorkinInTheLab",
+       "title_with_featured": "WorkinInTheLab",
+       "url": "https://genius.com/Charles-hamilton-workininthelab-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/409",
+        "header_image_url": "https://images.genius.com/ae295d7e8f35212f0ca414eece76d438.600x400x1.jpg",
+        "id": 409,
+        "image_url": "https://images.genius.com/2cd6e23436a4898210818f8a2d5f4e21.1000x666x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Charles Hamilton",
+        "url": "https://genius.com/artists/Charles-hamilton"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/8276659",
+       "artist_names": "Anthony Vincent",
+       "full_title": "12 Songs in the Style of The Nightmare Before Christmas by\u00a0Anthony\u00a0Vincent",
+       "header_image_thumbnail_url": "https://images.genius.com/995ef1125d9e2f22c2c5fc6acd297df6.300x169x1.png",
+       "header_image_url": "https://images.genius.com/995ef1125d9e2f22c2c5fc6acd297df6.1000x563x1.png",
+       "id": 8276659,
+       "language": "en",
+       "lyrics_owner_id": 6936343,
+       "lyrics_state": "complete",
+       "path": "/Anthony-vincent-12-songs-in-the-style-of-the-nightmare-before-christmas-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Anthony-vincent-12-songs-in-the-style-of-the-nightmare-before-christmas-sample",
+       "release_date_components": {
+        "year": 2017,
+        "month": 10,
+        "day": 27
+       },
+       "release_date_for_display": "October 27, 2017",
+       "release_date_with_abbreviated_month_for_display": "Oct. 27, 2017",
+       "song_art_image_thumbnail_url": "https://images.genius.com/995ef1125d9e2f22c2c5fc6acd297df6.300x169x1.png",
+       "song_art_image_url": "https://images.genius.com/995ef1125d9e2f22c2c5fc6acd297df6.1000x563x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "12 Songs in the Style of The Nightmare Before Christmas",
+       "title_with_featured": "12 Songs in the Style of The Nightmare Before Christmas",
+       "url": "https://genius.com/Anthony-vincent-12-songs-in-the-style-of-the-nightmare-before-christmas-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1263026",
+        "header_image_url": "https://images.genius.com/df2170b65a8ac22e2c6c08b63ffe064c.899x899x1.jpg",
+        "id": 1263026,
+        "image_url": "https://images.genius.com/df2170b65a8ac22e2c6c08b63ffe064c.899x899x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Anthony Vincent",
+        "url": "https://genius.com/artists/Anthony-vincent"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7054030",
+       "artist_names": "Double Take (Folk)",
+       "full_title": "Monster Bash - President Evil by\u00a0Double\u00a0Take (Folk)",
+       "header_image_thumbnail_url": "https://images.genius.com/a7dc077b86c349d36eea4f036278c710.272x272x1.png",
+       "header_image_url": "https://images.genius.com/a7dc077b86c349d36eea4f036278c710.272x272x1.png",
+       "id": 7054030,
+       "language": "en",
+       "lyrics_owner_id": 8577466,
+       "lyrics_state": "complete",
+       "path": "/Double-take-folk-monster-bash-president-evil-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Double-take-folk-monster-bash-president-evil-sample",
+       "release_date_components": {
+        "year": 2012,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "2012",
+       "release_date_with_abbreviated_month_for_display": "2012",
+       "song_art_image_thumbnail_url": "https://images.genius.com/a7dc077b86c349d36eea4f036278c710.272x272x1.png",
+       "song_art_image_url": "https://images.genius.com/a7dc077b86c349d36eea4f036278c710.272x272x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Monster Bash - President Evil",
+       "title_with_featured": "Monster Bash - President Evil",
+       "url": "https://genius.com/Double-take-folk-monster-bash-president-evil-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2827946",
+        "header_image_url": "https://images.genius.com/a4cd5ffb018d0f50e007878b89990d0a.640x427x1.jpg",
+        "id": 2827946,
+        "image_url": "https://images.genius.com/a7dc077b86c349d36eea4f036278c710.272x272x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Double Take (Folk)",
+        "url": "https://genius.com/artists/Double-take-folk"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": "https://genius.com/Bobby-boris-pickett-monster-mash-sample/covers",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/816296",
+       "artist_names": "Andrew Gold (Ft. Linda Ronstadt)",
+       "full_title": "The Monster Mash by\u00a0Andrew\u00a0Gold (Ft.\u00a0Linda\u00a0Ronstadt)",
+       "header_image_thumbnail_url": "https://images.genius.com/031525d28f211d40a0bcd0c1c5d93575.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/031525d28f211d40a0bcd0c1c5d93575.999x999x1.jpg",
+       "id": 816296,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Andrew-gold-the-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Andrew-gold-the-monster-mash-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/031525d28f211d40a0bcd0c1c5d93575.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/031525d28f211d40a0bcd0c1c5d93575.999x999x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "The Monster Mash",
+       "title_with_featured": "The Monster Mash (Ft.\u00a0Linda\u00a0Ronstadt)",
+       "url": "https://genius.com/Andrew-gold-the-monster-mash-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/60045",
+         "header_image_url": "https://images.genius.com/1eb6dcbbb0d690277c21c69056938c58.544x346x1.jpg",
+         "id": 60045,
+         "image_url": "https://images.genius.com/23c730b34d86a6e689846b4876475c33.1000x1000x1.jpg",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Linda Ronstadt",
+         "url": "https://genius.com/artists/Linda-ronstadt"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/50846",
+        "header_image_url": "https://images.genius.com/59d101a2b9c01df9d32ead20e1feeb27.420x420x1.jpg",
+        "id": 50846,
+        "image_url": "https://images.genius.com/59d101a2b9c01df9d32ead20e1feeb27.420x420x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Andrew Gold",
+        "url": "https://genius.com/artists/Andrew-gold"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2228752",
+       "artist_names": "KIDZ BOP Kids",
+       "full_title": "Monster Mash by\u00a0KIDZ\u00a0BOP Kids",
+       "header_image_thumbnail_url": "https://images.genius.com/86ef95e38e16391c1ff7f6ee9a6c5ab7.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/86ef95e38e16391c1ff7f6ee9a6c5ab7.494x494x1.jpg",
+       "id": 2228752,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Kidz-bop-kids-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Kidz-bop-kids-monster-mash-sample",
+       "release_date_components": {
+        "year": 2004,
+        "month": 8,
+        "day": 24
+       },
+       "release_date_for_display": "August 24, 2004",
+       "release_date_with_abbreviated_month_for_display": "Aug. 24, 2004",
+       "song_art_image_thumbnail_url": "https://images.genius.com/86ef95e38e16391c1ff7f6ee9a6c5ab7.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/86ef95e38e16391c1ff7f6ee9a6c5ab7.494x494x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Monster Mash",
+       "title_with_featured": "Monster Mash",
+       "url": "https://genius.com/Kidz-bop-kids-monster-mash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/353676",
+        "header_image_url": "https://images.genius.com/3e7f6dc58c92991638c84451f3b7c8ad.1000x563x1.png",
+        "id": 353676,
+        "image_url": "https://images.genius.com/b493d74f772d44eb9f4a12f831deed75.225x225x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "KIDZ BOP Kids",
+        "url": "https://genius.com/artists/Kidz-bop-kids"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5173002",
+       "artist_names": "The Key of Awesome (Ft. Mark Douglas, Mike Birch & Todd Womack)",
+       "full_title": "Modern Monster Mash by\u00a0The\u00a0Key of Awesome (Ft.\u00a0Mark\u00a0Douglas, Mike\u00a0Birch & Todd\u00a0Womack)",
+       "header_image_thumbnail_url": "https://images.genius.com/4388bb0a1a343de4d3a7d4b388b873d0.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/4388bb0a1a343de4d3a7d4b388b873d0.400x400x1.jpg",
+       "id": 5173002,
+       "language": "en",
+       "lyrics_owner_id": 122916,
+       "lyrics_state": "complete",
+       "path": "/The-key-of-awesome-modern-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-key-of-awesome-modern-monster-mash-sample",
+       "release_date_components": {
+        "year": 2014,
+        "month": 10,
+        "day": 20
+       },
+       "release_date_for_display": "October 20, 2014",
+       "release_date_with_abbreviated_month_for_display": "Oct. 20, 2014",
+       "song_art_image_thumbnail_url": "https://images.genius.com/4388bb0a1a343de4d3a7d4b388b873d0.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/4388bb0a1a343de4d3a7d4b388b873d0.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Modern Monster Mash",
+       "title_with_featured": "Modern Monster Mash (Ft.\u00a0Mark\u00a0Douglas, Mike\u00a0Birch & Todd\u00a0Womack)",
+       "url": "https://genius.com/The-key-of-awesome-modern-monster-mash-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/276503",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "id": 276503,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Todd Womack",
+         "url": "https://genius.com/artists/Todd-womack"
+        },
+        {
+         "api_path": "/artists/1815636",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "id": 1815636,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Mike Birch",
+         "url": "https://genius.com/artists/Mike-birch"
+        },
+        {
+         "api_path": "/artists/47870",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "id": 47870,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Mark Douglas",
+         "url": "https://genius.com/artists/Mark-douglas"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/113489",
+        "header_image_url": "https://images.genius.com/ce55970f7c1511dc20c3ee957bb90325.300x300x1.png",
+        "id": 113489,
+        "image_url": "https://images.genius.com/ce55970f7c1511dc20c3ee957bb90325.300x300x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Key of Awesome",
+        "url": "https://genius.com/artists/The-key-of-awesome"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4935959",
+       "artist_names": "Sharon Needles",
+       "full_title": "Monster Mash by\u00a0Sharon\u00a0Needles",
+       "header_image_thumbnail_url": "https://images.genius.com/70d6cebf7780a476924adeff26328462.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/70d6cebf7780a476924adeff26328462.1000x1000x1.jpg",
+       "id": 4935959,
+       "language": "en",
+       "lyrics_owner_id": 113718,
+       "lyrics_state": "complete",
+       "path": "/Sharon-needles-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sharon-needles-monster-mash-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 11
+       },
+       "release_date_for_display": "October 11, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 11, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/70d6cebf7780a476924adeff26328462.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/70d6cebf7780a476924adeff26328462.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Monster Mash",
+       "title_with_featured": "Monster Mash",
+       "url": "https://genius.com/Sharon-needles-monster-mash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/54737",
+        "header_image_url": "https://images.genius.com/cfb8704c5780ba5cc38349036b60124a.920x520x1.jpg",
+        "id": 54737,
+        "image_url": "https://images.genius.com/374f1c0d61aa22856da480de30e2ff64.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Sharon Needles",
+        "url": "https://genius.com/artists/Sharon-needles"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/4061962",
+       "artist_names": "SlimReaper",
+       "full_title": "Monster Mash (Cover) by\u00a0SlimReaper",
+       "header_image_thumbnail_url": "https://images.genius.com/b1840b7180cf093d9b4ea805253ca78e.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/b1840b7180cf093d9b4ea805253ca78e.500x500x1.jpg",
+       "id": 4061962,
+       "language": "en",
+       "lyrics_owner_id": 5204642,
+       "lyrics_state": "complete",
+       "path": "/Slimreaper-monster-mash-cover-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Slimreaper-monster-mash-cover-sample",
+       "release_date_components": {
+        "year": 2018,
+        "month": 11,
+        "day": 2
+       },
+       "release_date_for_display": "November 2, 2018",
+       "release_date_with_abbreviated_month_for_display": "Nov. 2, 2018",
+       "song_art_image_thumbnail_url": "https://images.genius.com/b1840b7180cf093d9b4ea805253ca78e.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/b1840b7180cf093d9b4ea805253ca78e.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Monster Mash (Cover)",
+       "title_with_featured": "Monster Mash (Cover)",
+       "url": "https://genius.com/Slimreaper-monster-mash-cover-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1397599",
+        "header_image_url": "https://images.genius.com/5cd34de4454e71c57fc3e56f5d4bcc2a.684x684x1.jpg",
+        "id": 1397599,
+        "image_url": "https://images.genius.com/5cd34de4454e71c57fc3e56f5d4bcc2a.684x684x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "SlimReaper",
+        "url": "https://genius.com/artists/Slimreaper",
+        "iq": 231
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/815678",
+       "artist_names": "Jo\u00e3o Penca e seus Miquinhos Amestrados",
+       "full_title": "O Monstro Macho (The Monster Mash) by\u00a0Jo\u00e3o\u00a0Penca e seus Miquinhos Amestrados",
+       "header_image_thumbnail_url": "https://images.genius.com/8ec41397569a20a6f46f0cf85010601c.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/8ec41397569a20a6f46f0cf85010601c.400x400x1.jpg",
+       "id": 815678,
+       "language": "pt",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Joao-penca-e-seus-miquinhos-amestrados-o-monstro-macho-the-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Joao-penca-e-seus-miquinhos-amestrados-o-monstro-macho-the-monster-mash-sample",
+       "release_date_components": {
+        "year": 1989,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1989",
+       "release_date_with_abbreviated_month_for_display": "1989",
+       "song_art_image_thumbnail_url": "https://images.genius.com/8ec41397569a20a6f46f0cf85010601c.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/8ec41397569a20a6f46f0cf85010601c.400x400x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "O Monstro Macho (The Monster Mash)",
+       "title_with_featured": "O Monstro Macho (The Monster Mash)",
+       "url": "https://genius.com/Joao-penca-e-seus-miquinhos-amestrados-o-monstro-macho-the-monster-mash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/350996",
+        "header_image_url": "https://images.genius.com/5678f9e4a8cefcb35c8fe36fb6d8de97.640x463x1.jpg",
+        "id": 350996,
+        "image_url": "https://images.genius.com/ec37b35488841bb97a967d8fadcc9af7.382x382x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Jo\u00e3o Penca e seus Miquinhos Amestrados",
+        "url": "https://genius.com/artists/Joao-penca-e-seus-miquinhos-amestrados"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/1664016",
+       "artist_names": "Misfits",
+       "full_title": "Monster Mash by\u00a0Misfits",
+       "header_image_thumbnail_url": "https://images.genius.com/87ad089c88474c0f3a9d27f320b5d935.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/87ad089c88474c0f3a9d27f320b5d935.500x500x1.jpg",
+       "id": 1664016,
+       "language": "en",
+       "lyrics_owner_id": 3949647,
+       "lyrics_state": "complete",
+       "path": "/Misfits-monster-mash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Misfits-monster-mash-sample",
+       "release_date_components": {
+        "year": 2003,
+        "month": 7,
+        "day": 29
+       },
+       "release_date_for_display": "July 29, 2003",
+       "release_date_with_abbreviated_month_for_display": "Jul. 29, 2003",
+       "song_art_image_thumbnail_url": "https://images.genius.com/87ad089c88474c0f3a9d27f320b5d935.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/87ad089c88474c0f3a9d27f320b5d935.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Monster Mash",
+       "title_with_featured": "Monster Mash",
+       "url": "https://genius.com/Misfits-monster-mash-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/711",
+        "header_image_url": "https://images.genius.com/26119c6abbf05d5afb1e7ce76944a11d.1000x563x1.jpg",
+        "id": 711,
+        "image_url": "https://images.genius.com/9f555c9bda5d822a8923c3af77ac46fc.400x400x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Misfits",
+        "url": "https://genius.com/artists/Misfits"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/8517489",
+       "artist_names": "Politics Joe (Ft. Boris Johnson & Jacob Rees-Mogg)",
+       "full_title": "Monster Crash by\u00a0Politics\u00a0Joe (Ft.\u00a0Boris\u00a0Johnson & Jacob\u00a0Rees-Mogg)",
+       "header_image_thumbnail_url": "https://images.genius.com/2bd7c31c3715bbbba0e9dede1900186b.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/2bd7c31c3715bbbba0e9dede1900186b.399x399x1.jpg",
+       "id": 8517489,
+       "language": "en",
+       "lyrics_owner_id": 8873654,
+       "lyrics_state": "complete",
+       "path": "/Politics-joe-monster-crash-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Politics-joe-monster-crash-sample",
+       "release_date_components": {
+        "year": 2019,
+        "month": 10,
+        "day": 31
+       },
+       "release_date_for_display": "October 31, 2019",
+       "release_date_with_abbreviated_month_for_display": "Oct. 31, 2019",
+       "song_art_image_thumbnail_url": "https://images.genius.com/2bd7c31c3715bbbba0e9dede1900186b.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/2bd7c31c3715bbbba0e9dede1900186b.399x399x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 1,
+        "hot": false
+       },
+       "title": "Monster Crash",
+       "title_with_featured": "Monster Crash (Ft.\u00a0Boris\u00a0Johnson & Jacob\u00a0Rees-Mogg)",
+       "url": "https://genius.com/Politics-joe-monster-crash-lyrics",
+       "featured_artists": [
+        {
+         "api_path": "/artists/3336705",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "id": 3336705,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Jacob Rees-Mogg",
+         "url": "https://genius.com/artists/Jacob-rees-mogg"
+        },
+        {
+         "api_path": "/artists/1697721",
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "id": 1697721,
+         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+         "is_meme_verified": false,
+         "is_verified": false,
+         "name": "Boris Johnson",
+         "url": "https://genius.com/artists/Boris-johnson"
+        }
+       ],
+       "primary_artist": {
+        "api_path": "/artists/2152627",
+        "header_image_url": "https://images.genius.com/906ce26901b4159ae843a9d9bac0c7a2.1000x333x1.jpg",
+        "id": 2152627,
+        "image_url": "https://images.genius.com/2bd7c31c3715bbbba0e9dede1900186b.399x399x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Politics Joe",
+        "url": "https://genius.com/artists/Politics-joe"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/387871",
+     "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "id": 387871,
+     "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u201cBoris\u201d Pickett",
+     "url": "https://genius.com/artists/Bobby-boris-pickett"
+    },
+    {
+     "api_path": "/artists/1004092",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "id": 1004092,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leonard L. Capizzi",
+     "url": "https://genius.com/artists/Leonard-l-capizzi"
+    }
+   ],
+   "artist": "Bobby \u201cBoris\u201d Pickett",
+   "lyrics": "37 ContributorsMonster Mash Lyrics[Verse 1]\nI was working in the lab, late one night\nWhen my eyes beheld an eerie sight\nFor my monster from his slab, began to rise\nAnd suddenly to my surprise\n\n[Chorus]\nHe did the mash, he did the monster mash\nThe monster mash, it was a graveyard smash\nHe did the mash, it caught on in a flash\nHe did the mash, he did the monster mash\n[Verse 2]\nFrom my laboratory in the castle east\nTo the master bedroom where the vampires feast\nThe ghouls all came from their humble abodes\nTo get a jolt from my electrodes\n\n[Chorus]\nThey did the mash, they did the monster mash\nThe monster mash, it was a graveyard smash\nThey did the mash, it caught on in a flash\nThey did the mash, they did the monster mash\n\n[Verse 3]\nThe Zombies were having fun, the party had just begun\nThe guests included Wolfman, Dracula, and his son\nThe scene was rockin', all were digging the sounds\nIgor on chains, backed by his baying hounds\nThe coffin-bangers were about to arrive\nWith their vocal group, 'The Crypt-Kicker Five'\n\n[Chorus]\nThey played the mash, they played the monster mash\nThe monster mash, it was a graveyard smash\nThey played the mash, it caught on in a flash\nThey played the mash, they played the monster mash\nYou might also like[Verse 4]\nOut from the coffin', Drac's voice did ring\nSeems he was troubled by just one thing\nHe opened the lid and shook his fist and said\n\"Whatever happened to my Transylvania Twist?\"\nIt's now the mash, it's now the monster mash\nThe monster mash, it was graveyard smash\nIt's now the mash, it caught on in a flash\nIt's now the mash, it's now the monster mash\n\n[Verse 5]\nNow everything's cool, Drac's a part of the band\nAnd my Monster Mash is the hit of the land\nFor you, the living this mash was meant too\nWhen you get to my door, tell them Boris sent you\n\n[Chorus]\nThen you can mash, then you can monster mash\nThe monster mash and do my graveyard smash\nThen you can mash, you'll catch on in a flash\nThen you can mash, then you can monster mash\n\n[Outro]\nIgor: Mash good!\nMad Scientist: Easy, Igor, you impetuous young boy\nIgor: Mash good! Grrr!5Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/1424945",
+   "artist_names": "Bobby \"Boris\" Pickett",
+   "full_title": "Monster's Holiday by\u00a0Bobby\u00a0\"Boris\" Pickett",
+   "header_image_thumbnail_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+   "id": 1424945,
+   "language": "en",
+   "lyrics_owner_id": 930466,
+   "lyrics_state": "complete",
+   "path": "/Bobby-boris-pickett-monsters-holiday-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bobby-boris-pickett-monsters-holiday-sample",
+   "release_date_components": {
+    "year": 1962,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1962",
+   "release_date_with_abbreviated_month_for_display": "1962",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Monster\u2019s Holiday",
+   "title_with_featured": "Monster's Holiday",
+   "url": "https://genius.com/Bobby-boris-pickett-monsters-holiday-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/387871",
+    "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "id": 387871,
+    "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bobby \u201cBoris\u201d Pickett",
+    "url": "https://genius.com/artists/Bobby-boris-pickett"
+   },
+   "apple_music_id": "256225930",
+   "apple_music_player_url": "https://genius.com/songs/1424945/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1424945' class='rg_embed_link' data-song-id='1424945'>Read <a href='https://genius.com/Bobby-boris-pickett-monsters-holiday-lyrics'>\u201cMonster's Holiday\u201d by Bobby\u00a0\"Boris\" Pickett</a> on Genius</div> <script crossorigin src='//genius.com/songs/1424945/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269729",
+    "cover_art_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+    "full_title": "The Original Monster Mash by Bobby \"Boris\" Pickett",
+    "id": 269729,
+    "name": "The Original Monster Mash",
+    "release_date_for_display": "1962",
+    "url": "https://genius.com/albums/Bobby-boris-pickett/The-original-monster-mash",
+    "artist": {
+     "api_path": "/artists/387871",
+     "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "id": 387871,
+     "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u201cBoris\u201d Pickett",
+     "url": "https://genius.com/artists/Bobby-boris-pickett"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5936399",
+    "classification": "needs_exegesis",
+    "fragment": "Monster\u2019s Holiday",
+    "id": 5936399,
+    "is_description": true,
+    "path": "/5936399/Bobby-boris-pickett-monsters-holiday/Monsters-holiday",
+    "range": {
+     "content": "Monster's Holiday"
+    },
+    "song_id": 1424945,
+    "url": "https://genius.com/5936399/Bobby-boris-pickett-monsters-holiday/Monsters-holiday",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1424945",
+     "client_timestamps": {
+      "updated_by_human_at": 1635728356,
+      "lyrics_updated_at": 1635728356
+     },
+     "context": "Bobby \"Boris\" Pickett",
+     "id": 1424945,
+     "image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+     "link_title": "Monster\u2019s Holiday by\u00a0Bobby\u00a0\u201cBoris\u201d Pickett",
+     "title": "Monster's Holiday",
+     "type": "Song",
+     "url": "https://genius.com/Bobby-boris-pickett-monsters-holiday-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5936399",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5936399,
+      "pinned": false,
+      "share_url": "https://genius.com/5936399",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5936399/Bobby-boris-pickett-monsters-holiday/Monsters-holiday",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1004093",
+     "header_image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "id": 1004093,
+     "image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gary S. Paxton",
+     "url": "https://genius.com/artists/Gary-s-paxton"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1059597",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "id": 1059597,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Charles Underwood",
+     "url": "https://genius.com/artists/Charles-underwood"
+    }
+   ],
+   "artist": "Bobby \u201cBoris\u201d Pickett",
+   "lyrics": "1 ContributorMonster\u2019s Holiday LyricsT'was the night before Christmas when all through the castle\nMy monsters were having a Yuletide hassle\nThe tree was all trimmed in ghoulish things\nLike werewolf fangs and vampire wings\n\n(It was a monster's holiday)\nBut they were up to no good\n(It was a monster's holiday)\nDidn't act like good monsters should\n(It was a monster's holiday)\nThey found themselves a new play\n(It was a monster's holiday)\nThey planned to rob Santa's sleigh\nThey were making a list and checking it twice\nFrankenstein wanted a shiny new trike\nA new chain for Janos, a brace for Igor's back\nA speed shaver for Wolfman, a new cape for Drac\n\n(Monster's holiday)\nThey were up to no good\n(It was a monster's holiday)\nDidn't act like good monsters should\n(It was a monster's holiday)\nThey found themselves a new play\n(It was a monster's holiday)\nThey planned to rob Santa's sleigh\n\nThe Mummy was to signal from the castle roof\nAt the very first sound of a reindeer hoof\nAs Santa slid down the chimney wall\nThe zombies were to make off with sleigh and all\n\nFrom beyond the moat, there arose such a clatter\nI jumped to the window to see what was the matter\nLike a bolt of lightning, it happened so quick\nAnd there in our midst stood old Saint Nick\n\nHe began to dig down deep in his sack\nAnd came up with the traction for Igor's back\nDrac got his cape, Frankie's trike made him behave\nEven Wolfman was happy, now he can shave\nYou might also like(Monster's holiday)\nAnd all ended well\n(It was a monster's holiday)\nAnd Santa was really swell\n(It was a monster's holiday)\nNo need to rob Santa's sack\n(It was a monster's holiday)\nMaybe next year, he'll come back\n\nSo the children everywhere were spared the grief\nOf losing their presents to a monster sleigh thief\nNow the monsters love Santa and say they'll behave\nAnd never again rob sleighs or graves\n\n(Monster's holiday)\nIgor, what do you think of Santa now?\n(It was a monster's holiday)\n\"Santa good\"\n(It was a monster's holiday)\nWhat was that he said as he drove out of sight?\n(It was a monster's holiday)\nHo-ho-ho-ho-ho-ho\n(On Dasher, on Dancer, on Prancer and Vixen)\n\"Merry Christmas to all and to all a good night\"\n(On Comet, on Cupid, on Donner and Blitzen)\nJingle bells, jingle bells, jingle all the way\nOh, what fun it is to ride in a one-wolf open sleigh\nWell, dashing through the snow\nWhere is that reindeer with the red nose?\nOn Donner, on Blitzen, on Dancer and VixenEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/1444019",
+   "artist_names": "Bobby \"Boris\" Pickett",
+   "full_title": "Me and My Mummy by\u00a0Bobby\u00a0\"Boris\" Pickett",
+   "header_image_thumbnail_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+   "id": 1444019,
+   "language": "en",
+   "lyrics_owner_id": 930466,
+   "lyrics_state": "complete",
+   "path": "/Bobby-boris-pickett-me-and-my-mummy-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Bobby-boris-pickett-me-and-my-mummy-sample",
+   "release_date_components": {
+    "year": 1962,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1962",
+   "release_date_with_abbreviated_month_for_display": "1962",
+   "song_art_image_thumbnail_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Me and My Mummy",
+   "title_with_featured": "Me and My Mummy",
+   "url": "https://genius.com/Bobby-boris-pickett-me-and-my-mummy-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/387871",
+    "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "id": 387871,
+    "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Bobby \u201cBoris\u201d Pickett",
+    "url": "https://genius.com/artists/Bobby-boris-pickett"
+   },
+   "apple_music_id": "1440723436",
+   "apple_music_player_url": "https://genius.com/songs/1444019/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_1444019' class='rg_embed_link' data-song-id='1444019'>Read <a href='https://genius.com/Bobby-boris-pickett-me-and-my-mummy-lyrics'>\u201cMe and My Mummy\u201d by Bobby\u00a0\"Boris\" Pickett</a> on Genius</div> <script crossorigin src='//genius.com/songs/1444019/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/269729",
+    "cover_art_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+    "full_title": "The Original Monster Mash by Bobby \"Boris\" Pickett",
+    "id": 269729,
+    "name": "The Original Monster Mash",
+    "release_date_for_display": "1962",
+    "url": "https://genius.com/albums/Bobby-boris-pickett/The-original-monster-mash",
+    "artist": {
+     "api_path": "/artists/387871",
+     "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "id": 387871,
+     "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u201cBoris\u201d Pickett",
+     "url": "https://genius.com/artists/Bobby-boris-pickett"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/5956063",
+    "classification": "needs_exegesis",
+    "fragment": "Me and My Mummy",
+    "id": 5956063,
+    "is_description": true,
+    "path": "/5956063/Bobby-boris-pickett-me-and-my-mummy/Me-and-my-mummy",
+    "range": {
+     "content": "Me and My Mummy"
+    },
+    "song_id": 1444019,
+    "url": "https://genius.com/5956063/Bobby-boris-pickett-me-and-my-mummy/Me-and-my-mummy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/1444019",
+     "client_timestamps": {
+      "updated_by_human_at": 1612644167,
+      "lyrics_updated_at": 1552779056
+     },
+     "context": "Bobby \"Boris\" Pickett",
+     "id": 1444019,
+     "image_url": "https://images.genius.com/8c71b16dca10605272b9eeef7faabe8d.331x331x1.jpg",
+     "link_title": "Me and My Mummy by\u00a0Bobby\u00a0\u201cBoris\u201d Pickett",
+     "title": "Me and My Mummy",
+     "type": "Song",
+     "url": "https://genius.com/Bobby-boris-pickett-me-and-my-mummy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5956063",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 5956063,
+      "pinned": false,
+      "share_url": "https://genius.com/5956063",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/5956063/Bobby-boris-pickett-me-and-my-mummy/Me-and-my-mummy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1004093",
+     "header_image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "id": 1004093,
+     "image_url": "https://images.genius.com/38137531837c1a5891d9ef5e16edc694.225x225x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Gary S. Paxton",
+     "url": "https://genius.com/artists/Gary-s-paxton"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1004092",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "id": 1004092,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682970440",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Leonard L. Capizzi",
+     "url": "https://genius.com/artists/Leonard-l-capizzi"
+    },
+    {
+     "api_path": "/artists/387871",
+     "header_image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "id": 387871,
+     "image_url": "https://images.genius.com/32a090e9446a3b52eb4fd9a4423b0b88.417x417x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Bobby \u201cBoris\u201d Pickett",
+     "url": "https://genius.com/artists/Bobby-boris-pickett"
+    }
+   ],
+   "artist": "Bobby \u201cBoris\u201d Pickett",
+   "lyrics": "1 ContributorMe and My Mummy Lyrics(Me and my mummy and\nMe and my mummy and\nMe and my mummy and me\nMe and my mummy and\nMe and my mummy and\nMe and my mummy and me)\n\nI saw the face of the mummy last night\nWell-ell-ell-ell\nI fell in love with this hideous sight\n(Ah) How could it happen?\nHow could it be?\nIt's just me, and my mummy\nMy mummy and me\nIt happened in Egypt\nBy the old river Nile\nWell-ell-ell-ell\nAt the base of the pyramid, she gave me a smile\nDo, do, do, do\n(Ah) The bandage unraveled\nDecayed flesh I did see\nNow, it's me, and my mummy\nMy mummy and me\n\n(Do do do do, do do do do, ah) Flesh like clay, in her tomb, she did lay\n(Do do do do, do do do do, ah) For thousands and thousands of years, well-ell-ell\n(Do do do do, do do do do, ah) I came one day, found her rotting away\n(Ah) And dried all her clay-like tears\nWell-ell-ell-ell-ell-ell-ell-ell\n\nWe married in Cairo, the very next day\nNow outside our crypt, the inscription does say:\n(Ah) \"Here lie two mummies, wrapped close as can be\"\nIt's just me, and my mummy\nMy mummy and me\n\n(Me and my mummy and me and my mummy) I love her so\n(And me and my mummy and me) She's my mummy, you know\n(Me and my mummy and me and my mummy) I can't live without her\n(And me and my mummy and me) She has me all tangled up\n(Me and my mummy and me and my mummy) She's just my girlYou might also likeEmbed"
+  }
+ ]
+}

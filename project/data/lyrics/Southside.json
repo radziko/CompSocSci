@@ -1,0 +1,2080 @@
+{
+ "alternate_names": [
+  "Southside & G Herbo"
+ ],
+ "api_path": "/artists/1537529",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 10,
+ "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+ "id": 1537529,
+ "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": true,
+ "name": "G Herbo & Southside",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/G-herbo-and-southside",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "iq": 100,
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 78276,
+  "annotator_login": "infiniteintellect",
+  "api_path": "/referents/15045079",
+  "classification": "needs_exegesis",
+  "fragment": "G Herbo & Southside",
+  "id": 15045079,
+  "is_description": true,
+  "path": "/15045079/G-herbo-and-southside/G-herbo-and-southside",
+  "range": {
+   "content": "G Herbo & Southside"
+  },
+  "song_id": null,
+  "url": "https://genius.com/15045079/G-herbo-and-southside/G-herbo-and-southside",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1537529",
+   "context": null,
+   "id": 1537529,
+   "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+   "link_title": "G Herbo & Southside",
+   "title": "G Herbo & Southside",
+   "type": "Artist",
+   "url": "https://genius.com/artists/G-herbo-and-southside"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/15045079",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 15045079,
+    "pinned": false,
+    "share_url": "https://genius.com/15045079",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/15045079/G-herbo-and-southside/G-herbo-and-southside",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/78276",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/51ef21d60d5d0356fa62085e670f422c",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/51ef21d60d5d0356fa62085e670f422c",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/51ef21d60d5d0356fa62085e670f422c",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/51ef21d60d5d0356fa62085e670f422c",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/akg2g6i4ik9",
+       "human_readable_role_for_display": "Contributor",
+       "id": 78276,
+       "iq": 87678,
+       "login": "infiniteintellect",
+       "name": "infiniteintellect",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/infiniteintellect",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": {
+  "api_path": "/users/6818143",
+  "avatar": {
+   "tiny": {
+    "url": "https://images.genius.com/avatars/tiny/3b320d819b4533ff07860eec059bafcc",
+    "bounding_box": {
+     "width": 16,
+     "height": 16
+    }
+   },
+   "thumb": {
+    "url": "https://images.genius.com/avatars/thumb/3b320d819b4533ff07860eec059bafcc",
+    "bounding_box": {
+     "width": 32,
+     "height": 32
+    }
+   },
+   "small": {
+    "url": "https://images.genius.com/avatars/small/3b320d819b4533ff07860eec059bafcc",
+    "bounding_box": {
+     "width": 100,
+     "height": 100
+    }
+   },
+   "medium": {
+    "url": "https://images.genius.com/avatars/medium/3b320d819b4533ff07860eec059bafcc",
+    "bounding_box": {
+     "width": 300,
+     "height": 400
+    }
+   }
+  },
+  "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+  "human_readable_role_for_display": "Verified Artist",
+  "id": 6818143,
+  "iq": 100,
+  "login": "gherboandsouthside",
+  "name": "G Herbo & Southside",
+  "role_for_display": "verified_artist",
+  "url": "https://genius.com/gherboandsouthside",
+  "current_user_metadata": {
+   "permissions": [],
+   "excluded_permissions": [
+    "follow"
+   ],
+   "interactions": {
+    "following": false
+   }
+  }
+ },
+ "songs": [
+  {
+   "annotation_count": 5,
+   "api_path": "/songs/3740393",
+   "artist_names": "G Herbo & Southside",
+   "full_title": "Focused by\u00a0G\u00a0Herbo & Southside",
+   "header_image_thumbnail_url": "https://images.genius.com/eb904527c9f9a9234ab3d1abdd44c4b3.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/eb904527c9f9a9234ab3d1abdd44c4b3.500x500x1.jpg",
+   "id": 3740393,
+   "language": "en",
+   "lyrics_owner_id": 3029796,
+   "lyrics_state": "complete",
+   "path": "/G-herbo-and-southside-focused-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/G-herbo-and-southside-focused-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 5,
+    "day": 24
+   },
+   "release_date_for_display": "May 24, 2018",
+   "release_date_with_abbreviated_month_for_display": "May. 24, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/eb904527c9f9a9234ab3d1abdd44c4b3.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/eb904527c9f9a9234ab3d1abdd44c4b3.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 2,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 103145
+   },
+   "title": "Focused",
+   "title_with_featured": "Focused",
+   "url": "https://genius.com/G-herbo-and-southside-focused-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1537529",
+    "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+    "id": 1537529,
+    "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "G Herbo & Southside",
+    "url": "https://genius.com/artists/G-herbo-and-southside",
+    "iq": 100
+   },
+   "apple_music_id": "1413596630",
+   "apple_music_player_url": "https://genius.com/songs/3740393/apple_music_player",
+   "description": {
+    "plain": "\u201cFocused\u201d is the penultimate track on Swervo. Herbo released the song as a single on May 24, 2018.\n\nOn the song, Herbo talks about his come-up and how he has to stay focused to continue to succeed."
+   },
+   "embed_content": "<div id='rg_embed_link_3740393' class='rg_embed_link' data-song-id='3740393'>Read <a href='https://genius.com/G-herbo-and-southside-focused-lyrics'>\u201cFocused\u201d by G\u00a0Herbo & Southside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3740393/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-05-24",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/398069",
+    "cover_art_url": "https://images.genius.com/1ca60e4882e9c66bfd79b64baf1a8947.1000x1000x1.png",
+    "full_title": "Swervo by G Herbo & Southside",
+    "id": 398069,
+    "name": "Swervo",
+    "release_date_for_display": "July 27, 2018",
+    "url": "https://genius.com/albums/G-herbo-and-southside/Swervo",
+    "artist": {
+     "api_path": "/artists/1537529",
+     "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+     "id": 1537529,
+     "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo & Southside",
+     "url": "https://genius.com/artists/G-herbo-and-southside",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/6021",
+       "header_image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+       "id": 6021,
+       "image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Jake One",
+       "url": "https://genius.com/artists/Jake-one"
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1165942",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1165942,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Salvador Majail",
+       "url": "https://genius.com/artists/Salvador-majail"
+      }
+     ]
+    },
+    {
+     "label": "Artwork",
+     "artists": [
+      {
+       "api_path": "/artists/1537214",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 1537214,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TeeJay Spencer",
+       "url": "https://genius.com/artists/Teejay-spencer"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 6224492,
+    "annotator_login": "Grande_Kells",
+    "api_path": "/referents/14634579",
+    "classification": "accepted",
+    "fragment": "Focused",
+    "id": 14634579,
+    "is_description": true,
+    "path": "/14634579/G-herbo-and-southside-focused/Focused",
+    "range": {
+     "content": "Focused"
+    },
+    "song_id": 3740393,
+    "url": "https://genius.com/14634579/G-herbo-and-southside-focused/Focused",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3740393",
+     "client_timestamps": {
+      "updated_by_human_at": 1630105068,
+      "lyrics_updated_at": 1630105068
+     },
+     "context": "G Herbo & Southside",
+     "id": 3740393,
+     "image_url": "https://images.genius.com/eb904527c9f9a9234ab3d1abdd44c4b3.500x500x1.jpg",
+     "link_title": "Focused by\u00a0G\u00a0Herbo & Southside",
+     "title": "Focused",
+     "type": "Song",
+     "url": "https://genius.com/G-herbo-and-southside-focused-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14634579",
+      "body": {
+       "plain": "\u201cFocused\u201d is the penultimate track on Swervo. Herbo released the song as a single on May 24, 2018.\n\nOn the song, Herbo talks about his come-up and how he has to stay focused to continue to succeed."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14634579,
+      "pinned": false,
+      "share_url": "https://genius.com/14634579",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/14634579/G-herbo-and-southside-focused/Focused",
+      "verified": false,
+      "votes_total": 5,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 0.9729729729729729,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/427740",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/98da1237cc15b84540a205c92d1c849d.1000x1000x1.png",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/07830534fd792498abeaa68622ca801c.1000x223x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 427740,
+         "iq": 311430,
+         "login": "yxng-nate",
+         "name": "Nathaniel Hall",
+         "role_for_display": "editor",
+         "url": "https://genius.com/yxng-nate",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       },
+       {
+        "attribution": 0.027027027027027025,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/6224492",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/8f27afd8727bc24aeb5cac904473582e",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/8f27afd8727bc24aeb5cac904473582e",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/8f27afd8727bc24aeb5cac904473582e",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/8f27afd8727bc24aeb5cac904473582e",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/8f27afd8727bc24aeb5cac904473582e",
+         "human_readable_role_for_display": null,
+         "id": 6224492,
+         "iq": 115,
+         "login": "Grande_Kells",
+         "name": "Grande_Kells",
+         "role_for_display": null,
+         "url": "https://genius.com/Grande_Kells",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "gherbo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gherbo/focused-produced-by-southside"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=YwtPnJHQrUQ"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/6021",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+     "id": 6021,
+     "image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake One",
+     "url": "https://genius.com/artists/Jake-one"
+    },
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/6501019",
+       "artist_names": "Sleepy Hallow",
+       "full_title": "Focused (Remix) (Unreleased) by\u00a0Sleepy\u00a0Hallow",
+       "header_image_thumbnail_url": "https://images.genius.com/65592d4c2b3fd04d83e5651e8f59d1a4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/65592d4c2b3fd04d83e5651e8f59d1a4.1000x1000x1.jpg",
+       "id": 6501019,
+       "language": "en",
+       "lyrics_owner_id": 2798051,
+       "lyrics_state": "complete",
+       "path": "/Sleepy-hallow-focused-remix-unreleased-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Sleepy-hallow-focused-remix-unreleased-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/65592d4c2b3fd04d83e5651e8f59d1a4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/65592d4c2b3fd04d83e5651e8f59d1a4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Focused (Remix) (Unreleased)",
+       "title_with_featured": "Focused (Remix) (Unreleased)",
+       "url": "https://genius.com/Sleepy-hallow-focused-remix-unreleased-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1200233",
+        "header_image_url": "https://images.genius.com/61f25a0f06e766f9c89702b989fd61dd.987x1000x1.jpg",
+        "id": 1200233,
+        "image_url": "https://images.genius.com/65592d4c2b3fd04d83e5651e8f59d1a4.1000x1000x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": true,
+        "name": "Sleepy Hallow",
+        "url": "https://genius.com/artists/Sleepy-hallow",
+        "iq": 185
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/6021",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+     "id": 6021,
+     "image_url": "https://s3.amazonaws.com/rapgenius/jake_one_003.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jake One",
+     "url": "https://genius.com/artists/Jake-one"
+    },
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/32397",
+     "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+     "id": 32397,
+     "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo",
+     "url": "https://genius.com/artists/G-herbo",
+     "iq": 1011
+    }
+   ],
+   "artist": "G Herbo & Southside",
+   "lyrics": "24 ContributorsFocused Lyrics[Intro]\nYeah, Swervo\nYou know I'm in Miami right now, this the Miami section (Swervo)\nIt's the L.A. section, Chiraq section, you know?\nAtlanta section\nMan, my niggas [?] dollars, you know\nWe on that gang shit, 150 Dream Team\nYou know we on all that fly shit, too, man\nStay rockin' G Fazos, we got a hunnid G Fazos\nPut the Maison Margiela's on, we callin' them the caps\n[Verse]\nI rock that Gucci shit and Prada (ayy)\nHit the scene lookin' like a million dollars\nI was dead broke, made no excuses\nFuck nigga, I don't wanna hear about it ('bout it)\nI was on the block, you ain't care 'bout it\nWhen they killed Roc you ain't care 'bout it (care 'bout it)\nNow I'm on top, tell me how, nigga lookin' for me\nTurn my phone off on everybody\nSince they killed Cap, I been B's, B's\nFlame the opps up with a red lighter\nKeep your bitch on her knees\nShe ain't got potential to wife her but fuck it, her head like it (woo)\nBitch ain't fuckin', why you on my bed like it?\nCan't chill tonight, she'll get excited (bitch)\nWhen the cops come, yeah, you better hide it (bitch)\nBitch, don't come here 'less you're invited (bitch)\nYeah, it's that nigga again, that lil' nigga again, back on business again, ayy\nHandle your business, young man, how you do all that shit independent, and win? Ayy\nCount up them digits again, every month I get residuals in\nHere for the hustlers, stack all the shit that come in, and take care of your mama (take care of your mama)\nTake care of your children, take care of your niggas, stay out that drama (for real)\nGo watch everybody, the moment they do somethin' funny, then fuck 'em (for real)\nNigga run up on you, then buck it (for real)\nKill a fuck nigga, it's nothin' (ayy)\nWanna run with me? It's nothin'\nRan it up, a milli with nothin' (with nothin')\nI don't cooperate with the police, I ain't tellin' 'em nothin' (I ain't tellin' 'em nothin')\nI'ma blow this bitch in public, fuck it\nYeah, that ain't no discussion\nI ain't with none of the bluffin'\nI ain't with the yellin' and arguin', fightin' and tusslin' (at all)\nI'ma just up, get to bustin', buyin' out whatever, who want it? (who want it?)\nNigga want smoke, we on it (we on it)\nI don't never see no opponents (I don't never see no opponents)\nThat's how I went and got what I wanted\nThat's why I spent racks when I want it (spent racks when I want it)\nNigga reach for my piece, he a goner (get gunned)\nI dare a fuck nigga who wanna? (wanna, yeah)\nAnd I put in work by my lonely (my lonely)\nGet put on a shirt if you wanna (get put on a shirt)\nWhole lotta haters, I know it (I know)\nWish I still had work on the corner (wish I had work on the corner)\nI know it bring problems, money (money)\nIn the stu', gotta lil' twenty on me (gotta lil' twenty on me)\nIn the field gotta watch for the phonies\nKobe told me to watch for the homies\nMan right now I just gotta stay focused (stay focused)\nThen put somethin' on the block for the homies (uh)\nYou might also like[Chorus]\nTell all my real niggas, \"stay focused\" (stay focused)\nAll my niggas fightin' time, stay focused (they focused)\nIf you do it for the fam, stay focused (stay focused)\nTryna slam a lil' cuz, they bogus (they bogus)\nOut my room window, see lakes and the ocean\n'Member couldn't sleep, seein' rats and roaches (seein' rats and roaches)\nYeah, but let you tell, nigga, it was all fame and fortune (it was all fame and fortune)\nTell all my real niggas, \"stay focused\" (stay focused)\nAll my niggas fightin' time, stay focused (they focused)\nIf you do it for the fam, stay focused (stay focused)\nTryna slam a lil' cuz, they bogus (they bogus)\nOut my room window, see lakes and the ocean\n'Member couldn't sleep, seein' rats and roaches (seein' rats and roaches)\nYeah, but let you tell, nigga, it was all fame and fortune (it was all fame and fortune)Embed"
+  },
+  {
+   "annotation_count": 19,
+   "api_path": "/songs/3137998",
+   "artist_names": "G Herbo & Southside",
+   "full_title": "Swervo by\u00a0G\u00a0Herbo & Southside",
+   "header_image_thumbnail_url": "https://images.genius.com/9322706088cb982316133ecf55bb67c1.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/9322706088cb982316133ecf55bb67c1.1000x1000x1.jpg",
+   "id": 3137998,
+   "language": "en",
+   "lyrics_owner_id": 3693243,
+   "lyrics_state": "complete",
+   "path": "/G-herbo-and-southside-swervo-lyrics",
+   "pyongs_count": 4,
+   "relationships_index_url": "https://genius.com/G-herbo-and-southside-swervo-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 6,
+    "day": 21
+   },
+   "release_date_for_display": "June 21, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jun. 21, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/9322706088cb982316133ecf55bb67c1.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/9322706088cb982316133ecf55bb67c1.1000x1000x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 20,
+    "iq_earners": 20,
+    "transcribers": 3,
+    "unreviewed_annotations": 5,
+    "verified_annotations": 14,
+    "hot": false,
+    "pageviews": 102329
+   },
+   "title": "Swervo",
+   "title_with_featured": "Swervo",
+   "url": "https://genius.com/G-herbo-and-southside-swervo-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1537529",
+    "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+    "id": 1537529,
+    "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "G Herbo & Southside",
+    "url": "https://genius.com/artists/G-herbo-and-southside",
+    "iq": 100
+   },
+   "apple_music_id": "1413595750",
+   "apple_music_player_url": "https://genius.com/songs/3137998/apple_music_player",
+   "description": {
+    "plain": "\u201cSwervo\u201d is a single dropped to allude to the long anticipated mixtape collab of producer Southside & Chiraq native, G Herbo entitled Swervo. This duo has been talking about the upcoming album since 2016."
+   },
+   "embed_content": "<div id='rg_embed_link_3137998' class='rg_embed_link' data-song-id='3137998'>Read <a href='https://genius.com/G-herbo-and-southside-swervo-lyrics'>\u201cSwervo\u201d by G\u00a0Herbo & Southside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3137998/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-06-21",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/398069",
+    "cover_art_url": "https://images.genius.com/1ca60e4882e9c66bfd79b64baf1a8947.1000x1000x1.png",
+    "full_title": "Swervo by G Herbo & Southside",
+    "id": 398069,
+    "name": "Swervo",
+    "release_date_for_display": "July 27, 2018",
+    "url": "https://genius.com/albums/G-herbo-and-southside/Swervo",
+    "artist": {
+     "api_path": "/artists/1537529",
+     "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+     "id": 1537529,
+     "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo & Southside",
+     "url": "https://genius.com/artists/G-herbo-and-southside",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/27486",
+       "header_image_url": "https://images.genius.com/52f879e6a834dd8c17927b55e6edd37b.400x400x1.jpg",
+       "id": 27486,
+       "image_url": "https://images.genius.com/5c52b5f1eb9a2fb624f1040814d33e5e.487x487x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TM88",
+       "url": "https://genius.com/artists/Tm88"
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/2234562",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234562,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Paycheck Publishing Group",
+       "url": "https://genius.com/artists/Paycheck-publishing-group"
+      },
+      {
+       "api_path": "/artists/1039843",
+       "header_image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+       "id": 1039843,
+       "image_url": "https://images.genius.com/95537b6b72e2ee923324f2635cc9e823.1000x563x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG Platinum Songs",
+       "url": "https://genius.com/artists/Bmg-platinum-songs"
+      },
+      {
+       "api_path": "/artists/2234563",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234563,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "TM88 Music",
+       "url": "https://genius.com/artists/Tm88-music"
+      },
+      {
+       "api_path": "/artists/1011919",
+       "header_image_url": "https://images.genius.com/054a299c5a9e0961dfa43145a8665744.1000x465x1.png",
+       "id": 1011919,
+       "image_url": "https://images.genius.com/d7674e632d4ffeb66c78b9a2ec56f32e.400x400x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMG",
+       "url": "https://genius.com/artists/Bmg"
+      },
+      {
+       "api_path": "/artists/1152704",
+       "header_image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "id": 1152704,
+       "image_url": "https://images.genius.com/ac0e7dd9b06ef2e9791708a25eb9c91e.303x303x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner/Chappell",
+       "url": "https://genius.com/artists/Warner-chappell"
+      },
+      {
+       "api_path": "/artists/1100826",
+       "header_image_url": "https://images.genius.com/ead8e0ff35bebd70e405e5dedbf64dee.1000x338x1.jpg",
+       "id": 1100826,
+       "image_url": "https://images.genius.com/33b239bfa439b9729eebf2df36a4fe62.585x585x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "New World Music",
+       "url": "https://genius.com/artists/New-world-music"
+      },
+      {
+       "api_path": "/artists/1112276",
+       "header_image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "id": 1112276,
+       "image_url": "https://images.genius.com/216b858e2ab39c9e230ced74ae3831e9.960x960x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner Music Group",
+       "url": "https://genius.com/artists/Warner-music-group"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      },
+      {
+       "api_path": "/artists/2234786",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "id": 2234786,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Royal Legend Publishing",
+       "url": "https://genius.com/artists/Royal-legend-publishing"
+      }
+     ]
+    },
+    {
+     "label": "Primary Artists",
+     "artists": [
+      {
+       "api_path": "/artists/23315",
+       "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+       "id": 23315,
+       "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Southside",
+       "url": "https://genius.com/artists/Southside",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/32397",
+       "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+       "id": 32397,
+       "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "G Herbo",
+       "url": "https://genius.com/artists/G-herbo",
+       "iq": 1011
+      }
+     ]
+    },
+    {
+     "label": "Recording Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1233151",
+       "header_image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "id": 1233151,
+       "image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Max Lord",
+       "url": "https://genius.com/artists/Max-lord"
+      }
+     ]
+    },
+    {
+     "label": "Mastering Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1233151",
+       "header_image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "id": 1233151,
+       "image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Max Lord",
+       "url": "https://genius.com/artists/Max-lord"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1233151",
+       "header_image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "id": 1233151,
+       "image_url": "https://images.genius.com/aab0865f621fbad86c84e0f7cc899285.477x477x1.png",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Max Lord",
+       "url": "https://genius.com/artists/Max-lord"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3015793,
+    "annotator_login": "itsparade",
+    "api_path": "/referents/14825887",
+    "classification": "unreviewed",
+    "fragment": "Swervo",
+    "id": 14825887,
+    "is_description": true,
+    "path": "/14825887/G-herbo-and-southside-swervo/Swervo",
+    "range": {
+     "content": "Swervo"
+    },
+    "song_id": 3137998,
+    "url": "https://genius.com/14825887/G-herbo-and-southside-swervo/Swervo",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3137998",
+     "client_timestamps": {
+      "updated_by_human_at": 1625868664,
+      "lyrics_updated_at": 1625868664
+     },
+     "context": "G Herbo & Southside",
+     "id": 3137998,
+     "image_url": "https://images.genius.com/9322706088cb982316133ecf55bb67c1.1000x1000x1.jpg",
+     "link_title": "Swervo by\u00a0G\u00a0Herbo & Southside",
+     "title": "Swervo",
+     "type": "Song",
+     "url": "https://genius.com/G-herbo-and-southside-swervo-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14825887",
+      "body": {
+       "plain": "\u201cSwervo\u201d is a single dropped to allude to the long anticipated mixtape collab of producer Southside & Chiraq native, G Herbo entitled Swervo. This duo has been talking about the upcoming album since 2016."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 14825887,
+      "pinned": false,
+      "share_url": "https://genius.com/14825887",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/14825887/G-herbo-and-southside-swervo/Swervo",
+      "verified": false,
+      "votes_total": 6,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3015793",
+         "avatar": {
+          "tiny": {
+           "url": "https://assets.genius.com/images/default_avatar_16.png?1682450960",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://assets.genius.com/images/default_avatar_32.png?1682450960",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://assets.genius.com/images/default_avatar_100.png?1682450960",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1682450960",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3015793,
+         "iq": 419,
+         "login": "itsparade",
+         "name": "itsparade",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/itsparade",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:595vflBj4bSo5gjAYW17ob",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/595vflBj4bSo5gjAYW17ob"
+    },
+    {
+     "attribution": "gherbo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gherbo/swervo"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ZSKEihd7Vlg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/27486",
+     "header_image_url": "https://images.genius.com/52f879e6a834dd8c17927b55e6edd37b.400x400x1.jpg",
+     "id": 27486,
+     "image_url": "https://images.genius.com/5c52b5f1eb9a2fb624f1040814d33e5e.487x487x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TM88",
+     "url": "https://genius.com/artists/Tm88"
+    },
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [
+    {
+     "api_path": "/users/5218611",
+     "avatar": {
+      "tiny": {
+       "url": "https://images.genius.com/avatars/tiny/6c52e872c3e188816815598b39be2542",
+       "bounding_box": {
+        "width": 16,
+        "height": 16
+       }
+      },
+      "thumb": {
+       "url": "https://images.genius.com/avatars/thumb/6c52e872c3e188816815598b39be2542",
+       "bounding_box": {
+        "width": 32,
+        "height": 32
+       }
+      },
+      "small": {
+       "url": "https://images.genius.com/avatars/small/6c52e872c3e188816815598b39be2542",
+       "bounding_box": {
+        "width": 100,
+        "height": 100
+       }
+      },
+      "medium": {
+       "url": "https://images.genius.com/avatars/medium/6c52e872c3e188816815598b39be2542",
+       "bounding_box": {
+        "width": 300,
+        "height": 400
+       }
+      }
+     },
+     "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+     "human_readable_role_for_display": "Verified Artist",
+     "id": 5218611,
+     "iq": 1011,
+     "login": "thegherbo",
+     "name": "G Herbo",
+     "role_for_display": "verified_artist",
+     "url": "https://genius.com/thegherbo",
+     "current_user_metadata": {
+      "permissions": [],
+      "excluded_permissions": [
+       "follow"
+      ],
+      "interactions": {
+       "following": false
+      }
+     }
+    }
+   ],
+   "verified_contributors": [
+    {
+     "contributions": [
+      "annotations",
+      "answers"
+     ],
+     "artist": {
+      "api_path": "/artists/32397",
+      "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+      "id": 32397,
+      "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "G Herbo",
+      "url": "https://genius.com/artists/G-herbo",
+      "iq": 1011
+     },
+     "user": {
+      "api_path": "/users/5218611",
+      "avatar": {
+       "tiny": {
+        "url": "https://images.genius.com/avatars/tiny/6c52e872c3e188816815598b39be2542",
+        "bounding_box": {
+         "width": 16,
+         "height": 16
+        }
+       },
+       "thumb": {
+        "url": "https://images.genius.com/avatars/thumb/6c52e872c3e188816815598b39be2542",
+        "bounding_box": {
+         "width": 32,
+         "height": 32
+        }
+       },
+       "small": {
+        "url": "https://images.genius.com/avatars/small/6c52e872c3e188816815598b39be2542",
+        "bounding_box": {
+         "width": 100,
+         "height": 100
+        }
+       },
+       "medium": {
+        "url": "https://images.genius.com/avatars/medium/6c52e872c3e188816815598b39be2542",
+        "bounding_box": {
+         "width": 300,
+         "height": 400
+        }
+       }
+      },
+      "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+      "human_readable_role_for_display": "Verified Artist",
+      "id": 5218611,
+      "iq": 1011,
+      "login": "thegherbo",
+      "name": "G Herbo",
+      "role_for_display": "verified_artist",
+      "url": "https://genius.com/thegherbo",
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "follow"
+       ],
+       "interactions": {
+        "following": false
+       }
+      }
+     }
+    }
+   ],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/27486",
+     "header_image_url": "https://images.genius.com/52f879e6a834dd8c17927b55e6edd37b.400x400x1.jpg",
+     "id": 27486,
+     "image_url": "https://images.genius.com/5c52b5f1eb9a2fb624f1040814d33e5e.487x487x1.png",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "TM88",
+     "url": "https://genius.com/artists/Tm88"
+    },
+    {
+     "api_path": "/artists/32397",
+     "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+     "id": 32397,
+     "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo",
+     "url": "https://genius.com/artists/G-herbo",
+     "iq": 1011
+    }
+   ],
+   "artist": "G Herbo & Southside",
+   "lyrics": "20 ContributorsSwervo Lyrics[Intro]\nSwervo, ayy\n\n[Chorus]\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nYour bitch wanna fuck 'cause I'm Swervo\nI drive nuts 'cause I'm Swervo\nGot the whip with the clutch and the turbo\nSpent six bucks on a fur coat\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nMy name's Swervo 'cause I be the G (G Herbo)\nUsed to do shows for a G\nCame from toting gats over east\nI'ma spend 30 racks on a piece\n[Verse 1]\nG Swervo, I keep a meat roll\nDracos under the peacoat\nHeard the police was looking for me though\nBut I'm on a PJ with Squeezo\nRemember I was just living illegal\nNow the kids look at me like a hero\nTold them I was just like 'em once before\nNow my account got some commas and zeros\nWe ain't living on welfare no more\nIm eating steak at the bistro\nForeign coupe with a red head lil ho\nLemme pull on her hair while she deepthroat\nAnd I'm from Chiraq where it go down\nYoung nigga sheisty and low down\nI'ma pull up and aim at your forehead\nI took a foot shot with a four-oh round\nYeah you know I bounce back with that lil shot\nShit if you ask me it was a good shot\nI'm from the 9, sendin' shots straight to the 5\nYeah I'ma call it a hook shot\nAnd when I ride, 40 Glock right by my side\nFly past your whip, get your hood shot\nFind out where a nigga hang, slide with the gang\nFuck around get your whole hood shot\nYou might also like[Chorus]\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nYour bitch wanna fuck 'cause I'm Swervo\nI drive nuts 'cause I'm Swervo\nGot the whip with the clutch and the turbo\nSpent six bucks on a fur coat\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nMy name's Swervo 'cause I be the G (G Herbo)\nUsed to do shows for a G\nCame from toting gats over east\nI'ma spend 30 racks on a piece\n\n[Verse 2]\nUsed to eat fried bologna, now I'm eating Rigatoni\nG Wag' with my homies, might ride by my lonely\nTwo door with my bitch, me, her, and my stick\nShe tryna suck my dick, we got limo tint\nAnd the Posto lit, AC out the vent\nTraphouse pay the rent, P serves off the Sprint\nRap pay my mama rent, YouTube pay my ho rent\nMerch will pay your ho rent, iTunes pay some more shit\nHumble Beast, that's Herbo, Swervo talk that dope shit\nSwervo talk that cash shit, money in that bag shit\nSpent two K for these Versace glasses, on my swag shit\nThey call me Swervo 'cause I did that when I crashed my last whip\n[Chorus]\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nYour bitch wanna fuck 'cause I'm Swervo\nI drive nuts 'cause I'm Swervo\nGot the whip with the clutch and the turbo\nSpent six bucks on a fur coat\nSwervo, Swervo, Swervo, Swervo\nSwervo, Swervo, Swervo, Swervo\nMy name's Swervo 'cause I be the G (G Herbo)\nUsed to do shows for a G\nCame from toting gats over east\nI'ma spend 30 racks on a piece4Embed"
+  },
+  {
+   "annotation_count": 2,
+   "api_path": "/songs/3849567",
+   "artist_names": "G Herbo & Southside",
+   "full_title": "Some Nights by\u00a0G\u00a0Herbo & Southside",
+   "header_image_thumbnail_url": "https://images.genius.com/732d8283316a6d9cdf77004b7fa246fe.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/732d8283316a6d9cdf77004b7fa246fe.640x640x1.jpg",
+   "id": 3849567,
+   "language": "en",
+   "lyrics_owner_id": 78276,
+   "lyrics_state": "complete",
+   "path": "/G-herbo-and-southside-some-nights-lyrics",
+   "pyongs_count": 2,
+   "relationships_index_url": "https://genius.com/G-herbo-and-southside-some-nights-sample",
+   "release_date_components": {
+    "year": 2018,
+    "month": 7,
+    "day": 25
+   },
+   "release_date_for_display": "July 25, 2018",
+   "release_date_with_abbreviated_month_for_display": "Jul. 25, 2018",
+   "song_art_image_thumbnail_url": "https://images.genius.com/732d8283316a6d9cdf77004b7fa246fe.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/732d8283316a6d9cdf77004b7fa246fe.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 24,
+    "iq_earners": 24,
+    "transcribers": 4,
+    "unreviewed_annotations": 2,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 82142
+   },
+   "title": "Some Nights",
+   "title_with_featured": "Some Nights",
+   "url": "https://genius.com/G-herbo-and-southside-some-nights-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1537529",
+    "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+    "id": 1537529,
+    "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": true,
+    "name": "G Herbo & Southside",
+    "url": "https://genius.com/artists/G-herbo-and-southside",
+    "iq": 100
+   },
+   "apple_music_id": "1413595739",
+   "apple_music_player_url": "https://genius.com/songs/3849567/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3849567' class='rg_embed_link' data-song-id='3849567'>Read <a href='https://genius.com/G-herbo-and-southside-some-nights-lyrics'>\u201cSome Nights\u201d by G\u00a0Herbo & Southside</a> on Genius</div> <script crossorigin src='//genius.com/songs/3849567/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2018-07-25",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/398069",
+    "cover_art_url": "https://images.genius.com/1ca60e4882e9c66bfd79b64baf1a8947.1000x1000x1.png",
+    "full_title": "Swervo by G Herbo & Southside",
+    "id": 398069,
+    "name": "Swervo",
+    "release_date_for_display": "July 27, 2018",
+    "url": "https://genius.com/albums/G-herbo-and-southside/Swervo",
+    "artist": {
+     "api_path": "/artists/1537529",
+     "header_image_url": "https://images.genius.com/b3a13f1d880f650bc1129382750fb074.1000x1000x1.jpg",
+     "id": 1537529,
+     "image_url": "https://images.genius.com/4db12207fa8a3d3be9d566ccf2badb4a.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo & Southside",
+     "url": "https://genius.com/artists/G-herbo-and-southside",
+     "iq": 100
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Co-Producer",
+     "artists": [
+      {
+       "api_path": "/artists/165540",
+       "header_image_url": "https://images.genius.com/871ae5c80e840a78f535516364d00f22.1000x667x1.jpg",
+       "id": 165540,
+       "image_url": "https://images.genius.com/c46a360ab359723437cc421f44497be5.750x750x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Chopsquad DJ",
+       "url": "https://genius.com/artists/Chopsquad-dj",
+       "iq": 147
+      }
+     ]
+    },
+    {
+     "label": "Primary Artists",
+     "artists": [
+      {
+       "api_path": "/artists/23315",
+       "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+       "id": 23315,
+       "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "Southside",
+       "url": "https://genius.com/artists/Southside",
+       "iq": 100
+      },
+      {
+       "api_path": "/artists/32397",
+       "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+       "id": 32397,
+       "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": true,
+       "name": "G Herbo",
+       "url": "https://genius.com/artists/G-herbo",
+       "iq": 1011
+      }
+     ]
+    },
+    {
+     "label": "Performance Rights",
+     "artists": [
+      {
+       "api_path": "/artists/551598",
+       "header_image_url": "https://images.genius.com/067d9bccf2ab6e5eded129861b73d9dc.851x315x1.jpg",
+       "id": 551598,
+       "image_url": "https://images.genius.com/5f24e8e67904faef419d736f2ade3f78.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "ASCAP",
+       "url": "https://genius.com/artists/Ascap"
+      },
+      {
+       "api_path": "/artists/1138091",
+       "header_image_url": "https://images.genius.com/5b84dbf7ba86e59c297143f076a56c9a.1000x1000x1.jpg",
+       "id": 1138091,
+       "image_url": "https://images.genius.com/051b0a6beabf8a9eb8768e9f874a542f.1000x1000x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "BMI",
+       "url": "https://genius.com/artists/Bmi"
+      }
+     ]
+    },
+    {
+     "label": "Publisher",
+     "artists": [
+      {
+       "api_path": "/artists/1431780",
+       "header_image_url": "https://images.genius.com/2a727049f6da89bfa7799c30cf239302.1000x563x1.jpg",
+       "id": 1431780,
+       "image_url": "https://images.genius.com/cdd4135b1553d39e50f0abbea160f96c.500x500x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Machine Entertainment Group",
+       "url": "https://genius.com/artists/Machine-entertainment-group"
+      },
+      {
+       "api_path": "/artists/992219",
+       "header_image_url": "https://images.genius.com/a43ed819378fccdad8a80cad050f2029.768x433x1.jpg",
+       "id": 992219,
+       "image_url": "https://images.genius.com/8af7bba6ca0c481513ffe4b4ab87e347.314x314x1.jpg",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Warner-Tamerlane Publishing Corp.",
+       "url": "https://genius.com/artists/Warner-tamerlane-publishing-corp"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1798850,
+    "annotator_login": "m_brgndi",
+    "api_path": "/referents/16414852",
+    "classification": "needs_exegesis",
+    "fragment": "Some Nights",
+    "id": 16414852,
+    "is_description": true,
+    "path": "/16414852/G-herbo-and-southside-some-nights/Some-nights",
+    "range": {
+     "content": "Some Nights"
+    },
+    "song_id": 3849567,
+    "url": "https://genius.com/16414852/G-herbo-and-southside-some-nights/Some-nights",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3849567",
+     "client_timestamps": {
+      "updated_by_human_at": 1634738009,
+      "lyrics_updated_at": 1634738009
+     },
+     "context": "G Herbo & Southside",
+     "id": 3849567,
+     "image_url": "https://images.genius.com/732d8283316a6d9cdf77004b7fa246fe.640x640x1.jpg",
+     "link_title": "Some Nights by\u00a0G\u00a0Herbo & Southside",
+     "title": "Some Nights",
+     "type": "Song",
+     "url": "https://genius.com/G-herbo-and-southside-some-nights-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16414852",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16414852,
+      "pinned": false,
+      "share_url": "https://genius.com/16414852",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/16414852/G-herbo-and-southside-some-nights/Some-nights",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1798850",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/029fbdf1c037b96f4cdc4ddf734c1630",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/029fbdf1c037b96f4cdc4ddf734c1630",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/029fbdf1c037b96f4cdc4ddf734c1630",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/029fbdf1c037b96f4cdc4ddf734c1630",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/029fbdf1c037b96f4cdc4ddf734c1630",
+         "human_readable_role_for_display": "Editor",
+         "id": 1798850,
+         "iq": 69177,
+         "login": "m_brgndi",
+         "name": "\u200bm.brgndi",
+         "role_for_display": "editor",
+         "url": "https://genius.com/m_brgndi",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "gherbo",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/gherbo/some-nights-intro"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=-aJGMCUAXPs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/165540",
+     "header_image_url": "https://images.genius.com/871ae5c80e840a78f535516364d00f22.1000x667x1.jpg",
+     "id": 165540,
+     "image_url": "https://images.genius.com/c46a360ab359723437cc421f44497be5.750x750x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Chopsquad DJ",
+     "url": "https://genius.com/artists/Chopsquad-dj",
+     "iq": 147
+    },
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/23315",
+     "header_image_url": "https://images.genius.com/e4df1156fd8ecb8dfec2d278098bc6cd.650x430x1.png",
+     "id": 23315,
+     "image_url": "https://images.genius.com/4aafba6bdefe067064ef8448e66fd8a8.429x429x1.png",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "Southside",
+     "url": "https://genius.com/artists/Southside",
+     "iq": 100
+    },
+    {
+     "api_path": "/artists/32397",
+     "header_image_url": "https://images.genius.com/dea7caf40b79782d5339f468dffd45e0.630x420x1.jpg",
+     "id": 32397,
+     "image_url": "https://images.genius.com/910ed08cc34641e27befd74b7e35304f.480x480x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": true,
+     "name": "G Herbo",
+     "url": "https://genius.com/artists/G-herbo",
+     "iq": 1011
+    }
+   ],
+   "artist": "G Herbo & Southside",
+   "lyrics": "24 ContributorsSome Nights Lyrics[Intro]\nScared I wasn't gon' make it home some nights\nWondering, \"Am I gon' be a homicide?\"\nKill you quick if I decide\nCrazy, guess I get that from my mama side\nNiggas beef with us, don't even come outside\n30 in the Glock, I keep that on my side\nAin't no questioning, my nigga, I'ma ride (Southside)\nOut there like some monkey bars, I'ma slide\nI know one day I'ma die\nMade some millions for my son so I'm a'ight\nAnd I'm in that Bentley truck that's parked right outside\nI know one day I'ma die, but right now I'm alive\nNeed a Purple Heart for the shit that I survived\nBetter be alert if ever you and I collide\nAnd I ain't limiting myself to shit, I gotta strive\nIt look like a light show when I arrive (ChopsquadDJ on the beat, so it's a banger)\n[Verse]\nStraight up out the trenches\nHad to squeeze that bitch least one time\nMe and all my niggas\nWe was young and dumb, I ain't know how to fucking listen\nSo pay attention, hopefully I get to teach you different\nAll you young niggas wild 'til you meet the district\nHe ain't even get due process and this nigga snitching\nGet around a nigga like me and they turn bitches\nHe ain't never did no street shit, I see through him instantly\nGotta take everything come with this shit, you gon' be like that\nGotta have that bail money, gotta be ready to fight that\nBlood ties with my niggas, I got shot with Project\nMally, he was with me, too, but we did dirt on top of that\nMy left pocket, wasn't no phone in it, my baby Glock in there\nSummer Jam in front of 20,000, I wish Roc was there\nSeen't you in there witcho bop, you know I got the top from her\nAnyway, that's off the topic\nWe talking 'bout them blocks, shootouts, and Glocks\nAnd what about the opps?\nShit, what 'bout the opps?\nShit, what 'bout they bops?\nWhat pop out they top?\nGang, you know how we rock\nIn clubs, am I not?\nAt shows, am I not?\nIced up, am I not?\nAmiri's with knots\nI ain't hard to find\nAll you gotta do is apply\nI'm ready when you are\nRiding back to back, two blacks, we like the mini bar\nLotta shots, keep one up top, send them bitches at any car\nAyy, ayy\nAnd I'm on the E-way like Andretti, my new car\nLoaded like I'm ready for Armageddon\nBoy, I came too far to let a nigga take me out this shit, now he a star\nNigga make me a block\nNigga make me a bar\nI'm all in his raps, smokin' me in his cigar\nI know a nigga so cold, he shoot at the opps out his sister car\nAnd it's over a bitch, your life ain't worth that pussy boy\nKnow you been getting played out all yo life, you pussy boy\n2Pac told you first, \"I ain't no killer, but don't push me\", boy\nSo don't push me, boy\nYou know I'm gon' pull it boy\nHere go a bullet, I ain't a bully\nMy auto fully\nI rep that No Limit shit to the fullest\nHop out in public, I'm thinking 'bout leaving the blick out\nI'ma tote my lil' shit in a hoodie\nCame up from nothing, I still can't believe I'm legit\nEverywhere I go I'm the shit\nBeen out here swaggin' like I'm that nigga ever since I was six\nAin't gotta ask a nigga for shit 'cause I'm fucking rich\nAin't nobody give me nothing\nWant a handout? Suck a dick\nBitch\nYou might also like[Outro]\nSouthside2Embed"
+  }
+ ]
+}

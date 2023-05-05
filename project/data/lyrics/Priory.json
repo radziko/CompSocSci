@@ -1,0 +1,1368 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/211077",
+ "description": {
+  "plain": "Priory is an American rock band consisting of Brandon Rush and Kyle Sears. The band formed in Portland, Oregon in 2009.\nThey are known for their electro-pop single \u201cWeekend\u201d."
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+ "id": 211077,
+ "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Priory",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Priory",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1745990,
+  "annotator_login": "specialise",
+  "api_path": "/referents/7029908",
+  "classification": "unreviewed",
+  "fragment": "Priory",
+  "id": 7029908,
+  "is_description": true,
+  "path": "/7029908/Priory/Priory",
+  "range": {
+   "content": "Priory"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7029908/Priory/Priory",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/211077",
+   "context": null,
+   "id": 211077,
+   "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+   "link_title": "Priory",
+   "title": "Priory",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Priory"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7029908",
+    "body": {
+     "plain": "Priory is an American rock band consisting of Brandon Rush and Kyle Sears. The band formed in Portland, Oregon in 2009.\nThey are known for their electro-pop single \u201cWeekend\u201d."
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7029908,
+    "pinned": false,
+    "share_url": "https://genius.com/7029908",
+    "source": null,
+    "state": "pending",
+    "url": "https://genius.com/7029908/Priory/Priory",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1745990",
+       "avatar": {
+        "tiny": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ix1g7rj3w8i",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ix1g7rj3w8i",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ix1g7rj3w8i",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/ix1g7rj3w8i",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/hs7qi3ulcvg",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1745990,
+       "iq": 2786,
+       "login": "specialise",
+       "name": "specialise",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/specialise",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 4,
+   "api_path": "/songs/741580",
+   "artist_names": "Priory",
+   "full_title": "Put 'Em Up by\u00a0Priory",
+   "header_image_thumbnail_url": "https://images.genius.com/b72bfe5cf40ec71fa42dc6f807467aac.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b72bfe5cf40ec71fa42dc6f807467aac.500x500x1.jpg",
+   "id": 741580,
+   "language": "en",
+   "lyrics_owner_id": 93685,
+   "lyrics_state": "complete",
+   "path": "/Priory-put-em-up-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Priory-put-em-up-sample",
+   "release_date_components": {
+    "year": 2015,
+    "month": 4,
+    "day": 3
+   },
+   "release_date_for_display": "April 3, 2015",
+   "release_date_with_abbreviated_month_for_display": "Apr. 3, 2015",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b72bfe5cf40ec71fa42dc6f807467aac.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b72bfe5cf40ec71fa42dc6f807467aac.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 11,
+    "iq_earners": 10,
+    "transcribers": 4,
+    "unreviewed_annotations": 4,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 7590
+   },
+   "title": "Put \u2019Em Up",
+   "title_with_featured": "Put 'Em Up",
+   "url": "https://genius.com/Priory-put-em-up-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/211077",
+    "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+    "id": 211077,
+    "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Priory",
+    "url": "https://genius.com/artists/Priory"
+   },
+   "apple_music_id": "920155284",
+   "apple_music_player_url": "https://genius.com/songs/741580/apple_music_player",
+   "description": {
+    "plain": "The second track of the album \u201cNeed to Know\u201d released April 3rd of 2015. Singer Brandon Rush says this song was inspired by his gay brother."
+   },
+   "embed_content": "<div id='rg_embed_link_741580' class='rg_embed_link' data-song-id='741580'>Read <a href='https://genius.com/Priory-put-em-up-lyrics'>\u201cPut 'Em Up\u201d by Priory</a> on Genius</div> <script crossorigin src='//genius.com/songs/741580/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "2015-04-03",
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122796",
+    "cover_art_url": "https://images.genius.com/66a11282ff6cb0d4e3b11ab64923a8ac.500x500x1.jpg",
+    "full_title": "Need to Know by Priory",
+    "id": 122796,
+    "name": "Need to Know",
+    "release_date_for_display": "April 3, 2015",
+    "url": "https://genius.com/albums/Priory/Need-to-know",
+    "artist": {
+     "api_path": "/artists/211077",
+     "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+     "id": 211077,
+     "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Priory",
+     "url": "https://genius.com/artists/Priory"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1817391,
+    "annotator_login": "heliophilia",
+    "api_path": "/referents/5165805",
+    "classification": "unreviewed",
+    "fragment": "Put \u2019Em Up",
+    "id": 5165805,
+    "is_description": true,
+    "path": "/5165805/Priory-put-em-up/Put-em-up",
+    "range": {
+     "content": "Put 'Em Up"
+    },
+    "song_id": 741580,
+    "url": "https://genius.com/5165805/Priory-put-em-up/Put-em-up",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/741580",
+     "client_timestamps": {
+      "updated_by_human_at": 1610642234,
+      "lyrics_updated_at": 1610642234
+     },
+     "context": "Priory",
+     "id": 741580,
+     "image_url": "https://images.genius.com/b72bfe5cf40ec71fa42dc6f807467aac.500x500x1.jpg",
+     "link_title": "Put \u2019Em Up by\u00a0Priory",
+     "title": "Put 'Em Up",
+     "type": "Song",
+     "url": "https://genius.com/Priory-put-em-up-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/5165805",
+      "body": {
+       "plain": "The second track of the album \u201cNeed to Know\u201d released April 3rd of 2015. Singer Brandon Rush says this song was inspired by his gay brother."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": true,
+      "id": 5165805,
+      "pinned": false,
+      "share_url": "https://genius.com/5165805",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/5165805/Priory-put-em-up/Put-em-up",
+      "verified": false,
+      "votes_total": 1,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1817391",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/dbda6f514ebccf461456cee619e324d2",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/dbda6f514ebccf461456cee619e324d2",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/dbda6f514ebccf461456cee619e324d2",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/dbda6f514ebccf461456cee619e324d2",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/dbda6f514ebccf461456cee619e324d2",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1817391,
+         "iq": 10255,
+         "login": "heliophilia",
+         "name": "heliophilia",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/heliophilia",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:2039juQOFMpEuA6P6oOMZ9",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/2039juQOFMpEuA6P6oOMZ9"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Uyr4CorsSqU"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Priory",
+   "lyrics": "11 ContributorsPut \u2019Em Up Lyrics[Verse 1]\nThey said when I was younger\nI had some kind of sickness\nSee how I have weathered\nYou tell me if I'm better\nIf my mother had her way, her\nHer son would be a preacher\nYou looking for redemption\nWe're bringing that old fashioned healing\n\n[Chorus]\nDon't make me put 'em up\nDon't make me put 'em up\nYou won't like me\nDon't make me put 'em up\nDon't make me put 'em up\nIt's not like me\n[Verse 2]\nBoys will be boys who like boys who dress like girls\nAnd that's alright\nWe're hanging with the boys that look like girls tonight\nGirls will be girls who like girls who dress like boys\nAnd start a fight\nWe're hanging with the girls that look like boys, all right\n\n[Chorus]\nDon't make me put 'em up\nDon't make me put 'em up\nYou won't like me\nDon't make me put 'em up\nDon't make me put 'em up\nIt's not like me\n\n[Bridge]\nIf my mother had her way, her\nHer son would be a preacher\nYou looking for redemption\nI bring that old fashioned healing\nI don't care if you're a Christian\nOr a Hare Krishna\nWho gave you the right to judge another's lover?\nNow's the time for changing\nSo keep the hate from creeping in\nCause the bed that you're building\nIs the one you gotta sleep in\nYou might also like[Chorus]\nDon't make me put 'em up\nDon't make me put 'em up\nYou won't like me\n(Come on, come on)\nDon't make me put 'em up\nDon't make me put 'em up\nIt's not like me\n\n[Verse 2]\nBoys will be boys who like boys who dress like girls\nAnd that's alright\nWe're hanging with the boys that look like girls tonight\nGirls will be girls who like girls who dress like boys\nAnd start a fight\nWe're hanging with the girls that look like boys, all right\nDon't make me put 'em up\nDon't make me put 'em up7Embed"
+  },
+  {
+   "annotation_count": 8,
+   "api_path": "/songs/486438",
+   "artist_names": "Priory",
+   "full_title": "Weekend by\u00a0Priory",
+   "header_image_thumbnail_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.640x640x1.jpg",
+   "id": 486438,
+   "language": "en",
+   "lyrics_owner_id": 45912,
+   "lyrics_state": "complete",
+   "path": "/Priory-weekend-lyrics",
+   "pyongs_count": 7,
+   "relationships_index_url": "https://genius.com/Priory-weekend-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.640x640x1.jpg",
+   "stats": {
+    "accepted_annotations": 1,
+    "contributors": 9,
+    "iq_earners": 9,
+    "transcribers": 1,
+    "unreviewed_annotations": 7,
+    "verified_annotations": 0,
+    "hot": false,
+    "pageviews": 5708
+   },
+   "title": "Weekend",
+   "title_with_featured": "Weekend",
+   "url": "https://genius.com/Priory-weekend-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/211077",
+    "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+    "id": 211077,
+    "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Priory",
+    "url": "https://genius.com/artists/Priory"
+   },
+   "apple_music_id": "920155285",
+   "apple_music_player_url": "https://genius.com/songs/486438/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_486438' class='rg_embed_link' data-song-id='486438'>Read <a href='https://genius.com/Priory-weekend-lyrics'>\u201cWeekend\u201d by Priory</a> on Genius</div> <script crossorigin src='//genius.com/songs/486438/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "see_pageviews",
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/122796",
+    "cover_art_url": "https://images.genius.com/66a11282ff6cb0d4e3b11ab64923a8ac.500x500x1.jpg",
+    "full_title": "Need to Know by Priory",
+    "id": 122796,
+    "name": "Need to Know",
+    "release_date_for_display": "April 3, 2015",
+    "url": "https://genius.com/albums/Priory/Need-to-know",
+    "artist": {
+     "api_path": "/artists/211077",
+     "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+     "id": 211077,
+     "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Priory",
+     "url": "https://genius.com/artists/Priory"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 45912,
+    "annotator_login": "YoungCocoaButter",
+    "api_path": "/referents/3610348",
+    "classification": "needs_exegesis",
+    "fragment": "Weekend",
+    "id": 3610348,
+    "is_description": true,
+    "path": "/3610348/Priory-weekend/Weekend",
+    "range": {
+     "content": "Weekend"
+    },
+    "song_id": 486438,
+    "url": "https://genius.com/3610348/Priory-weekend/Weekend",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/486438",
+     "client_timestamps": {
+      "updated_by_human_at": 1660928000,
+      "lyrics_updated_at": 1574992653
+     },
+     "context": "Priory",
+     "id": 486438,
+     "image_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.640x640x1.jpg",
+     "link_title": "Weekend by\u00a0Priory",
+     "title": "Weekend",
+     "type": "Song",
+     "url": "https://genius.com/Priory-weekend-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/3610348",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 3610348,
+      "pinned": false,
+      "share_url": "https://genius.com/3610348",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/3610348/Priory-weekend/Weekend",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/45912",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/tiny/45912_308129_10150477014769408_770899407_11341331_195181418_n.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/thumb/1358289009_45912_308129_10150477014769408_770899407_11341331_195181418_n.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/small/1358289010_45912_308129_10150477014769408_770899407_11341331_195181418_n.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289009_45912_308129_10150477014769408_770899407_11341331_195181418_n.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/rapgenius/avatars/medium/1358289009_45912_308129_10150477014769408_770899407_11341331_195181418_n.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 45912,
+         "iq": 43880,
+         "login": "YoungCocoaButter",
+         "name": "Young Cocoa Butter",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/YoungCocoaButter",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "native_uri": "spotify:track:6Drh25cclvIvKj2xyzqiwp",
+     "provider": "spotify",
+     "type": "audio",
+     "url": "https://open.spotify.com/track/6Drh25cclvIvKj2xyzqiwp"
+    },
+    {
+     "attribution": "prioryband",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/prioryband/priory-weekend"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=BYKIX8acceM"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": [
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2258979",
+       "artist_names": "Priory",
+       "full_title": "Weekend - Oliver Nelson Remix by\u00a0Priory",
+       "header_image_thumbnail_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.500x500x1.jpg",
+       "id": 2258979,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Priory-weekend-oliver-nelson-remix-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Priory-weekend-oliver-nelson-remix-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.500x500x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Weekend - Oliver Nelson Remix",
+       "title_with_featured": "Weekend - Oliver Nelson Remix",
+       "url": "https://genius.com/Priory-weekend-oliver-nelson-remix-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/211077",
+        "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+        "id": 211077,
+        "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Priory",
+        "url": "https://genius.com/artists/Priory"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Priory",
+   "lyrics": "9 ContributorsWeekend Lyrics[Hook]\nAnd all the kids now\nThey come runnin'\nIt's the weekend\nIt's the weekend\nAnd all the parents\nThey keep calling\nBut there's no answer\nCuz it's the weekend\n\n[Verse 1]\nWorking class to the bone\nAnd I know you're tired of hearing it\nIt's the weekend\nIt's the weekend\nThis right here is the D.O. proletariat\nIt's the weekend\nCome on the weekend\n[Chorus]\nHell yeah I just got paid\nIt's time to get this started\nWait 'till I stake my claim\nForget that I was ever your whipping boy\nTonight I just might lose my way\nBut I'll never get downhearted\nGood friends keep enemies at bay\nForget that I was ever your whipping boy\n\n[Hook]\nAnd all the kids now\nThey come runnin'\nIt's the weekend\nIt's the weekend\nAnd all the parents\nThey keep calling\nBut there's no answer\nCuz it's the weekend\n\n[Chorus]\nHell yeah I just got paid\nIt's time to get this started\nWait 'till I stake my claim\nForget that I was ever your whipping boy\nTonight I just might lose my way\nBut I'll never get downhearted\nGood friends keep enemies at bay\nForget that I was ever your whipping boy\nYou might also like[Verse 2]\nRest when we're old\nShould do as we're told\nBut I just can't help it\nI'll reach for the stove\nThe night closes in\nNow for the second act\nTell our friends go ahead\nCause we're hanging back\nYouth like a spark\nIt lights up the dark\nWe unlock the mystery\nI knew that you'd miss me\nMy mouth on your neck\nYour touch on my cheek\nLet hands guide the way\nAs we play hide and seek\n\n[Bridge]\nOh baby please stay true\nWhat you gonna do when I come for you uh oh\nOh baby please stay true\nWhat you gonna do\nMy arrows shoot for you\nMy arrow shoots so true\nThese arrows shoot for you\nMy arrow shoots so true\n[Chorus]\nHell yeah I just got paid\nIt's time to get this started\nWait 'till I stake my claim\nForget that I was ever your whipping boy\nTonight I just might lose my way\nBut I'll never get downhearted\nGood friends keep enemies at bay\nForget that I was ever your whipping boy\nHell yeah I just got paid\nIt's time to get this started\nWait 'till I stake my claim\nForget that I was ever your whipping boy\nTonight I just might lose my way\nBut I'll never get downhearted\nGood friends keep enemies at bay\nForget that I was ever your whipping boy7Embed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2258979",
+   "artist_names": "Priory",
+   "full_title": "Weekend - Oliver Nelson Remix by\u00a0Priory",
+   "header_image_thumbnail_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.500x500x1.jpg",
+   "id": 2258979,
+   "language": "en",
+   "lyrics_owner_id": 1549345,
+   "lyrics_state": "complete",
+   "path": "/Priory-weekend-oliver-nelson-remix-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Priory-weekend-oliver-nelson-remix-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.500x500x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Weekend - Oliver Nelson Remix",
+   "title_with_featured": "Weekend - Oliver Nelson Remix",
+   "url": "https://genius.com/Priory-weekend-oliver-nelson-remix-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/211077",
+    "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+    "id": 211077,
+    "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Priory",
+    "url": "https://genius.com/artists/Priory"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2258979/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2258979' class='rg_embed_link' data-song-id='2258979'>Read <a href='https://genius.com/Priory-weekend-oliver-nelson-remix-lyrics'>\u201cWeekend - Oliver Nelson Remix\u201d by Priory</a> on Genius</div> <script crossorigin src='//genius.com/songs/2258979/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "create_comment",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1549345,
+    "annotator_login": "pressburg",
+    "api_path": "/referents/7428470",
+    "classification": "needs_exegesis",
+    "fragment": "Weekend - Oliver Nelson Remix",
+    "id": 7428470,
+    "is_description": true,
+    "path": "/7428470/Priory-weekend-oliver-nelson-remix/Weekend-oliver-nelson-remix",
+    "range": {
+     "content": "Weekend - Oliver Nelson Remix"
+    },
+    "song_id": 2258979,
+    "url": "https://genius.com/7428470/Priory-weekend-oliver-nelson-remix/Weekend-oliver-nelson-remix",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2258979",
+     "client_timestamps": {
+      "updated_by_human_at": 1660928055,
+      "lyrics_updated_at": 1437656543
+     },
+     "context": "Priory",
+     "id": 2258979,
+     "image_url": "https://images.genius.com/12a36e1268e60d79fcfe9ca76589230d.500x500x1.jpg",
+     "link_title": "Weekend - Oliver Nelson Remix by\u00a0Priory",
+     "title": "Weekend - Oliver Nelson Remix",
+     "type": "Song",
+     "url": "https://genius.com/Priory-weekend-oliver-nelson-remix-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/7428470",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 7428470,
+      "pinned": false,
+      "share_url": "https://genius.com/7428470",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/7428470/Priory-weekend-oliver-nelson-remix/Weekend-oliver-nelson-remix",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1549345",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/04d14b7ca5774ab1736acddc83edd261",
+         "human_readable_role_for_display": null,
+         "id": 1549345,
+         "iq": 0,
+         "login": "pressburg",
+         "name": "pressburg",
+         "role_for_display": null,
+         "url": "https://genius.com/pressburg",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "attribution": "prioryband",
+     "provider": "soundcloud",
+     "type": "audio",
+     "url": "https://soundcloud.com/prioryband/priory-weekend-oliver-nelson-remix"
+    },
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=ay6X2nX3cUM"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/407986",
+     "header_image_url": "https://images.genius.com/c114050b2fc19d7046f5d8687e9f2946.1000x1000x1.jpg",
+     "id": 407986,
+     "image_url": "https://images.genius.com/c114050b2fc19d7046f5d8687e9f2946.1000x1000x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Oliver Nelson",
+     "url": "https://genius.com/artists/Oliver-nelson"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": [
+      {
+       "annotation_count": 8,
+       "api_path": "/songs/486438",
+       "artist_names": "Priory",
+       "full_title": "Weekend by\u00a0Priory",
+       "header_image_thumbnail_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.640x640x1.jpg",
+       "id": 486438,
+       "language": "en",
+       "lyrics_owner_id": 45912,
+       "lyrics_state": "complete",
+       "path": "/Priory-weekend-lyrics",
+       "pyongs_count": 7,
+       "relationships_index_url": "https://genius.com/Priory-weekend-sample",
+       "release_date_components": null,
+       "release_date_for_display": null,
+       "release_date_with_abbreviated_month_for_display": null,
+       "song_art_image_thumbnail_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/5fe400abf5cf3eb5cb789b92e9fc6079.640x640x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 7,
+        "hot": false,
+        "pageviews": 5708
+       },
+       "title": "Weekend",
+       "title_with_featured": "Weekend",
+       "url": "https://genius.com/Priory-weekend-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/211077",
+        "header_image_url": "https://images.genius.com/0a95453c0c0937cd316cfe91864ce57a.990x619x4.gif",
+        "id": 211077,
+        "image_url": "https://images.genius.com/844c874129967a9cb03db8dfec7d4cda.357x357x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Priory",
+        "url": "https://genius.com/artists/Priory"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Priory",
+   "lyrics": "3 ContributorsWeekend - Oliver Nelson Remix LyricsHell yeah, I just got paid\n\nIt's time to get this started\n\nWait 'till I stake my claim\n\nForget that I was ever your whipping boy\n\nTonight, I might just lose my way\n\nBut, I'll never get down-hearted\nGood friends keep enemies at bay\n\n'Cause it's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\n'Cause it's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\n'Cause it's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nHell yeah, I just got paid\nYou might also likeIt's time to get this started\n\nWait 'till I stake my claim\n\nForget that I was ever your whipping boy\n\nTonight, I might just lose my way\n\nBut, I'll never get down-hearted\n\nGood friends keep enemies at bay\n\nForget that I was ever your whipping boy\n\nHell yeah, I just got paid\n\nIt's time to get this started\n\nWait 'till I stake my claim\n\nForget that I was ever your whipping boy\n\nTonight, I might just lose my way\n\nBut, I'll never get down-hearted\nGood friends keep enemies at bay\n\n'Cause it's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nHell yeah, I just got paid\n\nIt's time to get this started\n\nWait 'till I stake my claim\n\nForget that I was ever your whipping boy\n\nTonight, I might just lose my way\n\nBut, I'll never get down-hearted\n\nGood friends keep enemies at bay\n\nForget that I was ever your whipping boy\n\nHell yeah, I just got paid\n\nIt's time to get this started\n\nWait 'till I stake my claim\n\nForget that I was ever your whipping boy\n\nTonight, I might just lose my way\n\nBut, I'll never get down-hearted\n\nGood friends keep enemies at bay\n\nForget that I was ever your whipping boy\n\n'Cause it's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekend\n\nIt's the weekendEmbed"
+  }
+ ]
+}
